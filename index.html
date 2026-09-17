@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="bg">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BG News Dashboard</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0b1220;color:#f7f9fc;font-family:Arial,Helvetica,sans-serif}
+header{height:13vh;padding:18px 30px;display:flex;justify-content:space-between;align-items:center;background:#111b2d;border-bottom:1px solid #26344d}
+h1{margin:0;font-size:32px}.meta{font-size:18px;color:#aebbd0;text-align:right}
+main{padding:22px 28px;display:grid;grid-template-columns:1.55fr 1fr;gap:22px;height:87vh}
+.panel{background:#111b2d;border-radius:18px;padding:22px;overflow:hidden}
+.panel h2{margin:0 0 15px;font-size:23px;color:#8ec5ff}
+.story{padding:14px 0;border-bottom:1px solid #26344d;cursor:pointer}
+.story:last-child{border-bottom:0}.story b{font-size:22px;line-height:1.2;display:block}
+.story span{display:block;margin-top:6px;color:#8e9db5;font-size:14px}
+.ticker{font-size:17px;color:#d8e0ec;margin-top:15px;white-space:nowrap;overflow:hidden}
+.clock{font-size:34px;font-weight:700}
+.badge{display:inline-block;background:#263a5c;border-radius:20px;padding:6px 11px;font-size:13px;margin-bottom:8px}
+.err{color:#ffb0b0;font-size:14px}
+@media(max-width:900px){main{grid-template-columns:1fr;height:auto}.story b{font-size:19px}}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>🇧🇬 Български новини</h1><div class="ticker">Обновяване на всеки 5 минути • докосни заглавие за пълната статия</div></div>
+  <div class="meta"><div id="clock" class="clock"></div><div id="date"></div></div>
+</header>
+<main>
+<section class="panel"><div class="badge">ПОСЛЕДНИ НОВИНИ</div><div id="news">Зареждам новини…</div></section>
+<section class="panel"><div class="badge">СПОРТ / СВЯТ</div><div id="side">Зареждам…</div></section>
+</main>
+<script>
+const feeds=[
+ {name:"БНТ",url:"https://news.bnt.bg/bg/rss/news.xml"},
+ {name:"Dnevnik",url:"https://www.dnevnik.bg/rss/"},
+ {name:"Novinite",url:"https://www.novinite.com/services/news_rss.php"}
+];
+const proxy=u=>"https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(u);
+let all=[];
+async function loadFeed(f){
+ try{
+  const r=await fetch(proxy(f.url),{cache:"no-store"}); const j=await r.json();
+  return (j.items||[]).slice(0,8).map(x=>({title:x.title,link:x.link,date:x.pubDate,source:f.name}));
+ }catch(e){return []}
+}
+async function load(){
+ const results=await Promise.all(feeds.map(loadFeed));
+ all=results.flat().sort((a,b)=>new Date(b.date)-new Date(a.date));
+ render();
+}
+function render(){
+ const main=all.slice(0,10), side=all.slice(10,18);
+ document.getElementById("news").innerHTML=main.length?main.map(story).join(""):'<div class="err">Новините временно не са налични.</div>';
+ document.getElementById("side").innerHTML=side.length?side.map(story).join(""):'<div class="err">Изчакай следващото обновяване.</div>';
+}
+function story(x){
+ return `<div class="story" onclick="window.open(${JSON.stringify(x.link)},'_blank')"><b>${escapeHtml(x.title)}</b><span>${escapeHtml(x.source)} • ${formatDate(x.date)}</span></div>`;
+}
+function escapeHtml(s){return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));}
+function formatDate(d){const x=new Date(d);return isNaN(x)?"" : x.toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});}
+function tick(){const n=new Date();document.getElementById("clock").textContent=n.toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});document.getElementById("date").textContent=n.toLocaleDateString("bg-BG",{weekday:"long",day:"numeric",month:"long"});}
+tick();setInterval(tick,1000);load();setInterval(load,300000);
+</script>
+</body>
+</html>
