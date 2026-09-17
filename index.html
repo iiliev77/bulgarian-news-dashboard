@@ -1,120 +1,747 @@
 <!doctype html>
+
 <html lang="bg">
+
 <head>
+
 <meta charset="utf-8">
+
 <meta name="viewport" content="width=device-width,initial-scale=1">
+
 <title>BG News Dashboard</title>
+
 <style>
-*{box-sizing:border-box}
-html,body{margin:0;background:#07101d;color:#fff;font-family:Arial,Helvetica,sans-serif}
-header{height:105px;padding:16px 28px;background:#111c2d;border-bottom:2px solid #2a3b58;display:flex;align-items:center;justify-content:space-between}
-.logo{font-size:32px;font-weight:700}.logo span{color:#d3a4ff}
-.clock{text-align:right}.time{font-size:30px;font-weight:700}.date{font-size:15px;color:#aab8cb;margin-top:3px}
-.status{padding:8px 28px;background:#0d1727;color:#91a1b7;font-size:14px}
-.status strong{color:#fff}
-#dashboard{padding:18px}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
-.category h2{font-size:22px;margin:0 0 11px;padding-bottom:8px;border-bottom:2px solid #344a6e}
-.card{display:block;background:#141f31;border:1px solid #293b59;border-radius:9px;overflow:hidden;margin-bottom:14px;text-decoration:none;color:#fff}
-.card:hover{background:#1c2a42}
-.card img{width:100%;height:135px;object-fit:cover;display:block;background:#263750}
-.content{padding:10px 11px 12px}
-.title{font-size:17px;font-weight:700;line-height:1.3}
-.source{font-size:12px;color:#8ea2bd;margin-top:7px}
-.msg{padding:28px;text-align:center;background:#141f31;border:1px solid #293b59;border-radius:9px;color:#aab8cb}
-footer{text-align:center;color:#667991;font-size:12px;padding:5px 20px 20px}
-@media(max-width:1200px){.grid{grid-template-columns:repeat(3,1fr)}}
-@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:600px){header{height:auto}.logo{font-size:22px}.time{font-size:22px}.grid{grid-template-columns:1fr}}
+
+* {
+
+  box-sizing: border-box;
+
+}
+
+body {
+
+  margin: 0;
+
+  background: #0b1220;
+
+  color: #f7f9fc;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+
+  height: 13vh;
+
+  padding: 18px 30px;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  background: #111a2e;
+
+  border-bottom: 1px solid #26324a;
+
+}
+
+.logo {
+
+  font-size: 32px;
+
+  font-weight: 700;
+
+}
+
+.clock {
+
+  font-size: 34px;
+
+  font-weight: 700;
+
+  text-align: right;
+
+}
+
+.date {
+
+  font-size: 18px;
+
+  opacity: .75;
+
+  margin-top: 3px;
+
+}
+
+main {
+
+  height: 87vh;
+
+  padding: 22px 30px;
+
+  display: grid;
+
+  grid-template-columns: 1.35fr 1fr;
+
+  gap: 24px;
+
+}
+
+.column {
+
+  min-width: 0;
+
+  overflow: hidden;
+
+}
+
+.section-title {
+
+  font-size: 22px;
+
+  font-weight: 700;
+
+  margin: 0 0 12px 0;
+
+  color: #9fc5ff;
+
+}
+
+.news-list {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 10px;
+
+}
+
+.story {
+
+  display: block;
+
+  text-decoration: none;
+
+  color: #ffffff;
+
+  background: #151f34;
+
+  border: 1px solid #25314a;
+
+  border-radius: 12px;
+
+  padding: 13px 16px;
+
+  transition: background .15s;
+
+}
+
+.story:hover,
+
+.story:active {
+
+  background: #22304a;
+
+}
+
+.story-title {
+
+  font-size: 20px;
+
+  font-weight: 700;
+
+  line-height: 1.25;
+
+}
+
+.story-meta {
+
+  margin-top: 7px;
+
+  font-size: 14px;
+
+  opacity: .65;
+
+}
+
+.empty {
+
+  padding: 20px;
+
+  background: #151f34;
+
+  border-radius: 12px;
+
+  opacity: .7;
+
+}
+
+.loading {
+
+  padding: 20px;
+
+  background: #151f34;
+
+  border-radius: 12px;
+
+  opacity: .7;
+
+}
+
+@media (max-width: 800px) {
+
+  header {
+
+    height: auto;
+
+    padding: 14px 18px;
+
+  }
+
+  .logo {
+
+    font-size: 23px;
+
+  }
+
+  .clock {
+
+    font-size: 25px;
+
+  }
+
+  .date {
+
+    font-size: 14px;
+
+  }
+
+  main {
+
+    height: auto;
+
+    grid-template-columns: 1fr;
+
+    padding: 15px 18px;
+
+  }
+
+  .story-title {
+
+    font-size: 18px;
+
+  }
+
+}
+
 </style>
+
 </head>
+
 <body>
 
 <header>
-  <div class="logo">🇧🇬 <span>BG News</span> Dashboard</div>
-  <div class="clock">
-    <div class="time" id="time">--:--</div>
-    <div class="date" id="date">--</div>
+
+  <div class="logo">
+
+    🇧🇬 Български новини
+
   </div>
+
+  <div>
+
+    <div id="clock" class="clock">--:--</div>
+
+    <div id="date" class="date">--</div>
+
+  </div>
+
 </header>
 
-<div class="status">
-  Източник: <strong>Blitz.bg</strong> · Последно обновяване:
-  <strong id="updated">зареждане...</strong> · обновяване на всеки 5 минути
-</div>
+<main>
 
-<div id="dashboard">
-  <div class="msg">Зареждам новините...</div>
-</div>
+  <section class="column">
 
-<footer>BG News Dashboard · Blitz.bg</footer>
+    <div class="section-title">
+
+      📰 Последни новини
+
+    </div>
+
+    <div id="news" class="news-list">
+
+      <div class="loading">
+
+        Зареждане на новините...
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section class="column">
+
+    <div class="section-title">
+
+      ⚽ Спорт
+
+    </div>
+
+    <div id="sports" class="news-list">
+
+      <div class="loading">
+
+        Зареждане на спортните новини...
+
+      </div>
+
+    </div>
+
+  </section>
+
+</main>
 
 <script>
-const WORKER="https://bulgarian-news-dashboard.iilievwork.workers.dev/";
-const FALLBACK=[
- "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=900&q=80",
- "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=900&q=80",
- "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=900&q=80",
- "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=900&q=80"
+
+/* =========================================
+
+   RSS FEEDS
+
+   ========================================= */
+
+const NEWS_FEEDS = [
+
+  "https://www.dariknews.bg/rss",
+
+  "https://www.dnes.bg/rss",
+
+  "https://www.actualno.com/rss",
+
+  "https://www.novinite.bg/rss"
+
 ];
 
-function clock(){
- const d=new Date();
- time.textContent=d.toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
- date.textContent=d.toLocaleDateString("bg-BG",{weekday:"long",day:"2-digit",month:"long"});
-}
-clock();setInterval(clock,1000);
+const SPORT_FEEDS = [
 
-function cat(item){
- const t=((item.category||"")+" "+(item.title||"")).toLowerCase();
- if(/спорт|футбол|цска|левски|лудогорец/.test(t))return"⚽ Спорт";
- if(/бизнес|иконом|пазар|евро/.test(t))return"💰 Бизнес";
- if(/технолог|изкуствен интелект|робот|ai/.test(t))return"💻 Технологии";
- if(/свят|германия|русия|украйна|америка|иран/.test(t))return"🌍 Свят";
- return"🇧🇬 България";
-}
+  "https://sportal.bg/rss",
 
-function card(item,i){
- const a=document.createElement("a");
- a.className="card";a.href=item.link||"#";a.target="_blank";a.rel="noopener noreferrer";
- const img=document.createElement("img");
- img.src=item.image||FALLBACK[i%FALLBACK.length];img.loading="lazy";
- img.onerror=()=>img.src=FALLBACK[i%FALLBACK.length];
- const c=document.createElement("div");c.className="content";
- const t=document.createElement("div");t.className="title";t.textContent=item.title||"Без заглавие";
- const s=document.createElement("div");s.className="source";s.textContent=(item.source||"Blitz.bg")+(item.time?" · "+item.time:"");
- c.append(t,s);a.append(img,c);return a;
+  "https://gong.bg/rss"
+
+];
+
+/* =========================================
+
+   RSS PROXY
+
+   ========================================= */
+
+function rssUrl(feed) {
+
+  return "https://api.allorigins.win/raw?url=" +
+
+    encodeURIComponent(feed);
+
 }
 
-async function load(){
- const root=document.getElementById("dashboard");
- root.innerHTML='<div class="msg">Зареждам новините от Blitz.bg...</div>';
- try{
-   const r=await fetch(WORKER+"?source=blitz&v="+Date.now(),{cache:"no-store"});
-   if(!r.ok)throw new Error("Worker HTTP "+r.status);
-   const data=await r.json();
-   if(!Array.isArray(data.items)||!data.items.length)throw new Error(data.error||"Няма новини");
-   const groups={"🇧🇬 България":[],"🌍 Свят":[],"⚽ Спорт":[],"💰 Бизнес":[],"💻 Технологии":[]};
-   data.items.forEach(x=>{const k=cat(x);if(groups[k]&&groups[k].length<5)groups[k].push(x)});
-   const grid=document.createElement("div");grid.className="grid";
-   Object.entries(groups).forEach(([name,items])=>{
-     if(!items.length)return;
-     const sec=document.createElement("section");sec.className="category";
-     const h=document.createElement("h2");h.textContent=name;sec.appendChild(h);
-     items.forEach((x,i)=>sec.appendChild(card(x,i)));
-     grid.appendChild(sec);
-   });
-   root.innerHTML="";root.appendChild(grid);
-   document.getElementById("updated").textContent=new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
- }catch(e){
-   console.error(e);
-   root.innerHTML='<div class="msg">Новините временно не могат да бъдат заредени.<br><br>Ще опитам отново автоматично.</div>';
- }
+/* =========================================
+
+   ESCAPE HTML
+
+   ========================================= */
+
+function escapeHtml(text) {
+
+  return String(text || "")
+
+    .replace(/&/g, "&amp;")
+
+    .replace(/</g, "&lt;")
+
+    .replace(/>/g, "&gt;")
+
+    .replace(/"/g, "&quot;")
+
+    .replace(/'/g, "&#039;");
+
 }
 
-load();
-setInterval(load,5*60*1000);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")load()});
+/* =========================================
+
+   FORMAT DATE
+
+   ========================================= */
+
+function formatDate(value) {
+
+  if (!value) return "";
+
+  const d = new Date(value);
+
+  if (isNaN(d.getTime())) {
+
+    return "";
+
+  }
+
+  return d.toLocaleString("bg-BG", {
+
+    day: "2-digit",
+
+    month: "2-digit",
+
+    hour: "2-digit",
+
+    minute: "2-digit"
+
+  });
+
+}
+
+/* =========================================
+
+   LOAD ONE RSS FEED
+
+   ========================================= */
+
+async function loadFeed(feed) {
+
+  try {
+
+    const response = await fetch(rssUrl(feed), {
+
+      cache: "no-store"
+
+    });
+
+    if (!response.ok) {
+
+      throw new Error("RSS error");
+
+    }
+
+    const text = await response.text();
+
+    const parser = new DOMParser();
+
+    const xml = parser.parseFromString(
+
+      text,
+
+      "text/xml"
+
+    );
+
+    const items = [...xml.querySelectorAll("item")];
+
+    return items.map(item => {
+
+      const title =
+
+        item.querySelector("title")?.textContent?.trim() || "";
+
+      const link =
+
+        item.querySelector("link")?.textContent?.trim() || "#";
+
+      const date =
+
+        item.querySelector("pubDate")?.textContent?.trim() || "";
+
+      const source =
+
+        feed
+
+          .replace("https://", "")
+
+          .split("/")[0]
+
+          .replace("www.", "");
+
+      return {
+
+        title,
+
+        link,
+
+        date,
+
+        source
+
+      };
+
+    });
+
+  } catch (error) {
+
+    console.log("RSS error:", feed, error);
+
+    return [];
+
+  }
+
+}
+
+/* =========================================
+
+   LOAD MULTIPLE FEEDS
+
+   ========================================= */
+
+async function loadFeeds(feeds) {
+
+  const results =
+
+    await Promise.all(
+
+      feeds.map(feed => loadFeed(feed))
+
+    );
+
+  let all = [];
+
+  results.forEach(items => {
+
+    all = all.concat(items);
+
+  });
+
+  return all;
+
+}
+
+/* =========================================
+
+   SORT NEWS
+
+   ========================================= */
+
+function sortNews(items) {
+
+  return items.sort((a, b) => {
+
+    const da = new Date(a.date).getTime() || 0;
+
+    const db = new Date(b.date).getTime() || 0;
+
+    return db - da;
+
+  });
+
+}
+
+/* =========================================
+
+   CREATE STORY HTML
+
+   ========================================= */
+
+function story(item) {
+
+  const title =
+
+    escapeHtml(item.title);
+
+  const source =
+
+    escapeHtml(item.source);
+
+  const date =
+
+    formatDate(item.date);
+
+  const link =
+
+    item.link || "#";
+
+  return `
+
+    <a
+
+      class="story"
+
+      href="${link}"
+
+      target="_blank"
+
+      rel="noopener noreferrer"
+
+    >
+
+      <div class="story-title">
+
+        ${title}
+
+      </div>
+
+      <div class="story-meta">
+
+        ${source}
+
+        ${date ? " • " + date : ""}
+
+      </div>
+
+    </a>
+
+  `;
+
+}
+
+/* =========================================
+
+   RENDER
+
+   ========================================= */
+
+function render(items, elementId) {
+
+  const element =
+
+    document.getElementById(elementId);
+
+  if (!items.length) {
+
+    element.innerHTML =
+
+      '<div class="empty">Няма налични новини.</div>';
+
+    return;
+
+  }
+
+  const limited =
+
+    items.slice(0, 10);
+
+  element.innerHTML =
+
+    limited.map(story).join("");
+
+}
+
+/* =========================================
+
+   LOAD ALL NEWS
+
+   ========================================= */
+
+async function loadNews() {
+
+  const news =
+
+    await loadFeeds(NEWS_FEEDS);
+
+  const sports =
+
+    await loadFeeds(SPORT_FEEDS);
+
+  render(
+
+    sortNews(news),
+
+    "news"
+
+  );
+
+  render(
+
+    sortNews(sports),
+
+    "sports"
+
+  );
+
+}
+
+/* =========================================
+
+   CLOCK
+
+   ========================================= */
+
+function tick() {
+
+  const now =
+
+    new Date();
+
+  document.getElementById("clock")
+
+    .textContent =
+
+      now.toLocaleTimeString(
+
+        "bg-BG",
+
+        {
+
+          hour: "2-digit",
+
+          minute: "2-digit"
+
+        }
+
+      );
+
+  document.getElementById("date")
+
+    .textContent =
+
+      now.toLocaleDateString(
+
+        "bg-BG",
+
+        {
+
+          weekday: "long",
+
+          day: "numeric",
+
+          month: "long"
+
+        }
+
+      );
+
+}
+
+/* =========================================
+
+   START
+
+   ========================================= */
+
+tick();
+
+setInterval(
+
+  tick,
+
+  1000
+
+);
+
+loadNews();
+
+/* Обновяване на новините
+
+   на всеки 5 минути */
+
+setInterval(
+
+  loadNews,
+
+  300000
+
+);
+
 </script>
+
 </body>
+
 </html>
