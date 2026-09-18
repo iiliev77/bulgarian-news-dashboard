@@ -117,6 +117,9 @@ async function loadAll(){
 }
 
 loadAll();
+
+// Автоматично обновяване на новините на всеки 5 минути
+setInterval(loadAll, 5 * 60 * 1000);
 </script>
 </body>
 </html>
