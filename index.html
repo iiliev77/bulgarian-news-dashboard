@@ -32,7 +32,7 @@ a:hover{text-decoration:underline}
 <body>
 <div class="wrap">
   <h1>🇧🇬 Български новини</h1>
-  <div class="sub">Последни публикации от DarikNews.bg и Gong.bg · без RSS · автоматично обновяване</div>
+  <div class="sub">Последни публикации от DarikNews.bg и dsport.bg · без RSS · автоматично обновяване</div>
   <div class="status" id="status">Зареждане...</div>
 
   <div class="grid">
@@ -45,7 +45,7 @@ a:hover{text-decoration:underline}
     <section class="card">
       <h2>⚽ Спорт</h2>
       <div id="sport" class="loading">Зареждане...</div>
-      <div class="source">Източник: Gong.bg</div>
+      <div class="source">Източник: dsport.bg</div>
     </section>
   </div>
 </div>
@@ -61,8 +61,8 @@ const sources = {
     box: "news"
   },
   sport: {
-    url: "https://www.gong.bg/",
-    name: "Gong.bg",
+    url: "https://www.dsport.bg/",
+    name: "dsport.bg",
     box: "sport"
   }
 };
@@ -186,7 +186,7 @@ function render(id,items){
   }
   box.innerHTML="<ul>"+items.slice(0,MAX_ITEMS).map((x,i)=>
     `<li><a href="${x.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(x.title)}</a>
-     <span class="time">DarikNews.bg / Gong.bg · актуално</span></li>`
+     <span class="time">DarikNews.bg / dsport.bg · актуално</span></li>`
   ).join("")+"</ul>";
 }
 
