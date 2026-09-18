@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta http-equiv="refresh" content="3600">
 <title>🇧🇬 Български новини</title>
 <style>
 *{box-sizing:border-box}
@@ -13,125 +12,122 @@ body{padding:34px 18px 60px}
 h1{font-size:36px;margin:0 0 8px;font-weight:800}
 .sub{color:#8fa5c2;font-size:17px;margin-bottom:28px}
 h2{font-size:30px;margin:24px 0 12px}
-.box{border:2px solid #29466d;border-radius:30px;padding:22px 22px 18px;margin-bottom:26px;background:rgba(7,16,29,.72)}
+.box{border:2px solid #29466d;border-radius:30px;padding:22px;margin-bottom:26px;background:rgba(7,16,29,.72)}
 .source{color:#8fa5c2;font-size:17px;margin-bottom:10px}
-.status{color:#ffaaa8;font-size:18px}
+.status{color:#ffaaa8;font-size:18px;padding:8px 0}
 .item{display:block;text-decoration:none;color:#f4f7ff;border-top:1px solid #203553;padding:14px 2px 12px}
 .item:first-child{border-top:0}
 .title{font-size:20px;line-height:1.3;font-weight:700}
 .time{color:#7890ae;font-size:14px;margin-top:5px}
-.footer{color:#8fa5c2;font-size:16px;line-height:1.5;margin-top:12px}
-.ok{color:#9fc5ff}
-@media(max-width:600px){
- body{padding:22px 12px 40px} h1{font-size:30px} h2{font-size:26px}
- .box{border-radius:22px;padding:18px}
- .title{font-size:18px}
-}
+.footer{color:#8fa5c2;font-size:15px;line-height:1.5;margin-top:12px}
+.updated{color:#9fc5ff;font-size:14px;margin-top:14px}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>🇧🇬 Български новини</h1>
-  <div class="sub">Последни публикации • автоматично обновяване на всяка 1 минута</div>
+<h1>🇧🇬 Български новини</h1>
+<div class="sub">Последни публикации • автоматично обновяване на всяка 1 минута</div>
 
-  <h2>📰 Новини</h2>
-  <div class="box">
-    <div class="source">DarikNews.bg</div>
-    <div id="darik" class="status">Зареждам последните новини…</div>
-  </div>
+<h2>📰 Новини</h2>
+<div class="box">
+<div class="source">DarikNews.bg</div>
+<div id="darik" class="status">Зареждам последните новини…</div>
+</div>
 
-  <h2>⚽ Спорт</h2>
-  <div class="box">
-    <div class="source">Gong.bg</div>
-    <div id="gong" class="status">Зареждам последните спортни новини…</div>
-  </div>
+<h2>⚽ Спорт</h2>
+<div class="box">
+<div class="source">Gong.bg</div>
+<div id="gong" class="status">Зареждам последните спортни новини…</div>
+</div>
 
-  <div class="footer">
-    Автоматично обновяване: всяка 1 минута • Без снимки<br>
-    Заглавията и връзките водят към оригиналните публикации.
-  </div>
+<div class="updated" id="updated">Последно обновяване: —</div>
+<div class="footer">Автоматично обновяване: всяка 1 минута • Без снимки<br>
+Заглавията и връзките водят към оригиналните публикации.</div>
 </div>
 
 <script>
-const FEEDS = {
-  darik: "https://dariknews.bg/rss.php",
-  gong: "https://gong.bg/rss"
+const feeds={
+ darik:"https://news.google.com/rss/search?q=site%3Adariknews.bg%20when%3A1d&hl=bg&gl=BG&ceid=BG%3Abg",
+ gong:"https://news.google.com/rss/search?q=site%3Agong.bg%20when%3A1d&hl=bg&gl=BG&ceid=BG%3Abg"
 };
 
-function cleanText(s){
-  const d=document.createElement("div");
-  d.innerHTML=s||"";
-  return (d.textContent||d.innerText||"").replace(/\s+/g," ").trim();
+function esc(s){
+ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
 }
-
-function escapeHtml(s){
-  return String(s).replace(/[&<>"']/g, c => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-  }[c]));
+function clean(s){
+ const d=document.createElement("div"); d.innerHTML=s||"";
+ return (d.textContent||"").replace(/\s+/g," ").trim();
 }
-
-function render(el, items){
-  if(!items.length){
-    el.innerHTML='<div class="status">Няма налични новини в момента.</div>';
-    return;
-  }
-  el.innerHTML=items.slice(0,10).map(x=>{
-    const title=cleanText(x.title)||"Без заглавие";
-    const link=x.link||"#";
-    let date="";
-    if(x.pubDate){
-      const d=new Date(x.pubDate);
-      if(!isNaN(d)) date=d.toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
-    }
-    return `<a class="item" href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">
-      <div class="title">${escapeHtml(title)}</div>
-      ${date?`<div class="time">${date}</div>`:""}
-    </a>`;
-  }).join("");
+function render(id,items){
+ const el=document.getElementById(id);
+ const seen=new Set();
+ const good=items.filter(x=>{
+   const t=clean(x.title);
+   if(!t||seen.has(t)) return false;
+   seen.add(t); return true;
+ }).slice(0,10);
+ if(!good.length){
+   el.innerHTML='<div class="status">Няма налични новини в момента.</div>'; return;
+ }
+ el.innerHTML=good.map(x=>{
+   const title=clean(x.title);
+   const link=x.link||"#";
+   let dt="";
+   if(x.pubDate){
+     const d=new Date(x.pubDate);
+     if(!isNaN(d)) dt=d.toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+   }
+   return `<a class="item" href="${esc(link)}" target="_blank" rel="noopener noreferrer">
+   <div class="title">${esc(title)}</div>
+   ${dt?`<div class="time">${dt}</div>`:""}</a>`;
+ }).join("");
 }
-
-async function rss2json(url){
-  const endpoint="https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(url)+"&_="+Date.now();
-  const r=await fetch(endpoint,{cache:"no-store"});
-  if(!r.ok) throw new Error("rss2json HTTP "+r.status);
-  const j=await r.json();
-  if(j.status && j.status!=="ok") throw new Error(j.message||"RSS2JSON error");
-  return j.items||[];
+async function getRSS(url){
+ const u=url+"&_="+Date.now();
+ const a="https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(u);
+ try{
+   const r=await fetch(a,{cache:"no-store"});
+   if(r.ok){
+     const j=await r.json();
+     if(j.status==="ok" && Array.isArray(j.items) && j.items.length) return j.items;
+   }
+ }catch(e){}
+ const b="https://api.allorigins.win/raw?url="+encodeURIComponent(u);
+ const r2=await fetch(b,{cache:"no-store"});
+ if(!r2.ok) throw new Error("RSS unavailable");
+ const xml=await r2.text();
+ const doc=new DOMParser().parseFromString(xml,"text/xml");
+ return [...doc.querySelectorAll("item")].map(i=>({
+   title:i.querySelector("title")?.textContent||"",
+   link:i.querySelector("link")?.textContent||"",
+   pubDate:i.querySelector("pubDate")?.textContent||""
+ }));
 }
-
-async function allOrigins(url){
-  const endpoint="https://api.allorigins.win/raw?url="+encodeURIComponent(url)+"&_="+Date.now();
-  const r=await fetch(endpoint,{cache:"no-store"});
-  if(!r.ok) throw new Error("proxy HTTP "+r.status);
-  const xml=await r.text();
-  const doc=new DOMParser().parseFromString(xml,"text/xml");
-  if(doc.querySelector("parsererror")) throw new Error("invalid XML");
-  return [...doc.querySelectorAll("item")].map(item=>({
-    title:item.querySelector("title")?.textContent||"",
-    link:item.querySelector("link")?.textContent||"",
-    pubDate:item.querySelector("pubDate")?.textContent||""
-  }));
+async function load(id){
+ const el=document.getElementById(id);
+ try{
+   const items=await getRSS(feeds[id]);
+   render(id,items);
+ }catch(e){
+   console.error(id,e);
+   el.innerHTML='<div class="status">Временно няма връзка с източника. Следващият опит е автоматичен.</div>';
+ }
 }
-
-async function loadOne(id){
-  const el=document.getElementById(id);
-  const url=FEEDS[id];
-  try{
-    let items=[];
-    try{ items=await rss2json(url); }
-    catch(e){ items=await allOrigins(url); }
-    render(el,items);
-  }catch(e){
-    console.error(id,e);
-    el.innerHTML='<div class="status">Новините временно не могат да бъдат заредени. Ще опитам отново автоматично.</div>';
-  }
-}
-
 async function loadAll(){
-  await Promise.all([loadOne("darik"),loadOne("gong")]);
+ await Promise.all([load("darik"),load("gong")]);
+ document.getElementById("updated").textContent=
+   "Последно обновяване: "+new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit",second:"2-digit"});
 }
 loadAll();
+
+/* Обновяване на съдържанието всяка минута. */
 setInterval(loadAll,60000);
+
+/* Пълно презареждане на страницата на всеки 5 минути,
+   за да се избегне кеширане/заспиване на браузъра. */
+setInterval(()=>{
+ location.href=location.pathname+"?refresh="+Date.now();
+},300000);
 </script>
 </body>
 </html>
