@@ -1,1 +1,99 @@
+<!doctype html>
+<html lang="bg">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="refresh" content="900">
+<title>Български новини</title>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:#07111f;color:#fff;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+body{min-height:100vh}
+header{padding:22px 28px 16px;background:#0b1728;position:sticky;top:0;z-index:5;border-bottom:1px solid #24344a}
+h1{margin:0;font-size:32px}
+.sub{margin-top:5px;color:#9fb0c5;font-size:15px}
+#status{margin-top:12px;color:#8fa6bd;font-size:14px}
+main{max-width:1200px;margin:auto;padding:22px 28px 40px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+section{background:#101e30;border:1px solid #263951;border-radius:16px;overflow:hidden}
+.title{padding:15px 18px;font-size:21px;font-weight:700;background:#14253a;border-bottom:1px solid #263951}
+ul{list-style:none;margin:0;padding:0}
+li{border-bottom:1px solid #24364d}
+li:last-child{border-bottom:0}
+a{display:block;padding:14px 18px;color:#f4f7fb;text-decoration:none;font-size:17px;line-height:1.35}
+a:hover{background:#172a42}
+.time{display:block;color:#7f95ad;font-size:12px;margin-top:5px}
+.error{padding:18px;color:#ffb4b4}
+@media(max-width:800px){.grid{grid-template-columns:1fr}h1{font-size:27px}main{padding:16px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>🇧🇬 Български новини</h1>
+  <div class="sub">Актуални заглавия от български медии</div>
+  <div id="status">Зареждане на новините…</div>
+</header>
 
+<main>
+<div class="grid">
+<section><div class="title">📰 България</div><ul id="bg"><li>Зареждане…</li></ul></section>
+<section><div class="title">💼 Бизнес</div><ul id="business"><li>Зареждане…</li></ul></section>
+<section><div class="title">⚽ Спорт</div><ul id="sport"><li>Зареждане…</li></ul></section>
+<section><div class="title">🌍 Свят</div><ul id="world"><li>Зареждане…</li></ul></section>
+</div>
+</main>
+
+<script>
+const feeds = {
+  bg: "https://news.google.com/rss/search?q=България&hl=bg&gl=BG&ceid=BG:bg",
+  business: "https://news.google.com/rss/search?q=бизнес+България&hl=bg&gl=BG&ceid=BG:bg",
+  sport: "https://news.google.com/rss/search?q=спорт+България&hl=bg&gl=BG&ceid=BG:bg",
+  world: "https://news.google.com/rss/search?q=свят&hl=bg&gl=BG&ceid=BG:bg"
+};
+
+function cleanText(s){
+  const d=document.createElement("div");
+  d.innerHTML=s||"";
+  return d.textContent||d.innerText||"";
+}
+
+async function loadFeed(id,url){
+  const box=document.getElementById(id);
+  try{
+    const r=await fetch(url,{cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    const xml=await r.text();
+    const doc=new DOMParser().parseFromString(xml,"text/xml");
+    const items=[...doc.querySelectorAll("item")].slice(0,8);
+
+    if(!items.length) throw new Error("Няма резултати");
+
+    box.innerHTML=items.map(item=>{
+      const title=cleanText(item.querySelector("title")?.textContent);
+      const link=item.querySelector("link")?.textContent?.trim() || "#";
+      const date=item.querySelector("pubDate")?.textContent || "";
+      let time="";
+      if(date){
+        const dt=new Date(date);
+        if(!isNaN(dt)) time=dt.toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+      }
+      return `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${title}<span class="time">${time}</span></a></li>`;
+    }).join("");
+    return true;
+  }catch(e){
+    box.innerHTML='<li class="error">Този източник не отговори. Опитайте с Refresh.</li>';
+    return false;
+  }
+}
+
+async function start(){
+  const results=await Promise.all(Object.entries(feeds).map(([id,url])=>loadFeed(id,url)));
+  const ok=results.filter(Boolean).length;
+  document.getElementById("status").textContent=
+    ok===4 ? "✓ Новините са заредени • обновяване на всеки 15 минути"
+            : "Заредени секции: "+ok+"/4 • натиснете Refresh за нов опит";
+}
+start();
+</script>
+</body>
+</html>
