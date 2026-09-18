@@ -2,167 +2,136 @@
 <html lang="bg">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta http-equiv="Cache-Control" content="no-cache,no-store,must-revalidate">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#07101d">
 <title>🇧🇬 Български новини</title>
 <style>
 *{box-sizing:border-box}
-html,body{margin:0;padding:0;background:#071321;color:#f5f7fb;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+html,body{margin:0;background:#07101d;color:#f4f7fb;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
 body{min-height:100vh}
-header{padding:42px 22px 28px;max-width:1100px;margin:auto}
-h1{font-size:42px;margin:0 0 8px;font-weight:800}
-.sub{font-size:21px;color:#9eb0c5;margin-bottom:16px}
-.status{font-size:17px;color:#8fa7bf}
-#refresh{margin-top:18px;border:1px solid #38516d;background:#14263b;color:#fff;border-radius:12px;padding:11px 18px;font-size:16px}
-main{border-top:1px solid #263b52;padding:28px 22px 50px}
-.grid{max-width:1100px;margin:auto;display:grid;gap:22px}
-.card{background:#0e1d2d;border:2px solid #243b55;border-radius:24px;overflow:hidden}
-.title{padding:23px 26px;font-size:29px;font-weight:800;background:#15283e;border-bottom:2px solid #243b55}
-.items{padding:8px 24px 18px}
-.item{display:block;color:#fff;text-decoration:none;padding:17px 3px;border-bottom:1px solid #263b52}
+header{padding:42px 7vw 34px;border-bottom:2px solid #203750}
+h1{font-size:clamp(38px,6vw,72px);line-height:.98;margin:0 0 22px;font-weight:800}
+.sub{font-size:clamp(20px,3vw,34px);color:#9eb3ca;margin-bottom:24px}
+.status{font-size:18px;color:#9eb3ca;min-height:28px}
+button{margin-top:22px;background:#152b43;color:#fff;border:2px solid #355675;border-radius:22px;padding:17px 28px;font-size:22px;cursor:pointer}
+main{padding:42px 7vw 80px;display:grid;gap:34px}
+.card{background:#0d1d2d;border:4px solid #203d5b;border-radius:40px;overflow:hidden}
+.card h2{margin:0;padding:28px 34px;background:#162d45;border-bottom:4px solid #203d5b;font-size:clamp(30px,4vw,48px)}
+.items{padding:20px 28px 30px}
+.item{display:block;padding:20px 10px;border-bottom:1px solid #29435d;text-decoration:none;color:#f4f7fb}
 .item:last-child{border-bottom:0}
-.item:hover{background:#12263b}
-.headline{font-size:20px;line-height:1.3;font-weight:650}
-.meta{font-size:13px;color:#91a7bc;margin-top:7px}
-.error{padding:28px 25px;color:#ffb0b0;font-size:20px;line-height:1.45}
-.loading{padding:28px 25px;color:#9eb0c5;font-size:19px}
-@media(max-width:600px){
- header{padding:38px 30px 25px} h1{font-size:39px}.sub{font-size:20px}
- main{padding:30px}.title{font-size:28px;padding:21px 25px}.items{padding:8px 25px 15px}
- .headline{font-size:19px}
-}
+.item .title{font-size:clamp(21px,2.6vw,30px);font-weight:700;line-height:1.25}
+.item .meta{margin-top:8px;color:#91a9c0;font-size:15px}
+.empty{padding:42px 28px;color:#ffb0b0;font-size:24px;line-height:1.45}
+.ok{color:#9fe0b4}
+.err{color:#ffb0b0}
+footer{text-align:center;color:#718aa2;padding:0 20px 35px;font-size:14px}
 </style>
 </head>
 <body>
 <header>
-  <h1>🇧🇬 Български новини</h1>
+  <h1>🇧🇬 Български<br>новини</h1>
   <div class="sub">Актуални заглавия от български медии</div>
-  <div class="status" id="status">Зареждане на новини…</div>
-  <button id="refresh" onclick="loadAll()">↻ Обнови новините</button>
+  <div id="status" class="status">Зареждане на новините…</div>
+  <button onclick="loadAll()">↻ Обнови новините</button>
 </header>
 
-<main>
-<div class="grid">
-
-<section class="card">
-  <div class="title">📰 България</div>
-  <div class="items" id="bulgaria"><div class="loading">Зареждане…</div></div>
-</section>
-
-<section class="card">
-  <div class="title">💼 Бизнес</div>
-  <div class="items" id="business"><div class="loading">Зареждане…</div></div>
-</section>
-
-<section class="card">
-  <div class="title">⚽ Спорт</div>
-  <div class="items" id="sport"><div class="loading">Зареждане…</div></div>
-</section>
-
-<section class="card">
-  <div class="title">🌍 Свят</div>
-  <div class="items" id="world"><div class="loading">Зареждане…</div></div>
-</section>
-
-</div>
-</main>
+<main id="main"></main>
+<footer>Източник на заглавията: OFFNews RSS · Натиснете заглавие за пълната статия.</footer>
 
 <script>
-/*
-  Работи като статичен GitHub Pages сайт.
-  Новините се вземат през публичен CORS gateway, за да няма
-  директни RSS заявки от браузъра към различни медийни сайтове.
-*/
+const feeds = [
+  {name:"🇧🇬 България", url:"https://feed.offnews.bg/rss/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8_2"},
+  {name:"💼 Бизнес", url:"https://feed.offnews.bg/rss/%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_59"},
+  {name:"⚽ Спорт", url:"https://feed.offnews.bg/rss/%D0%A1%D0%BF%D0%BE%D1%80%D1%82_18752"},
+  {name:"🌍 Свят", url:"https://feed.offnews.bg/rss/%D0%A1%D0%B2%D1%8F%D1%82%20_12"}
+];
 
-const feeds = {
-  bulgaria: [
-    "https://news.google.com/rss/search?q=България&hl=bg&gl=BG&ceid=BG:bg"
-  ],
-  business: [
-    "https://news.google.com/rss/search?q=бизнес+България&hl=bg&gl=BG&ceid=BG:bg"
-  ],
-  sport: [
-    "https://news.google.com/rss/search?q=спорт+България&hl=bg&gl=BG&ceid=BG:bg"
-  ],
-  world: [
-    "https://news.google.com/rss/search?q=свят&hl=bg&gl=BG&ceid=BG:bg"
-  ]
-};
-
-const gateways = [
+const proxies = [
   u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+  u => "https://corsproxy.io/?" + encodeURIComponent(u),
   u => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(u)
 ];
 
+const main = document.getElementById("main");
+const statusEl = document.getElementById("status");
+
 function esc(s){
-  return String(s).replace(/[&<>"']/g, c => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
-  }[c]));
+  return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 }
 
-function parseRSS(text){
-  const xml = new DOMParser().parseFromString(text,"text/xml");
-  if(xml.querySelector("parsererror")) throw new Error("Невалиден RSS");
-  return [...xml.querySelectorAll("item")].slice(0,8).map(x => ({
-    title: x.querySelector("title")?.textContent?.trim() || "Без заглавие",
-    link: x.querySelector("link")?.textContent?.trim() || "#",
-    date: x.querySelector("pubDate")?.textContent?.trim() || "",
-    source: x.querySelector("source")?.textContent?.trim() || "Google News"
-  })).filter(x => x.title && x.link);
+function parseRSS(xml){
+  const doc = new DOMParser().parseFromString(xml,"text/xml");
+  if(doc.querySelector("parsererror")) throw new Error("RSS parse error");
+  let nodes = [...doc.querySelectorAll("item")];
+  if(!nodes.length) nodes = [...doc.querySelectorAll("entry")];
+  return nodes.slice(0,12).map(n=>{
+    const title = n.querySelector("title")?.textContent?.trim() || "Без заглавие";
+    let link = n.querySelector("link")?.getAttribute("href") || n.querySelector("link")?.textContent?.trim() || "#";
+    const date = n.querySelector("pubDate")?.textContent?.trim() || n.querySelector("published")?.textContent?.trim() || n.querySelector("updated")?.textContent?.trim() || "";
+    return {title,link,date};
+  }).filter(x=>x.title && x.link!=="#");
 }
 
-async function getFeed(url){
-  for(const gateway of gateways){
+async function fetchFeed(feed){
+  let lastErr;
+  for(const proxy of proxies){
     try{
       const controller = new AbortController();
-      const timer = setTimeout(()=>controller.abort(),9000);
-      const r = await fetch(gateway(url),{
-        cache:"no-store",
-        signal:controller.signal
-      });
+      const timer = setTimeout(()=>controller.abort(),10000);
+      const r = await fetch(proxy(feed.url),{cache:"no-store",signal:controller.signal});
       clearTimeout(timer);
-      if(!r.ok) continue;
+      if(!r.ok) throw new Error("HTTP "+r.status);
       const text = await r.text();
       const items = parseRSS(text);
       if(items.length) return items;
-    }catch(e){}
+      throw new Error("Няма публикации");
+    }catch(e){ lastErr=e; }
   }
-  throw new Error("Източникът не отговори");
+  throw lastErr || new Error("Неуспешно зареждане");
 }
 
-function render(id,items){
-  const box=document.getElementById(id);
-  box.innerHTML=items.map(x=>`
-    <a class="item" href="${esc(x.link)}" target="_blank" rel="noopener noreferrer">
-      <div class="headline">${esc(x.title)}</div>
-      <div class="meta">${esc(x.source)}${x.date ? " • "+esc(new Date(x.date).toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})) : ""}</div>
-    </a>
-  `).join("");
-}
-
-async function loadSection(id){
-  const box=document.getElementById(id);
-  box.innerHTML='<div class="loading">Зареждане…</div>';
-  try{
-    const items=await getFeed(feeds[id][0]);
-    render(id,items);
-    return true;
-  }catch(e){
-    box.innerHTML='<div class="error">Новините временно не могат да бъдат заредени.<br>Натиснете „Обнови новините“.</div>';
-    return false;
+function render(feed,items,error){
+  const card = document.createElement("section");
+  card.className="card";
+  let body="";
+  if(items && items.length){
+    body = '<div class="items">'+items.map(x=>{
+      let d="";
+      try{ d=x.date ? new Date(x.date).toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : ""; }catch(_){}
+      return `<a class="item" href="${esc(x.link)}" target="_blank" rel="noopener">
+        <div class="title">${esc(x.title)}</div>
+        ${d?`<div class="meta">${esc(d)}</div>`:""}
+      </a>`;
+    }).join("")+"</div>";
+  }else{
+    body='<div class="empty">Новините временно не могат да бъдат заредени.<br><br>Натиснете „Обнови новините“.</div>';
   }
+  card.innerHTML=`<h2>${esc(feed.name)}</h2>${body}`;
+  main.appendChild(card);
 }
 
 async function loadAll(){
-  const status=document.getElementById("status");
-  status.textContent="Зареждане на новини…";
-  const results=await Promise.all(Object.keys(feeds).map(loadSection));
-  const ok=results.filter(Boolean).length;
-  status.textContent=`Заредени секции: ${ok}/4 • Последно обновяване: ${new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"})}`;
+  main.innerHTML="";
+  statusEl.className="status";
+  statusEl.textContent="Зареждане на новините…";
+  let good=0;
+  const results = await Promise.all(feeds.map(async f=>{
+    try{
+      const items=await fetchFeed(f);
+      good++;
+      return {f,items};
+    }catch(e){
+      return {f,items:null,error:e};
+    }
+  }));
+  results.forEach(r=>render(r.f,r.items,r.error));
+  statusEl.className="status "+(good ? "ok":"err");
+  statusEl.textContent=`Заредени секции: ${good}/${feeds.length} · Последно обновяване: ${new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"})}`;
 }
 
 loadAll();
-setInterval(loadAll, 10*60*1000);
+setInterval(loadAll,10*60*1000);
 </script>
 </body>
 </html>
