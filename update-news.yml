@@ -1,0 +1,116 @@
+name: Update Bulgarian News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: python -m pip install requests beautifulsoup4
+
+      - name: Fetch latest news
+        run: |
+          cat > fetch_news.py <<'PY'
+          import json
+          import re
+          from datetime import datetime, timezone
+          from urllib.parse import urljoin
+
+          import requests
+          from bs4 import BeautifulSoup
+
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (X11; Linux x86_64) "
+                  "AppleWebKit/537.36 Chrome/140 Safari/537.36"
+              )
+          }
+
+          def get_page(url):
+              r = requests.get(url, headers=HEADERS, timeout=25)
+              r.raise_for_status()
+              return BeautifulSoup(r.text, "html.parser")
+
+          def extract_articles(url, pattern, limit=12):
+              soup = get_page(url)
+              result = []
+              seen = set()
+
+              for a in soup.find_all("a", href=True):
+                  href = urljoin(url, a["href"])
+                  title = " ".join(a.get_text(" ", strip=True).split())
+
+                  if not title or len(title) < 12:
+                      continue
+
+                  if not re.search(pattern, href):
+                      continue
+
+                  if href in seen:
+                      continue
+
+                  # Avoid navigation/tag/category pages.
+                  if title.lower() in {
+                      "виж всички", "начало", "новини", "спорт",
+                      "контакти", "абонамент", "реклама"
+                  }:
+                      continue
+
+                  seen.add(href)
+                  result.append({
+                      "title": title,
+                      "url": href
+                  })
+
+                  if len(result) >= limit:
+                      break
+
+              return result
+
+          data = {
+              "updated_at": datetime.now(timezone.utc).isoformat(),
+              "darik": extract_articles(
+                  "https://dariknews.bg/novini",
+                  r"dariknews\.bg/.+-\d+/?$",
+                  12
+              ),
+              "dsport": extract_articles(
+                  "https://dsport.bg/novini.html",
+                  r"dsport\.bg/.+~\d+\.html$",
+                  12
+              )
+          }
+
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print("Darik:", len(data["darik"]))
+          print("Dsport:", len(data["dsport"]))
+
+          if not data["darik"]:
+              raise SystemExit("ERROR: Darik returned 0 articles")
+
+          if not data["dsport"]:
+              raise SystemExit("ERROR: Dsport returned 0 articles")
+          PY
+
+          python fetch_news.py
+
+      - name: Commit updated news.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "Update latest Bulgarian news"
+          git push
