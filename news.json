@@ -1,6 +1,10 @@
 {
-  "updated": "2026-09-18T18:22:19.710194+00:00",
+  "updated": "2026-09-18T18:34:20.493260+00:00",
   "news": [
+    {
+      "title": "Земетресение с магнитуд 4,8 удари край столицата на Чили",
+      "url": "https://dariknews.bg/novini/sviat/zemetresenie-s-magnitud-48-udari-kraj-stolicata-na-chili-2466882"
+    },
     {
       "title": "Манолова: КЗП санкционира топлинни счетоводители, вдигнали цените с до 40% (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/manolova-kzp-sankcionira-toplinni-schetovoditeli-vdignali-cenite-s-do-40-video-2466879"
@@ -36,10 +40,6 @@
     {
       "title": "По случая „Баба Алино“ се проверяват 12 нотариуса, при двама вече има дисциплинарни дела",
       "url": "https://dariknews.bg/novini/bylgariia/po-sluchaia-baba-alino-se-proveriavat-12-notariusa-pri-dvama-veche-ima-disciplinarni-dela-2466864"
-    },
-    {
-      "title": "Министерството на земеделието: Не изкривявайте фактите за мерките на правителството",
-      "url": "https://dariknews.bg/novini/bylgariia/ministerstvoto-na-zemedelieto-ne-izkriviavajte-faktite-za-merkite-na-pravitelstvoto-2466863"
     }
   ],
   "sport": [
@@ -69,7 +69,7 @@
     },
     {
       "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-vodi-sreshtu-daniia-za-kupa-dejvis-906534"
+      "url": "https://gong.bg/tenis/maje/bylgariia-daniia-11-pri-zavryshtaneto-na-grigor-906534"
     },
     {
       "title": "Live Livestream",
