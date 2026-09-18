@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache,no-store,must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>🇧🇬 Български новини</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#061c2b;color:#eef6fb;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+.wrap{max-width:1500px;margin:0 auto;padding:38px 32px}
+h1{font-size:38px;margin:0 0 10px;font-weight:800}
+.sub{font-size:21px;color:#94afc0;margin-bottom:8px}
+.status{font-size:15px;color:#91aabd;margin-bottom:28px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+.card{border:2px solid #00b7f4;border-radius:30px;padding:26px 28px;min-height:420px;background:#082337}
+.card h2{font-size:30px;margin:0 0 18px}
+ul{list-style:none;padding:0;margin:0}
+li{padding:13px 0;border-bottom:1px solid rgba(255,255,255,.12)}
+li:last-child{border-bottom:0}
+a{color:#f2f8fc;text-decoration:none;font-size:19px;line-height:1.35}
+a:hover{text-decoration:underline}
+.time{display:block;color:#86a5b8;font-size:13px;margin-top:5px}
+.loading{color:#c5d5df;font-size:18px}
+.error{color:#ffb4b4;font-size:16px;line-height:1.5}
+.source{font-size:13px;color:#6f91a5;margin-top:18px}
+@media(max-width:900px){.grid{grid-template-columns:1fr}.wrap{padding:24px 18px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🇧🇬 Български новини</h1>
+  <div class="sub">Последни публикации от DarikNews.bg и dsport.bg · без RSS · автоматично обновяване</div>
+  <div class="status" id="status">Зареждане...</div>
+
+  <div class="grid">
+    <section class="card">
+      <h2>📰 Новини</h2>
+      <div id="news" class="loading">Зареждане...</div>
+      <div class="source">Източник: DarikNews.bg</div>
+    </section>
+
+    <section class="card">
+      <h2>⚽ Спорт</h2>
+      <div id="sport" class="loading">Зареждане...</div>
+      <div class="source">Източник: dsport.bg</div>
+    </section>
+  </div>
+</div>
+
+<script>
+const UPDATE_MS = 60 * 1000;
+const MAX_ITEMS = 12;
+
+const sources = {
+  news: {
+    url: "https://www.dariknews.bg/novini",
+    name: "DarikNews.bg",
+    box: "news"
+  },
+  sport: {
+    url: "https://www.dsport.bg/",
+    name: "dsport.bg",
+    box: "sport"
+  }
+};
+
+/*
+  GitHub Pages cannot reliably scrape Darik/Gong directly because of
+  browser CORS restrictions. This page therefore uses a public read-only
+  page proxy. It does NOT use RSS and does NOT use Cloudflare Worker.
+*/
+const proxies = [
+  u => "https://r.jina.ai/http://" + u.replace(/^https?:\/\//,""),
+  u => "https://r.jina.ai/" + u,
+  u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+  u => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(u)
+];
+
+function cleanText(s){
+  return (s || "").replace(/\s+/g," ").trim();
+}
+
+function absoluteUrl(href, base){
+  try { return new URL(href, base).href; } catch(e){ return ""; }
+}
+
+function isBadTitle(t){
+  const x=t.toLowerCase();
+  return !t || t.length < 18 ||
+    ["виж още","последни","акценти","водещи","всичко от днес",
+     "гласувай за играч на мача","live livestream","vgong games",
+     "програма","форум","още спорт"].includes(x);
+}
+
+function parseMarkdown(text, sourceUrl){
+  const items=[];
+  const seen=new Set();
+
+  // Jina Reader normally returns markdown links and headings.
+  const re=/^#{1,4}\s+(.+?)\s*$/gm;
+  let m;
+  while((m=re.exec(text)) && items.length < 40){
+    let title=cleanText(m[1].replace(/\[(.*?)\]\(.*?\)/g,"$1"));
+    title=title.replace(/^#+\s*/,"").trim();
+    if(isBadTitle(title)) continue;
+
+    // Find a URL near the heading (next ~700 chars).
+    const near=text.slice(m.index, m.index+900);
+    const lm=near.match(/\]\((https?:\/\/[^)\s]+)\)/);
+    let url=lm ? lm[1] : "";
+    if(!url){
+      const am=near.match(/https?:\/\/[^\s)]+/);
+      if(am) url=am[0];
+    }
+    if(!url) continue;
+
+    if(!/dariknews\.bg|gong\.bg/i.test(url)) continue;
+    if(seen.has(url)) continue;
+    seen.add(url);
+    items.push({title,url});
+  }
+  return items;
+}
+
+function parseHTML(text, sourceUrl){
+  const doc=new DOMParser().parseFromString(text,"text/html");
+  const items=[],seen=new Set();
+
+  const nodes=[...doc.querySelectorAll("h1 a,h2 a,h3 a,h4 a,h1,h2,h3,h4")];
+  for(const n of nodes){
+    let title=cleanText(n.textContent);
+    if(isBadTitle(title)) continue;
+
+    let a=n.matches("a") ? n : n.querySelector("a");
+    let url=a ? absoluteUrl(a.getAttribute("href"),sourceUrl) : "";
+    if(!url && n.parentElement){
+      a=n.parentElement.querySelector("a[href]");
+      if(a) url=absoluteUrl(a.getAttribute("href"),sourceUrl);
+    }
+    if(!url || !/dariknews\.bg|gong\.bg/i.test(url)) continue;
+    if(url===sourceUrl || seen.has(url)) continue;
+
+    seen.add(url);
+    items.push({title,url});
+    if(items.length>=40) break;
+  }
+  return items;
+}
+
+function parse(text, sourceUrl){
+  // Jina is markdown; normal proxies usually return HTML.
+  if(/<html|<body|<article|<h1/i.test(text)) return parseHTML(text,sourceUrl);
+  return parseMarkdown(text,sourceUrl);
+}
+
+async function getText(url){
+  let lastErr=null;
+  for(const makeProxy of proxies){
+    try{
+      const endpoint=makeProxy(url);
+      const controller=new AbortController();
+      const timer=setTimeout(()=>controller.abort(),12000);
+      const r=await fetch(endpoint,{
+        cache:"no-store",
+        signal:controller.signal,
+        headers:{"Accept":"text/plain,text/html,*/*"}
+      });
+      clearTimeout(timer);
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      const text=await r.text();
+      if(text && text.length>500) return text;
+      throw new Error("Празен отговор");
+    }catch(e){ lastErr=e; }
+  }
+  throw lastErr || new Error("Неуспешно зареждане");
+}
+
+function render(id,items){
+  const box=document.getElementById(id);
+  if(!items.length){
+    box.innerHTML='<div class="error">Не бяха намерени публикации. Натиснете ⟳ за нов опит.</div>';
+    return;
+  }
+  box.innerHTML="<ul>"+items.slice(0,MAX_ITEMS).map((x,i)=>
+    `<li><a href="${x.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(x.title)}</a>
+     <span class="time">DarikNews.bg / dsport.bg · актуално</span></li>`
+  ).join("")+"</ul>";
+}
+
+function escapeHtml(s){
+  return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
+}
+
+async function loadOne(key){
+  const s=sources[key];
+  try{
+    const raw=await getText(s.url);
+    let items=parse(raw,s.url);
+
+    // Remove obvious duplicate titles and keep the first/current occurrence.
+    const seen=new Set();
+    items=items.filter(x=>{
+      const k=x.title.toLowerCase();
+      if(seen.has(k)) return false;
+      seen.add(k); return true;
+    });
+
+    render(s.box,items);
+    return items.length;
+  }catch(e){
+    document.getElementById(s.box).innerHTML =
+      '<div class="error">Временно няма връзка с '+s.name+'.<br>Автоматичният опит ще продължи.</div>';
+    return 0;
+  }
+}
+
+async function loadAll(){
+  document.getElementById("status").textContent="Обновяване...";
+  const counts=await Promise.all([loadOne("news"),loadOne("sport")]);
+  const now=new Date();
+  document.getElementById("status").textContent =
+    `Последна проверка: ${now.toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit",second:"2-digit"})} · следваща след 1 минута`;
+}
+
+loadAll();
+setInterval(loadAll, UPDATE_MS);
+</script>
+</body>
+</html>
