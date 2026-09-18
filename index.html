@@ -3,135 +3,120 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#07101d">
 <title>🇧🇬 Български новини</title>
 <style>
 *{box-sizing:border-box}
-html,body{margin:0;background:#07101d;color:#f4f7fb;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
-body{min-height:100vh}
-header{padding:42px 7vw 34px;border-bottom:2px solid #203750}
-h1{font-size:clamp(38px,6vw,72px);line-height:.98;margin:0 0 22px;font-weight:800}
-.sub{font-size:clamp(20px,3vw,34px);color:#9eb3ca;margin-bottom:24px}
-.status{font-size:18px;color:#9eb3ca;min-height:28px}
-button{margin-top:22px;background:#152b43;color:#fff;border:2px solid #355675;border-radius:22px;padding:17px 28px;font-size:22px;cursor:pointer}
-main{padding:42px 7vw 80px;display:grid;gap:34px}
-.card{background:#0d1d2d;border:4px solid #203d5b;border-radius:40px;overflow:hidden}
-.card h2{margin:0;padding:28px 34px;background:#162d45;border-bottom:4px solid #203d5b;font-size:clamp(30px,4vw,48px)}
-.items{padding:20px 28px 30px}
-.item{display:block;padding:20px 10px;border-bottom:1px solid #29435d;text-decoration:none;color:#f4f7fb}
+html,body{margin:0;background:#07111f;color:#f4f7fb;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+body{padding:34px 22px 60px}
+.wrap{max-width:1100px;margin:auto}
+h1{font-size:54px;line-height:1.05;margin:20px 0 12px;font-weight:800}
+.sub{font-size:24px;color:#9fb0c7;line-height:1.4}
+.status{font-size:21px;color:#9fb0c7;margin:16px 0 22px}
+button{background:#1a2a41;color:white;border:1px solid #3d5879;border-radius:16px;padding:16px 24px;font-size:22px;cursor:pointer}
+.grid{display:grid;gap:22px;margin-top:35px}
+.card{background:#101f32;border:2px solid #2d4666;border-radius:30px;overflow:hidden}
+.card h2{margin:0;padding:25px 28px;background:#1b2d46;font-size:34px}
+.items{padding:20px 26px}
+.item{display:block;color:#f4f7fb;text-decoration:none;padding:17px 4px;border-bottom:1px solid #2b405a}
 .item:last-child{border-bottom:0}
-.item .title{font-size:clamp(21px,2.6vw,30px);font-weight:700;line-height:1.25}
-.item .meta{margin-top:8px;color:#91a9c0;font-size:15px}
-.empty{padding:42px 28px;color:#ffb0b0;font-size:24px;line-height:1.45}
-.ok{color:#9fe0b4}
-.err{color:#ffb0b0}
-footer{text-align:center;color:#718aa2;padding:0 20px 35px;font-size:14px}
+.item strong{display:block;font-size:22px;line-height:1.3}
+.item span{display:block;color:#93a6bd;font-size:15px;margin-top:7px}
+.error{color:#ffb5b5;font-size:22px;line-height:1.5;padding:30px}
+.loading{color:#a9bad0;font-size:20px;padding:30px}
+.small{color:#73869e;font-size:15px;margin-top:25px}
 </style>
 </head>
 <body>
-<header>
+<div class="wrap">
   <h1>🇧🇬 Български<br>новини</h1>
   <div class="sub">Актуални заглавия от български медии</div>
   <div id="status" class="status">Зареждане на новините…</div>
   <button onclick="loadAll()">↻ Обнови новините</button>
-</header>
-
-<main id="main"></main>
-<footer>Източник на заглавията: OFFNews RSS · Натиснете заглавие за пълната статия.</footer>
+  <div id="news" class="grid"></div>
+  <div class="small">Заглавията водят към оригиналните публикации.</div>
+</div>
 
 <script>
+const API = "https://api.rss2json.com/v1/api.json?rss_url=";
+
 const feeds = [
-  {name:"🇧🇬 България", url:"https://feed.offnews.bg/rss/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8_2"},
-  {name:"💼 Бизнес", url:"https://feed.offnews.bg/rss/%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_59"},
-  {name:"⚽ Спорт", url:"https://feed.offnews.bg/rss/%D0%A1%D0%BF%D0%BE%D1%80%D1%82_18752"},
-  {name:"🌍 Свят", url:"https://feed.offnews.bg/rss/%D0%A1%D0%B2%D1%8F%D1%82%20_12"}
+  {
+    title:"📰 България",
+    rss:"https://news.google.com/rss/search?q=site%3Adariknews.bg%2Fnovini%2Fbylgariia&hl=bg&gl=BG&ceid=BG%3Abg"
+  },
+  {
+    title:"💼 Бизнес",
+    rss:"https://news.google.com/rss/search?q=site%3Ablitz.bg%20бизнес&hl=bg&gl=BG&ceid=BG%3Abg"
+  },
+  {
+    title:"⚽ Спорт",
+    rss:"https://news.google.com/rss/search?q=site%3Agong.bg%20спорт&hl=bg&gl=BG&ceid=BG%3Abg"
+  },
+  {
+    title:"💻 Технологии",
+    rss:"https://news.google.com/rss/search?q=site%3Avesti.bg%20технологии&hl=bg&gl=BG&ceid=BG%3Abg"
+  }
 ];
-
-const proxies = [
-  u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
-  u => "https://corsproxy.io/?" + encodeURIComponent(u),
-  u => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(u)
-];
-
-const main = document.getElementById("main");
-const statusEl = document.getElementById("status");
 
 function esc(s){
   return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 }
 
-function parseRSS(xml){
-  const doc = new DOMParser().parseFromString(xml,"text/xml");
-  if(doc.querySelector("parsererror")) throw new Error("RSS parse error");
-  let nodes = [...doc.querySelectorAll("item")];
-  if(!nodes.length) nodes = [...doc.querySelectorAll("entry")];
-  return nodes.slice(0,12).map(n=>{
-    const title = n.querySelector("title")?.textContent?.trim() || "Без заглавие";
-    let link = n.querySelector("link")?.getAttribute("href") || n.querySelector("link")?.textContent?.trim() || "#";
-    const date = n.querySelector("pubDate")?.textContent?.trim() || n.querySelector("published")?.textContent?.trim() || n.querySelector("updated")?.textContent?.trim() || "";
-    return {title,link,date};
-  }).filter(x=>x.title && x.link!=="#");
+function cleanTitle(s){
+  return String(s||"").replace(/\s+/g," ").trim();
 }
 
-async function fetchFeed(feed){
-  let lastErr;
-  for(const proxy of proxies){
-    try{
-      const controller = new AbortController();
-      const timer = setTimeout(()=>controller.abort(),10000);
-      const r = await fetch(proxy(feed.url),{cache:"no-store",signal:controller.signal});
-      clearTimeout(timer);
-      if(!r.ok) throw new Error("HTTP "+r.status);
-      const text = await r.text();
-      const items = parseRSS(text);
-      if(items.length) return items;
-      throw new Error("Няма публикации");
-    }catch(e){ lastErr=e; }
-  }
-  throw lastErr || new Error("Неуспешно зареждане");
-}
-
-function render(feed,items,error){
-  const card = document.createElement("section");
-  card.className="card";
-  let body="";
-  if(items && items.length){
-    body = '<div class="items">'+items.map(x=>{
-      let d="";
-      try{ d=x.date ? new Date(x.date).toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : ""; }catch(_){}
-      return `<a class="item" href="${esc(x.link)}" target="_blank" rel="noopener">
-        <div class="title">${esc(x.title)}</div>
-        ${d?`<div class="meta">${esc(d)}</div>`:""}
-      </a>`;
-    }).join("")+"</div>";
-  }else{
-    body='<div class="empty">Новините временно не могат да бъдат заредени.<br><br>Натиснете „Обнови новините“.</div>';
-  }
-  card.innerHTML=`<h2>${esc(feed.name)}</h2>${body}`;
-  main.appendChild(card);
+async function getFeed(feed){
+  const url = API + encodeURIComponent(feed.rss);
+  const r = await fetch(url,{cache:"no-store"});
+  if(!r.ok) throw new Error("HTTP "+r.status);
+  const data = await r.json();
+  if(data.status !== "ok") throw new Error(data.message || "RSS error");
+  return (data.items||[]).slice(0,8);
 }
 
 async function loadAll(){
-  main.innerHTML="";
-  statusEl.className="status";
-  statusEl.textContent="Зареждане на новините…";
-  let good=0;
-  const results = await Promise.all(feeds.map(async f=>{
+  const news=document.getElementById("news");
+  const status=document.getElementById("status");
+  news.innerHTML="";
+  status.textContent="Зареждане…";
+
+  let ok=0;
+
+  for(const feed of feeds){
+    const card=document.createElement("section");
+    card.className="card";
+    card.innerHTML=`<h2>${feed.title}</h2><div class="items"><div class="loading">Зареждане…</div></div>`;
+    news.appendChild(card);
+
     try{
-      const items=await fetchFeed(f);
-      good++;
-      return {f,items};
+      const items=await getFeed(feed);
+      const box=card.querySelector(".items");
+
+      if(!items.length){
+        box.innerHTML='<div class="error">Няма налични заглавия в момента.</div>';
+        return;
+      }
+
+      ok++;
+      box.innerHTML=items.map(x=>{
+        const title=cleanTitle(x.title);
+        const link=x.link || "#";
+        const date=x.pubDate ? new Date(x.pubDate).toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";
+        return `<a class="item" href="${esc(link)}" target="_blank" rel="noopener">
+          <strong>${esc(title)}</strong>
+          <span>${esc(date)}</span>
+        </a>`;
+      }).join("");
     }catch(e){
-      return {f,items:null,error:e};
+      card.querySelector(".items").innerHTML='<div class="error">Новините временно не могат да бъдат заредени. Натиснете „Обнови новините“.</div>';
     }
-  }));
-  results.forEach(r=>render(r.f,r.items,r.error));
-  statusEl.className="status "+(good ? "ok":"err");
-  statusEl.textContent=`Заредени секции: ${good}/${feeds.length} · Последно обновяване: ${new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"})}`;
+  }
+
+  status.textContent=`Заредени секции: ${ok}/${feeds.length} • Последно обновяване: ${new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"})}`;
 }
 
 loadAll();
-setInterval(loadAll,10*60*1000);
 </script>
 </body>
 </html>
