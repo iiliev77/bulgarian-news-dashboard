@@ -1,6 +1,10 @@
 {
-  "updated": "2026-09-18T17:03:44.925627+00:00",
+  "updated": "2026-09-18T17:15:59.883093+00:00",
   "news": [
+    {
+      "title": "Оръжейният експерт Слав Барутчиев: Револверът на Калушев издава комплекси (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/oryzhejniiat-ekspert-slav-barutchiev-revolveryt-na-kalushev-izdava-kompleksi-video-2466878"
+    },
     {
       "title": "Спешно викат посланика ни в ОАЕ обратно у нас, започва проверка на посолството",
       "url": "https://dariknews.bg/novini/bylgariia/speshno-vikat-poslanika-ni-v-oae-obratno-u-nas-zapochva-proverka-na-posolstvoto-2466875"
@@ -36,10 +40,6 @@
     {
       "title": "Тревога заради дронове прекъсна временно изборния ден в Сочи",
       "url": "https://dariknews.bg/novini/sviat/trevoga-zaradi-dronove-prekysna-vremenno-izborniia-den-v-sochi-2466861"
-    },
-    {
-      "title": "Сандов за обвинението: Поредна предизборна кампания ще мине през политическото участие на прокуратурата",
-      "url": "https://dariknews.bg/novini/bylgariia/sandov-za-obvinenieto-poredna-predizborna-kampaniia-shte-mine-prez-politicheskoto-uchastie-na-prokuraturata-2466858"
     }
   ],
   "sport": [
@@ -65,11 +65,11 @@
     },
     {
       "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-povezhda-s-10-sreshtu-daniia-za-kupa-dejvis-sled-uspeh-na-grigor-906534"
+      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-povezhda-s-10-sreshtu-daniia-za-kupa-dejvis-sled-uspeh-na-grigor-radulov-igrae-sreshtu-holger-rune-906534"
     },
     {
       "title": "Live Livestream",
-      "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-slaviia-00-cska-1948-machyt-startira-906562"
+      "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-slaviia-00-cska-1948-bez-seriozni-opasnosti-v-nachaloto-906562"
     },
     {
       "title": "Live Livestream",
