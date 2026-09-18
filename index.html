@@ -1,146 +1,47 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="bg">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <title>Български новини</title>
 <style>
-*{box-sizing:border-box}
-body{margin:0;background:#0d0f14;color:#f1f3f6;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
-header{background:#171a20;border-bottom:1px solid #30343c;padding:22px 24px}
-h1{margin:0;font-size:30px}
-.subtitle{margin-top:8px;color:#a8afb9;font-size:15px}
-main{max-width:1200px;margin:0 auto;padding:18px 24px 40px}
-section{margin-bottom:28px}
-h2{font-size:23px;margin:0 0 12px;padding:0 0 10px;border-bottom:2px solid #2684ff}
-.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-.card{display:block;text-decoration:none;color:inherit;background:#191c22;border:1px solid #30343c;border-radius:11px;padding:16px;min-height:132px;transition:.15s}
-.card:hover{border-color:#2684ff;transform:translateY(-1px)}
-.source{font-size:12px;color:#91a0b5;text-transform:uppercase;margin-bottom:9px}
-.title{font-size:18px;font-weight:700;line-height:1.28}
-.empty{background:#191c22;border-radius:11px;padding:24px;text-align:center;color:#a8afb9}
-.error{color:#e5a7a7}
-@media(max-width:1000px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:600px){header{padding:18px}.grid{grid-template-columns:1fr}main{padding:16px}.title{font-size:17px}}
+*{box-sizing:border-box}body{margin:0;background:#0b0d10;color:#f1f3f5;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+header{padding:34px 28px 24px;background:#171a1f;border-bottom:1px solid #30343b}
+h1{margin:0 0 10px;font-size:32px}.status{color:#aeb4bd;font-size:16px}
+main{max-width:1180px;margin:0 auto;padding:20px 18px 50px}section{margin:0 0 30px}
+h2{font-size:24px;margin:0 0 12px;padding-bottom:10px;border-bottom:2px solid #3b82f6}
+.card{background:#171a1f;border-radius:12px;padding:16px 18px;margin:10px 0}
+a{color:#f3f4f6;text-decoration:none;font-size:18px;line-height:1.35}a:hover{text-decoration:underline}
+.meta{color:#8f98a5;font-size:13px;margin-top:7px}.error{text-align:center;color:#e9a6a6;padding:22px}.loading{text-align:center;color:#aeb4bd;padding:22px}
+@media(max-width:700px){h1{font-size:26px}h2{font-size:21px}a{font-size:16px}}
 </style>
 </head>
 <body>
-<header>
-  <h1>🇧🇬 Български новини</h1>
-  <div class="subtitle">Последна проверка: <span id="checked">—</span> • автоматично обновяване на всеки 5 минути</div>
-</header>
-
+<header><h1>🇧🇬 Български новини</h1><div class="status" id="status">Зареждане...</div></header>
 <main>
-  <section>
-    <h2>Последни новини — Darik</h2>
-    <div id="darik" class="grid"><div class="empty">Зареждане...</div></div>
-  </section>
-
-  <section>
-    <h2>Спорт — Dsport.bg</h2>
-    <div id="dsport" class="grid"><div class="empty">Зареждане...</div></div>
-  </section>
+<section><h2>Последни новини — Darik</h2><div id="darik" class="loading">Зареждане...</div></section>
+<section><h2>Спорт — Dsport.bg</h2><div id="dsport" class="loading">Зареждане...</div></section>
 </main>
-
 <script>
-const PROXIES = [
-  u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
-  u => 'https://corsproxy.io/?url=' + encodeURIComponent(u)
-];
-
-async function fetchText(url){
-  let last;
-  for(const make of PROXIES){
-    try{
-      const r = await fetch(make(url) + (url.includes('?')?'&':'?') + '_=' + Date.now(), {cache:'no-store'});
-      if(!r.ok) throw new Error('HTTP '+r.status);
-      return await r.text();
-    }catch(e){ last=e; }
-  }
-  throw last || new Error('Неуспешно зареждане');
+const DATA_URL="./news.json?ts="+Date.now();
+function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function render(id,items,msg){
+ const el=document.getElementById(id);
+ if(!items||!items.length){el.innerHTML='<div class="card error">'+esc(msg)+'</div>';return;}
+ el.innerHTML=items.slice(0,15).map(x=>'<div class="card"><a href="'+esc(x.url)+'" target="_blank" rel="noopener noreferrer">'+esc(x.title)+'</a>'+(x.time?'<div class="meta">'+esc(x.time)+'</div>':'')+'</div>').join("");
 }
-
-function clean(s){
-  return (s||'').replace(/\s+/g,' ').trim();
-}
-
-function unique(items){
-  const seen=new Set();
-  return items.filter(x=>{
-    const k=x.url+'|'+x.title;
-    if(seen.has(k)) return false;
-    seen.add(k); return true;
-  });
-}
-
-function render(id, items, source){
-  const el=document.getElementById(id);
-  if(!items.length){
-    el.innerHTML='<div class="empty" style="grid-column:1/-1">Няма заредени новини от '+source+'.</div>';
-    return;
-  }
-  el.innerHTML=items.slice(0,10).map(x=>`
-    <a class="card" href="${x.url}" target="_blank" rel="noopener">
-      <div class="source">${source}</div>
-      <div class="title">${escapeHtml(x.title)}</div>
-    </a>`).join('');
-}
-
-function escapeHtml(s){
-  return s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-
-function parseDarik(html){
-  const doc=new DOMParser().parseFromString(html,'text/html');
-  const out=[];
-  for(const a of doc.querySelectorAll('a[href]')){
-    const title=clean(a.textContent);
-    const href=a.href;
-    if(!href.startsWith('https://darik.bg/')) continue;
-    if(!href.includes('~')) continue;
-    if(title.length<25 || title.length>220) continue;
-    if(/реклама|контакти|за нас|условия/i.test(title)) continue;
-    out.push({title,url:href});
-  }
-  return unique(out);
-}
-
-function parseDsport(html){
-  const doc=new DOMParser().parseFromString(html,'text/html');
-  const out=[];
-  for(const a of doc.querySelectorAll('a[href]')){
-    const title=clean(a.textContent);
-    let href=a.href;
-    if(!href.startsWith('https://dsport.bg/')) continue;
-    if(!href.endsWith('.html') || !href.includes('~')) continue;
-    if(title.length<25 || title.length>220) continue;
-    if(/виж всички|прочети повече|мобилно приложение|за нас|контакти/i.test(title)) continue;
-    out.push({title,url:href});
-  }
-  return unique(out);
-}
-
-async function load(){
-  document.getElementById('checked').textContent =
-    new Date().toLocaleString('bg-BG',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',second:'2-digit'});
-  try{
-    const [darikHtml, dsportHtml] = await Promise.all([
-      fetchText('https://darik.bg/'),
-      fetchText('https://dsport.bg/')
-    ]);
-    render('darik', parseDarik(darikHtml), 'Darik');
-    render('dsport', parseDsport(dsportHtml), 'Dsport.bg');
-  }catch(e){
-    // Try each source separately so one failed source does not hide the other.
-    try{ render('darik', parseDarik(await fetchText('https://darik.bg/')), 'Darik'); }
-    catch(_){ document.getElementById('darik').innerHTML='<div class="empty error" style="grid-column:1/-1">Darik не може да бъде зареден в момента.</div>'; }
-    try{ render('dsport', parseDsport(await fetchText('https://dsport.bg/')), 'Dsport.bg'); }
-    catch(_){ document.getElementById('dsport').innerHTML='<div class="empty error" style="grid-column:1/-1">Dsport.bg не може да бъде зареден в момента.</div>'; }
-  }
-}
-
-load();
-setInterval(load, 5*60*1000);
+fetch(DATA_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("HTTP "+r.status);return r.json();}).then(data=>{
+ document.getElementById("status").textContent="Последна проверка: "+new Date(data.updated_at).toLocaleString("bg-BG")+" · автоматично обновяване на всеки 5 минути";
+ render("darik",data.darik,"Darik няма заредени новини в момента.");
+ render("dsport",data.dsport,"Dsport.bg няма заредени новини в момента.");
+}).catch(err=>{
+ document.getElementById("status").textContent="Грешка при зареждане на новините.";
+ render("darik",[],"Новините не могат да бъдат заредени.");
+ render("dsport",[],"Спортните новини не могат да бъдат заредени.");
+ console.error(err);
+});
+setTimeout(()=>location.reload(),300000);
 </script>
 </body>
 </html>
