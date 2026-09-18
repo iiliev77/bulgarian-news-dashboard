@@ -64,7 +64,10 @@ async function getFeed(feed){
   if(!r.ok) throw new Error("HTTP "+r.status);
   const data = await r.json();
   if(data.status !== "ok") throw new Error(data.message || "RSS error");
-  return (data.items||[]).slice(0,8);
+  return (data.items||[])
+    .filter(x => x && x.title && x.link)
+    .sort((a,b) => new Date(b.pubDate||0) - new Date(a.pubDate||0))
+    .slice(0,15);
 }
 
 async function loadAll(){
@@ -94,7 +97,9 @@ async function loadAll(){
       box.innerHTML=items.map(x=>{
         const title=cleanTitle(x.title);
         const link=x.link || "#";
-        const date=x.pubDate ? new Date(x.pubDate).toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";
+        const d = x.pubDate ? new Date(x.pubDate) : null;
+        const ageMin = d && !isNaN(d) ? Math.floor((Date.now()-d.getTime())/60000) : null;
+        const date = d && !isNaN(d) ? (ageMin < 60 ? `преди ${Math.max(0,ageMin)} мин.` : d.toLocaleString("bg-BG",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})) : "";
         return `<a class="item" href="${esc(link)}" target="_blank" rel="noopener">
           <strong>${esc(title)}</strong>
           <span>${esc(date)}</span>
