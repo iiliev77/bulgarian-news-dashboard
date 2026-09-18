@@ -6,135 +6,108 @@
 <meta http-equiv="Cache-Control" content="no-cache,no-store,must-revalidate">
 <title>Български новини</title>
 <style>
-*{box-sizing:border-box}
-html,body{margin:0;background:#07101d;color:#f5f7fa;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+*{box-sizing:border-box}html,body{margin:0;background:#07101d;color:#f5f7fa;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
 .header{background:#0b1727;border-bottom:1px solid #26384d;padding:18px 24px;position:sticky;top:0;z-index:5}
-.top{display:flex;justify-content:space-between;align-items:center}
-h1{margin:0;font-size:30px}.clock{font-size:25px;font-weight:700}
-.status{margin-top:7px;color:#9eacbd;font-size:14px}
-.wrap{max-width:1500px;margin:auto;padding:16px 24px 40px}
-.columns{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-.section{background:#0b1727;border:1px solid #26384d;border-radius:14px;padding:14px}
-.section h2{margin:2px 4px 14px;font-size:23px}
-.card{display:block;text-decoration:none;color:#f5f7fa;background:#0e1b2c;border:1px solid #26384d;border-radius:10px;padding:13px;margin-bottom:9px}
-.card:hover{background:#14243a}
-.title{font-size:19px;line-height:1.3;font-weight:700}
-.time{font-size:12px;color:#91a4b8;margin-top:7px}
-.empty{text-align:center;color:#9eacbd;padding:35px 10px}
-@media(max-width:850px){.columns{grid-template-columns:1fr}h1{font-size:25px}}
+.top{display:flex;justify-content:space-between;align-items:center}h1{margin:0;font-size:30px}.clock{font-size:25px;font-weight:700}
+.status{margin-top:7px;color:#9eacbd;font-size:14px}.wrap{max-width:1500px;margin:auto;padding:16px 24px 40px}
+.columns{display:grid;grid-template-columns:1fr 1fr;gap:16px}.section{background:#0b1727;border:1px solid #26384d;border-radius:14px;padding:14px}
+.section h2{margin:2px 4px 14px;font-size:23px}.card{display:block;text-decoration:none;color:#f5f7fa;background:#0e1b2c;border:1px solid #26384d;border-radius:10px;padding:13px;margin-bottom:9px}
+.card:hover{background:#14243a}.title{font-size:19px;line-height:1.3;font-weight:700}.source{font-size:12px;color:#91a4b8;margin-top:7px}
+.empty{text-align:center;color:#9eacbd;padding:35px 10px}@media(max-width:850px){.columns{grid-template-columns:1fr}h1{font-size:25px}}
 </style>
 </head>
 <body>
 <header class="header">
- <div class="top">
-  <h1>🇧🇬 Български новини</h1>
-  <div id="clock" class="clock">--:--</div>
- </div>
- <div id="status" class="status">Зареждане на последните новини…</div>
+ <div class="top"><h1>🇧🇬 Български новини</h1><div id="clock" class="clock">--:--</div></div>
+ <div id="status" class="status">Зареждане…</div>
 </header>
-
-<main class="wrap">
- <div class="columns">
-  <section class="section">
-   <h2>📰 Новини</h2>
-   <div id="news"><div class="empty">Зареждане…</div></div>
-  </section>
-  <section class="section">
-   <h2>⚽ Спорт</h2>
-   <div id="sport"><div class="empty">Зареждане…</div></div>
-  </section>
- </div>
-</main>
+<main class="wrap"><div class="columns">
+<section class="section"><h2>📰 Новини</h2><div id="news"><div class="empty">Зареждане…</div></div></section>
+<section class="section"><h2>⚽ Спорт</h2><div id="sport"><div class="empty">Зареждане…</div></div></section>
+</div></main>
 
 <script>
-const SOURCES={
- news:{box:"news",name:"DarikNews",url:"https://dariknews.bg/novini"},
- sport:{box:"sport",name:"Gong.bg",url:"https://gong.bg/"}
-};
+const SOURCES=[
+ {box:"news",name:"DarikNews",url:"https://dariknews.bg/novini"},
+ {box:"sport",name:"Gong.bg",url:"https://gong.bg/"}
+];
 
-function esc(s){
- return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function esc(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+
+/*
+  Използваме Jina Reader като единен CORS-friendly четец.
+  Той връща актуалната страница като текст, без снимки.
+*/
+async function getReader(url){
+ const reader="https://r.jina.ai/"+url+"?x="+Date.now();
+ const r=await fetch(reader,{cache:"no-store"});
+ if(!r.ok) throw new Error("HTTP "+r.status);
+ const text=await r.text();
+ if(text.length<500) throw new Error("empty");
+ return text;
 }
 
-function abs(href,base){
- try{return new URL(href,base).href}catch(e){return ""}
-}
-
-async function fetchPage(url){
- const list=[
-  "https://api.allorigins.win/raw?url="+encodeURIComponent(url)+"&x="+Date.now(),
-  "https://api.codetabs.com/v1/proxy?quest="+encodeURIComponent(url)
- ];
- for(const u of list){
-  try{
-   const r=await fetch(u,{cache:"no-store"});
-   if(!r.ok) continue;
-   const t=await r.text();
-   if(t.length>1000) return t;
-  }catch(e){}
- }
- throw new Error("Неуспешно зареждане");
-}
-
-function extract(html,base){
- const doc=new DOMParser().parseFromString(html,"text/html");
+function extract(markdown,source){
+ const lines=markdown.split(/\r?\n/);
  const out=[],seen=new Set();
+ for(let i=0;i<lines.length;i++){
+   let line=lines[i].trim();
+   if(!line.startsWith("#")) continue;
+   let title=line.replace(/^#+\s*/,"").trim();
+   if(!title || title.length<15) continue;
+   if(/^(Последни|Новини|Спортни новини|DarikNews|Gong\.bg|Live|Livestream|Гласувай|Виж още)$/i.test(title)) continue;
+   if(/^(Image|Menu|Navigation|Начало|Категории)/i.test(title)) continue;
 
- /* Заглавията на актуалните публикации. */
- for(const a of doc.querySelectorAll("article a, h1 a, h2 a, h3 a")){
-  const title=(a.textContent||"").replace(/\s+/g," ").trim();
-  const href=abs(a.getAttribute("href")||"",base);
-  if(title.length<15 || !href) continue;
+   let href="";
+   for(let j=i+1;j<Math.min(i+5,lines.length);j++){
+     const m=lines[j].match(/\]\((https?:\/\/[^)]+)\)/);
+     if(m){href=m[1];break;}
+   }
+   if(!href){
+     const m=line.match(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/);
+     if(m){title=m[1];href=m[2];}
+   }
+   if(!href) continue;
 
-  const sameSite=(base.includes("dariknews.bg") && href.includes("dariknews.bg")) ||
-                 (base.includes("gong.bg") && href.includes("gong.bg"));
-  if(!sameSite) continue;
-
-  const key=title.toLowerCase();
-  if(seen.has(key)) continue;
-  seen.add(key);
-  out.push({title,href});
-  if(out.length>=25) break;
+   const host=source==="DarikNews"?"dariknews.bg":"gong.bg";
+   if(!href.includes(host)) continue;
+   const key=title.toLowerCase();
+   if(seen.has(key)) continue;
+   seen.add(key);
+   out.push({title,href});
+   if(out.length>=25) break;
  }
  return out;
 }
 
-async function loadOne(key){
- const s=SOURCES[key], box=document.getElementById(s.box);
+async function load(s){
+ const box=document.getElementById(s.box);
  try{
-  const html=await fetchPage(s.url);
-  const list=extract(html,s.url);
-  if(!list.length) throw new Error("no items");
-
-  box.innerHTML=list.map(x=>`
-   <a class="card" href="${esc(x.href)}" target="_blank" rel="noopener">
-    <div class="title">${esc(x.title)}</div>
-    <div class="time">${esc(s.name)}</div>
-   </a>
-  `).join("");
-  return true;
+   const md=await getReader(s.url);
+   const items=extract(md,s.name);
+   if(!items.length) throw new Error("no items");
+   box.innerHTML=items.map(x=>`
+     <a class="card" href="${esc(x.href)}" target="_blank" rel="noopener">
+       <div class="title">${esc(x.title)}</div>
+       <div class="source">${esc(s.name)}</div>
+     </a>`).join("");
+   return true;
  }catch(e){
-  box.innerHTML='<div class="empty">Временно няма връзка с този източник.</div>';
-  return false;
+   box.innerHTML='<div class="empty">Временно няма връзка с източника.</div>';
+   return false;
  }
 }
 
 async function refresh(){
- document.getElementById("status").textContent="Обновяване…";
- const ok=await Promise.all([loadOne("news"),loadOne("sport")]);
+ document.getElementById("status").textContent="Обновяване на последните новини…";
+ const r=await Promise.all(SOURCES.map(load));
  document.getElementById("status").textContent=
-   (ok[0]?"Новини ✓":"Новини ✕")+" · "+
-   (ok[1]?"Спорт ✓":"Спорт ✕")+" · обновено "+
-   new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
+  (r[0]?"Новини ✓":"Новини ✕")+" · "+(r[1]?"Спорт ✓":"Спорт ✕")+
+  " · обновено "+new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
 }
-
-function clock(){
- document.getElementById("clock").textContent=
-  new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
-}
+function clock(){document.getElementById("clock").textContent=new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});}
 clock();setInterval(clock,1000);
-refresh();
-setInterval(refresh,60*1000);
+refresh();setInterval(refresh,60000);
 </script>
 </body>
 </html>
