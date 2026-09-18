@@ -4,197 +4,165 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="Cache-Control" content="no-cache,no-store,must-revalidate">
-<meta name="theme-color" content="#07101d">
 <title>Български новини — Darik & Gong</title>
 <style>
 *{box-sizing:border-box}
-html,body{margin:0;background:#07101d;color:#f4f7fb;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+html,body{margin:0;background:#07101d;color:#f5f7fa;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
 .header{position:sticky;top:0;z-index:10;background:#0b1727;border-bottom:1px solid #26384d;padding:18px 24px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:20px}
-h1{margin:0;font-size:29px;font-weight:800}.clock{font-size:25px;font-weight:700;white-space:nowrap}
+h1{margin:0;font-size:29px;font-weight:800}.clock{font-size:25px;font-weight:700}
 .status{margin-top:7px;color:#9eacbd;font-size:14px}
-.wrap{max-width:1500px;margin:auto;padding:15px 24px 40px}
-.filters{display:flex;gap:8px;overflow:auto;padding-bottom:14px}
-.filters button{border:1px solid #31445a;background:#102035;color:#dce6f2;border-radius:22px;padding:9px 16px;font-size:15px;white-space:nowrap}
-.filters button.active{background:#edf2f7;color:#08111d;border-color:#edf2f7}
-.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}
-.card{display:block;background:#0e1b2c;border:1px solid #26384d;border-radius:13px;padding:15px;color:inherit;text-decoration:none}
-.card:hover{background:#132238}
-.meta{display:flex;justify-content:space-between;gap:10px;color:#93a5b9;font-size:13px;margin-bottom:7px}
-.source{font-weight:700;color:#b7c6d6}.time{white-space:nowrap}
-.title{font-size:20px;line-height:1.32;font-weight:700}
-.empty{text-align:center;padding:40px;background:#0e1b2c;border-radius:13px;color:#9eacbd}
-@media(max-width:800px){.grid{grid-template-columns:1fr}h1{font-size:24px}.title{font-size:18px}}
+.wrap{max-width:1500px;margin:auto;padding:16px 24px 40px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.section{background:#0a1626;border:1px solid #26384d;border-radius:14px;padding:14px}
+.section h2{font-size:20px;margin:2px 4px 12px}
+.card{display:block;background:#0e1b2c;border:1px solid #26384d;border-radius:11px;padding:13px;margin-bottom:9px;color:inherit;text-decoration:none}
+.card:last-child{margin-bottom:0}.card:hover{background:#132238}
+.title{font-size:18px;line-height:1.3;font-weight:700}
+.meta{color:#93a5b9;font-size:12px;margin-top:7px}
+.empty{padding:35px;text-align:center;color:#9eacbd;background:#0e1b2c;border-radius:12px}
+@media(max-width:850px){.grid{grid-template-columns:1fr}h1{font-size:24px}}
 </style>
 </head>
 <body>
 <header class="header">
   <div class="top">
-    <h1>🇧🇬 Български новини</h1>
+    <h1>🇧🇬 Последни новини</h1>
     <div id="clock" class="clock">--:--</div>
   </div>
-  <div id="status" class="status">Зареждане на последните новини…</div>
+  <div id="status" class="status">Зареждане…</div>
 </header>
 
 <main class="wrap">
-  <div class="filters">
-    <button class="active" data-filter="all">Всички</button>
-    <button data-filter="DarikNews">DarikNews</button>
-    <button data-filter="Gong.bg">Gong.bg</button>
+  <div class="grid">
+    <section class="section">
+      <h2>📰 DarikNews</h2>
+      <div id="darik"><div class="empty">Зареждане…</div></div>
+    </section>
+    <section class="section">
+      <h2>⚽ Gong.bg</h2>
+      <div id="gong"><div class="empty">Зареждане…</div></div>
+    </section>
   </div>
-  <section id="news" class="grid">
-    <div class="empty">Зареждане…</div>
-  </section>
 </main>
 
 <script>
-/*
-  САМО ДВА ИЗТОЧНИКА:
-  1. DarikNews.bg
-  2. Gong.bg
-
-  Без снимки. Новините се подреждат по дата/час, най-новите първи.
-*/
-const FEEDS = [
-  {
-    name:"DarikNews",
-    url:"https://news.google.com/rss/search?q=site%3Adariknews.bg&hl=bg&gl=BG&ceid=BG%3Abg"
-  },
-  {
-    name:"Gong.bg",
-    url:"https://news.google.com/rss/search?q=site%3Agong.bg&hl=bg&gl=BG&ceid=BG%3Abg"
-  }
+const SOURCES=[
+ {id:"darik",name:"DarikNews",url:"https://dariknews.bg/novini"},
+ {id:"gong",name:"Gong.bg",url:"https://gong.bg/"}
 ];
 
-let items=[];
-let filter="all";
-
 function esc(s){
-  return String(s||"").replace(/[&<>"']/g,c=>({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
-  }[c]));
+ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 }
 
-function clean(s){
-  const d=document.createElement("div");
-  d.innerHTML=s||"";
-  return (d.textContent||"").replace(/\s+/g," ").trim();
+function absolute(url,base){
+ try{return new URL(url,base).href}catch(e){return ""}
 }
 
-async function fetchFeed(url){
-  const proxies=[
-    "https://api.allorigins.win/raw?url="+encodeURIComponent(url)+"&t="+Date.now(),
-    "https://api.codetabs.com/v1/proxy?quest="+encodeURIComponent(url)
-  ];
-  for(const p of proxies){
-    try{
-      const r=await fetch(p,{cache:"no-store"});
-      if(!r.ok) continue;
-      const t=await r.text();
-      if(t.includes("<item")||t.includes("<entry")) return t;
-    }catch(e){}
-  }
-  throw new Error("Feed unavailable");
+/* Взема HTML през няколко независими CORS шлюза.
+   Това избягва проблема, при който GitHub Pages не може
+   директно да прочете сайта заради CORS. */
+async function getPage(url){
+ const targets=[
+   "https://api.allorigins.win/raw?url="+encodeURIComponent(url)+"&t="+Date.now(),
+   "https://r.jina.ai/"+url,
+   "https://api.codetabs.com/v1/proxy?quest="+encodeURIComponent(url)
+ ];
+ for(const target of targets){
+   try{
+     const r=await fetch(target,{cache:"no-store"});
+     if(!r.ok) continue;
+     const t=await r.text();
+     if(t && t.length>1000) return t;
+   }catch(e){}
+ }
+ throw new Error("Не може да се зареди "+url);
 }
 
-function parse(xml,source){
-  const doc=new DOMParser().parseFromString(xml,"text/xml");
-  return [...doc.querySelectorAll("item,entry")].map(n=>{
-    const title=clean(n.querySelector("title")?.textContent||"");
-    const linkEl=n.querySelector("link");
-    let link=(linkEl?.getAttribute("href")||linkEl?.textContent||"").trim();
+function parseHTML(html,sourceUrl){
+ const doc=new DOMParser().parseFromString(html,"text/html");
+ const result=[];
+ const seen=new Set();
 
-    const dateEl=n.querySelector("pubDate,published,updated");
-    const d=dateEl ? new Date(dateEl.textContent.trim()) : new Date(0);
+ /* Първо използваме реалните заглавия на страницата. */
+ const selectors=[
+   "article h1 a","article h2 a","article h3 a",
+   "h1 a","h2 a","h3 a"
+ ];
 
-    return {
-      title,
-      link,
-      source,
-      date:isNaN(d.getTime())?new Date(0):d
-    };
-  }).filter(x=>x.title&&x.link);
+ for(const selector of selectors){
+   for(const a of doc.querySelectorAll(selector)){
+     const title=(a.textContent||"").replace(/\s+/g," ").trim();
+     const href=absolute(a.getAttribute("href")||"",sourceUrl);
+     if(!title || title.length<12 || !href) continue;
+     if(!href.startsWith("https://dariknews.bg/") &&
+        !href.startsWith("https://gong.bg/")) continue;
+
+     const key=title.toLowerCase();
+     if(seen.has(key)) continue;
+     seen.add(key);
+     result.push({title,href});
+     if(result.length>=30) return result;
+   }
+ }
+
+ /* Резервен вариант за Jina/нестандартна HTML структура. */
+ if(result.length<5){
+   for(const a of doc.querySelectorAll("a")){
+     const title=(a.textContent||"").replace(/\s+/g," ").trim();
+     const href=absolute(a.getAttribute("href")||"",sourceUrl);
+     if(!title || title.length<25 || !href) continue;
+     if(!href.startsWith("https://dariknews.bg/") &&
+        !href.startsWith("https://gong.bg/")) continue;
+     const key=title.toLowerCase();
+     if(seen.has(key)) continue;
+     seen.add(key);
+     result.push({title,href});
+     if(result.length>=30) break;
+   }
+ }
+ return result;
 }
 
-function render(){
-  const box=document.getElementById("news");
-  const list=items.filter(x=>filter==="all"||x.source===filter);
+async function loadSource(s){
+ const box=document.getElementById(s.id);
+ try{
+   const html=await getPage(s.url);
+   const news=parseHTML(html,s.url);
+   if(!news.length) throw new Error("няма новини");
 
-  if(!list.length){
-    box.innerHTML='<div class="empty">Няма заредени новини.</div>';
-    return;
-  }
-
-  box.innerHTML=list.map(x=>{
-    const time=x.date.getTime()
-      ? x.date.toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"})
-      : "";
-    return `
-      <a class="card" href="${esc(x.link)}" target="_blank" rel="noopener">
-        <div class="meta">
-          <span class="source">${esc(x.source)}</span>
-          <span class="time">${time}</span>
-        </div>
-        <div class="title">${esc(x.title)}</div>
-      </a>`;
-  }).join("");
+   /* Страниците на самите сайтове са подредени от най-новите.
+      Не пренареждаме заглавията, за да запазим тяхната актуална последователност. */
+   box.innerHTML=news.slice(0,20).map((n,i)=>`
+     <a class="card" href="${esc(n.href)}" target="_blank" rel="noopener">
+       <div class="title">${esc(n.title)}</div>
+       <div class="meta">${esc(s.name)} · последни публикации</div>
+     </a>
+   `).join("");
+   return true;
+ }catch(e){
+   box.innerHTML='<div class="empty">Източникът временно не може да бъде зареден.</div>';
+   return false;
+ }
 }
 
-async function loadNews(){
-  const status=document.getElementById("status");
-  status.textContent="Обновяване на последните новини…";
-
-  const results=await Promise.allSettled(
-    FEEDS.map(async f=>parse(await fetchFeed(f.url),f.name))
-  );
-
-  let all=[];
-  results.forEach(r=>{
-    if(r.status==="fulfilled") all.push(...r.value);
-  });
-
-  // Премахване на повторенията по заглавие.
-  const seen=new Set();
-  items=all
-    .sort((a,b)=>b.date-a.date)
-    .filter(x=>{
-      const key=x.title.toLowerCase().replace(/\s+/g," ");
-      if(seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    })
-    .slice(0,100);
-
-  render();
-
-  status.textContent=items.length
-    ? "Последно обновяване: "+
-      new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"})+
-      " · само DarikNews и Gong.bg · най-новите първи"
-    : "Новините не се заредиха. Обновете страницата.";
+async function load(){
+ document.getElementById("status").textContent="Обновяване на последните новини…";
+ const results=await Promise.all(SOURCES.map(loadSource));
+ const ok=results.filter(Boolean).length;
+ document.getElementById("status").textContent=
+   ok+" от 2 източника · последно обновяване "+
+   new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
 }
 
-function updateClock(){
-  document.getElementById("clock").textContent=
-    new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
+function clock(){
+ document.getElementById("clock").textContent=
+   new Date().toLocaleTimeString("bg-BG",{hour:"2-digit",minute:"2-digit"});
 }
-
-document.querySelectorAll(".filters button").forEach(button=>{
-  button.addEventListener("click",()=>{
-    document.querySelectorAll(".filters button")
-      .forEach(b=>b.classList.remove("active"));
-    button.classList.add("active");
-    filter=button.dataset.filter;
-    render();
-  });
-});
-
-updateClock();
-setInterval(updateClock,1000);
-
-loadNews();
-// Автоматично обновяване на всеки 5 минути.
-setInterval(loadNews,5*60*1000);
+clock();setInterval(clock,1000);
+load();
+setInterval(load,5*60*1000);
 </script>
 </body>
 </html>
