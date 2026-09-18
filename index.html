@@ -29,7 +29,7 @@ button{background:#1a2a41;color:white;border:1px solid #3d5879;border-radius:16p
 <body>
 <div class="wrap">
   <h1>🇧🇬 Български<br>новини</h1>
-  <div class="sub">Актуални заглавия от български медии</div>
+  <div class="sub">Директни RSS новини от самите медии • автоматично обновяване на 5 минути</div>
   <div id="status" class="status">Зареждане на новините…</div>
   <button onclick="loadAll()">↻ Обнови новините</button>
   <div id="news" class="grid"></div>
@@ -41,20 +41,20 @@ const API = "https://api.rss2json.com/v1/api.json?rss_url=";
 
 const feeds = [
   {
-    title:"📰 България",
-    rss:"https://news.google.com/rss/search?q=site%3Adariknews.bg%2Fnovini%2Fbylgariia&hl=bg&gl=BG&ceid=BG%3Abg"
+    title:"📰 DarikNews — последни новини",
+    rss:"https://dariknews.bg/rss.php"
   },
   {
-    title:"💼 Бизнес",
-    rss:"https://news.google.com/rss/search?q=site%3Ablitz.bg%20бизнес&hl=bg&gl=BG&ceid=BG%3Abg"
+    title:"💻 Vesti.bg — последни новини",
+    rss:"https://www.vesti.bg/rss.php"
   },
   {
-    title:"⚽ Спорт",
-    rss:"https://news.google.com/rss/search?q=site%3Agong.bg%20спорт&hl=bg&gl=BG&ceid=BG%3Abg"
+    title:"⚽ Gong.bg — спорт",
+    rss:"https://gong.bg/rss"
   },
   {
-    title:"💻 Технологии",
-    rss:"https://news.google.com/rss/search?q=site%3Avesti.bg%20технологии&hl=bg&gl=BG&ceid=BG%3Abg"
+    title:"📰 Dnes.bg — последни новини",
+    rss:"https://dnes.bg/rss.php"
   }
 ];
 
