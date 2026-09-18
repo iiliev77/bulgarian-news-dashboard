@@ -67,7 +67,7 @@ function cleanTitle(s){
 }
 
 async function getFeed(feed){
-  const url = API + encodeURIComponent(feed.rss);
+  const url = API + encodeURIComponent(feed.rss) + "&_=" + Date.now();
   const r = await fetch(url,{cache:"no-store"});
   if(!r.ok) throw new Error("HTTP "+r.status);
   const data = await r.json();
@@ -118,8 +118,13 @@ async function loadAll(){
 
 loadAll();
 
-// Автоматично обновяване на новините на всеки 5 минути
-setInterval(loadAll, 5 * 60 * 1000);
+// Автоматично обновяване на новините на всеки 5 минути.
+// Cache-buster в getFeed() гарантира нова заявка, а този таймер
+// остава активен, докато страницата е отворена.
+const REFRESH_MS = 5 * 60 * 1000;
+setInterval(() => {
+  loadAll();
+}, REFRESH_MS);
 </script>
 </body>
 </html>
