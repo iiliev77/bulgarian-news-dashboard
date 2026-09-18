@@ -1,5 +1,68 @@
 {
-  "updated_at": "2026-09-18T18:33:20.909050+00:00",
+  "updated_at": "2026-09-18T18:44:28.133609+00:00",
   "darik": [],
-  "dsport": []
+  "dsport": [
+    {
+      "title": "Локомотив Горна Оряховица",
+      "url": "https://dsport.bg/lokomotiv-gorna-orahovica.html"
+    },
+    {
+      "title": "Sesame Купа на България",
+      "url": "https://dsport.bg/bulgarian-cup.html"
+    },
+    {
+      "title": "Айнтрахт Франкфурт",
+      "url": "https://dsport.bg/aintraht-frankfurt.html"
+    },
+    {
+      "title": "Борусия Мьонхенгладбах",
+      "url": "https://dsport.bg/borusia-monhengladbah.html"
+    },
+    {
+      "title": "Лига на конференциите",
+      "url": "https://dsport.bg/liga-na-konferenciite.html"
+    },
+    {
+      "title": "Световно първенство по футбол",
+      "url": "https://dsport.bg/svetovno-parvenstvo-po-futbol.html"
+    },
+    {
+      "title": "Европейско първенство по футбол",
+      "url": "https://dsport.bg/evropeisko-parvenstvo-po-futbol.html"
+    },
+    {
+      "title": "Световно клубно първенство",
+      "url": "https://dsport.bg/svetovno-klubno-parvenstvo.html"
+    },
+    {
+      "title": "Александър Везенков",
+      "url": "https://dsport.bg/aleksandar-vezenkov.html"
+    },
+    {
+      "title": "Вдигане на тежести",
+      "url": "https://dsport.bg/vdigane-na-tezesti.html"
+    },
+    {
+      "title": "Художествена гимнастика",
+      "url": "https://dsport.bg/hudozestvena-gimnastika.html"
+    },
+    {
+      "title": "Американски футбол",
+      "url": "https://dsport.bg/amerikanski-futbol~212019.html"
+    },
+    {
+      "title": "Спортното шоу на Дарик",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik~127600.html"
+    },
+    {
+      "title": "18 Сеп | 18:56 Левски се обърна към феновете за билетите: Виждаме и чуваме вашия глас",
+      "url": "https://dsport.bg/levski-se-obarna-kam-fenovete-za-biletite-vizdame-i-chuvame-vashi-glas~240238.html",
+      "time": "18 Сеп | 18:56"
+    },
+    {
+      "title": "18 Сеп | 18:10 Какъв Левски пресече първата междинна контрола?",
+      "url": "https://dsport.bg/kakav-levski-preseche-parvata-mezdinna-kontrola~240234.html",
+      "time": "18 Сеп | 18:10"
+    }
+  ]
 }
