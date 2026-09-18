@@ -56,7 +56,7 @@ function parseRelative(text){
 }
 
 function parseMarkdown(md, source){
-  const lines=md.split(/\r?\n/).map(x=>x.trim()).filter(Boolean);
+  const lines=md.split(/\r?\n/);
   const out=[];
   const seen=new Set();
 
@@ -68,22 +68,22 @@ function parseMarkdown(md, source){
     const link=m[2];
     if(seen.has(link) || /гласувай за играч|livestream/i.test(title)) continue;
 
-    let age="";
     let image="";
+    let age="";
 
-    // Look around the headline for an image and publication age.
-    for(let j=Math.max(0,i-3);j<Math.min(i+6,lines.length);j++){
+    // Only inspect the immediate card neighborhood, stopping at the next
+    // headline. This prevents Darik's next/previous story image being attached.
+    for(let j=i-1;j<=i+2 && j<lines.length;j++){
+      if(j!==i && /^###?\s*\[/.test(lines[j])) break;
+
       const im=lines[j].match(/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/);
-      if(im && !image) image=im[1];
+      if(im) image=im[1];
 
-      const im2=lines[j].match(/https?:\/\/[^\s)]+\.(?:jpg|jpeg|png|webp)(?:\?[^\s)]*)?/i);
-      if(im2 && !image) image=im2[0];
-
-      if(/преди\s+\d+\s+(минути|минута|часа|час|дни|ден)/i.test(lines[j])){
-        age=lines[j];
-      }
+      const ageMatch=lines[j].match(/преди\s+\d+\s+(?:минути|минута|часа|час|дни|ден)/i);
+      if(ageMatch) age=ageMatch[0];
     }
 
+    // If no image is explicitly attached to this card, do not guess.
     seen.add(link);
     out.push({title,link,age,image});
   }
