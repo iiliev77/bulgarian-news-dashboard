@@ -2,143 +2,145 @@
 <html lang="bg">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Български новини</title>
-<meta http-equiv="refresh" content="300">
 <style>
 *{box-sizing:border-box}
-body{margin:0;background:#0f1115;color:#fff;font-family:Arial,sans-serif}
-header{padding:18px 24px;background:#171a21;border-bottom:1px solid #30343d}
-h1{margin:0;font-size:28px}
-.updated{margin-top:6px;color:#aeb4bf;font-size:14px}
-main{max-width:1200px;margin:auto;padding:18px}
+body{margin:0;background:#0d0f14;color:#f1f3f6;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+header{background:#171a20;border-bottom:1px solid #30343c;padding:22px 24px}
+h1{margin:0;font-size:30px}
+.subtitle{margin-top:8px;color:#a8afb9;font-size:15px}
+main{max-width:1200px;margin:0 auto;padding:18px 24px 40px}
 section{margin-bottom:28px}
-.title{font-size:22px;font-weight:700;margin:0 0 12px;padding-bottom:8px;border-bottom:2px solid #3d82f6}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
-.card{display:block;text-decoration:none;color:#fff;background:#191d24;border:1px solid #2c313b;border-radius:10px;padding:15px}
-.card:hover{background:#20252e}
-.source{font-size:12px;color:#8fa3bd;margin-bottom:7px}
-.card h2{font-size:18px;line-height:1.3;margin:0 0 8px}
-.date{font-size:12px;color:#8d949f}
-.status{padding:25px;text-align:center;color:#aeb4bf;background:#191d24;border-radius:10px}
-.error{color:#ff8a8a}
-@media(max-width:600px){h1{font-size:22px}.title{font-size:19px}.card h2{font-size:16px}}
+h2{font-size:23px;margin:0 0 12px;padding:0 0 10px;border-bottom:2px solid #2684ff}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.card{display:block;text-decoration:none;color:inherit;background:#191c22;border:1px solid #30343c;border-radius:11px;padding:16px;min-height:132px;transition:.15s}
+.card:hover{border-color:#2684ff;transform:translateY(-1px)}
+.source{font-size:12px;color:#91a0b5;text-transform:uppercase;margin-bottom:9px}
+.title{font-size:18px;font-weight:700;line-height:1.28}
+.empty{background:#191c22;border-radius:11px;padding:24px;text-align:center;color:#a8afb9}
+.error{color:#e5a7a7}
+@media(max-width:1000px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){header{padding:18px}.grid{grid-template-columns:1fr}main{padding:16px}.title{font-size:17px}}
 </style>
 </head>
 <body>
 <header>
   <h1>🇧🇬 Български новини</h1>
-  <div class="updated" id="updated">Зареждане...</div>
+  <div class="subtitle">Последна проверка: <span id="checked">—</span> • автоматично обновяване на всеки 5 минути</div>
 </header>
 
 <main>
   <section>
-    <h3 class="title">Последни новини — Darik</h3>
-    <div id="news" class="grid"><div class="status">Зареждане...</div></div>
+    <h2>Последни новини — Darik</h2>
+    <div id="darik" class="grid"><div class="empty">Зареждане...</div></div>
   </section>
 
   <section>
-    <h3 class="title">Спорт — Dsport.bg</h3>
-    <div id="sport" class="grid"><div class="status">Зареждане...</div></div>
+    <h2>Спорт — Dsport.bg</h2>
+    <div id="dsport" class="grid"><div class="empty">Зареждане...</div></div>
   </section>
 </main>
 
 <script>
-const NEWS_FILE = 'news.json';
-const MAX = 12;
+const PROXIES = [
+  u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+  u => 'https://corsproxy.io/?url=' + encodeURIComponent(u)
+];
 
-function arr(v){ return Array.isArray(v) ? v : []; }
-
-function text(v){
-  if(v == null) return '';
-  if(typeof v === 'string') return v;
-  return String(v);
-}
-
-function getTitle(x){
-  return text(x.title || x.name || x.headline || '');
-}
-function getUrl(x){
-  return text(x.link || x.url || x.guid || x.href || '#');
-}
-function getDate(x){
-  return x.pubDate || x.published || x.date || x.created || x.isoDate || '';
-}
-function getSource(x){
-  return text(x.source || x.site || x.publisher || x.feed || '');
+async function fetchText(url){
+  let last;
+  for(const make of PROXIES){
+    try{
+      const r = await fetch(make(url) + (url.includes('?')?'&':'?') + '_=' + Date.now(), {cache:'no-store'});
+      if(!r.ok) throw new Error('HTTP '+r.status);
+      return await r.text();
+    }catch(e){ last=e; }
+  }
+  throw last || new Error('Неуспешно зареждане');
 }
 
-function normalize(data){
-  if(Array.isArray(data)) return data;
-  if(data && Array.isArray(data.items)) return data.items;
-  if(data && Array.isArray(data.articles)) return data.articles;
-  if(data && Array.isArray(data.news)) return data.news;
-  return [];
+function clean(s){
+  return (s||'').replace(/\s+/g,' ').trim();
 }
 
-function isDarik(x){
-  const s=(getSource(x)+' '+getUrl(x)).toLowerCase();
-  return s.includes('darik');
+function unique(items){
+  const seen=new Set();
+  return items.filter(x=>{
+    const k=x.url+'|'+x.title;
+    if(seen.has(k)) return false;
+    seen.add(k); return true;
+  });
 }
 
-function isDsport(x){
-  const s=(getSource(x)+' '+getUrl(x)).toLowerCase();
-  return s.includes('dsport') || s.includes('dsport.bg');
-}
-
-function isGong(x){
-  const s=(getSource(x)+' '+getUrl(x)).toLowerCase();
-  return s.includes('gong.bg') || s.includes('gong');
-}
-
-function render(id, items, emptyText){
+function render(id, items, source){
   const el=document.getElementById(id);
   if(!items.length){
-    el.innerHTML='<div class="status">'+emptyText+'</div>';
+    el.innerHTML='<div class="empty" style="grid-column:1/-1">Няма заредени новини от '+source+'.</div>';
     return;
   }
-  el.innerHTML=items.slice(0,MAX).map(x=>{
-    const title=getTitle(x);
-    const url=getUrl(x);
-    const d=getDate(x);
-    let ds='';
-    if(d){
-      const dt=new Date(d);
-      ds=isNaN(dt)?text(d):dt.toLocaleString('bg-BG',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
-    }
-    return `<a class="card" href="${url.replace(/"/g,'&quot;')}" target="_blank" rel="noopener">
-      <div class="source">${id==='sport'?'DSPORT.BG':'DARIK'}</div>
-      <h2>${title.replace(/</g,'&lt;').replace(/>/g,'&gt;')}</h2>
-      <div class="date">${ds}</div>
-    </a>`;
-  }).join('');
+  el.innerHTML=items.slice(0,10).map(x=>`
+    <a class="card" href="${x.url}" target="_blank" rel="noopener">
+      <div class="source">${source}</div>
+      <div class="title">${escapeHtml(x.title)}</div>
+    </a>`).join('');
+}
+
+function escapeHtml(s){
+  return s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function parseDarik(html){
+  const doc=new DOMParser().parseFromString(html,'text/html');
+  const out=[];
+  for(const a of doc.querySelectorAll('a[href]')){
+    const title=clean(a.textContent);
+    const href=a.href;
+    if(!href.startsWith('https://darik.bg/')) continue;
+    if(!href.includes('~')) continue;
+    if(title.length<25 || title.length>220) continue;
+    if(/реклама|контакти|за нас|условия/i.test(title)) continue;
+    out.push({title,url:href});
+  }
+  return unique(out);
+}
+
+function parseDsport(html){
+  const doc=new DOMParser().parseFromString(html,'text/html');
+  const out=[];
+  for(const a of doc.querySelectorAll('a[href]')){
+    const title=clean(a.textContent);
+    let href=a.href;
+    if(!href.startsWith('https://dsport.bg/')) continue;
+    if(!href.endsWith('.html') || !href.includes('~')) continue;
+    if(title.length<25 || title.length>220) continue;
+    if(/виж всички|прочети повече|мобилно приложение|за нас|контакти/i.test(title)) continue;
+    out.push({title,url:href});
+  }
+  return unique(out);
 }
 
 async function load(){
+  document.getElementById('checked').textContent =
+    new Date().toLocaleString('bg-BG',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',second:'2-digit'});
   try{
-    const r=await fetch(NEWS_FILE+'?t='+Date.now(),{cache:'no-store'});
-    if(!r.ok) throw new Error('news.json не е намерен');
-    const data=await r.json();
-    const all=normalize(data);
-
-    // ВАЖНО: Gong.bg се изключва изцяло.
-    const darik=all.filter(isDarik);
-    const dsport=all.filter(x=>isDsport(x) && !isGong(x));
-
-    render('news',darik,'Няма заредени новини от Darik.');
-    render('sport',dsport,'Няма заредени спортни новини от Dsport.bg.');
-
-    document.getElementById('updated').textContent=
-      'Последна проверка: '+new Date().toLocaleString('bg-BG')+
-      ' • автоматично обновяване на всеки 5 минути';
+    const [darikHtml, dsportHtml] = await Promise.all([
+      fetchText('https://darik.bg/'),
+      fetchText('https://dsport.bg/')
+    ]);
+    render('darik', parseDarik(darikHtml), 'Darik');
+    render('dsport', parseDsport(dsportHtml), 'Dsport.bg');
   }catch(e){
-    document.getElementById('news').innerHTML='<div class="status error">Грешка при зареждане на news.json.</div>';
-    document.getElementById('sport').innerHTML='<div class="status error">Грешка при зареждане на news.json.</div>';
-    document.getElementById('updated').textContent='Проверката не успя.';
+    // Try each source separately so one failed source does not hide the other.
+    try{ render('darik', parseDarik(await fetchText('https://darik.bg/')), 'Darik'); }
+    catch(_){ document.getElementById('darik').innerHTML='<div class="empty error" style="grid-column:1/-1">Darik не може да бъде зареден в момента.</div>'; }
+    try{ render('dsport', parseDsport(await fetchText('https://dsport.bg/')), 'Dsport.bg'); }
+    catch(_){ document.getElementById('dsport').innerHTML='<div class="empty error" style="grid-column:1/-1">Dsport.bg не може да бъде зареден в момента.</div>'; }
   }
 }
+
 load();
-setInterval(load,300000);
+setInterval(load, 5*60*1000);
 </script>
 </body>
 </html>
