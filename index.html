@@ -67,6 +67,31 @@ function extract(md,source){
  return result;
 }
 
+async function getArticleImage(link){
+  try{
+    const target=link.replace(/^https?:\/\//,"");
+    const r=await fetch("https://r.jina.ai/http://"+target+"?img="+Date.now(),{cache:"no-store"});
+    if(!r.ok) return "";
+    const md=await r.text();
+
+    // Prefer an image in the article content / metadata returned by Reader.
+    const images=[...md.matchAll(/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/g)]
+      .map(m=>m[1])
+      .filter(u=>!/(logo|icon|avatar|sprite|facebook|twitter|x\.com)/i.test(u));
+
+    return images[0] || "";
+  }catch(e){ return ""; }
+}
+
+async function addImages(items){
+  // Limit concurrent requests so GitHub Pages is not flooded.
+  const copy=items.slice(0,15);
+  for(let i=0;i<copy.length;i++){
+    copy[i].image=await getArticleImage(copy[i].link);
+  }
+  return copy;
+}
+
 async function loadAll(){
  const root=document.getElementById("news"),status=document.getElementById("status");
  root.innerHTML="";status.textContent="Зареждане на последните новини…";
@@ -76,7 +101,7 @@ async function loadAll(){
    card.innerHTML="<h2>"+esc(source.title)+"</h2><div class='items'><div class='loading'>Зареждане…</div></div>";
    root.appendChild(card);
    try{
-     const items=extract(await readPage(source.url),source);
+     const items=await addImages(extract(await readPage(source.url),source));
      card.querySelector(".items").innerHTML=items.map(x=>
        "<a class='item' href='"+esc(x.link)+"' target='_blank' rel='noopener'>"+
        (x.image?"<img class='thumb' src='"+esc(x.image)+"' alt='' loading='lazy' onerror=\"this.remove()\">":"")+
