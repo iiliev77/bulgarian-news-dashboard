@@ -1,47 +1,244 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="bg">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<title>Български новини</title>
-<style>
-*{box-sizing:border-box}body{margin:0;background:#0b0d10;color:#f1f3f5;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
-header{padding:34px 28px 24px;background:#171a1f;border-bottom:1px solid #30343b}
-h1{margin:0 0 10px;font-size:32px}.status{color:#aeb4bd;font-size:16px}
-main{max-width:1180px;margin:0 auto;padding:20px 18px 50px}section{margin:0 0 30px}
-h2{font-size:24px;margin:0 0 12px;padding-bottom:10px;border-bottom:2px solid #3b82f6}
-.card{background:#171a1f;border-radius:12px;padding:16px 18px;margin:10px 0}
-a{color:#f3f4f6;text-decoration:none;font-size:18px;line-height:1.35}a:hover{text-decoration:underline}
-.meta{color:#8f98a5;font-size:13px;margin-top:7px}.error{text-align:center;color:#e9a6a6;padding:22px}.loading{text-align:center;color:#aeb4bd;padding:22px}
-@media(max-width:700px){h1{font-size:26px}h2{font-size:21px}a{font-size:16px}}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Български новини</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #080b0e;
+      --panel: #171b21;
+      --panel2: #1b2027;
+      --text: #f2f4f7;
+      --muted: #aeb5bf;
+      --line: #2b3139;
+      --accent: #2d8cff;
+      --error: #f0a3a3;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    }
+    header {
+      padding: 34px 28px 26px;
+      background: #171b20;
+      border-bottom: 1px solid var(--line);
+    }
+    header h1 {
+      margin: 0 0 10px;
+      font-size: clamp(28px, 4vw, 40px);
+    }
+    header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 18px;
+    }
+    main {
+      width: min(1180px, calc(100% - 40px));
+      margin: 0 auto;
+      padding: 20px 0 50px;
+    }
+    section { margin-bottom: 54px; }
+    h2 {
+      font-size: clamp(24px, 3vw, 30px);
+      margin: 0 0 26px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--accent);
+    }
+    .list {
+      display: grid;
+      gap: 10px;
+    }
+    .item {
+      display: block;
+      padding: 19px 24px;
+      border-radius: 14px;
+      background: var(--panel);
+      color: var(--text);
+      text-decoration: none;
+      font-size: 19px;
+      line-height: 1.35;
+      transition: background .15s ease;
+    }
+    .item:hover { background: var(--panel2); }
+    .time {
+      display: block;
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .empty, .error {
+      padding: 26px;
+      border-radius: 14px;
+      background: var(--panel);
+      text-align: center;
+      color: var(--error);
+      font-size: 17px;
+    }
+    .loading {
+      padding: 26px;
+      border-radius: 14px;
+      background: var(--panel);
+      text-align: center;
+      color: var(--muted);
+    }
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+      padding: 10px 20px 30px;
+    }
+    @media (max-width: 600px) {
+      header { padding: 25px 18px 20px; }
+      main { width: min(100% - 24px, 1180px); }
+      .item { padding: 17px 16px; font-size: 17px; }
+    }
+  </style>
 </head>
 <body>
-<header><h1>🇧🇬 Български новини</h1><div class="status" id="status">Зареждане...</div></header>
-<main>
-<section><h2>Последни новини — Darik</h2><div id="darik" class="loading">Зареждане...</div></section>
-<section><h2>Спорт — Dsport.bg</h2><div id="dsport" class="loading">Зареждане...</div></section>
-</main>
+  <header>
+    <h1>🇧🇬 Български новини</h1>
+    <p id="status">Зареждане на последните новини…</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Последни новини — Darik</h2>
+      <div id="darik" class="list">
+        <div class="loading">Зареждане…</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Спорт — Dsport.bg</h2>
+      <div id="dsport" class="list">
+        <div class="loading">Зареждане…</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>Източници: DarikNews.bg и Dsport.bg</footer>
+
 <script>
-const DATA_URL="./news.json?ts="+Date.now();
-function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
-function render(id,items,msg){
- const el=document.getElementById(id);
- if(!items||!items.length){el.innerHTML='<div class="card error">'+esc(msg)+'</div>';return;}
- el.innerHTML=items.slice(0,15).map(x=>'<div class="card"><a href="'+esc(x.url)+'" target="_blank" rel="noopener noreferrer">'+esc(x.title)+'</a>'+(x.time?'<div class="meta">'+esc(x.time)+'</div>':'')+'</div>').join("");
-}
-fetch(DATA_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("HTTP "+r.status);return r.json();}).then(data=>{
- document.getElementById("status").textContent="Последна проверка: "+new Date(data.updated_at).toLocaleString("bg-BG")+" · автоматично обновяване на всеки 5 минути";
- render("darik",data.darik,"Darik няма заредени новини в момента.");
- render("dsport",data.dsport,"Dsport.bg няма заредени новини в момента.");
-}).catch(err=>{
- document.getElementById("status").textContent="Грешка при зареждане на новините.";
- render("darik",[],"Новините не могат да бъдат заредени.");
- render("dsport",[],"Спортните новини не могат да бъдат заредени.");
- console.error(err);
-});
-setTimeout(()=>location.reload(),300000);
+(() => {
+  const DATA_URL = "./news.json?ts=" + Date.now();
+  const REFRESH_MS = 5 * 60 * 1000;
+
+  const $ = id => document.getElementById(id);
+
+  function esc(value) {
+    return String(value ?? "").replace(/[&<>"']/g, c => ({
+      "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+    }[c]));
+  }
+
+  function normalizeItem(x) {
+    if (!x) return null;
+    if (typeof x === "string") return { title: x, url: "" };
+
+    const title =
+      x.title || x.name || x.headline || x.text || x.label || "";
+    const url =
+      x.url || x.link || x.href || x.articleUrl || x.article_url || "";
+    const time =
+      x.time || x.date || x.published || x.pubDate || x.published_at || "";
+
+    if (!title) return null;
+    return { title: String(title).trim(), url: String(url || "").trim(), time: String(time || "").trim() };
+  }
+
+  function findArray(data, keys) {
+    if (Array.isArray(data)) return data;
+    if (!data || typeof data !== "object") return [];
+
+    for (const key of keys) {
+      if (Array.isArray(data[key])) return data[key];
+    }
+
+    // Accept common nested formats.
+    for (const value of Object.values(data)) {
+      if (Array.isArray(value)) return value;
+    }
+    return [];
+  }
+
+  function render(id, raw, emptyText) {
+    const box = $(id);
+    const items = raw.map(normalizeItem).filter(Boolean);
+
+    // Remove duplicates by URL/title while preserving order.
+    const seen = new Set();
+    const unique = items.filter(item => {
+      const key = (item.url || item.title).toLowerCase();
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    }).slice(0, 20);
+
+    if (!unique.length) {
+      box.innerHTML = `<div class="empty">${esc(emptyText)}</div>`;
+      return;
+    }
+
+    box.innerHTML = unique.map(item => {
+      const content = `<span>${esc(item.title)}</span>` +
+        (item.time ? `<span class="time">${esc(item.time)}</span>` : "");
+
+      if (/^https?:\/\//i.test(item.url)) {
+        return `<a class="item" href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${content}</a>`;
+      }
+      return `<div class="item">${content}</div>`;
+    }).join("");
+  }
+
+  function setStatus(text) {
+    $("status").textContent = text;
+  }
+
+  async function loadNews() {
+    try {
+      const response = await fetch(DATA_URL, {
+        cache: "no-store",
+        headers: { "Accept": "application/json" }
+      });
+
+      if (!response.ok) throw new Error("HTTP " + response.status);
+
+      const data = await response.json();
+
+      const darik = findArray(data, ["darik", "darikNews", "news", "general"]);
+      const dsport = findArray(data, ["dsport", "sport", "sports"]);
+
+      render("darik", darik, "Darik няма заредени новини в момента.");
+      render("dsport", dsport, "Dsport няма заредени новини в момента.");
+
+      const generated =
+        data.updated_at || data.updatedAt || data.generated_at ||
+        data.last_update || data.timestamp || "";
+
+      const when = generated
+        ? new Date(generated).toLocaleString("bg-BG")
+        : new Date().toLocaleString("bg-BG");
+
+      setStatus(`Последна проверка: ${when} · автоматично обновяване на всеки 5 минути`);
+    } catch (error) {
+      console.error(error);
+      $("darik").innerHTML = '<div class="error">Неуспешно зареждане на Darik.</div>';
+      $("dsport").innerHTML = '<div class="error">Неуспешно зареждане на Dsport.</div>';
+      setStatus("Грешка при зареждането на news.json · нов опит след 5 минути");
+    }
+  }
+
+  loadNews();
+  setInterval(loadNews, REFRESH_MS);
+})();
 </script>
 </body>
 </html>
