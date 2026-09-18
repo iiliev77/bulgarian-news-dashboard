@@ -1,5 +1,87 @@
 {
-  "updated": "2026-09-18T15:57:09.635087+00:00",
-  "news": [],
-  "sport": []
+  "updated": "2026-09-18T16:36:12.379330+00:00",
+  "news": [
+    {
+      "title": "Спешно викат посланика ни в ОАЕ обратно у нас, започва проверка на посолството",
+      "url": "https://dariknews.bg/novini/bylgariia/speshno-vikat-poslanika-ni-v-oae-obratno-u-nas-zapochva-proverka-na-posolstvoto-2466875"
+    },
+    {
+      "title": "Дания откри първото в ЕС промишлено хранилище за въглероден диоксид под морското дъно",
+      "url": "https://dariknews.bg/novini/sviat/daniia-otkri-pyrvoto-v-es-promishleno-hranilishte-za-vygleroden-dioksid-pod-morskoto-dyno-2466873"
+    },
+    {
+      "title": "Русия обяви режисьора Андрей Звягинцев, чийто филм е номиниран за „Оскар“, за „чуждестранен агент“",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-obiavi-rezhisiora-andrej-zviagincev-chijto-film-e-nominiran-za-oskar-za-chuzhdestranen-agent-2466872"
+    },
+    {
+      "title": "Държавата иска пълно изпълнение на концесионните задължения на летище „Васил Левски“",
+      "url": "https://dariknews.bg/novini/biznes/dyrzhavata-iska-pylno-izpylnenie-na-koncesionnite-zadylzheniia-na-letishte-vasil-levski-2466871"
+    },
+    {
+      "title": "5 месеца прикован към легло след падане от НДК: Малкият Джани се нуждае от помощ за пълноценен живот",
+      "url": "https://dariknews.bg/novini/obshtestvo/5-meseca-prikovan-kym-leglo-sled-padane-ot-ndk-malkiiat-dzhani-se-nuzhdae-ot-pomosht-za-pylnocenen-zhivot-2466869"
+    },
+    {
+      "title": "Над 600 000 иранци се записаха за военно обучение",
+      "url": "https://dariknews.bg/novini/sviat/nad-600-000-iranci-se-zapisaha-za-voenno-obuchenie-2466866"
+    },
+    {
+      "title": "По случая „Баба Алино“ се проверяват 12 нотариуса, при двама вече има дисциплинарни дела",
+      "url": "https://dariknews.bg/novini/bylgariia/po-sluchaia-baba-alino-se-proveriavat-12-notariusa-pri-dvama-veche-ima-disciplinarni-dela-2466864"
+    },
+    {
+      "title": "Министерството на земеделието: Не изкривявайте фактите за мерките на правителството",
+      "url": "https://dariknews.bg/novini/bylgariia/ministerstvoto-na-zemedelieto-ne-izkriviavajte-faktite-za-merkite-na-pravitelstvoto-2466863"
+    },
+    {
+      "title": "Тревога заради дронове прекъсна временно изборния ден в Сочи",
+      "url": "https://dariknews.bg/novini/sviat/trevoga-zaradi-dronove-prekysna-vremenno-izborniia-den-v-sochi-2466861"
+    },
+    {
+      "title": "Сандов за обвинението: Поредна предизборна кампания ще мине през политическото участие на прокуратурата",
+      "url": "https://dariknews.bg/novini/bylgariia/sandov-za-obvinenieto-poredna-predizborna-kampaniia-shte-mine-prez-politicheskoto-uchastie-na-prokuraturata-2466858"
+    }
+  ],
+  "sport": [
+    {
+      "title": "Полски национал защити Алекс Николов след големия скандал",
+      "url": "https://gong.bg/volleyball/polski-nacional-zashtiti-aleks-nikolov-sled-golemiia-skandal-906555"
+    },
+    {
+      "title": "Невероятно! България е на върха в класация на ЕвроВолей 2026",
+      "url": "https://gong.bg/volleyball/nacionalni-otbori/neveroiatno-bylgariia-e-na-vyrha-v-klasaciia-na-evrovolej-2026-906549"
+    },
+    {
+      "title": "Звезда на Германия се закани: Имаме да си връщаме на българите",
+      "url": "https://gong.bg/volleyball/bg-volleyball/zvezda-na-germaniia-se-zakani-imame-da-si-vryshtame-na-bylgarite-906537"
+    },
+    {
+      "title": "България в топ 4 по резултатност след групите на Евроволей",
+      "url": "https://gong.bg/volleyball/bg-volleyball/bylgariia-v-top-4-po-rezultatnost-sled-grupite-na-evrovolej-906536"
+    },
+    {
+      "title": "Гласувай и избери най-доброто спасяване на 9-ия кръг в efbet Лига",
+      "url": "https://gong.bg/bg-football/efbet-liga/glasuvaj-i-izberi-naj-dobroto-spasiavane-na-9-iia-kryg-v-efbet-liga-906188"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/tenis/maje/na-zhivo-daniia-sreshtu-bylgariia-za-kupa-dejvis-grigor-vze-vtoriia-set-906534"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/bg-football/ludogorec-postigna-dogovorka-obiaviava-nov-trenior-spechelil-dosta-trofei-906551"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-slaviia-cska-1948-systavite-906562"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/bg-football/ot-levski-izliazoha-sys-syobshtenie-za-skypite-bileti-razkriha-koga-shte-vzemat-merki-906564"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/basketball/legioneri/dramatichen-obrat-prati-vezenkov-kodi-i-olimpiakos-na-final-za-superkupata-na-evroligata-906565"
+    }
+  ]
 }
