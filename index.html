@@ -15,7 +15,7 @@ button{background:#1a2a41;color:white;border:1px solid #3d5879;border-radius:16p
 .grid{display:grid;gap:22px;margin-top:35px}
 .card{background:#101f32;border:2px solid #2d4666;border-radius:30px;overflow:hidden}
 .card h2{margin:0;padding:25px 28px;background:#1b2d46;font-size:32px}
-.items{padding:20px 26px}.item{display:block;color:#f4f7fb;text-decoration:none;padding:17px 4px;border-bottom:1px solid #2b405a}
+.items{padding:20px 26px}.item{display:flex;gap:18px;align-items:flex-start;color:#f4f7fb;text-decoration:none;padding:17px 4px;border-bottom:1px solid #2b405a}.thumb{width:190px;height:110px;object-fit:cover;border-radius:14px;flex:0 0 190px;background:#17283d}.itembody{min-width:0}
 .item:last-child{border-bottom:0}.item strong{display:block;font-size:22px;line-height:1.3}
 .item span{display:block;color:#93a6bd;font-size:15px;margin-top:7px}
 .error{color:#ffb5b5;font-size:20px;line-height:1.5;padding:30px}.loading{color:#a9bad0;font-size:20px;padding:30px}
@@ -29,7 +29,7 @@ button{background:#1a2a41;color:white;border:1px solid #3d5879;border-radius:16p
 <div id="status" class="status">Зареждане…</div>
 <button onclick="loadAll()">↻ Обнови новините</button>
 <div id="news" class="grid"></div>
-<div class="small">Показват се публикациите от секциите „Последни“ на самите сайтове.</div>
+<div class="small">Показват се последните публикации със снимки, когато източникът предоставя изображение.</div>
 </div>
 
 <script>
@@ -60,22 +60,32 @@ function parseMarkdown(md, source){
   const out=[];
   const seen=new Set();
 
-  // Jina Markdown обикновено представя заглавията като [Текст](URL).
   for(let i=0;i<lines.length && out.length<15;i++){
     const m=lines[i].match(/^###?\s*\[([^\]]{8,})\]\((https?:\/\/[^)]+)\)/);
     if(!m) continue;
+
     const title=m[1].replace(/\s+/g," ").trim();
     const link=m[2];
     if(seen.has(link) || /гласувай за играч|livestream/i.test(title)) continue;
 
     let age="";
-    for(let j=i+1;j<Math.min(i+5,lines.length);j++){
+    let image="";
+
+    // Look around the headline for an image and publication age.
+    for(let j=Math.max(0,i-3);j<Math.min(i+6,lines.length);j++){
+      const im=lines[j].match(/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/);
+      if(im && !image) image=im[1];
+
+      const im2=lines[j].match(/https?:\/\/[^\s)]+\.(?:jpg|jpeg|png|webp)(?:\?[^\s)]*)?/i);
+      if(im2 && !image) image=im2[0];
+
       if(/преди\s+\d+\s+(минути|минута|часа|час|дни|ден)/i.test(lines[j])){
-        age=lines[j]; break;
+        age=lines[j];
       }
     }
+
     seen.add(link);
-    out.push({title,link,age});
+    out.push({title,link,age,image});
   }
   return out;
 }
@@ -108,8 +118,11 @@ async function loadAll(){
       const items=await fetchSource(source);
       card.querySelector(".items").innerHTML=items.map(x=>`
         <a class="item" href="${esc(x.link)}" target="_blank" rel="noopener">
-          <strong>${esc(x.title)}</strong>
-          <span>${esc(x.age || "последни новини")}</span>
+          ${x.image ? `<img class="thumb" src="${esc(x.image)}" alt="" loading="lazy" onerror="this.style.display='none'">` : ""}
+          <div class="itembody">
+            <strong>${esc(x.title)}</strong>
+            <span>${esc(x.age || "последни новини")}</span>
+          </div>
         </a>`).join("");
       ok++;
     }catch(e){
