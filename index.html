@@ -46,6 +46,15 @@ function esc(s){
   return String(s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
 }
 
+function normalizeTitle(s){
+  return String(s||"")
+    .toLowerCase()
+    .replace(/<[^>]*>/g,"")
+    .replace(/[^a-zа-я0-9]+/gi," ")
+    .replace(/\\s+/g," ")
+    .trim();
+}
+
 function parseRelative(text){
   const m=text.match(/преди\s+(\d+)\s+(минути|минута|часа|час|дни|ден)/i);
   if(!m) return null;
@@ -104,6 +113,7 @@ async function fetchSource(source){
 async function loadAll(){
   const news=document.getElementById("news");
   const status=document.getElementById("status");
+  const globalSeen = new Set();
   news.innerHTML="";
   status.textContent="Зареждане на последните новини…";
   let ok=0;
@@ -115,15 +125,24 @@ async function loadAll(){
     news.appendChild(card);
 
     try{
-      const items=await fetchSource(source);
-      card.querySelector(".items").innerHTML=items.map(x=>`
+      const items=(await fetchSource(source)).filter(x=>{
+        const key=normalizeTitle(x.title);
+        const url=String(x.link||"").split("?")[0].replace(/\\/$/,"");
+        const duplicate = globalSeen.has(key) || (url && globalSeen.has("url:"+url));
+        if(!duplicate){
+          globalSeen.add(key);
+          if(url) globalSeen.add("url:"+url);
+        }
+        return !duplicate;
+      });
+      card.querySelector(".items").innerHTML=items.length ? items.map(x=>`
         <a class="item" href="${esc(x.link)}" target="_blank" rel="noopener">
           ${x.image ? `<img class="thumb" src="${esc(x.image)}" alt="" loading="lazy" onerror="this.style.display='none'">` : ""}
           <div class="itembody">
             <strong>${esc(x.title)}</strong>
             <span>${esc(x.age || "последни новини")}</span>
           </div>
-        </a>`).join("");
+        </a>`).join("") : '<div class="loading">Няма други нови заглавия.</div>';
       ok++;
     }catch(e){
       card.querySelector(".items").innerHTML=`<div class="error">Временно не могат да се заредят последните новини. Натиснете „Обнови новините“.</div>`;
