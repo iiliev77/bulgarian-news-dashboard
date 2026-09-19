@@ -390,7 +390,7 @@ def extract_article_links(source):
                 path
             ):
                 continue
-if domain == "dsport.bg":
+        if domain == "dsport.bg":
 
     if not re.search(
 
