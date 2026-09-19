@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T08:11:24.503646+00:00",
+  "updated": "2026-09-19T08:25:16.191859+00:00",
   "news": [
+    {
+      "title": "Тръмп: Синът ми ще върне парите на руския олигарх, платил за сватбата му",
+      "url": "https://dariknews.bg/novini/sviat/trymp-sinyt-mi-shte-vyrne-parite-na-ruskiia-oligarh-platil-za-svatbata-mu-2466901",
+      "image": "https://m.netinfo.bg/media/images/51384/51384534/300-169-donald-trymp-mladshi-i-betina.jpg",
+      "source": "DarikNews",
+      "section": "news"
+    },
     {
       "title": "Ефремова: Ще има увеличение на детските надбавки и майчинството през втората година (ВИДЕО)",
       "url": "https://dariknews.bg/novini/obshtestvo/efremova-shte-ima-uvelichenie-na-detskite-nadbavki-i-majchinstvoto-prez-vtorata-godina-video-2466900",
@@ -98,13 +105,6 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384373/300-169-sarkofagyt-na-pokojniia-kral-harald-peti.jpg",
       "source": "DarikNews",
       "section": "news"
-    },
-    {
-      "title": "Тръмп обяви сделка за Гренландия: САЩ ще засилят военното си присъствие",
-      "url": "https://dariknews.bg/novini/sviat/trymp-obiavi-sdelka-za-grenlandiia-sasht-shte-zasiliat-voennoto-si-prisystvie-2466891",
-      "image": "https://m.netinfo.bg/media/images/51245/51245421/300-169-grenlandiia-trymp.jpg",
-      "source": "DarikNews",
-      "section": "news"
     }
   ],
   "sport": [
@@ -193,22 +193,22 @@
       "section": "sport"
     },
     {
+      "title": "Почина легенда на Интер",
+      "url": "https://gong.bg/football-sviat/italia/pochina-legenda-na-inter-906624",
+      "image": "",
+      "source": "Gong",
+      "section": "sport"
+    },
+    {
+      "title": "Дежавю: Реал Мадрид оново срещу Везенков и Олимпиакос, този път във финала за Суперкупата",
+      "url": "https://gong.bg/basketball/evroturniri/dezhaviu-real-madrid-onovo-sreshtu-vezenkov-i-olimpiakos-tozi-pyt-vyv-finala-za-superkupata-906623",
+      "image": "",
+      "source": "Gong",
+      "section": "sport"
+    },
+    {
       "title": "Легендата Евгени Малкин няма да спира - започва своя сезон №21 за Питсбърг",
       "url": "https://gong.bg/oshte-sport/zimni-sportove/legendata-evgeni-malkin-niama-da-spira-zapochva-svoia-sezon-21-za-pitsbyrg-906622",
-      "image": "",
-      "source": "Gong",
-      "section": "sport"
-    },
-    {
-      "title": "Хари Кейн отказа да влезе в полемика с Ламин Ямал",
-      "url": "https://gong.bg/football-sviat/germania/hari-kejn-otkaza-da-vleze-v-polemika-s-lamin-iamal-906621",
-      "image": "",
-      "source": "Gong",
-      "section": "sport"
-    },
-    {
-      "title": "Шеф в Байерн захапа Ламин Ямал",
-      "url": "https://gong.bg/football-sviat/germania/shef-v-bajern-zahapa-lamin-iamal-906613",
       "image": "",
       "source": "Gong",
       "section": "sport"
