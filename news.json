@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-19T13:45:28.566317+00:00",
+  "updated": "2026-09-19T13:53:30.287633+00:00",
   "articles": [
     {
       "title": "Убиха възрастна жена в Разложко, съпругът ѝ е с опасност за живота",
       "url": "https://dariknews.bg/regioni/blagoevgrad/ubiha-vyzrastna-zhena-v-razlozhko-syprugyt-e-s-opasnost-za-zhivota-2466914",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51280/51280718/991-ratio-linejka.jpg"
+      "image": "https://m.netinfo.bg/media/images/51384/51384650/991-ratio-policejska-lenta.jpg"
     },
     {
       "title": "Път и тротоар пропаднаха след авария на водопровод във Варна",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384510/991-ratio-teodora.jpg"
     },
     {
+      "title": "Моуриньо преди дербито с Атлети: Този мач има нещо повече, но носи три точки 19 Сеп | 16:52",
+      "url": "https://dsport.bg/mourino-predi-derbito-s-atleti-tozi-mach-ima-nesto-poveche-no-nosi-tri-tochki~240308.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2293298433~1.og.jpg"
+    },
+    {
       "title": "Тотнъм най-сетне се отпуши, Астън Вила продължи мъката за „шпорите“ 19 Сеп | 16:38",
       "url": "https://dsport.bg/totnam-se-otpushi-s-avtogol-no-astan-vila-nalozi-volata-si~240306.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1022513~1.og.jpg"
-    },
-    {
-      "title": "Луис Гарсия Пласа: Статистиката на Барса е от друга планета, но и Севиля е в отлична форма 19 Сеп | 14:55",
-      "url": "https://dsport.bg/luis-garsia-plasa-statistikata-na-barsa-e-ot-druga-planeta-no-i-sevila-e-v-otlichna-forma~240299.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2277864874.og.jpg"
     }
   ]
 }
