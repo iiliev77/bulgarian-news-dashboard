@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T08:46:51.938625+00:00",
+  "updated": "2026-09-19T08:54:48.798027+00:00",
   "news": [
+    {
+      "title": "Почина италианската футболна легенда Сандро Мацола",
+      "url": "https://dariknews.bg/novini/sviat/pochina-italianskata-futbolna-legenda-sandro-macola-2466904",
+      "image": "https://m.netinfo.bg/media/images/51000/51000742/300-169-svesht.jpg",
+      "source": "DarikNews",
+      "section": "news"
+    },
     {
       "title": "Тръмп: Синът ми ще върне парите на руския олигарх, платил за сватбата му",
       "url": "https://dariknews.bg/novini/sviat/trymp-sinyt-mi-shte-vyrne-parite-na-ruskiia-oligarh-platil-za-svatbata-mu-2466901",
@@ -98,13 +105,6 @@
       "image": "https://m.netinfo.bg/media/images/46376/46376001/300-169-vot-izbori.jpg",
       "source": "DarikNews",
       "section": "news"
-    },
-    {
-      "title": "От любов към природата: Саркофагът на крал Харалд V е направен от скала, която абсорбира CO₂",
-      "url": "https://dariknews.bg/novini/sviat/ot-liubov-kym-prirodata-sarkofagyt-na-kral-harald-v-e-napraven-ot-skala-koiato-absorbira-co-2466880",
-      "image": "https://m.netinfo.bg/media/images/51384/51384373/300-169-sarkofagyt-na-pokojniia-kral-harald-peti.jpg",
-      "source": "DarikNews",
-      "section": "news"
     }
   ],
   "sport": [
@@ -193,6 +193,13 @@
       "section": "sport"
     },
     {
+      "title": "Йович ще защитава титлата си в Гуадалахара срещу сънародничка (видео)",
+      "url": "https://gong.bg/tenis/jeni/iovich-shte-zashtitava-titlata-si-v-guadalahara-sreshtu-synarodnichka-video-906627",
+      "image": "",
+      "source": "Gong",
+      "section": "sport"
+    },
+    {
       "title": "Дембеле: Кварацхелия заслужава \"Златата топка\"",
       "url": "https://gong.bg/football-sviat/francia/dembele-kvaracheliia-zasluzhava-zlatata-topka-906626",
       "image": "",
@@ -202,13 +209,6 @@
     {
       "title": "Паула Бадоса отнесе американка за 1/2-финал в Сао Пауло",
       "url": "https://gong.bg/tenis/jeni/paula-badosa-otnese-amerikanka-za-12-final-v-sao-paulo-906625",
-      "image": "",
-      "source": "Gong",
-      "section": "sport"
-    },
-    {
-      "title": "Почина легенда на Интер",
-      "url": "https://gong.bg/football-sviat/italia/pochina-legenda-na-inter-906624",
       "image": "",
       "source": "Gong",
       "section": "sport"
