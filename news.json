@@ -1,20 +1,6 @@
 {
-  "updated": "2026-09-19T10:09:51.448449+00:00",
+  "updated": "2026-09-19T10:21:24.454948+00:00",
   "articles": [
-    {
-      "title": "Парламентарни избори",
-      "url": "https://dariknews.bg/izbori",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/logo.png"
-    },
-    {
-      "title": "News in English",
-      "url": "https://dariknews.bg/inenglish",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/logo.png"
-    },
     {
       "title": "Заради катастрофа: Движението по пътя Звъничево – Пазарджик е в една лента",
       "url": "https://dariknews.bg/regioni/Pazardzhik/zaradi-katastrofa-dvizhenieto-po-pytia-zvynichevo-pazardzhik-e-v-edna-lenta-2466908",
@@ -142,6 +128,20 @@
       "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clFaVmRuaEJ4ODh6YTE3V2dkNlFKYlp4S0dISDRaUmlzNkZ5d3NuU2hoRkw0RFRsMTdEQjlETC95QkJkM0orQ3lERnBtMmhBRm9RRzNmNlQxSElYTkhW"
     },
     {
+      "title": "България с три финала на Световната купа по спортна гимнастика",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-s-tri-finala-na-svetovnata-kupa-po-sportna-gimnastika-2466893",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clQvT0NoYnRYWDg2dXJtMG5ab3JNL3NxUWh3aGR5TkRrL1BiTksvUzhDa2g4ZHF3aWcyUm0ycjJLUWp4Zm92enJCK3p4NkxoVlFyK3A2V0xvSlhnRWNl"
+    },
+    {
+      "title": "Почитаме светите мъченици Трофим, Саватий и Доримедонт",
+      "url": "https://dariknews.bg/novini/obshtestvo/pochitame-svetite-mychenici-trofim-savatij-i-dorimedont-2466892",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clI3RWQwRkRod3VuSmNma3IzT1FpM0tiemM5Yk01anRLVkUwcDlVQUdEbFlRNEJ3cHJEUzFMM1VxNlRJYUZWMStVPQ=="
+    },
+    {
       "title": "България се изправя срещу Германия на 1/8-финал на Евроволей 2026",
       "url": "https://gong.bg/volleyball/bg-volleyball/bylgariia-se-izpravia-sreshtu-germaniia-na-18-final-na-evrovolej-2026-906607",
       "source": "Gong",
@@ -188,11 +188,11 @@
       "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-dunav-botev-vraca-systavite-906634",
       "source": "Gong",
       "section": "sport",
-      "image": "https://m4.netinfo.bg/media/images/51384/51384496/960-600-dunav-botev-vraca.jpg"
+      "image": "https://m5.netinfo.bg/media/images/51384/51384557/960-600-dunav-botev-vraca.jpg"
     },
     {
       "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-i-daniia-reshavat-vsichko-za-kupa-dejvis-906630",
+      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-i-daniia-reshavat-vsichko-za-kupa-dejvis-donski-i-nesterov-igraiat-dvojki-906630",
       "source": "Gong",
       "section": "sport",
       "image": "https://m3.netinfo.bg/media/images/51384/51384341/960-600-bylgariia-za-kupa-dejvis.jpg"
@@ -224,6 +224,20 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m4.netinfo.bg/media/images/51167/51167539/960-600-maks-dauman.jpg"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/boyni/boxing/chetiri-bylgarski-bitki-shte-vdignat-tribunite-na-evropejskoto-po-boks-v-sofiia-906636",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m3.netinfo.bg/media/images/51102/51102895/960-600-zlatislava-chukanova.jpg"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/tenis/jeni/elizara-ianeva-zashtiti-titlata-si-v-pazardzhik-906635",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m5.netinfo.bg/media/images/50990/50990863/960-600-elizara-ianeva.jpg"
     },
     {
       "title": "Live Livestream",
@@ -266,20 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m4.netinfo.bg/media/images/51384/51384539/960-600-dzhan-piero-gasperini.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/football-sviat/ispania/portugalski-talant-podpisva-s-barselona-906628",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m.netinfo.bg/media/images/42993/42993940/960-600-barselona-logo.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/jeni/iovich-shte-zashtitava-titlata-si-v-guadalahara-sreshtu-synarodnichka-video-906627",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m5.netinfo.bg/media/images/51384/51384537/960-600-iva-iovich.jpg"
     }
   ]
 }
