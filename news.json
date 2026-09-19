@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T15:37:58.641170+00:00",
+  "updated": "2026-09-19T15:45:33.850525+00:00",
   "articles": [
+    {
+      "title": "Голям пожар в близост до стадиона в Карлово (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/plovdiv/goliam-pozhar-v-blizost-do-stadiona-v-karlovo-snimki-2466920",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384731/991-ratio-pozhar-karlovo-bez-reklama.jpg"
+    },
     {
       "title": "Въздушна тревога в Рияд и експлозии край летището след предполагаема атака на хусите",
       "url": "https://dariknews.bg/novini/sviat/vyzdushna-trevoga-v-riiad-i-eksplozii-kraj-letishteto-sled-predpolagaema-ataka-na-husite-2466919",
@@ -135,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "В Мексико заловиха „Ел Муерто“ – един от най-издирваните престъпници в Салвадор",
-      "url": "https://dariknews.bg/novini/sviat/v-meksiko-zaloviha-el-muerto-edin-ot-naj-izdirvanite-prestypnici-v-salvador-2466898",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384523/991-ratio-meksikanski-policai.jpg"
+      "title": "Помощник на Фрейташ: Има различен съдийски критерий срещу Септември 19 Сеп | 18:39",
+      "url": "https://dsport.bg/pomostnik-na-freitash-ima-razlichen-sadiiski-kriterii-srestu-septemvri~240323.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027168~1.og.jpg"
+    },
+    {
+      "title": "Айнтрахт Франкфурт свали Фрайбург от върха 19 Сеп | 18:34",
+      "url": "https://dsport.bg/aintraht-frankfurt-svali-fraiburg-ot-varha~240322.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296066370.og.jpg"
     },
     {
       "title": "Станислав Генчев: Победата е много важна, за да надградим 19 Сеп | 18:31",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295635414.og.jpg"
-    },
-    {
-      "title": "Дарко Тасевски на стаж в АЕК, кара Про лиценз в Атина 19 Сеп | 17:55",
-      "url": "https://dsport.bg/darko-tasevski-na-staz-v-aek-kara-pro-licenz-v-atina~240315.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/30.06-7~1.og.jpg"
-    },
-    {
-      "title": "България е хегемон в мачовете срещу Германия 19 Сеп | 17:46",
-      "url": "https://dsport.bg/balgaria-e-hegemon-v-machovete-srestu-germania~240314.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/19.09-.og.jpg"
     }
   ]
 }
