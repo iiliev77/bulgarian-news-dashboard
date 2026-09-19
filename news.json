@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:39:47.059210+00:00",
+  "updated": "2026-09-19T10:42:55.593756+00:00",
   "articles": [
     {
       "title": "Заради катастрофа: Движението по пътя Звъничево – Пазарджик е в една лента",
@@ -227,6 +227,13 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/football-sviat/drugi/bivsh-golmajstor-na-cska-shte-igrae-v-libiia-906640",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m3.netinfo.bg/media/images/51384/51384561/960-600-diukens-nazon.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/football-sviat/anglia/v-arsenal-gotovi-da-se-razdeliat-s-naj-golemiia-si-talant-906632",
       "source": "Gong",
       "section": "sport",
@@ -273,13 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m3.netinfo.bg/media/images/51384/51384501/960-600-filip-kaloch.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/football-sviat/germania/fenovete-na-bajern-s-goliam-protest-906631",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m3.netinfo.bg/media/images/51384/51384541/960-600-bajern-fenove.jpg"
     }
   ]
 }
