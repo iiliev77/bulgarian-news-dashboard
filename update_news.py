@@ -391,14 +391,10 @@ def extract_article_links(source):
             ):
                 continue
         if domain == "dsport.bg":
-
-    if not re.search(
-
-        r"~\d+\.html$",
-
-        path
-
-    ):
+            if not re.search(
+                r"~\d+\.html$",
+                path
+            ):
 
         continue
         if len(title) < 15 or len(title) > 300:
