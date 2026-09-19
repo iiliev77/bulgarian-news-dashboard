@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-19T10:51:08.008296+00:00",
+  "updated": "2026-09-19T10:58:53.449773+00:00",
   "articles": [
     {
-      "title": "Пожар на депо за отпадъци край Плевен",
-      "url": "https://dariknews.bg/regioni/pleven/pozhar-na-depo-za-otpadyci-kraj-pleven-2466909",
+      "title": "Пожар се разпространи на голяма площ на депо за отпадъци край Плевен",
+      "url": "https://dariknews.bg/regioni/pleven/pozhar-se-razprostrani-na-goliama-plosht-na-depo-za-otpadyci-kraj-pleven-2466909",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51196/51196670/640-420-pozharna.jpg"
@@ -192,7 +192,7 @@
     },
     {
       "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-i-daniia-reshavat-vsichko-za-kupa-dejvis-donski-i-nesterov-igraiat-dvojki-906630",
+      "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-i-daniia-reshavat-vsichko-za-kupa-dejvis-donski-i-nesterov-zagubiha-pyrviia-set-na-dvojki-906630",
       "source": "Gong",
       "section": "sport",
       "image": "https://m3.netinfo.bg/media/images/51384/51384341/960-600-bylgariia-za-kupa-dejvis.jpg"
@@ -217,6 +217,13 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m5.netinfo.bg/media/images/51384/51384497/960-600-septemvri-botev-plovdiv.jpg"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/football-sviat/anglia/goliam-talant-napuska-man-iunajted-chetiri-granda-se-boriat-za-podpisa-mu-906641",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m4.netinfo.bg/media/images/51363/51363482/960-600-dzhej-dzhej-gejbriyl.jpg"
     },
     {
       "title": "Live Livestream",
@@ -273,13 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m5.netinfo.bg/media/images/51384/51384543/960-600-ben-sheltyn.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/bg-football/efbet-liga/half-na-ludogorec-rajs-si-trygna-bez-da-se-sboguva-906609",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m3.netinfo.bg/media/images/51384/51384501/960-600-filip-kaloch.jpg"
     }
   ]
 }
