@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T12:42:42.707189+00:00",
+  "updated": "2026-09-19T12:53:06.416651+00:00",
   "articles": [
+    {
+      "title": "Убиха възрастна жена в Разложко, съпругът ѝ е с опасност за живота",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/ubiha-vyzrastna-zhena-v-razlozhko-syprugyt-e-s-opasnost-za-zhivota-2466914",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51280/51280718/991-ratio-linejka.jpg"
+    },
     {
       "title": "Път и тротоар пропаднаха след авария на водопровод във Варна",
       "url": "https://dariknews.bg/regioni/varna/pyt-i-trotoar-propadnaha-sled-avariia-na-vodoprovod-vyv-varna-2466913",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384510/991-ratio-teodora.jpg"
     },
     {
-      "title": "Променят движението по бул. „Владимир Вазов“ заради строежа на метрото",
-      "url": "https://dariknews.bg/regioni/sofiia/promeniat-dvizhenieto-po-bul.-vladimir-vazov-zaradi-stroezha-na-metroto-2466894",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384502/991-ratio-sofiia-ulica.jpg"
+      "title": "Донски и Нестеров спечелиха мача на двойки, България води с 2:1 победи над Дания за Купа „Дейвис“ 19 Сеп | 15:48",
+      "url": "https://dsport.bg/donski-i-nesterov-specheliha-macha-na-dvoiki-balgaria-vodi-s-2-1-pobedi-nad-dania-za-kupa-deivis~240303.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/nacionali.og.jfif"
     },
     {
       "title": "Капитанът на България: Очаквам залата да е пълна както срещу Полша (ВИДЕО) 19 Сеп | 15:30",
@@ -156,11 +163,11 @@
       "image": "https://dsport.bg/media/383/tambove-sait-2026-09-19t152328.407.og.png"
     },
     {
-      "title": "На живо: Ботев Враца върна гол срещу Дунав 19 Сеп | 15:08",
+      "title": "На живо: Ботев Враца изравни от 0:2 срещу Дунав 19 Сеп | 15:08",
       "url": "https://dsport.bg/na-zivo-dunav-ruse-botev-vraca-sastavi~240288.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/19.09-2~2.og.jpg"
+      "image": "https://dsport.bg/media/383/1027149.og.jpg"
     },
     {
       "title": "Бленджини: Чака ни много тежък мач, защото в Германия има много нови състезатели (ВИДЕО) 19 Сеп | 15:06",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2293830620.og.jpg"
-    },
-    {
-      "title": "Международният съюз по биатлон с нов президент 19 Сеп | 13:50",
-      "url": "https://dsport.bg/mezdunarodniat-sauz-po-biatlon-s-nov-prezident~240294.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2196030935~1.og.jpg"
     }
   ]
 }
