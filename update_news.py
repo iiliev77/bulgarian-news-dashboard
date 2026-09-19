@@ -326,95 +326,176 @@ def title_from_link(link):
 
 
 def extract_article_links(source):
+
     html = get_html(source["url"])
-    soup = BeautifulSoup(
-        html,
-        "html.parser"
-    )
+
+    soup = BeautifulSoup(html, "html.parser")
 
     domain = source["domain"]
+
     candidates = []
+
     seen_urls = set()
 
-    for link in soup.find_all(
-        "a",
-        href=True
-    ):
+    def add_candidate(link):
+
         href = absolute_url(
+
             source["url"],
+
             link.get("href")
+
         )
+
         title = title_from_link(link)
 
         if not href or not title:
-            continue
 
-        if not valid_article_url(
-            href,
-            domain
-        ):
-            continue
+            return
+
+        if not valid_article_url(href, domain):
+
+            return
 
         parsed = urlparse(href)
+
         normalized = parsed._replace(
+
             query="",
+
             fragment=""
+
         ).geturl()
 
         if normalized in seen_urls:
-            continue
+
+            return
 
         path = parsed.path.lower()
 
-        blocked_parts = (
-            "/search",
-            "/forum",
-            "/livescore",
-            "/streaming",
-            "/video",
-            "/tag/",
-            "/tags/",
-            "/login",
-            "/register",
-        )
-
-        if any(
-            part in path
-            for part in blocked_parts
-        ):
-            continue
-
         if domain == "dariknews.bg":
-            if not re.search(
-                r"-\d{6,}$",
-                path
-            ):
-                continue
+
+            if not re.search(r"-\d{6,}$", path):
+
+                return
+
         if domain == "dsport.bg":
-            if not re.search(
-                r"~\d+\.html$",
-                path
-            ):
-                continue
+
+            if not re.search(r"~\d+\.html$", path):
+
+                return
+
         if len(title) < 15 or len(title) > 300:
-            continue
+
+            return
 
         seen_urls.add(normalized)
-        candidates.append(
-            (
-                title,
-                normalized
-            )
+
+        candidates.append((title, normalized))
+
+    # DSPORT – вземаме само новините от секция „Най-нови“
+
+    if domain == "dsport.bg":
+
+        latest = soup.find(
+
+            lambda tag:
+
+            tag.name in ("h2", "h3")
+
+            and clean_text(
+
+                tag.get_text(" ", strip=True)
+
+            ) == "Най-нови"
+
         )
 
-        if len(candidates) >= (
-            source["max_articles"] * 3
-        ):
+        if latest:
+
+            container = latest.parent
+
+            for _ in range(4):
+
+                links = container.find_all(
+
+                    "a",
+
+                    href=True
+
+                )
+
+                article_links = []
+
+                for link in links:
+
+                    href = absolute_url(
+
+                        source["url"],
+
+                        link.get("href")
+
+                    )
+
+                    path = urlparse(
+
+                        href
+
+                    ).path.lower()
+
+                    if re.search(
+
+                        r"~\d+\.html$",
+
+                        path
+
+                    ):
+
+                        article_links.append(link)
+
+                if len(article_links) >= 5:
+
+                    break
+
+                if container.parent is None:
+
+                    break
+
+                container = container.parent
+
+            for link in container.find_all(
+
+                "a",
+
+                href=True
+
+            ):
+
+                add_candidate(link)
+
+                if len(candidates) >= source["max_articles"]:
+
+                    break
+
+        return candidates
+
+    # DARIK
+
+    for link in soup.find_all(
+
+        "a",
+
+        href=True
+
+    ):
+
+        add_candidate(link)
+
+        if len(candidates) >= source["max_articles"] * 3:
+
             break
 
     return candidates
-
-
 def build_source_articles(source):
     articles = []
 
