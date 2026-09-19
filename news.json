@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T12:28:28.735460+00:00",
+  "updated": "2026-09-19T12:42:42.707189+00:00",
   "articles": [
     {
       "title": "Път и тротоар пропаднаха след авария на водопровод във Варна",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384502/991-ratio-sofiia-ulica.jpg"
     },
     {
+      "title": "Капитанът на България: Очаквам залата да е пълна както срещу Полша (ВИДЕО) 19 Сеп | 15:30",
+      "url": "https://dsport.bg/kapitanat-na-balgaria-ochakvam-da-e-palna-kakto-srestu-polsha-video~240302.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1004720~1.og.jpg"
+    },
+    {
       "title": "На живо: Септември - Ботев Пловдив (Състави) 19 Сеп | 15:20",
       "url": "https://dsport.bg/na-zivo-septemvri-botev-plovdiv-sastavi~240301.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2196030935~1.og.jpg"
-    },
-    {
-      "title": "Ямал: Преживял съм расизъм хиляда пъти 19 Сеп | 13:41",
-      "url": "https://dsport.bg/amal-prezival-sam-rasizam-hilada-pati~240293.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2293811814~1.og.jpg"
     }
   ]
 }
