@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:16:42.264265+00:00",
+  "updated": "2026-09-19T18:30:41.397861+00:00",
   "articles": [
     {
       "title": "Тревожна тенденция: Пада възрастта на употребяващите наркотици",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384538/991-ratio-sandro-macola.jpg"
     },
     {
+      "title": "Борусия Дортмунд изкова ценен успех над Щутгарт 19 Сеп | 21:11",
+      "url": "https://dsport.bg/borusia-dortmund-izkova-cenen-uspeh-nad-stutgart~240331.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296102224.og.jpg"
+    },
+    {
       "title": "Александър Тунчев с претенции за дузпа 19 Сеп | 21:10",
       "url": "https://dsport.bg/aleksandar-tunchev-s-pretencii-za-duzpa~240330.html",
       "source": "Dsport",
@@ -174,7 +181,7 @@
       "url": "https://dsport.bg/balgaria-sresta-germania-v-1-8-finalite-na-evrovolei-2026~240261.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/1027242.og.jpg"
+      "image": "https://dsport.bg/media/383/1027333.og.jpg"
     },
     {
       "title": "Мартин Минчев отбеляза в Катовице, отборът му загуби в голов трилър 19 Сеп | 20:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296073480.og.jpg"
-    },
-    {
-      "title": "Григор Димитров отстъпи на Холгер Руне в дълга битка, Дания изравни на България 19 Сеп | 18:49",
-      "url": "https://dsport.bg/grigor-dimitrov-otstapi-na-holger-rune-v-dalga-bitka-dania-izravni-na-balgaria~240324.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2292433441.og.jpg"
     }
   ]
 }
