@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:30:55.777616+00:00",
+  "updated": "2026-09-19T09:56:11.249231+00:00",
   "articles": [
     {
       "title": "Парламентарни избори",
@@ -14,6 +14,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/logo.png"
+    },
+    {
+      "title": "Последният успял да излезе от Южната кула на 11 септември 2001 г.: Историята на Рон Де Франческо",
+      "url": "https://dariknews.bg/novini/sviat/posledniiat-uspial-da-izleze-ot-iuzhnata-kula-na-11-septemvri-2001-g.-istoriiata-na-ron-de-franchesko-2466906",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clFIa09nQWFwT0srclJ2Q0VkWWM3TmRERXNYcTVOQUVDSjhmWExMNTZsSUd4VldzYm1Yd2pXS01HOGplQTI0VlRpaXh2a3ZMVTBWRXdtRW4vZWpmdG1HNldOSTZ6M3ZGNjh2aW1Ob3JsckZvdz09"
     },
     {
       "title": "Йотова: „Петрохан“ е една от най-кървящите рани на нас като общество",
@@ -135,13 +142,6 @@
       "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clI3RWQwRkRod3VuSmNma3IzT1FpM0tiemM5Yk01anRLVkUwcDlVQUdEbFlRNEJ3cHJEUzFMM1VxNlRJYUZWMStVPQ=="
     },
     {
-      "title": "ЦИК с важно напомняне за българите, които ще гласуват в чужбина на 25 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-s-vazhno-napomniane-za-bylgarite-koito-shte-glasuvat-v-chuzhbina-na-25-oktomvri-2466881",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clMyazQ3MkZxZjZWbnczM001N3QyaWNjc2ZwRGlHcGNQaVNZanlsN3FTbjZ3OWQvRHhHYzBpcDJVZFhHbnVyK05BPQ=="
-    },
-    {
       "title": "България се изправя срещу Германия на 1/8-финал на Евроволей 2026",
       "url": "https://gong.bg/volleyball/bg-volleyball/bylgariia-se-izpravia-sreshtu-germaniia-na-18-final-na-evrovolej-2026-906607",
       "source": "Gong",
@@ -213,6 +213,13 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/football-sviat/anglia/v-arsenal-gotovi-da-se-razdeliat-s-naj-golemiia-si-talant-906632",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m4.netinfo.bg/media/images/51167/51167539/960-600-maks-dauman.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/bg-football/efbet-liga/dunav-priema-botev-vraca-v-povtorniia-debiut-na-georgi-chilikov-906604",
       "source": "Gong",
       "section": "sport",
@@ -220,10 +227,24 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/tenis/maje/lehechka-iznenada-sheltyn-za-kupa-dejvis-i-vyrna-pariteta-mezhdu-chehiia-i-sasht-906633",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m5.netinfo.bg/media/images/51384/51384543/960-600-ben-sheltyn.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/bg-football/efbet-liga/half-na-ludogorec-rajs-si-trygna-bez-da-se-sboguva-906609",
       "source": "Gong",
       "section": "sport",
       "image": "https://m3.netinfo.bg/media/images/51384/51384501/960-600-filip-kaloch.jpg"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/football-sviat/germania/fenovete-na-bajern-s-goliam-protest-906631",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m3.netinfo.bg/media/images/51384/51384541/960-600-bajern-fenove.jpg"
     },
     {
       "title": "Live Livestream",
@@ -259,27 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m4.netinfo.bg/media/images/51336/51336299/960-600-usman-dembele.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/jeni/paula-badosa-otnese-amerikanka-za-12-final-v-sao-paulo-906625",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m3.netinfo.bg/media/images/51384/51384535/960-600-paula-badosa.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/football-sviat/italia/pochina-legenda-na-inter-906624",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m5.netinfo.bg/media/images/50284/50284823/960-600-smyrt.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/basketball/evroturniri/dezhaviu-real-madrid-onovo-sreshtu-vezenkov-i-olimpiakos-tozi-pyt-vyv-finala-za-superkupata-906623",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m5.netinfo.bg/media/images/51384/51384533/960-600-bk-real-madrid.jpg"
     }
   ]
 }
