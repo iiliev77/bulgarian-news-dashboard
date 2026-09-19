@@ -54,4 +54,4 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Update news"
 
-          git push
+          git push origin HEAD
