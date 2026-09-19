@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+
+<html lang="bg">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Български новини</title>
+
+  <style>
+
+    * {
+
+      box-sizing: border-box;
+
+    }
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background: #f2f2f2;
+
+      color: #222;
+
+    }
+
+    header {
+
+      background: #111827;
+
+      color: white;
+
+      padding: 20px;
+
+      text-align: center;
+
+    }
+
+    header h1 {
+
+      margin: 0;
+
+      font-size: 32px;
+
+    }
+
+    header p {
+
+      margin: 8px 0 0;
+
+      font-size: 16px;
+
+      opacity: 0.8;
+
+    }
+
+    .container {
+
+      max-width: 1400px;
+
+      margin: auto;
+
+      padding: 20px;
+
+    }
+
+    .sections {
+
+      display: grid;
+
+      grid-template-columns: 1fr 1fr;
+
+      gap: 20px;
+
+    }
+
+    section {
+
+      background: white;
+
+      border-radius: 12px;
+
+      padding: 18px;
+
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+
+    }
+
+    section h2 {
+
+      margin-top: 0;
+
+      padding-bottom: 12px;
+
+      border-bottom: 3px solid #ddd;
+
+      font-size: 26px;
+
+    }
+
+    .news-list {
+
+      display: flex;
+
+      flex-direction: column;
+
+      gap: 14px;
+
+    }
+
+    .news-item {
+
+      display: block;
+
+      padding: 14px;
+
+      border-radius: 10px;
+
+      background: #f7f7f7;
+
+      text-decoration: none;
+
+      color: #222;
+
+      transition: 0.2s;
+
+    }
+
+    .news-item:hover {
+
+      background: #eaeaea;
+
+    }
+
+    .news-source {
+
+      font-size: 13px;
+
+      color: #666;
+
+      margin-bottom: 5px;
+
+    }
+
+    .news-title {
+
+      font-size: 20px;
+
+      font-weight: bold;
+
+      line-height: 1.3;
+
+    }
+
+    .news-time {
+
+      margin-top: 7px;
+
+      font-size: 13px;
+
+      color: #777;
+
+    }
+
+    .loading {
+
+      text-align: center;
+
+      padding: 30px;
+
+      color: #777;
+
+    }
+
+    .error {
+
+      padding: 20px;
+
+      color: #a00;
+
+      background: #fff0f0;
+
+      border-radius: 8px;
+
+    }
+
+    footer {
+
+      text-align: center;
+
+      padding: 20px;
+
+      color: #777;
+
+      font-size: 13px;
+
+    }
+
+    @media (max-width: 800px) {
+
+      .sections {
+
+        grid-template-columns: 1fr;
+
+      }
+
+      header h1 {
+
+        font-size: 26px;
+
+      }
+
+      .news-title {
+
+        font-size: 18px;
+
+      }
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<header>
+
+  <h1>🇧🇬 Български новини</h1>
+
+  <p>Последни новини и спорт</p>
+
+</header>
+
+<div class="container">
+
+  <div class="sections">
+
+    <section>
+
+      <h2>📰 Новини</h2>
+
+      <div id="news" class="news-list">
+
+        <div class="loading">
+
+          Зареждане на последните новини...
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section>
+
+      <h2>⚽ Спорт</h2>
+
+      <div id="sport" class="news-list">
+
+        <div class="loading">
+
+          Зареждане на последните спортни новини...
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </div>
+
+</div>
+
+<footer>
+
+  Последно обновяване: <span id="updated">—</span>
+
+</footer>
+
+<script>
+
+const NEWS_FILE = "news.json";
+
+/*
+
+  Зареждаме новините от news.json.
+
+  Този файл ще бъде създаден и обновяван автоматично
+
+  от GitHub Actions.
+
+*/
+
+async function loadNews() {
+
+  const newsContainer = document.getElementById("news");
+
+  const sportContainer = document.getElementById("sport");
+
+  try {
+
+    const response = await fetch(
+
+      NEWS_FILE + "?t=" + Date.now(),
+
+      {
+
+        cache: "no-store"
+
+      }
+
+    );
+
+    if (!response.ok) {
+
+      throw new Error("news.json не е намерен");
+
+    }
+
+    const data = await response.json();
+
+    newsContainer.innerHTML = "";
+
+    sportContainer.innerHTML = "";
+
+    if (data.news && data.news.length) {
+
+      data.news.forEach(item => {
+
+        newsContainer.appendChild(createNewsItem(item));
+
+      });
+
+    } else {
+
+      newsContainer.innerHTML =
+
+        '<div class="loading">Няма налични новини.</div>';
+
+    }
+
+    if (data.sport && data.sport.length) {
+
+      data.sport.forEach(item => {
+
+        sportContainer.appendChild(createNewsItem(item));
+
+      });
+
+    } else {
+
+      sportContainer.innerHTML =
+
+        '<div class="loading">Няма налични спортни новини.</div>';
+
+    }
+
+    document.getElementById("updated").textContent =
+
+      new Date().toLocaleString("bg-BG");
+
+  } catch (error) {
+
+    newsContainer.innerHTML =
+
+      '<div class="error">Новините временно не могат да бъдат заредени.</div>';
+
+    sportContainer.innerHTML =
+
+      '<div class="error">Спортните новини временно не могат да бъдат заредени.</div>';
+
+    console.error(error);
+
+  }
+
+}
+
+function createNewsItem(item) {
+
+  const link = document.createElement("a");
+
+  link.className = "news-item";
+
+  link.href = item.url || "#";
+
+  link.target = "_blank";
+
+  link.rel = "noopener noreferrer";
+
+  const source = document.createElement("div");
+
+  source.className = "news-source";
+
+  source.textContent = item.source || "";
+
+  const title = document.createElement("div");
+
+  title.className = "news-title";
+
+  title.textContent = item.title || "Без заглавие";
+
+  const time = document.createElement("div");
+
+  time.className = "news-time";
+
+  time.textContent = item.time || "";
+
+  link.appendChild(source);
+
+  link.appendChild(title);
+
+  link.appendChild(time);
+
+  return link;
+
+}
+
+/*
+
+  Първоначално зареждане
+
+*/
+
+loadNews();
+
+/*
+
+  Проверка на всеки 5 минути
+
+*/
+
+setInterval(loadNews, 5 * 60 * 1000);
+
+</script>
+
+</body>
+
+</html>
