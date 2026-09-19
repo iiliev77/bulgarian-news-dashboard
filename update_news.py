@@ -102,7 +102,7 @@ def meta_content(soup, *, prop=None, name=None):
     return ""
 
 
- def extract_article_image(article_url):
+def extract_article_image(article_url):
     """
     Извлича снимката от самата статия.
     Приоритет:
