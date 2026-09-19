@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T14:46:40.244243+00:00",
+  "updated": "2026-09-19T14:54:29.535739+00:00",
   "articles": [
     {
       "title": "Посетихте ли вече „Голямата маса“ в София?",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51030/51030448/991-ratio-samolet.jpg"
     },
     {
+      "title": "България е хегемон в мачовете срещу Германия 19 Сеп | 17:46",
+      "url": "https://dsport.bg/balgaria-e-hegemon-v-machovete-srestu-germania~240314.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/19.09-.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив вкара втори гол на Септември 19 Сеп | 17:46",
+      "url": "https://dsport.bg/na-zivo-septemvri-botev-plovdiv-sastavi~240301.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
+    },
+    {
       "title": "Спартак с призив към бизнеса във Варна 19 Сеп | 17:27",
       "url": "https://dsport.bg/spartak-s-priziv-kam-biznesa-vav-varna~240312.html",
       "source": "Dsport",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-1295-.og.png"
-    },
-    {
-      "title": "На живо: Ботев Пловдив вкара втори гол на Септември 19 Сеп | 17:16",
-      "url": "https://dsport.bg/na-zivo-septemvri-botev-plovdiv-sastavi~240301.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
     },
     {
       "title": "Рубен Аморим: Можем да променим следващия мач, но не и миналото 19 Сеп | 17:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027162~1.og.jpg"
-    },
-    {
-      "title": "Тодор Симов: През първото полувреме нас ни нямаше на терена 19 Сеп | 16:11",
-      "url": "https://dsport.bg/todor-simov-prez-parvoto-poluvreme-nas-ni-namashe-na-terena~240304.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1007674~2.og.jpg"
     }
   ]
 }
