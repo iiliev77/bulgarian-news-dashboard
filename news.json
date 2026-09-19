@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T20:14:40.054323+00:00",
+  "updated": "2026-09-19T20:26:29.195058+00:00",
   "articles": [
+    {
+      "title": "Турция разби международна група за валутни измами, над 200 арестувани и замразени активи за 27 млн. евро",
+      "url": "https://dariknews.bg/novini/sviat/turciia-razbi-mezhdunarodna-grupa-za-valutni-izmami-nad-200-arestuvani-i-zamrazeni-aktivi-za-27-mln.-evro-2466932",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385000/991-ratio-policiia.jpg"
+    },
     {
       "title": "Беларус проведе военни учения до границата с ЕС",
       "url": "https://dariknews.bg/novini/sviat/belarus-provede-voenni-ucheniia-do-granicata-s-es-2466930",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384585/991-ratio-gori-sgrada-v-stolichniia-kvartal-druzhba-2.jpg"
     },
     {
-      "title": "Русе празнува „Гараш“: 148 сладкари се борят за най-добрата торта (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/ruse/ruse-praznuva-garash-148-sladkari-se-boriat-za-naj-dobrata-torta-snimki-2466910",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384569/991-ratio-torta-garash.jpg"
+      "title": "Артета след загубата от Брайтън: Това не бива да се повтаря 19 Сеп | 23:07",
+      "url": "https://dsport.bg/arteta-sled-zagubata-ot-braitan-tova-ne-biva-da-se-povtara~240346.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296086446.og.jpg"
     },
     {
       "title": "Аспарух Аспарухов: Не ни се получи играта 19 Сеп | 22:55",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296107539.og.jpg"
-    },
-    {
-      "title": "Мони Николов: Днес се събудих и не очаквах да ми е последният мач в София 19 Сеп | 21:48",
-      "url": "https://dsport.bg/moni-nikolov-dnes-se-sabudih-i-ne-ochakvah-da-mi-e-posledniat-mach-v-sofia~240334.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027237.og.jpg"
     }
   ]
 }
