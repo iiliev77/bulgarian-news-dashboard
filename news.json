@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:51:17.102501+00:00",
+  "updated": "2026-09-19T18:59:08.946808+00:00",
   "articles": [
     {
       "title": "Тревожна тенденция: Пада възрастта на употребяващите наркотици",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384538/991-ratio-sandro-macola.jpg"
     },
     {
+      "title": "Селта си направи сефтето с разгром 19 Сеп | 21:51",
+      "url": "https://dsport.bg/selta-si-napravi-sefteto-s-razgrom~240335.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296107539.og.jpg"
+    },
+    {
       "title": "Мони Николов: Днес се събудих и не очаквах да ми е последният мач в София 19 Сеп | 21:48",
       "url": "https://dsport.bg/moni-nikolov-dnes-se-sabudih-i-ne-ochakvah-da-mi-e-posledniat-mach-v-sofia~240334.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027333.og.jpg"
-    },
-    {
-      "title": "Мартин Минчев отбеляза в Катовице, отборът му загуби в голов трилър 19 Сеп | 20:22",
-      "url": "https://dsport.bg/martin-minchev-otbelaza-v-katovice-otborat-mu-zagubi-v-golov-trilar~240328.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/martin-minchev.og.jpg"
     }
   ]
 }
