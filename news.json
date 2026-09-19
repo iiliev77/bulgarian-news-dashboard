@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:22:07.182644+00:00",
+  "updated": "2026-09-19T10:32:38.542254+00:00",
   "articles": [
     {
       "title": "Заради катастрофа: Движението по пътя Звъничево – Пазарджик е в една лента",
@@ -227,6 +227,13 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/football-sviat/germania/bajern-i-kejn-veche-pregovariat-za-nov-dogovor-906637",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m3.netinfo.bg/media/images/51384/51384558/960-600-hari-kejn.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/boyni/boxing/chetiri-bylgarski-bitki-shte-vdignat-tribunite-na-evropejskoto-po-boks-v-sofiia-906636",
       "source": "Gong",
       "section": "sport",
@@ -273,13 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m4.netinfo.bg/media/images/51384/51384526/960-600-radoslav-gidzhenov.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/football-sviat/italia/gasperini-inter-e-pred-vsichki-ostanali-v-seriia-a-no-v-sravnenie-s-minaloto-sme-porasnali-906629",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m4.netinfo.bg/media/images/51384/51384539/960-600-dzhan-piero-gasperini.jpg"
     }
   ]
 }
