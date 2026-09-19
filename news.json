@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T17:18:58.772168+00:00",
+  "updated": "2026-09-19T17:28:27.423373+00:00",
   "articles": [
+    {
+      "title": "Открили снимки на Калушев и баща му с чисто голи младежи",
+      "url": "https://dariknews.bg/novini/bylgariia/otkrili-snimki-na-kalushev-i-bashta-mu-s-chisto-goli-mladezhi-2466923",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Задръстване в Кресненското дефиле, интензивен трафик за камиони към Турция",
       "url": "https://dariknews.bg/novini/bylgariia/zadrystvane-v-kresnenskoto-defile-intenziven-trafik-za-kamioni-kym-turciia-2466922",
@@ -135,18 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Тръмп: Синът ми ще върне парите на руския олигарх, платил за сватбата му",
-      "url": "https://dariknews.bg/novini/sviat/trymp-sinyt-mi-shte-vyrne-parite-na-ruskiia-oligarh-platil-za-svatbata-mu-2466901",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384534/991-ratio-donald-trymp-mladshi-i-betina.jpg"
+      "title": "На живо: Интер намали срещу Рома 19 Сеп | 20:24",
+      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296096348.og.jpg"
+    },
+    {
+      "title": "Мартин Минчев отбеляза в Катовице, отборът му загуби в голов трилър 19 Сеп | 20:22",
+      "url": "https://dsport.bg/martin-minchev-otbelaza-v-katovice-otborat-mu-zagubi-v-golov-trilar~240328.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/martin-minchev.og.jpg"
     },
     {
       "title": "На живо: Арда – Черно море 19 Сеп | 20:14",
       "url": "https://dsport.bg/na-zivo-arda-cherno-more-sastavi~240313.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/1027228.og.jpg"
+      "image": "https://dsport.bg/media/383/1027283.og.jpg"
     },
     {
       "title": "На живо: България води с 2:0 на Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 20:08",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027242.og.jpg"
-    },
-    {
-      "title": "На живо: Интер намали срещу Рома 19 Сеп | 19:52",
-      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296086409.og.jpg"
     },
     {
       "title": "Вратар отчая Атлетик Билбао в малкото баско дерби 19 Сеп | 19:51",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296066370.og.jpg"
-    },
-    {
-      "title": "Станислав Генчев: Победата е много важна, за да надградим 19 Сеп | 18:31",
-      "url": "https://dsport.bg/stanislav-genchev-pobedata-e-mnogo-vazna-za-da-nadgradim~240321.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027169~1.og.jpg"
     }
   ]
 }
