@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T10:42:55.593756+00:00",
+  "updated": "2026-09-19T10:51:08.008296+00:00",
   "articles": [
+    {
+      "title": "Пожар на депо за отпадъци край Плевен",
+      "url": "https://dariknews.bg/regioni/pleven/pozhar-na-depo-za-otpadyci-kraj-pleven-2466909",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196670/640-420-pozharna.jpg"
+    },
     {
       "title": "Заради катастрофа: Движението по пътя Звъничево – Пазарджик е в една лента",
       "url": "https://dariknews.bg/regioni/Pazardzhik/zaradi-katastrofa-dvizhenieto-po-pytia-zvynichevo-pazardzhik-e-v-edna-lenta-2466908",
@@ -133,13 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384500/991-ratio-daniel-trifonov.jpg"
-    },
-    {
-      "title": "Почитаме светите мъченици Трофим, Саватий и Доримедонт",
-      "url": "https://dariknews.bg/novini/obshtestvo/pochitame-svetite-mychenici-trofim-savatij-i-dorimedont-2466892",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
     },
     {
       "title": "България се изправя срещу Германия на 1/8-финал на Евроволей 2026",
