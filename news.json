@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T07:57:50.404913+00:00",
+  "updated": "2026-09-19T08:11:24.503646+00:00",
   "news": [
     {
       "title": "Ефремова: Ще има увеличение на детските надбавки и майчинството през втората година (ВИДЕО)",
@@ -9,8 +9,8 @@
       "section": "news"
     },
     {
-      "title": "Абровски: Цените на храните не се вдигат, има законова забрана (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/abrovski-cenite-na-hranite-ne-se-vdigat-ima-zakonova-zabrana-video-2466899",
+      "title": "Абровски: Цените на храните не се вдигат необосновано, има законова забрана (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/abrovski-cenite-na-hranite-ne-se-vdigat-neobosnovano-ima-zakonova-zabrana-video-2466899",
       "image": "https://m.netinfo.bg/media/images/51268/51268713/300-169-magazin-ceni.jpg",
       "source": "DarikNews",
       "section": "news"
@@ -193,22 +193,22 @@
       "section": "sport"
     },
     {
+      "title": "Легендата Евгени Малкин няма да спира - започва своя сезон №21 за Питсбърг",
+      "url": "https://gong.bg/oshte-sport/zimni-sportove/legendata-evgeni-malkin-niama-da-spira-zapochva-svoia-sezon-21-za-pitsbyrg-906622",
+      "image": "",
+      "source": "Gong",
+      "section": "sport"
+    },
+    {
+      "title": "Хари Кейн отказа да влезе в полемика с Ламин Ямал",
+      "url": "https://gong.bg/football-sviat/germania/hari-kejn-otkaza-da-vleze-v-polemika-s-lamin-iamal-906621",
+      "image": "",
+      "source": "Gong",
+      "section": "sport"
+    },
+    {
       "title": "Шеф в Байерн захапа Ламин Ямал",
       "url": "https://gong.bg/football-sviat/germania/shef-v-bajern-zahapa-lamin-iamal-906613",
-      "image": "",
-      "source": "Gong",
-      "section": "sport"
-    },
-    {
-      "title": "Обявиха програмата на националите за мачовете от Лига на нациите",
-      "url": "https://gong.bg/bg-football/nacionalen-tim/obiaviha-programata-na-nacionalite-za-machovete-ot-liga-na-naciite-906619",
-      "image": "",
-      "source": "Gong",
-      "section": "sport"
-    },
-    {
-      "title": "Ямал: Меси беше най-добрият играч на Световното",
-      "url": "https://gong.bg/football-sviat/world-cup/iamal-mesi-beshe-naj-dobriiat-igrach-na-svetovnoto-906617",
       "image": "",
       "source": "Gong",
       "section": "sport"
