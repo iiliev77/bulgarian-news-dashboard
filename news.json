@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T16:29:07.670615+00:00",
+  "updated": "2026-09-19T16:39:53.050093+00:00",
   "articles": [
     {
       "title": "Задръстване в Кресненското дефиле, интензивен трафик за камиони към Турция",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384534/991-ratio-donald-trymp-mladshi-i-betina.jpg"
     },
     {
+      "title": "На живо: Рома води на Интер, Лаутаро с фрапантен пропуск 19 Сеп | 19:33",
+      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296089439.og.jpg"
+    },
+    {
       "title": "На живо: Арда – Черно море 19 Сеп | 19:27",
       "url": "https://dsport.bg/na-zivo-arda-cherno-more-sastavi~240313.html",
       "source": "Dsport",
@@ -149,18 +156,18 @@
       "image": "https://dsport.bg/media/383/1027228.og.jpg"
     },
     {
-      "title": "На живо: България срещу Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 19:26",
+      "title": "На живо: България взе първия гейм срещу Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 19:26",
       "url": "https://dsport.bg/balgaria-sresta-germania-v-1-8-finalite-na-evrovolei-2026~240261.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/tambove-sait-2026-09-19t081419.294.og.png"
     },
     {
-      "title": "На живо: Рома поведе на Интер рано-рано 19 Сеп | 19:00",
-      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
+      "title": "Деко обяви новите договори на трима футболисти 19 Сеп | 19:20",
+      "url": "https://dsport.bg/deko-obavi-novite-dogovori-na-trima-futbolisti~240326.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296087491.og.jpg"
+      "image": "https://dsport.bg/media/383/gettyimages-2264627040.og.jpg"
     },
     {
       "title": "Арсенал потъна в Английския канал (ВИДЕО) 19 Сеп | 18:56",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
-    },
-    {
-      "title": "Полша чака България на 1/4-финалите на Евроволей 2026 19 Сеп | 18:13",
-      "url": "https://dsport.bg/polsha-chaka-balgaria-na-1-4-finalite-na-evrovolei-2026~240320.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/154110__63a5702.og.jpg"
     }
   ]
 }
