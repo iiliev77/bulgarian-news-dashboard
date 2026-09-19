@@ -102,7 +102,7 @@ def meta_content(soup, *, prop=None, name=None):
     return ""
 
 
-def extract_article_image(article_url):
+ ""def extract_article_image(article_url):
     """
     Извлича снимката от самата статия.
     Приоритет:
@@ -179,7 +179,7 @@ def extract_article_image(article_url):
     except Exception as exc:
         print(f"[image] Неуспешно извличане на {article_url}: {exc}")
 
-    return ""
+    return
 
 
 def title_from_link(link):
