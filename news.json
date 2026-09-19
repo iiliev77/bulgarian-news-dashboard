@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-19T18:00:31.933542+00:00",
+  "updated": "2026-09-19T18:16:42.264265+00:00",
   "articles": [
     {
-      "title": "Възрастта на употребяващите наркотици пада до 12 години",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/vyzrastta-na-upotrebiavashtite-narkotici-pada-do-12-godini-2466924",
+      "title": "Тревожна тенденция: Пада възрастта на употребяващите наркотици",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/trevozhna-tendenciia-pada-vyzrastta-na-upotrebiavashtite-narkotici-2466924",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51325/51325646/991-ratio-razgrad-narkotici.jpg"
+      "image": "https://m.netinfo.bg/media/images/51384/51384931/991-ratio-narkotici-deca.jpg"
     },
     {
       "title": "Открили снимки на Калушев и баща му с чисто голи младежи",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384538/991-ratio-sandro-macola.jpg"
     },
     {
+      "title": "Александър Тунчев с претенции за дузпа 19 Сеп | 21:10",
+      "url": "https://dsport.bg/aleksandar-tunchev-s-pretencii-za-duzpa~240330.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027277~1.og.jpg"
+    },
+    {
       "title": "Интер не умира, „нерадзурите“ разочароваха Рома и „Олимпико“ след нов стопен пасив 19 Сеп | 20:57",
       "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
       "source": "Dsport",
@@ -163,7 +170,7 @@
       "image": "https://dsport.bg/media/383/iliqn_radulov-1-~1.og.jpg"
     },
     {
-      "title": "На живо: България води с един гейм на Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 20:28",
+      "title": "На живо: Германия изравни на България в 1/8-финалите на Евроволей 2026 19 Сеп | 20:28",
       "url": "https://dsport.bg/balgaria-sresta-germania-v-1-8-finalite-na-evrovolei-2026~240261.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2292433441.og.jpg"
-    },
-    {
-      "title": "Помощник на Фрейташ: Има различен съдийски критерий срещу Септември 19 Сеп | 18:39",
-      "url": "https://dsport.bg/pomostnik-na-freitash-ima-razlichen-sadiiski-kriterii-srestu-septemvri~240323.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027168~1.og.jpg"
     }
   ]
 }
