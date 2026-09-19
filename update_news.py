@@ -395,8 +395,7 @@ def extract_article_links(source):
                 r"~\d+\.html$",
                 path
             ):
-
-        continue
+                continue
         if len(title) < 15 or len(title) > 300:
             continue
 
