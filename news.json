@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T15:16:47.803010+00:00",
+  "updated": "2026-09-19T15:27:35.978483+00:00",
   "articles": [
+    {
+      "title": "Въздушна тревога в Рияд и експлозии край летището след предполагаема атака на хусите",
+      "url": "https://dariknews.bg/novini/sviat/vyzdushna-trevoga-v-riiad-i-eksplozii-kraj-letishteto-sled-predpolagaema-ataka-na-husite-2466919",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384701/991-ratio-riiad.jpg"
+    },
     {
       "title": "За 5 дни бензин А95 поскъпна с 5 евроцента за литър, искат нова отстъпка за горивата",
       "url": "https://dariknews.bg/novini/bylgariia/za-5-dni-benzin-a95-poskypna-s-5-evrocenta-za-lityr-iskat-nova-otstypka-za-gorivata-2466918",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384523/991-ratio-meksikanski-policai.jpg"
     },
     {
-      "title": "Русия включи окупираните украински територии в парламентарните избори",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-vkliuchi-okupiranite-ukrainski-teritorii-v-parlamentarnite-izbori-2466156",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384522/991-ratio-urni-s-biuletini-v-izborna-sekciia-v-doneck-v-okupiranata.jpg"
+      "title": "Три поред: Ботев Пловдив пречупи и Септември 19 Сеп | 18:22",
+      "url": "https://dsport.bg/na-zivo-septemvri-botev-plovdiv-sastavi~240301.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
+    },
+    {
+      "title": "Полша чака България на 1/4-финалите на Евроволей 2026 19 Сеп | 18:13",
+      "url": "https://dsport.bg/polsha-chaka-balgaria-na-1-4-finalite-na-evrovolei-2026~240320.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/154110__63a5702.og.jpg"
     },
     {
       "title": "Очаквайте на живо: България среща Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 18:13",
@@ -161,13 +175,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/ddd12.og.png"
-    },
-    {
-      "title": "На живо: Ботев Пловдив вкара трети гол на Септември 19 Сеп | 18:05",
-      "url": "https://dsport.bg/na-zivo-septemvri-botev-plovdiv-sastavi~240301.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
     },
     {
       "title": "Ливърпул следи нидерландски талант 19 Сеп | 18:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/19.09-3~2.og.jpg"
-    },
-    {
-      "title": "Най-красивата волейболистка в света обясни „проблема“ с пищния си бюст 19 Сеп | 17:25",
-      "url": "https://dsport.bg/nai-krasivata-voleibolistka~240310.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-1295-.og.png"
     }
   ]
 }
