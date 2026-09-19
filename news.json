@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T19:20:27.996425+00:00",
+  "updated": "2026-09-19T19:28:45.189871+00:00",
   "articles": [
+    {
+      "title": "Тандемът на Мирослав и д-р Пекин продължава напред в звездния турнир на „Игри на волята”",
+      "url": "https://dariknews.bg/novini/obshtestvo/tandemyt-na-miroslav-i-d-r-pekin-prodylzhava-napred-v-zvezdniia-turnir-na-igri-na-voliata-2466926",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384982/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Особеният управител на „Лукойл“: Не е възможна компенсация на цените на горивата от печалбата",
       "url": "https://dariknews.bg/novini/bylgariia/osobeniiat-upravitel-na-lukojl-ne-e-vyzmozhna-kompensaciia-na-cenite-na-gorivata-ot-pechalbata-2466925",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50284/50284990/991-ratio-atentatite-ot-11-septemvri-2001-godina.jpg"
     },
     {
-      "title": "Йотова: „Петрохан“ е една от най-кървящите рани на нас като общество",
-      "url": "https://dariknews.bg/novini/bylgariia/iotova-petrohan-e-edna-ot-naj-kyrviashtite-rani-na-nas-kato-obshtestvo-2466905",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
+      "title": "Мартин Атанасов: Разочаровани сме, тепърва ще го осъзнаем 19 Сеп | 22:20",
+      "url": "https://dsport.bg/martin-atanasov-razocharovani-sme-teparva-ste-go-osaznaem~240341.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/847243~1.og.jpg"
     },
     {
       "title": "Грозданов: Смятам, че се бяхме подготвили добре тактически, но нещо не се получи накрая 19 Сеп | 22:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296102224.og.jpg"
-    },
-    {
-      "title": "Александър Тунчев с претенции за дузпа 19 Сеп | 21:10",
-      "url": "https://dsport.bg/aleksandar-tunchev-s-pretencii-za-duzpa~240330.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027277~1.og.jpg"
     }
   ]
 }
