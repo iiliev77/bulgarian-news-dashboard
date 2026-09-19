@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:42:48.051735+00:00",
+  "updated": "2026-09-19T18:51:17.102501+00:00",
   "articles": [
     {
       "title": "Тревожна тенденция: Пада възрастта на употребяващите наркотици",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384538/991-ratio-sandro-macola.jpg"
     },
     {
+      "title": "Мони Николов: Днес се събудих и не очаквах да ми е последният мач в София 19 Сеп | 21:48",
+      "url": "https://dsport.bg/moni-nikolov-dnes-se-sabudih-i-ne-ochakvah-da-mi-e-posledniat-mach-v-sofia~240334.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027237.og.jpg"
+    },
+    {
+      "title": "Ковънтри шокира Нотингам за първа победа във Висшата лига 19 Сеп | 21:34",
+      "url": "https://dsport.bg/kovantri-shokira-notingam-za-parva-pobeda-vav-visshata-liga~240333.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296105862.og.jpg"
+    },
+    {
       "title": "Илиан Илиев: Добре е, че взехме точка с оглед ситуацията, в която се намираме 19 Сеп | 21:31",
       "url": "https://dsport.bg/ilian-iliev-dobre-e-che-vzehme-tochka-s-ogled-situaciata-v-koato-se-namirame~240332.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/martin-minchev.og.jpg"
-    },
-    {
-      "title": "Вратар отчая Атлетик Билбао в малкото баско дерби 19 Сеп | 19:51",
-      "url": "https://dsport.bg/vratar-otchaa-atletik-bilbao-v-malkoto-basko-derbi~240327.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296088610.og.jpg"
-    },
-    {
-      "title": "Деко обяви новите договори на трима футболисти 19 Сеп | 19:20",
-      "url": "https://dsport.bg/deko-obavi-novite-dogovori-na-trima-futbolisti~240326.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2264627040.og.jpg"
     }
   ]
 }
