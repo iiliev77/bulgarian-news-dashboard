@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-19T19:28:45.189871+00:00",
+  "updated": "2026-09-19T19:37:19.039940+00:00",
   "articles": [
     {
-      "title": "Тандемът на Мирослав и д-р Пекин продължава напред в звездния турнир на „Игри на волята”",
-      "url": "https://dariknews.bg/novini/obshtestvo/tandemyt-na-miroslav-i-d-r-pekin-prodylzhava-napred-v-zvezdniia-turnir-na-igri-na-voliata-2466926",
+      "title": "Мирослав и д-р Пекин продължават напред в звездния турнир на „Игри на волята”",
+      "url": "https://dariknews.bg/novini/obshtestvo/miroslav-i-d-r-pekin-prodylzhavat-napred-v-zvezdniia-turnir-na-igri-na-voliata-2466926",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384982/991-ratio-igri-na-voliata.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50284/50284990/991-ratio-atentatite-ot-11-septemvri-2001-godina.jpg"
     },
     {
+      "title": "Станимира Петрова се завърна на ринга с победа на Европейското първенство по бокс в София 19 Сеп | 22:33",
+      "url": "https://dsport.bg/stanimira-petrova-se-zavarna-na-ringa-s-pobeda-na-evropeiskoto-parvenstvo-po-boks-v-sofia~240342.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/646385~1.og.jpg"
+    },
+    {
       "title": "Мартин Атанасов: Разочаровани сме, тепърва ще го осъзнаем 19 Сеп | 22:20",
       "url": "https://dsport.bg/martin-atanasov-razocharovani-sme-teparva-ste-go-osaznaem~240341.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027309~1.og.jpg"
-    },
-    {
-      "title": "Борусия Дортмунд изкова ценен успех над Щутгарт 19 Сеп | 21:11",
-      "url": "https://dsport.bg/borusia-dortmund-izkova-cenen-uspeh-nad-stutgart~240331.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296102224.og.jpg"
     }
   ]
 }
