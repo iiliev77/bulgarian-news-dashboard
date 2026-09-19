@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T16:01:25.750894+00:00",
+  "updated": "2026-09-19T16:16:52.550284+00:00",
   "articles": [
+    {
+      "title": "Адмирал Ефтимов присъства на годишна конференция на Военния комитет на НАТО",
+      "url": "https://dariknews.bg/novini/sviat/admiral-eftimov-prisystva-na-godishna-konferenciia-na-voenniia-komitet-na-nato-2466921",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384785/991-ratio-ministerstvo-na-otbranata.jpg"
+    },
     {
       "title": "Голям пожар в близост до стадиона в Карлово (СНИМКИ)",
       "url": "https://dariknews.bg/regioni/plovdiv/goliam-pozhar-v-blizost-do-stadiona-v-karlovo-snimki-2466920",
@@ -135,18 +142,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Абровски: Цените на храните не се вдигат необосновано, има законова забрана (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/abrovski-cenite-na-hranite-ne-se-vdigat-neobosnovano-ima-zakonova-zabrana-video-2466899",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "На живо: Арда – Черно море 19 Сеп | 19:03",
+      "url": "https://dsport.bg/na-zivo-arda-cherno-more-sastavi~240313.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/ddday1.og.png"
     },
     {
-      "title": "На живо: България среща Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 18:57",
+      "title": "На живо: Рома поведе на Интер рано-рано 19 Сеп | 19:00",
+      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/finali-ekt-6-.og.jpg"
+    },
+    {
+      "title": "На живо: България срещу Германия в 1/8-финалите на Евроволей 2026 19 Сеп | 19:00",
       "url": "https://dsport.bg/balgaria-sresta-germania-v-1-8-finalite-na-evrovolei-2026~240261.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/tambove-sait-2026-09-19t081419.294.og.png"
+    },
+    {
+      "title": "Арсенал потъна в Английския канал (ВИДЕО) 19 Сеп | 18:56",
+      "url": "https://dsport.bg/arsenal-potana-v-angliiskia-kanal~240325.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296073480.og.jpg"
     },
     {
       "title": "Григор Димитров отстъпи на Холгер Руне в дълга битка, Дания изравни на България 19 Сеп | 18:49",
@@ -184,32 +205,11 @@
       "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
     },
     {
-      "title": "На живо: Рома - Интер (Състави) 19 Сеп | 18:18",
-      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/finali-ekt-6-.og.jpg"
-    },
-    {
       "title": "Полша чака България на 1/4-финалите на Евроволей 2026 19 Сеп | 18:13",
       "url": "https://dsport.bg/polsha-chaka-balgaria-na-1-4-finalite-na-evrovolei-2026~240320.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/154110__63a5702.og.jpg"
-    },
-    {
-      "title": "Паладино не успя да дебютира с победа, взривното начало на Каляри продължава 19 Сеп | 18:08",
-      "url": "https://dsport.bg/paladino-ne-uspa-da-debutira-s-pobeda-vzrivnoto-nachalo-na-kalari-prodalzava~240318.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296066700.og.jpg"
-    },
-    {
-      "title": "Атанас Бостанджиев и Алешандре Пато официално купиха клуб от Лига 2 19 Сеп | 18:05",
-      "url": "https://dsport.bg/atanas-bostandziev-i-aleshandre-pato-oficialno-kupiha-klub-ot-liga-2~240317.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/ddd12.og.png"
     }
   ]
 }
