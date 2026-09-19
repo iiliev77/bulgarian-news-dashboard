@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:07:29.210381+00:00",
+  "updated": "2026-09-19T10:09:51.448449+00:00",
   "articles": [
     {
       "title": "Парламентарни избори",
@@ -27,7 +27,7 @@
       "url": "https://dariknews.bg/regioni/haskovo/25-godishen-motorist-zagina-pri-tezhka-katastrofa-v-haskovsko-2466907",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clRjK3pRYTIvc0ppTEJNUnZ0ZTNlWTlxVnZHb1lxRGx5dm1ZZThkOTBlMDBxZ25PWTcvTmdBNXFYZEpaK1B2ZC93PQ=="
+      "image": "https://mm.netinfo.bg/branding/dbrand.php?p=aDE1UTNyWEtkWWZ3YWRpN09YV25aSGpWOWJTOE5raDFCbXpTWklVM0kyMWdtSEZpMG1zcEZiajdKeUtHa0NUY0lzRXcycFBkVmluWlpiNGxMRjhId0xXbUtsSDhvYlJHMnVNeWhWZzg4clQvT0NoYnRYWDg2dXJtMG5ab3JNL3NUSFFIWk5Ob0lETk9YNmM2N0FYdy9yeEYxSFdaS05sdjEzeUxtd2JwelA0PQ=="
     },
     {
       "title": "Последният успял да излезе от Южната кула на 11 септември 2001 г.: Историята на Рон Де Франческо",
@@ -185,6 +185,13 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-dunav-botev-vraca-systavite-906634",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m4.netinfo.bg/media/images/51384/51384496/960-600-dunav-botev-vraca.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/tenis/maje/na-zhivo-bylgariia-i-daniia-reshavat-vsichko-za-kupa-dejvis-906630",
       "source": "Gong",
       "section": "sport",
@@ -273,13 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m5.netinfo.bg/media/images/51384/51384537/960-600-iva-iovich.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/football-sviat/francia/dembele-kvaracheliia-zasluzhava-zlatata-topka-906626",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m4.netinfo.bg/media/images/51336/51336299/960-600-usman-dembele.jpg"
     }
   ]
 }
