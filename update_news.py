@@ -111,6 +111,12 @@ def is_bad_image_url(url):
         "tracking",
         "pixel",
         "spacer",
+
+        "empty.gif",
+
+        "zipshop_og.png",
+
+        "zipshop_og",
     )
 
     return any(part in value for part in bad_parts)
