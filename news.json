@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T15:27:35.978483+00:00",
+  "updated": "2026-09-19T15:37:58.641170+00:00",
   "articles": [
     {
       "title": "Въздушна тревога в Рияд и експлозии край летището след предполагаема атака на хусите",
@@ -142,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384523/991-ratio-meksikanski-policai.jpg"
     },
     {
+      "title": "Станислав Генчев: Победата е много важна, за да надградим 19 Сеп | 18:31",
+      "url": "https://dsport.bg/stanislav-genchev-pobedata-e-mnogo-vazna-za-da-nadgradim~240321.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027169~1.og.jpg"
+    },
+    {
       "title": "Три поред: Ботев Пловдив пречупи и Септември 19 Сеп | 18:22",
       "url": "https://dsport.bg/na-zivo-septemvri-botev-plovdiv-sastavi~240301.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/798104954_1566192545549405_6173741219958827746_n.og.jpg"
+    },
+    {
+      "title": "На живо: Рома - Интер (Състави) 19 Сеп | 18:18",
+      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/finali-ekt-6-.og.jpg"
     },
     {
       "title": "Полша чака България на 1/4-финалите на Евроволей 2026 19 Сеп | 18:13",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/19.09-.og.jpg"
-    },
-    {
-      "title": "На живо: Арда – Черно море (Състави) 19 Сеп | 17:44",
-      "url": "https://dsport.bg/na-zivo-arda-cherno-more-sastavi~240313.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/ddday1.og.png"
-    },
-    {
-      "title": "Спартак с призив към бизнеса във Варна 19 Сеп | 17:27",
-      "url": "https://dsport.bg/spartak-s-priziv-kam-biznesa-vav-varna~240312.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/19.09-3~2.og.jpg"
     }
   ]
 }
