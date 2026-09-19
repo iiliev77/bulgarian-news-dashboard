@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T10:58:53.449773+00:00",
+  "updated": "2026-09-19T11:11:25.171182+00:00",
   "articles": [
+    {
+      "title": "Русе празнува „Гараш“: 148 сладкари се борят за най-добрата торта (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/ruse/ruse-praznuva-garash-148-sladkari-se-boriat-za-naj-dobrata-torta-snimki-2466910",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384569/991-ratio-torta-garash.jpg"
+    },
     {
       "title": "Пожар се разпространи на голяма площ на депо за отпадъци край Плевен",
       "url": "https://dariknews.bg/regioni/pleven/pozhar-se-razprostrani-na-goliama-plosht-na-depo-za-otpadyci-kraj-pleven-2466909",
@@ -135,13 +142,6 @@
       "image": "https://m.netinfo.bg/media/images/47752/47752575/991-ratio-kanada-flag.jpg"
     },
     {
-      "title": "България с три финала на Световната купа по спортна гимнастика",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-s-tri-finala-na-svetovnata-kupa-po-sportna-gimnastika-2466893",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384500/991-ratio-daniel-trifonov.jpg"
-    },
-    {
       "title": "България се изправя срещу Германия на 1/8-финал на Евроволей 2026",
       "url": "https://gong.bg/volleyball/bg-volleyball/bylgariia-se-izpravia-sreshtu-germaniia-na-18-final-na-evrovolej-2026-906607",
       "source": "Gong",
@@ -185,7 +185,7 @@
     },
     {
       "title": "Live Livestream",
-      "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-dunav-botev-vraca-systavite-906634",
+      "url": "https://gong.bg/bg-football/efbet-liga/na-zhivo-dunav-10-botev-vraca-sejnt-luis-otkri-906634",
       "source": "Gong",
       "section": "sport",
       "image": "https://m5.netinfo.bg/media/images/51384/51384557/960-600-dunav-botev-vraca.jpg"
@@ -213,6 +213,13 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/tenis/maje/novak-dzhokovich-zagriava-za-pekin-s-bylgarski-tenisist-906645",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m5.netinfo.bg/media/images/51352/51352717/960-600-novak-dzhokovich.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/bg-football/efbet-liga/botev-plovdiv-shte-opita-da-prodylzhi-vyzhoda-si-906605",
       "source": "Gong",
       "section": "sport",
@@ -224,6 +231,27 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m4.netinfo.bg/media/images/51363/51363482/960-600-dzhej-dzhej-gejbriyl.jpg"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/oshte-sport/zimni-sportove/atanas-furnadzhiev-vleze-v-upravata-na-svetovniia-biatlon-906644",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m.netinfo.bg/media/images/51270/51270234/960-600-atanas-furnadzhiev.jpg"
+    },
+    {
+      "title": "Live Livestream",
+      "url": "https://gong.bg/bg-football/efbet-liga/izberi-igrach-na-macha-dunav-ruse-botev-vraca-906638",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m.netinfo.bg/media/images/51384/51384560/960-600-d.jpg"
+    },
+    {
+      "title": "02:36 Live Livestream",
+      "url": "https://gong.bg/tenis/maje/daniia-vze-pyrviia-set-na-dvojki-sreshtu-bylgariia-906642",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://i49.vbox7.com/o/f69/f69ff2fdd20.jpg"
     },
     {
       "title": "Live Livestream",
@@ -252,34 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m3.netinfo.bg/media/images/51384/51384558/960-600-hari-kejn.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/boyni/boxing/chetiri-bylgarski-bitki-shte-vdignat-tribunite-na-evropejskoto-po-boks-v-sofiia-906636",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m3.netinfo.bg/media/images/51102/51102895/960-600-zlatislava-chukanova.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/jeni/elizara-ianeva-zashtiti-titlata-si-v-pazardzhik-906635",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m5.netinfo.bg/media/images/50990/50990863/960-600-elizara-ianeva.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/bg-football/efbet-liga/dunav-priema-botev-vraca-v-povtorniia-debiut-na-georgi-chilikov-906604",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m4.netinfo.bg/media/images/51384/51384496/960-600-dunav-botev-vraca.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/tenis/maje/lehechka-iznenada-sheltyn-za-kupa-dejvis-i-vyrna-pariteta-mezhdu-chehiia-i-sasht-906633",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m5.netinfo.bg/media/images/51384/51384543/960-600-ben-sheltyn.jpg"
     }
   ]
 }
