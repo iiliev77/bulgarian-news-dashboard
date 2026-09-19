@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-19T20:00:23.343036+00:00",
+  "updated": "2026-09-19T20:14:40.054323+00:00",
   "articles": [
+    {
+      "title": "Беларус проведе военни учения до границата с ЕС",
+      "url": "https://dariknews.bg/novini/sviat/belarus-provede-voenni-ucheniia-do-granicata-s-es-2466930",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384999/991-ratio-aleksandyr-lukashenko.jpg"
+    },
+    {
+      "title": "Германски генерал оглавява Военния комитет на НАТО",
+      "url": "https://dariknews.bg/novini/sviat/germanski-general-oglaviava-voenniia-komitet-na-nato-2466929",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384995/991-ratio-nato.jpg"
+    },
     {
       "title": "Катастрофа затвори пътя от Веслец до Мраморен",
       "url": "https://dariknews.bg/regioni/vraca/katastrofa-zatvori-pytia-ot-veslec-do-mramoren-2466928",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384569/991-ratio-torta-garash.jpg"
     },
     {
-      "title": "Пожар се разпространи на голяма площ на депо за отпадъци край Плевен",
-      "url": "https://dariknews.bg/regioni/pleven/pozhar-se-razprostrani-na-goliama-plosht-na-depo-za-otpadyci-kraj-pleven-2466909",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51196/51196670/640-420-pozharna.jpg"
-    },
-    {
-      "title": "Катастрофа между два автомобила, микробус и камион на пътя Звъничево – Пазарджик",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/katastrofa-mezhdu-dva-avtomobila-mikrobus-i-kamion-na-pytia-zvynichevo-pazardzhik-2466908",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
+      "title": "Аспарух Аспарухов: Не ни се получи играта 19 Сеп | 22:55",
+      "url": "https://dsport.bg/asparuh-asparuhov-ne-ni-se-poluchi-igrata~240344.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1024458~1.og.jpg"
     },
     {
       "title": "Александър Везенков и Олимпиакос загубиха от Реал Мадрид на финала за Суперкупата на Евролигата 19 Сеп | 22:44",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027237.og.jpg"
-    },
-    {
-      "title": "Ковънтри шокира Нотингам за първа победа във Висшата лига 19 Сеп | 21:34",
-      "url": "https://dsport.bg/kovantri-shokira-notingam-za-parva-pobeda-vav-visshata-liga~240333.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296105862.og.jpg"
     }
   ]
 }
