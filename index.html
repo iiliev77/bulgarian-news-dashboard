@@ -330,41 +330,51 @@ async function loadNews() {
 
     sportContainer.innerHTML = "";
 
-    if (data.news && data.news.length) {
+    const articles = Array.isArray(data.articles) ? data.articles : [];
 
-      data.news.forEach(item => {
+const news = articles.filter(item => item.section === "news");
 
-        newsContainer.appendChild(createNewsItem(item));
+const sport = articles.filter(item => item.section === "sport");
 
-      });
+if (news.length) {
 
-    } else {
+  news.forEach(item => {
 
-      newsContainer.innerHTML =
+    newsContainer.appendChild(createNewsItem(item));
 
-        '<div class="loading">Няма налични новини.</div>';
+  });
 
-    }
+} else {
 
-    if (data.sport && data.sport.length) {
+  newsContainer.innerHTML =
 
-      data.sport.forEach(item => {
+    '<div class="loading">Няма налични новини.</div>';
 
-        sportContainer.appendChild(createNewsItem(item));
+}
 
-      });
+if (sport.length) {
 
-    } else {
+  sport.forEach(item => {
 
-      sportContainer.innerHTML =
+    sportContainer.appendChild(createNewsItem(item));
 
-        '<div class="loading">Няма налични спортни новини.</div>';
+  });
 
-    }
+} else {
 
-    document.getElementById("updated").textContent =
+  sportContainer.innerHTML =
 
-      new Date().toLocaleString("bg-BG");
+    '<div class="loading">Няма налични спортни новини.</div>';
+
+}
+
+document.getElementById("updated").textContent =
+
+  data.updated
+
+    ? new Date(data.updated).toLocaleString("bg-BG")
+
+    : new Date().toLocaleString("bg-BG");
 
   } catch (error) {
 
@@ -406,7 +416,31 @@ function createNewsItem(item) {
 
   title.textContent = item.title || "Без заглавие";
 
-  const time = document.createElement("div");
+ if (item.image) {
+
+  const image = document.createElement("img");
+
+  image.src = item.image;
+
+  image.alt = item.title || "";
+
+  image.loading = "lazy";
+
+  image.referrerPolicy = "no-referrer";
+
+  image.style.width = "100%";
+
+  image.style.maxHeight = "220px";
+
+  image.style.objectFit = "cover";
+
+  image.style.borderRadius = "8px";
+
+  image.style.marginBottom = "10px";
+
+  link.appendChild(image);
+
+} const time = document.createElement("div");
 
   time.className = "news-time";
 
