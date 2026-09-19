@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T09:19:05.052216+00:00",
+  "updated": "2026-09-19T09:30:55.777616+00:00",
   "articles": [
     {
       "title": "Парламентарни избори",
@@ -185,6 +185,13 @@
     },
     {
       "title": "Live Livestream",
+      "url": "https://gong.bg/tenis/maje/ochakvajte-na-zhivo-bylgariia-i-daniia-reshavat-vsichko-za-kupa-dejvis-906630",
+      "source": "Gong",
+      "section": "sport",
+      "image": "https://m3.netinfo.bg/media/images/51384/51384341/960-600-bylgariia-za-kupa-dejvis.jpg"
+    },
+    {
+      "title": "Live Livestream",
       "url": "https://gong.bg/bg-football/igor-iovichevich-se-zavryshta-v-ludogorec-906593",
       "source": "Gong",
       "section": "sport",
@@ -273,13 +280,6 @@
       "source": "Gong",
       "section": "sport",
       "image": "https://m5.netinfo.bg/media/images/51384/51384533/960-600-bk-real-madrid.jpg"
-    },
-    {
-      "title": "Live Livestream",
-      "url": "https://gong.bg/oshte-sport/zimni-sportove/legendata-evgeni-malkin-niama-da-spira-zapochva-svoia-sezon-21-za-pitsbyrg-906622",
-      "source": "Gong",
-      "section": "sport",
-      "image": "https://m4.netinfo.bg/media/images/51384/51384532/960-600-evgeni-malkin.jpg"
     }
   ]
 }
