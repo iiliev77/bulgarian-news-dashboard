@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-19T19:10:30.999888+00:00",
+  "updated": "2026-09-19T19:20:27.996425+00:00",
   "articles": [
+    {
+      "title": "Особеният управител на „Лукойл“: Не е възможна компенсация на цените на горивата от печалбата",
+      "url": "https://dariknews.bg/novini/bylgariia/osobeniiat-upravitel-na-lukojl-ne-e-vyzmozhna-kompensaciia-na-cenite-na-gorivata-ot-pechalbata-2466925",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384978/991-ratio-evgeni-simeonov.jpg"
+    },
     {
       "title": "Тревожна тенденция: Пада възрастта на употребяващите наркотици",
       "url": "https://dariknews.bg/regioni/blagoevgrad/trevozhna-tendenciia-pada-vyzrastta-na-upotrebiavashtite-narkotici-2466924",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
     },
     {
-      "title": "Почина италианската футболна легенда Сандро Мацола",
-      "url": "https://dariknews.bg/novini/sviat/pochina-italianskata-futbolna-legenda-sandro-macola-2466904",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384538/991-ratio-sandro-macola.jpg"
+      "title": "Грозданов: Смятам, че се бяхме подготвили добре тактически, но нещо не се получи накрая 19 Сеп | 22:16",
+      "url": "https://dsport.bg/grozdanov-smatam-che-se-bahme-podgotvili-dobre-takticheski-no-nesto-ne-se-poluchi-nakraa~240340.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1004720-1.og.jpg"
+    },
+    {
+      "title": "Райс с ударен дебют за Трабзонспор, размаза хегемона Галатасарай с хеттрик на Салах 19 Сеп | 22:13",
+      "url": "https://dsport.bg/tomas-rais-s-udaren-debut-za-trabzonspor-razmaza-hegemona-galatasarai~240338.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296109072.og.jpg"
+    },
+    {
+      "title": "Джанлоренцо Бленджини: Няма как да не си разочарован, когато загубиш пред толкова много публика 19 Сеп | 22:07",
+      "url": "https://dsport.bg/dzanlorenco-blendzini-nama-kak-da-ne-si-razocharovan-kogato-zagubish-pred-tolkova-mnogo-publika~240339.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027332.og.jpg"
     },
     {
       "title": "Алекс Николов: Може само да съжаляваме, Германия игра по-добре накрая 19 Сеп | 21:58",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027277~1.og.jpg"
-    },
-    {
-      "title": "Интер не умира, „нерадзурите“ разочароваха Рома и „Олимпико“ след нов стопен пасив 19 Сеп | 20:57",
-      "url": "https://dsport.bg/na-zivo-roma-inter-sastavi~240319.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296096348.og.jpg"
-    },
-    {
-      "title": "10 от Черно море спечелиха важна точка в Кърджали срещу Арда 19 Сеп | 20:51",
-      "url": "https://dsport.bg/na-zivo-arda-cherno-more-sastavi~240313.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027355.og.jpg"
-    },
-    {
-      "title": "Жалко! България загуби битката с Дания за Купа Дейвис 19 Сеп | 20:35",
-      "url": "https://dsport.bg/zalko-balgaria-zagubi-bitkata-s-dania-na-kupa-deivis~240329.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/iliqn_radulov-1-~1.og.jpg"
     }
   ]
 }
