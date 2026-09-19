@@ -31,11 +31,15 @@ SOURCES = [
         "max_articles": 20,
     },
     {
-        "name": "Gong",
-        "section": "sport",
-        "url": "https://gong.bg/",
-        "domain": "gong.bg",
-        "max_articles": 20,
+        "name": "Dsport",
+
+    "section": "sport",
+
+    "url": "https://dsport.bg/novini.html",
+
+    "domain": "dsport.bg",
+
+    "max_articles": 20,
     },
 ]
 
