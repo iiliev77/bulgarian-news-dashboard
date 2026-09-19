@@ -238,7 +238,15 @@ def extract_article_links(source):
 
         if any(part in path for part in blocked_parts):
             continue
+# Darik: приемаме само реални статии,
 
+# а не категории, избори, начални страници и др.
+
+if source["domain"] == "dariknews.bg":
+
+    if not re.search(r"-\d{6,}$", path):
+
+        continue
         # Заглавието трябва да е разумна дължина.
         if len(title) < 15 or len(title) > 300:
             continue
