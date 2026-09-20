@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T05:58:03.843486+00:00",
+  "updated": "2026-09-20T06:13:20.853154+00:00",
   "articles": [
+    {
+      "title": "150 граждани от 27 държави обсъждаха в Брюксел как да укрепят демокрацията",
+      "url": "https://dariknews.bg/novini/sviat/150-grazhdani-ot-27-dyrzhavi-obsyzhdaha-v-briuksel-kak-da-ukrepiat-demokraciiata-2466939",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+    },
     {
       "title": "Япония пред исторически завой: Ще наказва клиентите на проститутки",
       "url": "https://dariknews.bg/novini/sviat/iaponiia-pred-istoricheski-zavoj-shte-nakazva-klientite-na-prostitutki-2466788",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384978/991-ratio-evgeni-simeonov.jpg"
     },
     {
-      "title": "Тревожна тенденция: Пада възрастта на употребяващите наркотици",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/trevozhna-tendenciia-pada-vyzrastta-na-upotrebiavashtite-narkotici-2466924",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384931/991-ratio-narkotici-deca.jpg"
+      "title": "Винисиус и Вирджиния се сгодиха 20 Сеп | 08:43",
+      "url": "https://dsport.bg/vinisius-i-virdzinia-se-sgodiha~240355.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/virginia_1.og.jpg"
     },
     {
       "title": "Братята Томпсън разтърсиха НБА 20 Сеп | 08:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1024458~1.og.jpg"
-    },
-    {
-      "title": "Александър Везенков и Олимпиакос загубиха от Реал Мадрид на финала за Суперкупата на Евролигата 19 Сеп | 22:44",
-      "url": "https://dsport.bg/aleksandar-vezenkov-i-olimpiakos-zagubiha-ot-real-madrid-na-finala-za-superkupata-na-evroligata~240343.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295492855.og.jpg"
     }
   ]
 }
