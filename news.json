@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:32:52.846733+00:00",
+  "updated": "2026-09-20T20:43:02.458577+00:00",
   "articles": [
     {
       "title": "Пътен участък пропадна във варненския квартал „Аспарухово“",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385059/991-ratio-peesh.jpg"
     },
     {
+      "title": "Милан отпразнува 100 години „Сан Сиро“ с лесен успех над Лече 20 Сеп | 23:38",
+      "url": "https://dsport.bg/milan-otpraznuva-100-godini-san-siro-s-lesen-uspeh-nad-leche~240418.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296277323.og.jpg"
+    },
+    {
       "title": "Падерборн подчини Хофенхайм за първи успех 20 Сеп | 23:17",
       "url": "https://dsport.bg/paderborn-podchini-hofenhaim-za-parvi-uspeh~240417.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296263141.og.jpg"
-    },
-    {
-      "title": "БУТОНКИТЕ: ЦСКА не стигна до десерта 20 Сеп | 20:49",
-      "url": "https://dsport.bg/butonkite-cska-ne-stigna-do-deserta~240408.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/2026-09-20-butonki_thumb.og.jpg"
     }
   ]
 }
