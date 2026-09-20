@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T15:32:29.339098+00:00",
+  "updated": "2026-09-20T15:42:27.492312+00:00",
   "articles": [
+    {
+      "title": "Мечки се оказаха в опасна близост до къмпингари край Локорско",
+      "url": "https://dariknews.bg/regioni/sofiia/mechki-se-okazaha-v-opasna-blizost-do-kympingari-kraj-lokorsko-2466961",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385444/991-ratio-mechka.jpg"
+    },
     {
       "title": "Предупреждение за силен вятър в 13 области в понеделник",
       "url": "https://dariknews.bg/novini/bylgariia/preduprezhdenie-za-silen-viatyr-v-13-oblasti-v-ponedelnik-2466960",
@@ -135,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
     },
     {
-      "title": "Япония пред исторически завой: Ще наказва клиентите на проститутки",
-      "url": "https://dariknews.bg/novini/sviat/iaponiia-pred-istoricheski-zavoj-shte-nakazva-klientite-na-prostitutki-2466788",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384051/991-ratio-iaponiia.jpg"
-    },
-    {
-      "title": "На живо: Атлетико Мадрид - Реал Мадрид, червен картон за Хаусен 20 Сеп | 18:32",
+      "title": "На живо: Атлетико Мадрид удвои срещу Реал, \"кралете\" с човек по-малко 20 Сеп | 18:38",
       "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296242324.og.jpg"
+      "image": "https://dsport.bg/media/383/gettyimages-2296244073.og.jpg"
+    },
+    {
+      "title": "Байер Леверкузен се завърна към победите в Бундеслигата 20 Сеп | 18:33",
+      "url": "https://dsport.bg/baier-leverkuzen-se-zavarna-kam-pobedite-v-bundesligata~240399.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296240030.og.jpg"
+    },
+    {
+      "title": "На живо: Локомотив Пловдив и ЦСКА размениха попадения набързо 20 Сеп | 18:33",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027896.og.jpg"
     },
     {
       "title": "ЦСКА 1948 със седем чуждестранни национали, трима остават заедно 20 Сеп | 18:23",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1004942~1.og.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА изравни експресно на Локомотив Пловдив, гол на Питас 20 Сеп | 18:20",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027896.og.jpg"
     },
     {
       "title": "Фрозиноне сломи Комо 20 Сеп | 18:11",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027510.og.jpg"
-    },
-    {
-      "title": "Автогол донесе първи успех на Локомотив София 20 Сеп | 17:07",
-      "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/jtt-03385.og.jpg"
     }
   ]
 }
