@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T16:24:44.086138+00:00",
+  "updated": "2026-09-20T16:35:49.401630+00:00",
   "articles": [
+    {
+      "title": "Първи екзитпол: Крайнодесните водят в Мекленбург-Предна Померания, „Левицата“ – в Берлин",
+      "url": "https://dariknews.bg/novini/sviat/pyrvi-ekzitpol-krajnodesnite-vodiat-v-meklenburg-predna-pomeraniia-levicata-v-berlin-2466963",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385522/991-ratio-germaniia.jpg"
+    },
     {
       "title": "Тежка катастрофа край Николово с двама загинали и петима ранени",
       "url": "https://dariknews.bg/regioni/haskovo/tezhka-katastrofa-kraj-nikolovo-s-dvama-zaginali-i-petima-raneni-2466962",
@@ -135,14 +142,7 @@
       "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
     },
     {
-      "title": "Найденов за случая „Петрохан“: Може би едно от престъпленията на десетилетието, отговорите тепърва предстоят",
-      "url": "https://dariknews.bg/novini/bylgariia/najdenov-za-sluchaia-petrohan-mozhe-bi-edno-ot-prestypleniiata-na-desetiletieto-otgovorite-tepyrva-predstoiat-2466940",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив удари греда срещу ЦСКА 20 Сеп | 19:20",
+      "title": "На живо: Локомотив Пловдив и ЦСКА вървят към равенство 20 Сеп | 19:30",
       "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
       "source": "Dsport",
       "section": "sport",
