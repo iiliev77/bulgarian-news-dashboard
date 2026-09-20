@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T13:03:59.211947+00:00",
+  "updated": "2026-09-20T13:18:25.970675+00:00",
   "articles": [
+    {
+      "title": "Атракцион на „Октоберфест“ остави посетители да висят с главите надолу",
+      "url": "https://dariknews.bg/novini/sviat/atrakcion-na-oktoberfest-ostavi-posetiteli-da-visiat-s-glavite-nadolu-2466953",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385130/991-ratio-oktoberfest.jpg"
+    },
     {
       "title": "Овладяха пожара на депото край Плевен, няма задимяване",
       "url": "https://dariknews.bg/regioni/pleven/ovladiaha-pozhara-na-depoto-kraj-pleven-niama-zadimiavane-2466952",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/48193/48193681/991-ratio-deca-telefoni.jpg"
     },
     {
-      "title": "Слънчева неделя с температури до 32 градуса, следобед и бури",
-      "url": "https://dariknews.bg/novini/bylgariia/slyncheva-nedelia-s-temperaturi-do-32-gradusa-sledobed-i-buri-2466933",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385001/991-ratio-esen-slynce-gora-lychi.jpg"
+      "title": "На живо: Атлетико и Реал в дербито на Мадрид (Състави) 20 Сеп | 16:08",
+      "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/finali-ekt-7-.og.jpg"
+    },
+    {
+      "title": "На живо: Спартак Варна - Локомотив София 20 Сеп | 16:03",
+      "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/jtt-03148.og.jpg"
     },
     {
       "title": "Фиорентина и Наполи не се победиха в мач с два гола и три греди 20 Сеп | 15:33",
@@ -147,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295649059.og.jpg"
-    },
-    {
-      "title": "На живо: Спартак Варна - Локомотив София 20 Сеп | 15:30",
-      "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/jtt-03148.og.jpg"
     },
     {
       "title": "Ступор в UFC, олимпийски шампион отнесе нокаут за 12 секунди (ВИДЕО) 20 Сеп | 15:11",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295637049.og.jpg"
-    },
-    {
-      "title": "Валенсия има нов треньор 20 Сеп | 13:11",
-      "url": "https://dsport.bg/valensia-ima-nov-trenor~240377.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2146618367~1.og.jpg"
     }
   ]
 }
