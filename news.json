@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-20T08:25:04.677292+00:00",
+  "updated": "2026-09-20T08:36:38.973961+00:00",
   "articles": [
     {
-      "title": "Борисов за помощта от 50 евро: Дайте да дадем, ама от кой",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-za-pomoshtta-ot-50-evro-dajte-da-dadem-ama-ot-koj-2466945",
+      "title": "Борисов за помощта от 50 евро: Дайте да дадем, ама от кой (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-za-pomoshtta-ot-50-evro-dajte-da-dadem-ama-ot-koj-video-2466945",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51233/51233070/991-ratio-bojko-borisov.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385000/991-ratio-policiia.jpg"
     },
     {
+      "title": "Ламин Ямал счупи рекорд на Винисиус в Ла Лига 20 Сеп | 11:05",
+      "url": "https://dsport.bg/lamin-amal-schupi-rekord-na-vinisius-v-la-liga~240367.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296121359.og.jpg"
+    },
+    {
       "title": "Как резерва от Вила се превърна в най-резултатния играч в Европа? 20 Сеп | 10:52",
       "url": "https://dsport.bg/kak-rezerva-ot-vila-se-prevarna-v-nai-rezultatnia-igrach-v-evropa~240366.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2294582965.og.jpg"
-    },
-    {
-      "title": "Сблъсъкът на титаните: Диего Симеоне срещу Жозе Моуриньо – история на едно футболно съперничество 20 Сеп | 09:07",
-      "url": "https://dsport.bg/sblasakat-na-titanite-diego-simeone-srestu-zoze-mourino-istoria-na-edno-futbolno-sapernichestvo~240357.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2201874506.og.jpg"
     }
   ]
 }
