@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T06:46:30.193225+00:00",
+  "updated": "2026-09-20T06:56:43.185079+00:00",
   "articles": [
+    {
+      "title": "Спипаха шофьор с близо 4 промила алкохол",
+      "url": "https://dariknews.bg/regioni/razgrad/spipaha-shofior-s-blizo-4-promila-alkohol-2466942",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51121/51121249/991-ratio-shofior-alkohol-kola.jpg"
+    },
     {
       "title": "18-годишен младеж е в болница след побой в Разград",
       "url": "https://dariknews.bg/regioni/razgrad/18-godishen-mladezh-e-v-bolnica-sled-poboj-v-razgrad-2466941",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
     },
     {
-      "title": "България отпадна от Европейското по волейбол след драматичен обрат с Германия",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-otpadna-ot-evropejskoto-po-volejbol-sled-dramatichen-obrat-s-germaniia-2466927",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384988/991-ratio-volejbol.jpg"
+      "title": "Рекордните летни трансфери: как се справят звездите за над 100 милиона евро? 20 Сеп | 09:21",
+      "url": "https://dsport.bg/rekordnite-letni-transferi-kak-se-spravat-zvezdite-za-nad-100-miliona-evro~240358.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2294582965.og.jpg"
     },
     {
       "title": "Сблъсъкът на титаните: Диего Симеоне срещу Жозе Моуриньо – история на едно футболно съперничество 20 Сеп | 09:07",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296117758.og.jpg"
-    },
-    {
-      "title": "Лацио счупи клубен рекорд в Серия А и се изравни на върха с Рома и Интер (ВИДЕО) 19 Сеп | 23:34",
-      "url": "https://dsport.bg/lacio-schupi-kluben-rekord-v-seria-a-i-se-izravni-na-varha-s-roma-i-inter~240348.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296115204.og.jpg"
     }
   ]
 }
