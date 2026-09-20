@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T06:13:20.853154+00:00",
+  "updated": "2026-09-20T06:30:58.950408+00:00",
   "articles": [
+    {
+      "title": "Найденов за случая „Петрохан“: Може би едно от престъпленията на десетилетието, отговорите тепърва предстоят",
+      "url": "https://dariknews.bg/novini/bylgariia/najdenov-za-sluchaia-petrohan-mozhe-bi-edno-ot-prestypleniiata-na-desetiletieto-otgovorite-tepyrva-predstoiat-2466940",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "150 граждани от 27 държави обсъждаха в Брюксел как да укрепят демокрацията",
       "url": "https://dariknews.bg/novini/sviat/150-grazhdani-ot-27-dyrzhavi-obsyzhdaha-v-briuksel-kak-da-ukrepiat-demokraciiata-2466939",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384982/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Особеният управител на „Лукойл“: Не е възможна компенсация на цените на горивата от печалбата",
-      "url": "https://dariknews.bg/novini/bylgariia/osobeniiat-upravitel-na-lukojl-ne-e-vyzmozhna-kompensaciia-na-cenite-na-gorivata-ot-pechalbata-2466925",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384978/991-ratio-evgeni-simeonov.jpg"
+      "title": "Кошмарът \"Метрополитано\": Реал Мадрид преследва първа победа от 4 години в дома на Атлетико 20 Сеп | 08:56",
+      "url": "https://dsport.bg/koshmarat-metropolitano-real-madrid-presledva-parva-pobeda-ot-4-godini-v-doma-na-atletiko~240356.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/alva.og.png"
     },
     {
       "title": "Винисиус и Вирджиния се сгодиха 20 Сеп | 08:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296086446.og.jpg"
-    },
-    {
-      "title": "Аспарух Аспарухов: Не ни се получи играта 19 Сеп | 22:55",
-      "url": "https://dsport.bg/asparuh-asparuhov-ne-ni-se-poluchi-igrata~240344.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1024458~1.og.jpg"
     }
   ]
 }
