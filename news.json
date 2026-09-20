@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:00:34.933260+00:00",
+  "updated": "2026-09-20T17:13:50.691450+00:00",
   "articles": [
     {
       "title": "Първи екзитпол: Крайнодесните водят в Мекленбург-Предна Померания, „Левицата“ – в Берлин",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
     },
     {
+      "title": "Дани Моралес за терена в Пловдив: Когато седнеш да ядеш мусака, няма друго за ядене (ВИДЕО) 20 Сеп | 20:09",
+      "url": "https://dsport.bg/dani-morales-za-terena-v-plovdiv-kogato-sednesh-da-adesh-musaka-nama-drugo-za-adene~240404.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027907~1.og.jpg"
+    },
+    {
+      "title": "Душан Косич: Изиграхме добър мач 20 Сеп | 20:00",
+      "url": "https://dsport.bg/dushan-kosich-izigrahme-dobar-mach~240403.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027893~1.og.jpg"
+    },
+    {
       "title": "Умарбаев: Заслужавахме да спечелим три точки, не е лесно да играем на празни трибуни 20 Сеп | 19:50",
       "url": "https://dsport.bg/umarbaev-zasluzavahme-da-spechelim-tri-tochki-ne-e-lesno-da-igraem-na-prazni-tribuni~240402.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296236217.og.jpg"
-    },
-    {
-      "title": "Ираола излъга бившия си отбор, Ливърпул с втори успех 20 Сеп | 17:49",
-      "url": "https://dsport.bg/iraola-izlaga-bivshia-si-otbor-livarpul-s-vtori-uspeh~240395.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296236824.og.jpg"
-    },
-    {
-      "title": "Любослав Пенев: Добра игра, заслужена победа 20 Сеп | 17:34",
-      "url": "https://dsport.bg/luboslav-penev-dobra-igra-zasluzena-pobeda~240393.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027478.og.jpg"
     }
   ]
 }
