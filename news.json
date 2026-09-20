@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:56:19.684269+00:00",
+  "updated": "2026-09-20T10:07:13.946703+00:00",
   "articles": [
     {
       "title": "Изборите в две германски провинции тестват правителството на Мерц",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
     },
     {
+      "title": "Забравен от ПСЖ в битката за Златната топка 20 Сеп | 12:57",
+      "url": "https://dsport.bg/zabraven-ot-psz-v-bitkata-za-zlatnata-topka~240376.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2212242776.og.jpg"
+    },
+    {
       "title": "Ханзи Флик: Рафиня е нашият лидер, а Родри ни дава спокойствие 20 Сеп | 12:43",
       "url": "https://dsport.bg/hanzi-flik-rafina-e-nashiat-lider-a-rodri-ni-dava-spokoistvie~240375.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296121359.og.jpg"
-    },
-    {
-      "title": "Как резерва от Вила се превърна в най-резултатния играч в Европа? 20 Сеп | 10:52",
-      "url": "https://dsport.bg/kak-rezerva-ot-vila-se-prevarna-v-nai-rezultatnia-igrach-v-evropa~240366.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2292869175.og.jpg"
     }
   ]
 }
