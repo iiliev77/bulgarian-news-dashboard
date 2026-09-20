@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T17:13:50.691450+00:00",
+  "updated": "2026-09-20T17:24:55.531968+00:00",
   "articles": [
+    {
+      "title": "Пожар избухна близо до жилищен блок в Гълъбово",
+      "url": "https://dariknews.bg/regioni/stara-zagora/pozhar-izbuhna-blizo-do-zhilishten-blok-v-gylybovo-2466964",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51370/51370384/991-ratio-pozharna-stara-zagora.jpg"
+    },
     {
       "title": "Първи екзитпол: Крайнодесните водят в Мекленбург-Предна Померания, „Левицата“ – в Берлин",
       "url": "https://dariknews.bg/novini/sviat/pyrvi-ekzitpol-krajnodesnite-vodiat-v-meklenburg-predna-pomeraniia-levicata-v-berlin-2466963",
@@ -135,13 +142,6 @@
       "image": "https://m.netinfo.bg/media/images/51121/51121249/991-ratio-shofior-alkohol-kola.jpg"
     },
     {
-      "title": "18-годишен младеж е в болница след побой в Разград",
-      "url": "https://dariknews.bg/regioni/razgrad/18-godishen-mladezh-e-v-bolnica-sled-poboj-v-razgrad-2466941",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
-    },
-    {
       "title": "Дани Моралес за терена в Пловдив: Когато седнеш да ядеш мусака, няма друго за ядене (ВИДЕО) 20 Сеп | 20:09",
       "url": "https://dsport.bg/dani-morales-za-terena-v-plovdiv-kogato-sednesh-da-adesh-musaka-nama-drugo-za-adene~240404.html",
       "source": "Dsport",
@@ -149,7 +149,7 @@
       "image": "https://dsport.bg/media/383/1027907~1.og.jpg"
     },
     {
-      "title": "Душан Косич: Изиграхме добър мач 20 Сеп | 20:00",
+      "title": "Душан Косич: Изиграхме добър мач (ВИДЕО) 20 Сеп | 20:00",
       "url": "https://dsport.bg/dushan-kosich-izigrahme-dobar-mach~240403.html",
       "source": "Dsport",
       "section": "sport",
