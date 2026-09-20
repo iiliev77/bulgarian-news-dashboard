@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T17:50:47.918603+00:00",
+  "updated": "2026-09-20T17:58:13.755041+00:00",
   "articles": [
+    {
+      "title": "Министър Керязов: Държавни спортни бази са ползвани с години без наем",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-keriazov-dyrzhavni-sportni-bazi-sa-polzvani-s-godini-bez-naem-2466968",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Пожар избухна в полите на Берковския Балкан",
       "url": "https://dariknews.bg/regioni/pernik/pozhar-izbuhna-v-polite-na-berkovskiia-balkan-2466965",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385451/991-ratio-vasil-terziev.jpg"
     },
     {
-      "title": "София Кузева - Чернева: Между спомените за „Вчера“, урока на баща ѝ и живота след 33 години в Германия",
-      "url": "https://dariknews.bg/novini/liubopitno/sofiia-kuzeva-cherneva-mezhdu-spomenite-za-vchera-uroka-na-bashta-i-zhivota-sled-33-godini-v-germaniia-2466943",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385045/991-ratio-sofiia-kuzeva.jpg"
+      "title": "Ювентус удължи лошата серия на Аталанта 20 Сеп | 20:53",
+      "url": "https://dsport.bg/uventus-udalzi-loshata-seria-na-atalanta~240407.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296263141.og.jpg"
     },
     {
       "title": "БУТОНКИТЕ: ЦСКА не стигна до десерта 20 Сеп | 20:49",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296245308.og.jpg"
-    },
-    {
-      "title": "11 гола в първите два мача от Mr Bit Втора лига 20 Сеп | 19:05",
-      "url": "https://dsport.bg/11-gola-v-parvite-dva-macha-ot-mr-bit-vtora-liga~240400.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot_20260920_175625_gallery.og.jpg"
     }
   ]
 }
