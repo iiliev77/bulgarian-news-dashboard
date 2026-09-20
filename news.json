@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:58:17.515828+00:00",
+  "updated": "2026-09-20T11:10:15.222655+00:00",
   "articles": [
     {
       "title": "Гръцкият премиер обяви предстоящи мерки срещу поскъпването на горивата",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385005/991-ratio-jemen-huti.jpg"
     },
     {
+      "title": "На живо: Спартак Варна - Локомотив София (Състави) 20 Сеп | 14:03",
+      "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/tambove-sait-8-.og.jpg"
+    },
+    {
+      "title": "Аржентинският пламък в дербито на Мадрид 20 Сеп | 13:55",
+      "url": "https://dsport.bg/arzentinskiat-plamak-v-derbito-na-madrid~240382.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/madriderby.og.png"
+    },
+    {
       "title": "Моралес определи групата на ЦСКА за „Христо Бонев“ 20 Сеп | 13:31",
       "url": "https://dsport.bg/morales-opredeli-grupata-na-cska-za-hristo-bonev~240378.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2286274156-2.og.jpg"
-    },
-    {
-      "title": "Нов дългосрочен договор за ключова звезда на ПСЖ 20 Сеп | 11:56",
-      "url": "https://dsport.bg/nov-dalgosrochen-dogovor-za-kluchova-zvezda-na-psz~240371.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2290209948.og.jpg"
-    },
-    {
-      "title": "Арсенал може да изпусне един от най-скъпите си играчи 20 Сеп | 11:43",
-      "url": "https://dsport.bg/arsenal-moze-da-izpusne-edin-ot-nai-skapite-si-igrachi~240370.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2260396941-1.og.jpg"
     }
   ]
 }
