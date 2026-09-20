@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:29:52.625302+00:00",
+  "updated": "2026-09-20T13:40:20.247043+00:00",
   "articles": [
     {
       "title": "Атракцион на „Октоберфест“ остави посетители да висят с главите надолу",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/48193/48193681/991-ratio-deca-telefoni.jpg"
     },
     {
-      "title": "На живо: Спартак Варна - Локомотив София 20 Сеп | 16:18",
+      "title": "На живо: Локомотив София поведе на Спартак Варна с автогол 20 Сеп | 16:32",
       "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/jtt-03154.og.jpg"
+    },
+    {
+      "title": "На живо: Локомотив Пловдив - ЦСКА (Състави) 20 Сеп | 16:29",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/tambove-sait-9-.og.jpg"
     },
     {
       "title": "На живо: Атлетико и Реал в дербито на Мадрид (Състави) 20 Сеп | 16:08",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1020227~1.og.jpg"
-    },
-    {
-      "title": "Ламин Ямал за първи път се сблъска със съперникови фенове 20 Сеп | 13:28",
-      "url": "https://dsport.bg/lamin-amal-za-parvi-pat-se-sblaska-sas-sapernikovi-fenove~240379.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295637049.og.jpg"
     }
   ]
 }
