@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T17:24:55.531968+00:00",
+  "updated": "2026-09-20T17:34:20.862999+00:00",
   "articles": [
+    {
+      "title": "Пожар избухна в полите на Берковския Балкан",
+      "url": "https://dariknews.bg/regioni/pernik/pozhar-izbuhna-v-polite-na-berkovskiia-balkan-2466965",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51371/51371734/991-ratio-pozhar-rozino.jpg"
+    },
     {
       "title": "Пожар избухна близо до жилищен блок в Гълъбово",
       "url": "https://dariknews.bg/regioni/stara-zagora/pozhar-izbuhna-blizo-do-zhilishten-blok-v-gylybovo-2466964",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385045/991-ratio-sofiia-kuzeva.jpg"
     },
     {
-      "title": "Спипаха шофьор с близо 4 промила алкохол",
-      "url": "https://dariknews.bg/regioni/razgrad/spipaha-shofior-s-blizo-4-promila-alkohol-2466942",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51121/51121249/991-ratio-shofior-alkohol-kola.jpg"
+      "title": "Жозе на война със съдиите, разпечата претенциите на Реал Мадрид 20 Сеп | 20:28",
+      "url": "https://dsport.bg/zoze-na-voina-sas-sadiite-razpechata-pretenciite-na-real-madrid~240401.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/812645307_1341895184489648_7430955648268843292_n.og.png"
+    },
+    {
+      "title": "Манчестър Юнайтед се измъкна в края срещу Фулъм 20 Сеп | 20:22",
+      "url": "https://dsport.bg/manchestar-unaited-se-izmakna-v-kraa-srestu-fulam~240405.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296256112.og.jpg"
     },
     {
       "title": "Дани Моралес за терена в Пловдив: Когато седнеш да ядеш мусака, няма друго за ядене (ВИДЕО) 20 Сеп | 20:09",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1004942~1.og.jpg"
-    },
-    {
-      "title": "Фрозиноне сломи Комо 20 Сеп | 18:11",
-      "url": "https://dsport.bg/komo~240397.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296228783.og.jpg"
-    },
-    {
-      "title": "Ман Сити надви Съндърланд в истински голов спектакъл 20 Сеп | 17:58",
-      "url": "https://dsport.bg/man-siti-nadvi-sandarland-v-istinski-golov-spektakal~240396.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296236217.og.jpg"
     }
   ]
 }
