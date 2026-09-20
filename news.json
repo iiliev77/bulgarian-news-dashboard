@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T08:11:14.151367+00:00",
+  "updated": "2026-09-20T08:25:04.677292+00:00",
   "articles": [
+    {
+      "title": "Борисов за помощта от 50 евро: Дайте да дадем, ама от кой",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-za-pomoshtta-ot-50-evro-dajte-da-dadem-ama-ot-koj-2466945",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51233/51233070/991-ratio-bojko-borisov.jpg"
+    },
     {
       "title": "Терзиев за „Петрохан-Околчица“: Случайностите винаги се случват преди политически събития",
       "url": "https://dariknews.bg/novini/bylgariia/terziev-za-petrohan-okolchica-sluchajnostite-vinagi-se-sluchvat-predi-politicheski-sybitiia-2466944",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385000/991-ratio-policiia.jpg"
     },
     {
-      "title": "Беларус проведе военни учения до границата с ЕС",
-      "url": "https://dariknews.bg/novini/sviat/belarus-provede-voenni-ucheniia-do-granicata-s-es-2466930",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384999/991-ratio-aleksandyr-lukashenko.jpg"
+      "title": "Как резерва от Вила се превърна в най-резултатния играч в Европа? 20 Сеп | 10:52",
+      "url": "https://dsport.bg/kak-rezerva-ot-vila-se-prevarna-v-nai-rezultatnia-igrach-v-evropa~240366.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2292869175.og.jpg"
     },
     {
       "title": "Фернандо Торес: Барселона е грандиозен, а Луис Енрике е гений 20 Сеп | 10:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2201874506.og.jpg"
-    },
-    {
-      "title": "Кошмарът \"Метрополитано\": Реал Мадрид преследва първа победа от 4 години в дома на Атлетико 20 Сеп | 08:56",
-      "url": "https://dsport.bg/koshmarat-metropolitano-real-madrid-presledva-parva-pobeda-ot-4-godini-v-doma-na-atletiko~240356.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/alva.og.png"
     }
   ]
 }
