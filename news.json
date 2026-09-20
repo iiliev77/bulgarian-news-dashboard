@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-20T04:11:59.128782+00:00",
+  "updated": "2026-09-20T04:25:59.812980+00:00",
   "articles": [
+    {
+      "title": "Затварят „Цариградско шосе“ и централни улици в София за велошествие",
+      "url": "https://dariknews.bg/regioni/sofiia/zatvariat-carigradsko-shose-i-centralni-ulici-v-sofiia-za-veloshestvie-2466787",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51319/51319864/991-ratio-dzhiro-italiia-bylgariia.jpg"
+    },
+    {
+      "title": "Как да спрем „екранната зависимост“ след ваканцията",
+      "url": "https://dariknews.bg/novini/obshtestvo/kak-da-sprem-ekrannata-zavisimost-sled-vakanciiata-2466860",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48193/48193681/991-ratio-deca-telefoni.jpg"
+    },
+    {
+      "title": "Слънчева неделя с температури до 32 градуса, следобед и бури",
+      "url": "https://dariknews.bg/novini/bylgariia/slyncheva-nedelia-s-temperaturi-do-32-gradusa-sledobed-i-buri-2466933",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385001/991-ratio-esen-slynce-gora-lychi.jpg"
+    },
     {
       "title": "Пухкав отвътре, златист отвън: Топ рецепта за вкусен и неустоим домашен кекс",
       "url": "https://dariknews.bg/novini/liubopitno/puhkav-otvytre-zlatist-otvyn-top-recepta-za-vkusen-i-neustoim-domashen-keks-2465847",
@@ -28,13 +49,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51218/51218071/991-ratio-esen-mygla.jpg"
-    },
-    {
-      "title": "Вижте всички кандидати за президент до момента",
-      "url": "https://dariknews.bg/novini/bylgariia/vizhte-vsichki-kandidati-za-prezident-do-momenta-2466934",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
     },
     {
       "title": "Иран представи условията си за подновяване на мирните преговори със САЩ",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384731/991-ratio-pozhar-karlovo-bez-reklama.jpg"
-    },
-    {
-      "title": "Въздушна тревога в Рияд и експлозии край летището след предполагаема атака на хусите",
-      "url": "https://dariknews.bg/novini/sviat/vyzdushna-trevoga-v-riiad-i-eksplozii-kraj-letishteto-sled-predpolagaema-ataka-na-husite-2466919",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384701/991-ratio-riiad.jpg"
-    },
-    {
-      "title": "За 5 дни бензин А95 поскъпна с 5 евроцента за литър, искат нова отстъпка за горивата",
-      "url": "https://dariknews.bg/novini/bylgariia/za-5-dni-benzin-a95-poskypna-s-5-evrocenta-za-lityr-iskat-nova-otstypka-za-gorivata-2466918",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45868/45868235/991-ratio-benzin-benzinostanciia-zarezhdane-dizel.jpg"
     },
     {
       "title": "Расизъм спря мач във Франция, Лион с разгромна победа 20 Сеп | 00:01",
