@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:58:13.755041+00:00",
+  "updated": "2026-09-20T18:12:22.493354+00:00",
   "articles": [
     {
       "title": "Министър Керязов: Държавни спортни бази са ползвани с години без наем",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385451/991-ratio-vasil-terziev.jpg"
     },
     {
+      "title": "Пирин най-сетне вкара, но продължава да пропада 20 Сеп | 21:08",
+      "url": "https://dsport.bg/pirin-nai-setne-vkara-no-prodalzava-da-propada~240409.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1011969~1.og.jpg"
+    },
+    {
       "title": "Ювентус удължи лошата серия на Аталанта 20 Сеп | 20:53",
       "url": "https://dsport.bg/uventus-udalzi-loshata-seria-na-atalanta~240407.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027945.og.jpg"
-    },
-    {
-      "title": "Атлетико пак нокаутира Реал в Дерби Мадриленьо на „Метрополитано“ 20 Сеп | 19:16",
-      "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296245308.og.jpg"
     }
   ]
 }
