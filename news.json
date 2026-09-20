@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T16:11:15.425693+00:00",
+  "updated": "2026-09-20T16:24:44.086138+00:00",
   "articles": [
+    {
+      "title": "Тежка катастрофа край Николово с двама загинали и петима ранени",
+      "url": "https://dariknews.bg/regioni/haskovo/tezhka-katastrofa-kraj-nikolovo-s-dvama-zaginali-i-petima-raneni-2466962",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385498/991-ratio-katastrofa-nikolaevo.jpg"
+    },
     {
       "title": "Мечки се оказаха в опасна близост до къмпингари край Локорско",
       "url": "https://dariknews.bg/regioni/sofiia/mechki-se-okazaha-v-opasna-blizost-do-kympingari-kraj-lokorsko-2466961",
@@ -135,14 +142,14 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "150 граждани от 27 държави обсъждаха в Брюксел как да укрепят демокрацията",
-      "url": "https://dariknews.bg/novini/sviat/150-grazhdani-ot-27-dyrzhavi-obsyzhdaha-v-briuksel-kak-da-ukrepiat-demokraciiata-2466939",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+      "title": "На живо: Локомотив Пловдив удари греда срещу ЦСКА 20 Сеп | 19:20",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027897.og.jpg"
     },
     {
-      "title": "На живо: Атлетико Мадрид води срещу Реал, \"кралете\" върнаха гол с човек по-малко 20 Сеп | 19:09",
+      "title": "Атлетико пак нокаутира Реал в Дерби Мадриленьо на „Метрополитано“ 20 Сеп | 19:16",
       "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
       "source": "Dsport",
       "section": "sport",
@@ -154,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot_20260920_175625_gallery.og.jpg"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив удари греда срещу ЦСКА 20 Сеп | 19:00",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027897.og.jpg"
     },
     {
       "title": "Байер Леверкузен се завърна към победите в Бундеслигата 20 Сеп | 18:33",
