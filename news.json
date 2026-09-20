@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:45:11.566867+00:00",
+  "updated": "2026-09-20T16:52:56.687255+00:00",
   "articles": [
     {
       "title": "Първи екзитпол: Крайнодесните водят в Мекленбург-Предна Померания, „Левицата“ – в Берлин",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
     },
     {
+      "title": "Умарбаев: Заслужавахме да спечелим три точки, не е лесно да играем на празни трибуни 20 Сеп | 19:50",
+      "url": "https://dsport.bg/umarbaev-zasluzavahme-da-spechelim-tri-tochki-ne-e-lesno-da-igraem-na-prazni-tribuni~240402.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027923~1.og.jpg"
+    },
+    {
       "title": "ЦСКА пропусна върха, Локомотив Пловдив спря „армейците“ на разорана нива 20 Сеп | 19:40",
       "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027478.og.jpg"
-    },
-    {
-      "title": "От ЦСКА пуснаха фрапиращи снимки от терена на „Христо Бонев“ 20 Сеп | 17:29",
-      "url": "https://dsport.bg/ot-cska-pusnaha-frapirasti-snimki-ot-terena-na-hristo-bonev~240394.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/814779428_1601093485042157_1574348149811466184_n.og.jpg"
     }
   ]
 }
