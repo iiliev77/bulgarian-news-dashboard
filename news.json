@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:43:02.458577+00:00",
+  "updated": "2026-09-20T20:50:44.448517+00:00",
   "articles": [
     {
       "title": "Пътен участък пропадна във варненския квартал „Аспарухово“",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385059/991-ratio-peesh.jpg"
     },
     {
+      "title": "ПСЖ триумфира в Льо Класик и закотви Марсилия в дъното 20 Сеп | 23:44",
+      "url": "https://dsport.bg/psz-triumfira-v-lo-klasik-i-zakotvi-marsilia-v-danoto~240419.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295782940.og.jpg"
+    },
+    {
       "title": "Милан отпразнува 100 години „Сан Сиро“ с лесен успех над Лече 20 Сеп | 23:38",
       "url": "https://dsport.bg/milan-otpraznuva-100-godini-san-siro-s-lesen-uspeh-nad-leche~240418.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1011969~1.og.jpg"
-    },
-    {
-      "title": "Ювентус удължи лошата серия на Аталанта 20 Сеп | 20:53",
-      "url": "https://dsport.bg/uventus-udalzi-loshata-seria-na-atalanta~240407.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296263141.og.jpg"
     }
   ]
 }
