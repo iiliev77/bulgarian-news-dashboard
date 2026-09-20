@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T08:54:27.286556+00:00",
+  "updated": "2026-09-20T09:03:24.515895+00:00",
   "articles": [
+    {
+      "title": "Митничари откриха близо 1 млн. заготовки за цигарени кутии край Видин",
+      "url": "https://dariknews.bg/novini/mitnichari-otkriha-blizo-1-mln.-zagotovki-za-cigareni-kutii-kraj-vidin-2466947",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51346/51346365/991-ratio-cigari-bez-banderol.jpg"
+    },
     {
       "title": "„Пееш или лъжеш“ на живо в подкрепа на УНИЦЕФ: осем звезди и осем деца застават заедно на сцената",
       "url": "https://dariknews.bg/novini/liubopitno/peesh-ili-lyzhesh-na-zhivo-v-podkrepa-na-unicef-osem-zvezdi-i-osem-deca-zastavat-zaedno-na-scenata-2466946",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51218/51218071/991-ratio-esen-mygla.jpg"
     },
     {
-      "title": "Иран представи условията си за подновяване на мирните преговори със САЩ",
-      "url": "https://dariknews.bg/novini/sviat/iran-predstavi-usloviiata-si-za-podnoviavane-na-mirnite-pregovori-sys-sasht-2466931",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51328/51328366/991-ratio-iran-internet.jpg"
+      "title": "Арсенал може да изпусне един от най-скъпите си играчи 20 Сеп | 11:43",
+      "url": "https://dsport.bg/arsenal-moze-da-izpusne-edin-ot-nai-skapite-si-igrachi~240370.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2260396941-1.og.jpg"
     },
     {
       "title": "Гранит Джака е разследван за фалшиви сертификати за COVID-19 20 Сеп | 11:33",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2148581178.og.jpg"
-    },
-    {
-      "title": "Александър Исак: Никога не съм съжалявал за трансфера си в Ливърпул 20 Сеп | 09:43",
-      "url": "https://dsport.bg/aleksandar-isak-nikoga-ne-sam-sazalaval-za-transfera-si-v-livarpul~240360.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295545761.og.jpg"
     }
   ]
 }
