@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T12:12:00.533042+00:00",
+  "updated": "2026-09-20T12:29:31.320996+00:00",
   "articles": [
     {
       "title": "Гръцкият премиер обяви предстоящи мерки срещу поскъпването на горивата",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385005/991-ratio-jemen-huti.jpg"
     },
     {
+      "title": "На живо: Спартак Варна - Локомотив София 20 Сеп | 15:15",
+      "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/tambove-sait-8-.og.jpg"
+    },
+    {
+      "title": "Ступор в UFC, олимпийски шампион отнесе нокаут за 12 секунди (ВИДЕО) 20 Сеп | 15:11",
+      "url": "https://dsport.bg/stupor-v-ufc-olimpiiski-shampion-otnese-nokaut-za-12-sekundi~240387.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295611942.og.jpg"
+    },
+    {
       "title": "Нико Джаксън като Каранга, възпали Висшата лига (ВИДЕО) 20 Сеп | 14:50",
       "url": "https://dsport.bg/niko-dzaksan-kato-karanga-vazpali-visshata-liga-video~240386.html",
       "source": "Dsport",
@@ -161,13 +175,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296198122.og.jpg"
-    },
-    {
-      "title": "На живо: Спартак Варна - Локомотив София (Състави) 20 Сеп | 14:03",
-      "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/tambove-sait-8-.og.jpg"
     },
     {
       "title": "Аржентинският пламък в дербито на Мадрид 20 Сеп | 13:55",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2212242776.og.jpg"
-    },
-    {
-      "title": "Ханзи Флик: Рафиня е нашият лидер, а Родри ни дава спокойствие 20 Сеп | 12:43",
-      "url": "https://dsport.bg/hanzi-flik-rafina-e-nashiat-lider-a-rodri-ni-dava-spokoistvie~240375.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296113672.og.jpg"
     }
   ]
 }
