@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T19:42:53.030441+00:00",
+  "updated": "2026-09-20T19:50:44.910514+00:00",
   "articles": [
+    {
+      "title": "Ново проучване показва как креатинът подмладява тялото и дава сила",
+      "url": "https://dariknews.bg/novini/liubopitno/novo-prouchvane-pokazva-kak-kreatinyt-podmladiava-tialoto-i-dava-sila-2466972",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50887/50887994/991-ratio-fitnes.jpg"
+    },
     {
       "title": "Екзитпол: „Единна Русия“ запазва контрола си над парламента след избори при строг контрол",
       "url": "https://dariknews.bg/novini/sviat/ekzitpol-edinna-rusiia-zapazva-kontrola-si-nad-parlamenta-sled-izbori-pri-strog-kontrol-2466969",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385059/991-ratio-peesh.jpg"
     },
     {
-      "title": "Борисов за помощта от 50 евро: Дайте да дадем, ама от кой (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-za-pomoshtta-ot-50-evro-dajte-da-dadem-ama-ot-koj-video-2466945",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51233/51233070/991-ratio-bojko-borisov.jpg"
+      "title": "Реал Мадрид ТВ: Отвратително! Идва ти да си тръгнеш, дайте им револвери (ВИДЕО) 20 Сеп | 22:43",
+      "url": "https://dsport.bg/real-madrid-tv-otvratitelno-idva-ti-da-si-tragnesh-daite-im-revolveri-video~240415.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296239036.og.jpg"
     },
     {
       "title": "Официална позиция: Шпилевски откровено за преговорите с ЦСКА 20 Сеп | 22:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/812645307_1341895184489648_7430955648268843292_n.og.png"
-    },
-    {
-      "title": "Манчестър Юнайтед се измъкна в края срещу Фулъм 20 Сеп | 20:22",
-      "url": "https://dsport.bg/manchestar-unaited-se-izmakna-v-kraa-srestu-fulam~240405.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296256112.og.jpg"
     }
   ]
 }
