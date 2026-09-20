@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T14:20:42.853075+00:00",
+  "updated": "2026-09-20T14:31:39.008252+00:00",
   "articles": [
+    {
+      "title": "Какво ще правят математиците, ако ИИ сам решава сложни задачи",
+      "url": "https://dariknews.bg/novini/sviat/kakvo-shte-praviat-matematicite-ako-ii-sam-reshava-slozhni-zadachi-2466956",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385250/991-ratio-ii.jpg"
+    },
     {
       "title": "Фестивал на сливата в Троян: Дефиле на стари съдове и домашна ракия",
       "url": "https://dariknews.bg/regioni/lovech/festival-na-slivata-v-troian-defile-na-stari-sydovei-domashna-rakiia-2466955",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384679/991-ratio-cveklo.jpg"
     },
     {
-      "title": "Затварят „Цариградско шосе“ и централни улици в София за велошествие",
-      "url": "https://dariknews.bg/regioni/sofiia/zatvariat-carigradsko-shose-i-centralni-ulici-v-sofiia-za-veloshestvie-2466787",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51319/51319864/991-ratio-dzhiro-italiia-bylgariia.jpg"
-    },
-    {
-      "title": "На живо: Атлетико Мадрид - Реал Мадрид 20 Сеп | 17:16",
+      "title": "На живо: Атлетико Мадрид - Реал Мадрид 20 Сеп | 17:30",
       "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/finali-ekt-7-.og.jpg"
+      "image": "https://dsport.bg/media/383/gettyimages-2296234659.og.jpg"
+    },
+    {
+      "title": "Васил Петров: Липса на малшанс, яд ме е за последния мач 20 Сеп | 17:23",
+      "url": "https://dsport.bg/vasil-petrov-lipsa-na-malshans-ad-me-e-za-poslednia-mach~240392.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027510.og.jpg"
     },
     {
       "title": "Автогол донесе първи успех на Локомотив София 20 Сеп | 17:07",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296198122.og.jpg"
-    },
-    {
-      "title": "Аржентинският пламък в дербито на Мадрид 20 Сеп | 13:55",
-      "url": "https://dsport.bg/arzentinskiat-plamak-v-derbito-na-madrid~240382.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/madriderby.og.png"
     }
   ]
 }
