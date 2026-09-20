@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:10:00.778804+00:00",
+  "updated": "2026-09-20T20:22:28.674860+00:00",
   "articles": [
     {
       "title": "Ново проучване показва как креатинът подмладява тялото и дава сила",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385059/991-ratio-peesh.jpg"
     },
     {
+      "title": "Падерборн подчини Хофенхайм за първи успех 20 Сеп | 23:17",
+      "url": "https://dsport.bg/paderborn-podchini-hofenhaim-za-parvi-uspeh~240417.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296276488.og.jpg"
+    },
+    {
       "title": "17-годишен избухна с хеттрик за Черноморец и разплака Етър насред „Ивайло“ 20 Сеп | 22:55",
       "url": "https://dsport.bg/17-godishen-izbuhna-s-hettrik-za-chernomorec-i-razplaka-etar-nasred-ivailo~240416.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/2026-09-20-butonki_thumb.og.jpg"
-    },
-    {
-      "title": "Два златни медала за България от Световната купа по спортна гимнастика в Унгария 20 Сеп | 20:41",
-      "url": "https://dsport.bg/dva-zlatni-medala-za-balgaria-ot-svetovnata-kupa-po-sportna-gimnastika-v-ungaria~240406.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/f44aecd0-e207-4d8a-a223-5b7a0388657d.og.jpg"
     }
   ]
 }
