@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:50:29.292179+00:00",
+  "updated": "2026-09-20T14:57:45.438841+00:00",
   "articles": [
     {
       "title": "Отровна риба се появи в реките след наводненията в Тибет",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51209/51209856/991-ratio-zelenchuci.jpg"
     },
     {
-      "title": "На живо: Локомотив Пловдив - ЦСКА 20 Сеп | 17:45",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/tambove-sait-9-.og.jpg"
-    },
-    {
-      "title": "На живо: Атлетико Мадрид - Реал Мадрид 20 Сеп | 17:40",
+      "title": "На живо: Атлетико Мадрид - Реал Мадрид 20 Сеп | 17:50",
       "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296236405.og.jpg"
+      "image": "https://dsport.bg/media/383/gettyimages-2296237447.og.jpg"
+    },
+    {
+      "title": "Ираола излъга бившия си отбор, Ливърпул с втори успех 20 Сеп | 17:49",
+      "url": "https://dsport.bg/iraola-izlaga-bivshia-si-otbor-livarpul-s-vtori-uspeh~240395.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296236824.og.jpg"
+    },
+    {
+      "title": "На живо: Локомотив Пловдив поведе на ЦСКА 20 Сеп | 17:45",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027879.og.jpg"
     },
     {
       "title": "Любослав Пенев: Добра игра, заслужена победа 20 Сеп | 17:34",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295611942.og.jpg"
-    },
-    {
-      "title": "Нико Джаксън като Каранга, възпали Висшата лига (ВИДЕО) 20 Сеп | 14:50",
-      "url": "https://dsport.bg/niko-dzaksan-kato-karanga-vazpali-visshata-liga-video~240386.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/nikkkkk.og.jpg"
     }
   ]
 }
