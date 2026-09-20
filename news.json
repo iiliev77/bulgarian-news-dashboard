@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T12:44:08.604152+00:00",
+  "updated": "2026-09-20T12:55:06.687154+00:00",
   "articles": [
+    {
+      "title": "Овладяха пожара на депото край Плевен, няма задимяване",
+      "url": "https://dariknews.bg/regioni/pleven/ovladiaha-pozhara-na-depoto-kraj-pleven-niama-zadimiavane-2466952",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385126/991-ratio-pozhar-depo.jpg"
+    },
     {
       "title": "Задържаха възрастен мъж, удрял жена си по главата в монтанско село",
       "url": "https://dariknews.bg/regioni/montana/zadyrzhaha-vyzrasten-myzh-udrial-zhena-si-po-glavata-v-montansko-selo-2466950",
@@ -135,13 +142,6 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385001/991-ratio-esen-slynce-gora-lychi.jpg"
     },
     {
-      "title": "Пухкав отвътре, златист отвън: Топ рецепта за вкусен и неустоим домашен кекс",
-      "url": "https://dariknews.bg/novini/liubopitno/puhkav-otvytre-zlatist-otvyn-top-recepta-za-vkusen-i-neustoim-domashen-keks-2465847",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51210/51210597/991-ratio-keks-sladkish.jpg"
-    },
-    {
       "title": "Фиорентина и Наполи не се победиха в мач с два гола и три греди 20 Сеп | 15:33",
       "url": "https://dsport.bg/fiorentina-napoli-seria-a-ravenstvo-golove-gredi~240388.html",
       "source": "Dsport",
@@ -153,7 +153,7 @@
       "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/tambove-sait-8-.og.jpg"
+      "image": "https://dsport.bg/media/383/jtt-03148.og.jpg"
     },
     {
       "title": "Ступор в UFC, олимпийски шампион отнесе нокаут за 12 секунди (ВИДЕО) 20 Сеп | 15:11",
