@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T13:40:20.247043+00:00",
+  "updated": "2026-09-20T13:49:09.286966+00:00",
   "articles": [
     {
       "title": "Атракцион на „Октоберфест“ остави посетители да висят с главите надолу",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/48193/48193681/991-ratio-deca-telefoni.jpg"
     },
     {
+      "title": "Блокада за автобуса на ЦСКА пред стадиона на Локомотив Пловдив 20 Сеп | 16:39",
+      "url": "https://dsport.bg/blokada-za-avtobusa-na-cska-pred-stadiona-na-lokomotiv-plovdiv~240391.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/818743798_4555373218124863_6399630036730452517_n.og.jpg"
+    },
+    {
       "title": "На живо: Локомотив София поведе на Спартак Варна с автогол 20 Сеп | 16:32",
       "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/madriderby.og.png"
-    },
-    {
-      "title": "Моралес определи групата на ЦСКА за „Христо Бонев“ 20 Сеп | 13:31",
-      "url": "https://dsport.bg/morales-opredeli-grupata-na-cska-za-hristo-bonev~240378.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1020227~1.og.jpg"
     }
   ]
 }
