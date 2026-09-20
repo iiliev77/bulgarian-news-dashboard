@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T09:29:37.864464+00:00",
+  "updated": "2026-09-20T09:40:10.225524+00:00",
   "articles": [
     {
       "title": "Изборите в две германски провинции тестват правителството на Мерц",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
     },
     {
+      "title": "Разрив в Англия: Томас Тухел изгуби доверието на играчите след Мондиал 2026 20 Сеп | 12:20",
+      "url": "https://dsport.bg/razriv-v-anglia-tomas-tuhel-izgubi-doverieto-na-igrachite-sled-mondial-2026~240373.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2284249082-1.og.jpg"
+    },
+    {
       "title": "Кандидатурата на Лионел Меси за Златната топка набира все по-голяма скорост 20 Сеп | 12:07",
       "url": "https://dsport.bg/kandidaturata-na-lionel-mesi-za-zlatnata-topka-nabira-vse-po-golama-skorost~240372.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-168967874.og.jpg"
-    },
-    {
-      "title": "Локо Пд без един от големите си таланти срещу ЦСКА, но с ново попълнение 20 Сеп | 10:20",
-      "url": "https://dsport.bg/loko-pd-bez-edin-ot-golemite-si-talanti-srestu-cska-no-s-novo-popalnenie~240363.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/dusankosic.og.jpeg"
     }
   ]
 }
