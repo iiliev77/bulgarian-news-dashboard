@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T18:12:22.493354+00:00",
+  "updated": "2026-09-20T18:26:50.785371+00:00",
   "articles": [
     {
       "title": "Министър Керязов: Държавни спортни бази са ползвани с години без наем",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385451/991-ratio-vasil-terziev.jpg"
     },
     {
+      "title": "Лукас Петков с цял мач при нулево равенство на Елверсберг 20 Сеп | 21:15",
+      "url": "https://dsport.bg/lukas-petkov-s-cal-mach-pri-nulevo-ravenstvo-na-elversberg~240410.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296248448.og.jpg"
+    },
+    {
       "title": "Пирин най-сетне вкара, но продължава да пропада 20 Сеп | 21:08",
       "url": "https://dsport.bg/pirin-nai-setne-vkara-no-prodalzava-da-propada~240409.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027923~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА пропусна върха, Локомотив Пловдив спря „армейците“ на разорана нива 20 Сеп | 19:40",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027945.og.jpg"
     }
   ]
 }
