@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T15:09:32.403030+00:00",
+  "updated": "2026-09-20T15:21:42.105766+00:00",
   "articles": [
     {
       "title": "Предупреждение за силен вятър в 13 области в понеделник",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384051/991-ratio-iaponiia.jpg"
     },
     {
-      "title": "На живо: Атлетико Мадрид - Реал Мадрид, малко футбол в испанската столица 20 Сеп | 18:05",
+      "title": "На живо: ЦСКА изравни експресно на Локомотив Пловдив, гол на Питас 20 Сеп | 18:20",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027896.og.jpg"
+    },
+    {
+      "title": "Фрозиноне сломи Комо 20 Сеп | 18:11",
+      "url": "https://dsport.bg/komo~240397.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296228783.og.jpg"
+    },
+    {
+      "title": "На живо: Атлетико Мадрид - Реал Мадрид, бой в тунела 20 Сеп | 18:05",
       "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296239396.og.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА изравни експресно на Локомотив Пловдив, гол на Питас 20 Сеп | 18:03",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027879.og.jpg"
     },
     {
       "title": "Ман Сити надви Съндърланд в истински голов спектакъл 20 Сеп | 17:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/818743798_4555373218124863_6399630036730452517_n.og.jpg"
-    },
-    {
-      "title": "Фиорентина и Наполи не се победиха в мач с два гола и три греди 20 Сеп | 15:33",
-      "url": "https://dsport.bg/fiorentina-napoli-seria-a-ravenstvo-golove-gredi~240388.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295649059.og.jpg"
     }
   ]
 }
