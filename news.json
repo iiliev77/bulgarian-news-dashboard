@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T11:21:49.031669+00:00",
+  "updated": "2026-09-20T11:32:08.631051+00:00",
   "articles": [
     {
       "title": "Гръцкият премиер обяви предстоящи мерки срещу поскъпването на горивата",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385005/991-ratio-jemen-huti.jpg"
     },
     {
+      "title": "Чоло срещу Реал Мадрид: цялата история на едно епично съперничество в цифри 20 Сеп | 14:24",
+      "url": "https://dsport.bg/cholo-srestu-real-madrid-calata-istoria-na-edno-epichno-sapernichestvo-v-cifri~240385.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2272075314.og.jpg"
+    },
+    {
+      "title": "Шок в ефир: Нико Ковач научи за смъртта на свой асистент 20 Сеп | 14:21",
+      "url": "https://dsport.bg/niko-kovach-razbra-v-efir-che-negov-pomostnik-e-pochinal~240380.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296198122.og.jpg"
+    },
+    {
       "title": "На живо: Спартак Варна - Локомотив София (Състави) 20 Сеп | 14:03",
       "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296124329.og.jpg"
-    },
-    {
-      "title": "Разрив в Англия: Томас Тухел изгуби доверието на играчите след Мондиал 2026 20 Сеп | 12:20",
-      "url": "https://dsport.bg/razriv-v-anglia-tomas-tuhel-izgubi-doverieto-na-igrachite-sled-mondial-2026~240373.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2284249082-1.og.jpg"
-    },
-    {
-      "title": "Кандидатурата на Лионел Меси за Златната топка набира все по-голяма скорост 20 Сеп | 12:07",
-      "url": "https://dsport.bg/kandidaturata-na-lionel-mesi-za-zlatnata-topka-nabira-vse-po-golama-skorost~240372.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2286274156-2.og.jpg"
     }
   ]
 }
