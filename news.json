@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T12:29:31.320996+00:00",
+  "updated": "2026-09-20T12:44:08.604152+00:00",
   "articles": [
+    {
+      "title": "Задържаха възрастен мъж, удрял жена си по главата в монтанско село",
+      "url": "https://dariknews.bg/regioni/montana/zadyrzhaha-vyzrasten-myzh-udrial-zhena-si-po-glavata-v-montansko-selo-2466950",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51243/51243550/991-ratio-arest.jpg"
+    },
     {
       "title": "Гръцкият премиер обяви предстоящи мерки срещу поскъпването на горивата",
       "url": "https://dariknews.bg/novini/sviat/gryckiiat-premier-obiavi-predstoiashti-merki-sreshtu-poskypvaneto-na-gorivata-2466949",
@@ -135,14 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51210/51210597/991-ratio-keks-sladkish.jpg"
     },
     {
-      "title": "Йеменските бунтовници хуси поеха отговорност за нападението в Рияд",
-      "url": "https://dariknews.bg/novini/sviat/jemenskite-buntovnici-husi-poeha-otgovornost-za-napadenieto-v-riiad-2466936",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385005/991-ratio-jemen-huti.jpg"
+      "title": "Фиорентина и Наполи не се победиха в мач с два гола и три греди 20 Сеп | 15:33",
+      "url": "https://dsport.bg/fiorentina-napoli-seria-a-ravenstvo-golove-gredi~240388.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295649059.og.jpg"
     },
     {
-      "title": "На живо: Спартак Варна - Локомотив София 20 Сеп | 15:15",
+      "title": "На живо: Спартак Варна - Локомотив София 20 Сеп | 15:30",
       "url": "https://dsport.bg/na-zivo-spartak-varna-lokomotiv-sofia-sastavi~240381.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2146618367~1.og.jpg"
-    },
-    {
-      "title": "Забравен от ПСЖ в битката за Златната топка 20 Сеп | 12:57",
-      "url": "https://dsport.bg/zabraven-ot-psz-v-bitkata-za-zlatnata-topka~240376.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2212242776.og.jpg"
     }
   ]
 }
