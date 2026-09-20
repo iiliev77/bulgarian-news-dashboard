@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T10:31:54.642680+00:00",
+  "updated": "2026-09-20T10:42:26.034707+00:00",
   "articles": [
+    {
+      "title": "Гръцкият премиер обяви предстоящи мерки срещу поскъпването на горивата",
+      "url": "https://dariknews.bg/novini/sviat/gryckiiat-premier-obiavi-predstoiashti-merki-sreshtu-poskypvaneto-na-gorivata-2466949",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51296/51296559/991-ratio-gorivo-benzinostanciia-dizel.jpg"
+    },
     {
       "title": "Изборите в две германски провинции тестват правителството на Мерц",
       "url": "https://dariknews.bg/novini/sviat/izborite-v-dve-germanski-provincii-testvat-pravitelstvoto-na-merc-2466948",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385005/991-ratio-jemen-huti.jpg"
     },
     {
-      "title": "Правосъдният министър: Не е толкова страшно, ако се извади флашка за някого от кандидатите за ВСС",
-      "url": "https://dariknews.bg/novini/bylgariia/pravosydniiat-ministyr-ne-e-tolkova-strashno-ako-se-izvadi-flashka-za-niakogo-ot-kandidatite-za-vss-2466935",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
+      "title": "Моралес определи групата на ЦСКА за „Христо Бонев“ 20 Сеп | 13:31",
+      "url": "https://dsport.bg/morales-opredeli-grupata-na-cska-za-hristo-bonev~240378.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1020227~1.og.jpg"
+    },
+    {
+      "title": "Ламин Ямал за първи път се сблъска със съперникови фенове 20 Сеп | 13:28",
+      "url": "https://dsport.bg/lamin-amal-za-parvi-pat-se-sblaska-sas-sapernikovi-fenove~240379.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295637049.og.jpg"
     },
     {
       "title": "Валенсия има нов треньор 20 Сеп | 13:11",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2260396941-1.og.jpg"
-    },
-    {
-      "title": "Гранит Джака е разследван за фалшиви сертификати за COVID-19 20 Сеп | 11:33",
-      "url": "https://dsport.bg/granit-dzaka-e-razsledvan-za-falshivi-sertifikati-za-covid-19~240369.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2215553593~1.og.jpg"
-    },
-    {
-      "title": "Садио Мане с огромна инвестиция в Сенегал: влага 20 млн. долара за 1000 нови работни места 20 Сеп | 11:20",
-      "url": "https://dsport.bg/sadio-mane-s-ogromna-investicia-v-senegal-vlaga-20-mln-dolara-za-1000-novi-rabotni-mesta~240368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1762151668.og.jpg"
     }
   ]
 }
