@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T06:30:58.950408+00:00",
+  "updated": "2026-09-20T06:46:30.193225+00:00",
   "articles": [
+    {
+      "title": "18-годишен младеж е в болница след побой в Разград",
+      "url": "https://dariknews.bg/regioni/razgrad/18-godishen-mladezh-e-v-bolnica-sled-poboj-v-razgrad-2466941",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
+    },
     {
       "title": "Найденов за случая „Петрохан“: Може би едно от престъпленията на десетилетието, отговорите тепърва предстоят",
       "url": "https://dariknews.bg/novini/bylgariia/najdenov-za-sluchaia-petrohan-mozhe-bi-edno-ot-prestypleniiata-na-desetiletieto-otgovorite-tepyrva-predstoiat-2466940",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384988/991-ratio-volejbol.jpg"
     },
     {
-      "title": "Мирослав и д-р Пекин продължават напред в звездния турнир на „Игри на волята”",
-      "url": "https://dariknews.bg/novini/obshtestvo/miroslav-i-d-r-pekin-prodylzhavat-napred-v-zvezdniia-turnir-na-igri-na-voliata-2466926",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384982/991-ratio-igri-na-voliata.jpg"
+      "title": "Сблъсъкът на титаните: Диего Симеоне срещу Жозе Моуриньо – история на едно футболно съперничество 20 Сеп | 09:07",
+      "url": "https://dsport.bg/sblasakat-na-titanite-diego-simeone-srestu-zoze-mourino-istoria-na-edno-futbolno-sapernichestvo~240357.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2201874506.og.jpg"
     },
     {
       "title": "Кошмарът \"Метрополитано\": Реал Мадрид преследва първа победа от 4 години в дома на Атлетико 20 Сеп | 08:56",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296115204.og.jpg"
-    },
-    {
-      "title": "Артета след загубата от Брайтън: Това не бива да се повтаря 19 Сеп | 23:07",
-      "url": "https://dsport.bg/arteta-sled-zagubata-ot-braitan-tova-ne-biva-da-se-povtara~240346.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296086446.og.jpg"
     }
   ]
 }
