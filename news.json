@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T17:42:49.967953+00:00",
+  "updated": "2026-09-20T17:50:47.918603+00:00",
   "articles": [
     {
       "title": "Пожар избухна в полите на Берковския Балкан",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385045/991-ratio-sofiia-kuzeva.jpg"
     },
     {
+      "title": "БУТОНКИТЕ: ЦСКА не стигна до десерта 20 Сеп | 20:49",
+      "url": "https://dsport.bg/butonkite-cska-ne-stigna-do-deserta~240408.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/2026-09-20-butonki_thumb.og.jpg"
+    },
+    {
+      "title": "Два златни медала за България от Световната купа по спортна гимнастика в Унгария 20 Сеп | 20:41",
+      "url": "https://dsport.bg/dva-zlatni-medala-za-balgaria-ot-svetovnata-kupa-po-sportna-gimnastika-v-ungaria~240406.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/f44aecd0-e207-4d8a-a223-5b7a0388657d.og.jpg"
+    },
+    {
       "title": "Жозе на война със съдиите, разпечата претенциите на Реал Мадрид 20 Сеп | 20:28",
       "url": "https://dsport.bg/zoze-na-voina-sas-sadiite-razpechata-pretenciite-na-real-madrid~240401.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot_20260920_175625_gallery.og.jpg"
-    },
-    {
-      "title": "Байер Леверкузен се завърна към победите в Бундеслигата 20 Сеп | 18:33",
-      "url": "https://dsport.bg/baier-leverkuzen-se-zavarna-kam-pobedite-v-bundesligata~240399.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296240030.og.jpg"
-    },
-    {
-      "title": "ЦСКА 1948 със седем чуждестранни национали, трима остават заедно 20 Сеп | 18:23",
-      "url": "https://dsport.bg/cska-1948-sas-sedem-chuzdestranni-nacionali-trima-ostavat-zaedno~240398.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1004942~1.og.jpg"
     }
   ]
 }
