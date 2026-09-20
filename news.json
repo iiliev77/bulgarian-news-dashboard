@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:07:13.946703+00:00",
+  "updated": "2026-09-20T10:20:32.893649+00:00",
   "articles": [
     {
       "title": "Изборите в две германски провинции тестват правителството на Мерц",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
     },
     {
+      "title": "Валенсия има нов треньор 20 Сеп | 13:11",
+      "url": "https://dsport.bg/valensia-ima-nov-trenor~240377.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2146618367~1.og.jpg"
+    },
+    {
       "title": "Забравен от ПСЖ в битката за Златната топка 20 Сеп | 12:57",
       "url": "https://dsport.bg/zabraven-ot-psz-v-bitkata-za-zlatnata-topka~240376.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1762151668.og.jpg"
-    },
-    {
-      "title": "Ламин Ямал счупи рекорд на Винисиус в Ла Лига 20 Сеп | 11:05",
-      "url": "https://dsport.bg/lamin-amal-schupi-rekord-na-vinisius-v-la-liga~240367.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296121359.og.jpg"
     }
   ]
 }
