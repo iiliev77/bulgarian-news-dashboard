@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T14:57:45.438841+00:00",
+  "updated": "2026-09-20T15:09:32.403030+00:00",
   "articles": [
+    {
+      "title": "Предупреждение за силен вятър в 13 области в понеделник",
+      "url": "https://dariknews.bg/novini/bylgariia/preduprezhdenie-za-silen-viatyr-v-13-oblasti-v-ponedelnik-2466960",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385353/991-ratio-esen-lista-viatyr.jpg"
+    },
     {
       "title": "Отровна риба се появи в реките след наводненията в Тибет",
       "url": "https://dariknews.bg/novini/sviat/otrovna-riba-se-poiavi-v-rekite-sled-navodneniiata-v-tibet-2466959",
@@ -135,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384051/991-ratio-iaponiia.jpg"
     },
     {
-      "title": "Какво поскъпна и какво поевтиня на борсите тази седмица",
-      "url": "https://dariknews.bg/novini/bylgariia/kakvo-poskypna-i-kakvo-poevtinia-na-borsite-tazi-sedmica-2466938",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51209/51209856/991-ratio-zelenchuci.jpg"
-    },
-    {
-      "title": "На живо: Атлетико Мадрид - Реал Мадрид 20 Сеп | 17:50",
+      "title": "На живо: Атлетико Мадрид - Реал Мадрид, малко футбол в испанската столица 20 Сеп | 18:05",
       "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296237447.og.jpg"
+      "image": "https://dsport.bg/media/383/gettyimages-2296239396.og.jpg"
+    },
+    {
+      "title": "На живо: ЦСКА изравни експресно на Локомотив Пловдив, гол на Питас 20 Сеп | 18:03",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027879.og.jpg"
+    },
+    {
+      "title": "Ман Сити надви Съндърланд в истински голов спектакъл 20 Сеп | 17:58",
+      "url": "https://dsport.bg/man-siti-nadvi-sandarland-v-istinski-golov-spektakal~240396.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296236217.og.jpg"
     },
     {
       "title": "Ираола излъга бившия си отбор, Ливърпул с втори успех 20 Сеп | 17:49",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296236824.og.jpg"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив поведе на ЦСКА 20 Сеп | 17:45",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027879.og.jpg"
     },
     {
       "title": "Любослав Пенев: Добра игра, заслужена победа 20 Сеп | 17:34",
@@ -177,7 +184,7 @@
       "image": "https://dsport.bg/media/383/814779428_1601093485042157_1574348149811466184_n.og.jpg"
     },
     {
-      "title": "Васил Петров: Липса на малшанс, яд ме е за последния мач 20 Сеп | 17:23",
+      "title": "Васил Петров: Липса на малшанс, яд ме е за последния мач (ВИДЕО) 20 Сеп | 17:23",
       "url": "https://dsport.bg/vasil-petrov-lipsa-na-malshans-ad-me-e-za-poslednia-mach~240392.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295649059.og.jpg"
-    },
-    {
-      "title": "Ступор в UFC, олимпийски шампион отнесе нокаут за 12 секунди (ВИДЕО) 20 Сеп | 15:11",
-      "url": "https://dsport.bg/stupor-v-ufc-olimpiiski-shampion-otnese-nokaut-za-12-sekundi~240387.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295611942.og.jpg"
     }
   ]
 }
