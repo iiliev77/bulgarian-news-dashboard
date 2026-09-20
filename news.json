@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-20T18:56:03.492075+00:00",
+  "updated": "2026-09-20T19:05:29.932373+00:00",
   "articles": [
+    {
+      "title": "Екзитпол: „Единна Русия“ запазва контрола си над парламента след избори при строг контрол",
+      "url": "https://dariknews.bg/novini/sviat/ekzitpol-edinna-rusiia-zapazva-kontrola-si-nad-parlamenta-sled-izbori-pri-strog-kontrol-2466969",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385557/991-ratio-rusiia-izbori.jpg"
+    },
     {
       "title": "Министър Керязов: Държавни спортни бази са ползвани с години без наем",
       "url": "https://dariknews.bg/novini/bylgariia/ministyr-keriazov-dyrzhavni-sportni-bazi-sa-polzvani-s-godini-bez-naem-2466968",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51233/51233070/991-ratio-bojko-borisov.jpg"
     },
     {
-      "title": "Терзиев: Не съм обещавал охраната на Витоша на частни лица",
-      "url": "https://dariknews.bg/novini/bylgariia/terziev-ne-sym-obeshtaval-ohranata-na-vitosha-na-chastni-lica-2466944",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385451/991-ratio-vasil-terziev.jpg"
+      "title": "Гьозтепе на Стоилов допусна обрат, но все пак изтръгна точка 20 Сеп | 22:02",
+      "url": "https://dsport.bg/goztepe-na-stoilov-dopusna-obrat-no-vse-pak-iztragna-tochka~240413.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2261318848-2-1~1.og.jpg"
     },
     {
       "title": "Късна драма на „Риасор“: Депортиво изтръгна точка от Бетис с гол в края 20 Сеп | 21:35",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027907~1.og.jpg"
-    },
-    {
-      "title": "Душан Косич: Изиграхме добър мач (ВИДЕО) 20 Сеп | 20:00",
-      "url": "https://dsport.bg/dushan-kosich-izigrahme-dobar-mach~240403.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027893~1.og.jpg"
     }
   ]
 }
