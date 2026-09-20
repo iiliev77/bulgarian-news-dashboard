@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T15:21:42.105766+00:00",
+  "updated": "2026-09-20T15:32:29.339098+00:00",
   "articles": [
     {
       "title": "Предупреждение за силен вятър в 13 области в понеделник",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384051/991-ratio-iaponiia.jpg"
     },
     {
+      "title": "На живо: Атлетико Мадрид - Реал Мадрид, червен картон за Хаусен 20 Сеп | 18:32",
+      "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296242324.og.jpg"
+    },
+    {
+      "title": "ЦСКА 1948 със седем чуждестранни национали, трима остават заедно 20 Сеп | 18:23",
+      "url": "https://dsport.bg/cska-1948-sas-sedem-chuzdestranni-nacionali-trima-ostavat-zaedno~240398.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1004942~1.og.jpg"
+    },
+    {
       "title": "На живо: ЦСКА изравни експресно на Локомотив Пловдив, гол на Питас 20 Сеп | 18:20",
       "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-cska-sastavi~240390.html",
       "source": "Dsport",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296228783.og.jpg"
-    },
-    {
-      "title": "На живо: Атлетико Мадрид - Реал Мадрид, бой в тунела 20 Сеп | 18:05",
-      "url": "https://dsport.bg/na-zivo-atletiko-i-real-v-derbito-na-madrid-sastavi~240389.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296239396.og.jpg"
     },
     {
       "title": "Ман Сити надви Съндърланд в истински голов спектакъл 20 Сеп | 17:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/jtt-03385.og.jpg"
-    },
-    {
-      "title": "Блокада за автобуса на ЦСКА пред стадиона на Локомотив Пловдив 20 Сеп | 16:39",
-      "url": "https://dsport.bg/blokada-za-avtobusa-na-cska-pred-stadiona-na-lokomotiv-plovdiv~240391.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/818743798_4555373218124863_6399630036730452517_n.og.jpg"
     }
   ]
 }
