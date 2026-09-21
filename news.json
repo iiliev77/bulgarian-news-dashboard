@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T13:58:45.663017+00:00",
+  "updated": "2026-09-21T14:12:18.254186+00:00",
   "articles": [
+    {
+      "title": "САЩ отказаха визи на част от екипа на иранския президент, който трябва да пътува от Иран за Общото събрание на ООН",
+      "url": "https://dariknews.bg/novini/sviat/sasht-otkazaha-vizi-na-chast-ot-ekipa-na-iranskiia-prezident-kojtotriabva-da-pytuva-ot-iran-za-obshtoto-sybranie-na-oon-2467048",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51303/51303135/991-ratio-sasht-iran.jpg"
+    },
     {
       "title": "Vivacom с безплатни пакети за МАКС скорост към Unlimited планове през септември и октомври",
       "url": "https://dariknews.bg/novini/liubopitno/vivacom-s-bezplatni-paketi-za-maks-skorost-kym-unlimited-planove-prez-septemvri-i-oktomvri-2467045",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385737/991-ratio-ruse.jpg"
     },
     {
-      "title": "Балетните пантофки и диамантените пръстени на Брижит Бардо отиват на търг с благотворителна кауза",
-      "url": "https://dariknews.bg/novini/liubopitno/baletnite-pantofki-i-diamantenite-prysteni-na-brizhit-bardo-otivat-na-tyrg-s-blagotvoritelna-kauza-2467024",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43014/43014700/991-ratio-brizhit-bardo.jpg"
+      "title": "Спортното шоу на Дарик - 21.09.2026 г. 21 Сеп | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-21-09-2026-g~240464.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/viber_image_2026-09-21_17-02-33-042.og.png"
     },
     {
       "title": "Най-голямата легенда на Беларус посочи играч на ЦСКА за №1 в страната (ВИДЕО) 21 Сеп | 16:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/737093-1-.og.jpg"
-    },
-    {
-      "title": "Натириха Джака от националния отбор, той призна за фалшивия сертификат 21 Сеп | 14:15",
-      "url": "https://dsport.bg/natiriha-dzaka-ot-nacionalnia-na-shveicaria-toi-prizna-vinata-si~240454.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295713019.og.jpg"
     }
   ]
 }
