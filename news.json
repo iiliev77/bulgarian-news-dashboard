@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-21T11:18:24.980247+00:00",
+  "updated": "2026-09-21T11:32:49.855696+00:00",
   "articles": [
+    {
+      "title": "Само за шест месеца: 60 жертви на трафик на хора са идентифицирани у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/samo-za-shest-meseca-60-zhertvi-na-trafik-na-hora-sa-identificirani-u-nas-2467025",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51084/51084432/991-ratio-dete-nasilie-bludstvo.jpg"
+    },
+    {
+      "title": "Шофьор катастрофира в центъра на Русе и избяга пеша",
+      "url": "https://dariknews.bg/regioni/ruse/shofior-katastrofira-v-centyra-na-ruse-i-izbiaga-pesha-2467026",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385737/991-ratio-ruse.jpg"
+    },
     {
       "title": "Балетните пантофки и диамантените пръстени на Брижит Бардо отиват на търг с благотворителна кауза",
       "url": "https://dariknews.bg/novini/liubopitno/baletnite-pantofki-i-diamantenite-prysteni-na-brizhit-bardo-otivat-na-tyrg-s-blagotvoritelna-kauza-2467024",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385677/991-ratio-giurov-kandev.jpg"
     },
     {
-      "title": "Оставени без надзор: 3-годишно дете си игра със запалка и подпали къща в Плевенско, бебе пострада",
-      "url": "https://dariknews.bg/regioni/pleven/ostaveni-bez-nadzor-3-godishno-dete-si-igra-sys-zapalka-i-podpali-kyshta-v-plevensko-bebe-postrada-2467007",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51163/51163820/991-ratio-dete-pozhar.jpg"
-    },
-    {
-      "title": "Оставиха в ареста обвиняем, ранил с нож мъж в Кресна",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/ostaviha-v-aresta-obviniaem-ranil-s-nozh-myzh-v-kresna-2467005",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50562/50562344/991-ratio-arest.jpg"
+      "title": "ЦСКА с леко превъзходство в България U19 21 Сеп | 14:23",
+      "url": "https://dsport.bg/cska-s-leko-prevazhodstvo-v-balgaria-u19~240455.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/737093-1-.og.jpg"
     },
     {
       "title": "Натириха Джака от националния отбор, той призна за фалшивия сертификат 21 Сеп | 14:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/9700168-1.og.jpg"
-    },
-    {
-      "title": "Клод Макелеле срина Реал Мадрид: Слабо е, няма план за игра, няма нищо! 21 Сеп | 11:55",
-      "url": "https://dsport.bg/klod-makelele-srina-real-madrid-slabo-e-nama-plan-za-igra-nama-nisto~240445.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1488354555.og.jpg"
     }
   ]
 }
