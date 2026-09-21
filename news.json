@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-21T09:55:58.322360+00:00",
+  "updated": "2026-09-21T10:06:42.105747+00:00",
   "articles": [
     {
-      "title": "Иранският президент ще участва в Общото събрание на ООН на фона на напрежението със САЩ",
-      "url": "https://dariknews.bg/novini/sviat/iranskiiat-prezident-shte-uchastva-v-obshtoto-sybranie-na-oon-na-fona-na-naprezhenieto-sys-sasht-2467017",
+      "title": "Хора с увреждания протестираха пред Столична община с искане за достъпна среда (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/hora-s-uvrezhdaniia-protestiraha-pred-stolichna-obshtina-s-iskane-za-dostypna-sreda-snimki-2467019",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385706/991-ratio-protest-sofiia.jpg"
+    },
+    {
+      "title": "Велосипедистка е в тежко състояние след удар в кола край Самоков",
+      "url": "https://dariknews.bg/regioni/sofiia/velosipedistka-e-v-tezhko-systoianie-sled-udar-v-kola-kraj-samokov-2467018",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51119/51119509/991-ratio-kolelo-incident.jpg"
+    },
+    {
+      "title": "Иранският президент ще участва в 81-вата сесия на Общото събрание на ООН",
+      "url": "https://dariknews.bg/novini/sviat/iranskiiat-prezident-shte-uchastva-v-81-vata-sesiia-na-obshtoto-sybranie-na-oon-2467017",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51339/51339607/991-ratio-masud-pezeshkian.jpg"
@@ -128,18 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Мъж заплаши с пистолет кола с две жени и дете в Старозагорско",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-zaplashi-s-pistolet-kola-s-dve-zheni-i-dete-v-starozagorsko-2467002",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375671/991-ratio-pistolet.jpg"
-    },
-    {
-      "title": "НОИ: 557,60 евро е средната пенсия през август",
-      "url": "https://dariknews.bg/novini/bylgariia/noi-55760-evro-e-srednata-pensiia-prez-avgust-2467000",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
+      "title": "Смут в Италия: Ювентус скочи на феновете си, които не почетоха легендарния Мацола 21 Сеп | 13:02",
+      "url": "https://dsport.bg/smut-v-italia-uventus-skochi-na-fenovete-si-koito-ne-pochetoha-legendarnia-macola~240451.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296250044.og.jpg"
     },
     {
       "title": "ЦСКА с 8 национали, отлъчен бек може да играе срещу Меси и Аржентина 21 Сеп | 12:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2245552541.og.jpg"
-    },
-    {
-      "title": "Арбелоа обвини съдиите в пристрастност след равенството с Манчестър Юнайтед 21 Сеп | 11:16",
-      "url": "https://dsport.bg/arbeloa-obvini-sadiite-v-pristrastnost-sled-ravenstvoto-s-manchestar-unaited~240441.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296248268.og.jpg"
     }
   ]
 }
