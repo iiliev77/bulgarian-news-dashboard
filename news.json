@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-21T06:25:22.708429+00:00",
+  "updated": "2026-09-21T06:44:07.417031+00:00",
   "articles": [
+    {
+      "title": "3-годишно дете пострада при катастрофа на пътя Бургас-Созопол",
+      "url": "https://dariknews.bg/regioni/burgas/3-godishno-dete-postrada-pri-katastrofa-na-pytia-burgas-sozopol-2466990",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48694/48694486/991-ratio-dete-katastrofa.jpg"
+    },
+    {
+      "title": "Украински турист се удави в морето в Слънчев бряг",
+      "url": "https://dariknews.bg/regioni/burgas/ukrainski-turist-se-udavi-v-moreto-v-slynchev-briag-2466988",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47799/47799133/991-ratio-more.jpg"
+    },
+    {
+      "title": "Околовръстният път на София и достъпът до Детската болница: Одобриха важен устройствен план",
+      "url": "https://dariknews.bg/regioni/sofiia/okolovrystniiat-pyt-na-sofiia-i-dostypyt-do-detskata-bolnica-odobriha-vazhen-ustrojstven-plan-2466989",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385627/991-ratio-vasil-terziev.jpg"
+    },
     {
       "title": "Румен Радев: Битката с олигархията е тежка, но първата стъпка е направена",
       "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-bitkata-s-oligarhiiata-e-tezhka-no-pyrvata-stypka-e-napravena-2466987",
@@ -121,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385125/991-ratio-cik.jpg"
     },
     {
-      "title": "Трезорът на Страшния съд: Цивилизациите влизат в технологичен покой",
-      "url": "https://dariknews.bg/novini/tehnologii/trezoryt-na-strashniia-syd-civilizaciite-vlizat-v-tehnologichen-pokoj-2466971",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385565/991-ratio-kosmos.jpg"
+      "title": "Григор Димитров прогресира минимално в световната ранглиста 21 Сеп | 09:27",
+      "url": "https://dsport.bg/grigor-dimitrov-progresira-minimalno-v-svetovnata-ranglista~240429.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2159203722-1-2-2-1-1-1-1-2-1-1-2-1-1-2.og.jpg"
     },
     {
-      "title": "Предупреждение за силен вятър в 13 области в понеделник",
-      "url": "https://dariknews.bg/novini/bylgariia/preduprezhdenie-za-silen-viatyr-v-13-oblasti-v-ponedelnik-2466960",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Мо Салах остана без книжка за 6 месеца 21 Сеп | 09:17",
+      "url": "https://dsport.bg/mo-salah-ostana-bez-knizka-za-6-meseca~240428.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2223471719.og.jpg"
     },
     {
-      "title": "Радев ще се срещне с Американската търговска камара в България",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-shte-se-sreshtne-s-amerikanskata-tyrgovska-kamara-v-bylgariia-2466957",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51383/51383290/991-ratio-rumen-radev.jpg"
+      "title": "Гол №101 на Меси не беше достатъчен за победа на Интер Маями (ВИДЕО) 21 Сеп | 09:07",
+      "url": "https://dsport.bg/gol-101-na-mesi-ne-beshe-dostatachen-za-pobeda-na-inter-maami-video~240427.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296311569.og.jpg"
     },
     {
       "title": "Грозен скандал в NASCAR: Карсън Хосевар свали Райън Блейни на земята с юмруци (ВИДЕО) 21 Сеп | 08:57",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296291973.og.jpg"
-    },
-    {
-      "title": "ПСЖ триумфира в Льо Класик и закотви Марсилия в дъното 20 Сеп | 23:44",
-      "url": "https://dsport.bg/psz-triumfira-v-lo-klasik-i-zakotvi-marsilia-v-danoto~240419.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295782940.og.jpg"
-    },
-    {
-      "title": "Милан отпразнува 100 години „Сан Сиро“ с лесен успех над Лече 20 Сеп | 23:38",
-      "url": "https://dsport.bg/milan-otpraznuva-100-godini-san-siro-s-lesen-uspeh-nad-leche~240418.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296277323.og.jpg"
-    },
-    {
-      "title": "Падерборн подчини Хофенхайм за първи успех 20 Сеп | 23:17",
-      "url": "https://dsport.bg/paderborn-podchini-hofenhaim-za-parvi-uspeh~240417.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296276488.og.jpg"
     }
   ]
 }
