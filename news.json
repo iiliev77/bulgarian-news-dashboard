@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:46:34.021428+00:00",
+  "updated": "2026-09-21T19:54:08.161189+00:00",
   "articles": [
     {
       "title": "Калифорния обяви извънредно положение заради „Ел Ниньо“",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385773/991-ratio-r.jpg"
     },
     {
+      "title": "Ман Юнайтед поглежда към Дортмунд за засилване на атаката 21 Сеп | 22:49",
+      "url": "https://dsport.bg/man-unaited-poglezda-kam-dortmund-za-zasilvane-na-atakata~240484.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296190305.og.jpg"
+    },
+    {
       "title": "Рами Киуан закри деня с категорична победа 21 Сеп | 22:36",
       "url": "https://dsport.bg/rami-kiuan-zakri-dena-s-kategorichna-pobeda~240483.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/komentarno-alpha-21-.og.png"
-    },
-    {
-      "title": "След ренесанса в Дербито на докерите – Уест Хем с исторически старт 21 Сеп | 20:22",
-      "url": "https://dsport.bg/sled-renesansa-v-derbito-na-dokerite-uest-hem-s-istoricheski-start~240475.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296253992.og.jpg"
     }
   ]
 }
