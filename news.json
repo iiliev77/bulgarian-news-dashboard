@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-21T03:23:19.114158+00:00",
+  "updated": "2026-09-21T03:36:30.614474+00:00",
   "articles": [
     {
-      "title": "Предупреждение за силен вятър в 13 области в понеделник",
-      "url": "https://dariknews.bg/novini/bylgariia/preduprezhdenie-za-silen-viatyr-v-13-oblasti-v-ponedelnik-2466960",
+      "title": "Критичен недостиг на сестри, повече от 76% от тях са над 45-годишни",
+      "url": "https://dariknews.bg/novini/bylgariia/kritichen-nedostig-na-sestri-poveche-ot-76-ot-tiah-sa-nad-45-godishni-2466967",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385577/991-ratio-esen-viatyr.jpg"
+      "image": "https://m.netinfo.bg/media/images/48153/48153610/991-ratio-doktori-medici-lekari.jpg"
+    },
+    {
+      "title": "Инициативните комитети на Йотова и Гюров внасят подписките си в ЦИК в един и същи час",
+      "url": "https://dariknews.bg/novini/bylgariia/iniciativnite-komiteti-na-iotova-i-giurov-vnasiat-podpiskite-si-v-cik-v-edin-i-syshti-chas-2466951",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385125/991-ratio-cik.jpg"
     },
     {
       "title": "Трезорът на Страшния съд: Цивилизациите влизат в технологичен покой",
@@ -14,6 +21,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51385/51385565/991-ratio-kosmos.jpg"
+    },
+    {
+      "title": "Предупреждение за силен вятър в 13 области в понеделник",
+      "url": "https://dariknews.bg/novini/bylgariia/preduprezhdenie-za-silen-viatyr-v-13-oblasti-v-ponedelnik-2466960",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385577/991-ratio-esen-viatyr.jpg"
     },
     {
       "title": "Радев ще се срещне с Американската търговска камара в България",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51385/51385130/991-ratio-oktoberfest.jpg"
-    },
-    {
-      "title": "Овладяха пожара на депото край Плевен, няма задимяване",
-      "url": "https://dariknews.bg/regioni/pleven/ovladiaha-pozhara-na-depoto-kraj-pleven-niama-zadimiavane-2466952",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385126/991-ratio-pozhar-depo.jpg"
-    },
-    {
-      "title": "Задържаха възрастен мъж, удрял жена си по главата в монтанско село",
-      "url": "https://dariknews.bg/regioni/montana/zadyrzhaha-vyzrasten-myzh-udrial-zhena-si-po-glavata-v-montansko-selo-2466950",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51243/51243550/991-ratio-arest.jpg"
     },
     {
       "title": "Реал Сосиедад повежда три пъти на „Местая“ за три точки срещу затъналия Валенсия 20 Сеп | 23:59",
