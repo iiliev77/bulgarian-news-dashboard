@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-21T12:24:25.926441+00:00",
+  "updated": "2026-09-21T12:38:16.505717+00:00",
   "articles": [
+    {
+      "title": "Найденов: Една държава не може да просперира без независима правосъдна система",
+      "url": "https://dariknews.bg/novini/bylgariia/najdenov-edna-dyrzhava-ne-mozhe-da-prosperira-bez-nezavisima-pravosydna-sistema-2467034",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385760/991-ratio-nikolaj-najdenov.jpg"
+    },
+    {
+      "title": "Експерти: Кремъл готви провокации срещу НАТО",
+      "url": "https://dariknews.bg/novini/sviat/eksperti-kremyl-gotvi-provokacii-sreshtu-nato-2467035",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51164/51164523/991-ratio-nato.jpg"
+    },
     {
       "title": "Нарушения в склад за търговия с безалкохолни и пакетирани храни в Кюстендил",
       "url": "https://dariknews.bg/regioni/kiustendil/narusheniia-v-sklad-za-tyrgoviia-s-bezalkoholni-i-paketirani-hrani-v-kiustendil-2467033",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385691/991-ratio-sofiia.jpg"
     },
     {
-      "title": "БАБХ иззе над 2 тона кисело мляко от Северна Македония на ГКПП „Гюешево“",
-      "url": "https://dariknews.bg/regioni/kiustendil/babh-izze-nad-2-tona-kiselo-mliako-ot-severna-makedoniia-na-gkpp-giueshevo-2467013",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50119/50119917/991-ratio-kiselo-mliako.jpg"
-    },
-    {
-      "title": "Спипаха голямо количество контрабандни цигари при спецакция в Пернишко (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/pernik/spipaha-goliamo-kolichestvo-kontrabandni-cigari-pri-specakciia-v-pernishko-snimki-2467012",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385673/991-ratio-cigari-pernik.jpg"
+      "title": "Обрат: Малдини чист за наркотици 21 Сеп | 15:35",
+      "url": "https://dsport.bg/obrat-daniel-maldini-otricatelen-za-narkotici~240458.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2294932556.og.jpg"
     },
     {
       "title": "Малко чудо: БФС се задейства и предупреди Локомотив Пловдив за стадиона, заплаши с домакинство в Пазарджик 21 Сеп | 15:09",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/fotojet-80-.og.jpg"
-    },
-    {
-      "title": "Ламин Ямал се зарадва на загубата на Реал Мадрид 21 Сеп | 12:14",
-      "url": "https://dsport.bg/lamin-amal-se-zaradva-na-zagubata-na-real-madrid~240449.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2292957629-1.og.jpg"
     }
   ]
 }
