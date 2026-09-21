@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-21T07:28:50.762452+00:00",
+  "updated": "2026-09-21T07:43:05.488111+00:00",
   "articles": [
+    {
+      "title": "Стивън Кинг на 79: Писателят, който превърна страха в изкуство",
+      "url": "https://dariknews.bg/novini/liubopitno/stivyn-king-na-79-pisateliat-kojto-prevyrna-straha-v-izkustvo-1583753",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Мерки за сигурност от НСО във Велико Търново заради отбелязването на Независимостта на България",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/merki-za-sigurnost-ot-nso-vyv-veliko-tyrnovo-zaradi-otbeliazvaneto-na-nezavisimostta-na-bylgariia-2467003",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51182/51182130/991-ratio-veliko-tyrnovo.jpg"
+    },
+    {
+      "title": "Все повече пациенти в болниците: Какво стои зад ръста на хоспитализациите",
+      "url": "https://dariknews.bg/novini/bylgariia/vse-poveche-pacienti-v-bolnicite-kakvo-stoi-zad-rysta-na-hospitalizaciite-2467001",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Мъж заплаши с пистолет кола с две жени и дете в Старозагорско",
+      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-zaplashi-s-pistolet-kola-s-dve-zheni-i-dete-v-starozagorsko-2467002",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375671/991-ratio-pistolet.jpg"
+    },
     {
       "title": "НОИ: 557,60 евро е средната пенсия през август",
       "url": "https://dariknews.bg/novini/bylgariia/noi-55760-evro-e-srednata-pensiia-prez-avgust-2467000",
@@ -23,18 +51,18 @@
       "image": "https://m.netinfo.bg/media/images/38868/38868905/991-ratio-indiia-navodneniia.jpg"
     },
     {
-      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
-    },
-    {
       "title": "Британците масово искат връщане в Европейския съюз",
       "url": "https://dariknews.bg/novini/sviat/britancite-masovo-iskat-vryshtane-v-evropejskiia-syiuz-2466996",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/46627/46627226/991-ratio-es-velikobritaniia.jpg"
+    },
+    {
+      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
     },
     {
       "title": "Удариха с юмрук полицай при сбиване пред заведение в Паликени",
@@ -93,8 +121,8 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385627/991-ratio-vasil-terziev.jpg"
     },
     {
-      "title": "Румен Радев: Битката с олигархията е тежка, но първата стъпка е направена",
-      "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-bitkata-s-oligarhiiata-e-tezhka-no-pyrvata-stypka-e-napravena-2466987",
+      "title": "Румен Радев: Първата стъпка е направена, отстранихме олигархията от изпълнителната власт",
+      "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-pyrvata-stypka-e-napravena-otstranihme-oligarhiiata-ot-izpylnitelnata-vlast-2466987",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
@@ -114,32 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Пореден инцидент в Сирия: Поредица от експлозии отекна близо до Алепо (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/poreden-incident-v-siriia-poredica-ot-eksplozii-otekna-blizo-do-alepo-video-2466984",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/30712/30712504/640-420-sirijskite-vlasti-poeha-pylen-kontrol-nad-alepo.jpg"
-    },
-    {
-      "title": "Йотова оглавява българската делегация на Общото събрание на ООН",
-      "url": "https://dariknews.bg/novini/sviat/iotova-oglaviava-bylgarskata-delegaciia-na-obshtoto-sybranie-na-oon-2466983",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50937/50937929/991-ratio-oon.jpg"
-    },
-    {
-      "title": "Краят на една традиция: Британската гвардия може да се раздели с шапките от меча кожа",
-      "url": "https://dariknews.bg/novini/sviat/kraiat-na-edna-tradiciia-britanskata-gvardiia-mozhe-da-se-razdeli-s-shapkite-ot-mecha-kozha-2466982",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385604/991-ratio-velikobritaniia-gvardejci.jpg"
-    },
-    {
-      "title": "Дунав при Русе се повиши със 7 см за денонощие",
-      "url": "https://dariknews.bg/regioni/ruse/dunav-pri-ruse-se-povishi-sys-7-sm-za-denonoshtie-2466981",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51373/51373636/991-ratio-dunav.jpg"
+      "title": "БФС обяви програмата за четири кръга от MrBit Втора лига 21 Сеп | 10:30",
+      "url": "https://dsport.bg/bfs-obavi-programata-za-chetiri-kraga-ot-mrbit-vtora-liga~240436.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/3v.og.jpg"
     },
     {
       "title": "Скандал: БФБорба изпраща в прокуратурата доклад за нарушаване на санкциите срещу Русия 21 Сеп | 10:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296301715.og.jpg"
-    },
-    {
-      "title": "Джейми Карагър с унищожителна критика към звезда на Ливърпул 21 Сеп | 08:36",
-      "url": "https://dsport.bg/dzeimi-karagar-s-unistozitelna-kritika-kam-zvezda-na-livarpul~240424.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2213090721.og.jpg"
     }
   ]
 }
