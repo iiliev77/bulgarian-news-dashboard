@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-21T05:02:14.533019+00:00",
+  "updated": "2026-09-21T05:17:27.710967+00:00",
   "articles": [
     {
-      "title": "Ново напрежение между Иран и Тръмп преди Общото събрание на ООН",
-      "url": "https://dariknews.bg/novini/sviat/novo-naprezhenie-mezhdu-iran-i-trymp-predi-obshtoto-sybranie-na-oon-2466977",
+      "title": "Интензивен трафик на „Капитан Андреево“ и „Лесово“ за товарни автомобили",
+      "url": "https://dariknews.bg/novini/intenziven-trafik-na-kapitan-andreevo-i-lesovo-za-tovarni-avtomobili-2466979",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51254/51254727/991-ratio-kapitan-andreevo.jpg"
+    },
+    {
+      "title": "Италия забранява носенето на бурки в училищата",
+      "url": "https://dariknews.bg/novini/sviat/italiia-zabraniava-noseneto-na-burki-v-uchilishtata-2466980",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32421/32421583/991-ratio-burka-burki.jpg"
+    },
+    {
+      "title": "Европейците решават: Как ще изглеждат новите евробанкноти",
+      "url": "https://dariknews.bg/novini/sviat/evropejcite-reshavat-kak-shte-izglezhdat-novite-evrobanknoti-2466978",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51292/51292986/991-ratio-evro.jpg"
+    },
+    {
+      "title": "Ново напрежение между Иран и САЩ преди Общото събрание на ООН",
+      "url": "https://dariknews.bg/novini/sviat/novo-naprezhenie-mezhdu-iran-i-sasht-predi-obshtoto-sybranie-na-oon-2466977",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51128/51128063/991-ratio-sasht-iran.jpg"
@@ -62,7 +83,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/preduprezhdenie-za-silen-viatyr-v-13-oblasti-v-ponedelnik-2466960",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385577/991-ratio-esen-viatyr.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Радев ще се срещне с Американската търговска камара в България",
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51370/51370384/991-ratio-pozharna-stara-zagora.jpg"
-    },
-    {
-      "title": "Първи екзитпол: Крайнодесните водят в Мекленбург-Предна Померания, „Левицата“ – в Берлин",
-      "url": "https://dariknews.bg/novini/sviat/pyrvi-ekzitpol-krajnodesnite-vodiat-v-meklenburg-predna-pomeraniia-levicata-v-berlin-2466963",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385522/991-ratio-germaniia.jpg"
-    },
-    {
-      "title": "Тежка катастрофа край Николово с двама загинали и петима ранени",
-      "url": "https://dariknews.bg/regioni/haskovo/tezhka-katastrofa-kraj-nikolovo-s-dvama-zaginali-i-petima-raneni-2466962",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385525/991-ratio-katastrofa-nikolaevo.jpg"
-    },
-    {
-      "title": "Мечки се оказаха в опасна близост до къмпингари край Локорско",
-      "url": "https://dariknews.bg/regioni/sofiia/mechki-se-okazaha-v-opasna-blizost-do-kympingari-kraj-lokorsko-2466961",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385444/991-ratio-mechka.jpg"
     },
     {
       "title": "Реал Сосиедад повежда три пъти на „Местая“ за три точки срещу затъналия Валенсия 20 Сеп | 23:59",
