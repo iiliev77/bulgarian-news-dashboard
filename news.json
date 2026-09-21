@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T08:46:34.427808+00:00",
+  "updated": "2026-09-21T08:56:18.744418+00:00",
   "articles": [
+    {
+      "title": "„Дъщеря ви се нуждае от операция“: 75-годишна жена даде 3500 евро на измамници",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/dyshteria-vi-se-nuzhdae-ot-operaciia-75-godishna-zhena-dade-3500-evro-na-izmamnici-2467008",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45233/45233451/991-ratio-izmamnik-alo-izmama-telefon.jpg"
+    },
     {
       "title": "Гюров и Кандев се регистрираха за изборите: Влизаме в тази кампания с единствена цел – победа",
       "url": "https://dariknews.bg/novini/bylgariia/giurov-i-kandev-se-registriraha-za-izborite-vlizame-v-tazi-kampaniia-s-edinstvena-cel-pobeda-2467006",
@@ -79,18 +86,18 @@
       "image": "https://m.netinfo.bg/media/images/38868/38868905/991-ratio-indiia-navodneniia.jpg"
     },
     {
-      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
-    },
-    {
       "title": "Британците масово искат връщане в Европейския съюз",
       "url": "https://dariknews.bg/novini/sviat/britancite-masovo-iskat-vryshtane-v-evropejskiia-syiuz-2466996",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/46627/46627226/991-ratio-es-velikobritaniia.jpg"
+    },
+    {
+      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
     },
     {
       "title": "Удариха с юмрук полицай при сбиване пред заведение в Паликени",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/48694/48694486/991-ratio-dete-katastrofa.jpg"
     },
     {
-      "title": "Украински турист се удави в морето в Слънчев бряг",
-      "url": "https://dariknews.bg/regioni/burgas/ukrainski-turist-se-udavi-v-moreto-v-slynchev-briag-2466988",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47799/47799133/991-ratio-more.jpg"
+      "title": "Лионел Меси с жест за милиони - дари огромна сума за детски онкологичен център в Барселона 21 Сеп | 11:36",
+      "url": "https://dsport.bg/lionel-mesi-s-zest-za-milioni-dari-ogromna-suma-za-detski-onkologichen-centar-v-barselona~240443.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2281974664~1.og.jpg"
     },
     {
       "title": "Зидан затяга дисциплината - край на модните дефилета в националния отбор на Франция 21 Сеп | 11:24",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296119419~1.og.jpg"
-    },
-    {
-      "title": "Чоло Симеоне разкъса Моуриньо след дербито 21 Сеп | 09:47",
-      "url": "https://dsport.bg/cholo-simeone-razkasa-mourino-sled-derbito~240432.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296250101.og.jpg"
     }
   ]
 }
