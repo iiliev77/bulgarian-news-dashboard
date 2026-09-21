@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-21T17:28:48.731344+00:00",
+  "updated": "2026-09-21T17:39:45.568959+00:00",
   "articles": [
+    {
+      "title": "Дебют с два медала: България с бронз от Европейското първенство за ватмани",
+      "url": "https://dariknews.bg/regioni/sofiia/debiut-s-dva-medala-bylgariia-s-bronz-ot-evropejskoto-pyrvenstvo-za-vatmani-2467056",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385927/991-ratio-raia-zlatareva-i-mihail-antoniev-predstaviha-sofiia.jpg"
+    },
     {
       "title": "Президентските избори: 24 двойки са заявили участие във вота",
       "url": "https://dariknews.bg/novini/bylgariia/prezidentskite-izbori-24-dvojki-sa-zaiavili-uchastie-vyv-vota-2467054",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51259/51259253/991-ratio-prezidentstvo.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "НВО през 2027 г.: Промени, примерни задачи и нов формат за десетокласниците",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/39312/39312439/991-ratio-napitka-gazirana-energijna-led.jpg"
     },
     {
-      "title": "Акции срещу насилието над жени в Хърватия",
-      "url": "https://dariknews.bg/novini/sviat/akcii-sreshtu-nasilieto-nad-zheni-v-hyrvatiia-2467032",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32762/32762395/991-ratio-nasilie-zheni.jpg"
+      "title": "ЦСКА - риск печели, риск губи 21 Сеп | 20:30",
+      "url": "https://dsport.bg/cska-risk-pecheli-risk-gubi~240474.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/komentarno-alpha-21-.og.png"
     },
     {
       "title": "След ренесанса в Дербито на докерите – Уест Хем с исторически старт 21 Сеп | 20:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/791493335_18624165601017861_1927155487781800737_n.og.jpg"
-    },
-    {
-      "title": "17-годишен мароканец пътува 100 км от Сеута инкогнито с автобуса на испански клуб 21 Сеп | 17:12",
-      "url": "https://dsport.bg/17-godishen-marokanec-patuva-100-km-ot-seuta-inkognito-s-avtobusa-na-ispanski-klub~240465.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1495910087.og.jpg"
     }
   ]
 }
