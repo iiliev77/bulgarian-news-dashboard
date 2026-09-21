@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T18:24:35.838490+00:00",
+  "updated": "2026-09-21T18:39:22.605677+00:00",
   "articles": [
+    {
+      "title": "Бенчев: Няма намаление на потреблението на горива заради поскъпването (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/benchev-niama-namalenie-na-potreblenieto-na-goriva-zaradi-poskypvaneto-video-2467058",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "След трудна година: Биткойнът се върна над 85 000 долара",
       "url": "https://dariknews.bg/novini/biznes/sled-trudna-godina-bitkojnyt-se-vyrna-nad-85-000-dolara-2467057",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385760/991-ratio-nikolaj-najdenov.jpg"
     },
     {
-      "title": "Експерти: Кремъл готви провокации срещу НАТО",
-      "url": "https://dariknews.bg/novini/sviat/eksperti-kremyl-gotvi-provokacii-sreshtu-nato-2467035",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51164/51164523/991-ratio-nato.jpg"
+      "title": "Четири години по-късно: Георги Йомов се завърна триумфално с екипа на ЦСКА 21 Сеп | 21:35",
+      "url": "https://dsport.bg/chetiri-godini-po-kasno-georgi-iomov-se-zavarna-triumfalno-s-ekipa-na-cska~240479.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/21.09-2.og.jpg"
     },
     {
       "title": "Обявиха часа на първото Ел Класико за сезона 21 Сеп | 21:21",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295883918.og.jpg"
-    },
-    {
-      "title": "„Червените“ от 1 до 10: ЦСКА затъна в нивата на посредствеността 21 Сеп | 18:40",
-      "url": "https://dsport.bg/chervenite-ot-1-do-10-cska-zatana-v-nivata-na-posredstvenostta~240469.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/viber_image_2026-09-21_18-14-09-878.og.jpg"
     }
   ]
 }
