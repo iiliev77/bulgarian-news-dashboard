@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-21T11:45:26.073799+00:00",
+  "updated": "2026-09-21T11:54:51.773948+00:00",
   "articles": [
+    {
+      "title": "Защо дървениците се връщат след пръскане и как да изберем правилната фирма за борба с дървеници",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/zashto-dyrvenicite-se-vryshtat-sled-pryskane-i-kak-da-izberem-pravilnata-firma-za-borba-s-dyrvenici-2466570",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51382/51382954/991-ratio-vrediteli.jpg"
+    },
+    {
+      "title": "Задържаха майка пред детска градина в София за притежание на наркотици",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-majka-pred-detska-gradina-v-sofiia-za-pritezhanie-na-narkotici-2467031",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46042/46042925/991-ratio-arest-beleznici-zhena.jpg"
+    },
+    {
+      "title": "Гръцките власти предупреждават: Силни бури и градушки връхлитат Халкидики",
+      "url": "https://dariknews.bg/novini/sviat/gryckite-vlasti-preduprezhdavat-silni-buri-i-gradushki-vryhlitat-halkidiki-2467029",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51240/51240435/991-ratio-dyzhd-i-sniag.jpg"
+    },
     {
       "title": "Още един танкер е атакуван в Ормузкия проток",
       "url": "https://dariknews.bg/novini/sviat/oshte-edin-tanker-e-atakuvan-v-ormuzkiia-protok-2467027",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51289/51289065/991-ratio-brynch-za-nachinaeshti.jpg"
     },
     {
-      "title": "„Единна Русия“ на Путин води на изборите, проведени на фона на войната в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/edinna-rusiia-na-putin-vodi-na-izborite-provedeni-na-fona-na-vojnata-v-ukrajna-2467011",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50587/50587243/991-ratio-izbori-rusiia.jpg"
-    },
-    {
-      "title": "Унищожиха над тон и половина канабисови растения в Петричко",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/unishtozhiha-nad-ton-i-polovina-kanabisovi-rasteniia-v-petrichko-2467009",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51383/51383178/991-ratio-marihuana-kanabis.jpg"
-    },
-    {
-      "title": "„Дъщеря ви се нуждае от операция“: 75-годишна жена даде 3500 евро на измамници",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/dyshteria-vi-se-nuzhdae-ot-operaciia-75-godishna-zhena-dade-3500-evro-na-izmamnici-2467008",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45233/45233451/991-ratio-izmamnik-alo-izmama-telefon.jpg"
+      "title": "Историческо! Лудогорец влезе в EA SPORTS FC 27 21 Сеп | 14:47",
+      "url": "https://dsport.bg/istorichesko-ludogorec-vleze-v-ea-sports-fc-27~240457.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/796440021_3597226613758962_4313015330832897471_n.og.jpg"
     },
     {
       "title": "ЦСКА с леко превъзходство в България U19 21 Сеп | 14:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296030858.og.jpg"
-    },
-    {
-      "title": "Рекордните над 11000 бегачи от 66 държави ще вземат участие в маратона на София през тази година 21 Сеп | 12:02",
-      "url": "https://dsport.bg/rekordnite-nad-11000-begachi-ot-66-darzavi-ste-vzemat-uchastie-v-maratona-na-sofia-prez-tazi-godina~240446.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/9700168-1.og.jpg"
     }
   ]
 }
