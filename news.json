@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T05:53:32.656510+00:00",
+  "updated": "2026-09-21T06:01:45.527865+00:00",
   "articles": [
+    {
+      "title": "Пореден инцидент в Сирия: Поредица от експлозии отекна близо до сирийския град Алепо",
+      "url": "https://dariknews.bg/novini/sviat/poreden-incident-v-siriia-poredica-ot-eksplozii-otekna-blizo-do-sirijskiia-grad-alepo-2466984",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/30712/30712504/640-420-sirijskite-vlasti-poeha-pylen-kontrol-nad-alepo.jpg"
+    },
     {
       "title": "Йотова оглавява българската делегация на Общото събрание на ООН",
       "url": "https://dariknews.bg/novini/sviat/iotova-oglaviava-bylgarskata-delegaciia-na-obshtoto-sybranie-na-oon-2466983",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50887/50887994/991-ratio-fitnes.jpg"
     },
     {
-      "title": "Екзитпол: „Единна Русия“ запазва контрола си над парламента след избори при строг контрол",
-      "url": "https://dariknews.bg/novini/sviat/ekzitpol-edinna-rusiia-zapazva-kontrola-si-nad-parlamenta-sled-izbori-pri-strog-kontrol-2466969",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385557/991-ratio-rusiia-izbori.jpg"
+      "title": "Джейми Карагър с унищожителна критика към звезда на Ливърпул 21 Сеп | 08:36",
+      "url": "https://dsport.bg/dzeimi-karagar-s-unistozitelna-kritika-kam-zvezda-na-livarpul~240424.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2213090721.og.jpg"
     },
     {
       "title": "Италия се класира за четвъртфиналите на Евроволей 2026 21 Сеп | 08:25",
@@ -149,8 +156,8 @@
       "image": "https://dsport.bg/media/383/221129__i8a7606.og.jpg"
     },
     {
-      "title": "Съдийската комисия в Испания призна за сериозни грешки на мадриското дерби 21 Сеп | 08:14",
-      "url": "https://dsport.bg/sadiiskata-komisia-v-ispania-prizna-za-seriozni-greshki-na-madriskoto-derbi~240422.html",
+      "title": "Съдийската комисия в Испания призна за сериозни грешки на мадридското дерби 21 Сеп | 08:14",
+      "url": "https://dsport.bg/sadiiskata-komisia-v-ispania-prizna-za-seriozni-greshki-na-madridskoto-derbi~240422.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296243119.og.jpg"
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296239036.og.jpg"
-    },
-    {
-      "title": "Официална позиция: Шпилевски откровено за преговорите с ЦСКА 20 Сеп | 22:20",
-      "url": "https://dsport.bg/oficialna-pozicia-shpilevski-otkroveno-za-pregovorite-s-cska~240414.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1813809008.og.jpg"
     }
   ]
 }
