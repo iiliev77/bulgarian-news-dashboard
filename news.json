@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-21T06:58:40.554100+00:00",
+  "updated": "2026-09-21T07:13:16.260681+00:00",
   "articles": [
+    {
+      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
+    },
+    {
+      "title": "Британците масово искат връщане в Европейския съюз",
+      "url": "https://dariknews.bg/novini/sviat/britancite-masovo-iskat-vryshtane-v-evropejskiia-syiuz-2466996",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46627/46627226/991-ratio-es-velikobritaniia.jpg"
+    },
+    {
+      "title": "Удариха с юмрук полицай при сбиване пред заведение в Паликени",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/udariha-s-iumruk-policaj-pri-sbivane-pred-zavedenie-v-palikeni-2466995",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51149/51149284/991-ratio-policaj.jpg"
+    },
     {
       "title": "Моторист загина след удар в дърво край Завет",
       "url": "https://dariknews.bg/regioni/razgrad/motorist-zagina-sled-udar-v-dyrvo-kraj-zavet-2466993",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51292/51292986/991-ratio-evro.jpg"
     },
     {
-      "title": "Ново напрежение между Иран и САЩ преди Общото събрание на ООН",
-      "url": "https://dariknews.bg/novini/sviat/novo-naprezhenie-mezhdu-iran-i-sasht-predi-obshtoto-sybranie-na-oon-2466977",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51128/51128063/991-ratio-sasht-iran.jpg"
-    },
-    {
-      "title": "Световният ден, посветен на болестта на Алцхаймер: да видим човека, а не само диагнозата",
-      "url": "https://dariknews.bg/novini/obshtestvo/svetovniiat-den-posveten-na-bolestta-na-alchajmer-da-vidim-choveka-a-ne-samo-diagnozata-2466966",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385535/991-ratio-alchajmer.jpg"
-    },
-    {
-      "title": "Доналд Тръмп ще се срещне с Еманюел Макрон в Ню Йорк",
-      "url": "https://dariknews.bg/novini/sviat/donald-trymp-shte-se-sreshtne-s-emaniuel-makron-v-niu-iork-2466976",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51289/51289302/991-ratio-makron-i-trymp.jpg"
+      "title": "Чоло Симеоне разкъса Моуриньо след дербито 21 Сеп | 09:47",
+      "url": "https://dsport.bg/cholo-simeone-razkasa-mourino-sled-derbito~240432.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296250101.og.jpg"
     },
     {
       "title": "Босът на Реал Мадрид вдигнал луд скандал на дербито срещу Атлетико 21 Сеп | 09:39",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296243119.og.jpg"
-    },
-    {
-      "title": "Зинедин Зидан под специална закрила – има личен бодигард 21 Сеп | 08:04",
-      "url": "https://dsport.bg/zinedin-zidan-pod-specialna-zakrila-ima-lichen-bodigard~240421.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2162951901.og.jpg"
     }
   ]
 }
