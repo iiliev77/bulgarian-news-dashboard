@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:43:05.488111+00:00",
+  "updated": "2026-09-21T07:54:03.626821+00:00",
   "articles": [
     {
       "title": "Стивън Кинг на 79: Писателят, който превърна страха в изкуство",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Питул нападна и ухапа 12-годишно дете на улица в Казанлък",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/pitul-napadna-i-uhapa-12-godishno-dete-na-ulica-v-kazanlyk-2466998",
+      "url": "https://dariknews.bg/regioni/stara-zagora/pitul-napadna-i-uhapa-12-godishno-dete-na-ulica-v-kazanlyk-2466998",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/46072/46072502/991-ratio-pitbul.jpg"
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Разкриха заплатите във Висшата лига: £1.63 милиарда годишно 21 Сеп | 10:40",
+      "url": "https://dsport.bg/razkriha-zaplatite-vav-visshata-liga-1-63-miliarda-godishno~240437.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2267883488.og.jpg"
+    },
+    {
       "title": "БФС обяви програмата за четири кръга от MrBit Втора лига 21 Сеп | 10:30",
       "url": "https://dsport.bg/bfs-obavi-programata-za-chetiri-kraga-ot-mrbit-vtora-liga~240436.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296163618.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид изригна: Валверде с тежка травма след брутално влизане, съдията остана безмълвен 21 Сеп | 08:46",
-      "url": "https://dsport.bg/real-madrid-izrigna-valverde-s-tezka-travma-sled-brutalno-vlizane-sadiata-ostana-bezmalven~240425.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296301715.og.jpg"
     }
   ]
 }
