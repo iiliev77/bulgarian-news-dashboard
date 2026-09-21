@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T19:27:19.213322+00:00",
+  "updated": "2026-09-21T19:38:51.935050+00:00",
   "articles": [
+    {
+      "title": "Калифорния обяви извънредно положение заради „Ел Ниньо“",
+      "url": "https://dariknews.bg/novini/sviat/kaliforniia-obiavi-izvynredno-polozhenie-zaradi-el-ninio-2467060",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50721/50721655/991-ratio-kaliforniia.jpg"
+    },
     {
       "title": "На път към Ню Йорк: Йотова е блокирана на летището в Бостън",
       "url": "https://dariknews.bg/novini/sviat/na-pyt-kym-niu-iork-iotova-e-blokirana-na-letishteto-v-bostyn-2467059",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385773/991-ratio-r.jpg"
     },
     {
-      "title": "Повдигнаха обвинение на 72-годишния мъж, задържан за убийството на възрастна жена в Бачево",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/povdignaha-obvinenie-na-72-godishniia-myzh-zadyrzhan-za-ubijstvoto-na-vyzrastna-zhena-v-bachevo-2467038",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51082/51082382/991-ratio-policiia-lenta.jpg"
+      "title": "Рами Киуан закри деня с категорична победа 21 Сеп | 22:36",
+      "url": "https://dsport.bg/rami-kiuan-zakri-dena-s-kategorichna-pobeda~240483.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028718.og.jpg"
     },
     {
       "title": "Хебър унищожи Монтана на „Огоста“ 21 Сеп | 22:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296253992.og.jpg"
-    },
-    {
-      "title": "Станимира Петрова е четвъртфиналистка на Европейското в София 21 Сеп | 19:55",
-      "url": "https://dsport.bg/stanimira-petrova-e-chetvartfinalistka-na-evropeiskoto-v-sofia~240473.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1028639.og.jpg"
     }
   ]
 }
