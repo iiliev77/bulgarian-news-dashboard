@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T08:20:33.579529+00:00",
+  "updated": "2026-09-21T08:34:17.777992+00:00",
   "articles": [
     {
       "title": "Гюров и Кандев се регистрираха за изборите: Влизаме в тази кампания с единствена цел – победа",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/47799/47799133/991-ratio-more.jpg"
     },
     {
+      "title": "Арбелоа обвини съдиите в пристрастност след равенството с Манчестър Юнайтед 21 Сеп | 11:16",
+      "url": "https://dsport.bg/arbeloa-obvini-sadiite-v-pristrastnost-sled-ravenstvoto-s-manchestar-unaited~240441.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296248268.og.jpg"
+    },
+    {
+      "title": "В борбата избраха обединител 21 Сеп | 11:06",
+      "url": "https://dsport.bg/v-borbata-izbraha-obedinitel~240440.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/angelov12.og.jpg"
+    },
+    {
       "title": "Димитър Кисимов се класира за финалите на Мастърс турнира на най-добрите осем юноши 21 Сеп | 10:57",
       "url": "https://dsport.bg/dimitar-kisimov-se-klasira-za-finalite-na-mastars-turnira-na-nai-dobrite-osem-unoshi~240439.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2276275895-1.og.jpg"
-    },
-    {
-      "title": "Григор Димитров прогресира минимално в световната ранглиста 21 Сеп | 09:27",
-      "url": "https://dsport.bg/grigor-dimitrov-progresira-minimalno-v-svetovnata-ranglista~240429.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2159203722-1-2-2-1-1-1-1-2-1-1-2-1-1-2.og.jpg"
-    },
-    {
-      "title": "Мо Салах остана без книжка за 6 месеца 21 Сеп | 09:17",
-      "url": "https://dsport.bg/mo-salah-ostana-bez-knizka-za-6-meseca~240428.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2223471719.og.jpg"
     }
   ]
 }
