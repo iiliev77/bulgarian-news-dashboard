@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-21T19:14:30.363576+00:00",
+  "updated": "2026-09-21T19:27:19.213322+00:00",
   "articles": [
     {
-      "title": "Президентът Илияна Йотова е блокирана на летището в Бостън",
-      "url": "https://dariknews.bg/novini/sviat/prezidentyt-iliiana-iotova-e-blokirana-na-letishteto-v-bostyn-2467059",
+      "title": "На път към Ню Йорк: Йотова е блокирана на летището в Бостън",
+      "url": "https://dariknews.bg/novini/sviat/na-pyt-kym-niu-iork-iotova-e-blokirana-na-letishteto-v-bostyn-2467059",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51082/51082382/991-ratio-policiia-lenta.jpg"
     },
     {
+      "title": "Хебър унищожи Монтана на „Огоста“ 21 Сеп | 22:22",
+      "url": "https://dsport.bg/hebar-unistozi-montana-na-ogosta~240482.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028688.og.jpg"
+    },
+    {
       "title": "Мбапе: Дембеле ми е приятел, няма напрежение между нас 21 Сеп | 22:10",
       "url": "https://dsport.bg/mbape-dembele-mi-e-priatel-nama-naprezenie-mezdu-nas~240481.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028639.og.jpg"
-    },
-    {
-      "title": "Националите започнаха подготовката си за Лигата на нациите 21 Сеп | 19:41",
-      "url": "https://dsport.bg/nacionalite-zapochnaha-podgotovkata-si-za-ligata-na-naciite~240472.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/816996407_18628891537052278_6418636113656660292_n.og.jpg"
     }
   ]
 }
