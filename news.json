@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T19:00:34.197189+00:00",
+  "updated": "2026-09-21T19:14:30.363576+00:00",
   "articles": [
+    {
+      "title": "Президентът Илияна Йотова е блокирана на летището в Бостън",
+      "url": "https://dariknews.bg/novini/sviat/prezidentyt-iliiana-iotova-e-blokirana-na-letishteto-v-bostyn-2467059",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
+    },
     {
       "title": "Бенчев: Няма намаление на потреблението на горива заради поскъпването (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/benchev-niama-namalenie-na-potreblenieto-na-goriva-zaradi-poskypvaneto-video-2467058",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51082/51082382/991-ratio-policiia-lenta.jpg"
     },
     {
-      "title": "Найденов: Една държава не може да просперира без независима правосъдна система",
-      "url": "https://dariknews.bg/novini/bylgariia/najdenov-edna-dyrzhava-ne-mozhe-da-prosperira-bez-nezavisima-pravosydna-sistema-2467034",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385760/991-ratio-nikolaj-najdenov.jpg"
+      "title": "Мбапе: Дембеле ми е приятел, няма напрежение между нас 21 Сеп | 22:10",
+      "url": "https://dsport.bg/mbape-dembele-mi-e-priatel-nama-naprezenie-mezdu-nas~240481.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296236405~1.og.jpg"
     },
     {
       "title": "Янаки Милев и Адриан Андреев преодоляха квалификациите в Пловдив 21 Сеп | 21:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/816996407_18628891537052278_6418636113656660292_n.og.jpg"
-    },
-    {
-      "title": "Спортист Своге се развихри срещу Вихрен - три гола за седем минути и първа загуба за лидера 21 Сеп | 19:26",
-      "url": "https://dsport.bg/sportist-svoge-se-razvihri-srestu-vihren-tri-gola-za-sedem-minuti-i-parva-zaguba-za-lidera~240471.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/817118975_1405924981681217_8882749451013839334_n.og.jfif"
     }
   ]
 }
