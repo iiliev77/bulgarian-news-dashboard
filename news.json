@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T12:05:20.521300+00:00",
+  "updated": "2026-09-21T12:24:25.926441+00:00",
   "articles": [
+    {
+      "title": "Нарушения в склад за търговия с безалкохолни и пакетирани храни в Кюстендил",
+      "url": "https://dariknews.bg/regioni/kiustendil/narusheniia-v-sklad-za-tyrgoviia-s-bezalkoholni-i-paketirani-hrani-v-kiustendil-2467033",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39312/39312439/991-ratio-napitka-gazirana-energijna-led.jpg"
+    },
     {
       "title": "Акции срещу насилието над жени в Хърватия",
       "url": "https://dariknews.bg/novini/sviat/akcii-sreshtu-nasilieto-nad-zheni-v-hyrvatiia-2467032",
@@ -16,11 +23,11 @@
       "image": "https://m.netinfo.bg/media/images/51382/51382954/991-ratio-vrediteli.jpg"
     },
     {
-      "title": "Задържаха криминално проявена млада жена пред детска градина в София за притежание на наркотици",
-      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-kriminalno-proiavena-mlada-zhena-pred-detska-gradina-v-sofiia-za-pritezhanie-na-narkotici-2467031",
+      "title": "Задържаха криминално проявена жена пред детска градина в София за разпространение на наркотици (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-kriminalno-proiavena-zhena-pred-detska-gradina-v-sofiia-za-razprostranenie-na-narkotici-snimki-2467031",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46042/46042925/991-ratio-arest-beleznici-zhena.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Гръцките власти предупреждават: Силни бури и градушки връхлитат Халкидики",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385673/991-ratio-cigari-pernik.jpg"
     },
     {
-      "title": "Омбудсманът предлага по-строг контрол над ВиК операторите",
-      "url": "https://dariknews.bg/novini/bylgariia/ombudsmanyt-predlaga-po-strog-kontrol-nad-vik-operatorite-2467010",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51278/51278141/991-ratio-voda-cheshma.jpg"
+      "title": "Малко чудо: БФС се задейства и предупреди Локомотив Пловдив за стадиона, заплаши с домакинство в Пазарджик 21 Сеп | 15:09",
+      "url": "https://dsport.bg/malko-chudo-bfs-se-zadeistva-i-predupredi-lokomotiv-plovdiv-za-stadiona-zaplashi-s-domakinstvo-v-pazardzik~240459.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028083-1-.og.jpg"
     },
     {
       "title": "Историческо! Лудогорец влезе в EA SPORTS FC 27 21 Сеп | 14:47",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2292957629-1.og.jpg"
-    },
-    {
-      "title": "Коул Палмър отпадна от състава на Англия заради контузия 21 Сеп | 12:04",
-      "url": "https://dsport.bg/koul-palmar-otpadna-ot-sastava-na-anglia-zaradi-kontuzia~240447.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296030858.og.jpg"
     }
   ]
 }
