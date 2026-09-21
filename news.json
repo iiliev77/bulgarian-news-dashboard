@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-21T08:02:25.855006+00:00",
+  "updated": "2026-09-21T08:20:33.579529+00:00",
   "articles": [
+    {
+      "title": "Гюров и Кандев се регистрираха за изборите: Влизаме в тази кампания с единствена цел – победа",
+      "url": "https://dariknews.bg/novini/bylgariia/giurov-i-kandev-se-registriraha-za-izborite-vlizame-v-tazi-kampaniia-s-edinstvena-cel-pobeda-2467006",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51376/51376649/991-ratio-giurov-i-kandev.jpg"
+    },
+    {
+      "title": "Оставени без надзор: 3-годишно дете си игра със запалка и подпали къща в Плевенско, бебе пострада",
+      "url": "https://dariknews.bg/regioni/pleven/ostaveni-bez-nadzor-3-godishno-dete-si-igra-sys-zapalka-i-podpali-kyshta-v-plevensko-bebe-postrada-2467007",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51163/51163820/991-ratio-dete-pozhar.jpg"
+    },
     {
       "title": "Оставиха в ареста обвиняем, ранил с нож мъж в Кресна",
       "url": "https://dariknews.bg/regioni/blagoevgrad/ostaviha-v-aresta-obviniaem-ranil-s-nozh-myzh-v-kresna-2467005",
@@ -65,18 +79,18 @@
       "image": "https://m.netinfo.bg/media/images/38868/38868905/991-ratio-indiia-navodneniia.jpg"
     },
     {
-      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
-    },
-    {
       "title": "Британците масово искат връщане в Европейския съюз",
       "url": "https://dariknews.bg/novini/sviat/britancite-masovo-iskat-vryshtane-v-evropejskiia-syiuz-2466996",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/46627/46627226/991-ratio-es-velikobritaniia.jpg"
+    },
+    {
+      "title": "Хванаха фалшиво евро на пазар във Великотърновско",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
     },
     {
       "title": "Удариха с юмрук полицай при сбиване пред заведение в Паликени",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/47799/47799133/991-ratio-more.jpg"
     },
     {
-      "title": "Околовръстният път на София и достъпът до Детската болница: Одобриха важен устройствен план",
-      "url": "https://dariknews.bg/regioni/sofiia/okolovrystniiat-pyt-na-sofiia-i-dostypyt-do-detskata-bolnica-odobriha-vazhen-ustrojstven-plan-2466989",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385627/991-ratio-vasil-terziev.jpg"
+      "title": "Димитър Кисимов се класира за финалите на Мастърс турнира на най-добрите осем юноши 21 Сеп | 10:57",
+      "url": "https://dsport.bg/dimitar-kisimov-se-klasira-za-finalite-na-mastars-turnira-na-nai-dobrite-osem-unoshi~240439.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/26.01-1-1-1~1.og.jpg"
     },
     {
-      "title": "Румен Радев: Първата стъпка е направена, отстранихме олигархията от изпълнителната власт",
-      "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-pyrvata-stypka-e-napravena-otstranihme-oligarhiiata-ot-izpylnitelnata-vlast-2466987",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
+      "title": "ЛеБрон Джеймс и сделката за милиони 21 Сеп | 10:50",
+      "url": "https://dsport.bg/lebron-dzeims-i-sdelkata-za-milioni~240438.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-1371866652.og.jpg"
     },
     {
       "title": "Разкриха заплатите във Висшата лига: £1.63 милиарда годишно 21 Сеп | 10:40",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2223471719.og.jpg"
-    },
-    {
-      "title": "Гол №101 на Меси не беше достатъчен за победа на Интер Маями (ВИДЕО) 21 Сеп | 09:07",
-      "url": "https://dsport.bg/gol-101-na-mesi-ne-beshe-dostatachen-za-pobeda-na-inter-maami-video~240427.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296311569.og.jpg"
-    },
-    {
-      "title": "Грозен скандал в NASCAR: Карсън Хосевар свали Райън Блейни на земята с юмруци (ВИДЕО) 21 Сеп | 08:57",
-      "url": "https://dsport.bg/grozen-skandal-v-nascar-karsan-hosevar-svali-raian-bleini-na-zemata-s-umruci-video~240426.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296163618.og.jpg"
     }
   ]
 }
