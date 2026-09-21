@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T18:07:56.520289+00:00",
+  "updated": "2026-09-21T18:24:35.838490+00:00",
   "articles": [
+    {
+      "title": "След трудна година: Биткойнът се върна над 85 000 долара",
+      "url": "https://dariknews.bg/novini/biznes/sled-trudna-godina-bitkojnyt-se-vyrna-nad-85-000-dolara-2467057",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46797/46797667/991-ratio-bitkojn.jpg"
+    },
     {
       "title": "Дебют с два медала: България с бронз от Европейското първенство за ватмани",
       "url": "https://dariknews.bg/regioni/sofiia/debiut-s-dva-medala-bylgariia-s-bronz-ot-evropejskoto-pyrvenstvo-za-vatmani-2467056",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51164/51164523/991-ratio-nato.jpg"
     },
     {
-      "title": "Нарушения в склад за търговия с безалкохолни и пакетирани храни в Кюстендил",
-      "url": "https://dariknews.bg/regioni/kiustendil/narusheniia-v-sklad-za-tyrgoviia-s-bezalkoholni-i-paketirani-hrani-v-kiustendil-2467033",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39312/39312439/991-ratio-napitka-gazirana-energijna-led.jpg"
+      "title": "Обявиха часа на първото Ел Класико за сезона 21 Сеп | 21:21",
+      "url": "https://dsport.bg/obaviha-chasa-na-parvoto-el-klasiko-za-sezona~240478.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2275503578.og.jpg"
     },
     {
       "title": "В Испания обявиха новия договор на своя архитект 21 Сеп | 20:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-21_18-14-09-878.og.jpg"
-    },
-    {
-      "title": "По-дълга почивка в ЦСКА, чакат новия треньор 21 Сеп | 18:13",
-      "url": "https://dsport.bg/po-dalga-pochivka-v-cska-chakat-novia-trenor~240468.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1ffd2da6-6319-4130-a04c-1c511505091b~1.og.jpg"
     }
   ]
 }
