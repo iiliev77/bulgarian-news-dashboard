@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T17:39:45.568959+00:00",
+  "updated": "2026-09-21T17:48:37.823367+00:00",
   "articles": [
     {
       "title": "Дебют с два медала: България с бронз от Европейското първенство за ватмани",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/39312/39312439/991-ratio-napitka-gazirana-energijna-led.jpg"
     },
     {
+      "title": "11 години по-късно: Борусия Дортмунд отново тръгна на четвърта 21 Сеп | 20:45",
+      "url": "https://dsport.bg/11-godini-po-kasno-borusia-dortmund-otnovo-tragna-na-chetvarta~240476.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296190296.og.jpg"
+    },
+    {
       "title": "ЦСКА - риск печели, риск губи 21 Сеп | 20:30",
       "url": "https://dsport.bg/cska-risk-pecheli-risk-gubi~240474.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/244566.og.jpg"
-    },
-    {
-      "title": "Лудогорец освободи помощниците на Райс срещу „солидна компенсация“ 21 Сеп | 17:29",
-      "url": "https://dsport.bg/ludogorec-osvobodi-pomostnicite-na-rais-srestu-solidna-kompensacia~240466.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/791493335_18624165601017861_1927155487781800737_n.og.jpg"
     }
   ]
 }
