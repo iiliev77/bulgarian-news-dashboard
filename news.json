@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T15:12:25.498807+00:00",
+  "updated": "2026-09-21T15:24:38.419332+00:00",
   "articles": [
+    {
+      "title": "Пропадането на пътя в „Аспарухово“ се разраства, има риск за водопровода",
+      "url": "https://dariknews.bg/regioni/varna/propadaneto-na-pytia-v-asparuhovo-se-razrastva-ima-risk-za-vodoprovoda-2467051",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385868/991-ratio-propadnal-pyt.jpg"
+    },
     {
       "title": "Тръмп: Русия е загубила контрол над дизеловата си индустрия",
       "url": "https://dariknews.bg/novini/sviat/trymp-rusiia-e-zagubila-kontrol-nad-dizelovata-si-industriia-2467050",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51257/51257328/991-ratio-obilni-valezhi-znachitelni-valezhi-dyzhd.jpg"
     },
     {
-      "title": "Още един танкер е атакуван в Ормузкия проток",
-      "url": "https://dariknews.bg/novini/sviat/oshte-edin-tanker-e-atakuvan-v-ormuzkiia-protok-2467027",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306329/991-ratio-tovaren-korab-plava-v-persijskiia-zaliv-kym-ormuzkiia-protok-vyv.jpg"
+      "title": "По-дълга почивка в ЦСКА, чакат новия треньор 21 Сеп | 18:13",
+      "url": "https://dsport.bg/po-dalga-pochivka-v-cska-chakat-novia-trenor~240468.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1ffd2da6-6319-4130-a04c-1c511505091b~1.og.jpg"
     },
     {
       "title": "Официално: ЦСКА върна Йомов във футбола 21 Сеп | 17:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-1300-.og.png"
-    },
-    {
-      "title": "Обрат: Малдини чист за наркотици 21 Сеп | 15:35",
-      "url": "https://dsport.bg/obrat-daniel-maldini-otricatelen-za-narkotici~240458.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2294932556.og.jpg"
     }
   ]
 }
