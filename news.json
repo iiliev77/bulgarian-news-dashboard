@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T15:55:10.113540+00:00",
+  "updated": "2026-09-21T16:04:59.030661+00:00",
   "articles": [
+    {
+      "title": "Министър Петрова: Партньорството със САЩ трябва да носи конкретни резултати",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-partniorstvoto-sys-sasht-triabva-da-nosi-konkretni-rezultati-2467052",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385875/991-ratio-ministyryt-na-vynshnite-raboti-velislava-petrova.jpg"
+    },
     {
       "title": "Пропадането на пътя в „Аспарухово“ се разраства, обявиха бедствено положение",
       "url": "https://dariknews.bg/regioni/varna/propadaneto-na-pytia-v-asparuhovo-se-razrastva-obiaviha-bedstveno-polozhenie-2467051",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Гръцките власти предупреждават: Силни бури и градушки връхлитат Халкидики",
-      "url": "https://dariknews.bg/novini/sviat/gryckite-vlasti-preduprezhdavat-silni-buri-i-gradushki-vryhlitat-halkidiki-2467029",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51257/51257328/991-ratio-obilni-valezhi-znachitelni-valezhi-dyzhd.jpg"
+      "title": "Криза в Англия: петима отпаднаха от състава за Лигата на нациите 21 Сеп | 19:04",
+      "url": "https://dsport.bg/kriza-v-anglia-petima-otpadnaha-ot-sastava-za-ligata-na-naciite~240470.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295883918.og.jpg"
     },
     {
       "title": "„Червените“ от 1 до 10: ЦСКА затъна в нивата на посредствеността 21 Сеп | 18:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/972849~1.og.jpg"
-    },
-    {
-      "title": "Трансферен удар в Пловдив! Локо Пловдив е готов за Европа 21 Сеп | 15:58",
-      "url": "https://dsport.bg/transferen-udar-v-plovdiv-loko-plovdiv-e-gotov-za-evropa~240460.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/image-22-~1.og.png"
     }
   ]
 }
