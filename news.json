@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T10:45:26.377699+00:00",
+  "updated": "2026-09-21T10:53:42.059416+00:00",
   "articles": [
+    {
+      "title": "Балетните пантофки и диамантените пръстени на Брижит Бардо отиват на търг с благотворителна кауза",
+      "url": "https://dariknews.bg/novini/liubopitno/baletnite-pantofki-i-diamantenite-prysteni-na-brizhit-bardo-otivat-na-tyrg-s-blagotvoritelna-kauza-2467024",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43014/43014700/991-ratio-brizhit-bardo.jpg"
+    },
     {
       "title": "Продължават случаите на морбили в Угърчин",
       "url": "https://dariknews.bg/regioni/lovech/prodylzhavat-sluchaite-na-morbili-v-ugyrchin-2467023",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50562/50562344/991-ratio-arest.jpg"
     },
     {
-      "title": "Фатален спор за шезлонг: 82-годишен мъж почина след сбиване на плаж край Атина",
-      "url": "https://dariknews.bg/novini/sviat/fatalen-spor-za-shezlong-82-godishen-myzh-pochina-sled-sbivane-na-plazh-kraj-atina-2467004",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39843/39843885/991-ratio-linejka-gyrciia.jpg"
+      "title": "Бивш треньор на Литекс поема ФКСБ, отнесъл 5 гола от Университатя Крайова 21 Сеп | 13:47",
+      "url": "https://dsport.bg/bivsh-trenor-na-liteks-poema-fksb-otnesal-5-gola-ot-universitata-kraiova~240452.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-620909228.og.jpg"
     },
     {
       "title": "Шестима от Левски национали, един ще прави световна обиколка 21 Сеп | 13:27",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295064727~1.og.jpg"
-    },
-    {
-      "title": "Лионел Меси с жест за милиони - дари огромна сума за детски онкологичен център в Барселона 21 Сеп | 11:36",
-      "url": "https://dsport.bg/lionel-mesi-s-zest-za-milioni-dari-ogromna-suma-za-detski-onkologichen-centar-v-barselona~240443.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2281974664~1.og.jpg"
     }
   ]
 }
