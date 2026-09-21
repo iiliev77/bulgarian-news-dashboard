@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T08:34:17.777992+00:00",
+  "updated": "2026-09-21T08:46:34.427808+00:00",
   "articles": [
     {
       "title": "Гюров и Кандев се регистрираха за изборите: Влизаме в тази кампания с единствена цел – победа",
@@ -79,18 +79,18 @@
       "image": "https://m.netinfo.bg/media/images/38868/38868905/991-ratio-indiia-navodneniia.jpg"
     },
     {
-      "title": "Британците масово искат връщане в Европейския съюз",
-      "url": "https://dariknews.bg/novini/sviat/britancite-masovo-iskat-vryshtane-v-evropejskiia-syiuz-2466996",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46627/46627226/991-ratio-es-velikobritaniia.jpg"
-    },
-    {
       "title": "Хванаха фалшиво евро на пазар във Великотърновско",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
+    },
+    {
+      "title": "Британците масово искат връщане в Европейския съюз",
+      "url": "https://dariknews.bg/novini/sviat/britancite-masovo-iskat-vryshtane-v-evropejskiia-syiuz-2466996",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46627/46627226/991-ratio-es-velikobritaniia.jpg"
     },
     {
       "title": "Удариха с юмрук полицай при сбиване пред заведение в Паликени",
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/47799/47799133/991-ratio-more.jpg"
+    },
+    {
+      "title": "Зидан затяга дисциплината - край на модните дефилета в националния отбор на Франция 21 Сеп | 11:24",
+      "url": "https://dsport.bg/zidan-zataga-disciplinata-krai-na-modnite-defileta-v-nacionalnia-otbor-na-francia~240442.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2245552541.og.jpg"
     },
     {
       "title": "Арбелоа обвини съдиите в пристрастност след равенството с Манчестър Юнайтед 21 Сеп | 11:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296250101.og.jpg"
-    },
-    {
-      "title": "Босът на Реал Мадрид вдигнал луд скандал на дербито срещу Атлетико 21 Сеп | 09:39",
-      "url": "https://dsport.bg/bosat-na-real-madrid-vdignal-lud-skandal-na-derbito-srestu-atletiko~240430.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2276275895-1.og.jpg"
     }
   ]
 }
