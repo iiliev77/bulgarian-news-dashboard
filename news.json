@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-21T05:30:33.622517+00:00",
+  "updated": "2026-09-21T05:43:17.651304+00:00",
   "articles": [
     {
-      "title": "Краят на една британска традиция? Британската гвардия може да се раздели с шапките от меча кожа",
-      "url": "https://dariknews.bg/novini/sviat/kraiat-na-edna-britanska-tradiciia-britanskata-gvardiia-mozhe-da-se-razdeli-s-shapkite-ot-mecha-kozha-2466982",
+      "title": "Йотова оглавява българската делегация на Общото събрание на ООН",
+      "url": "https://dariknews.bg/novini/sviat/iotova-oglaviava-bylgarskata-delegaciia-na-obshtoto-sybranie-na-oon-2466983",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50937/50937929/991-ratio-oon.jpg"
+    },
+    {
+      "title": "Краят на една традиция: Британската гвардия може да се раздели с шапките от меча кожа",
+      "url": "https://dariknews.bg/novini/sviat/kraiat-na-edna-tradiciia-britanskata-gvardiia-mozhe-da-se-razdeli-s-shapkite-ot-mecha-kozha-2466982",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51385/51385604/991-ratio-velikobritaniia-gvardejci.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385557/991-ratio-rusiia-izbori.jpg"
     },
     {
-      "title": "Министър Керязов: Държавни спортни бази са ползвани с години без наем",
-      "url": "https://dariknews.bg/novini/bylgariia/ministyr-keriazov-dyrzhavni-sportni-bazi-sa-polzvani-s-godini-bez-naem-2466968",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Съдийската комисия в Испания призна за сериозни грешки на мадриското дерби 21 Сеп | 08:14",
+      "url": "https://dsport.bg/sadiiskata-komisia-v-ispania-prizna-za-seriozni-greshki-na-madriskoto-derbi~240422.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296243119.og.jpg"
     },
     {
       "title": "Зинедин Зидан под специална закрила – има личен бодигард 21 Сеп | 08:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2261318848-2-1~1.og.jpg"
-    },
-    {
-      "title": "Късна драма на „Риасор“: Депортиво изтръгна точка от Бетис с гол в края 20 Сеп | 21:35",
-      "url": "https://dsport.bg/kasna-drama-na-riasor-deportivo-iztragna-tochka-ot-betis-s-gol-v-kraa~240411.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296271811.og.jpg"
     }
   ]
 }
