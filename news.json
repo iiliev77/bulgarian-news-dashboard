@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T16:55:45.566671+00:00",
+  "updated": "2026-09-21T17:05:25.572728+00:00",
   "articles": [
+    {
+      "title": "Президентските избори: 24 двойки са заявили участие във вота",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentskite-izbori-24-dvojki-sa-zaiavili-uchastie-vyv-vota-2467054",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51259/51259253/991-ratio-prezidentstvo.jpg"
+    },
     {
       "title": "НВО през 2027 г.: Промени, примерни задачи и нов формат за десетокласниците",
       "url": "https://dariknews.bg/novini/bylgariia/nvo-prez-2027-g.-promeni-primerni-zadachi-i-nov-format-za-desetoklasnicite-2467053",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/32762/32762395/991-ratio-nasilie-zheni.jpg"
     },
     {
-      "title": "Защо дървениците се връщат след пръскане и как да изберем правилната фирма за борба с дървеници",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/zashto-dyrvenicite-se-vryshtat-sled-pryskane-i-kak-da-izberem-pravilnata-firma-za-borba-s-dyrvenici-2466570",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51382/51382954/991-ratio-vrediteli.jpg"
+      "title": "Станимира Петрова е четвъртфиналистка на Европейското в София 21 Сеп | 19:55",
+      "url": "https://dsport.bg/stanimira-petrova-e-chetvartfinalistka-na-evropeiskoto-v-sofia~240473.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028639.og.jpg"
     },
     {
       "title": "Националите започнаха подготовката си за Лигата на нациите 21 Сеп | 19:41",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-21_17-02-33-042.og.png"
-    },
-    {
-      "title": "Най-голямата легенда на Беларус посочи играч на ЦСКА за №1 в страната (ВИДЕО) 21 Сеп | 16:45",
-      "url": "https://dsport.bg/nai-golamata-legenda-na-belarus-posochi-igrach-na-cska-za-1-v-stranata~240463.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/985433~1.og.jpg"
     }
   ]
 }
