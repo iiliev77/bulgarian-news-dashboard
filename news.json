@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:43:17.651304+00:00",
+  "updated": "2026-09-21T05:53:32.656510+00:00",
   "articles": [
     {
       "title": "Йотова оглавява българската делегация на Общото събрание на ООН",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385557/991-ratio-rusiia-izbori.jpg"
     },
     {
+      "title": "Италия се класира за четвъртфиналите на Евроволей 2026 21 Сеп | 08:25",
+      "url": "https://dsport.bg/italia-se-klasira-za-chetvartfinalite-na-evrovolei-2026~240423.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/221129__i8a7606.og.jpg"
+    },
+    {
       "title": "Съдийската комисия в Испания призна за сериозни грешки на мадриското дерби 21 Сеп | 08:14",
       "url": "https://dsport.bg/sadiiskata-komisia-v-ispania-prizna-za-seriozni-greshki-na-madriskoto-derbi~240422.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1813809008.og.jpg"
-    },
-    {
-      "title": "Гьозтепе на Стоилов допусна обрат, но все пак изтръгна точка 20 Сеп | 22:02",
-      "url": "https://dsport.bg/goztepe-na-stoilov-dopusna-obrat-no-vse-pak-iztragna-tochka~240413.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2261318848-2-1~1.og.jpg"
     }
   ]
 }
