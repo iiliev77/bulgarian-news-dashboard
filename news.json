@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T12:50:27.588587+00:00",
+  "updated": "2026-09-21T12:59:19.617972+00:00",
   "articles": [
+    {
+      "title": "Ново огнище на шарка по овцете и козите в Хасковско",
+      "url": "https://dariknews.bg/regioni/haskovo/novo-ognishte-na-sharka-po-ovcete-i-kozite-v-haskovsko-2467040",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51153/51153982/991-ratio-ovci-kozi.jpg"
+    },
     {
       "title": "Заедно за децата: NOVA и УНИЦЕФ обединиха хиляди българи",
       "url": "https://dariknews.bg/novini/liubopitno/zaedno-za-decata-nova-i-unicef-obediniha-hiliadi-bylgari-2467037",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51339/51339607/991-ratio-masud-pezeshkian.jpg"
     },
     {
-      "title": "Водач на АТВ загина при катастрофа в Сливница",
-      "url": "https://dariknews.bg/regioni/sofiia/vodach-na-atv-zagina-pri-katastrofa-v-slivnica-2467016",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51162/51162048/991-ratio-atv.jpg"
+      "title": "Трансферен удар в Пловдив! Локо Пловдив е готов за Европа. 21 Сеп | 15:58",
+      "url": "https://dsport.bg/transferen-udar-v-plovdiv-loko-plovdiv-e-gotov-za-evropa~240460.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/image-22-~1.og.png"
+    },
+    {
+      "title": "Най-сексапилната голфърка защити Сидни Суини и скандалната реклама 21 Сеп | 15:51",
+      "url": "https://dsport.bg/nai-seksapilnata-golfarka-zastiti-sidni-suini-i-provokativnata-reklama~240456.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-1300-.og.png"
     },
     {
       "title": "Обрат: Малдини чист за наркотици 21 Сеп | 15:35",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296250044.og.jpg"
-    },
-    {
-      "title": "ЦСКА с 8 национали, отлъчен бек може да играе срещу Меси и Аржентина 21 Сеп | 12:31",
-      "url": "https://dsport.bg/cska-s-8-nacionali-otlachen-bek-moze-da-igrae-srestu-mesi-i-arzentina~240450.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/996985.og.jpg"
-    },
-    {
-      "title": "Най-известната мъжемелачка флиртува с най-красивия футболист? 21 Сеп | 12:22",
-      "url": "https://dsport.bg/nai-izvestnata-mazemelachka-vkara-v-legloto-si-nai-krasivia-futbolist~240448.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/fotojet-80-.og.jpg"
     }
   ]
 }
