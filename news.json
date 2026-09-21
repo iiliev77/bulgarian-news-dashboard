@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-21T07:13:16.260681+00:00",
+  "updated": "2026-09-21T07:28:50.762452+00:00",
   "articles": [
+    {
+      "title": "НОИ: 557,60 евро е средната пенсия през август",
+      "url": "https://dariknews.bg/novini/bylgariia/noi-55760-evro-e-srednata-pensiia-prez-avgust-2467000",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
+    },
+    {
+      "title": "Питул нападна и ухапа 12-годишно дете на улица в Казанлък",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/pitul-napadna-i-uhapa-12-godishno-dete-na-ulica-v-kazanlyk-2466998",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46072/46072502/991-ratio-pitbul.jpg"
+    },
+    {
+      "title": "След бедствието в Непал в индийските реки се появи отровна риба",
+      "url": "https://dariknews.bg/novini/sviat/sled-bedstvieto-v-nepal-v-indijskite-reki-se-poiavi-otrovna-riba-2466999",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38868/38868905/991-ratio-indiia-navodneniia.jpg"
+    },
     {
       "title": "Хванаха фалшиво евро на пазар във Великотърновско",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/hvanaha-falshivo-evro-na-pazar-vyv-velikotyrnovsko-2466997",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51373/51373636/991-ratio-dunav.jpg"
     },
     {
-      "title": "Интензивен трафик на „Капитан Андреево“ и „Лесово“ за товарни автомобили",
-      "url": "https://dariknews.bg/novini/intenziven-trafik-na-kapitan-andreevo-i-lesovo-za-tovarni-avtomobili-2466979",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51254/51254727/991-ratio-kapitan-andreevo.jpg"
+      "title": "Скандал: БФБорба изпраща в прокуратурата доклад за нарушаване на санкциите срещу Русия 21 Сеп | 10:19",
+      "url": "https://dsport.bg/skandal-bfborba-izprasta-v-prokuraturata-doklad-za-narushavane-na-sankciite-srestu-rusia~240435.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/wrest.og.jpeg"
     },
     {
-      "title": "Италия забранява носенето на бурки в училищата",
-      "url": "https://dariknews.bg/novini/sviat/italiia-zabraniava-noseneto-na-burki-v-uchilishtata-2466980",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32421/32421583/991-ratio-burka-burki.jpg"
-    },
-    {
-      "title": "Европейците решават: Как ще изглеждат новите евробанкноти",
-      "url": "https://dariknews.bg/novini/sviat/evropejcite-reshavat-kak-shte-izglezhdat-novite-evrobanknoti-2466978",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51292/51292986/991-ratio-evro.jpg"
+      "title": "Рафиня и Ламин Ямал ООД: как работи най-доброто дуо в света 21 Сеп | 09:58",
+      "url": "https://dsport.bg/rafina-i-lamin-amal-ood-kak-raboti-nai-dobroto-duo-v-sveta~240434.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296119419~1.og.jpg"
     },
     {
       "title": "Чоло Симеоне разкъса Моуриньо след дербито 21 Сеп | 09:47",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2213090721.og.jpg"
-    },
-    {
-      "title": "Италия се класира за четвъртфиналите на Евроволей 2026 21 Сеп | 08:25",
-      "url": "https://dsport.bg/italia-se-klasira-za-chetvartfinalite-na-evrovolei-2026~240423.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/221129__i8a7606.og.jpg"
-    },
-    {
-      "title": "Съдийската комисия в Испания призна за сериозни грешки на мадридското дерби 21 Сеп | 08:14",
-      "url": "https://dsport.bg/sadiiskata-komisia-v-ispania-prizna-za-seriozni-greshki-na-madridskoto-derbi~240422.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296243119.og.jpg"
     }
   ]
 }
