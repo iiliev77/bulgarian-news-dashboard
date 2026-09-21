@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-21T08:56:18.744418+00:00",
+  "updated": "2026-09-21T09:07:38.202019+00:00",
   "articles": [
+    {
+      "title": "Александра Сърчаджиева и комедията, която си струва да гледате",
+      "url": "https://dariknews.bg/novini/liubopitno/aleksandra-syrchadzhieva-i-komediiata-koiato-si-struva-da-gledate-2466954",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51289/51289065/991-ratio-brynch-za-nachinaeshti.jpg"
+    },
+    {
+      "title": "Унищожиха над тон и половина канабисови растения в Петричко",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/unishtozhiha-nad-ton-i-polovina-kanabisovi-rasteniia-v-petrichko-2467009",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51383/51383178/991-ratio-marihuana-kanabis.jpg"
+    },
     {
       "title": "„Дъщеря ви се нуждае от операция“: 75-годишна жена даде 3500 евро на измамници",
       "url": "https://dariknews.bg/regioni/Pazardzhik/dyshteria-vi-se-nuzhdae-ot-operaciia-75-godishna-zhena-dade-3500-evro-na-izmamnici-2467008",
@@ -72,8 +86,8 @@
       "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
     },
     {
-      "title": "Питул нападна и ухапа 12-годишно дете на улица в Казанлък",
-      "url": "https://dariknews.bg/regioni/stara-zagora/pitul-napadna-i-uhapa-12-godishno-dete-na-ulica-v-kazanlyk-2466998",
+      "title": "Питбул нападна и ухапа 12-годишно дете на улица в Казанлък",
+      "url": "https://dariknews.bg/regioni/stara-zagora/pitbul-napadna-i-uhapa-12-godishno-dete-na-ulica-v-kazanlyk-2466998",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/46072/46072502/991-ratio-pitbul.jpg"
@@ -100,8 +114,8 @@
       "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
     },
     {
-      "title": "Удариха с юмрук полицай при сбиване пред заведение в Паликени",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/udariha-s-iumruk-policaj-pri-sbivane-pred-zavedenie-v-palikeni-2466995",
+      "title": "Удариха с юмрук полицай при сбиване пред заведение в Павликени",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/udariha-s-iumruk-policaj-pri-sbivane-pred-zavedenie-v-pavlikeni-2466995",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51149/51149284/991-ratio-policaj.jpg"
@@ -128,18 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385629/991-ratio-presli-gerber.jpg"
     },
     {
-      "title": "Заловиха шофьор с близо 3 промила алкохол в Силистренско",
-      "url": "https://dariknews.bg/regioni/silistra/zaloviha-shofior-s-blizo-3-promila-alkohol-v-silistrensko-2466992",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43515/43515413/991-ratio-alkohol-i-shofirane.jpg"
+      "title": "Коул Палмър отпадна от състава на Англия заради контузия 21 Сеп | 12:04",
+      "url": "https://dsport.bg/koul-palmar-otpadna-ot-sastava-na-anglia-zaradi-kontuzia~240447.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296030858.og.jpg"
     },
     {
-      "title": "3-годишно дете пострада при катастрофа на пътя Бургас-Созопол",
-      "url": "https://dariknews.bg/regioni/burgas/3-godishno-dete-postrada-pri-katastrofa-na-pytia-burgas-sozopol-2466990",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48694/48694486/991-ratio-dete-katastrofa.jpg"
+      "title": "Рекордните над 11000 бегачи от 66 държави ще вземат участие в маратона на София през тази година 21 Сеп | 12:02",
+      "url": "https://dsport.bg/rekordnite-nad-11000-begachi-ot-66-darzavi-ste-vzemat-uchastie-v-maratona-na-sofia-prez-tazi-godina~240446.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/9700168-1.og.jpg"
+    },
+    {
+      "title": "Клод Макелеле срина Реал Мадрид: Слабо е, няма план за игра, няма нищо! 21 Сеп | 11:55",
+      "url": "https://dsport.bg/klod-makelele-srina-real-madrid-slabo-e-nama-plan-za-igra-nama-nisto~240445.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-1488354555.og.jpg"
+    },
+    {
+      "title": "Енцо Мареска: Предпочитам да печелим с 1:0, вместо с 5:3 21 Сеп | 11:44",
+      "url": "https://dsport.bg/enco-mareska-predpochitam-da-pechelim-s-1-0-vmesto-s-5-3~240444.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295064727~1.og.jpg"
     },
     {
       "title": "Лионел Меси с жест за милиони - дари огромна сума за детски онкологичен център в Барселона 21 Сеп | 11:36",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1371866652.og.jpg"
-    },
-    {
-      "title": "Разкриха заплатите във Висшата лига: £1.63 милиарда годишно 21 Сеп | 10:40",
-      "url": "https://dsport.bg/razkriha-zaplatite-vav-visshata-liga-1-63-miliarda-godishno~240437.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2267883488.og.jpg"
-    },
-    {
-      "title": "БФС обяви програмата за четири кръга от MrBit Втора лига 21 Сеп | 10:30",
-      "url": "https://dsport.bg/bfs-obavi-programata-za-chetiri-kraga-ot-mrbit-vtora-liga~240436.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/3v.og.jpg"
-    },
-    {
-      "title": "Скандал: БФБорба изпраща в прокуратурата доклад за нарушаване на санкциите срещу Русия 21 Сеп | 10:19",
-      "url": "https://dsport.bg/skandal-bfborba-izprasta-v-prokuraturata-doklad-za-narushavane-na-sankciite-srestu-rusia~240435.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/wrest.og.jpeg"
-    },
-    {
-      "title": "Рафиня и Ламин Ямал ООД: как работи най-доброто дуо в света 21 Сеп | 09:58",
-      "url": "https://dsport.bg/rafina-i-lamin-amal-ood-kak-raboti-nai-dobroto-duo-v-sveta~240434.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296119419~1.og.jpg"
     }
   ]
 }
