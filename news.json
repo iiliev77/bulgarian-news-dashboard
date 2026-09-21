@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T16:21:38.768679+00:00",
+  "updated": "2026-09-21T16:34:06.264107+00:00",
   "articles": [
+    {
+      "title": "НВО през 2027 г.: Промени, примерни задачи и нов формат за десетокласниците",
+      "url": "https://dariknews.bg/novini/bylgariia/nvo-prez-2027-g.-promeni-primerni-zadachi-i-nov-format-za-desetoklasnicite-2467053",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332333/991-ratio-uchenici-izpit.jpg"
+    },
     {
       "title": "Министър Петрова: Партньорството със САЩ трябва да носи конкретни резултати",
       "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-partniorstvoto-sys-sasht-triabva-da-nosi-konkretni-rezultati-2467052",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51382/51382954/991-ratio-vrediteli.jpg"
     },
     {
-      "title": "Задържаха криминално проявена жена пред детска градина в София за разпространение на наркотици (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-kriminalno-proiavena-zhena-pred-detska-gradina-v-sofiia-za-razprostranenie-na-narkotici-snimki-2467031",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Спортист Своге се развихри срещу Вихрен - три гола за седем минути и първа загуба за лидера 21 Сеп | 19:26",
+      "url": "https://dsport.bg/sportist-svoge-se-razvihri-srestu-vihren-tri-gola-za-sedem-minuti-i-parva-zaguba-za-lidera~240471.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/817118975_1405924981681217_8882749451013839334_n.og.jfif"
     },
     {
       "title": "Криза в Англия: петима отпаднаха от състава за Лигата на нациите 21 Сеп | 19:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-21_16-27-20-913.og.jpg"
-    },
-    {
-      "title": "Направилият Левски шампион подписа с Бали 21 Сеп | 16:16",
-      "url": "https://dsport.bg/napraviliat-levski-shampion-podpisa-s-bali~240461.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/972849~1.og.jpg"
     }
   ]
 }
