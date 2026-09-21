@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:54:08.161189+00:00",
+  "updated": "2026-09-21T20:02:45.649236+00:00",
   "articles": [
     {
       "title": "Калифорния обяви извънредно положение заради „Ел Ниньо“",
@@ -13,7 +13,7 @@
       "url": "https://dariknews.bg/novini/sviat/na-pyt-kym-niu-iork-iotova-e-blokirana-na-letishteto-v-bostyn-2467059",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Бенчев: Няма намаление на потреблението на горива заради поскъпването (ВИДЕО)",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385773/991-ratio-r.jpg"
     },
     {
+      "title": "Националите по акробатика с достойно участие на Световното 21 Сеп | 23:01",
+      "url": "https://dsport.bg/nacionalite-po-akrobatika-s-dostoino-uchastie-na-svetovnoto~240485.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/21.09-4.og.jpg"
+    },
+    {
       "title": "Ман Юнайтед поглежда към Дортмунд за засилване на атаката 21 Сеп | 22:49",
       "url": "https://dsport.bg/man-unaited-poglezda-kam-dortmund-za-zasilvane-na-atakata~240484.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296190296.og.jpg"
-    },
-    {
-      "title": "ЦСКА - риск печели, риск губи 21 Сеп | 20:30",
-      "url": "https://dsport.bg/cska-risk-pecheli-risk-gubi~240474.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/komentarno-alpha-21-.og.png"
     }
   ]
 }
