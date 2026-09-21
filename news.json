@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-21T12:59:19.617972+00:00",
+  "updated": "2026-09-21T13:13:19.858379+00:00",
   "articles": [
+    {
+      "title": "Най-мащабната реформа на митниците в ЕС от 1968 г. влиза в сила: Какво се променя",
+      "url": "https://dariknews.bg/novini/bylgariia/naj-mashtabnata-reforma-na-mitnicite-v-es-ot-1968-g.-vliza-v-sila-kakvo-se-promenia-2467042",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51354/51354460/991-ratio-agenciia-mitnici.jpg"
+    },
+    {
+      "title": "Голям пожар избухна край Велико Търново",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/goliam-pozhar-izbuhna-kraj-veliko-tyrnovo-2467041",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+    },
     {
       "title": "Ново огнище на шарка по овцете и козите в Хасковско",
       "url": "https://dariknews.bg/regioni/haskovo/novo-ognishte-na-sharka-po-ovcete-i-kozite-v-haskovsko-2467040",
@@ -128,21 +142,7 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385706/991-ratio-protest-sofiia.jpg"
     },
     {
-      "title": "Велосипедистка е в тежко състояние след удар в кола край Самоков",
-      "url": "https://dariknews.bg/regioni/sofiia/velosipedistka-e-v-tezhko-systoianie-sled-udar-v-kola-kraj-samokov-2467018",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51119/51119509/991-ratio-kolelo-incident.jpg"
-    },
-    {
-      "title": "Иранският президент ще участва в 81-вата сесия на Общото събрание на ООН",
-      "url": "https://dariknews.bg/novini/sviat/iranskiiat-prezident-shte-uchastva-v-81-vata-sesiia-na-obshtoto-sybranie-na-oon-2467017",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51339/51339607/991-ratio-masud-pezeshkian.jpg"
-    },
-    {
-      "title": "Трансферен удар в Пловдив! Локо Пловдив е готов за Европа. 21 Сеп | 15:58",
+      "title": "Трансферен удар в Пловдив! Локо Пловдив е готов за Европа 21 Сеп | 15:58",
       "url": "https://dsport.bg/transferen-udar-v-plovdiv-loko-plovdiv-e-gotov-za-evropa~240460.html",
       "source": "Dsport",
       "section": "sport",
