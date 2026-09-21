@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T17:18:01.922202+00:00",
+  "updated": "2026-09-21T17:28:48.731344+00:00",
   "articles": [
     {
       "title": "Президентските избори: 24 двойки са заявили участие във вота",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/32762/32762395/991-ratio-nasilie-zheni.jpg"
     },
     {
+      "title": "След ренесанса в Дербито на докерите – Уест Хем с исторически старт 21 Сеп | 20:22",
+      "url": "https://dsport.bg/sled-renesansa-v-derbito-na-dokerite-uest-hem-s-istoricheski-start~240475.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296253992.og.jpg"
+    },
+    {
       "title": "Станимира Петрова е четвъртфиналистка на Европейското в София 21 Сеп | 19:55",
       "url": "https://dsport.bg/stanimira-petrova-e-chetvartfinalistka-na-evropeiskoto-v-sofia~240473.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1495910087.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик - 21.09.2026 г. 21 Сеп | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-21-09-2026-g~240464.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/viber_image_2026-09-21_17-02-33-042.og.png"
     }
   ]
 }
