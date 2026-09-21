@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T13:13:19.858379+00:00",
+  "updated": "2026-09-21T13:26:27.835722+00:00",
   "articles": [
+    {
+      "title": "Близо 190 млн. евро по НПВУ: В 50 болници е доставена високотехнологична апаратура",
+      "url": "https://dariknews.bg/novini/bylgariia/blizo-190-mln.-evro-po-npvu-v-50-bolnici-e-dostavena-visokotehnologichna-aparatura-2467043",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Най-мащабната реформа на митниците в ЕС от 1968 г. влиза в сила: Какво се променя",
       "url": "https://dariknews.bg/novini/bylgariia/naj-mashtabnata-reforma-na-mitnicite-v-es-ot-1968-g.-vliza-v-sila-kakvo-se-promenia-2467042",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51320/51320852/991-ratio-vss.jpg"
     },
     {
-      "title": "Хора с увреждания протестираха пред Столична община с искане за достъпна среда (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/hora-s-uvrezhdaniia-protestiraha-pred-stolichna-obshtina-s-iskane-za-dostypna-sreda-snimki-2467019",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385706/991-ratio-protest-sofiia.jpg"
+      "title": "Направилият Левски шампион подписа с Бали 21 Сеп | 16:16",
+      "url": "https://dsport.bg/napraviliat-levski-shampion-podpisa-s-bali~240461.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/972849~1.og.jpg"
     },
     {
       "title": "Трансферен удар в Пловдив! Локо Пловдив е готов за Европа 21 Сеп | 15:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028152.og.jpg"
-    },
-    {
-      "title": "Смут в Италия: Ювентус скочи на феновете си, които не почетоха легендарния Мацола 21 Сеп | 13:02",
-      "url": "https://dsport.bg/smut-v-italia-uventus-skochi-na-fenovete-si-koito-ne-pochetoha-legendarnia-macola~240451.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296250044.og.jpg"
     }
   ]
 }
