@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-21T09:07:38.202019+00:00",
+  "updated": "2026-09-21T09:23:36.048657+00:00",
   "articles": [
+    {
+      "title": "Спипаха голямо количество контрабандни цигари при спецакция в Пернишко (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/pernik/spipaha-goliamo-kolichestvo-kontrabandni-cigari-pri-specakciia-v-pernishko-snimki-2467012",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385673/991-ratio-cigari-pernik.jpg"
+    },
+    {
+      "title": "Омбудсманът предлага по-строг контрол над ВиК операторите",
+      "url": "https://dariknews.bg/novini/bylgariia/ombudsmanyt-predlaga-po-strog-kontrol-nad-vik-operatorite-2467010",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51278/51278141/991-ratio-voda-cheshma.jpg"
+    },
     {
       "title": "Александра Сърчаджиева и комедията, която си струва да гледате",
       "url": "https://dariknews.bg/novini/liubopitno/aleksandra-syrchadzhieva-i-komediiata-koiato-si-struva-da-gledate-2466954",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51289/51289065/991-ratio-brynch-za-nachinaeshti.jpg"
+    },
+    {
+      "title": "„Единна Русия“ на Путин води на изборите, проведени на фона на войната в Украйна",
+      "url": "https://dariknews.bg/novini/sviat/edinna-rusiia-na-putin-vodi-na-izborite-provedeni-na-fona-na-vojnata-v-ukrajna-2467011",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50587/50587243/991-ratio-izbori-rusiia.jpg"
     },
     {
       "title": "Унищожиха над тон и половина канабисови растения в Петричко",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51149/51149284/991-ratio-policaj.jpg"
     },
     {
-      "title": "Моторист загина след удар в дърво край Завет",
-      "url": "https://dariknews.bg/regioni/razgrad/motorist-zagina-sled-udar-v-dyrvo-kraj-zavet-2466993",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51280/51280071/991-ratio-motor-katastrofa.jpg"
-    },
-    {
-      "title": "Вятър, дъжд и сняг по планините: Рязка промяна сменя времето у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/viatyr-dyzhd-i-sniag-po-planinite-riazka-promiana-smenia-vremeto-u-nas-2466994",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На 27 години почина синът на Синди Крауфорд",
-      "url": "https://dariknews.bg/novini/sviat/na-27-godini-pochina-sinyt-na-sindi-krauford-2466991",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385629/991-ratio-presli-gerber.jpg"
+      "title": "Ламин Ямал се зарадва на загубата на Реал Мадрид 21 Сеп | 12:14",
+      "url": "https://dsport.bg/lamin-amal-se-zaradva-na-zagubata-na-real-madrid~240449.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2292957629-1.og.jpg"
     },
     {
       "title": "Коул Палмър отпадна от състава на Англия заради контузия 21 Сеп | 12:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/26.01-1-1-1~1.og.jpg"
-    },
-    {
-      "title": "ЛеБрон Джеймс и сделката за милиони 21 Сеп | 10:50",
-      "url": "https://dsport.bg/lebron-dzeims-i-sdelkata-za-milioni~240438.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1371866652.og.jpg"
     }
   ]
 }
