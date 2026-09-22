@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T19:29:54.309284+00:00",
+  "updated": "2026-09-22T19:41:18.263021+00:00",
   "articles": [
+    {
+      "title": "След като бе призован: Посланикът ни в ОАЕ се прибра у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-kato-be-prizovan-poslanikyt-ni-v-oae-se-pribra-u-nas-2467096",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Зеленски: МВФ ще помогне на Украйна да осигури средства за 2027 г.",
       "url": "https://dariknews.bg/novini/sviat/zelenski-mvf-shte-pomogne-na-ukrajna-da-osiguri-sredstva-za-2027-g-2467095",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Мъж е задържан за побой над баща си в Разградско",
-      "url": "https://dariknews.bg/regioni/razgrad/myzh-e-zadyrzhan-za-poboj-nad-bashta-si-v-razgradsko-2467071",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50228/50228005/991-ratio-vyzrasten-chovek.jpg"
+      "title": "Килиан Мбапе пропусна тренировката на Франция 22 Сеп | 22:32",
+      "url": "https://dsport.bg/kilian-mbape-propusna-trenirovkata-na-francia~240534.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2286108319-1.og.jpg"
     },
     {
       "title": "Разкриха произхода на принтера на Жозе Моуриньо 22 Сеп | 22:17",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/315099-1.og.jpg"
-    },
-    {
-      "title": "Кузманов след тренировките с Джокович: Мечтата ми да се докосна до най-великия стана реалност 22 Сеп | 19:50",
-      "url": "https://dsport.bg/kuzmanov-sled-trenirovkite-s-dzokovich-mechtata-mi-da-se-dokosna-do-nai-velikia-stana-realnost~240525.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-2026-09-22-194851.og.png"
     }
   ]
 }
