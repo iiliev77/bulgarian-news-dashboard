@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:55:39.978221+00:00",
+  "updated": "2026-09-22T16:06:20.749531+00:00",
   "articles": [
     {
       "title": "Полицията с допълнителни екипи по основните пътища заради очаквания трафик (ВИДЕО)",
@@ -30,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/46759/46759954/991-ratio-kejt-blanshet.jpg"
     },
     {
-      "title": "Първи снежинки прехвърчаха в Пампорово (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/Smolyan/pyrvi-snezhinki-prehvyrchaha-v-pamporovo-video-2467078",
+      "title": "Лятото си тръгва със сняг: Заваля на хижа „Мусала“, снежинки прехвърчаха и в Пампорово (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/Smolyan/liatoto-si-trygva-sys-sniag-zavalia-na-hizha-musala-snezhinki-prehvyrchaha-i-v-pamporovo-video-2467078",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386118/991-ratio-snezhinki.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51367/51367263/991-ratio-reka-dunav-nivo.jpg"
     },
     {
+      "title": "Франция се разправи с Румъния и е първият полуфиналист на Евроволей 22 Сеп | 19:02",
+      "url": "https://dsport.bg/francia-se-razpravi-s-rumania-i-e-parviat-polufinalist-na-evrovolei~240520.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296045205.og.jpg"
+    },
+    {
       "title": "Станислав Иванов: Още помня с радост първия ми гол в дербито срещу ЦСКА 22 Сеп | 18:50",
       "url": "https://dsport.bg/stanislav-ivanov-oste-pomna-s-radost-parvia-mi-gol-v-derbito-srestu-cska~240519.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/thgp.og.jpg"
-    },
-    {
-      "title": "Кабаков, Гидженов и Никола Попов с наряд в Лигата на нациите 22 Сеп | 16:03",
-      "url": "https://dsport.bg/kabakov-gidzenov-i-nikola-popov-s-narad-v-ligata-na-naciite~240510.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2269394450~1.og.jpg"
     }
   ]
 }
