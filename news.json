@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T16:35:09.883318+00:00",
+  "updated": "2026-09-22T16:47:01.540307+00:00",
   "articles": [
+    {
+      "title": "Тръмп: Комунизмът никога няма да дойде в Америка, но свободата ще дойде в Куба",
+      "url": "https://dariknews.bg/novini/sviat/trymp-komunizmyt-nikoga-niama-da-dojde-v-amerika-no-svobodata-shte-dojde-v-kuba-2467087",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386154/991-ratio-donald-trymp.jpg"
+    },
     {
       "title": "Полицията с допълнителни екипи по основните пътища заради очаквания трафик (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/policiiata-s-dopylnitelni-ekipi-po-osnovnite-pytishta-zaradi-ochakvaniia-trafik-video-2467084",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51338/51338123/991-ratio-jotova.jpg"
     },
     {
-      "title": "Уникална находка: Над тон желязо от желязната епоха откриха край река Дунав",
-      "url": "https://dariknews.bg/novini/sviat/unikalna-nahodka-nad-ton-zheliazo-ot-zheliaznata-epoha-otkriha-kraj-reka-dunav-2467061",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51367/51367263/991-ratio-reka-dunav-nivo.jpg"
+      "title": "Ибаниес и Бачевски останаха без полуфинали на европейското по бокс 22 Сеп | 19:37",
+      "url": "https://dsport.bg/ibanies-i-bachevski-ostanaha-bez-polufinali-na-evropeiskoto-po-boks~240523.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028815.og.jpg"
     },
     {
       "title": "Българска съдийска бригада получи наряд за Белгия U21 – Беларус U21 22 Сеп | 19:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-2026-09-22-170143.og.png"
-    },
-    {
-      "title": "Столична община организира излъчване на състезанията на Никола Цолов на голям екран 22 Сеп | 16:53",
-      "url": "https://dsport.bg/stolichna-obstina-organizira-izlachvane-na-sastezaniata-na-nikola-colov-na-golam-ekran~240513.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2293304919~1.og.jpg"
     }
   ]
 }
