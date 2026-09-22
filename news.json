@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:25:49.262951+00:00",
+  "updated": "2026-09-22T15:37:15.330201+00:00",
   "articles": [
     {
       "title": "Полицията с допълнителни екипи по основните пътища заради очаквания трафик (ВИДЕО)",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51367/51367263/991-ratio-reka-dunav-nivo.jpg"
     },
     {
+      "title": "Мартин Кузманов: В Хърватия ценят българския талант 22 Сеп | 18:35",
+      "url": "https://dsport.bg/martin-kuzmanov-v-harvatia-cenat-balgarskia-talant~240518.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/image_1790082364_91814.og.jpeg"
+    },
+    {
       "title": "Реал Мадрид с остър отговор към Хавиер Тебас 22 Сеп | 18:22",
       "url": "https://dsport.bg/real-madrid-s-ostar-otgovor-kam-havier-tebas~240517.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296292003.og.jpg"
-    },
-    {
-      "title": "Исторически английски клуб изгражда нов стадион с исторически тухли от стара болница 22 Сеп | 15:19",
-      "url": "https://dsport.bg/istoricheski-angliiski-klub-izgrazda-nov-stadion-s-istoricheski-tuhli-ot-stara-bolnica~240508.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-22-2026-03_31_23-pm.og.png"
     }
   ]
 }
