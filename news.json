@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T18:55:57.350169+00:00",
+  "updated": "2026-09-22T19:05:45.057445+00:00",
   "articles": [
+    {
+      "title": "Изтребител F-16 се разби край американска авиобаза в Германия",
+      "url": "https://dariknews.bg/novini/sviat/iztrebitel-f-16-se-razbi-kraj-amerikanska-aviobaza-v-germaniia-2467093",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51071/51071195/991-ratio-f-16-block-70.jpg"
+    },
     {
       "title": "Йотова запозна върховния комисар на ООН по правата на човека със случая на Ива Михайлова",
       "url": "https://dariknews.bg/novini/bylgariia/iotova-zapozna-vyrhovniia-komisar-na-oon-po-pravata-na-choveka-sys-sluchaia-na-iva-mihajlova-2467092",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50895/50895419/991-ratio-turciia-policiia.jpg"
     },
     {
-      "title": "118 години независимост: Тържествена заря-проверка на площад „Цар Асен І” във Велико Търново (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/118-godini-nezavisimost-tyrzhestvena-zaria-proverka-na-ploshtad-car-asen-vyv-veliko-tyrnovo-videosnimki-2467069",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Микел Артета се разбра с Арсенал за новия си договор 22 Сеп | 22:01",
+      "url": "https://dsport.bg/mikel-arteta-se-razbra-s-arsenal-za-novia-si-dogovor~240531.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2274696992-1-1.og.jpg"
     },
     {
       "title": "Техническият комитет на съдиите коментира спорните ситуации в мадридското дерби 22 Сеп | 21:47",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028815.og.jpg"
-    },
-    {
-      "title": "Българска съдийска бригада получи наряд за Белгия U21 – Беларус U21 22 Сеп | 19:23",
-      "url": "https://dsport.bg/balgarska-sadiiska-brigada-poluchi-narad-za-belgia-u21-belarus-u21~240522.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/644864-1~1.og.jpg"
     }
   ]
 }
