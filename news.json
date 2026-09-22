@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T07:44:09.848207+00:00",
+  "updated": "2026-09-22T07:54:10.715124+00:00",
   "articles": [
+    {
+      "title": "Мъж стреля близо до гимназия в Турция, има ранени",
+      "url": "https://dariknews.bg/novini/sviat/myzh-strelia-blizo-do-gimnaziia-v-turciia-ima-raneni-2467070",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50895/50895419/991-ratio-turciia-policiia.jpg"
+    },
     {
       "title": "118 години независимост: Празник в цяла България, Велико Търново е центърът на честванията (СНИМКИ)",
       "url": "https://dariknews.bg/novini/bylgariia/118-godini-nezavisimost-praznik-v-ciala-bylgariia-veliko-tyrnovo-e-centyryt-na-chestvaniiata-snimki-2467069",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385927/991-ratio-raia-zlatareva-i-mihail-antoniev-predstaviha-sofiia.jpg"
     },
     {
-      "title": "Президентските избори: 24 двойки са заявили участие във вота",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentskite-izbori-24-dvojki-sa-zaiavili-uchastie-vyv-vota-2467054",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Разкриха защо 15-годишна перла иска да напусне Манчестър Юнайтед 22 Сеп | 10:47",
+      "url": "https://dsport.bg/razkriha-zasto-15-godishna-perla-iska-da-napusne-manchestar-unaited~240498.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2290294050.og.jpg"
     },
     {
       "title": "Марин Петков се прибира от националния отбор при нов треньор 22 Сеп | 10:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1166061320-1-2-2-1-1-2-2-1-2.og.jpg"
-    },
-    {
-      "title": "Манчини: Трябва да върнем Италия там, където му е мястото 21 Сеп | 23:48",
-      "url": "https://dsport.bg/manchini-trabva-da-varnem-italia-tam-kadeto-mu-e-mastoto~240489.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2177879597~1.og.jpg"
     }
   ]
 }
