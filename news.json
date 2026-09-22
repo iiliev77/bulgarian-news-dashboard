@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:12:18.192995+00:00",
+  "updated": "2026-09-22T15:25:49.262951+00:00",
   "articles": [
     {
       "title": "Полицията с допълнителни екипи по основните пътища заради очаквания трафик (ВИДЕО)",
@@ -114,8 +114,8 @@
       "image": "https://m.netinfo.bg/media/images/42027/42027194/991-ratio-bylgarsko-zname-flag.jpg"
     },
     {
-      "title": "Изтича срокът за регистрация на кандидатпрезидентските двойки в ЦИК",
-      "url": "https://dariknews.bg/novini/bylgariia/izticha-srokyt-za-registraciia-na-kandidatprezidentskite-dvojki-v-cik-2467066",
+      "title": "Край на регистрация: 28 двойки влизат в битката за „Дондуков“ 2",
+      "url": "https://dariknews.bg/novini/bylgariia/kraj-na-registraciia-28-dvojki-vlizat-v-bitkata-za-dondukov-2-2467066",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -140,6 +140,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51367/51367263/991-ratio-reka-dunav-nivo.jpg"
+    },
+    {
+      "title": "Реал Мадрид с остър отговор към Хавиер Тебас 22 Сеп | 18:22",
+      "url": "https://dsport.bg/real-madrid-s-ostar-otgovor-kam-havier-tebas~240517.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2280393419~1.og.jpg"
+    },
+    {
+      "title": "Ексклузивно Лъчо Танев: Левски се превръща в европейски отбор, ЦСКА има нужда от „архитект“ (ВИДЕО) 22 Сеп | 18:10",
+      "url": "https://dsport.bg/lacho-tanev-levski-se-prevrasta-v-evropeiski-otbor-cska-ima-nuzda-ot-arhitekt-video~240516.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/946947~1.og.jpg"
     },
     {
       "title": "Григор Димитров с объркване около българския празник 22 Сеп | 17:11",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-22-2026-03_31_23-pm.og.png"
-    },
-    {
-      "title": "Познати лица за България в ЛН: стар абонат, удобен съперник и спомен от един от най-скандалните мачове 22 Сеп | 14:50",
-      "url": "https://dsport.bg/poznati-lica-za-balgaria-v-ln-star-abonat-udoben-sapernik-i-spomen-ot-edin-ot-nai-skandalnite-machove~240507.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/692134.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид обяви състоянието на Валверде след балтията в Дерби Мадриленьо 22 Сеп | 14:16",
-      "url": "https://dsport.bg/real-madrid-obavi-sastoanieto-na-valverde-sled-baltiata-v-derbi-madrileno~240506.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296243119~1.og.jpg"
     }
   ]
 }
