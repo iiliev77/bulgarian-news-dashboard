@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T17:42:18.510240+00:00",
+  "updated": "2026-09-22T17:50:11.360737+00:00",
   "articles": [
+    {
+      "title": "Йотова и Пелегрини: ЕС трябва да инициира разговорите за мир в Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/iotova-i-pelegrini-es-triabva-da-iniciira-razgovorite-za-mir-v-ukrajna-2467089",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386169/991-ratio-prezidentyt-iotova-razgovaria-sys-slovashkiia-si-kolega-peter-pelegrini.jpg"
+    },
     {
       "title": "Тръмп: Между Русия и Украйна ще бъде постигнато споразумение “по-скоро, отколкото хората мислят”",
       "url": "https://dariknews.bg/novini/sviat/trymp-mezhdu-rusiia-i-ukrajna-shte-byde-postignato-sporazumenie-po-skoro-otkolkoto-horata-misliat-2467088",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Външният министър: Срещата на високо равнище в рамките на сесията на ООН задава политическите насоки",
-      "url": "https://dariknews.bg/novini/sviat/vynshniiat-ministyr-sreshtata-na-visoko-ravnishte-v-ramkite-na-sesiiata-na-oon-zadava-politicheskite-nasoki-2467065",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385982/991-ratio-velislava-petrova.jpg"
+      "title": "Аржентина предложи нов контракт на Скалони с поглед към Мондиал 2030 22 Сеп | 20:43",
+      "url": "https://dsport.bg/arzentina-predlozi-nov-kontrakt-na-skaloni-s-pogled-kam-mondial-2030~240524.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2286261364~2.og.jpg"
     },
     {
       "title": "Симеон Николов с послание към България след Евроволей 22 Сеп | 20:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/image_1790082364_91814.og.jpeg"
-    },
-    {
-      "title": "Реал Мадрид с остър отговор към Хавиер Тебас 22 Сеп | 18:22",
-      "url": "https://dsport.bg/real-madrid-s-ostar-otgovor-kam-havier-tebas~240517.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2280393419~1.og.jpg"
     }
   ]
 }
