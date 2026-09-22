@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T18:45:38.109675+00:00",
+  "updated": "2026-09-22T18:55:57.350169+00:00",
   "articles": [
     {
       "title": "Йотова запозна върховния комисар на ООН по правата на човека със случая на Ива Михайлова",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
+      "title": "Техническият комитет на съдиите коментира спорните ситуации в мадридското дерби 22 Сеп | 21:47",
+      "url": "https://dsport.bg/tehnicheskiat-komitet-na-sadiite-komentira-spornite-situacii-v-madridskoto-derbi~240532.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296244689.og.jpg"
+    },
+    {
       "title": "Тебас отново атакува Реал Мадрид с иронична забележка към Флорентино Перес 22 Сеп | 21:31",
       "url": "https://dsport.bg/tebas-otnovo-atakuva-real-madrid-s-ironichna-zabelezka-kam-florentino-peres~240530.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/644864-1~1.og.jpg"
-    },
-    {
-      "title": "Адриан Андреев се присъедини към Иван Иванов във втория кръг на ATP Challenger 75 турнира в Пловдив 22 Сеп | 19:12",
-      "url": "https://dsport.bg/adrian-andreev-se-prisaedini-kam-ivan-ivanov-vav-vtoria-krag-na-atp-challenger-75-turnira-v-plovdiv~240521.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/andreev-0-2-2-1-3-2-2~1.og.jpg"
     }
   ]
 }
