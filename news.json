@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:41:18.263021+00:00",
+  "updated": "2026-09-22T19:49:53.696614+00:00",
   "articles": [
     {
       "title": "След като бе призован: Посланикът ни в ОАЕ се прибра у нас",
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Борусия Мьонхенгладбах обяви новия си треньор 22 Сеп | 22:47",
+      "url": "https://dsport.bg/borusia-monhengladbah-obavi-novia-si-trenor~240535.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296089298.og.jpg"
+    },
+    {
       "title": "Килиан Мбапе пропусна тренировката на Франция 22 Сеп | 22:32",
       "url": "https://dsport.bg/kilian-mbape-propusna-trenirovkata-na-francia~240534.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1027432.og.jpg"
-    },
-    {
-      "title": "Йомов: Чувството да се завърнеш след четири години е наистина уникално 22 Сеп | 20:11",
-      "url": "https://dsport.bg/iomov-chuvstvoto-da-se-zavarnesh-sled-chetiri-godini-e-naistina-unikalno~240526.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/315099-1.og.jpg"
     }
   ]
 }
