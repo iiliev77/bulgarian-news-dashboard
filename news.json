@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T05:04:36.296930+00:00",
+  "updated": "2026-09-22T05:19:32.714473+00:00",
   "articles": [
+    {
+      "title": "Изтича срокът за регистрация на кандидатпрезидентските двойки в ЦИК",
+      "url": "https://dariknews.bg/novini/bylgariia/izticha-srokyt-za-registraciia-na-kandidatprezidentskite-dvojki-v-cik-2467066",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385989/640-420-cik.jpg"
+    },
     {
       "title": "Външният министър: Срещата на високо равнище в рамките на сесията на ООН задава политическите насоки",
       "url": "https://dariknews.bg/novini/sviat/vynshniiat-ministyr-sreshtata-na-visoko-ravnishte-v-ramkite-na-sesiiata-na-oon-zadava-politicheskite-nasoki-2467065",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Тръмп: Русия е загубила контрол над дизеловата си индустрия",
-      "url": "https://dariknews.bg/novini/sviat/trymp-rusiia-e-zagubila-kontrol-nad-dizelovata-si-industriia-2467050",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51363/51363756/991-ratio-donald-trymp.jpg"
+      "title": "Инфантино инициира мащабна реформа в управлението на ФИФА след вълната от критики 22 Сеп | 08:10",
+      "url": "https://dsport.bg/infantino-iniciira-mastabna-reforma-v-upravlenieto-na-fifa-sled-valnata-ot-kritiki~240491.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/750183404_1047793457766079_6026729537402997919_n~1.og.jpg"
     },
     {
       "title": "Тебас: Реал Мадрид не загуби заради съдийството 21 Сеп | 23:59",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296236405~1.og.jpg"
-    },
-    {
-      "title": "Янаки Милев и Адриан Андреев преодоляха квалификациите в Пловдив 21 Сеп | 21:54",
-      "url": "https://dsport.bg/anaki-milev-i-adrian-andreev-preodolaha-kvalifikaciite-v-plovdiv~240480.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/21.09-3.og.jpg"
     }
   ]
 }
