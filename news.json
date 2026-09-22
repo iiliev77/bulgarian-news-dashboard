@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T11:52:38.356652+00:00",
+  "updated": "2026-09-22T12:00:25.974136+00:00",
   "articles": [
+    {
+      "title": "Посланичката на Португалия у нас е открита починала в дома си",
+      "url": "https://dariknews.bg/novini/bylgariia/poslanichkata-na-portugaliia-u-nas-e-otkrita-pochinala-v-doma-si-2467075",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45467/45467439/991-ratio-portugaliia-bylgariia-es.jpg"
+    },
     {
       "title": "Иван Христанов се кандидатира за изборите за президент: Най-важната задача е да стигнем до балотаж",
       "url": "https://dariknews.bg/novini/bylgariia/ivan-hristanov-se-kandidatira-za-izborite-za-prezident-naj-vazhnata-zadacha-e-da-stignem-do-balotazh-2467074",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
     },
     {
-      "title": "Калифорния обяви извънредно положение заради „Ел Ниньо“",
-      "url": "https://dariknews.bg/novini/sviat/kaliforniia-obiavi-izvynredno-polozhenie-zaradi-el-ninio-2467060",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50721/50721655/991-ratio-kaliforniia.jpg"
+      "title": "Познати лица за България в ЛН: стар абонат, удобен съперник и спомен от един от най-скандалните мачове 22 Сеп | 14:50",
+      "url": "https://dsport.bg/poznati-lica-za-balgaria-v-ln-star-abonat-udoben-sapernik-i-spomen-ot-edin-ot-nai-skandalnite-machove~240507.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/692134.og.jpg"
     },
     {
       "title": "Реал Мадрид обяви състоянието на Валверде след балтията в Дерби Мадриленьо 22 Сеп | 14:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/mach-za-mach-1-.og.jpg"
-    },
-    {
-      "title": "Разкриха защо 15-годишна перла иска да напусне Манчестър Юнайтед 22 Сеп | 10:47",
-      "url": "https://dsport.bg/razkriha-zasto-15-godishna-perla-iska-da-napusne-manchestar-unaited~240498.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2290294050.og.jpg"
     }
   ]
 }
