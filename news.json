@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T13:16:47.963469+00:00",
+  "updated": "2026-09-22T13:31:35.207124+00:00",
   "articles": [
+    {
+      "title": "Кейт Бланшет призова зрителите да не снимат с телефоните си в театъра",
+      "url": "https://dariknews.bg/novini/liubopitno/kejt-blanshet-prizova-zritelite-da-ne-snimat-s-telefonite-si-v-teatyra-2467079",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46759/46759954/991-ratio-kejt-blanshet.jpg"
+    },
     {
       "title": "Първи снежинки прехвърчаха в Пампорово (ВИДЕО)",
       "url": "https://dariknews.bg/regioni/Smolyan/pyrvi-snezhinki-prehvyrchaha-v-pamporovo-video-2467078",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50780/50780547/991-ratio-imot-kyshta-zhilishte.jpg"
     },
     {
-      "title": "Вторник идва със захлаждане, дъжд и силен вятър по морето",
-      "url": "https://dariknews.bg/novini/bylgariia/vtornik-idva-sys-zahlazhdane-dyzhd-i-silen-viatyr-po-moreto-2467055",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50663/50663405/991-ratio-vylni.jpg"
+      "title": "Илия Груев подари 100 топки на деца, трениращи футбол 22 Сеп | 16:20",
+      "url": "https://dsport.bg/ilia-gruev-podari-100-topki-na-deca-trenirasti-futbol~240511.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/thgp.og.jpg"
     },
     {
       "title": "Кабаков, Гидженов и Никола Попов с наряд в Лигата на нациите 22 Сеп | 16:03",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/795289342_18628891528052278_4997610454242158584_n.og.jpg"
-    },
-    {
-      "title": "Ново начало, стари демони за Рафаел Леао в Турция 22 Сеп | 11:55",
-      "url": "https://dsport.bg/novo-nachalo-stari-demoni-za-rafael-leao-v-turcia~240501.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295082124.og.jpg"
     }
   ]
 }
