@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:50:11.360737+00:00",
+  "updated": "2026-09-22T17:58:35.422854+00:00",
   "articles": [
     {
       "title": "Йотова и Пелегрини: ЕС трябва да инициира разговорите за мир в Украйна",
@@ -9,8 +9,8 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386169/991-ratio-prezidentyt-iotova-razgovaria-sys-slovashkiia-si-kolega-peter-pelegrini.jpg"
     },
     {
-      "title": "Тръмп: Между Русия и Украйна ще бъде постигнато споразумение “по-скоро, отколкото хората мислят”",
-      "url": "https://dariknews.bg/novini/sviat/trymp-mezhdu-rusiia-i-ukrajna-shte-byde-postignato-sporazumenie-po-skoro-otkolkoto-horata-misliat-2467088",
+      "title": "Тръмп: Между Русия и Украйна ще има споразумение “по-скоро, отколкото хората мислят”",
+      "url": "https://dariknews.bg/novini/sviat/trymp-mezhdu-rusiia-i-ukrajna-shte-ima-sporazumenie-po-skoro-otkolkoto-horata-misliat-2467088",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51269/51269502/991-ratio-ukrajna-sasht-rusiia.jpg"
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Полша не остави шанс на Германия по пътя си към полуфиналите на Евроволей 22 Сеп | 20:57",
+      "url": "https://dsport.bg/polsha-ne-ostavi-shans-na-germania-po-pata-si-kam-polufinalite-na-evrovolei~240528.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1025896.og.jpg"
+    },
+    {
       "title": "Аржентина предложи нов контракт на Скалони с поглед към Мондиал 2030 22 Сеп | 20:43",
       "url": "https://dsport.bg/arzentina-predlozi-nov-kontrakt-na-skaloni-s-pogled-kam-mondial-2030~240524.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gaho.og.jpg"
-    },
-    {
-      "title": "Мартин Кузманов: В Хърватия ценят българския талант 22 Сеп | 18:35",
-      "url": "https://dsport.bg/martin-kuzmanov-v-harvatia-cenat-balgarskia-talant~240518.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/image_1790082364_91814.og.jpeg"
     }
   ]
 }
