@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:06:17.288808+00:00",
+  "updated": "2026-09-22T17:19:59.436389+00:00",
   "articles": [
     {
       "title": "Тръмп: Комунизмът никога няма да дойде в Америка, но свободата ще дойде в Куба",
@@ -100,8 +100,8 @@
       "image": "https://m.netinfo.bg/media/images/50895/50895419/991-ratio-turciia-policiia.jpg"
     },
     {
-      "title": "118 години независимост: Тържествената заря-проверка на площад „Цар Асен І” във Велико Търново (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/118-godini-nezavisimost-tyrzhestvenata-zaria-proverka-na-ploshtad-car-asen-vyv-veliko-tyrnovo-videosnimki-2467069",
+      "title": "118 години независимост: Тържествена заря-проверка на площад „Цар Асен І” във Велико Търново (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/118-godini-nezavisimost-tyrzhestvena-zaria-proverka-na-ploshtad-car-asen-vyv-veliko-tyrnovo-videosnimki-2467069",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51338/51338123/991-ratio-jotova.jpg"
+    },
+    {
+      "title": "Йомов: Чувството да се завърнеш след четири години е наистина уникално 22 Сеп | 20:11",
+      "url": "https://dsport.bg/iomov-chuvstvoto-da-se-zavarnesh-sled-chetiri-godini-e-naistina-unikalno~240526.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/315099-1.og.jpg"
     },
     {
       "title": "Кузманов след тренировките с Джокович: Мечтата ми да се докосна до най-великия стана реалност 22 Сеп | 19:50",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/946947~1.og.jpg"
-    },
-    {
-      "title": "Григор Димитров с объркване около българския празник 22 Сеп | 17:11",
-      "url": "https://dsport.bg/grigor-dimitrov-s-obarkvane-okolo-balgarskia-praznik~240515.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2290490622~1.og.jpg"
     }
   ]
 }
