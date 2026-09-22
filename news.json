@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T14:05:21.611595+00:00",
+  "updated": "2026-09-22T14:21:29.521380+00:00",
   "articles": [
+    {
+      "title": "НАП установи 20 нарушения при 27 проверки във Велико Търново",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/nap-ustanovi-20-narusheniia-pri-27-proverki-vyv-veliko-tyrnovo-2467081",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386130/991-ratio-nap.jpg"
+    },
     {
       "title": "Кейт Бланшет призова зрителите да не снимат с телефоните си в театъра",
       "url": "https://dariknews.bg/novini/liubopitno/kejt-blanshet-prizova-zritelite-da-ne-snimat-s-telefonite-si-v-teatyra-2467079",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/49394/49394214/991-ratio-syn.jpg"
     },
     {
-      "title": "Такса поддръжка, ремонти, охрана: Истинската цена на живота в жилищен комплекс",
-      "url": "https://dariknews.bg/novini/bylgariia/taksa-poddryzhka-remonti-ohrana-istinskata-cena-na-zhivota-v-zhilishten-kompleks-2467020",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50780/50780547/991-ratio-imot-kyshta-zhilishte.jpg"
+      "title": "Григор Димитров с объркване около българския празник 22 Сеп | 17:11",
+      "url": "https://dsport.bg/grigor-dimitrov-s-obarkvane-okolo-balgarskia-praznik~240515.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2290490622~1.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик радио със специален гост Лъчезар Танев - 22.09.2026 22 Сеп | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296243119~1.og.jpg"
-    },
-    {
-      "title": "Алвеша се завърна на терена с гол 22 Сеп | 13:50",
-      "url": "https://dsport.bg/alvesha-se-zavarna-na-terena-s-gol~240505.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/795645020_1086183083958640_5048677577122492057_n.og.jfif"
     }
   ]
 }
