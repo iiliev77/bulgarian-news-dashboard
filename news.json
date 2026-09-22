@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:45:57.476574+00:00",
+  "updated": "2026-09-22T10:54:50.176672+00:00",
   "articles": [
     {
       "title": "Белият дом стартира собствен канал „Тръмп ТВ“ на фона на ескалацията на споровете за достъп до ефир",
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Алвеша се завърна на терена с гол 22 Сеп | 13:50",
+      "url": "https://dsport.bg/alvesha-se-zavarna-na-terena-s-gol~240505.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/795645020_1086183083958640_5048677577122492057_n.og.jfif"
+    },
+    {
       "title": "Най-богатият футболист в света остана без отбор 22 Сеп | 13:24",
       "url": "https://dsport.bg/nai-bogatiat-futbolist-v-sveta-ostana-bez-otbor~240504.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/mari40.og.jpg"
-    },
-    {
-      "title": "Левски и ЦСКА отбелязаха 118 години Независима България 22 Сеп | 09:45",
-      "url": "https://dsport.bg/levski-i-cska-otbelazaha-118-godini-nezavisima-balgaria~240496.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/neozaglaven-dizain-2026-09-22t094526.315.og.png"
     }
   ]
 }
