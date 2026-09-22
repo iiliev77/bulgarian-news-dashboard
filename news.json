@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T18:30:56.530337+00:00",
+  "updated": "2026-09-22T18:45:38.109675+00:00",
   "articles": [
+    {
+      "title": "Йотова запозна върховния комисар на ООН по правата на човека със случая на Ива Михайлова",
+      "url": "https://dariknews.bg/novini/bylgariia/iotova-zapozna-vyrhovniia-komisar-na-oon-po-pravata-na-choveka-sys-sluchaia-na-iva-mihajlova-2467092",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386181/991-ratio-iliiana-iotova.jpg"
+    },
     {
       "title": "Стрелбата край училище в Турция: Трима ученици са в критично състояние",
       "url": "https://dariknews.bg/novini/sviat/strelbata-kraj-uchilishte-v-turciia-trima-uchenici-sa-v-kritichno-systoianie-2467091",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Евакуираха хора заради свлачището във Варна: Какви мерки са предприети за обезопасяване",
-      "url": "https://dariknews.bg/regioni/varna/evakuiraha-hora-zaradi-svlachishteto-vyv-varna-kakvi-merki-sa-predprieti-za-obezopasiavane-2467068",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Тебас отново атакува Реал Мадрид с иронична забележка към Флорентино Перес 22 Сеп | 21:31",
+      "url": "https://dsport.bg/tebas-otnovo-atakuva-real-madrid-s-ironichna-zabelezka-kam-florentino-peres~240530.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2181948237-1-2~1.og.jpg"
     },
     {
       "title": "Григор Димитров загуби от литовец в Сен Тропе 22 Сеп | 21:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/andreev-0-2-2-1-3-2-2~1.og.jpg"
-    },
-    {
-      "title": "Франция се разправи с Румъния и е първият полуфиналист на Евроволей 22 Сеп | 19:02",
-      "url": "https://dsport.bg/francia-se-razpravi-s-rumania-i-e-parviat-polufinalist-na-evrovolei~240520.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296045205.og.jpg"
     }
   ]
 }
