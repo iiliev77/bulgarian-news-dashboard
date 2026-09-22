@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-22T13:00:43.500522+00:00",
+  "updated": "2026-09-22T13:16:47.963469+00:00",
   "articles": [
     {
-      "title": "Първи снежинки прехвърчаха в Пампорово",
-      "url": "https://dariknews.bg/regioni/Smolyan/pyrvi-snezhinki-prehvyrchaha-v-pamporovo-2467078",
+      "title": "Първи снежинки прехвърчаха в Пампорово (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/Smolyan/pyrvi-snezhinki-prehvyrchaha-v-pamporovo-video-2467078",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386118/991-ratio-snezhinki.jpg"
@@ -48,7 +48,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/kostadin-kostadinov-i-petyr-volgin-sa-kandidatprezidentskata-dvojka-na-vyzrazhdane-2467072",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386063/991-ratio-kostadinov.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Мъж е задържан за побой над баща си в Разградско",
@@ -90,7 +90,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/izticha-srokyt-za-registraciia-na-kandidatprezidentskite-dvojki-v-cik-2467066",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385989/640-420-cik.jpg"
+      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
     },
     {
       "title": "Външният министър: Срещата на високо равнище в рамките на сесията на ООН задава политическите насоки",
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50663/50663405/991-ratio-vylni.jpg"
+    },
+    {
+      "title": "Кабаков, Гидженов и Никола Попов с наряд в Лигата на нациите 22 Сеп | 16:03",
+      "url": "https://dsport.bg/kabakov-gidzenov-i-nikola-popov-s-narad-v-ligata-na-naciite~240510.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2269394450~1.og.jpg"
     },
     {
       "title": "Новият Родри - как Реал Мадрид изпусна таланта, който вече блести във Висшата лига? 22 Сеп | 15:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295082124.og.jpg"
-    },
-    {
-      "title": "Кръвта вода не става - нов Маркизио в Ювентус 22 Сеп | 11:27",
-      "url": "https://dsport.bg/kravta-voda-ne-stava-nov-markizio-v-uventus~240500.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-922112446.og.jpg"
     }
   ]
 }
