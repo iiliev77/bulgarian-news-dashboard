@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T05:43:40.624560+00:00",
+  "updated": "2026-09-22T05:53:11.002224+00:00",
   "articles": [
     {
       "title": "Какви послания отправиха политиците у нас по повод Деня на Независимостта",
@@ -62,7 +62,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/vtornik-idva-sys-zahlazhdane-dyzhd-i-silen-viatyr-po-moreto-2467055",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51187/51187888/991-ratio-esen.jpg"
+      "image": "https://m.netinfo.bg/media/images/50663/50663405/991-ratio-vylni.jpg"
     },
     {
       "title": "Честит празник, българи: 118 години от обявяването на Независимостта на България",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385875/991-ratio-ministyryt-na-vynshnite-raboti-velislava-petrova.jpg"
     },
     {
+      "title": "Макун: Левски се завръща към величието, което заслужава 22 Сеп | 08:45",
+      "url": "https://dsport.bg/makun-levski-se-zavrasta-kam-velichieto-koeto-zasluzava~240493.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1022060.og.jpg"
+    },
+    {
       "title": "Меси разкри специалната фланелка за сбогуването си с Аржентина (ВИДЕО) 22 Сеп | 08:27",
       "url": "https://dsport.bg/mesi-razkri-specialnata-flanelka-za-sboguvaneto-si-s-arzentina-video~240492.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028718.og.jpg"
-    },
-    {
-      "title": "Хебър унищожи Монтана на „Огоста“ 21 Сеп | 22:22",
-      "url": "https://dsport.bg/hebar-unistozi-montana-na-ogosta~240482.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1028688.og.jpg"
     }
   ]
 }
