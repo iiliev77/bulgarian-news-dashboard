@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:19:22.651638+00:00",
+  "updated": "2026-09-22T11:31:37.032593+00:00",
   "articles": [
     {
       "title": "Белият дом стартира собствен канал „Тръмп ТВ“ на фона на ескалацията на споровете за достъп до ефир",
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Реал Мадрид обяви състоянието на Валверде след балтията в Дерби Мадриленьо 22 Сеп | 14:16",
+      "url": "https://dsport.bg/real-madrid-obavi-sastoanieto-na-valverde-sled-baltiata-v-derbi-madrileno~240506.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296243119~1.og.jpg"
+    },
+    {
       "title": "Алвеша се завърна на терена с гол 22 Сеп | 13:50",
       "url": "https://dsport.bg/alvesha-se-zavarna-na-terena-s-gol~240505.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2290294050.og.jpg"
-    },
-    {
-      "title": "Марин Петков се прибира от националния отбор при нов треньор 22 Сеп | 10:16",
-      "url": "https://dsport.bg/marin-petkov-se-pribira-ot-nacionalnia-otbor-pri-nov-trenor~240497.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/mari40.og.jpg"
     }
   ]
 }
