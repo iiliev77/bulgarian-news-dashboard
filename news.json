@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T19:05:45.057445+00:00",
+  "updated": "2026-09-22T19:19:06.115707+00:00",
   "articles": [
+    {
+      "title": "Зеленски: МВФ ще помогне на Украйна да осигури средства за 2027 г.",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-mvf-shte-pomogne-na-ukrajna-da-osiguri-sredstva-za-2027-g-2467095",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51381/51381475/991-ratio-volodimir-zelenski.jpg"
+    },
     {
       "title": "Изтребител F-16 се разби край американска авиобаза в Германия",
       "url": "https://dariknews.bg/novini/sviat/iztrebitel-f-16-se-razbi-kraj-amerikanska-aviobaza-v-germaniia-2467093",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50228/50228005/991-ratio-vyzrasten-chovek.jpg"
     },
     {
-      "title": "Мъж стреля близо до гимназия в Турция, има ранени",
-      "url": "https://dariknews.bg/novini/sviat/myzh-strelia-blizo-do-gimnaziia-v-turciia-ima-raneni-2467070",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50895/50895419/991-ratio-turciia-policiia.jpg"
+      "title": "Разкриха произхода на принтера на Жозе Моуриньо 22 Сеп | 22:17",
+      "url": "https://dsport.bg/razkriha-proizhodat-na-printera-na-zoze-mourino~240533.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296251139.og.jpg"
     },
     {
       "title": "Микел Артета се разбра с Арсенал за новия си договор 22 Сеп | 22:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-2026-09-22-194851.og.png"
-    },
-    {
-      "title": "Ибаниес и Бачевски останаха без полуфинали на европейското по бокс 22 Сеп | 19:37",
-      "url": "https://dsport.bg/ibanies-i-bachevski-ostanaha-bez-polufinali-na-evropeiskoto-po-boks~240523.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1028815.og.jpg"
     }
   ]
 }
