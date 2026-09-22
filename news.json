@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T12:51:38.563014+00:00",
+  "updated": "2026-09-22T13:00:43.500522+00:00",
   "articles": [
     {
       "title": "Първи снежинки прехвърчаха в Пампорово",
@@ -27,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/poslanichkata-na-portugaliia-u-nas-e-otkrita-pochinala-v-doma-si-2467075",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45467/45467439/991-ratio-portugaliia-bylgariia-es.jpg"
+      "image": "https://m.netinfo.bg/media/images/51386/51386119/991-ratio-ana-mariia-ribejro-da-silva.jpg"
     },
     {
       "title": "Иван Христанов се кандидатира за изборите за президент: Най-важната задача е да стигнем до балотаж",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50663/50663405/991-ratio-vylni.jpg"
     },
     {
+      "title": "Новият Родри - как Реал Мадрид изпусна таланта, който вече блести във Висшата лига? 22 Сеп | 15:45",
+      "url": "https://dsport.bg/noviat-rodri-kak-real-madrid-izpusna-talanta-koito-veche-blesti-vav-visshata-liga~240509.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296292003.og.jpg"
+    },
+    {
       "title": "Исторически английски клуб изгражда нов стадион с исторически тухли от стара болница 22 Сеп | 15:19",
       "url": "https://dsport.bg/istoricheski-angliiski-klub-izgrazda-nov-stadion-s-istoricheski-tuhli-ot-stara-bolnica~240508.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-922112446.og.jpg"
-    },
-    {
-      "title": "Треньорът на Спортист Своге: Важна победа срещу лидера! Основният ни проблем беше реализирането на голове 22 Сеп | 11:08",
-      "url": "https://dsport.bg/trenorat-na-sportist-svoge-vazna-pobeda-srestu-lidera-osnovniat-ni-problem-beshe-realiziraneto-na-golove~240499.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/710598269_1697688285172434_4212109107621733807_n~1.og.jpg"
     }
   ]
 }
