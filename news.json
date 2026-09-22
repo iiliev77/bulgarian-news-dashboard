@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-22T12:19:25.669703+00:00",
+  "updated": "2026-09-22T12:37:34.732454+00:00",
   "articles": [
     {
-      "title": "Край на лятото: Астрономическата есен настъпва на 23 септември",
-      "url": "https://dariknews.bg/novini/bylgariia/kraj-na-liatoto-astronomicheskata-esen-nastypva-na-23-septemvri-2467076",
+      "title": "България с най-голям ръст на цените на горивата в ЕС през август",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-s-naj-goliam-ryst-na-cenite-na-gorivata-v-es-prez-avgust-2467077",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50213/50213942/991-ratio-benzinostanciia.jpg"
+    },
+    {
+      "title": "Чао, лято: Астрономическата есен настъпва на 23 септември",
+      "url": "https://dariknews.bg/novini/bylgariia/chao-liato-astronomicheskata-esen-nastypva-na-23-septemvri-2467076",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50942/50942961/991-ratio-dete-esen.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "„Файненшъл таймс“: Сделката за „Лукойл“ за 20 млрд. долара остава блокирана в САЩ",
-      "url": "https://dariknews.bg/novini/sviat/fajnenshyl-tajms-sdelkata-za-lukojl-za-20-mlrd.-dolara-ostava-blokirana-v-sasht-2467063",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51205/51205196/991-ratio-lukojl.jpg"
+      "title": "Исторически английски клуб изгражда нов стадион с исторически тухли от стара болница 22 Сеп | 15:19",
+      "url": "https://dsport.bg/istoricheski-angliiski-klub-izgrazda-nov-stadion-s-istoricheski-tuhli-ot-stara-bolnica~240508.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-22-2026-03_31_23-pm.og.png"
     },
     {
       "title": "Познати лица за България в ЛН: стар абонат, удобен съперник и спомен от един от най-скандалните мачове 22 Сеп | 14:50",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/710598269_1697688285172434_4212109107621733807_n~1.og.jpg"
-    },
-    {
-      "title": "„Мач за Мач“: ЦСКА изпусна да е пред Левски, пак МЪКА с БГ НАЦИОНАЛИТЕ 22 Сеп | 11:00",
-      "url": "https://dsport.bg/mach-za-mach-cska-izpusna-da-e-pred-levski-pak-maka-s-bg-nacionalite~240486.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/mach-za-mach-1-.og.jpg"
     }
   ]
 }
