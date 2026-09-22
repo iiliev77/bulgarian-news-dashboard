@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T06:38:06.826231+00:00",
+  "updated": "2026-09-22T06:52:39.645575+00:00",
   "articles": [
     {
       "title": "Евакуираха хора заради свлачището във Варна: Какви мерки са предприети за обезопасяване",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51332/51332333/991-ratio-uchenici-izpit.jpg"
     },
     {
+      "title": "Левски и ЦСКА отбелязаха 118 години Независима България 22 Сеп | 09:45",
+      "url": "https://dsport.bg/levski-i-cska-otbelazaha-118-godini-nezavisima-balgaria~240496.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/neozaglaven-dizain-2026-09-22t094526.315.og.png"
+    },
+    {
       "title": "Обявиха програмата за първите два 1/4-финала от Купата на елита 22 Сеп | 09:31",
       "url": "https://dsport.bg/obaviha-programata-za-parvite-dva-1-4-finala-ot-kupata-na-elita~240495.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2286813272.og.jpg"
-    },
-    {
-      "title": "Националите по акробатика с достойно участие на Световното 21 Сеп | 23:01",
-      "url": "https://dsport.bg/nacionalite-po-akrobatika-s-dostoino-uchastie-na-svetovnoto~240485.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/21.09-4.og.jpg"
     }
   ]
 }
