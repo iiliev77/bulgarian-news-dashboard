@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T13:45:24.116680+00:00",
+  "updated": "2026-09-22T13:55:32.422891+00:00",
   "articles": [
     {
       "title": "Кейт Бланшет призова зрителите да не снимат с телефоните си в театъра",
@@ -48,7 +48,7 @@
       "url": "https://dariknews.bg/novini/sviat/beliiat-dom-startira-sobstven-kanal-trymp-tv-na-fona-na-eskalaciiata-na-sporovete-za-dostyp-do-efir-2467073",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50958/50958980/991-ratio-beliiat-dom.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Костадин Костадинов и Петър Волгин са кандидатпрезидентската двойка на „Възраждане“",
@@ -97,7 +97,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/izticha-srokyt-za-registraciia-na-kandidatprezidentskite-dvojki-v-cik-2467066",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Външният министър: Срещата на високо равнище в рамките на сесията на ООН задава политическите насоки",
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50780/50780547/991-ratio-imot-kyshta-zhilishte.jpg"
+    },
+    {
+      "title": "Столична община организира излъчване на състезанията на Никола Цолов на голям екран 22 Сеп | 16:53",
+      "url": "https://dsport.bg/stolichna-obstina-organizira-izlachvane-na-sastezaniata-na-nikola-colov-na-golam-ekran~240513.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2293304919~1.og.jpg"
     },
     {
       "title": "Ботев Пловдив обяви колко ще отсъства защитник 22 Сеп | 16:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2238804568.og.jpg"
-    },
-    {
-      "title": "16 клуба го искаха, Барселона го видя за 25 минути и не го пусна да си тръгне (ВИДЕО) 22 Сеп | 13:00",
-      "url": "https://dsport.bg/16-kluba-go-iskaha-barselona-go-vida-za-25-minuti-i-ne-go-pusna-da-si-tragne-video~240503.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-22-2026-01_00_33-pm.og.png"
     }
   ]
 }
