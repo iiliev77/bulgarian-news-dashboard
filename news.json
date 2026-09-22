@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T09:33:30.502592+00:00",
+  "updated": "2026-09-22T09:45:06.977473+00:00",
   "articles": [
+    {
+      "title": "Костадин Костадинов е кандидатът на „Възраждане“ за президент",
+      "url": "https://dariknews.bg/novini/bylgariia/kostadin-kostadinov-e-kandidatyt-na-vyzrazhdane-za-prezident-2467072",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51313/51313587/991-ratio-kostadin-kostadinov.jpg"
+    },
     {
       "title": "Мъж е задържан за побой над баща си в Разградско",
       "url": "https://dariknews.bg/regioni/razgrad/myzh-e-zadyrzhan-za-poboj-nad-bashta-si-v-razgradsko-2467071",
@@ -135,13 +142,6 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "След трудна година: Биткойнът се върна над 85 000 долара",
-      "url": "https://dariknews.bg/novini/biznes/sled-trudna-godina-bitkojnyt-se-vyrna-nad-85-000-dolara-2467057",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46797/46797667/991-ratio-bitkojn.jpg"
-    },
-    {
       "title": "Какви са шансовете на България в Лигата на нациите? „Лъвовете“ не са фаворити за промоция 22 Сеп | 12:20",
       "url": "https://dsport.bg/kakvi-sa-shansovete-na-balgaria-v-ligata-na-naciite-lavovete-ne-sa-favoriti-za-promocia~240502.html",
       "source": "Dsport",
@@ -170,7 +170,7 @@
       "image": "https://dsport.bg/media/383/710598269_1697688285172434_4212109107621733807_n~1.og.jpg"
     },
     {
-      "title": "НА ЖИВО - „Мач за Мач“: ЦСКА изпусна да е пред Левски, пак МЪКА с БГ НАЦИОНАЛИТЕ 22 Сеп | 11:00",
+      "title": "„Мач за Мач“: ЦСКА изпусна да е пред Левски, пак МЪКА с БГ НАЦИОНАЛИТЕ 22 Сеп | 11:00",
       "url": "https://dsport.bg/mach-za-mach-cska-izpusna-da-e-pred-levski-pak-maka-s-bg-nacionalite~240486.html",
       "source": "Dsport",
       "section": "sport",
