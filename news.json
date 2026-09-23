@@ -1,9 +1,37 @@
 {
-  "updated": "2026-09-23T12:12:58.370665+00:00",
+  "updated": "2026-09-23T12:32:01.836295+00:00",
   "articles": [
     {
-      "title": "ЦИК тегли номерата в бюлетината за президентските избори (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-tegli-nomerata-v-biuletinata-za-prezidentskite-izbori-na-zhivo-2467083",
+      "title": "Правителството съкращава 21 щатни бройки в МОН",
+      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-sykrashtava-21-shtatni-brojki-v-mon-2467178",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386449/991-ratio-georgi-vylchev.jpg"
+    },
+    {
+      "title": "Държавата отпуска 1,8 млн. евро за гориво за спешната помощ",
+      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-otpuska-18-mln.-evro-za-gorivo-za-speshnata-pomosht-2467177",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Задействаха BG-Alert заради голям пожар край хисарското село Песнопой, евакуират хора",
+      "url": "https://dariknews.bg/regioni/plovdiv/zadejstvaha-bg-alert-zaradi-goliam-pozhar-kraj-hisarskoto-selo-pesnopoj-evakuirat-hora-2467176",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+    },
+    {
+      "title": "Хората без доходи, отопляващи се на твърдо гориво, ще получат наведнъж помощта за отопление",
+      "url": "https://dariknews.bg/novini/bylgariia/horata-bez-dohodi-otopliavashti-se-na-tvyrdo-gorivo-shte-poluchat-navednyzh-pomoshtta-za-otoplenie-2467175",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/41011/41011401/991-ratio-pechka-dyrva.jpg"
+    },
+    {
+      "title": "Президентски избори: Кой с кой номер ще е в бюлетината (НА ЖИВО)",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentski-izbori-koj-s-koj-nomer-shte-e-v-biuletinata-na-zhivo-2467083",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386139/991-ratio-cik-tegli-nomerata-v-biuletinata-za-prezidentskite-izbori.jpg"
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
     },
     {
-      "title": "Премиерът Радев разясни защо посланикът ни в ОАЕ е назначен с негов подпис и имало ли е проверка",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-radev-raziasni-zashto-poslanikyt-ni-v-oae-e-naznachen-s-negov-podpis-i-imalo-li-e-proverka-2467160",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
-    },
-    {
-      "title": "Открити на Перперикон фрагменти от статуи показват как са били украсени площадите и храмовете му през III-V век",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/otkriti-na-perperikon-fragmenti-ot-statui-pokazvat-kak-sa-bili-ukraseni-ploshtadite-i-hramovete-mu-prez-iii-v-vek-2467157",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51184/51184262/991-ratio-perperikon.jpg"
-    },
-    {
-      "title": "Феновете ще могат да се поклонят пред гроба на Ален Делон в Души",
-      "url": "https://dariknews.bg/novini/sviat/fenovete-shte-mogat-da-se-pokloniat-pred-groba-na-alen-delon-v-dushi-2467156",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50896/50896494/991-ratio-alen-delon.jpg"
-    },
-    {
-      "title": "Разходите за труд на работодателите са нараснали с 9,9% за година",
-      "url": "https://dariknews.bg/novini/bylgariia/razhodite-za-trud-na-rabotodatelite-sa-narasnali-s-99-za-godina-2467155",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51138/51138962/991-ratio-zhena-rabota.jpg"
+      "title": "Винисиус се чувства длъжник на Реал Мадрид, решен е да обърне ситуацията 23 Сеп | 15:18",
+      "url": "https://dsport.bg/vinisius-se-chuvstva-dlaznik-na-real-madrid-reshen-e-da-obarne-situaciata~240561.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295238278.og.jpg"
     },
     {
       "title": "Еду Гаспар отрязал бразилски гранд заради Левски 23 Сеп | 14:55",
@@ -160,7 +167,7 @@
       "url": "https://dsport.bg/trenorat-na-cska-vze-licenz-pro~240557.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/1025594~1.og.jpg"
+      "image": "https://dsport.bg/media/383/3b8c9591-3063-495b-8a3d-9c7209800cc7.og.jfif"
     },
     {
       "title": "Боливийско дуо от ЦСКА 1948 похвали българския елит, докато чака за визи 23 Сеп | 13:56",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2281778326.og.jpg"
-    },
-    {
-      "title": "Алек Здравков: В Дженоа тренирах при Де Роси 23 Сеп | 11:44",
-      "url": "https://dsport.bg/alek-zdravkov-v-dzenoa-trenirah-pri-de-rosi~240550.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/image_1790144167_49156~1.og.jpeg"
     }
   ]
 }
