@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T19:20:54.605926+00:00",
+  "updated": "2026-09-23T19:32:32.473752+00:00",
   "articles": [
+    {
+      "title": "Близки на Евгения Владимирова протестираха пред Съдебната палата",
+      "url": "https://dariknews.bg/regioni/sofiia/blizki-na-evgeniia-vladimirova-protestiraha-pred-sydebnata-palata-2467215",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386643/991-ratio-evgeniia.jpg"
+    },
     {
       "title": "МВР издирва 70-годишен мъж от Елешница",
       "url": "https://dariknews.bg/regioni/blagoevgrad/mvr-izdirva-70-godishen-myzh-ot-eleshnica-2467214",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/44023/44023610/991-ratio-komari.jpg"
     },
     {
-      "title": "Приключи разследването за убийството на „Невястата“, жертвата е с 14 прободни рани",
-      "url": "https://dariknews.bg/regioni/Smolyan/prikliuchi-razsledvaneto-za-ubijstvoto-na-neviastata-zhertvata-e-s-14-probodni-rani-2467191",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51258/51258494/991-ratio-obvineniiat-v-ubijstvo-nencho-nenchev.jpg"
+      "title": "Мбапе не скри възхищението си от Кристиано 23 Сеп | 22:23",
+      "url": "https://dsport.bg/mbape-ne-skri-vazhistenieto-si-ot-kristiano~240585.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2292793463-1.og.jpg"
     },
     {
       "title": "Хакими ще бъде съден за изнасилване 23 Сеп | 22:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028639~1.og.jpg"
-    },
-    {
-      "title": "Боримиров след жребия за Купата: Ще се отнесем максимално сериозно (ВИДЕО) 23 Сеп | 19:21",
-      "url": "https://dsport.bg/borimirov-sled-zrebia-za-kupata-ste-se-otnesem-maksimalno-seriozno-video~240575.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1029525.og.jpg"
     }
   ]
 }
