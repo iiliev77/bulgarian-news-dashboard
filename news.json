@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-23T05:24:26.680202+00:00",
+  "updated": "2026-09-23T05:35:42.608615+00:00",
   "articles": [
     {
-      "title": "Елегантна и стилна: Мелания Тръмп се озова в светлините на прожекторите в ООН (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/elegantna-i-stilna-melaniia-trymp-se-ozova-v-svetlinite-na-prozhektorite-v-oon-snimki-2467105",
+      "title": "Елегантна и стилна:Мелания Тръмп се завърна под светлините на прожекторите в ООН (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/elegantna-i-stilnamelaniia-trymp-se-zavyrna-pod-svetlinite-na-prozhektorite-v-oon-snimki-2467105",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386217/991-ratio-melaniia-trymp.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Сигурността и войните в центъра на разговорите на световните лидери в ООН",
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Йовичевич надви сръбски легенди за треньорския стол в Лудогорец 23 Сеп | 08:29",
+      "url": "https://dsport.bg/iovichevich-nadvi-srabski-legenda-za-stola-v-razgrad~240542.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/793735.og.jpg"
+    },
+    {
       "title": "Ливърпул напът към стар шеф 23 Сеп | 08:15",
       "url": "https://dsport.bg/livarpul-na-lov-za-nov-shef~240541.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296251139.og.jpg"
-    },
-    {
-      "title": "Микел Артета се разбра с Арсенал за новия си договор 22 Сеп | 22:01",
-      "url": "https://dsport.bg/mikel-arteta-se-razbra-s-arsenal-za-novia-si-dogovor~240531.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2274696992-1-1.og.jpg"
     }
   ]
 }
