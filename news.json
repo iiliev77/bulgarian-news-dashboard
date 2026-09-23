@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-23T12:49:39.395809+00:00",
+  "updated": "2026-09-23T13:00:21.942019+00:00",
   "articles": [
+    {
+      "title": "Нови такси във въздухоплаването ще носят над 626 хил. евро годишно",
+      "url": "https://dariknews.bg/novini/bylgariia/novi-taksi-vyv-vyzduhoplavaneto-shte-nosiat-nad-626-hil.-evro-godishno-2467185",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
+    },
+    {
+      "title": "Кабинетът отпуска 263 000 евро за реставрация и пожарна система на Рилския манастир",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/kabinetyt-otpuska-263-000-evro-za-restavraciia-i-pozharna-sistema-na-rilskiia-manastir-2467184",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50765/50765706/991-ratio-rilski-manastir.jpg"
+    },
+    {
+      "title": "Отпуснаха 920 300 евро за БЧК: 154 300 евро са за Планинската спасителна служба",
+      "url": "https://dariknews.bg/novini/bylgariia/otpusnaha-920-300-evro-za-bchk-154-300-evro-sa-za-planinskata-spasitelna-sluzhba-2467182",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49386/49386926/991-ratio-bchk-ukrajna.jpg"
+    },
+    {
+      "title": "Българин е заловен в Румъния с 3 килограма кокаин и 11 килограма канабис",
+      "url": "https://dariknews.bg/novini/sviat/bylgarin-e-zaloven-v-rumyniia-s-3-kilograma-kokain-i-11-kilograma-kanabis-2467183",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35284/35284554/991-ratio-rumyniia-policiia.jpg"
+    },
     {
       "title": "В Стара Загора ще има Център за върхови постижения в областта на чистите водородни технологии",
       "url": "https://dariknews.bg/regioni/stara-zagora/v-stara-zagora-shte-ima-centyr-za-vyrhovi-postizheniia-v-oblastta-na-chistite-vodorodni-tehnologii-2467180",
@@ -52,7 +80,7 @@
     },
     {
       "title": "Президентски избори: Кой с кой номер ще е в бюлетината",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentski-izbori-koj-s-koj-nomer-shte-e-v-biuletinata-2467083",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/prezidentski-izbori-koj-s-koj-nomer-shte-e-v-biuletinata-2467083",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386459/991-ratio-cik.jpg"
@@ -112,34 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51167/51167403/991-ratio-klon-dyrvo-schupeno.jpg"
-    },
-    {
-      "title": "Стадо диви свине се засели край луксозен комплекс в подножието на Витоша",
-      "url": "https://dariknews.bg/regioni/sofiia/stado-divi-svine-se-zaseli-kraj-luksozen-kompleks-v-podnozhieto-na-vitosha-2467164",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386429/991-ratio-stado-divi-svine.jpg"
-    },
-    {
-      "title": "Ударна акция в Кюстендил: Спипаха хиляди бутилки алкохол със стари бандероли в гараж",
-      "url": "https://dariknews.bg/regioni/kiustendil/udarna-akciia-v-kiustendil-spipaha-hiliadi-butilki-alkohol-sys-stari-banderoli-v-garazh-2467165",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/40969/40969976/991-ratio-uiski.jpg"
-    },
-    {
-      "title": "Прагът за задължителна регистрация по ДДС се повишава над 75 хил. евро",
-      "url": "https://dariknews.bg/novini/bylgariia/pragyt-za-zadylzhitelna-registraciia-po-dds-se-povishava-nad-75-hil.-evro-2467166",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45345/45345117/991-ratio-registraciia-na-firma.jpg"
-    },
-    {
-      "title": "Обвиняемият за убийството в Първомай остава в ареста: Не признава вина",
-      "url": "https://dariknews.bg/regioni/plovdiv/obviniaemiiat-za-ubijstvoto-v-pyrvomaj-ostava-v-aresta-ne-priznava-vina-2467161",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386419/991-ratio-ivelin-cvetanov.jpg"
     },
     {
       "title": "Бленджини започна новото си предизвикателство след Евроволей 2026 23 Сеп | 15:38",
