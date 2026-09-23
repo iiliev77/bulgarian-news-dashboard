@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T16:00:20.728530+00:00",
+  "updated": "2026-09-23T16:16:40.347343+00:00",
   "articles": [
     {
       "title": "Парламентът задейства промени в Закона за държавния резерв: Какво означава това за доставките при кризи",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/35341/35341598/991-ratio-nakazatelen-kodeks.jpg"
     },
     {
+      "title": "Караманджуков: Единствено сме разговаряли с Игор Йовичевич (ВИДЕО) 23 Сеп | 19:08",
+      "url": "https://dsport.bg/karamandzukov-edinstveno-sme-razgovarali-s-igor-iovichevich-video~240574.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029550.og.jpg"
+    },
+    {
+      "title": "Михаил Александров: ЦСКА е в много сериозно търсене на правилния избор за треньор (ВИДЕО) 23 Сеп | 18:59",
+      "url": "https://dsport.bg/mihail-aleksandrov-cska-e-v-mnogo-seriozno-tarsene-na-pravilnia-izbor-za-trenor-video~240573.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/977918~2.og.jpg"
+    },
+    {
       "title": "ЦСКА и Левски научиха първите си съперници за Sesame Купа на България 23 Сеп | 18:39",
       "url": "https://dsport.bg/ochakvaite-na-zivo-zrebiat-za-sesame-kupa-na-balgaria~240559.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-23_16-33-17-860.og.jpg"
-    },
-    {
-      "title": "Карачанаков става играещ помощник-треньор 23 Сеп | 16:30",
-      "url": "https://dsport.bg/karachanakov-stava-igraest-pomostnik-trenor~240565.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-04_32_46-pm.og.png"
-    },
-    {
-      "title": "Стадионът на фалирал финалист в Лига Европа отива на търг за изненадваща цена 23 Сеп | 16:04",
-      "url": "https://dsport.bg/stadionat-na-faliral-finalist-v-liga-evropa-otiva-na-targ-za-iznenadvasta-cena~240563.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1233252850.og.jpg"
     }
   ]
 }
