@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T17:05:08.430632+00:00",
+  "updated": "2026-09-23T17:20:35.911539+00:00",
   "articles": [
+    {
+      "title": "21-годишен се вряза в автобус край прохода „Стражата“, блокиран е Подбалканският път",
+      "url": "https://dariknews.bg/regioni/plovdiv/21-godishen-se-vriaza-v-avtobus-kraj-prohoda-strazhata-blokiran-e-podbalkanskiiat-pyt-2467207",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Катастрофа между трамвай и кола блокира движението на пл. „Журналист“ в София",
+      "url": "https://dariknews.bg/regioni/sofiia/katastrofa-mezhdu-tramvaj-i-kola-blokira-dvizhenieto-na-pl.-zhurnalist-v-sofiia-2467206",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386606/991-ratio-katastrofa-ploshtad-zhurnalist.jpg"
+    },
     {
       "title": "Заради украинското знаме на „Московска“ 33: Протест и контрапротест пред СО",
       "url": "https://dariknews.bg/regioni/sofiia/zaradi-ukrainskoto-zname-na-moskovska-33-protest-i-kontraprotest-pred-so-2467205",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386467/991-ratio-varna-nagradeni-mladezhi.jpg"
     },
     {
-      "title": "Нови такси във въздухоплаването ще носят над 626 хил. евро годишно",
-      "url": "https://dariknews.bg/novini/bylgariia/novi-taksi-vyv-vyzduhoplavaneto-shte-nosiat-nad-626-hil.-evro-godishno-2467185",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
-    },
-    {
-      "title": "Кабинетът отпуска 263 000 евро за реставрация и пожарна система на Рилския манастир",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/kabinetyt-otpuska-263-000-evro-za-restavraciia-i-pozharna-sistema-na-rilskiia-manastir-2467184",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50765/50765706/991-ratio-rilski-manastir.jpg"
+      "title": "УС на Федерацията по борба с позиция: Ние реално работим за обединението на българската борба 23 Сеп | 20:17",
+      "url": "https://dsport.bg/us-na-federaciata-po-borba-s-pozicia-nie-realno-rabotim-za-obedinenieto-na-balgarskata-borba~240578.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/741975-1-2-1~1.og.jpg"
     },
     {
       "title": "Станимира Петрова: До Олимпийските игри в Лос Анджелис продължавам 23 Сеп | 19:57",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2204223423-1.og.jpg"
-    },
-    {
-      "title": "Аркада спря Уилиам Чолов на Европейското 23 Сеп | 17:22",
-      "url": "https://dsport.bg/arkada-spra-uiliam-cholov-na-evropeiskoto~240569.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1029485.og.jpg"
     }
   ]
 }
