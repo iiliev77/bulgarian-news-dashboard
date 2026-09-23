@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T03:11:33.818428+00:00",
+  "updated": "2026-09-23T03:26:10.819297+00:00",
   "articles": [
+    {
+      "title": "Първият есенен ден: Какво време ни очаква?",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrviiat-esenen-den-kakvo-vreme-ni-ochakva-2467085",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385353/991-ratio-esen-lista-viatyr.jpg"
+    },
     {
       "title": "Близо 5,5 млн. опаковки антибиотици са употребени за година: Предупреждават за резистентност",
       "url": "https://dariknews.bg/novini/bylgariia/blizo-55-mln.-opakovki-antibiotici-sa-upotrebeni-za-godina-preduprezhdavat-za-rezistentnost-2467098",
@@ -133,13 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386119/991-ratio-ana-mariia-ribejro-da-silva.jpg"
-    },
-    {
-      "title": "Иван Христанов се кандидатира за изборите за президент: Най-важната задача е да стигнем до балотаж",
-      "url": "https://dariknews.bg/novini/bylgariia/ivan-hristanov-se-kandidatira-za-izborite-za-prezident-naj-vazhnata-zadacha-e-da-stignem-do-balotazh-2467074",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386085/991-ratio-hristanov.jpg"
     },
     {
       "title": "Рафиня с изненадващ ход преди подписването на новия си договор с Барса 22 Сеп | 23:59",
