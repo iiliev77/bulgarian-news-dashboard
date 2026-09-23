@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T14:59:04.747336+00:00",
+  "updated": "2026-09-23T15:12:26.614631+00:00",
   "articles": [
+    {
+      "title": "Спецакция срещу наркоразпространението в Челопеч: Задържаха 24-годишен",
+      "url": "https://dariknews.bg/regioni/sofiia/specakciia-sreshtu-narkorazprostranenieto-v-chelopech-zadyrzhaha-24-godishen-2467200",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386538/991-ratio-narkotici.jpg"
+    },
     {
       "title": "Оставиха окончателно в ареста двамата обвиняеми за убийството в Сунгурларе",
       "url": "https://dariknews.bg/regioni/burgas/ostaviha-okonchatelno-v-aresta-dvamata-obviniaemi-za-ubijstvoto-v-sungurlare-2467199",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386449/991-ratio-georgi-vylchev.jpg"
     },
     {
-      "title": "Държавата отпуска 1,8 млн. евро за гориво за спешната помощ",
-      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-otpuska-18-mln.-evro-za-gorivo-za-speshnata-pomosht-2467177",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
+      "title": "На живо: жребият за Sesame Купа на България 23 Сеп | 18:00",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-zrebiat-za-sesame-kupa-na-balgaria~240559.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-02_28_20-pm.og.png"
     },
     {
       "title": "Олимпийски шампион в биатлона пропуска следващия сезон 23 Сеп | 17:56",
@@ -154,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2204223423-1.og.jpg"
-    },
-    {
-      "title": "Очаквайте на живо: жребият за Sesame Купа на България 23 Сеп | 17:30",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-zrebiat-za-sesame-kupa-na-balgaria~240559.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-02_28_20-pm.og.png"
     },
     {
       "title": "Аркада спря Уилиам Чолов на Европейското 23 Сеп | 17:22",
