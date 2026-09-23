@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T13:55:00.659451+00:00",
+  "updated": "2026-09-23T14:05:26.718874+00:00",
   "articles": [
+    {
+      "title": "Съветът на жените в бизнеса в България дава старт на петото издание на годишните си награди",
+      "url": "https://dariknews.bg/novini/biznes/syvetyt-na-zhenite-v-biznesa-v-bylgariia-dava-start-na-petoto-izdanie-na-godishnite-si-nagradi-2467194",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386513/991-ratio-syvetyt-na-zhenite-v-biznesa.jpg"
+    },
     {
       "title": "Мъж отива на съд за опит за убийство в Калофер",
       "url": "https://dariknews.bg/regioni/plovdiv/myzh-otiva-na-syd-za-opit-za-ubijstvo-v-kalofer-2467193",
@@ -9,18 +16,18 @@
       "image": "https://m.netinfo.bg/media/images/38436/38436776/991-ratio-syd-temida.jpg"
     },
     {
-      "title": "Приключи разследването за убийството на „Невястата“, жертвата е с 14 прободни рани",
-      "url": "https://dariknews.bg/regioni/Smolyan/prikliuchi-razsledvaneto-za-ubijstvoto-na-neviastata-zhertvata-e-s-14-probodni-rani-2467191",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51258/51258494/991-ratio-obvineniiat-v-ubijstvo-nencho-nenchev.jpg"
-    },
-    {
       "title": "„Летищна“ малария в Германия - колко е опасна",
       "url": "https://dariknews.bg/novini/sviat/letishtna-malariia-v-germaniia-kolko-e-opasna-2467192",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/44023/44023610/991-ratio-komari.jpg"
+    },
+    {
+      "title": "Приключи разследването за убийството на „Невястата“, жертвата е с 14 прободни рани",
+      "url": "https://dariknews.bg/regioni/Smolyan/prikliuchi-razsledvaneto-za-ubijstvoto-na-neviastata-zhertvata-e-s-14-probodni-rani-2467191",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51258/51258494/991-ratio-obvineniiat-v-ubijstvo-nencho-nenchev.jpg"
     },
     {
       "title": "Доклад: Показателите за живот в добро здраве у нас вече достигат целите за 2030 г.",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/41011/41011401/991-ratio-pechka-dyrva.jpg"
     },
     {
-      "title": "Президентски избори: Кой с кой номер ще е в бюлетината",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/prezidentski-izbori-koj-s-koj-nomer-shte-e-v-biuletinata-2467083",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386459/991-ratio-cik.jpg"
+      "title": "Спортното шоу на Дарик - 23.09.2026 г. 23 Сеп | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-23-09-2026-g~240567.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/viber_image_2026-09-23_17-01-08-071.og.png"
     },
     {
       "title": "Къде презаредиха батериите играчите на Левски и ЦСКА? (ГАЛЕРИЯ) 23 Сеп | 16:49",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1016099.og.jpg"
-    },
-    {
-      "title": "Рупанов за контузията, баса с Ники Митов, Подолски и Хулио Веласкес (ВИДЕО) 23 Сеп | 13:35",
-      "url": "https://dsport.bg/rupanov-za-kontuziata-basa-s-niki-mitov-podolski-i-hulio-velaskes-video~240555.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-01_30_49-pm.og.png"
     }
   ]
 }
