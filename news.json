@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:27:01.591837+00:00",
+  "updated": "2026-09-23T10:39:54.984130+00:00",
   "articles": [
     {
       "title": "Разходите за труд на работодателите са нараснали с 9,9% за година",
@@ -9,15 +9,15 @@
       "image": "https://m.netinfo.bg/media/images/51138/51138962/991-ratio-zhena-rabota.jpg"
     },
     {
-      "title": "Кафене в Лима сервира напитки с лика на папа Лъв XIV (СНИМКА)",
-      "url": "https://dariknews.bg/novini/liubopitno/kafene-v-lima-servira-napitki-s-lika-na-papa-lyv-xiv-snimka-2467154",
+      "title": "Ликът на папа Лъв XIV грейна върху капучино в Лима (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/likyt-na-papa-lyv-xiv-grejna-vyrhu-kapuchino-v-lima-snimki-2467154",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51103/51103202/991-ratio-papa-lyv.jpg"
     },
     {
-      "title": "С положителна проба за над 2 промила алкохол: Хванаха 33-годишен да кара електрически скутер в Септември",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/s-polozhitelna-proba-za-nad-2-promila-alkohol-hvanaha-33-godishen-da-kara-elektricheski-skuter-v-septemvri-2467153",
+      "title": "С положителна проба от над 2 промила: Хванаха мъж да кара електрически скутер в Септември",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/s-polozhitelna-proba-ot-nad-2-promila-hvanaha-myzh-da-kara-elektricheski-skuter-v-septemvri-2467153",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51214/51214871/991-ratio-test-s-dreger.jpg"
@@ -121,8 +121,8 @@
       "image": "https://m.netinfo.bg/media/images/51221/51221999/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Тежка катастрофа с три жертви на пътя Казанлък - Стара Загора, движението е затворено (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/tezhka-katastrofa-s-tri-zhertvi-na-pytia-kazanlyk-stara-zagora-dvizhenieto-e-zatvoreno-videosnimki-2467137",
+      "title": "Син изхвърлил баща си от колата, преди да се забие челно в друга: Трима загинаха (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sin-izhvyrlil-bashta-si-ot-kolata-predi-da-se-zabie-chelno-v-druga-trima-zaginaha-videosnimki-2467137",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Рупанов за контузията, баса с Ники Митов, Подолски и Хулио Веласкес (ВИДЕО) 23 Сеп | 13:35",
+      "url": "https://dsport.bg/rupanov-za-kontuziata-basa-s-niki-mitov-podolski-i-hulio-velaskes-video~240555.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-01_30_49-pm.og.png"
     },
     {
       "title": "Официално: Лудогорец върна начело носител на требъл 23 Сеп | 13:23",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-1302-.og.png"
-    },
-    {
-      "title": "Доскорошен член на Първа лига остана без треньор 23 Сеп | 09:27",
-      "url": "https://dsport.bg/doskoroshen-chlen-na-parva-liga-ostana-bez-trenor~240546.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1028676.og.jpg"
     }
   ]
 }
