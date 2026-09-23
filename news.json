@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:17:19.420054+00:00",
+  "updated": "2026-09-23T20:30:41.047724+00:00",
   "articles": [
     {
       "title": "Синът на израелския посланик в САЩ е ранен при нападение в Западния бряг",
@@ -121,13 +121,6 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386532/991-ratio-okryzhniiat-syd-v-burgas-ostavi-v-aresta-dvama-obviniaemi-za.jpg"
     },
     {
-      "title": "Внимание, падат първите слани: Има опасност за 7 области в четвъртък",
-      "url": "https://dariknews.bg/regioni/kiustendil/vnimanie-padat-pyrvite-slani-ima-opasnost-za-7-oblasti-v-chetvyrtyk-2467198",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
       "title": "Путин: Рекордната избирателна активност показа подкрепа за политиката на Русия",
       "url": "https://dariknews.bg/novini/sviat/putin-rekordnata-izbiratelna-aktivnost-pokaza-podkrepa-za-politikata-na-rusiia-2467196",
       "source": "DarikNews",
@@ -140,6 +133,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386513/991-ratio-syvetyt-na-zhenite-v-biznesa.jpg"
+    },
+    {
+      "title": "Мъж отива на съд за опит за убийство в Калофер",
+      "url": "https://dariknews.bg/regioni/plovdiv/myzh-otiva-na-syd-za-opit-za-ubijstvo-v-kalofer-2467193",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38436/38436776/991-ratio-syd-temida.jpg"
+    },
+    {
+      "title": "Съперник на Левски в Лига Европа може да смени треньора преди мача със „сините“ 23 Сеп | 23:19",
+      "url": "https://dsport.bg/sapernik-na-levski-v-liga-evropa-moze-da-smeni-trenora-predi-macha-sas-sinite~240588.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2166068302~1.og.jpg"
     },
     {
       "title": "Бранител на Тотнъм аут за месец 23 Сеп | 23:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2294876557~1.og.jpg"
-    },
-    {
-      "title": "УС на Федерацията по борба с позиция: Ние реално работим за обединението на българската борба 23 Сеп | 20:17",
-      "url": "https://dsport.bg/us-na-federaciata-po-borba-s-pozicia-nie-realno-rabotim-za-obedinenieto-na-balgarskata-borba~240578.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/741975-1-2-1~1.og.jpg"
     }
   ]
 }
