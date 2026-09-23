@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-23T10:12:45.209016+00:00",
+  "updated": "2026-09-23T10:27:01.591837+00:00",
   "articles": [
+    {
+      "title": "Разходите за труд на работодателите са нараснали с 9,9% за година",
+      "url": "https://dariknews.bg/novini/bylgariia/razhodite-za-trud-na-rabotodatelite-sa-narasnali-s-99-za-godina-2467155",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51138/51138962/991-ratio-zhena-rabota.jpg"
+    },
+    {
+      "title": "Кафене в Лима сервира напитки с лика на папа Лъв XIV (СНИМКА)",
+      "url": "https://dariknews.bg/novini/liubopitno/kafene-v-lima-servira-napitki-s-lika-na-papa-lyv-xiv-snimka-2467154",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51103/51103202/991-ratio-papa-lyv.jpg"
+    },
+    {
+      "title": "С положителна проба за над 2 промила алкохол: Хванаха 33-годишен да кара електрически скутер в Септември",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/s-polozhitelna-proba-za-nad-2-promila-alkohol-hvanaha-33-godishen-da-kara-elektricheski-skuter-v-septemvri-2467153",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51214/51214871/991-ratio-test-s-dreger.jpg"
+    },
+    {
+      "title": "Историческо откритие край Бургас: Русокастро крие средновековна работилница за луксозно стъкло (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/burgas/istorichesko-otkritie-kraj-burgas-rusokastro-krie-srednovekovna-rabotilnica-za-luksozno-styklo-snimki-2467152",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386372/991-ratio-rusokastro-razkopki.jpg"
+    },
     {
       "title": "След месец разследване: Разкриха извършителя на домова кражба в село Ивайло",
       "url": "https://dariknews.bg/regioni/Pazardzhik/sled-mesec-razsledvane-razkriha-izvyrshitelia-na-domova-krazhba-v-selo-ivajlo-2467149",
@@ -114,32 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Шофьор се удари в дърво край Брестовене, в болница е",
-      "url": "https://dariknews.bg/regioni/razgrad/shofior-se-udari-v-dyrvo-kraj-brestovene-v-bolnica-e-2467133",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51255/51255346/991-ratio-udar-na-kola-v-dyrvo.jpg"
-    },
-    {
-      "title": "Моторист загуби контрол на завой и се блъсна в кола на пътя Разград – Исперих",
-      "url": "https://dariknews.bg/regioni/razgrad/motorist-zagubi-kontrol-na-zavoj-i-se-blysna-v-kola-na-pytia-razgrad-isperih-2467132",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
-    },
-    {
-      "title": "След шест години съдебна сага: Харви Уайнстийн пак пред съда",
-      "url": "https://dariknews.bg/novini/sviat/sled-shest-godini-sydebna-saga-harvi-uajnstijn-pak-pred-syda-2467134",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44241/44241323/991-ratio-harvi-uajnstijn.jpg"
-    },
-    {
-      "title": "Каква реформа искат учителите: Повече права и по-малко административна тежест",
-      "url": "https://dariknews.bg/novini/bylgariia/kakva-reforma-iskat-uchitelite-poveche-prava-i-po-malko-administrativna-tezhest-2467131",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44471/44471299/991-ratio-uchitel.jpg"
+      "title": "Официално: Лудогорец върна начело носител на требъл 23 Сеп | 13:23",
+      "url": "https://dsport.bg/oficialno-ludogorec-varna-nachelo-nositel-na-trebal~240554.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/772379~1.og.jpg"
     },
     {
       "title": "Ботев Враца с трето ембарго от ФИФА 23 Сеп | 12:55",
@@ -167,7 +174,7 @@
       "url": "https://dsport.bg/alek-zdravkov-v-dzenoa-trenirah-pri-de-rosi~240550.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/image_1790144167_49156.og.jpeg"
+      "image": "https://dsport.bg/media/383/image_1790144167_49156~1.og.jpeg"
     },
     {
       "title": "Български вратар в обектива на грандове от Италия, Испания и Германия 23 Сеп | 11:15",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028676.og.jpg"
-    },
-    {
-      "title": "Откраднаха луксозна кола от дома на Симон Байлс 23 Сеп | 09:14",
-      "url": "https://dsport.bg/otkradnaha-luksozna-kola-ot-doma-na-simon-bails~240544.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2294235286.og.jpg"
     }
   ]
 }
