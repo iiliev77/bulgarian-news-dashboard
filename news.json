@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T14:48:49.927762+00:00",
+  "updated": "2026-09-23T14:59:04.747336+00:00",
   "articles": [
+    {
+      "title": "Оставиха окончателно в ареста двамата обвиняеми за убийството в Сунгурларе",
+      "url": "https://dariknews.bg/regioni/burgas/ostaviha-okonchatelno-v-aresta-dvamata-obviniaemi-za-ubijstvoto-v-sungurlare-2467199",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386532/991-ratio-okryzhniiat-syd-v-burgas-ostavi-v-aresta-dvama-obviniaemi-za.jpg"
+    },
     {
       "title": "Внимание, падат първите слани: Има опасност за 7 области в четвъртък",
       "url": "https://dariknews.bg/regioni/kiustendil/vnimanie-padat-pyrvite-slani-ima-opasnost-za-7-oblasti-v-chetvyrtyk-2467198",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
     },
     {
-      "title": "В Обсерваторията „Рожен“ монтираха антените на първия професионален радиотелескоп в България (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/Smolyan/v-observatoriiata-rozhen-montiraha-antenite-na-pyrviia-profesionalen-radioteleskop-v-bylgariia-snimki-2467179",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386450/991-ratio-radioteleskop-rozhen.jpg"
+      "title": "Олимпийски шампион в биатлона пропуска следващия сезон 23 Сеп | 17:56",
+      "url": "https://dsport.bg/olimpiiski-shampion-v-biatlona-propuska-sledvastia-sezon~240571.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/657395202_18582646831022506_3298782048262172944_n~1.og.jpg"
     },
     {
       "title": "Алаба става съотборник на бивш халф на Лудогорец 23 Сеп | 17:41",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/790412025_2912765312415438_1430200134812652928_n.og.jpg"
-    },
-    {
-      "title": "Винисиус се чувства длъжник на Реал Мадрид, решен е да обърне ситуацията 23 Сеп | 15:18",
-      "url": "https://dsport.bg/vinisius-se-chuvstva-dlaznik-na-real-madrid-reshen-e-da-obarne-situaciata~240561.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295238278.og.jpg"
     }
   ]
 }
