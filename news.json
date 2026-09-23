@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-23T13:31:45.411554+00:00",
+  "updated": "2026-09-23T13:46:28.522924+00:00",
   "articles": [
+    {
+      "title": "Мъж отива на съд за опит за убийство в Калофер",
+      "url": "https://dariknews.bg/regioni/plovdiv/myzh-otiva-na-syd-za-opit-za-ubijstvo-v-kalofer-2467193",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38436/38436776/991-ratio-syd-temida.jpg"
+    },
+    {
+      "title": "„Летищна“ малария в Германия - колко е опасна?",
+      "url": "https://dariknews.bg/novini/sviat/letishtna-malariia-v-germaniia-kolko-e-opasna-2467192",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44023/44023610/991-ratio-komari.jpg"
+    },
+    {
+      "title": "Приключи разследването за убийството на „Невястата“, жертвата е с 14 прободни рани",
+      "url": "https://dariknews.bg/regioni/Smolyan/prikliuchi-razsledvaneto-za-ubijstvoto-na-neviastata-zhertvata-e-s-14-probodni-rani-2467191",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51258/51258494/991-ratio-obvineniiat-v-ubijstvo-nencho-nenchev.jpg"
+    },
     {
       "title": "Доклад: Показателите за живот в добро здраве у нас вече достигат целите за 2030 г.",
       "url": "https://dariknews.bg/novini/bylgariia/doklad-pokazatelite-za-zhivot-v-dobro-zdrave-u-nas-veche-dostigat-celite-za-2030-g-2467189",
@@ -100,11 +121,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386450/991-ratio-radioteleskop-rozhen.jpg"
     },
     {
-      "title": "Задействаха BG-Alert заради голям пожар край хисарското село Песнопой, евакуират хора",
-      "url": "https://dariknews.bg/regioni/plovdiv/zadejstvaha-bg-alert-zaradi-goliam-pozhar-kraj-hisarskoto-selo-pesnopoj-evakuirat-hora-2467176",
+      "title": "Задействаха BG-Alert заради голям пожар край хисарското село Песнопой, евакуират хора (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/plovdiv/zadejstvaha-bg-alert-zaradi-goliam-pozhar-kraj-hisarskoto-selo-pesnopoj-evakuirat-hora-video-2467176",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Хората без доходи, отопляващи се на твърдо гориво, ще получат наведнъж помощта за отопление",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386459/991-ratio-cik.jpg"
     },
     {
-      "title": "Катастрофа с две жертви край Котел",
-      "url": "https://dariknews.bg/regioni/sliven/katastrofa-s-dve-zhertvi-kraj-kotel-2467173",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
-    },
-    {
-      "title": "Близо 3 млн. евро за общините за безплатния транспорт на деца и ученици",
-      "url": "https://dariknews.bg/novini/bylgariia/blizo-3-mln.-evro-za-obshtinite-za-bezplatniia-transport-na-deca-i-uchenici-2467172",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44305/44305661/991-ratio-uchilishten-avtobus.jpg"
-    },
-    {
-      "title": "33% данък върху свръхпечалбите на банки и още сектори се обсъжда за 2027 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/33-danyk-vyrhu-svryhpechalbite-na-banki-i-oshte-sektori-se-obsyzhda-za-2027-g-2467174",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51292/51292792/991-ratio-evro.jpg"
+      "title": "Карачанаков става играещ помощник-треньор 23 Сеп | 16:30",
+      "url": "https://dsport.bg/karachanakov-stava-igraest-pomostnik-trenor~240565.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-04_32_46-pm.og.png"
     },
     {
       "title": "Стадионът на фалирал финалист в Лига Европа отива на търг за изненадваща цена 23 Сеп | 16:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/772379~1.og.jpg"
-    },
-    {
-      "title": "Ботев Враца с трето ембарго от ФИФА 23 Сеп | 12:55",
-      "url": "https://dsport.bg/botev-vraca-s-treto-embargo-ot-fifa~240553.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/993844~1.og.jpg"
     }
   ]
 }
