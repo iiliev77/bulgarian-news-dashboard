@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T16:16:40.347343+00:00",
+  "updated": "2026-09-23T16:31:46.772040+00:00",
   "articles": [
+    {
+      "title": "Общи проекти в областта на високите технологии обсъди Йотова с швейцарския президент",
+      "url": "https://dariknews.bg/novini/sviat/obshti-proekti-v-oblastta-na-visokite-tehnologii-obsydi-iotova-s-shvejcarskiia-prezident-2467203",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386584/991-ratio-gi-parmelen-i-iotova.jpg"
+    },
+    {
+      "title": "Столична община за хорото пред Народния театър: Това е провокация",
+      "url": "https://dariknews.bg/regioni/sofiia/stolichna-obshtina-za-horoto-pred-narodniia-teatyr-tova-e-provokaciia-2467202",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386573/991-ratio-irina-dakova.jpg"
+    },
     {
       "title": "Парламентът задейства промени в Закона за държавния резерв: Какво означава това за доставките при кризи",
       "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-zadejstva-promeni-v-zakona-za-dyrzhavniia-rezerv-kakvo-oznachava-tova-za-dostavkite-pri-krizi-2467201",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/35284/35284554/991-ratio-rumyniia-policiia.jpg"
     },
     {
-      "title": "В Стара Загора ще има Център за върхови постижения в областта на чистите водородни технологии",
-      "url": "https://dariknews.bg/regioni/stara-zagora/v-stara-zagora-shte-ima-centyr-za-vyrhovi-postizheniia-v-oblastta-na-chistite-vodorodni-tehnologii-2467180",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386456/991-ratio-vodorodni-tehnologii.jpg"
-    },
-    {
-      "title": "Промени в Наказателния кодекс засилват защитата на финансовите интереси на ЕС",
-      "url": "https://dariknews.bg/novini/bylgariia/promeni-v-nakazatelniia-kodeks-zasilvat-zashtitata-na-finansovite-interesi-na-es-2467181",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35341/35341598/991-ratio-nakazatelen-kodeks.jpg"
+      "title": "Боримиров след жребия за Купата: Ще се отнесем максимално сериозно (ВИДЕО) 23 Сеп | 19:16",
+      "url": "https://dsport.bg/borimirov-sled-zrebia-za-kupata-ste-se-otnesem-maksimalno-seriozno-video~240575.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029525.og.jpg"
     },
     {
       "title": "Караманджуков: Единствено сме разговаряли с Игор Йовичевич (ВИДЕО) 23 Сеп | 19:08",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-23_17-01-08-071.og.png"
-    },
-    {
-      "title": "Къде презаредиха батериите играчите на Левски и ЦСКА? (ГАЛЕРИЯ) 23 Сеп | 16:49",
-      "url": "https://dsport.bg/kade-prezarediha-bateriite-igrachite-na-levski-i-cska-galeria~240566.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/viber_image_2026-09-23_16-33-17-860.og.jpg"
     }
   ]
 }
