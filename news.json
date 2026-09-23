@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T14:22:02.615908+00:00",
+  "updated": "2026-09-23T14:35:42.648469+00:00",
   "articles": [
+    {
+      "title": "Внимание, падат първите слани: Има опасност за 7 области в четвъртък",
+      "url": "https://dariknews.bg/regioni/kiustendil/vnimanie-padat-pyrvite-slani-ima-opasnost-za-7-oblasti-v-chetvyrtyk-2467198",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51311/51311702/991-ratio-slana.jpg"
+    },
     {
       "title": "Путин: Рекордната избирателна активност показа подкрепа за политиката на Русия",
       "url": "https://dariknews.bg/novini/sviat/putin-rekordnata-izbiratelna-aktivnost-pokaza-podkrepa-za-politikata-na-rusiia-2467196",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386450/991-ratio-radioteleskop-rozhen.jpg"
     },
     {
-      "title": "Задействаха BG-Alert заради огромен пожар край хисарското село Песнопой, евакуираха хора (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/plovdiv/zadejstvaha-bg-alert-zaradi-ogromen-pozhar-kraj-hisarskoto-selo-pesnopoj-evakuiraha-hora-snimkivideo-2467176",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Очаквайте на живо: жребият за Sesame Купа на България 23 Сеп | 17:30",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-zrebiat-za-sesame-kupa-na-balgaria~240559.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-23-2026-02_28_20-pm.og.png"
+    },
+    {
+      "title": "Аркада спря Уилиам Чолов на Европейското 23 Сеп | 17:22",
+      "url": "https://dsport.bg/arkada-spra-uiliam-cholov-na-evropeiskoto~240569.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029485.og.jpg"
     },
     {
       "title": "Радослав Росенов донесе първия медал за България от Европейското първенство по бокс в София 23 Сеп | 17:09",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1028409.og.jpg"
-    },
-    {
-      "title": "Гидженов с престижен наряд от ФИФА, пропуска заключителната част от годината у нас 23 Сеп | 14:32",
-      "url": "https://dsport.bg/gidzenov-s-prestizen-narad-ot-fifa-propuska-zakluchitelnata-chast-ot-godinata-u-nas~240558.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2231592447~1.og.jpg"
-    },
-    {
-      "title": "Треньорът на ЦСКА взе лиценз Про 23 Сеп | 14:15",
-      "url": "https://dsport.bg/trenorat-na-cska-vze-licenz-pro~240557.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/3b8c9591-3063-495b-8a3d-9c7209800cc7.og.jfif"
     }
   ]
 }
