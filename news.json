@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-23T09:12:31.058513+00:00",
+  "updated": "2026-09-23T09:26:47.529283+00:00",
   "articles": [
+    {
+      "title": "Демерджиев: Фирмата, която е платила полетите и е предоставила самолета, за да го използва Пеевски, е на баща му",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-firmata-koiato-e-platila-poletite-i-e-predostavila-samoleta-za-da-go-izpolzva-peevski-e-na-bashta-mu-2467142",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379569/991-ratio-ivan-demerdzhiev.jpg"
+    },
+    {
+      "title": "Шофьор с положителна проба за алкохол блъсна паркирана кола в Разград",
+      "url": "https://dariknews.bg/regioni/razgrad/shofior-s-polozhitelna-proba-za-alkohol-blysna-parkirana-kola-v-razgrad-2467141",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51028/51028958/991-ratio-kola-udarena-kola-katastrofa-avtomobil.jpg"
+    },
+    {
+      "title": "Постоянен арест за мъж, нападнал с юмруци и заплашвал с нож бившата си приятелка след отказ на пари",
+      "url": "https://dariknews.bg/regioni/stara-zagora/postoianen-arest-za-myzh-napadnal-s-iumruci-i-zaplashval-s-nozh-bivshata-si-priiatelka-sled-otkaz-na-pari-2467140",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51110/51110279/991-ratio-domashno-nasilie.jpg"
+    },
     {
       "title": "Първият за сезона сняг заваля в Румъния (СНИМКИ)",
       "url": "https://dariknews.bg/novini/sviat/pyrviiat-za-sezona-sniag-zavalia-v-rumyniia-snimki-2467139",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386297/991-ratio-motoped.jpg"
     },
     {
-      "title": "Затвориха второто ниво на Колизеума в Рим след смъртта на работник",
-      "url": "https://dariknews.bg/novini/sviat/zatvoriha-vtoroto-nivo-na-kolizeuma-v-rim-sled-smyrtta-na-rabotnik-2467123",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/41689/41689633/991-ratio-kolizeum.jpg"
-    },
-    {
-      "title": "Полски летища временно преустановиха полетите заради руските атаки в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/polski-letishta-vremenno-preustanoviha-poletite-zaradi-ruskite-ataki-v-ukrajna-2467120",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386288/991-ratio-polsko-letishte.jpg"
-    },
-    {
-      "title": "Зимата почука на вратата: Сняг натрупа в планините в първия ден на есента (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/zimata-pochuka-na-vratata-sniag-natrupa-v-planinite-v-pyrviia-den-na-esenta-videosnimki-2467119",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Доблестен: бивш играч на Милан и Манчестър Сити призна защо е в Саудитска Арабия 23 Сеп | 12:10",
+      "url": "https://dsport.bg/edin-doblesten-bivsh-igrach-na-milan-i-manchestar-siti-prizna-zasto-e-v-sauditska-arabia~240551.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2281778326.og.jpg"
     },
     {
       "title": "Алек Здравков: В Дженоа тренирах при Де Роси 23 Сеп | 11:44",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/793735.og.jpg"
-    },
-    {
-      "title": "Ливърпул напът към стар шеф 23 Сеп | 08:15",
-      "url": "https://dsport.bg/livarpul-na-lov-za-nov-shef~240541.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2223578549~1.og.jpg"
     }
   ]
 }
