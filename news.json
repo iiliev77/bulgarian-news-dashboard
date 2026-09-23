@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-23T11:12:33.240405+00:00",
+  "updated": "2026-09-23T11:26:21.467516+00:00",
   "articles": [
+    {
+      "title": "Обвиняемият за убийството в Първомай остава в ареста: Не признава вина",
+      "url": "https://dariknews.bg/regioni/plovdiv/obviniaemiiat-za-ubijstvoto-v-pyrvomaj-ostava-v-aresta-ne-priznava-vina-2467161",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386419/991-ratio-ivelin-cvetanov.jpg"
+    },
+    {
+      "title": "Руснаци напускат страната на фона на страхове от нова военна мобилизация",
+      "url": "https://dariknews.bg/novini/sviat/rusnaci-napuskat-stranata-na-fona-na-strahove-ot-nova-voenna-mobilizaciia-2467162",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386420/991-ratio-rusnaci-presichat-granicata-mezhdu-gruziia-i-rusiia.jpg"
+    },
+    {
+      "title": "Финансовият министър обяви по-високи данъчни облекчения за семействата с деца",
+      "url": "https://dariknews.bg/novini/bylgariia/finansoviiat-ministyr-obiavi-po-visoki-danychni-oblekcheniia-za-semejstvata-s-deca-2467163",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51343/51343067/991-ratio-liudmila-petkova.jpg"
+    },
     {
       "title": "Парламентът прие на първо четене нови правила за потребителските кредити",
       "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-prie-na-pyrvo-chetene-novi-pravila-za-potrebitelskite-krediti-2467159",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51028/51028958/991-ratio-kola-udarena-kola-katastrofa-avtomobil.jpg"
     },
     {
-      "title": "Две българки са заподозрени за кражба на златни накити за близо 6000 евро в Одрин (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/dve-bylgarki-sa-zapodozreni-za-krazhba-na-zlatni-nakiti-za-blizo-6000-evro-v-odrin-video-2467143",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51193/51193103/991-ratio-zlato-zlatna-moneta.jpg"
-    },
-    {
-      "title": "Постоянен арест за мъж, нападнал с юмруци и заплашвал с нож бившата си приятелка след отказ на пари",
-      "url": "https://dariknews.bg/regioni/stara-zagora/postoianen-arest-za-myzh-napadnal-s-iumruci-i-zaplashval-s-nozh-bivshata-si-priiatelka-sled-otkaz-na-pari-2467140",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51110/51110279/991-ratio-domashno-nasilie.jpg"
-    },
-    {
-      "title": "Първият за сезона сняг заваля в Румъния (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/pyrviiat-za-sezona-sniag-zavalia-v-rumyniia-snimki-2467139",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51292/51292529/991-ratio-sniag-vremeto-kuche-kotka.jpg"
+      "title": "Треньорът на ЦСКА взе лиценз Про 23 Сеп | 14:15",
+      "url": "https://dsport.bg/trenorat-na-cska-vze-licenz-pro~240557.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1025594~1.og.jpg"
     },
     {
       "title": "Боливийско дуо от ЦСКА 1948 похвали българския елит, докато чака за визи 23 Сеп | 13:56",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/plamen-penev-.og.jpg"
-    },
-    {
-      "title": "Доскорошният бос на Челси купува Лукойл? 23 Сеп | 10:17",
-      "url": "https://dsport.bg/doskoroshniat-silen-chovek-v-chelsi-iska-lukoil~240547.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2279634738.og.jpg"
     }
   ]
 }
