@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-23T06:27:40.996667+00:00",
+  "updated": "2026-09-23T06:43:37.524122+00:00",
   "articles": [
+    {
+      "title": "Мъж от Велико Търново залови крадец в дома си",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/myzh-ot-veliko-tyrnovo-zalovi-kradec-v-doma-si-2467112",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51111/51111190/991-ratio-arest-myzh-kradec-krimi.jpg"
+    },
+    {
+      "title": "Защо да включим мед в есенно-зимното меню: 5 доказани ползи",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-da-vkliuchim-med-v-esenno-zimnoto-meniu-5-dokazani-polzi-2467111",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48789/48789728/991-ratio-med.jpg"
+    },
+    {
+      "title": "Шофьор прегази котка в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/shofior-pregazi-kotka-v-stara-zagora-2467110",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/36920/36920762/991-ratio-kote-lapa-kotka.jpg"
+    },
     {
       "title": "Сметната палата напомня: Кандидатите за президент трябва да отчетат дарителите си до 30 септември",
       "url": "https://dariknews.bg/novini/bylgariia/smetnata-palata-napomnia-kandidatite-za-prezident-triabva-da-otchetat-daritelite-si-do-30-septemvri-2467109",
@@ -121,25 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "ЦИК тегли номерата в бюлетината за президентските избори",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-tegli-nomerata-v-biuletinata-za-prezidentskite-izbori-2467083",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386139/991-ratio-cik-tegli-nomerata-v-biuletinata-za-prezidentskite-izbori.jpg"
-    },
-    {
-      "title": "След като бе призован: Посланикът ни в ОАЕ се прибра у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-kato-be-prizovan-poslanikyt-ni-v-oae-se-pribra-u-nas-2467096",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Зеленски: МВФ ще помогне на Украйна да осигури средства за 2027 г.",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-mvf-shte-pomogne-na-ukrajna-da-osiguri-sredstva-za-2027-g-2467095",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51381/51381475/991-ratio-volodimir-zelenski.jpg"
+      "title": "Доскорошен член на Първа лига остана без треньор 23 Сеп | 09:27",
+      "url": "https://dsport.bg/doskoroshen-chlen-na-parva-liga-ostana-bez-trenor~240546.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028676.og.jpg"
     },
     {
       "title": "Откраднаха луксозна кола от дома на Симон Байлс 23 Сеп | 09:14",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295646286.og.jpg"
-    },
-    {
-      "title": "Борусия Мьонхенгладбах обяви новия си треньор 22 Сеп | 22:47",
-      "url": "https://dsport.bg/borusia-monhengladbah-obavi-novia-si-trenor~240535.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296089298.og.jpg"
     }
   ]
 }
