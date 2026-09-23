@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T10:51:08.038380+00:00",
+  "updated": "2026-09-23T10:58:58.933272+00:00",
   "articles": [
+    {
+      "title": "Парламентът прие на първо четене нови правила за потребителските кредити",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-prie-na-pyrvo-chetene-novi-pravila-za-potrebitelskite-krediti-2467159",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
+    },
+    {
+      "title": "Открити на Перперикон фрагменти от статуи показват как са били украсени площадите и храмовете му през III-V век",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/otkriti-na-perperikon-fragmenti-ot-statui-pokazvat-kak-sa-bili-ukraseni-ploshtadite-i-hramovete-mu-prez-iii-v-vek-2467157",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51184/51184262/991-ratio-perperikon.jpg"
+    },
     {
       "title": "Феновете ще могат да се поклонят пред гроба на Ален Делон в Души",
       "url": "https://dariknews.bg/novini/sviat/fenovete-shte-mogat-da-se-pokloniat-pred-groba-na-alen-delon-v-dushi-2467156",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51221/51221999/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Син изхвърлил баща си от колата, преди да се забие челно в друга: Трима загинаха (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sin-izhvyrlil-bashta-si-ot-kolata-predi-da-se-zabie-chelno-v-druga-trima-zaginaha-videosnimki-2467137",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "За първи път разкриха цяла сцена от средновековните стенописи в църква в Мелник (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/za-pyrvi-pyt-razkriha-ciala-scena-ot-srednovekovnite-stenopisi-v-cyrkva-v-melnik-videosnimki-2467136",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51198/51198039/991-ratio-arheologiia-razkopki.jpg"
+      "title": "Боливийско дуо от ЦСКА 1948 похвали българския елит, докато чака за визи 23 Сеп | 13:56",
+      "url": "https://dsport.bg/boliviisko-duo-ot-cska-1948-pohvali-balgarskia-elit-dokato-chaka-za-vizi~240556.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1016099.og.jpg"
     },
     {
       "title": "Рупанов за контузията, баса с Ники Митов, Подолски и Хулио Веласкес (ВИДЕО) 23 Сеп | 13:35",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2279634738.og.jpg"
-    },
-    {
-      "title": "Най-сексапилната баскетболистка ще плаща крупна сума на бившия 23 Сеп | 09:58",
-      "url": "https://dsport.bg/nai-seksapilnata-basketbolistka-ste-plasta-krupna-suma-na-bivshia~240545.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-1302-.og.png"
     }
   ]
 }
