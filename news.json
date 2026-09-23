@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-23T09:26:47.529283+00:00",
+  "updated": "2026-09-23T09:39:48.264540+00:00",
   "articles": [
     {
-      "title": "Демерджиев: Фирмата, която е платила полетите и е предоставила самолета, за да го използва Пеевски, е на баща му",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-firmata-koiato-e-platila-poletite-i-e-predostavila-samoleta-za-da-go-izpolzva-peevski-e-na-bashta-mu-2467142",
+      "title": "ВиК отчете множество извори и непрекъснато изпомпване от изкопа в „Аспарухово“",
+      "url": "https://dariknews.bg/regioni/varna/vik-otchete-mnozhestvo-izvori-i-neprekysnato-izpompvane-ot-izkopa-v-asparuhovo-2467144",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386357/991-ratio-asparuhovo.jpg"
+    },
+    {
+      "title": "16-годишно момиче пострада след падане с тротинетка в Шумен",
+      "url": "https://dariknews.bg/regioni/shumen/16-godishno-momiche-postradasled-padane-s-trotinetka-v-shumen-2467145",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50136/50136037/991-ratio-trotinetka.jpg"
+    },
+    {
+      "title": "Демерджиев: Фирмата, платила полетите на Пеевски, е на бащата на посланика ни в ОАЕ",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-firmata-platila-poletite-na-peevski-e-na-bashtata-na-poslanika-ni-v-oae-2467142",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51379/51379569/991-ratio-ivan-demerdzhiev.jpg"
@@ -14,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51028/51028958/991-ratio-kola-udarena-kola-katastrofa-avtomobil.jpg"
+    },
+    {
+      "title": "Две българки са заподозрени за кражба на златни накити за близо 6000 евро в Одрин (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/dve-bylgarki-sa-zapodozreni-za-krazhba-na-zlatni-nakiti-za-blizo-6000-evro-v-odrin-video-2467143",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51193/51193103/991-ratio-zlato-zlatna-moneta.jpg"
     },
     {
       "title": "Постоянен арест за мъж, нападнал с юмруци и заплашвал с нож бившата си приятелка след отказ на пари",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
     },
     {
-      "title": "Дори сутрешното кафе може да наруши съня",
-      "url": "https://dariknews.bg/novini/liubopitno/dori-sutreshnoto-kafe-mozhe-da-narushi-synia-2467124",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51208/51208059/991-ratio-kakao-kafe-ofis.jpg"
-    },
-    {
-      "title": "Парламентът отхвърли исканията на опозицията за изслушване на министри",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-othvyrli-iskaniiata-na-opoziciiata-za-izslushvane-na-ministri-2467122",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51377/51377160/991-ratio-ns.jpg"
-    },
-    {
-      "title": "Тежка катастрофа в Ботевград: 76-годишен е с опасност за живота",
-      "url": "https://dariknews.bg/regioni/sofiia/tezhka-katastrofa-v-botevgrad-76-godishen-e-s-opasnost-za-zhivota-2467121",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386297/991-ratio-motoped.jpg"
+      "title": "Левски поднови тренировки без националите и невъзстановените 23 Сеп | 12:25",
+      "url": "https://dsport.bg/levski-podnovi-trenirovki-bez-nacionalite-i-nevazstanovenite~240552.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/viber_image_2026-09-23_12-22-59-993~1.og.jpg"
     },
     {
       "title": "Доблестен: бивш играч на Милан и Манчестър Сити призна защо е в Саудитска Арабия 23 Сеп | 12:10",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-123950805.og.jpg"
-    },
-    {
-      "title": "Йовичевич надви сръбски легенди за треньорския стол в Лудогорец 23 Сеп | 08:29",
-      "url": "https://dsport.bg/iovichevich-nadvi-srabski-legenda-za-stola-v-razgrad~240542.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/793735.og.jpg"
     }
   ]
 }
