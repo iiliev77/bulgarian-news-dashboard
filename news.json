@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T19:07:36.237339+00:00",
+  "updated": "2026-09-23T19:20:54.605926+00:00",
   "articles": [
+    {
+      "title": "МВР издирва 70-годишен мъж от Елешница",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/mvr-izdirva-70-godishen-myzh-ot-eleshnica-2467214",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386640/991-ratio-ivan-tolin.jpg"
+    },
     {
       "title": "Йотова пред Общото събрание на ООН: Черно море да стане зона на сигурност",
       "url": "https://dariknews.bg/novini/sviat/iotova-pred-obshtoto-sybranie-na-oon-cherno-more-da-stane-zona-na-sigurnost-2467213",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51258/51258494/991-ratio-obvineniiat-v-ubijstvo-nencho-nenchev.jpg"
     },
     {
-      "title": "Доклад: Показателите за живот в добро здраве у нас вече достигат целите за 2030 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/doklad-pokazatelite-za-zhivot-v-dobro-zdrave-u-nas-veche-dostigat-celite-za-2030-g-2467189",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35974/35974771/991-ratio-myzh-vyzrasten-ryce-bastun.jpg"
+      "title": "Хакими ще бъде съден за изнасилване 23 Сеп | 22:04",
+      "url": "https://dsport.bg/hakimi-ste-bade-saden-za-iznasilvane~240584.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2281458367~1.og.jpg"
     },
     {
       "title": "Хаджар остава в Ред Бул и за следващия сезон 23 Сеп | 21:47",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1029525.og.jpg"
-    },
-    {
-      "title": "Караманджуков: Единствено сме разговаряли с Игор Йовичевич (ВИДЕО) 23 Сеп | 19:08",
-      "url": "https://dsport.bg/karamandzukov-edinstveno-sme-razgovarali-s-igor-iovichevich-video~240574.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1029550.og.jpg"
     }
   ]
 }
