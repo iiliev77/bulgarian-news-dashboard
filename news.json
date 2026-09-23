@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T17:59:15.130328+00:00",
+  "updated": "2026-09-23T18:16:48.102898+00:00",
   "articles": [
+    {
+      "title": "Министър Петрова с поредица от срещи на 81-вата сесия на Общото събрание на ООН в Ню Йорк",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-s-poredica-ot-sreshti-na-81-vata-sesiia-na-obshtoto-sybranie-na-oon-v-niu-iork-2467211",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386632/991-ratio-velislava-petrova.jpg"
+    },
+    {
+      "title": "Откриха Европейската седмица на спорта #BeActive 2026",
+      "url": "https://dariknews.bg/novini/bylgariia/otkriha-evropejskata-sedmica-na-sporta-beactive-2026-2467210",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386627/991-ratio-evropejska-sedmica-na-sporta.jpg"
+    },
     {
       "title": "21-годишен се вряза в автобус край прохода „Стражата“, блокиран е Подбалканският път",
       "url": "https://dariknews.bg/regioni/plovdiv/21-godishen-se-vriaza-v-avtobus-kraj-prohoda-strazhata-blokiran-e-podbalkanskiiat-pyt-2467207",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51290/51290530/991-ratio-ormuzki-protok.jpg"
     },
     {
-      "title": "Отпада ограничението: Украинските деца у нас ще получават подкрепа и когато са с двамата родители",
-      "url": "https://dariknews.bg/novini/bylgariia/otpada-ogranichenieto-ukrainskite-deca-u-nas-shte-poluchavat-podkrepa-i-kogato-sa-s-dvamata-roditeli-2467188",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50265/50265023/991-ratio-ukrainski-bezhanci-slynchev-briag.jpg"
-    },
-    {
-      "title": "Първи коментари за жребия на ЦИК за вота през октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/pyrvi-komentari-za-zhrebiia-na-cik-za-vota-prez-oktomvri-2467186",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386469/991-ratio-cik.jpg"
+      "title": "Убедителна победа и полуфинал за Рами Киуан на Европейското по бокс 23 Сеп | 21:14",
+      "url": "https://dsport.bg/ubeditelna-pobeda-i-polufinal-za-rami-kiuan-na-evropeiskoto-po-boks~240581.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029582.og.jpg"
     },
     {
       "title": "Роналдо: Не съм на възраст, на която да мисля за бъдещето 23 Сеп | 20:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1029521.og.jpg"
-    },
-    {
-      "title": "Кристиан Ериксен се раздели с Волфсбург 23 Сеп | 18:15",
-      "url": "https://dsport.bg/kristian-eriksen-se-razdeli-s-volfsburg~240572.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2211111157-1~1.og.jpg"
     }
   ]
 }
