@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T19:44:00.581115+00:00",
+  "updated": "2026-09-23T19:52:52.061240+00:00",
   "articles": [
+    {
+      "title": "Синът на израелския посланик в САЩ е ранен при нападение в Западния бряг",
+      "url": "https://dariknews.bg/novini/sviat/sinyt-na-izraelskiia-poslanik-v-sasht-e-ranen-pri-napadenie-v-zapadniia-briag-2467217",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386647/991-ratio-izrael.jpg"
+    },
     {
       "title": "Над 50 държави в ООН призоваха Русия за незабавно прекратяване на огъня в Украйна",
       "url": "https://dariknews.bg/novini/sviat/nad-50-dyrzhavi-v-oon-prizovaha-rusiia-za-nezabavno-prekratiavane-na-ogynia-v-ukrajna-2467216",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386513/991-ratio-syvetyt-na-zhenite-v-biznesa.jpg"
     },
     {
-      "title": "Мъж отива на съд за опит за убийство в Калофер",
-      "url": "https://dariknews.bg/regioni/plovdiv/myzh-otiva-na-syd-za-opit-za-ubijstvo-v-kalofer-2467193",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/38436/38436776/991-ratio-syd-temida.jpg"
+      "title": "Братът на Гонсало Игуаин бе уволнен заради сексистки коментар 23 Сеп | 22:47",
+      "url": "https://dsport.bg/bratat-na-gonsalo-iguain-be-uvolnen-zaradi-seksistki-komentar~240586.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-1270835428.og.jpg"
     },
     {
       "title": "Мбапе не скри възхищението си от Кристиано 23 Сеп | 22:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1029362-1-.og.jpg"
-    },
-    {
-      "title": "Станимира Петрова отпадна в 1/4-финалите на Европейското 23 Сеп | 19:40",
-      "url": "https://dsport.bg/stanimira-petrova-otpadna-v-1-4-finalite-na-evropeiskoto~240576.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1028639~1.og.jpg"
     }
   ]
 }
