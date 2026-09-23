@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-23T06:56:51.677445+00:00",
+  "updated": "2026-09-23T07:09:10.000192+00:00",
   "articles": [
     {
-      "title": "Хванаха шофьор с 3 промила алкохол в Ивайловград",
-      "url": "https://dariknews.bg/regioni/haskovo/hvanaha-shofior-s-3-promila-alkohol-v-ivajlovgrad-2467114",
+      "title": "Непълнолетни тийнейджъри с мотори катастрофираха край Кнежа",
+      "url": "https://dariknews.bg/regioni/pleven/nepylnoletni-tijnejdzhyri-s-motori-katastrofiraha-kraj-knezha-2467115",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51179/51179875/991-ratio-promila-alkohol.jpg"
+      "image": "https://m.netinfo.bg/media/images/38694/38694101/991-ratio-katastrofa-s-motor.jpg"
+    },
+    {
+      "title": "Иран и войната в Украйна доминираха първия ден от дебатите в ООН",
+      "url": "https://dariknews.bg/novini/sviat/iran-i-vojnata-v-ukrajna-dominiraha-pyrviia-den-ot-debatite-v-oon-2467116",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51036/51036600/991-ratio-oon.jpg"
     },
     {
       "title": "Демерджиев сезира НАП за разходите за полети на Пеевски",
@@ -14,6 +21,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
+    },
+    {
+      "title": "Хванаха шофьор с 3 промила алкохол в Ивайловград",
+      "url": "https://dariknews.bg/regioni/haskovo/hvanaha-shofior-s-3-promila-alkohol-v-ivajlovgrad-2467114",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51179/51179875/991-ratio-promila-alkohol.jpg"
     },
     {
       "title": "Мъж от Велико Търново залови крадец в дома си",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51367/51367927/991-ratio-prodylzhava-rabotata-po-prehvyrliane-na-voda-ot-reka-dunav-kym.jpg"
     },
     {
-      "title": "Ваксините срещу грип и варицела: Лекар с разяснения кога се поставят и какво да очакваме",
-      "url": "https://dariknews.bg/novini/bylgariia/vaksinite-sreshtu-grip-i-varicela-lekar-s-raziasneniia-koga-se-postaviat-i-kakvo-da-ochakvame-2467094",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48850/48850045/991-ratio-vaksina-deca.jpg"
-    },
-    {
-      "title": "София ще излъчва на голям екран състезанията на Никола Цолов във Формула 2",
-      "url": "https://dariknews.bg/regioni/sofiia/sofiia-shte-izlychva-na-goliam-ekran-systezaniiata-na-nikola-colov-vyv-formula-2-2467080",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386129/991-ratio-nikola-colov.jpg"
+      "title": "Най-сексапилната баскетболистка ще плаща крупна сума на бившия 23 Сеп | 09:58",
+      "url": "https://dsport.bg/nai-seksapilnata-basketbolistka-ste-plasta-krupna-suma-na-bivshia~240545.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-1302-.og.png"
     },
     {
       "title": "Доскорошен член на Първа лига остана без треньор 23 Сеп | 09:27",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2289612980.og.jpg"
-    },
-    {
-      "title": "Ламин Ямал: Ако вкарам 20 гола, следващия сезон искам 30 22 Сеп | 23:02",
-      "url": "https://dsport.bg/lamin-amal-ako-vkaram-20-gola-sledvastia-sezon-iskam-30~240538.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295646286.og.jpg"
     }
   ]
 }
