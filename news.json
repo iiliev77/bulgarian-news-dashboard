@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-23T14:35:42.648469+00:00",
+  "updated": "2026-09-23T14:48:49.927762+00:00",
   "articles": [
     {
       "title": "Внимание, падат първите слани: Има опасност за 7 области в четвъртък",
       "url": "https://dariknews.bg/regioni/kiustendil/vnimanie-padat-pyrvite-slani-ima-opasnost-za-7-oblasti-v-chetvyrtyk-2467198",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51311/51311702/991-ratio-slana.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Путин: Рекордната избирателна активност показа подкрепа за политиката на Русия",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386450/991-ratio-radioteleskop-rozhen.jpg"
     },
     {
+      "title": "Алаба става съотборник на бивш халф на Лудогорец 23 Сеп | 17:41",
+      "url": "https://dsport.bg/alaba-stava-saotbornik-na-bivsh-half-na-ludogorec~240570.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2204223423-1.og.jpg"
+    },
+    {
       "title": "Очаквайте на живо: жребият за Sesame Купа на България 23 Сеп | 17:30",
       "url": "https://dsport.bg/ochakvaite-na-zivo-zrebiat-za-sesame-kupa-na-balgaria~240559.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295238278.og.jpg"
-    },
-    {
-      "title": "Еду Гаспар отрязал бразилски гранд заради Левски 23 Сеп | 14:55",
-      "url": "https://dsport.bg/edu-gaspar-otrazal-brazilski-grand-zaradi-levski~240560.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1028409.og.jpg"
     }
   ]
 }
