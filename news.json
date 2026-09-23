@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T09:51:01.010258+00:00",
+  "updated": "2026-09-23T09:59:00.314461+00:00",
   "articles": [
+    {
+      "title": "Катастрофа блокира пътя Русе-Бяла",
+      "url": "https://dariknews.bg/regioni/ruse/katastrofa-blokira-pytia-ruse-biala-2467148",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
+    },
     {
       "title": "Нов метод с изкуствен интелект сканира кожата за рак",
       "url": "https://dariknews.bg/novini/liubopitno/nov-metod-s-izkustven-intelekt-skanira-kozhata-za-rak-2467147",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
     },
     {
-      "title": "Безплатни очни прегледи в ИСУЛ по повод Световния ден на ретината",
-      "url": "https://dariknews.bg/novini/bylgariia/bezplatni-ochni-pregledi-v-isul-po-povod-svetovniia-den-na-retinata-2467130",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50226/50226058/991-ratio-ochen-pregled.jpg"
+      "title": "Ботев Враца с трето ембарго от ФИФА 23 Сеп | 12:55",
+      "url": "https://dsport.bg/botev-vraca-s-treto-embargo-ot-fifa~240553.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/993844~1.og.jpg"
     },
     {
       "title": "Левски поднови тренировки без националите и невъзстановените 23 Сеп | 12:25",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2294235286.og.jpg"
-    },
-    {
-      "title": "Скандал заради пиянство: Рууни съди бивш съотборник и автобиографията му 23 Сеп | 08:54",
-      "url": "https://dsport.bg/cenzura-uein-ruuni-iska-bivsh-saotbornik-da-ottegli-avtobiografiata-si-zaradi-pianski-izcepki~240543.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-123950805.og.jpg"
     }
   ]
 }
