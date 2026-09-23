@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T09:39:48.264540+00:00",
+  "updated": "2026-09-23T09:51:01.010258+00:00",
   "articles": [
+    {
+      "title": "Нов метод с изкуствен интелект сканира кожата за рак",
+      "url": "https://dariknews.bg/novini/liubopitno/nov-metod-s-izkustven-intelekt-skanira-kozhata-za-rak-2467147",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50828/50828870/991-ratio-rak-na-kozhata.jpg"
+    },
+    {
+      "title": "Мащабни рокади в полицията в Русе (СНИМКА)",
+      "url": "https://dariknews.bg/regioni/ruse/mashtabni-rokadi-v-policiiata-v-ruse-snimka-2467146",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+    },
     {
       "title": "ВиК отчете множество извори и непрекъснато изпомпване от изкопа в „Аспарухово“",
       "url": "https://dariknews.bg/regioni/varna/vik-otchete-mnozhestvo-izvori-i-neprekysnato-izpompvane-ot-izkopa-v-asparuhovo-2467144",
@@ -58,11 +72,11 @@
       "image": "https://m.netinfo.bg/media/images/51221/51221999/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Тежка катастрофа с три жертви на пътя Казанлък - Стара Загора, движението е затворено",
-      "url": "https://dariknews.bg/novini/tezhka-katastrofa-s-tri-zhertvi-na-pytia-kazanlyk-stara-zagora-dvizhenieto-e-zatvoreno-2467137",
+      "title": "Тежка катастрофа с три жертви на пътя Казанлък - Стара Загора, движението е затворено (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/novini/tezhka-katastrofa-s-tri-zhertvi-na-pytia-kazanlyk-stara-zagora-dvizhenieto-e-zatvoreno-videosnimki-2467137",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50090/50090283/991-ratio-triygylnik-katastrofa.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "За първи път разкриха цяла сцена от средновековните стенописи в църква в Мелник (ВИДЕО/СНИМКИ)",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50226/50226058/991-ratio-ochen-pregled.jpg"
-    },
-    {
-      "title": "Принц Хари разказа за „най-британските“ неща, които прави със семейството си",
-      "url": "https://dariknews.bg/novini/sviat/princ-hari-razkaza-za-naj-britanskite-neshta-koito-pravi-sys-semejstvoto-si-2467127",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50793/50793528/991-ratio-princ-hari.jpg"
-    },
-    {
-      "title": "Земетресение с магнитуд 3,2 в района на Несебър",
-      "url": "https://dariknews.bg/regioni/burgas/zemetresenie-s-magnitud-32-v-rajona-na-nesebyr-2467126",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
     },
     {
       "title": "Левски поднови тренировки без националите и невъзстановените 23 Сеп | 12:25",
