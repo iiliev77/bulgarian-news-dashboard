@@ -1,12 +1,40 @@
 {
-  "updated": "2026-09-23T08:38:31.237840+00:00",
+  "updated": "2026-09-23T08:50:00.103520+00:00",
   "articles": [
+    {
+      "title": "Моторист загуби контрол на завой и се блъсна в кола на пътя Разград – Исперих",
+      "url": "https://dariknews.bg/regioni/razgrad/motorist-zagubi-kontrol-na-zavoj-i-se-blysna-v-kola-na-pytia-razgrad-isperih-2467132",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
+    },
+    {
+      "title": "Каква реформа искат учителите: Повече права и по-малко административна тежест",
+      "url": "https://dariknews.bg/novini/bylgariia/kakva-reforma-iskat-uchitelite-poveche-prava-i-po-malko-administrativna-tezhest-2467131",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44471/44471299/991-ratio-uchitel.jpg"
+    },
+    {
+      "title": "Масово убийство в Южна Африка: 11 жертви при стрелба на празненство",
+      "url": "https://dariknews.bg/novini/sviat/masovo-ubijstvo-v-iuzhna-afrika-11-zhertvi-pri-strelba-na-praznenstvo-2467129",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386342/991-ratio-iuzhna-afrika-policiia.jpg"
+    },
     {
       "title": "Товарен автомобил блъсна 75-годишна жена при маневра на заден ход в Разград",
       "url": "https://dariknews.bg/regioni/razgrad/tovaren-avtomobil-blysna-75-godishna-zhena-pri-manevra-na-zaden-hod-v-razgrad-2467128",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Безплатни очни прегледи в ИСУЛ по повод Световния ден на ретината",
+      "url": "https://dariknews.bg/novini/bylgariia/bezplatni-ochni-pregledi-v-isul-po-povod-svetovniia-den-na-retinata-2467130",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50226/50226058/991-ratio-ochen-pregled.jpg"
     },
     {
       "title": "Принц Хари разказа за „най-британските“ неща, които прави със семейството си",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51111/51111190/991-ratio-arest-myzh-kradec-krimi.jpg"
     },
     {
-      "title": "Защо да включим мед в есенно-зимното меню: 5 доказани ползи",
-      "url": "https://dariknews.bg/novini/liubopitno/zashto-da-vkliuchim-med-v-esenno-zimnoto-meniu-5-dokazani-polzi-2467111",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48789/48789728/991-ratio-med.jpg"
-    },
-    {
-      "title": "Шофьор прегази котка в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/shofior-pregazi-kotka-v-stara-zagora-2467110",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/36920/36920762/991-ratio-kote-lapa-kotka.jpg"
-    },
-    {
-      "title": "Сметната палата напомня: Кандидатите за президент трябва да отчетат дарителите си до 30 септември",
-      "url": "https://dariknews.bg/novini/bylgariia/smetnata-palata-napomnia-kandidatite-za-prezident-triabva-da-otchetat-daritelite-si-do-30-septemvri-2467109",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331521/991-ratio-smetna-palata.jpg"
-    },
-    {
-      "title": "Рубио и Лавров с ключова среща в кулоарите на ООН",
-      "url": "https://dariknews.bg/novini/sviat/rubio-i-lavrov-s-kliuchova-sreshta-v-kuloarite-na-oon-2467108",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Алек Здравков: В Дженоа тренирах при Де Роси 23 Сеп | 11:44",
+      "url": "https://dsport.bg/alek-zdravkov-v-dzenoa-trenirah-pri-de-rosi~240550.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/image_1790144167_49156.og.jpeg"
     },
     {
       "title": "Български вратар в обектива на грандове от Италия, Испания и Германия 23 Сеп | 11:15",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2223578549~1.og.jpg"
-    },
-    {
-      "title": "Рафиня с изненадващ ход преди подписването на новия си договор с Барса 22 Сеп | 23:59",
-      "url": "https://dsport.bg/rafina-s-iznenadvast-hod-predi-podpisvaneto-na-novia-si-dogovor-s-barsa~240540.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296117758~1.og.jpg"
     }
   ]
 }
