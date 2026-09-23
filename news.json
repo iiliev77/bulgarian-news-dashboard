@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T08:09:28.303032+00:00",
+  "updated": "2026-09-23T08:24:58.542674+00:00",
   "articles": [
+    {
+      "title": "Земетресение с магнитуд 3,2 в района на Несебър",
+      "url": "https://dariknews.bg/regioni/burgas/zemetresenie-s-magnitud-32-v-rajona-na-nesebyr-2467126",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+    },
     {
       "title": "Дори сутрешното кафе може да наруши съня",
       "url": "https://dariknews.bg/novini/liubopitno/dori-sutreshnoto-kafe-mozhe-da-narushi-synia-2467124",
@@ -38,7 +45,7 @@
     },
     {
       "title": "Зимата почука на вратата: Сняг натрупа в планините в първия ден на есента (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/Smolyan/zimata-pochuka-na-vratata-sniag-natrupa-v-planinite-v-pyrviia-den-na-esenta-videosnimki-2467119",
+      "url": "https://dariknews.bg/novini/bylgariia/zimata-pochuka-na-vratata-sniag-natrupa-v-planinite-v-pyrviia-den-na-esenta-videosnimki-2467119",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386224/991-ratio-petrohan.jpg"
     },
     {
-      "title": "Елегантна и стилна:Мелания Тръмп се завърна под светлините на прожекторите в ООН (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/elegantna-i-stilnamelaniia-trymp-se-zavyrna-pod-svetlinite-na-prozhektorite-v-oon-snimki-2467105",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Български вратар в обектива на грандове от Италия, Испания и Германия 23 Сеп | 11:15",
+      "url": "https://dsport.bg/balgarski-vratar-v-obektiva-na-barselona-milan-i-rb-laipcig~240549.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/plamen-penev-.og.jpg"
     },
     {
       "title": "Доскорошният бос на Челси купува Лукойл? 23 Сеп | 10:17",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296117758~1.og.jpg"
-    },
-    {
-      "title": "Вероятно три от съчетанията на Стилияна Николова за новия сезон ще бъдат нови 22 Сеп | 23:47",
-      "url": "https://dsport.bg/veroatno-tri-ot-sachetaniata-na-stiliana-nikolova-za-novia-sezon-ste-badat-novi~240539.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/773735969_1604925611196602_8880316830030820386_n~1.og.jfif"
     }
   ]
 }
