@@ -1,19 +1,26 @@
 {
-  "updated": "2026-09-23T11:49:33.385935+00:00",
+  "updated": "2026-09-23T11:57:34.821663+00:00",
   "articles": [
     {
-      "title": "Първият сняг падна в Сърбия преди началото на есента",
-      "url": "https://dariknews.bg/novini/sviat/pyrviiat-sniag-padna-v-syrbiia-predi-nachaloto-na-esenta-2467170",
+      "title": "Близо 3 млн. евро за общините за безплатния транспорт на деца и ученици",
+      "url": "https://dariknews.bg/novini/bylgariia/blizo-3-mln.-evro-za-obshtinite-za-bezplatniia-transport-na-deca-i-uchenici-2467172",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44305/44305661/991-ratio-uchilishten-avtobus.jpg"
+    },
+    {
+      "title": "Първият сняг падна в Сърбия преди началото на есента (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/pyrviiat-sniag-padna-v-syrbiia-predi-nachaloto-na-esenta-video-2467170",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386438/991-ratio-sniag.jpg"
     },
     {
-      "title": "Мъж задигна такси в столичния квартал „Люлин“",
-      "url": "https://dariknews.bg/regioni/sofiia/myzh-zadigna-taksi-v-stolichniia-kvartal-liulin-2467169",
+      "title": "По 50 евро заради скъпите горива, но само за най-уязвимите – сред тях сираци и военноинвалиди",
+      "url": "https://dariknews.bg/novini/bylgariia/po-50-evro-zaradi-skypite-goriva-no-samo-za-naj-uiazvimite-sred-tiah-siraci-i-voennoinvalidi-2467171",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51038/51038849/991-ratio-taksi.jpg"
+      "image": "https://m.netinfo.bg/media/images/51325/51325161/991-ratio-pari-evro-pensii.jpg"
     },
     {
       "title": "Предложение: Ръст на ваучерите за храна и облагане със 7%",
@@ -21,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51215/51215040/991-ratio-magazin-kasov-aparat.jpg"
+    },
+    {
+      "title": "Мъж задигна такси в столичния квартал „Люлин“",
+      "url": "https://dariknews.bg/regioni/sofiia/myzh-zadigna-taksi-v-stolichniia-kvartal-liulin-2467169",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51038/51038849/991-ratio-taksi.jpg"
     },
     {
       "title": "Клон падна на сантиметри от майка с дете в количка в центъра на Варна",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386372/991-ratio-rusokastro-razkopki.jpg"
     },
     {
-      "title": "След месец разследване: Разкриха извършителя на домова кражба в село Ивайло",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/sled-mesec-razsledvane-razkriha-izvyrshitelia-na-domova-krazhba-v-selo-ivajlo-2467149",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50947/50947629/991-ratio-kradec-krazhba-myzh-krazhba.jpg"
-    },
-    {
-      "title": "ЕК предлага Унгария да получи 4,2 млрд. евро от фондовете за сближаване",
-      "url": "https://dariknews.bg/novini/sviat/ek-predlaga-ungariia-da-poluchi-42-mlrd.-evro-ot-fondovete-za-sblizhavane-2467150",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+      "title": "Еду Гаспар отрязал бразилски гранд заради Левски 23 Сеп | 14:55",
+      "url": "https://dsport.bg/edu-gaspar-otrazal-brazilski-grand-zaradi-levski~240560.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1028409.og.jpg"
     },
     {
       "title": "Гидженов с престижен наряд от ФИФА, пропуска заключителната част от годината у нас 23 Сеп | 14:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/image_1790144167_49156~1.og.jpeg"
-    },
-    {
-      "title": "Български вратар в обектива на грандове от Италия, Испания и Германия 23 Сеп | 11:15",
-      "url": "https://dsport.bg/balgarski-vratar-v-obektiva-na-barselona-milan-i-rb-laipcig~240549.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/plamen-penev-.og.jpg"
     }
   ]
 }
