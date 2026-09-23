@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-23T06:06:30.135459+00:00",
+  "updated": "2026-09-23T06:27:40.996667+00:00",
   "articles": [
+    {
+      "title": "Сметната палата напомня: Кандидатите за президент трябва да отчетат дарителите си до 30 септември",
+      "url": "https://dariknews.bg/novini/bylgariia/smetnata-palata-napomnia-kandidatite-za-prezident-triabva-da-otchetat-daritelite-si-do-30-septemvri-2467109",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51331/51331521/991-ratio-smetna-palata.jpg"
+    },
+    {
+      "title": "Рубио и Лавров с ключова среща в кулоарите на ООН",
+      "url": "https://dariknews.bg/novini/sviat/rubio-i-lavrov-s-kliuchova-sreshta-v-kuloarite-na-oon-2467108",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Какво съдържа споразумението за сигурност между САЩ, Гренландия и Дания",
+      "url": "https://dariknews.bg/novini/sviat/kakvo-sydyrzha-sporazumenieto-za-sigurnost-mezhdu-sasht-grenlandiia-i-daniia-2467107",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "„Зловеща подигравка с морала“: Слави Трифонов унищожи паметна плоча на „Петрохан“",
       "url": "https://dariknews.bg/regioni/montana/zloveshta-podigravka-s-morala-slavi-trifonov-unishtozhi-pametna-plocha-na-petrohan-2467106",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51381/51381475/991-ratio-volodimir-zelenski.jpg"
     },
     {
-      "title": "Изтребител F-16 се разби край американска авиобаза в Германия",
-      "url": "https://dariknews.bg/novini/sviat/iztrebitel-f-16-se-razbi-kraj-amerikanska-aviobaza-v-germaniia-2467093",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51071/51071195/991-ratio-f-16-block-70.jpg"
-    },
-    {
-      "title": "Йотова запозна върховния комисар на ООН по правата на човека със случая на Ива Михайлова",
-      "url": "https://dariknews.bg/novini/bylgariia/iotova-zapozna-vyrhovniia-komisar-na-oon-po-pravata-na-choveka-sys-sluchaia-na-iva-mihajlova-2467092",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386181/991-ratio-iliiana-iotova.jpg"
-    },
-    {
-      "title": "Стрелбата край училище в Турция: Трима ученици са в критично състояние",
-      "url": "https://dariknews.bg/novini/sviat/strelbata-kraj-uchilishte-v-turciia-trima-uchenici-sa-v-kritichno-systoianie-2467091",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35356/35356859/991-ratio-policiia-turciia.jpg"
+      "title": "Откраднаха луксозна кола от дома на Симон Байлс 23 Сеп | 09:14",
+      "url": "https://dsport.bg/otkradnaha-luksozna-kola-ot-doma-na-simon-bails~240544.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2294235286.og.jpg"
     },
     {
       "title": "Скандал заради пиянство: Рууни съди бивш съотборник и автобиографията му 23 Сеп | 08:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296089298.og.jpg"
-    },
-    {
-      "title": "Килиан Мбапе пропусна тренировката на Франция 22 Сеп | 22:32",
-      "url": "https://dsport.bg/kilian-mbape-propusna-trenirovkata-na-francia~240534.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2286108319-1.og.jpg"
     }
   ]
 }
