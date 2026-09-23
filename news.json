@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T12:32:01.836295+00:00",
+  "updated": "2026-09-23T12:49:39.395809+00:00",
   "articles": [
+    {
+      "title": "В Стара Загора ще има Център за върхови постижения в областта на чистите водородни технологии",
+      "url": "https://dariknews.bg/regioni/stara-zagora/v-stara-zagora-shte-ima-centyr-za-vyrhovi-postizheniia-v-oblastta-na-chistite-vodorodni-tehnologii-2467180",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386456/991-ratio-vodorodni-tehnologii.jpg"
+    },
+    {
+      "title": "Промени в Наказателния кодекс засилват защитата на финансовите интереси на ЕС",
+      "url": "https://dariknews.bg/novini/bylgariia/promeni-v-nakazatelniia-kodeks-zasilvat-zashtitata-na-finansovite-interesi-na-es-2467181",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35341/35341598/991-ratio-nakazatelen-kodeks.jpg"
+    },
     {
       "title": "Правителството съкращава 21 щатни бройки в МОН",
       "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-sykrashtava-21-shtatni-brojki-v-mon-2467178",
@@ -14,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "В Обсерваторията „Рожен“ монтираха антените на първия професионален радиотелескоп в България (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/Smolyan/v-observatoriiata-rozhen-montiraha-antenite-na-pyrviia-profesionalen-radioteleskop-v-bylgariia-snimki-2467179",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386450/991-ratio-radioteleskop-rozhen.jpg"
     },
     {
       "title": "Задействаха BG-Alert заради голям пожар край хисарското село Песнопой, евакуират хора",
@@ -30,11 +51,11 @@
       "image": "https://m.netinfo.bg/media/images/41011/41011401/991-ratio-pechka-dyrva.jpg"
     },
     {
-      "title": "Президентски избори: Кой с кой номер ще е в бюлетината (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentski-izbori-koj-s-koj-nomer-shte-e-v-biuletinata-na-zhivo-2467083",
+      "title": "Президентски избори: Кой с кой номер ще е в бюлетината",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentski-izbori-koj-s-koj-nomer-shte-e-v-biuletinata-2467083",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386139/991-ratio-cik-tegli-nomerata-v-biuletinata-za-prezidentskite-izbori.jpg"
+      "image": "https://m.netinfo.bg/media/images/51386/51386459/991-ratio-cik.jpg"
     },
     {
       "title": "Катастрофа с две жертви край Котел",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386419/991-ratio-ivelin-cvetanov.jpg"
     },
     {
-      "title": "Руснаци напускат страната на фона на страхове от нова военна мобилизация",
-      "url": "https://dariknews.bg/novini/sviat/rusnaci-napuskat-stranata-na-fona-na-strahove-ot-nova-voenna-mobilizaciia-2467162",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386420/991-ratio-rusnaci-presichat-granicata-mezhdu-gruziia-i-rusiia.jpg"
-    },
-    {
-      "title": "Ново данъчно облекчение за родители за спорт, здраве и образование на децата",
-      "url": "https://dariknews.bg/novini/bylgariia/novo-danychno-oblekchenie-za-roditeli-za-sport-zdrave-i-obrazovanie-na-decata-2467163",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51117/51117843/991-ratio-uchilishte-izpit-deca-uchenici.jpg"
-    },
-    {
-      "title": "Парламентът прие на първо четене нови правила за потребителските кредити",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-prie-na-pyrvo-chetene-novi-pravila-za-potrebitelskite-krediti-2467159",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
+      "title": "Бленджини започна новото си предизвикателство след Евроволей 2026 23 Сеп | 15:38",
+      "url": "https://dsport.bg/blendzini-zapochna-novoto-si-predizvikatelstvo-sled-evrovolei-2026~240562.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/790412025_2912765312415438_1430200134812652928_n.og.jpg"
     },
     {
       "title": "Винисиус се чувства длъжник на Реал Мадрид, решен е да обърне ситуацията 23 Сеп | 15:18",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-23_12-22-59-993~1.og.jpg"
-    },
-    {
-      "title": "Доблестен: бивш играч на Милан и Манчестър Сити призна защо е в Саудитска Арабия 23 Сеп | 12:10",
-      "url": "https://dsport.bg/edin-doblesten-bivsh-igrach-na-milan-i-manchestar-siti-prizna-zasto-e-v-sauditska-arabia~240551.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2281778326.og.jpg"
     }
   ]
 }
