@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T14:05:26.718874+00:00",
+  "updated": "2026-09-23T14:22:02.615908+00:00",
   "articles": [
+    {
+      "title": "Путин: Рекордната избирателна активност показа подкрепа за политиката на Русия",
+      "url": "https://dariknews.bg/novini/sviat/putin-rekordnata-izbiratelna-aktivnost-pokaza-podkrepa-za-politikata-na-rusiia-2467196",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
+    },
     {
       "title": "Съветът на жените в бизнеса в България дава старт на петото издание на годишните си награди",
       "url": "https://dariknews.bg/novini/biznes/syvetyt-na-zhenite-v-biznesa-v-bylgariia-dava-start-na-petoto-izdanie-na-godishnite-si-nagradi-2467194",
@@ -128,18 +135,18 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386450/991-ratio-radioteleskop-rozhen.jpg"
     },
     {
-      "title": "Задействаха BG-Alert заради голям пожар край хисарското село Песнопой, евакуират хора (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/plovdiv/zadejstvaha-bg-alert-zaradi-goliam-pozhar-kraj-hisarskoto-selo-pesnopoj-evakuirat-hora-video-2467176",
+      "title": "Задействаха BG-Alert заради огромен пожар край хисарското село Песнопой, евакуираха хора (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/plovdiv/zadejstvaha-bg-alert-zaradi-ogromen-pozhar-kraj-hisarskoto-selo-pesnopoj-evakuiraha-hora-snimkivideo-2467176",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Хората без доходи, отопляващи се на твърдо гориво, ще получат наведнъж помощта за отопление",
-      "url": "https://dariknews.bg/novini/bylgariia/horata-bez-dohodi-otopliavashti-se-na-tvyrdo-gorivo-shte-poluchat-navednyzh-pomoshtta-za-otoplenie-2467175",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/41011/41011401/991-ratio-pechka-dyrva.jpg"
+      "title": "Радослав Росенов донесе първия медал за България от Европейското първенство по бокс в София 23 Сеп | 17:09",
+      "url": "https://dsport.bg/radoslav-rosenov-donese-parvia-medal-za-balgaria-ot-evropeiskoto-parvenstvo-po-boks-v-sofia~240568.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029454.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик - 23.09.2026 г. 23 Сеп | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/3b8c9591-3063-495b-8a3d-9c7209800cc7.og.jfif"
-    },
-    {
-      "title": "Боливийско дуо от ЦСКА 1948 похвали българския елит, докато чака за визи 23 Сеп | 13:56",
-      "url": "https://dsport.bg/boliviisko-duo-ot-cska-1948-pohvali-balgarskia-elit-dokato-chaka-za-vizi~240556.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1016099.og.jpg"
     }
   ]
 }
