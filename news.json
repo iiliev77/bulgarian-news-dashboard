@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-24T16:46:47.898024+00:00",
+  "updated": "2026-09-24T16:56:58.308101+00:00",
   "articles": [
+    {
+      "title": "ЦИК заличи кандидат за вицепрезидент заради съветско гражданство по рождение",
+      "url": "https://dariknews.bg/novini/bylgariia/cik-zalichi-kandidat-za-viceprezident-zaradi-syvetsko-grazhdanstvo-po-rozhdenie-2467319",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50718/50718167/640-420-prezidentstvo-dondukov-2.jpg"
+    },
+    {
+      "title": "Бащата на посланик Йорданов отрича връзка с Пеевски и обществени поръчки",
+      "url": "https://dariknews.bg/novini/bylgariia/bashtata-na-poslanik-iordanov-otricha-vryzka-s-peevski-i-obshtestveni-porychki-2467318",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Външният министър поиска отзоваване на посланика ни в ОАЕ",
       "url": "https://dariknews.bg/novini/bylgariia/vynshniiat-ministyr-poiska-otzovavane-na-poslanika-ni-v-oae-2467317",
@@ -128,20 +142,6 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386907/991-ratio-samolet-varna.jpg"
     },
     {
-      "title": "АПИ започва обновяване на важна връзка Вакарел – Панагюрище",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/api-zapochva-obnoviavane-na-vazhna-vryzka-vakarel-panagiurishte-2467295",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386897/991-ratio-api.jpg"
-    },
-    {
-      "title": "Schneider Electric придобива българската Shelly Group",
-      "url": "https://dariknews.bg/novini/biznes/schneider-electric-pridobiva-bylgarskata-shelly-group-2467296",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386920/991-ratio-biznes.jpg"
-    },
-    {
       "title": "Рами Киуан загуби полуфинала си на Европейското 24 Сеп | 19:40",
       "url": "https://dsport.bg/rami-kiuan-zagubi-polufinala-si-na-evropeiskoto~240655.html",
       "source": "Dsport",
@@ -170,42 +170,42 @@
       "image": "https://dsport.bg/media/383/gettyimages-2166306132-1~2.og.jpg"
     },
     {
-      "title": "Ексклузивно Добрин Гьонов за Академия БФС - идея, развитие и бързо спечелен трофей с 19:2 24 Сеп | 18:55",
+      "title": "Ексклузивно Добрин Гьонов за Академия БФС - идея, развитие и бързо спечелен трофей с 19:2 (ВИДЕО) 24 Сеп | 18:55",
       "url": "https://dsport.bg/dobrin-gonov-za-akademia-bfs-idea-razvitie-i-barzo-spechelen-trofei-s-19-2~240650.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_55_48-pm.og.png"
     },
     {
-      "title": "Ексклузивно Гьонов: Нямаме сигнали за манипулации, хора залагат на собствените си мачове и губят 24 Сеп | 18:45",
+      "title": "Ексклузивно Гьонов: Нямаме сигнали за манипулации, хора залагат на собствените си мачове и губят (ВИДЕО) 24 Сеп | 18:45",
       "url": "https://dsport.bg/gonov-namame-signali-za-manipulacii-hora-zalagat-na-sobstvenite-si-machove-i-gubat~240649.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_45_01-pm.og.png"
     },
     {
-      "title": "Ексклузивно Добрин Гьонов за съдийството: Ако има грешки, те идват от незнание или неможене 24 Сеп | 18:40",
+      "title": "Ексклузивно Добрин Гьонов за съдийството: Ако има грешки, те идват от незнание или неможене (ВИДЕО) 24 Сеп | 18:40",
       "url": "https://dsport.bg/dobrin-gonov-za-sadiistvoto-ako-ima-greshki-te-idvat-ot-neznanie-ili-nemozene~240648.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_38_39-pm.og.png"
     },
     {
-      "title": "Ексклузивно Гьонов: Възможно е отбор да не завърши сезона, Първа лига е за богатите 24 Сеп | 18:30",
+      "title": "Ексклузивно Гьонов: Възможно е отбор да не завърши сезона, Първа лига е за богатите (ВИДЕО) 24 Сеп | 18:30",
       "url": "https://dsport.bg/gonov-vazmozno-e-otbor-da-ne-zavarshi-sezona-parva-liga-e-za-bogatite~240647.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_32_13-pm.og.png"
     },
     {
-      "title": "Ексклузивно Добрин Гьонов за програмата, таксите и правилото за българските играчи 24 Сеп | 18:20",
+      "title": "Ексклузивно Добрин Гьонов за програмата, таксите и правилото за българските играчи (ВИДЕО) 24 Сеп | 18:20",
       "url": "https://dsport.bg/dobrin-gonov-za-programata-taksite-i-praviloto-za-balgarskite-igrachi~240646.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_19_17-pm.og.png"
     },
     {
-      "title": "Ексклузивно Гьонов обяви целта в Лигата на нациите, коментира повиквателните и ТВ излъчването 24 Сеп | 18:10",
+      "title": "Ексклузивно Гьонов обяви целта в Лигата на нациите, коментира повиквателните и ТВ излъчването (ВИДЕО) 24 Сеп | 18:10",
       "url": "https://dsport.bg/gonov-obavi-celta-v-ligata-na-naciite-komentira-povikvatelnite-i-tv-izlachvaneto~240645.html",
       "source": "Dsport",
       "section": "sport",
