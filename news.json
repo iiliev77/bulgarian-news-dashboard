@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:07:55.529736+00:00",
+  "updated": "2026-09-24T17:21:34.557810+00:00",
   "articles": [
     {
       "title": "ЦИК заличи кандидат за вицепрезидент заради съветско гражданство по рождение",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386907/991-ratio-samolet-varna.jpg"
     },
     {
+      "title": "Още има светлина в тунела: исторически клуб се спаси от фалит 24 Сеп | 20:08",
+      "url": "https://dsport.bg/oste-ima-svetlina-v-tunela-istoricheski-klub-se-spasi-ot-falit~240656.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2162303561~1.og.jpg"
+    },
+    {
       "title": "Рами Киуан загуби полуфинала си на Европейското 24 Сеп | 19:40",
       "url": "https://dsport.bg/rami-kiuan-zagubi-polufinala-si-na-evropeiskoto~240655.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_19_17-pm.og.png"
-    },
-    {
-      "title": "Ексклузивно Гьонов обяви целта в Лигата на нациите, коментира повиквателните и ТВ излъчването (ВИДЕО) 24 Сеп | 18:10",
-      "url": "https://dsport.bg/gonov-obavi-celta-v-ligata-na-naciite-komentira-povikvatelnite-i-tv-izlachvaneto~240645.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_08_25-pm.og.png"
     }
   ]
 }
