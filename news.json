@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-24T08:29:08.683807+00:00",
+  "updated": "2026-09-24T08:43:11.806662+00:00",
   "articles": [
+    {
+      "title": "Асен Василев: Прагът за регистрация по ДДС трябва да е максималният",
+      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-pragyt-za-registraciia-po-dds-triabva-da-e-maksimalniiat-2467260",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361386/991-ratio-asen-vasilev.jpg"
+    },
+    {
+      "title": "Дрон се разби край град Солка в Румъния, обявиха въздушна тревога (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/dron-se-razbi-kraj-grad-solka-v-rumyniia-obiaviha-vyzdushna-trevoga-video-2467259",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50841/50841826/991-ratio-dron.jpg"
+    },
+    {
+      "title": "35 удара с нож и вилица: 18 г. затвор за мъж, убил с жестокост колега заради връзка с негова бивша",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/35-udara-s-nozh-i-vilica-18-g.-zatvor-za-myzh-ubil-s-zhestokost-kolega-zaradi-vryzka-s-negova-bivsha-2467258",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386765/991-ratio-ubijstvo-nozh-vilica.jpg"
+    },
     {
       "title": "ЕБВР очаква 2,7% ръст на българската икономика през 2026 г.",
       "url": "https://dariknews.bg/novini/bylgariia/ebvr-ochakva-27-ryst-na-bylgarskata-ikonomika-prez-2026-g-2467257",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386731/991-ratio-angel-georgiev.jpg"
     },
     {
-      "title": "Нов провал върна Ураганите обратно в Изолатора на „Игри на волята”",
-      "url": "https://dariknews.bg/novini/liubopitno/nov-proval-vyrna-uraganite-obratno-v-izolatora-na-igri-na-voliata-2467239",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386729/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Сарафов подава сигнал за политическа корупция до премиера Радев",
-      "url": "https://dariknews.bg/novini/bylgariia/sarafov-podava-signal-za-politicheska-korupciia-do-premiera-radev-2467237",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50520/50520342/991-ratio-borislav-sarafov.jpg"
-    },
-    {
-      "title": "Мъж се разходи с яке на „Охранителна полиция“ в Перник, задържаха го",
-      "url": "https://dariknews.bg/regioni/pernik/myzh-se-razhodi-s-iake-naohranitelna-policiia-v-pernik-zadyrzhaha-go-2467238",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+      "title": "Звезден прах край тъчлинията 24 Сеп | 11:28",
+      "url": "https://dsport.bg/zvezden-prah-krai-tachliniata~240611.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/klopp_xavi.og.png"
     },
     {
       "title": "Млад талант на Ботев Пловдив се оперира 24 Сеп | 11:17",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2287579722-1.og.jpg"
-    },
-    {
-      "title": "Спешна промяна в отбора на Франция, футболист на Реал Мадрид с контузия 24 Сеп | 09:27",
-      "url": "https://dsport.bg/speshna-promana-v-otbora-na-francia-futbolist-na-real-madrid-s-kontuzia~240601.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2280967487~1.og.jpg"
     }
   ]
 }
