@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-24T06:44:26.082323+00:00",
+  "updated": "2026-09-24T06:57:36.893421+00:00",
   "articles": [
+    {
+      "title": "Камери заснеха шеф на „Криминална полиция“ в Бяла в конфликт с гражданин, МВР го разследва",
+      "url": "https://dariknews.bg/novini/bylgariia/kameri-zasneha-shef-na-kriminalna-policiia-v-biala-v-konflikt-s-grazhdanin-mvr-go-razsledva-2467235",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "16-годишен тийнейджър с положителна проба за алкохол подкара кола и катастрофира",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/16-godishen-tijnejdzhyr-s-polozhitelna-proba-za-alkohol-podkara-kola-i-katastrofira-2467233",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51193/51193061/991-ratio-shofior-momche-tijnejdzhyr-kola.jpg"
+    },
+    {
+      "title": "„Ел Ниньо“ носи не само топла есен, но и сериозен риск за здравето",
+      "url": "https://dariknews.bg/novini/liubopitno/el-ninio-nosi-ne-samo-topla-esen-no-i-seriozen-risk-za-zdraveto-2467234",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51205/51205762/991-ratio-prognoza-vreme-esen.jpg"
+    },
     {
       "title": "Шофьор с над 3 промила алкохол задигна кола и катастрофира",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/shofior-s-nad-3-promila-alkohol-zadigna-kola-i-katastrofira-2467231",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Ограничават движението по път I-1 край Благоевград",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/ogranichavat-dvizhenieto-po-pyt-i-1-kraj-blagoevgrad-2467197",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51374/51374543/991-ratio-kameri.jpg"
+      "title": "Спешна промяна в отбора на Франция, футболист на Реал Мадрид с контузия 24 Сеп | 09:27",
+      "url": "https://dsport.bg/speshna-promana-v-otbora-na-francia-futbolist-na-real-madrid-s-kontuzia~240601.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2280967487~1.og.jpg"
     },
     {
-      "title": "Бъдещият македонски посланик в България: Необходима е деескалация на отношенията",
-      "url": "https://dariknews.bg/novini/sviat/bydeshtiiat-makedonski-poslanik-v-bylgariia-neobhodima-e-deeskalaciia-na-otnosheniiata-2467220",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386651/991-ratio-skopie.jpg"
-    },
-    {
-      "title": "ЕС е изправен пред остри критики след отмяната на санкции срещу руски милиардери",
-      "url": "https://dariknews.bg/novini/sviat/es-e-izpraven-pred-ostri-kritiki-sled-otmianata-na-sankcii-sreshtu-ruski-miliarderi-2467218",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386649/991-ratio-alisher-usmanov.jpg"
+      "title": "4-те железни правила на Юрген Клоп 24 Сеп | 09:14",
+      "url": "https://dsport.bg/4-te-zelezni-pravila-na-urgen-klop~240600.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296776745.og.jpg"
     },
     {
       "title": "Испания готви ново поколение хищници 24 Сеп | 09:02",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296793405.og.jpg"
-    },
-    {
-      "title": "Милан не е започнал преговори с Пулишич за нов договор 23 Сеп | 23:47",
-      "url": "https://dsport.bg/milan-ne-e-zapochnal-pregovori-s-pulishich-za-nov-dogovor~240590.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296406521.og.jpg"
-    },
-    {
-      "title": "Удар за Депортиво: Обамеянг ще бъде опериран 23 Сеп | 23:36",
-      "url": "https://dsport.bg/udar-za-deportivo-obameang-ste-bade-operiran~240589.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2293768540.og.jpg"
     }
   ]
 }
