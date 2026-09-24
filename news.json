@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-24T07:38:35.629620+00:00",
+  "updated": "2026-09-24T07:49:48.626000+00:00",
   "articles": [
+    {
+      "title": "Акция срещу наркоразпространението в София и Костинброд, двама са арестувани",
+      "url": "https://dariknews.bg/regioni/sofiia/akciia-sreshtu-narkorazprostranenieto-v-sofiia-i-kostinbrod-dvama-sa-arestuvani-2467247",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386749/991-ratio-narkotici-sofiia.jpg"
+    },
+    {
+      "title": "15 години затвор за Харви Уайнстийн за сексуално посегателство",
+      "url": "https://dariknews.bg/novini/sviat/15-godini-zatvor-za-harvi-uajnstijn-za-seksualno-posegatelstvo-2467248",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44241/44241323/991-ratio-harvi-uajnstijn.jpg"
+    },
     {
       "title": "19-годишен моторист без книжка се блъсна в кола и дърво, с тежки травми е",
       "url": "https://dariknews.bg/regioni/blagoevgrad/19-godishen-motorist-bez-knizhka-se-blysna-v-kola-i-dyrvo-s-tezhki-travmi-e-2467246",
@@ -30,18 +44,18 @@
       "image": "https://m.netinfo.bg/media/images/51108/51108591/991-ratio-piian-shofior.jpg"
     },
     {
-      "title": "Камион на заден ход блъсна 80-годишна жена",
-      "url": "https://dariknews.bg/regioni/vidin/kamion-na-zaden-hod-blysna-80-godishna-zhena-2467241",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386733/991-ratio-schupena-ryka-vyzrastna-zhena-pensionerka.jpg"
-    },
-    {
       "title": "Статуи в цял ръст са украсявали площадите и храмовете на Перперикон в римско време",
       "url": "https://dariknews.bg/regioni/kyrdzhali/statui-v-cial-ryst-sa-ukrasiavali-ploshtadite-i-hramovete-na-perperikon-v-rimsko-vreme-2467243",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51184/51184263/991-ratio-perperikon.jpg"
+    },
+    {
+      "title": "Камион на заден ход блъсна 80-годишна жена",
+      "url": "https://dariknews.bg/regioni/vidin/kamion-na-zaden-hod-blysna-80-godishna-zhena-2467241",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386733/991-ratio-schupena-ryka-vyzrastna-zhena-pensionerka.jpg"
     },
     {
       "title": "„Възраждане“ отново настоя за незабавната оставка на посланика ни в Молдова",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51332/51332377/991-ratio-deputati-parlament.jpg"
     },
     {
-      "title": "Радев ще се срещне с Доналд Туск в Полша, какви теми ще обсъждат",
-      "url": "https://dariknews.bg/novini/sviat/radev-shte-se-sreshtne-s-donald-tusk-v-polsha-kakvi-temi-shte-obsyzhdat-2467229",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Тодор Янчев направи промяна в младежкия национален отбор на България 24 Сеп | 10:33",
+      "url": "https://dsport.bg/todor-anchev-napravi-promana-v-mladezkia-nacionalen-otbor-na-balgaria~240606.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/873371-1~1.og.jpg"
     },
     {
-      "title": "Свлачището в „Аспарухово“ постави под въпрос новото строителство: ВиК иска мораториум",
-      "url": "https://dariknews.bg/regioni/varna/svlachishteto-v-asparuhovo-postavi-pod-vypros-novoto-stroitelstvo-vik-iska-moratorium-2467227",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385613/991-ratio-pyt-varna-propadnal.jpg"
+      "title": "Чочев отпадна от националния отбор 24 Сеп | 10:30",
+      "url": "https://dsport.bg/chochev-otpadna-ot-nacionalnia-otbor~240605.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1018678~1.og.jpg"
     },
     {
       "title": "Човек на Мбапе разследван за корупция след подарък от €60 000 24 Сеп | 10:08",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1258262133.og.jpg"
-    },
-    {
-      "title": "Финландия елиминира световния шампион Италия и се класира за полуфиналите на Евроволей 2026 24 Сеп | 08:35",
-      "url": "https://dsport.bg/finlandia-eliminira-svetovnia-shampion-italia-i-se-klasira-za-polufinalite-na-evrovolei-2026~240595.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/013915__i8a9501.og.jpg"
-    },
-    {
-      "title": "Пътят от сладкарското училище до голямата сцена 24 Сеп | 08:25",
-      "url": "https://dsport.bg/patat-ot-sladkarskoto-uchiliste-do-golamata-scena~240594.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2289839414.og.jpg"
     }
   ]
 }
