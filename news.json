@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-24T06:27:47.391952+00:00",
+  "updated": "2026-09-24T06:44:26.082323+00:00",
   "articles": [
+    {
+      "title": "Шофьор с над 3 промила алкохол задигна кола и катастрофира",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/shofior-s-nad-3-promila-alkohol-zadigna-kola-i-katastrofira-2467231",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50996/50996005/991-ratio-alkohol-shofior-kola.jpg"
+    },
+    {
+      "title": "Данъчни облекчения и нови правила в училище: Какво се променя за семействата",
+      "url": "https://dariknews.bg/novini/bylgariia/danychni-oblekcheniia-i-novi-pravila-v-uchilishte-kakvo-se-promenia-za-semejstvata-2467228",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51325/51325813/991-ratio-uchenici-zrelostnici.jpg"
+    },
+    {
+      "title": "„Иран няма да се поклони“: Пезешкиан отправи послание към Тръмп от трибуната на ООН",
+      "url": "https://dariknews.bg/novini/sviat/iran-niama-da-se-pokloni-pezeshkian-otpravi-poslanie-kym-trymp-ot-tribunata-na-oon-2467232",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51128/51128263/991-ratio-prezidentyt-na-iran-masud-pezeshkian.jpg"
+    },
+    {
+      "title": "Парламентът обсъжда промени в Наказателния кодекс на първо четене (НА ЖИВО)",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-obsyzhda-promeni-v-nakazatelniia-kodeks-na-pyrvo-chetene-na-zhivo-2467230",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332377/991-ratio-deputati-parlament.jpg"
+    },
     {
       "title": "Радев ще се срещне с Доналд Туск в Полша, какви теми ще обсъждат",
       "url": "https://dariknews.bg/novini/sviat/radev-shte-se-sreshtne-s-donald-tusk-v-polsha-kakvi-temi-shte-obsyzhdat-2467229",
@@ -44,8 +72,8 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Пожарът край вилна зона „Отдих“: Пожарната подозира умишлен палеж",
-      "url": "https://dariknews.bg/regioni/plovdiv/pozharyt-kraj-vilna-zona-otdih-pozharnata-podozira-umishlen-palezh-2467223",
+      "title": "Огнената стихия край вилна зона „Отдих“: Пожарната подозира умишлен палеж",
+      "url": "https://dariknews.bg/regioni/plovdiv/ognenata-stihiia-kraj-vilna-zona-otdih-pozharnata-podozira-umishlen-palezh-2467223",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386667/991-ratio-vasil-dimov.jpg"
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386649/991-ratio-alisher-usmanov.jpg"
     },
     {
-      "title": "Пайети, плаж и селфита: 10 типа туристи на „Евровизия“, които ще превземат Бургас (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/pajeti-plazh-i-selfita-10-tipa-turisti-na-evroviziia-koito-shte-prevzemat-burgas-snimki-2467047",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Синът на израелския посланик в САЩ е ранен при нападение в Западния бряг",
-      "url": "https://dariknews.bg/novini/sviat/sinyt-na-izraelskiia-poslanik-v-sasht-e-ranen-pri-napadenie-v-zapadniia-briag-2467217",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386647/991-ratio-izrael.jpg"
-    },
-    {
-      "title": "Над 50 държави в ООН призоваха Русия за незабавно прекратяване на огъня в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/nad-50-dyrzhavi-v-oon-prizovaha-rusiia-za-nezabavno-prekratiavane-na-ogynia-v-ukrajna-2467216",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386645/991-ratio-oon.jpg"
-    },
-    {
-      "title": "Близки на Евгения Владимирова протестираха пред Съдебната палата",
-      "url": "https://dariknews.bg/regioni/sofiia/blizki-na-evgeniia-vladimirova-protestiraha-pred-sydebnata-palata-2467215",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386643/991-ratio-evgeniia.jpg"
+      "title": "Испания готви ново поколение хищници 24 Сеп | 09:02",
+      "url": "https://dsport.bg/ispania-gotvi-novo-pokolenie-histnici~240599.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296313204.og.jpg"
     },
     {
       "title": "Върховният съд потвърди: испански нападател влиза в затвора за 4 години за сексуално насилие 24 Сеп | 08:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2293768540.og.jpg"
-    },
-    {
-      "title": "Съперник на Левски в Лига Европа може да смени треньора преди мача със „сините“ 23 Сеп | 23:19",
-      "url": "https://dsport.bg/sapernik-na-levski-v-liga-evropa-moze-da-smeni-trenora-predi-macha-sas-sinite~240588.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2166068302~1.og.jpg"
     }
   ]
 }
