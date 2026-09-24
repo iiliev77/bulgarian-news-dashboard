@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-24T10:07:10.988310+00:00",
+  "updated": "2026-09-24T10:22:36.627156+00:00",
   "articles": [
+    {
+      "title": "За 25 минути от Пловдив до Септември с новите мотриси на БДЖ (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/plovdiv/za-25-minuti-ot-plovdiv-do-septemvri-s-novite-motrisi-na-bdzh-snimki-2467271",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386813/991-ratio-bdzh-novi-motrisi-shkoda.jpg"
+    },
+    {
+      "title": "Шофьор без книжка е в тежко състояние след катастрофа в Хасковско",
+      "url": "https://dariknews.bg/regioni/haskovo/shofior-bez-knizhka-e-v-tezhko-systoianie-sled-katastrofa-v-haskovsko-2467273",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
+    },
+    {
+      "title": "„Каша от несвързани предложения“: ДБ за данъчните промени",
+      "url": "https://dariknews.bg/novini/bylgariia/kasha-ot-nesvyrzani-predlozheniia-db-za-danychnite-promeni-2467272",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51219/51219395/991-ratio-martin-dimitrov-ivajlo-mirchev.jpg"
+    },
     {
       "title": "Стартира мащабна инициатива за представяне на български продукти пред света",
       "url": "https://dariknews.bg/novini/bylgariia/startira-mashtabna-iniciativa-za-predstaviane-na-bylgarski-produkti-pred-sveta-2467270",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50780/50780550/991-ratio-imot-kyshta-zhilishte.jpg"
     },
     {
-      "title": "Акция срещу наркоразпространението в София и Костинброд, двама са арестувани",
-      "url": "https://dariknews.bg/regioni/sofiia/akciia-sreshtu-narkorazprostranenieto-v-sofiia-i-kostinbrod-dvama-sa-arestuvani-2467247",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386749/991-ratio-narkotici-sofiia.jpg"
+      "title": "Забавиха старта на първата квалификация на Цолов в Баку 24 Сеп | 13:15",
+      "url": "https://dsport.bg/zabaviha-starta-na-parvata-kvalifikacia-na-colov-v-baku~240620.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2281516721-1-1~1.og.jpg"
     },
     {
-      "title": "15 години затвор за Харви Уайнстийн за сексуално посегателство (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/15-godini-zatvor-za-harvi-uajnstijn-za-seksualno-posegatelstvo-video-2467248",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44241/44241323/991-ratio-harvi-uajnstijn.jpg"
-    },
-    {
-      "title": "Делото „Евгения“: ВКС заседава за жестокото убийство, близките ѝ настояват за доживотен затвор (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/deloto-evgeniia-vks-zasedava-za-zhestokoto-ubijstvo-blizkite-nastoiavat-za-dozhivoten-zatvor-snimki-2467249",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386740/991-ratio-orlin-vladimirov-delo-evgeniia.jpg"
+      "title": "Тиери Анри продава луксозния си пентхаус в Ню Йорк за 25 млн. долара 24 Сеп | 13:11",
+      "url": "https://dsport.bg/tieri-anri-prodava-luksoznia-si-penthaus-v-nu-iork-za-25-mln-dolara~240621.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2252587050~1.og.jpg"
     },
     {
       "title": "Конкурент на Цолов бе дисквалифициран от тренировката в Баку 24 Сеп | 13:06",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2291888962.og.jpg"
-    },
-    {
-      "title": "Звезден прах край тъчлинията 24 Сеп | 11:28",
-      "url": "https://dsport.bg/zvezden-prah-krai-tachliniata~240611.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/klopp_xavi.og.png"
-    },
-    {
-      "title": "Млад талант на Ботев Пловдив се оперира 24 Сеп | 11:17",
-      "url": "https://dsport.bg/mlad-talant-na-botev-plovdiv-se-operira~240610.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/botev11~1.og.jpg"
     }
   ]
 }
