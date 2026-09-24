@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-24T14:19:56.298783+00:00",
+  "updated": "2026-09-24T14:34:44.176629+00:00",
   "articles": [
+    {
+      "title": "Унищожиха над 2 тона марихуана чрез изгаряне в ТЕЦ",
+      "url": "https://dariknews.bg/regioni/haskovo/unishtozhiha-nad-2-tona-marihuana-chrez-izgariane-v-tec-2467309",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386965/991-ratio-marihuana.jpg"
+    },
+    {
+      "title": "Полша ще помага на България за поддръжка на ВВС",
+      "url": "https://dariknews.bg/novini/bylgariia/polsha-shte-pomaga-na-bylgariia-za-poddryzhka-na-vvs-2467307",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50085/50085386/991-ratio-mig-29.jpg"
+    },
     {
       "title": "Конституционният съд остави в сила правилата, по които Йотова разпредели местата в ЦИК",
       "url": "https://dariknews.bg/novini/bylgariia/konstitucionniiat-syd-ostavi-v-sila-pravilata-po-koito-iotova-razpredeli-mestata-v-cik-2467306",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51339/51339114/991-ratio-georgi-peev.jpg"
     },
     {
-      "title": "Вълчев: Трябва да се намери баланс между традиционните методи и новите технологии в преподаването",
-      "url": "https://dariknews.bg/novini/bylgariia/vylchev-triabva-da-se-nameri-balans-mezhdu-tradicionnite-metodi-i-novite-tehnologii-v-prepodavaneto-2467288",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51318/51318285/991-ratio-georgi-aleksandrov-vylchev.jpg"
+      "title": "Отложиха Лудогорец II - Етър 24 Сеп | 17:26",
+      "url": "https://dsport.bg/otloziha-ludogorec-ii-etar~240642.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/630724-1-1-1-2-2.og.jpg"
     },
     {
-      "title": "„Спаси София“ настоява изцяло да бъде променена философията на бюджета за столицата за 2027 г.",
-      "url": "https://dariknews.bg/regioni/sofiia/spasi-sofiia-nastoiava-izcialo-da-byde-promenena-filosofiiata-na-biudzheta-za-stolicata-za-2027-g-2467287",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50672/50672830/991-ratio-boris-bonev.jpg"
+      "title": "Лудогорец с две контроли по време на паузата 24 Сеп | 17:20",
+      "url": "https://dsport.bg/ludogorec-s-dve-kontroli-po-vreme-na-pauzata~240641.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1009219~1.og.jpg"
     },
     {
       "title": "Адриан Андреев победи Иван Иванов в Пловдив 24 Сеп | 17:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/578207-1~1.og.jpg"
-    },
-    {
-      "title": "Донски отпадна на четвъртфиналите в Сен Тропе 24 Сеп | 15:23",
-      "url": "https://dsport.bg/donski-otpadna-na-chetvartfinalite-v-sen-trope~240632.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/16.05-2-1-1~1.og.jpg"
-    },
-    {
-      "title": "Аурелио Де Лаурентис разкри плановете си за новия стадион на Наполи 24 Сеп | 15:11",
-      "url": "https://dsport.bg/aurelio-de-laurentis-razkri-planovete-si-za-novia-stadion-na-napoli~240631.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1851894795-3~1.og.jpg"
     }
   ]
 }
