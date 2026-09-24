@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T09:56:19.849329+00:00",
+  "updated": "2026-09-24T10:07:10.988310+00:00",
   "articles": [
+    {
+      "title": "Стартира мащабна инициатива за представяне на български продукти пред света",
+      "url": "https://dariknews.bg/novini/bylgariia/startira-mashtabna-iniciativa-za-predstaviane-na-bylgarski-produkti-pred-sveta-2467270",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386799/991-ratio-iniciativa.jpg"
+    },
     {
       "title": "Ограничават трафика по Дунав мост за международен пробег от Русе до Гюргево",
       "url": "https://dariknews.bg/regioni/ruse/ogranichavat-trafika-po-dunav-most-za-mezhdunaroden-probeg-ot-ruse-do-giurgevo-2467268",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386740/991-ratio-orlin-vladimirov-delo-evgeniia.jpg"
     },
     {
-      "title": "19-годишен моторист без книжка се блъсна в кола и дърво, с тежки травми е",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/19-godishen-motorist-bez-knizhka-se-blysna-v-kola-i-dyrvo-s-tezhki-travmi-e-2467246",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50959/50959014/991-ratio-motor-motociklet-katastrofa-motorist-motocikletist.jpg"
+      "title": "Конкурент на Цолов бе дисквалифициран от тренировката в Баку 24 Сеп | 13:06",
+      "url": "https://dsport.bg/konkurent-na-colov-be-diskvalificiran-ot-trenirovkata-v-baku~240619.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2284316174.og.jpg"
+    },
+    {
+      "title": "Джордж Ръсел записа най-добра обиколка в първата тренировка на Формула 1 в Баку 24 Сеп | 12:55",
+      "url": "https://dsport.bg/dzordz-rasel-zapisa-nai-dobra-obikolka-v-parvata-trenirovka-na-formula-1-v-baku~240618.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296879665.og.jpg"
     },
     {
       "title": "Жоао Феликс: Ламин Ямал трябва да спечели Златната топка, той е самият футбол 24 Сеп | 12:39",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/botev11~1.og.jpg"
-    },
-    {
-      "title": "Антъни Гордън: Англия никога не може да контролира мачовете си като Испания и трябва да играе според силните си страни 24 Сеп | 11:06",
-      "url": "https://dsport.bg/antani-gordan-anglia-nikoga-ne-moze-da-kontrolira-machovete-si-kato-ispania-i-trabva-da-igrae-spored-silnite-si-strani~240609.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296142151.og.jpg"
-    },
-    {
-      "title": "Родри посочи своите фаворити за „Златната топка“: Трябва да я спечели испанец 24 Сеп | 10:54",
-      "url": "https://dsport.bg/rodri-posochi-svoite-favoriti-za-zlatnata-topka-trabva-da-a-specheli-ispanec~240608.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2292346705-1.og.jpg"
     }
   ]
 }
