@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-24T08:12:56.898370+00:00",
+  "updated": "2026-09-24T08:29:08.683807+00:00",
   "articles": [
+    {
+      "title": "ЕБВР очаква 2,7% ръст на българската икономика през 2026 г.",
+      "url": "https://dariknews.bg/novini/bylgariia/ebvr-ochakva-27-ryst-na-bylgarskata-ikonomika-prez-2026-g-2467257",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50688/50688312/991-ratio-ikonomika.jpg"
+    },
+    {
+      "title": "Хиляди евро и долари, скрити в обувки и багаж, откриха на „Капитан Андреево“",
+      "url": "https://dariknews.bg/regioni/haskovo/hiliadi-evro-i-dolari-skriti-v-obuvki-i-bagazh-otkriha-na-kapitan-andreevo-2467256",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386761/991-ratio-kapitan-andreevo.jpg"
+    },
+    {
+      "title": "Заловиха мъж с конопена плантация край Банкя",
+      "url": "https://dariknews.bg/regioni/sofiia/zaloviha-myzh-s-konopena-plantaciia-kraj-bankia-2467255",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50938/50938881/991-ratio-konop-vidin.jpg"
+    },
     {
       "title": "Кола се заби в къща в село Борино, шофьорът – с 1,71 промила алкохол",
       "url": "https://dariknews.bg/novini/kola-se-zabi-v-kyshta-v-selo-borino-shofioryt-s-171-promila-alkohol-2467253",
@@ -121,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
     },
     {
-      "title": "Шофьорка с положителна проба за кокаин катастрофира край Самоков",
-      "url": "https://dariknews.bg/regioni/sofiia/shofiorka-s-polozhitelna-proba-za-kokain-katastrofira-kraj-samokov-2467236",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50997/50997389/991-ratio-kola-zhena-kola-shofiorka.jpg"
+      "title": "Млад талант на Ботев Пловдив се оперира 24 Сеп | 11:17",
+      "url": "https://dsport.bg/mlad-talant-na-botev-plovdiv-se-operira~240610.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/botev11~1.og.jpg"
     },
     {
-      "title": "Камери заснеха шеф на „Криминална полиция“ в Бяла в конфликт с гражданин, МВР го разследва",
-      "url": "https://dariknews.bg/novini/bylgariia/kameri-zasneha-shef-na-kriminalna-policiia-v-biala-v-konflikt-s-grazhdanin-mvr-go-razsledva-2467235",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Антъни Гордън: Англия никога не може да контролира мачовете си като Испания и трябва да играе според силните си страни 24 Сеп | 11:06",
+      "url": "https://dsport.bg/antani-gordan-anglia-nikoga-ne-moze-da-kontrolira-machovete-si-kato-ispania-i-trabva-da-igrae-spored-silnite-si-strani~240609.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296142151.og.jpg"
     },
     {
-      "title": "16-годишен тийнейджър с положителна проба за алкохол подкара кола и катастрофира",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/16-godishen-tijnejdzhyr-s-polozhitelna-proba-za-alkohol-podkara-kola-i-katastrofira-2467233",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51193/51193061/991-ratio-shofior-momche-tijnejdzhyr-kola.jpg"
+      "title": "Родри посочи своите фаворити за „Златната топка“: Трябва да я спечели испанец 24 Сеп | 10:54",
+      "url": "https://dsport.bg/rodri-posochi-svoite-favoriti-za-zlatnata-topka-trabva-da-a-specheli-ispanec~240608.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2292346705-1.og.jpg"
     },
     {
       "title": "Кой е по-бърз от новите светкавици на Барселона? 24 Сеп | 10:44",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2280967487~1.og.jpg"
-    },
-    {
-      "title": "4-те железни правила на Юрген Клоп 24 Сеп | 09:14",
-      "url": "https://dsport.bg/4-te-zelezni-pravila-na-urgen-klop~240600.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296776745.og.jpg"
-    },
-    {
-      "title": "Испания готви ново поколение хищници 24 Сеп | 09:02",
-      "url": "https://dsport.bg/ispania-gotvi-novo-pokolenie-histnici~240599.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296313204.og.jpg"
-    },
-    {
-      "title": "Върховният съд потвърди: испански нападател влиза в затвора за 4 години за сексуално насилие 24 Сеп | 08:54",
-      "url": "https://dsport.bg/varhovniat-sad-potvardi-ispanski-napadatel-vliza-v-zatvora-za-4-godini-za-seksualno-nasilie~240597.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1237834636.og.jpg"
     }
   ]
 }
