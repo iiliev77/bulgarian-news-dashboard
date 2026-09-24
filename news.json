@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T06:57:36.893421+00:00",
+  "updated": "2026-09-24T07:10:53.130691+00:00",
   "articles": [
+    {
+      "title": "Шофьорка с положителна проба за кокаин катастрофира край Самоков",
+      "url": "https://dariknews.bg/regioni/sofiia/shofiorka-s-polozhitelna-proba-za-kokain-katastrofira-kraj-samokov-2467236",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50997/50997389/991-ratio-kola-zhena-kola-shofiorka.jpg"
+    },
     {
       "title": "Камери заснеха шеф на „Криминална полиция“ в Бяла в конфликт с гражданин, МВР го разследва",
       "url": "https://dariknews.bg/novini/bylgariia/kameri-zasneha-shef-na-kriminalna-policiia-v-biala-v-konflikt-s-grazhdanin-mvr-go-razsledva-2467235",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51373/51373928/991-ratio-doli-partyn.jpg"
     },
     {
-      "title": "Внимание, падат първите слани: Има опасност за 7 области в четвъртък",
-      "url": "https://dariknews.bg/regioni/kiustendil/vnimanie-padat-pyrvite-slani-ima-opasnost-za-7-oblasti-v-chetvyrtyk-2467198",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "ЦСКА 1948 обяви контрола по време на лагера в Банско 24 Сеп | 09:57",
+      "url": "https://dsport.bg/cska-1948-obavi-kontrola-po-vreme-na-lagera-v-bansko~240603.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1006742-1.og.jpg"
+    },
+    {
+      "title": "Никола Цолов трети в тренировката по улиците на Баку 24 Сеп | 09:50",
+      "url": "https://dsport.bg/nikola-colov-treti-v-trenirovkata-po-ulicite-na-baku~240602.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2287579722-1.og.jpg"
     },
     {
       "title": "Спешна промяна в отбора на Франция, футболист на Реал Мадрид с контузия 24 Сеп | 09:27",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2177073115-1~1.og.jpg"
-    },
-    {
-      "title": "Агресивната кампания на Мбапе за Златната топка му носи повече вреда, отколкото полза 24 Сеп | 08:03",
-      "url": "https://dsport.bg/agresivnata-kampania-na-mbape-za-zlatnata-topka-mu-nosi-poveche-vreda-otkolkoto-polza~240592.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2286665329~1.og.jpg"
-    },
-    {
-      "title": "Барселона тръгна с разгром в Шампионската лига 23 Сеп | 23:57",
-      "url": "https://dsport.bg/barselona-tragna-s-razgrom-v-shampionskata-liga~240591.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296793405.og.jpg"
     }
   ]
 }
