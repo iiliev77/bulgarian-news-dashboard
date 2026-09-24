@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T11:55:15.303710+00:00",
+  "updated": "2026-09-24T12:05:52.863195+00:00",
   "articles": [
+    {
+      "title": "„Спаси София“ настоява изцяло да бъде променена философията на бюджета за столицата за 2027 г.",
+      "url": "https://dariknews.bg/regioni/sofiia/spasi-sofiia-nastoiava-izcialo-da-byde-promenena-filosofiiata-na-biudzheta-za-stolicata-za-2027-g-2467287",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50672/50672830/991-ratio-boris-bonev.jpg"
+    },
     {
       "title": "КЕВР определи компенсациите за тока през август: Ето кой ще получи най-много",
       "url": "https://dariknews.bg/novini/bylgariia/kevr-opredeli-kompensaciite-za-toka-prez-avgust-eto-koj-shte-poluchi-naj-mnogo-2467285",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
     },
     {
-      "title": "16-годишната остава в ареста за убийството на Георги Кузев - съдът видя риск да повлияе на свидетелите",
-      "url": "https://dariknews.bg/regioni/plovdiv/16-godishnata-ostava-v-aresta-za-ubijstvoto-na-georgi-kuzev-sydyt-vidia-risk-da-povliiae-na-svidetelite-2467266",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375111/991-ratio-mladezhi-ubijstvo-georgi-kuzev.jpg"
+      "title": "Янева е на четвъртфинал в Пловдив 24 Сеп | 14:58",
+      "url": "https://dsport.bg/aneva-e-na-chetvartfinal-v-plovdiv~240629.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/elizara_qneva_chetvyrtyk-2.og.jpg"
     },
     {
       "title": "Защитник на Септември оперира лявото си коляно 24 Сеп | 14:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296879665.og.jpg"
-    },
-    {
-      "title": "Жоао Феликс: Ламин Ямал трябва да спечели Златната топка, той е самият футбол 24 Сеп | 12:39",
-      "url": "https://dsport.bg/zoao-feliks-lamin-amal-trabva-da-specheli-zlatnata-topka-toi-e-samiat-futbol~240617.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2284393786.og.jpg"
     }
   ]
 }
