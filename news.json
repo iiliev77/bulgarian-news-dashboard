@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:33:42.749371+00:00",
+  "updated": "2026-09-24T20:46:19.135011+00:00",
   "articles": [
     {
       "title": "ЦИК регистрира Александър Гарибов като кандидат за вицепрезидент заедно с Александър Томов",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386940/991-ratio-geo-kalev.jpg"
     },
     {
+      "title": "Нидерландия и Германия с драматичен хикс в дебютите на Клоп и Шави 24 Сеп | 23:43",
+      "url": "https://dsport.bg/niderlandia-i-germania-s-dramatichen-hiks-v-debutite-na-klop-i-shavi~240666.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296289534.og.jpg"
+    },
+    {
       "title": "Ударен старт за Везенков и Олимпиакос в Евролигата 24 Сеп | 23:22",
       "url": "https://dsport.bg/udaren-start-za-vezenkov-i-olimpiakos-v-evroligata~240665.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1029722.og.jpg"
-    },
-    {
-      "title": "Още има светлина в тунела: исторически клуб се спаси от фалит 24 Сеп | 20:08",
-      "url": "https://dsport.bg/oste-ima-svetlina-v-tunela-istoricheski-klub-se-spasi-ot-falit~240656.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2162303561~1.og.jpg"
     }
   ]
 }
