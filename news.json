@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-24T13:41:18.770105+00:00",
+  "updated": "2026-09-24T13:53:53.876178+00:00",
   "articles": [
+    {
+      "title": "Терзиев: Бюджетът за 2026 г. е рекорден, но средствата на София са ограничени",
+      "url": "https://dariknews.bg/regioni/sofiia/terziev-biudzhetyt-za-2026-g.-e-rekorden-no-sredstvata-na-sofiia-sa-ogranicheni-2467304",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375643/991-ratio-sofiia-grad.jpg"
+    },
+    {
+      "title": "15 години „ЦИРКОЛЮЦИЯ Мини Арт Фест: Гео Калев за съвременния цирк, социалната мисия и бъдещето",
+      "url": "https://dariknews.bg/novini/liubopitno/15-godini-cirkoliuciia-mini-art-fest-geo-kalev-za-syvremenniia-cirk-socialnata-misiia-i-bydeshteto-2467303",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386940/991-ratio-geo-kalev.jpg"
+    },
     {
       "title": "Гърция издирва „прокурорския син“ Васил Михайлов, грози го доживотен затвор",
       "url": "https://dariknews.bg/novini/bylgariia/gyrciia-izdirva-prokurorskiia-sin-vasil-mihajlov-grozi-go-dozhivoten-zatvor-2467302",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/44023/44023610/991-ratio-komari.jpg"
     },
     {
-      "title": "Затварят участъци в центъра на Добрич заради предстоящ ремонт",
-      "url": "https://dariknews.bg/regioni/dobrich/zatvariat-uchastyci-v-centyra-na-dobrich-zaradi-predstoiasht-remont-2467284",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386855/991-ratio-dobrich.jpg"
-    },
-    {
-      "title": "Зад лошото поведение се крие нещо много по-дълбоко: Как да чуем децата си (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/zad-loshoto-povedenie-se-krie-neshto-mnogo-po-dylboko-kak-da-chuem-decata-si-video-2467283",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386849/991-ratio-d-r-gergana-markova.jpg"
+      "title": "Обявиха програмата за Втори кръг на Предварителната фаза на Sesame Купа на България 24 Сеп | 16:41",
+      "url": "https://dsport.bg/obaviha-programata-za-vtori-krag-na-predvaritelnata-faza-na-sesame-kupa-na-balgaria~240638.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029534~1.og.jpg"
     },
     {
       "title": "Ясно е къде и кога ще е мачът Фюри - Джошуа 24 Сеп | 16:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/973698~1.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив официално представи нов футболист 24 Сеп | 14:27",
-      "url": "https://dsport.bg/botev-plovdiv-oficialno-predstavi-nov-futbolist~240626.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/ukaki~1.og.jpg"
     }
   ]
 }
