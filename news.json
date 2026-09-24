@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T11:34:33.864248+00:00",
+  "updated": "2026-09-24T11:46:23.004123+00:00",
   "articles": [
     {
       "title": "Затварят участъци в центъра на Добрич заради предстоящ ремонт",
@@ -34,7 +34,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/za-pyrvi-pyt-ot-2021-g.-proveriavat-i-remontirat-12-800-mashini-za-glasuvane-2467279",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306613/991-ratio-izbori.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Двама българи са арестувани в Хърватия за измами, представяли се за лекари",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51309/51309081/991-ratio-borova-gora.jpg"
     },
     {
+      "title": "Защитник на Септември оперира лявото си коляно 24 Сеп | 14:40",
+      "url": "https://dsport.bg/zastitnik-na-septemvri-operira-lavoto-si-kolano~240628.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/973698~1.og.jpg"
+    },
+    {
       "title": "Ботев Пловдив официално представи нов футболист 24 Сеп | 14:27",
       "url": "https://dsport.bg/botev-plovdiv-oficialno-predstavi-nov-futbolist~240626.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2284393786.og.jpg"
-    },
-    {
-      "title": "Владимир Кличко пристига в София за заключителните два дни от Европейското първенство по бокс за мъже и жени 24 Сеп | 12:29",
-      "url": "https://dsport.bg/vladimir-klichko-pristiga-v-sofia-za-zakluchitelnite-dva-dni-ot-evropeiskoto-parvenstvo-po-boks-za-maze-i-zeni~240616.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2172558941-1.og.jpg"
     }
   ]
 }
