@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-24T08:54:31.302218+00:00",
+  "updated": "2026-09-24T09:03:51.703826+00:00",
   "articles": [
     {
-      "title": "Асен Василев предупреди: Такса „смет“ трябва да бъде разкачена от данъчната оценка",
-      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-predupredi-taksa-smet-triabva-da-byde-razkachena-ot-danychnata-ocenka-2467260",
+      "title": "Длъжностни лица от две врачански кметства замесени в незаконна сеч за 7000 евро",
+      "url": "https://dariknews.bg/regioni/vraca/dlyzhnostni-lica-ot-dve-vrachanski-kmetstva-zameseni-v-nezakonna-sech-za-7000-evro-2467261",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51255/51255506/991-ratio-dyrvesina-dyrva.jpg"
+    },
+    {
+      "title": "Василев: Вдигането на данъчните оценки не трябва да удря по джоба на хората, такса „смет“ да се разкачи от тях",
+      "url": "https://dariknews.bg/novini/bylgariia/vasilev-vdiganeto-na-danychnite-ocenki-ne-triabva-da-udria-po-dzhoba-na-horata-taksa-smet-da-se-razkachi-ot-tiah-2467260",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386768/991-ratio-asen-vasilev.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386733/991-ratio-schupena-ryka-vyzrastna-zhena-pensionerka.jpg"
     },
     {
-      "title": "„Възраждане“ отново настоя за незабавната оставка на посланика ни в Молдова",
-      "url": "https://dariknews.bg/novini/bylgariia/vyzrazhdane-otnovo-nastoia-za-nezabavnata-ostavka-na-poslanika-ni-v-moldova-2467240",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386731/991-ratio-angel-georgiev.jpg"
+      "title": "Футболът обяви война на бавенето на играта: как новите правила променят мачовете? 24 Сеп | 11:48",
+      "url": "https://dsport.bg/futbolat-obavi-voina-na-baveneto-na-igrata-kak-novite-pravila-promenat-machovete~240612.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2291888962.og.jpg"
     },
     {
       "title": "Звезден прах край тъчлинията 24 Сеп | 11:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1006742-1.og.jpg"
-    },
-    {
-      "title": "Никола Цолов трети в тренировката по улиците на Баку 24 Сеп | 09:50",
-      "url": "https://dsport.bg/nikola-colov-treti-v-trenirovkata-po-ulicite-na-baku~240602.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2287579722-1.og.jpg"
     }
   ]
 }
