@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T05:55:51.113491+00:00",
+  "updated": "2026-09-24T06:08:03.922314+00:00",
   "articles": [
+    {
+      "title": "Радев ще се срещне с Доналд Туск в Полша, какви теми ще обсъждат",
+      "url": "https://dariknews.bg/novini/sviat/radev-shte-se-sreshtne-s-donald-tusk-v-polsha-kakvi-temi-shte-obsyzhdat-2467229",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/31011/31011755/991-ratio-rumen-radev-donald-tusk.jpg"
+    },
     {
       "title": "Свлачището в „Аспарухово“ постави под въпрос новото строителство: ВиК иска мораториум",
       "url": "https://dariknews.bg/regioni/varna/svlachishteto-v-asparuhovo-postavi-pod-vypros-novoto-stroitelstvo-vik-iska-moratorium-2467227",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386643/991-ratio-evgeniia.jpg"
     },
     {
-      "title": "МВР издирва 70-годишен мъж от Елешница",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/mvr-izdirva-70-godishen-myzh-ot-eleshnica-2467214",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386640/991-ratio-ivan-tolin.jpg"
+      "title": "Новата ера за Серхио Бускетс 24 Сеп | 08:45",
+      "url": "https://dsport.bg/novata-era-za-serhio-buskets~240596.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-1258262133.og.jpg"
     },
     {
       "title": "Финландия елиминира световния шампион Италия и се класира за полуфиналите на Евроволей 2026 24 Сеп | 08:35",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296049804.og.jpg"
-    },
-    {
-      "title": "Братът на Гонсало Игуаин бе уволнен заради сексистки коментар 23 Сеп | 22:47",
-      "url": "https://dsport.bg/bratat-na-gonsalo-iguain-be-uvolnen-zaradi-seksistki-komentar~240586.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1270835428.og.jpg"
     }
   ]
 }
