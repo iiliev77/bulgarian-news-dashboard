@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-24T12:44:09.770030+00:00",
+  "updated": "2026-09-24T12:57:31.706314+00:00",
   "articles": [
+    {
+      "title": "АПИ започва обновяване на важна връзка Вакарел – Панагюрище",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/api-zapochva-obnoviavane-na-vazhna-vryzka-vakarel-panagiurishte-2467295",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386897/991-ratio-api.jpg"
+    },
+    {
+      "title": "Довършването на ремонта на операта в Русе може да достигне 6 милиона евро",
+      "url": "https://dariknews.bg/regioni/ruse/dovyrshvaneto-na-remonta-na-operata-v-ruse-mozhe-da-dostigne-6-miliona-evro-2467293",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51031/51031856/991-ratio-ruse-opera.jpg"
+    },
+    {
+      "title": "Столичните общинари решиха: Скачат цените на таксиметровите услуги",
+      "url": "https://dariknews.bg/regioni/sofiia/stolichnite-obshtinari-reshiha-skachat-cenite-na-taksimetrovite-uslugi-2467294",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50959/50959646/991-ratio-taksi.jpg"
+    },
     {
       "title": "Нов воин от Блатото става част от надпреварата в “Игри на волята”",
       "url": "https://dariknews.bg/novini/liubopitno/nov-voin-ot-blatoto-stava-chast-ot-nadprevarata-v-igri-na-voliata-2467291",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
     },
     {
-      "title": "ЕС осигурява допълнителни средства за Украйна с помощта на Норвегия",
-      "url": "https://dariknews.bg/novini/sviat/es-osiguriava-dopylnitelni-sredstva-za-ukrajna-s-pomoshtta-na-norvegiia-2467275",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
-    },
-    {
-      "title": "Прокуратурата иска арест за българин, издирван от Гърция",
-      "url": "https://dariknews.bg/regioni/kiustendil/prokuraturata-iska-arest-za-bylgarin-izdirvan-ot-gyrciia-2467274",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43766/43766854/991-ratio-temida.jpg"
-    },
-    {
-      "title": "За 25 минути от Пловдив до Септември с новите мотриси на БДЖ (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/plovdiv/za-25-minuti-ot-plovdiv-do-septemvri-s-novite-motrisi-na-bdzh-snimki-2467271",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386813/991-ratio-bdzh-novi-motrisi-shkoda.jpg"
+      "title": "Председателят на СК ЦСКА: Ангелов може да е спасението от най-лошата година в борбата ни 24 Сеп | 15:52",
+      "url": "https://dsport.bg/predsedatelat-na-sk-cska-angelov-moze-da-e-spasenieto-ot-nai-loshata-godina-v-borbata-ni~240634.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/26.01-10~1.og.jpg"
     },
     {
       "title": "Васил Минев свири Латвия - Германия 24 Сеп | 15:36",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/966455-1.og.jpg"
-    },
-    {
-      "title": "Родри преобрази Барселона 24 Сеп | 13:32",
-      "url": "https://dsport.bg/rodri-preobrazi-barselona~240622.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2291172577~1.og.jpg"
     }
   ]
 }
