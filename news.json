@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T19:45:00.722007+00:00",
+  "updated": "2026-09-24T19:53:47.359194+00:00",
   "articles": [
     {
       "title": "Петрова: България може да бъде стратегическа връзка между Европа, Черноморския регион, Близкия изток и Азия",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50544/50544861/991-ratio-vasil-mihajlov.jpg"
     },
     {
+      "title": "20-годишен футболист загина след инцидент с елен 24 Сеп | 22:44",
+      "url": "https://dsport.bg/20-godishen-futbolist-zagina-sled-incident-s-elen~240663.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/810148912_17957791641234362_737610731652114230_n.og.jpg"
+    },
+    {
       "title": "Байерн Мюнхен откри Евролигата с драматичен триумф в София 24 Сеп | 22:18",
       "url": "https://dsport.bg/baiern-munhen-otkri-evroligata-s-dramatichen-triumf-v-sofia~240662.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1029809.og.jpg"
-    },
-    {
-      "title": "Дембеле: Шампионската лига е по-важна от „Златната топка“ 24 Сеп | 19:22",
-      "url": "https://dsport.bg/dembele-shampionskata-liga-e-po-vazna-ot-zlatnata-topka~240653.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2237515975~1.og.jpg"
     }
   ]
 }
