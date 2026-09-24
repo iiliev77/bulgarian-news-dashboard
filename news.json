@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:54:01.795940+00:00",
+  "updated": "2026-09-24T16:02:32.827250+00:00",
   "articles": [
     {
       "title": "Земетресение е регистрирано край Симитли (КАРТА)",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386884/991-ratio-w.jpg"
     },
     {
+      "title": "Ексклузивно Добрин Гьонов за Академия БФС - идея, развитие и бързо спечелен трофей с 19:2 24 Сеп | 18:55",
+      "url": "https://dsport.bg/dobrin-gonov-za-akademia-bfs-idea-razvitie-i-barzo-spechelen-trofei-s-19-2~240650.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_55_48-pm.og.png"
+    },
+    {
       "title": "Ексклузивно Гьонов: Нямаме сигнали за манипулации, хора залагат на собствените си мачове и губят 24 Сеп | 18:45",
       "url": "https://dsport.bg/gonov-namame-signali-za-manipulacii-hora-zalagat-na-sobstvenite-si-machove-i-gubat~240649.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1009219~1.og.jpg"
-    },
-    {
-      "title": "Адриан Андреев победи Иван Иванов в Пловдив 24 Сеп | 17:10",
-      "url": "https://dsport.bg/adrian-andreev-pobedi-ivan-ivanov-v-plovdiv~240639.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/adrian_andreev_plovdiv-0-.og.jpeg"
     }
   ]
 }
