@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:00:00.552602+00:00",
+  "updated": "2026-09-24T18:18:12.142753+00:00",
   "articles": [
     {
       "title": "Почина френската актриса Марина Влади, съпруга на Владимир Висоцки",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51335/51335473/991-ratio-nikolaj-najdenov.jpg"
     },
     {
+      "title": "Ас на ЦСКА 1948 наказа играч на ЦСКА, бивш на „армейците“ също вкара 24 Сеп | 21:04",
+      "url": "https://dsport.bg/as-na-cska-1948-nakaza-igrach-na-cska-bivsh-na-armeicite-sasto-vkara~240659.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/824179879_2645879559184251_1804803016593392380_n.og.jpg"
+    },
+    {
       "title": "Пламен Андреев: Най-накрая започнахме да излизаме в чужбина, ще имаме добро бъдеще (ВИДЕО) 24 Сеп | 20:46",
       "url": "https://dsport.bg/plamen-andreev-nai-nakraa-zapochnahme-da-izlizame-v-chuzbina-ste-imame-dobro-badeste-video~240658.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_45_01-pm.og.png"
-    },
-    {
-      "title": "Ексклузивно Добрин Гьонов за съдийството: Ако има грешки, те идват от незнание или неможене (ВИДЕО) 24 Сеп | 18:40",
-      "url": "https://dsport.bg/dobrin-gonov-za-sadiistvoto-ako-ima-greshki-te-idvat-ot-neznanie-ili-nemozene~240648.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_38_39-pm.og.png"
     }
   ]
 }
