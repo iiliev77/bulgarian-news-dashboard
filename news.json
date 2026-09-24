@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-24T05:11:30.549436+00:00",
+  "updated": "2026-09-24T05:24:46.612313+00:00",
   "articles": [
-    {
-      "title": "Венецуела обеща избори пред ООН, но без конкретна дата",
-      "url": "https://dariknews.bg/novini/sviat/venecuela-obeshta-izbori-pred-oon-no-bez-konkretna-data-2467225",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386686/991-ratio-delsi-rodriges.jpg"
-    },
     {
       "title": "Зеленски: Украйна изпрати севернокорейски военнопленници в Южна Корея",
       "url": "https://dariknews.bg/novini/sviat/zelenski-ukrajna-izprati-severnokorejski-voennoplennici-v-iuzhna-koreia-2467226",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50938/50938853/991-ratio-severna-koreia-granica.jpg"
+    },
+    {
+      "title": "Венецуела обеща избори пред ООН, но без конкретна дата",
+      "url": "https://dariknews.bg/novini/sviat/venecuela-obeshta-izbori-pred-oon-no-bez-konkretna-data-2467225",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386686/991-ratio-delsi-rodriges.jpg"
     },
     {
       "title": "5 мита за зъбния душ, в които все още вярваме",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386637/991-ratio-iliiana-iotova.jpg"
     },
     {
+      "title": "Феновете на Манчестър Юнайтед на бунт - обявиха тотален бойкот на Глейзър и Ineos 24 Сеп | 08:15",
+      "url": "https://dsport.bg/fenovete-na-manchestar-unaited-na-bunt-obaviha-totalen-boikot-na-gleizar-i-ineos~240593.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2177073115-1~1.og.jpg"
+    },
+    {
+      "title": "Агресивната кампания на Мбапе за Златната топка му носи повече вреда, отколкото полза 24 Сеп | 08:03",
+      "url": "https://dsport.bg/agresivnata-kampania-na-mbape-za-zlatnata-topka-mu-nosi-poveche-vreda-otkolkoto-polza~240592.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2286665329~1.og.jpg"
+    },
+    {
       "title": "Барселона тръгна с разгром в Шампионската лига 23 Сеп | 23:57",
       "url": "https://dsport.bg/barselona-tragna-s-razgrom-v-shampionskata-liga~240591.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2281458367~1.og.jpg"
-    },
-    {
-      "title": "Хаджар остава в Ред Бул и за следващия сезон 23 Сеп | 21:47",
-      "url": "https://dsport.bg/hadzar-ostava-v-red-bul-i-za-sledvastia-sezon~240583.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296724849.og.jpg"
-    },
-    {
-      "title": "Изпълнителният директор на ЦСКА 1948: За нас Купата е цел (ВИДЕО) 23 Сеп | 21:29",
-      "url": "https://dsport.bg/izpalnitelniat-direktor-na-cska-1948-za-nas-kupata-e-cel-video~240582.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/995381~1.og.jpg"
     }
   ]
 }
