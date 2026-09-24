@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:44:00.779397+00:00",
+  "updated": "2026-09-24T15:54:01.795940+00:00",
   "articles": [
     {
       "title": "Земетресение е регистрирано край Симитли (КАРТА)",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386884/991-ratio-w.jpg"
     },
     {
+      "title": "Ексклузивно Гьонов: Нямаме сигнали за манипулации, хора залагат на собствените си мачове и губят 24 Сеп | 18:45",
+      "url": "https://dsport.bg/gonov-namame-signali-za-manipulacii-hora-zalagat-na-sobstvenite-si-machove-i-gubat~240649.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_45_01-pm.og.png"
+    },
+    {
       "title": "Ексклузивно Добрин Гьонов за съдийството: Ако има грешки, те идват от незнание или неможене 24 Сеп | 18:40",
       "url": "https://dsport.bg/dobrin-gonov-za-sadiistvoto-ako-ima-greshki-te-idvat-ot-neznanie-ili-nemozene~240648.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/adrian_andreev_plovdiv-0-.og.jpeg"
-    },
-    {
-      "title": "Спортното шоу на Дарик - 24.09.2026 г. 24 Сеп | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-24-09-2026-g~240640.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/viber_image_2026-09-24_17-02-54-820.og.png"
     }
   ]
 }
