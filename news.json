@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T14:34:44.176629+00:00",
+  "updated": "2026-09-24T14:49:05.681364+00:00",
   "articles": [
     {
       "title": "Унищожиха над 2 тона марихуана чрез изгаряне в ТЕЦ",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51339/51339114/991-ratio-georgi-peev.jpg"
     },
     {
+      "title": "Джордж Ръсел най-бърз и във втората тренировка 24 Сеп | 17:36",
+      "url": "https://dsport.bg/dzordz-rasel-nai-barz-i-vav-vtorata-trenirovka~240643.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296903728.og.jpg"
+    },
+    {
       "title": "Отложиха Лудогорец II - Етър 24 Сеп | 17:26",
       "url": "https://dsport.bg/otloziha-ludogorec-ii-etar~240642.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/26.01-10~1.og.jpg"
-    },
-    {
-      "title": "Васил Минев свири Латвия - Германия 24 Сеп | 15:36",
-      "url": "https://dsport.bg/vasil-minev-sviri-latvia-germania~240633.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/578207-1~1.og.jpg"
     }
   ]
 }
