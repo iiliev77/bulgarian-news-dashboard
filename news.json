@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T05:36:04.027214+00:00",
+  "updated": "2026-09-24T05:47:12.181320+00:00",
   "articles": [
     {
       "title": "Свлачището в „Аспарухово“ постави под въпрос новото строителство: ВиК иска мораториум",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386640/991-ratio-ivan-tolin.jpg"
     },
     {
+      "title": "Пътят от сладкарското училище до голямата сцена 24 Сеп | 08:25",
+      "url": "https://dsport.bg/patat-ot-sladkarskoto-uchiliste-do-golamata-scena~240594.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2289839414.og.jpg"
+    },
+    {
       "title": "Феновете на Манчестър Юнайтед на бунт - обявиха тотален бойкот на Глейзър и Ineos 24 Сеп | 08:15",
       "url": "https://dsport.bg/fenovete-na-manchestar-unaited-na-bunt-obaviha-totalen-boikot-na-gleizar-i-ineos~240593.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2292793463-1.og.jpg"
-    },
-    {
-      "title": "Хакими ще бъде съден за изнасилване 23 Сеп | 22:04",
-      "url": "https://dsport.bg/hakimi-ste-bade-saden-za-iznasilvane~240584.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2281458367~1.og.jpg"
     }
   ]
 }
