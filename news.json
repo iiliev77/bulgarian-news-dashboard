@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T05:47:12.181320+00:00",
+  "updated": "2026-09-24T05:55:51.113491+00:00",
   "articles": [
     {
       "title": "Свлачището в „Аспарухово“ постави под въпрос новото строителство: ВиК иска мораториум",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386640/991-ratio-ivan-tolin.jpg"
     },
     {
+      "title": "Финландия елиминира световния шампион Италия и се класира за полуфиналите на Евроволей 2026 24 Сеп | 08:35",
+      "url": "https://dsport.bg/finlandia-eliminira-svetovnia-shampion-italia-i-se-klasira-za-polufinalite-na-evrovolei-2026~240595.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/013915__i8a9501.og.jpg"
+    },
+    {
       "title": "Пътят от сладкарското училище до голямата сцена 24 Сеп | 08:25",
       "url": "https://dsport.bg/patat-ot-sladkarskoto-uchiliste-do-golamata-scena~240594.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1270835428.og.jpg"
-    },
-    {
-      "title": "Мбапе не скри възхищението си от Кристиано 23 Сеп | 22:23",
-      "url": "https://dsport.bg/mbape-ne-skri-vazhistenieto-si-ot-kristiano~240585.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2292793463-1.og.jpg"
     }
   ]
 }
