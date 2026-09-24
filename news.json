@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-24T09:03:51.703826+00:00",
+  "updated": "2026-09-24T09:21:06.500683+00:00",
   "articles": [
     {
-      "title": "Длъжностни лица от две врачански кметства замесени в незаконна сеч за 7000 евро",
-      "url": "https://dariknews.bg/regioni/vraca/dlyzhnostni-lica-ot-dve-vrachanski-kmetstva-zameseni-v-nezakonna-sech-za-7000-evro-2467261",
+      "title": "18-годишен тийнейджър задигна кола във Врачанско",
+      "url": "https://dariknews.bg/regioni/vraca/18-godishen-tijnejdzhyr-zadigna-kola-vyv-vrachansko-2467261",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51255/51255506/991-ratio-dyrvesina-dyrva.jpg"
+      "image": "https://m.netinfo.bg/media/images/48552/48552590/991-ratio-kliuch-za-kola.jpg"
+    },
+    {
+      "title": "Как изсякоха чужда гора за 7000 евро с „удостоверение за наследници“ във Врачанско",
+      "url": "https://dariknews.bg/regioni/vraca/kak-izsiakoha-chuzhda-gora-za-7000-evro-s-udostoverenie-za-naslednici-vyv-vrachansko-2467263",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51309/51309081/991-ratio-borova-gora.jpg"
     },
     {
       "title": "Василев: Вдигането на данъчните оценки не трябва да удря по джоба на хората, такса „смет“ да се разкачи от тях",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51184/51184263/991-ratio-perperikon.jpg"
     },
     {
-      "title": "Камион на заден ход блъсна 80-годишна жена",
-      "url": "https://dariknews.bg/regioni/vidin/kamion-na-zaden-hod-blysna-80-godishna-zhena-2467241",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386733/991-ratio-schupena-ryka-vyzrastna-zhena-pensionerka.jpg"
+      "title": "Везенков е фаворит за наградата за MVP, а Олимпиакос е сигурен участник във Финалната четворка, 24 Сеп | 12:09",
+      "url": "https://dsport.bg/vezenkov-e-favorit-za-nagradata-za-mvp-a-olimpiakos-e-siguren-uchastnik-vav-finalnata-chetvorka~240614.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2269957212-1-2-1.og.jpg"
+    },
+    {
+      "title": "Хари Кейн мечтае за кариера в НФЛ 24 Сеп | 11:58",
+      "url": "https://dsport.bg/hari-kein-mechtae-za-kariera-v-nfl~240613.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2285572605~1.og.jpg"
     },
     {
       "title": "Футболът обяви война на бавенето на играта: как новите правила променят мачовете? 24 Сеп | 11:48",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1018678~1.og.jpg"
-    },
-    {
-      "title": "Човек на Мбапе разследван за корупция след подарък от €60 000 24 Сеп | 10:08",
-      "url": "https://dsport.bg/chovek-na-mbape-razsledvan-za-korupcia-sled-podarak-ot-60-000~240604.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2284079172-1.og.jpg"
-    },
-    {
-      "title": "ЦСКА 1948 обяви контрола по време на лагера в Банско 24 Сеп | 09:57",
-      "url": "https://dsport.bg/cska-1948-obavi-kontrola-po-vreme-na-lagera-v-bansko~240603.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1006742-1.og.jpg"
     }
   ]
 }
