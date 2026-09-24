@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-24T14:02:37.478993+00:00",
+  "updated": "2026-09-24T14:19:56.298783+00:00",
   "articles": [
     {
-      "title": "Нетаняху пристигна в Ню Йорк за Общото събрание на ООН",
-      "url": "https://dariknews.bg/novini/sviat/netaniahu-pristigna-v-niu-iork-za-obshtoto-sybranie-na-oon-2467305",
+      "title": "Конституционният съд остави в сила правилата, по които Йотова разпредели местата в ЦИК",
+      "url": "https://dariknews.bg/novini/bylgariia/konstitucionniiat-syd-ostavi-v-sila-pravilata-po-koito-iotova-razpredeli-mestata-v-cik-2467306",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
+    },
+    {
+      "title": "Нетаняху пристигна в Ню Йорк за Общото събрание на ООН (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/netaniahu-pristigna-v-niu-iork-za-obshtoto-sybranie-na-oon-video-2467305",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51295/51295410/991-ratio-beniamin-netaniahu.jpg"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50672/50672830/991-ratio-boris-bonev.jpg"
     },
     {
-      "title": "КЕВР определи компенсациите за тока през август: Ето кой ще получи най-много",
-      "url": "https://dariknews.bg/novini/bylgariia/kevr-opredeli-kompensaciite-za-toka-prez-avgust-eto-koj-shte-poluchi-naj-mnogo-2467285",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49923/49923385/991-ratio-stanislav-todorov-kevr.jpg"
+      "title": "Адриан Андреев победи Иван Иванов в Пловдив 24 Сеп | 17:10",
+      "url": "https://dsport.bg/adrian-andreev-pobedi-ivan-ivanov-v-plovdiv~240639.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/adrian_andreev_plovdiv-0-.og.jpeg"
+    },
+    {
+      "title": "Спортното шоу на Дарик - 24.09.2026 г. 24 Сеп | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-24-09-2026-g~240640.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/viber_image_2026-09-24_17-02-54-820.og.png"
     },
     {
       "title": "Обявиха програмата за Втори кръг на Предварителната фаза на Sesame Купа на България 24 Сеп | 16:41",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1851894795-3~1.og.jpg"
-    },
-    {
-      "title": "Янева е на четвъртфинал в Пловдив 24 Сеп | 14:58",
-      "url": "https://dsport.bg/aneva-e-na-chetvartfinal-v-plovdiv~240629.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/elizara_qneva_chetvyrtyk-2.og.jpg"
-    },
-    {
-      "title": "Защитник на Септември оперира лявото си коляно 24 Сеп | 14:40",
-      "url": "https://dsport.bg/zastitnik-na-septemvri-operira-lavoto-si-kolano~240628.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/973698~1.og.jpg"
     }
   ]
 }
