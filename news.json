@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-24T12:26:47.426836+00:00",
+  "updated": "2026-09-24T12:44:09.770030+00:00",
   "articles": [
+    {
+      "title": "Нов воин от Блатото става част от надпреварата в “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/nov-voin-ot-blatoto-stava-chast-ot-nadprevarata-v-igri-na-voliata-2467291",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386884/991-ratio-w.jpg"
+    },
+    {
+      "title": "Руският журналист Сергей Соседов почина след падане по стълби в хотел",
+      "url": "https://dariknews.bg/novini/sviat/ruskiiat-zhurnalist-sergej-sosedov-pochina-sled-padane-po-stylbi-v-hotel-2467292",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51000/51000742/991-ratio-svesht.jpg"
+    },
+    {
+      "title": "5 признака, че домът ви има нужда от обновяване",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/5-priznaka-che-domyt-vi-ima-nuzhda-ot-obnoviavane-2467264",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386778/991-ratio-istock.jpg"
+    },
+    {
+      "title": "Комисията по транспорт и съобщения обсъжда промени в Закона за движението по пътищата",
+      "url": "https://dariknews.bg/novini/bylgariia/komisiiata-po-transport-i-syobshteniia-obsyzhda-promeni-v-zakona-za-dvizhenieto-po-pytishtata-2467289",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51339/51339114/991-ratio-georgi-peev.jpg"
+    },
     {
       "title": "Вълчев: Трябва да се намери баланс между традиционните методи и новите технологии в преподаването",
       "url": "https://dariknews.bg/novini/bylgariia/vylchev-triabva-da-se-nameri-balans-mezhdu-tradicionnite-metodi-i-novite-tehnologii-v-prepodavaneto-2467288",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386813/991-ratio-bdzh-novi-motrisi-shkoda.jpg"
     },
     {
-      "title": "Шофьор без книжка е в тежко състояние след катастрофа в Хасковско",
-      "url": "https://dariknews.bg/regioni/haskovo/shofior-bez-knizhka-e-v-tezhko-systoianie-sled-katastrofa-v-haskovsko-2467273",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
-    },
-    {
-      "title": "„Каша от несвързани предложения“: ДБ за данъчните промени",
-      "url": "https://dariknews.bg/novini/bylgariia/kasha-ot-nesvyrzani-predlozheniia-db-za-danychnite-promeni-2467272",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51219/51219395/991-ratio-martin-dimitrov-ivajlo-mirchev.jpg"
-    },
-    {
-      "title": "Стартира мащабна инициатива за представяне на български продукти пред света",
-      "url": "https://dariknews.bg/novini/bylgariia/startira-mashtabna-iniciativa-za-predstaviane-na-bylgarski-produkti-pred-sveta-2467270",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386799/991-ratio-iniciativa.jpg"
-    },
-    {
-      "title": "Ограничават трафика по Дунав мост за международен пробег от Русе до Гюргево",
-      "url": "https://dariknews.bg/regioni/ruse/ogranichavat-trafika-po-dunav-most-za-mezhdunaroden-probeg-ot-ruse-do-giurgevo-2467268",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51346/51346325/991-ratio-dunav-most-ruse.jpg"
+      "title": "Васил Минев свири Латвия - Германия 24 Сеп | 15:36",
+      "url": "https://dsport.bg/vasil-minev-sviri-latvia-germania~240633.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/578207-1~1.og.jpg"
     },
     {
       "title": "Донски отпадна на четвъртфиналите в Сен Тропе 24 Сеп | 15:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2291172577~1.og.jpg"
-    },
-    {
-      "title": "Тиери Анри продава луксозния си пентхаус в Ню Йорк за 25 млн. долара 24 Сеп | 13:11",
-      "url": "https://dsport.bg/tieri-anri-prodava-luksoznia-si-penthaus-v-nu-iork-za-25-mln-dolara~240621.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2252587050~1.og.jpg"
     }
   ]
 }
