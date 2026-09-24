@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:19:21.351294+00:00",
+  "updated": "2026-09-24T20:33:42.749371+00:00",
   "articles": [
     {
       "title": "ЦИК регистрира Александър Гарибов като кандидат за вицепрезидент заедно с Александър Томов",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386940/991-ratio-geo-kalev.jpg"
     },
     {
+      "title": "Ударен старт за Везенков и Олимпиакос в Евролигата 24 Сеп | 23:22",
+      "url": "https://dsport.bg/udaren-start-za-vezenkov-i-olimpiakos-v-evroligata~240665.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296300237.og.jpg"
+    },
+    {
       "title": "„С един удар на сърцето“ - от сърдечен арест на терена до филм за историята му 24 Сеп | 23:09",
       "url": "https://dsport.bg/s-edin-udar-na-sarceto-ot-sardechen-arest-na-terena-do-film-za-istoriata-mu~240664.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2162303561~1.og.jpg"
-    },
-    {
-      "title": "Рами Киуан загуби полуфинала си на Европейското 24 Сеп | 19:40",
-      "url": "https://dsport.bg/rami-kiuan-zagubi-polufinala-si-na-evropeiskoto~240655.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1029781.og.jpg"
     }
   ]
 }
