@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T10:56:08.170725+00:00",
+  "updated": "2026-09-24T11:06:38.276981+00:00",
   "articles": [
+    {
+      "title": "Двама българи са арестувани в Хърватия за измами, представяли се за лекари",
+      "url": "https://dariknews.bg/novini/sviat/dvama-bylgari-sa-arestuvani-v-hyrvatiia-za-izmami-predstaviali-se-za-lekari-2467278",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
+    },
     {
       "title": "Четирима полицаи на съд: Измама с фалшив наркотест и незаконни оръжия",
       "url": "https://dariknews.bg/regioni/sofiia/chetirima-policai-na-syd-izmama-s-falshiv-narkotest-i-nezakonni-oryzhiia-2467277",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386761/991-ratio-kapitan-andreevo.jpg"
     },
     {
-      "title": "Заловиха мъж с конопена плантация край Банкя",
-      "url": "https://dariknews.bg/regioni/sofiia/zaloviha-myzh-s-konopena-plantaciia-kraj-bankia-2467255",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50938/50938881/991-ratio-konop-vidin.jpg"
-    },
-    {
-      "title": "Цолов тръгва първи в спринта в Баку 24 Сеп | 13:15",
+      "title": "Цолов тръгва първи в спринта в Баку 24 Сеп | 13:59",
       "url": "https://dsport.bg/zabaviha-starta-na-parvata-kvalifikacia-na-colov-v-baku~240620.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296857735.og.jpg"
+    },
+    {
+      "title": "Родри преобрази Барселона 24 Сеп | 13:32",
+      "url": "https://dsport.bg/rodri-preobrazi-barselona~240622.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2291172577~1.og.jpg"
     },
     {
       "title": "Тиери Анри продава луксозния си пентхаус в Ню Йорк за 25 млн. долара 24 Сеп | 13:11",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2285572605~1.og.jpg"
-    },
-    {
-      "title": "Футболът обяви война на бавенето на играта: как новите правила променят мачовете? 24 Сеп | 11:48",
-      "url": "https://dsport.bg/futbolat-obavi-voina-na-baveneto-na-igrata-kak-novite-pravila-promenat-machovete~240612.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2291888962.og.jpg"
     }
   ]
 }
