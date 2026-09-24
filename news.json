@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T19:12:25.404890+00:00",
+  "updated": "2026-09-24T19:24:51.597494+00:00",
   "articles": [
+    {
+      "title": "Петрова: България може да бъде стратегическа връзка между Европа, Черноморския регион, Близкия изток и Азия",
+      "url": "https://dariknews.bg/novini/bylgariia/petrova-bylgariia-mozhe-da-byde-strategicheska-vryzka-mezhdu-evropa-chernomorskiia-region-blizkiia-iztok-i-aziia-2467326",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356691/991-ratio-velislava-petrova.jpg"
+    },
     {
       "title": "Десетки делегати напуснаха залата на Общото събрание на ООН в началото на речта на Нетаняху",
       "url": "https://dariknews.bg/novini/sviat/desetki-delegati-napusnaha-zalata-na-obshtoto-sybranie-na-oon-v-nachaloto-na-rechta-na-netaniahu-2467324",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50544/50544861/991-ratio-vasil-mihajlov.jpg"
     },
     {
-      "title": "Зеленски: В Москва отивам само с ракета (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-v-moskva-otivam-samo-s-raketa-video-2467301",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51164/51164118/991-ratio-volodimir-zelenski.jpg"
+      "title": "Байерн Мюнхен откри Евролигата с драматичен триумф в София 24 Сеп | 22:18",
+      "url": "https://dsport.bg/baiern-munhen-otkri-evroligata-s-dramatichen-triumf-v-sofia~240662.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/818478656_835335012971556_1982571297417573722_n.og.jpg"
     },
     {
       "title": "България U19 с равенство срещу домакина на турнир в Сърбия 24 Сеп | 21:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2237515975~1.og.jpg"
-    },
-    {
-      "title": "Манчестър Юнайтед продава чимове от „Олд Трафорд“ за над 100 паунда 24 Сеп | 19:09",
-      "url": "https://dsport.bg/manchestar-unaited-prodava-chimove-ot-old-traford-za-nad-100-paunda~240652.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2166306132-1~2.og.jpg"
     }
   ]
 }
