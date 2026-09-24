@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-24T20:01:50.308479+00:00",
+  "updated": "2026-09-24T20:19:21.351294+00:00",
   "articles": [
     {
       "title": "ЦИК регистрира Александър Гарибов като кандидат за вицепрезидент заедно с Александър Томов",
       "url": "https://dariknews.bg/novini/bylgariia/cik-registrira-aleksandyr-garibov-kato-kandidat-za-viceprezident-zaedno-s-aleksandyr-tomov-2467327",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385989/640-420-cik.jpg"
+      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
     },
     {
       "title": "Петрова: България може да бъде стратегическа връзка между Европа, Черноморския регион, Близкия изток и Азия",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386940/991-ratio-geo-kalev.jpg"
     },
     {
+      "title": "„С един удар на сърцето“ - от сърдечен арест на терена до филм за историята му 24 Сеп | 23:09",
+      "url": "https://dsport.bg/s-edin-udar-na-sarceto-ot-sardechen-arest-na-terena-do-film-za-istoriata-mu~240664.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2197411562~1.og.jpg"
+    },
+    {
       "title": "20-годишен футболист загина след инцидент с елен 24 Сеп | 22:44",
       "url": "https://dsport.bg/20-godishen-futbolist-zagina-sled-incident-s-elen~240663.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1029781.og.jpg"
-    },
-    {
-      "title": "Чочев е „Футболист на футболистите“, Левски обра индивидуалните награди 24 Сеп | 19:35",
-      "url": "https://dsport.bg/chochev-e-futbolist-na-futbolistite-levski-obra-individualnite-nagradi~240654.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1029809.og.jpg"
     }
   ]
 }
