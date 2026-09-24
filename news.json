@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T18:58:55.239644+00:00",
+  "updated": "2026-09-24T19:12:25.404890+00:00",
   "articles": [
+    {
+      "title": "Десетки делегати напуснаха залата на Общото събрание на ООН в началото на речта на Нетаняху",
+      "url": "https://dariknews.bg/novini/sviat/desetki-delegati-napusnaha-zalata-na-obshtoto-sybranie-na-oon-v-nachaloto-na-rechta-na-netaniahu-2467324",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387078/991-ratio-izraelskiiat-premier-beniamin-netaniahu.jpg"
+    },
     {
       "title": "Йотова обсъди с премиера на Андора засилване на сътрудничеството в областта на туризма",
       "url": "https://dariknews.bg/novini/bylgariia/iotova-obsydi-s-premiera-na-andora-zasilvane-na-sytrudnichestvoto-v-oblastta-na-turizma-2467322",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51164/51164118/991-ratio-volodimir-zelenski.jpg"
     },
     {
-      "title": "Всичко излишно от мазета, гаражи, тавани: Ето къде може да отиде",
-      "url": "https://dariknews.bg/regioni/sofiia/vsichko-izlishno-ot-mazeta-garazhi-tavani-eto-kyde-mozhe-da-otide-2467300",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386917/991-ratio-magata.jpg"
+      "title": "България U19 с равенство срещу домакина на турнир в Сърбия 24 Сеп | 21:58",
+      "url": "https://dsport.bg/balgaria-u19-s-ravenstvo-srestu-domakina-na-turnir-v-sarbia~240661.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/image_1790266070_87491.og.jpeg"
     },
     {
       "title": "Лигата на нациите започна с успех на Малта в Андора 24 Сеп | 21:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2166306132-1~2.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Добрин Гьонов за Академия БФС - идея, развитие и бързо спечелен трофей с 19:2 (ВИДЕО) 24 Сеп | 18:55",
-      "url": "https://dsport.bg/dobrin-gonov-za-akademia-bfs-idea-razvitie-i-barzo-spechelen-trofei-s-19-2~240650.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_55_48-pm.og.png"
     }
   ]
 }
