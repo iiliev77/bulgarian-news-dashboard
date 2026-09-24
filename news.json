@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T17:43:55.222635+00:00",
+  "updated": "2026-09-24T17:52:24.276660+00:00",
   "articles": [
+    {
+      "title": "Почина френската актриса Марина Влади, съпруга на Владимир Висоцки",
+      "url": "https://dariknews.bg/novini/sviat/pochina-frenskata-aktrisa-marina-vladi-sypruga-na-vladimir-visocki-2467320",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387062/991-ratio-marina-vladi.jpg"
+    },
     {
       "title": "ЦИК заличи кандидат за вицепрезидент заради съветско гражданство по рождение",
       "url": "https://dariknews.bg/novini/bylgariia/cik-zalichi-kandidat-za-viceprezident-zaradi-syvetsko-grazhdanstvo-po-rozhdenie-2467319",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51335/51335473/991-ratio-nikolaj-najdenov.jpg"
     },
     {
-      "title": "„Варна“ вече лети над света: Самолет на най-големия туроператор в Европа носи името на града (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/varna/varna-veche-leti-nad-sveta-samolet-na-naj-golemiia-turoperator-v-evropa-nosi-imeto-na-grada-snimki-2467297",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386907/991-ratio-samolet-varna.jpg"
+      "title": "Пламен Андреев: Най-накрая започнахме да излизаме в чужбина, ще имаме добро бъдеще (ВИДЕО) 24 Сеп | 20:46",
+      "url": "https://dsport.bg/plamen-andreev-nai-nakraa-zapochnahme-da-izlizame-v-chuzbina-ste-imame-dobro-badeste-video~240658.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/821665093_1746477773592007_5713897095802387846_n.og.jpg"
     },
     {
       "title": "Легендарният Кличко за Европейското у нас: Невероятно, не съм си представял нещо подобно 24 Сеп | 20:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_38_39-pm.og.png"
-    },
-    {
-      "title": "Ексклузивно Гьонов: Възможно е отбор да не завърши сезона, Първа лига е за богатите (ВИДЕО) 24 Сеп | 18:30",
-      "url": "https://dsport.bg/gonov-vazmozno-e-otbor-da-ne-zavarshi-sezona-parva-liga-e-za-bogatite~240647.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-06_32_13-pm.og.png"
     }
   ]
 }
