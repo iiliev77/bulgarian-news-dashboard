@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T12:05:52.863195+00:00",
+  "updated": "2026-09-24T12:26:47.426836+00:00",
   "articles": [
+    {
+      "title": "Вълчев: Трябва да се намери баланс между традиционните методи и новите технологии в преподаването",
+      "url": "https://dariknews.bg/novini/bylgariia/vylchev-triabva-da-se-nameri-balans-mezhdu-tradicionnite-metodi-i-novite-tehnologii-v-prepodavaneto-2467288",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51318/51318285/991-ratio-georgi-aleksandrov-vylchev.jpg"
+    },
     {
       "title": "„Спаси София“ настоява изцяло да бъде променена философията на бюджета за столицата за 2027 г.",
       "url": "https://dariknews.bg/regioni/sofiia/spasi-sofiia-nastoiava-izcialo-da-byde-promenena-filosofiiata-na-biudzheta-za-stolicata-za-2027-g-2467287",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51346/51346325/991-ratio-dunav-most-ruse.jpg"
     },
     {
-      "title": "Силно земетресение разтърси турския окръг Шанлъурфа (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/silno-zemetresenie-raztyrsi-turskiia-okryg-shanlyurfa-video-2467265",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+      "title": "Донски отпадна на четвъртфиналите в Сен Тропе 24 Сеп | 15:23",
+      "url": "https://dsport.bg/donski-otpadna-na-chetvartfinalite-v-sen-trope~240632.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/16.05-2-1-1~1.og.jpg"
+    },
+    {
+      "title": "Аурелио Де Лаурентис разкри плановете си за новия стадион на Наполи 24 Сеп | 15:11",
+      "url": "https://dsport.bg/aurelio-de-laurentis-razkri-planovete-si-za-novia-stadion-na-napoli~240631.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-1851894795-3~1.og.jpg"
     },
     {
       "title": "Янева е на четвъртфинал в Пловдив 24 Сеп | 14:58",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2252587050~1.og.jpg"
-    },
-    {
-      "title": "Конкурент на Цолов бе дисквалифициран от тренировката в Баку 24 Сеп | 13:06",
-      "url": "https://dsport.bg/konkurent-na-colov-be-diskvalificiran-ot-trenirovkata-v-baku~240619.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2284316174.og.jpg"
-    },
-    {
-      "title": "Джордж Ръсел записа най-добра обиколка в първата тренировка на Формула 1 в Баку 24 Сеп | 12:55",
-      "url": "https://dsport.bg/dzordz-rasel-zapisa-nai-dobra-obikolka-v-parvata-trenirovka-na-formula-1-v-baku~240618.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296879665.og.jpg"
     }
   ]
 }
