@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T12:57:31.706314+00:00",
+  "updated": "2026-09-24T13:11:01.303883+00:00",
   "articles": [
     {
       "title": "АПИ започва обновяване на важна връзка Вакарел – Панагюрище",
@@ -9,11 +9,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386897/991-ratio-api.jpg"
     },
     {
-      "title": "Довършването на ремонта на операта в Русе може да достигне 6 милиона евро",
-      "url": "https://dariknews.bg/regioni/ruse/dovyrshvaneto-na-remonta-na-operata-v-ruse-mozhe-da-dostigne-6-miliona-evro-2467293",
+      "title": "Schneider Electric придобива българската Shelly Group",
+      "url": "https://dariknews.bg/novini/biznes/schneider-electric-pridobiva-bylgarskata-shelly-group-2467296",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51031/51031856/991-ratio-ruse-opera.jpg"
+      "image": "https://m.netinfo.bg/media/images/51386/51386901/991-ratio-magazin.jpg"
     },
     {
       "title": "Столичните общинари решиха: Скачат цените на таксиметровите услуги",
@@ -21,6 +21,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50959/50959646/991-ratio-taksi.jpg"
+    },
+    {
+      "title": "Довършването на ремонта на операта в Русе може да достигне 6 милиона евро",
+      "url": "https://dariknews.bg/regioni/ruse/dovyrshvaneto-na-remonta-na-operata-v-ruse-mozhe-da-dostigne-6-miliona-evro-2467293",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51031/51031856/991-ratio-ruse-opera.jpg"
     },
     {
       "title": "Нов воин от Блатото става част от надпреварата в “Игри на волята”",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386837/991-ratio-policiia.jpg"
     },
     {
-      "title": "Мирчев към магистратите: Не позволявайте да ви разхождат като мечки по разни офиси",
-      "url": "https://dariknews.bg/novini/bylgariia/mirchev-kym-magistratite-ne-pozvoliavajte-da-vi-razhozhdat-kato-mechki-po-razni-ofisi-2467276",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
+      "title": "Радослав Росенов е финалист на Европейското по бокс в София 24 Сеп | 16:04",
+      "url": "https://dsport.bg/radoslav-rosenov-e-finalist-na-evropeiskoto-po-boks-v-sofia~240635.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029696.og.jpg"
     },
     {
       "title": "Председателят на СК ЦСКА: Ангелов може да е спасението от най-лошата година в борбата ни 24 Сеп | 15:52",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2243021470.og.jpg"
-    },
-    {
-      "title": "Официално: Атанас Бостанджиев е новият мажоритарен собственик на Левски 24 Сеп | 14:13",
-      "url": "https://dsport.bg/oficialno-atanas-bostandziev-e-noviat-mazoritaren-sobstvenik-na-levski~240624.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/966455-1.og.jpg"
     }
   ]
 }
