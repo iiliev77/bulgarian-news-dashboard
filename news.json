@@ -1,12 +1,40 @@
 {
-  "updated": "2026-09-24T11:06:38.276981+00:00",
+  "updated": "2026-09-24T11:21:58.419850+00:00",
   "articles": [
+    {
+      "title": "С аромат от детството започва новото предаване „Спомени с вкус“",
+      "url": "https://dariknews.bg/novini/liubopitno/s-aromat-ot-detstvoto-zapochva-novoto-predavane-spomeni-s-vkus-2467282",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386846/991-ratio-spomeni-s-vkus.jpg"
+    },
+    {
+      "title": "Червен авиационен код заради Етна: Вулканът изхвърли 4-километров облак от пепел (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/cherven-aviacionen-kod-zaradi-etna-vulkanyt-izhvyrli-4-kilometrov-oblak-ot-pepel-video-2467280",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50666/50666912/991-ratio-etna.jpg"
+    },
+    {
+      "title": "За първи път от 2021 г.: Проверяват и ремонтират 12 800 машини за гласуване",
+      "url": "https://dariknews.bg/novini/bylgariia/za-pyrvi-pyt-ot-2021-g.-proveriavat-i-remontirat-12-800-mashini-za-glasuvane-2467279",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51306/51306613/991-ratio-izbori.jpg"
+    },
     {
       "title": "Двама българи са арестувани в Хърватия за измами, представяли се за лекари",
       "url": "https://dariknews.bg/novini/sviat/dvama-bylgari-sa-arestuvani-v-hyrvatiia-za-izmami-predstaviali-se-za-lekari-2467278",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
+    },
+    {
+      "title": "Жестоко насилие към животни - от кучета и котки до риби и яре: „Царицата на мъченията“ и сподвижникът ѝ отиват на съд",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/zhestoko-nasilie-kym-zhivotni-ot-kucheta-i-kotki-do-ribi-i-iare-caricata-na-mycheniiata-i-spodvizhnikyt-otivat-na-syd-2467281",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Четирима полицаи на съд: Измама с фалшив наркотест и незаконни оръжия",
@@ -114,35 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386768/991-ratio-asen-vasilev.jpg"
     },
     {
-      "title": "Дрон се разби край град Солка в Румъния, обявиха въздушна тревога (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/dron-se-razbi-kraj-grad-solka-v-rumyniia-obiaviha-vyzdushna-trevoga-video-2467259",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50841/50841826/991-ratio-dron.jpg"
+      "title": "Официално: Атанас Бостанджиев е новият мажоритарен собственик на Левски 24 Сеп | 14:13",
+      "url": "https://dsport.bg/oficialno-atanas-bostandziev-e-noviat-mazoritaren-sobstvenik-na-levski~240624.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/966455-1.og.jpg"
     },
     {
-      "title": "35 удара с нож и вилица: 18 г. затвор за мъж, убил с жестокост колега заради връзка с негова бивша",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/35-udara-s-nozh-i-vilica-18-g.-zatvor-za-myzh-ubil-s-zhestokost-kolega-zaradi-vryzka-s-negova-bivsha-2467258",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386765/991-ratio-ubijstvo-nozh-vilica.jpg"
-    },
-    {
-      "title": "ЕБВР очаква 2,7% ръст на българската икономика през 2026 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/ebvr-ochakva-27-ryst-na-bylgarskata-ikonomika-prez-2026-g-2467257",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50688/50688312/991-ratio-ikonomika.jpg"
-    },
-    {
-      "title": "Хиляди евро и долари, скрити в обувки и багаж, откриха на „Капитан Андреево“",
-      "url": "https://dariknews.bg/regioni/haskovo/hiliadi-evro-i-dolari-skriti-v-obuvki-i-bagazh-otkriha-na-kapitan-andreevo-2467256",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386761/991-ratio-kapitan-andreevo.jpg"
-    },
-    {
-      "title": "Цолов тръгва първи в спринта в Баку 24 Сеп | 13:59",
+      "title": "Цолов тръгва първи в спринта в Баку, грешка на Кампос коства на българина във втората квалификация 24 Сеп | 13:59",
       "url": "https://dsport.bg/zabaviha-starta-na-parvata-kvalifikacia-na-colov-v-baku~240620.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2269957212-1-2-1.og.jpg"
-    },
-    {
-      "title": "Хари Кейн мечтае за кариера в НФЛ 24 Сеп | 11:58",
-      "url": "https://dsport.bg/hari-kein-mechtae-za-kariera-v-nfl~240613.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2285572605~1.og.jpg"
     }
   ]
 }
