@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-24T16:02:32.827250+00:00",
+  "updated": "2026-09-24T16:20:09.816877+00:00",
   "articles": [
+    {
+      "title": "МВнР: България се присъедини към декларацията на ООН за Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/mvnr-bylgariia-se-prisyedini-kym-deklaraciiata-na-oon-za-ukrajna-2467316",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387015/991-ratio-ukrainskiiat-ministyr-na-vynshnite-raboti-andrij-sibiha-govori-na-zasedanie.jpg"
+    },
+    {
+      "title": "БАБХ обяви две огнища на шарка по овцете и козите в Софийско и Кърджалийско",
+      "url": "https://dariknews.bg/regioni/sofiia/babh-obiavi-dve-ognishta-na-sharka-po-ovcete-i-kozite-v-sofijsko-i-kyrdzhalijsko-2467315",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
+    },
     {
       "title": "Земетресение е регистрирано край Симитли (КАРТА)",
       "url": "https://dariknews.bg/regioni/blagoevgrad/zemetresenie-e-registrirano-kraj-simitli-karta-2467314",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50959/50959646/991-ratio-taksi.jpg"
     },
     {
-      "title": "Довършването на ремонта на операта в Русе може да достигне 6 милиона евро",
-      "url": "https://dariknews.bg/regioni/ruse/dovyrshvaneto-na-remonta-na-operata-v-ruse-mozhe-da-dostigne-6-miliona-evro-2467293",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51031/51031856/991-ratio-ruse-opera.jpg"
-    },
-    {
-      "title": "Нов воин от Блатото става част от надпреварата в “Игри на волята”",
-      "url": "https://dariknews.bg/novini/liubopitno/nov-voin-ot-blatoto-stava-chast-ot-nadprevarata-v-igri-na-voliata-2467291",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386884/991-ratio-w.jpg"
+      "title": "Манчестър Юнайтед продава чимове от „Олд Трафорд“ за над 100 паунда 24 Сеп | 19:09",
+      "url": "https://dsport.bg/manchestar-unaited-prodava-chimove-ot-old-traford-za-nad-100-paunda~240652.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2166306132-1~2.og.jpg"
     },
     {
       "title": "Ексклузивно Добрин Гьонов за Академия БФС - идея, развитие и бързо спечелен трофей с 19:2 24 Сеп | 18:55",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/630724-1-1-1-2-2.og.jpg"
-    },
-    {
-      "title": "Лудогорец с две контроли по време на паузата 24 Сеп | 17:20",
-      "url": "https://dsport.bg/ludogorec-s-dve-kontroli-po-vreme-na-pauzata~240641.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1009219~1.og.jpg"
     }
   ]
 }
