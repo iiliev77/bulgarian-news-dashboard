@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T09:34:13.370292+00:00",
+  "updated": "2026-09-24T09:46:54.891869+00:00",
   "articles": [
     {
       "title": "Силно земетресение разтърси турския окръг Шанлъурфа (ВИДЕО)",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+    },
+    {
+      "title": "16-годишната остава в ареста за убийството на Георги Кузев - съдът видя риск да повлияе на свидетелите",
+      "url": "https://dariknews.bg/regioni/plovdiv/16-godishnata-ostava-v-aresta-za-ubijstvoto-na-georgi-kuzev-sydyt-vidia-risk-da-povliiae-na-svidetelite-2467266",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375111/991-ratio-mladezhi-ubijstvo-georgi-kuzev.jpg"
     },
     {
       "title": "18-годишен тийнейджър задигна кола във Врачанско",
@@ -21,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51309/51309081/991-ratio-borova-gora.jpg"
+    },
+    {
+      "title": "„Една светлина“: Соня Йончева събира над 300 артисти за коледна гала в София",
+      "url": "https://dariknews.bg/novini/liubopitno/edna-svetlina-sonia-ioncheva-sybira-nad-300-artisti-za-koledna-gala-v-sofiia-2467267",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386788/640-420-sonia-ioncheva.jpg"
     },
     {
       "title": "Василев: Вдигането на данъчните оценки не трябва да удря по джоба на хората, такса „смет“ да се разкачи от тях",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
     },
     {
-      "title": "Защо ранното ставане е по-трудно през есента и зимата",
-      "url": "https://dariknews.bg/novini/liubopitno/zashto-rannoto-stavane-e-po-trudno-prez-esenta-i-zimata-2467244",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51360/51360084/991-ratio-ranno-stavane.jpg"
+      "title": "Владимир Кличко пристига в София за заключителните два дни от Европейското първенство по бокс за мъже и жени 24 Сеп | 12:29",
+      "url": "https://dsport.bg/vladimir-klichko-pristiga-v-sofia-za-zakluchitelnite-dva-dni-ot-evropeiskoto-parvenstvo-po-boks-za-maze-i-zeni~240616.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2172558941-1.og.jpg"
     },
     {
-      "title": "19-годишен седна зад волана пил и преобърна колата си в канавка",
-      "url": "https://dariknews.bg/regioni/razgrad/19-godishen-sedna-zad-volana-pil-i-preobyrna-kolata-si-v-kanavka-2467242",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51108/51108591/991-ratio-piian-shofior.jpg"
+      "title": "Марк Кукурея откровен за Реал Мадрид: Има много неща, които трябва да подобрим 24 Сеп | 12:17",
+      "url": "https://dsport.bg/mark-kukurea-otkroven-za-real-madrid-ima-mnogo-nesta-koito-trabva-da-podobrim~240615.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296302904.og.jpg"
     },
     {
       "title": "Везенков е фаворит за наградата за MVP, а Олимпиакос е сигурен участник във Финалната четворка, 24 Сеп | 12:09",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2291399573.og.jpg"
-    },
-    {
-      "title": "Тодор Янчев направи промяна в младежкия национален отбор на България 24 Сеп | 10:33",
-      "url": "https://dsport.bg/todor-anchev-napravi-promana-v-mladezkia-nacionalen-otbor-na-balgaria~240606.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/873371-1~1.og.jpg"
-    },
-    {
-      "title": "Чочев отпадна от националния отбор 24 Сеп | 10:30",
-      "url": "https://dsport.bg/chochev-otpadna-ot-nacionalnia-otbor~240605.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1018678~1.og.jpg"
     }
   ]
 }
