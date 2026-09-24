@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T09:46:54.891869+00:00",
+  "updated": "2026-09-24T09:56:19.849329+00:00",
   "articles": [
+    {
+      "title": "Ограничават трафика по Дунав мост за международен пробег от Русе до Гюргево",
+      "url": "https://dariknews.bg/regioni/ruse/ogranichavat-trafika-po-dunav-most-za-mezhdunaroden-probeg-ot-ruse-do-giurgevo-2467268",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51346/51346325/991-ratio-dunav-most-ruse.jpg"
+    },
     {
       "title": "Силно земетресение разтърси турския окръг Шанлъурфа (ВИДЕО)",
       "url": "https://dariknews.bg/novini/sviat/silno-zemetresenie-raztyrsi-turskiia-okryg-shanlyurfa-video-2467265",
@@ -34,7 +41,7 @@
       "url": "https://dariknews.bg/novini/liubopitno/edna-svetlina-sonia-ioncheva-sybira-nad-300-artisti-za-koledna-gala-v-sofiia-2467267",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386788/640-420-sonia-ioncheva.jpg"
+      "image": "https://m.netinfo.bg/media/images/51386/51386789/991-ratio-sonia-ioncheva.jpg"
     },
     {
       "title": "Василев: Вдигането на данъчните оценки не трябва да удря по джоба на хората, такса „смет“ да се разкачи от тях",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50959/50959014/991-ratio-motor-motociklet-katastrofa-motorist-motocikletist.jpg"
     },
     {
-      "title": "Измамник се представи за борсов посредник и „завлече“ жена с над 5000 евро",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/izmamnik-se-predstaviza-borsov-posrednik-i-zavleche-zhena-s-nad-5000-evro-2467245",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
+      "title": "Жоао Феликс: Ламин Ямал трябва да спечели Златната топка, той е самият футбол 24 Сеп | 12:39",
+      "url": "https://dsport.bg/zoao-feliks-lamin-amal-trabva-da-specheli-zlatnata-topka-toi-e-samiat-futbol~240617.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2284393786.og.jpg"
     },
     {
       "title": "Владимир Кличко пристига в София за заключителните два дни от Европейското първенство по бокс за мъже и жени 24 Сеп | 12:29",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2292346705-1.og.jpg"
-    },
-    {
-      "title": "Кой е по-бърз от новите светкавици на Барселона? 24 Сеп | 10:44",
-      "url": "https://dsport.bg/koi-e-po-barz-ot-novite-svetkavici-na-barselona~240607.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2291399573.og.jpg"
     }
   ]
 }
