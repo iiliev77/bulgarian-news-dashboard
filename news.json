@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T09:29:07.291534+00:00",
+  "updated": "2026-09-25T09:42:13.008502+00:00",
   "articles": [
+    {
+      "title": "София променя храненето в детските градини: Първата кухня-майка идва догодина",
+      "url": "https://dariknews.bg/regioni/sofiia/sofiia-promenia-hraneneto-v-detskite-gradini-pyrvata-kuhnia-majka-idva-dogodina-2467402",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51038/51038211/991-ratio-detska-gradina.jpg"
+    },
     {
       "title": "Епичен морски сблъсък води племената към спасение в „Игри на волята”",
       "url": "https://dariknews.bg/novini/liubopitno/epichen-morski-sblysyk-vodi-plemenata-kym-spasenie-v-igri-na-voliata-2467399",
@@ -9,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387291/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Румъния премахва таксата за Дунав мост от 1 октомври и предлага на България да направи същото",
-      "url": "https://dariknews.bg/novini/bylgariia/rumyniia-premahva-taksata-za-dunav-most-ot-1-oktomvri-i-predlaga-na-bylgariia-da-napravi-syshtoto-2467401",
+      "title": "Румъния премахва таксата за Дунав мост и предлага на България да направи същото",
+      "url": "https://dariknews.bg/novini/bylgariia/rumyniia-premahva-taksata-za-dunav-most-i-predlaga-na-bylgariia-da-napravi-syshtoto-2467401",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51346/51346324/991-ratio-dunav-most-ruse.jpg"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386638/991-ratio-iliiana-iotova.jpg"
     },
     {
-      "title": "Млади шофьори се блъснаха в Казанлък, има ранен",
-      "url": "https://dariknews.bg/regioni/stara-zagora/mladi-shofiori-se-blysnaha-v-kazanlyk-ima-ranen-2467359",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51240/51240553/991-ratio-franciia-linejka.jpg"
+      "title": "Даниел Моралес ще води днешната тренировка на ЦСКА 25 Сеп | 12:36",
+      "url": "https://dsport.bg/daniel-morales-ste-vodi-dneshnata-trenirovka-na-cska~240688.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/798116334_1116427474149652_4165777806493089729_n~1.og.jfif"
+    },
+    {
+      "title": "Иво Ангелов: Трябва обединение на всички клубове 25 Сеп | 12:24",
+      "url": "https://dsport.bg/ivo-angelov-trabva-obedinenie-na-vsichki-klubove~240689.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/714936.og.jpg"
     },
     {
       "title": "ЦСКА с позиция за „Българска армия“ 25 Сеп | 12:02",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2216989519-2-1-1-1-2-1-1~2.og.jpg"
-    },
-    {
-      "title": "Жезус разкри защо е сменил Кристиано 25 Сеп | 10:08",
-      "url": "https://dsport.bg/zezus-razkri-zasto-e-smenil-kristiano~240679.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296971370.og.jpg"
-    },
-    {
-      "title": "БФ Борба приветства криминализирането на нарушаването и заобикалянето на санкции на ЕС 25 Сеп | 09:52",
-      "url": "https://dsport.bg/bf-borba-privetstva-kriminaliziraneto-na-narushavaneto-i-zaobikalaneto-na-sankcii-na-es~240678.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/whatsapp_image_2026-09-20_at_13_57_59.og.jpeg"
     }
   ]
 }
