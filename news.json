@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T18:06:33.345892+00:00",
+  "updated": "2026-09-25T18:23:32.175777+00:00",
   "articles": [
+    {
+      "title": "Пешеходка и синът ѝ пострадаха при инцидент в Русе",
+      "url": "https://dariknews.bg/regioni/ruse/peshehodka-i-sinyt-postradaha-pri-incident-v-ruse-2467451",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
+    },
     {
       "title": "Радослав Росенов спечели европейската титла по бокс",
       "url": "https://dariknews.bg/novini/bylgariia/radoslav-rosenov-specheli-evropejskata-titla-po-boks-2467450",
@@ -93,18 +100,18 @@
       "image": "https://m.netinfo.bg/media/images/51364/51364799/991-ratio-po-techenieto-na-zastrashitelno-presyhvashtiia-dunav.jpg"
     },
     {
-      "title": "БАБХ спря от продажба над 28 тона кисело зеле с изтекъл срок в София",
-      "url": "https://dariknews.bg/regioni/sofiia/babh-spria-ot-prodazhba-nad-28-tona-kiselo-zele-s-iztekyl-srok-v-sofiia-2467429",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
-    },
-    {
       "title": "Пожарът в Бяла, при който загина човек, е локализиран (ВИДЕО)",
       "url": "https://dariknews.bg/regioni/varna/pozharyt-v-biala-pri-kojto-zagina-chovek-e-lokaliziran-video-2467431",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "БАБХ спря от продажба над 28 тона кисело зеле с изтекъл срок в София",
+      "url": "https://dariknews.bg/regioni/sofiia/babh-spria-ot-prodazhba-nad-28-tona-kiselo-zele-s-iztekyl-srok-v-sofiia-2467429",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
     },
     {
       "title": "Жената, обвинила Джей Зи в изнасилване, призна: Обвиненията ми са лъжа",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387369/991-ratio-asen-vasilev-dobrich.jpg"
     },
     {
-      "title": "ЕК започна пет наказателни процедури срещу България",
-      "url": "https://dariknews.bg/novini/sviat/ek-zapochna-pet-nakazatelni-proceduri-sreshtu-bylgariia-2467422",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+      "title": "Левски намалява цените за оставащите си домакинства в Лига Европа 25 Сеп | 21:05",
+      "url": "https://dsport.bg/levski-namalava-cenite-za-ostavastite-si-domakinstva-v-liga-evropa~240722.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/966174-1~2.og.jpg"
     },
     {
       "title": "Звездата за 85 млн. паунда на Португалия след загубата от България: Контролирахме 80 минути, но това е футболът 25 Сеп | 21:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296240557.og.jpg"
-    },
-    {
-      "title": "Тежка програма за Левски - 6 поредни гостувания и нови договори за ключови играчи 25 Сеп | 18:52",
-      "url": "https://dsport.bg/tezka-programa-za-levski-6-poredni-gostuvania-i-novi-dogovori-za-kluchovi-igrachi~240712.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/komentarno-alpha~12.og.png"
     }
   ]
 }
