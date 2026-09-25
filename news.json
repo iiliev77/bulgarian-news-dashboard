@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T12:07:07.792248+00:00",
+  "updated": "2026-09-25T12:27:13.480223+00:00",
   "articles": [
+    {
+      "title": "Заплати, ваучери и горива: Асен Василев с критики към управляващите за подготвяните промени",
+      "url": "https://dariknews.bg/regioni/dobrich/zaplati-vaucheri-i-goriva-asen-vasilev-s-kritiki-kym-upravliavashtite-za-podgotvianite-promeni-2467424",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387369/991-ratio-asen-vasilev-dobrich.jpg"
+    },
     {
       "title": "ЕК започна пет наказателни процедури срещу България",
       "url": "https://dariknews.bg/novini/sviat/ek-zapochna-pet-nakazatelni-proceduri-sreshtu-bylgariia-2467422",
@@ -13,7 +20,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-s-pyrvi-komentar-za-deklaraciiata-na-oon-v-podkrepa-na-ukrajna-2467406",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51338/51338609/991-ratio-parlament-glasuvane.jpg"
+      "image": "https://m.netinfo.bg/media/images/51387/51387368/991-ratio-vlado-nikolov.jpg"
     },
     {
       "title": "До три месеца влизат в сила новите изисквания за млечните продукти",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51038/51038211/991-ratio-detska-gradina.jpg"
     },
     {
-      "title": "Епичен морски сблъсък води племената към спасение в „Игри на волята”",
-      "url": "https://dariknews.bg/novini/liubopitno/epichen-morski-sblysyk-vodi-plemenata-kym-spasenie-v-igri-na-voliata-2467399",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387291/991-ratio-igri-na-voliata.jpg"
+      "title": "Абсолютен хегемон! BSC BETVAM размаза конкуренцията в Бургас и вдигна титлата на България! 25 Сеп | 15:11",
+      "url": "https://dsport.bg/absoluten-hegemon-bsc-betvam-razmaza-konkurenciata-v-burgas-i-vdigna-titlata-na-balgaria~240698.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/797724971_2903114500056213_8818653789591913992_n.og.jpg"
     },
     {
       "title": "По никое време: Арда подсили атаката с бивш нападател на Хебър 25 Сеп | 14:41",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/714936.og.jpg"
-    },
-    {
-      "title": "ЦСКА с позиция за „Българска армия“ 25 Сеп | 12:02",
-      "url": "https://dsport.bg/cska-s-pozicia-za-balgarska-armia~240687.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/dji_20260809160800_0092_d-1500x844.og.jpg"
     }
   ]
 }
