@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:55:44.772797+00:00",
+  "updated": "2026-09-25T18:06:33.345892+00:00",
   "articles": [
     {
       "title": "Радослав Росенов спечели европейската титла по бокс",
@@ -93,18 +93,18 @@
       "image": "https://m.netinfo.bg/media/images/51364/51364799/991-ratio-po-techenieto-na-zastrashitelno-presyhvashtiia-dunav.jpg"
     },
     {
-      "title": "Пожар избухна в склад за изолационни материали в Бяла, има загинал (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/varna/pozhar-izbuhnav-sklad-za-izolacionni-materiali-v-biala-ima-zaginal-video-2467431",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
-    },
-    {
       "title": "БАБХ спря от продажба над 28 тона кисело зеле с изтекъл срок в София",
       "url": "https://dariknews.bg/regioni/sofiia/babh-spria-ot-prodazhba-nad-28-tona-kiselo-zele-s-iztekyl-srok-v-sofiia-2467429",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
+    },
+    {
+      "title": "Пожарът в Бяла, при който загина човек, е локализиран (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/varna/pozharyt-v-biala-pri-kojto-zagina-chovek-e-lokaliziran-video-2467431",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Жената, обвинила Джей Зи в изнасилване, призна: Обвиненията ми са лъжа",
@@ -140,6 +140,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+    },
+    {
+      "title": "Звездата за 85 млн. паунда на Португалия след загубата от България: Контролирахме 80 минути, но това е футболът 25 Сеп | 21:01",
+      "url": "https://dsport.bg/zvezdata-za-85-mln-paunda-na-portugalia-sled-zagubata-ot-balgaria-kontrolirahme-80-minuti-no-tova-e-futbolat~240721.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1031015.og.jpg"
+    },
+    {
+      "title": "Тодор Янчев: Победихме най-силния отбор не само в групата, а и в Европа 25 Сеп | 20:55",
+      "url": "https://dsport.bg/todor-anchev-pobedihme-nai-silnia-otbor-ne-samo-v-grupata-a-i-v-evropa~240720.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1031081.og.jpg"
     },
     {
       "title": "Пламен Андреев: Отборът имаше нужда от мен, за да останем в мача 25 Сеп | 20:44",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/komentarno-alpha~12.og.png"
-    },
-    {
-      "title": "Синер изпуска първото място, отказа се от Пекин 25 Сеп | 18:50",
-      "url": "https://dsport.bg/siner-izpuska-parvoto-masto-otkaza-se-ot-pekin~240711.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2286060019.og.jpg"
-    },
-    {
-      "title": "УЕФА намали наказанието на Матео Гендузи 25 Сеп | 18:33",
-      "url": "https://dsport.bg/uefa-namali-nakazanieto-na-mateo-genduzi~240710.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2291056366~1.og.jpg"
     }
   ]
 }
