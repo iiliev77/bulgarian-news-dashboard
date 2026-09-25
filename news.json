@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:42:13.008502+00:00",
+  "updated": "2026-09-25T09:53:15.279781+00:00",
   "articles": [
     {
       "title": "София променя храненето в детските градини: Първата кухня-майка идва догодина",
@@ -14,6 +14,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387291/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Премахнаха десетки незаконни сметища премахнати в Монтана",
+      "url": "https://dariknews.bg/regioni/montana/premahnaha-desetki-nezakonni-smetishta-premahnati-v-montana-2467404",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50865/50865391/991-ratio-bokluk.jpg"
     },
     {
       "title": "Румъния премахва таксата за Дунав мост и предлага на България да направи същото",
@@ -93,8 +100,8 @@
       "image": "https://m.netinfo.bg/media/images/51271/51271691/991-ratio-nikolaj-denkov.jpg"
     },
     {
-      "title": "Абсолютен трилър: Българин осъмна с дълг от 1,28 млн. евро за румънска фирма, която не знае",
-      "url": "https://dariknews.bg/novini/bylgariia/absoliuten-trilyr-bylgarin-osymna-s-dylg-ot-128-mln.-evro-za-rumynska-firma-koiato-ne-znae-2467388",
+      "title": "Абсолютен трилър: Българин осъмна с дълг от 1,28 млн. евро за румънска фирма, за която не знае",
+      "url": "https://dariknews.bg/novini/bylgariia/absoliuten-trilyr-bylgarin-osymna-s-dylg-ot-128-mln.-evro-za-rumynska-firma-za-koiato-ne-znae-2467388",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/44133/44133195/991-ratio-kulturist.jpg"
     },
     {
-      "title": "Опозицията критикува разминаването между институциите за декларацията на ООН в подкрепа на Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/opoziciiata-kritikuva-razminavaneto-mezhdu-instituciite-za-deklaraciiata-na-oon-v-podkrepa-na-ukrajna-2467361",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386638/991-ratio-iliiana-iotova.jpg"
+      "title": "Верстапен най-бърз в третата свободна тренировка в Баку 25 Сеп | 12:48",
+      "url": "https://dsport.bg/verstapen-nai-barz-v-tretata-svobodna-trenirovka-v-baku~240690.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297044459.og.jpg"
     },
     {
       "title": "Даниел Моралес ще води днешната тренировка на ЦСКА 25 Сеп | 12:36",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2286971049~1.og.jpg"
-    },
-    {
-      "title": "Везенков: Чувствам се добре, но трябва да подобрим някои неща 25 Сеп | 10:27",
-      "url": "https://dsport.bg/vezenkov-chuvstvam-se-dobre-no-trabva-da-podobrim-nakoi-nesta~240680.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2216989519-2-1-1-1-2-1-1~2.og.jpg"
     }
   ]
 }
