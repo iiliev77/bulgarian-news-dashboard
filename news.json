@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:05:20.591310+00:00",
+  "updated": "2026-09-25T17:20:31.738322+00:00",
   "articles": [
     {
       "title": "Петима души, сред които 14-годишно момче, загинаха при руски атаки в Киев",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50514/50514220/991-ratio-sirene.jpg"
     },
     {
+      "title": "Радослав Росенов след европейската титла: Никога не идвам за второ или трето място 25 Сеп | 20:12",
+      "url": "https://dsport.bg/radoslav-rosenov-sled-evropeiskata-titla-nikoga-ne-idvam-za-vtoro-ili-treto-masto~240716.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1031063.og.jpg"
+    },
+    {
+      "title": "Европейско злато за България! Радослав Росенов ликува в София 25 Сеп | 20:06",
+      "url": "https://dsport.bg/evropeisko-zlato-za-balgaria-radoslav-rosenov-likuva-v-sofia~240715.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1031057.og.jpg"
+    },
+    {
       "title": "Полша се класира за финала на Евроволей след чиста победа над Словения 25 Сеп | 19:50",
       "url": "https://dsport.bg/polsha-se-klasira-za-finala-na-evrovolei-sled-chista-pobeda-nad-slovenia~240714.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2287003776-1.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Мишо Александров пред Дарик: Правим всичко възможно да играем с Монако на „Армията“ 25 Сеп | 17:33",
-      "url": "https://dsport.bg/misho-aleksandrov-pred-darik-pravim-vsichko-vazmozno-da-igraem-s-monako-na-armiata~240706.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1029871.og.jpg"
-    },
-    {
-      "title": "Краев: На най-високо ниво футболистите играят през 2-3 дни, добре е да има повече мачове 25 Сеп | 17:17",
-      "url": "https://dsport.bg/kraev-na-nai-visoko-nivo-futbolistite-igraat-prez-2-3-dni-dobre-e-da-ima-poveche-machove~240705.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1030889.og.jpg"
     }
   ]
 }
