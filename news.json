@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-25T11:19:23.288742+00:00",
+  "updated": "2026-09-25T11:32:55.930043+00:00",
   "articles": [
+    {
+      "title": "ЕК стартира пет наказателни процедури срещу България",
+      "url": "https://dariknews.bg/novini/sviat/ek-startira-pet-nakazatelni-proceduri-sreshtu-bylgariia-2467422",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+    },
+    {
+      "title": "До три месеца влизат в сила новите изисквания за млечните продукти",
+      "url": "https://dariknews.bg/novini/bylgariia/do-tri-meseca-vlizat-v-sila-novite-iziskvaniia-za-mlechnite-produkti-2467420",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50514/50514220/991-ratio-sirene.jpg"
+    },
+    {
+      "title": "Разбиха схема за каналджийство през България към Германия: Шестима души отиват на съд",
+      "url": "https://dariknews.bg/novini/bylgariia/razbiha-shema-za-kanaldzhijstvo-prez-bylgariia-kym-germaniia-shestima-dushi-otivat-na-syd-2467421",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50229/50229641/991-ratio-migranti-ograda.jpg"
+    },
+    {
+      "title": "КФН спира копие на популярен сайт заради потенциална финансова измама",
+      "url": "https://dariknews.bg/novini/bylgariia/kfn-spira-kopie-na-populiaren-sajt-zaradi-potencialna-finansova-izmama-2467418",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387351/991-ratio-kompiutyr.jpg"
+    },
+    {
+      "title": "Гълъб Донев: Ръстът на инфлацията в България не може да бъде отнесен към въвеждането на еврото у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-rystyt-na-inflaciiata-v-bylgariia-ne-mozhe-da-byde-otnesen-kym-vyvezhdaneto-na-evroto-u-nas-2467419",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51323/51323941/991-ratio-gylyb-donev.jpg"
+    },
     {
       "title": "Пожар избухна в складова база в Бургас",
       "url": "https://dariknews.bg/regioni/burgas/pozhar-izbuhna-v-skladova-baza-v-burgas-2467417",
@@ -107,41 +142,6 @@
       "image": "https://m.netinfo.bg/media/images/50865/50865391/991-ratio-bokluk.jpg"
     },
     {
-      "title": "Румъния премахва таксата за Дунав мост и предлага на България да направи същото",
-      "url": "https://dariknews.bg/novini/bylgariia/rumyniia-premahva-taksata-za-dunav-most-i-predlaga-na-bylgariia-da-napravi-syshtoto-2467401",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51346/51346324/991-ratio-dunav-most-ruse.jpg"
-    },
-    {
-      "title": "Катастрофа затруднява движението край Мишеморков хан",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/katastrofa-zatrudniava-dvizhenieto-kraj-mishemorkov-han-2467398",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
-    },
-    {
-      "title": "МВР отвори денонощни канали за изборни сигнали",
-      "url": "https://dariknews.bg/novini/bylgariia/mvr-otvori-denonoshtni-kanali-za-izborni-signali-2467395",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
-    },
-    {
-      "title": "„Аз тебе ще те убия“: Мъж простреля с пистолет съседа си пред очите на детето му в София",
-      "url": "https://dariknews.bg/regioni/sofiia/az-tebe-shte-te-ubiia-myzh-prostrelia-s-pistolet-syseda-si-pred-ochite-na-deteto-mu-v-sofiia-2467397",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
-    },
-    {
-      "title": "Разкриха мистерията: Легендарният изследовател сър Ранулф Файнс е бил незаконно укриван в старчески дом",
-      "url": "https://dariknews.bg/novini/sviat/razkriha-misteriiata-legendarniiat-izsledovatel-syr-ranulf-fajns-e-bil-nezakonno-ukrivan-v-starcheski-dom-2467396",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387283/991-ratio-syr-ranulf-fajns.jpg"
-    },
-    {
       "title": "Братя Домусчиеви влязоха в Черно море 25 Сеп | 14:12",
       "url": "https://dsport.bg/basketbolniat-cherno-more-s-novo-ime-i-sponsor~240696.html",
       "source": "Dsport",
@@ -156,7 +156,7 @@
       "image": "https://dsport.bg/media/383/screenshot-1303-.og.png"
     },
     {
-      "title": "На живо: Кошмар за Цолов, българинът е аут от състезанието 25 Сеп | 13:58",
+      "title": "Кошмар за Цолов в основното състезание 25 Сеп | 13:58",
       "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
       "source": "Dsport",
       "section": "sport",
