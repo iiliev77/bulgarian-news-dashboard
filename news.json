@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T15:50:47.953690+00:00",
+  "updated": "2026-09-25T15:58:54.437427+00:00",
   "articles": [
     {
       "title": "Дмитро Кулеба благодари на Илияна Йотова и България за подкрепата за Украйна в ООН",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387351/991-ratio-kompiutyr.jpg"
     },
     {
+      "title": "Тежка програма за Левски - 6 поредни гостувания и нови договори за ключови играчи 25 Сеп | 18:52",
+      "url": "https://dsport.bg/tezka-programa-za-levski-6-poredni-gostuvania-i-novi-dogovori-za-kluchovi-igrachi~240712.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/komentarno-alpha~12.og.png"
+    },
+    {
+      "title": "Синер изпуска първото място, отказа се от Пекин 25 Сеп | 18:50",
+      "url": "https://dsport.bg/siner-izpuska-parvoto-masto-otkaza-se-ot-pekin~240711.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2286060019.og.jpg"
+    },
+    {
       "title": "УЕФА намали наказанието на Матео Гендузи 25 Сеп | 18:33",
       "url": "https://dsport.bg/uefa-namali-nakazanieto-na-mateo-genduzi~240710.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2261106941.og.jpg"
-    },
-    {
-      "title": "Александър Димитров: Целта е поставена от президента - да влезем в Лига В (ВИДЕО) 25 Сеп | 16:43",
-      "url": "https://dsport.bg/aleksandar-dimitrov-celta-e-postavena-ot-prezidenta-da-vlezem-v-liga-v-video~240702.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1030891.og.jpg"
-    },
-    {
-      "title": "Джордж Ръсел тръгва първи в Баку, Кими Антонели назад 25 Сеп | 16:23",
-      "url": "https://dsport.bg/dzordz-rasel-tragva-parvi-v-baku-kimi-antoneli-nazad~240701.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297073944.og.jpg"
     }
   ]
 }
