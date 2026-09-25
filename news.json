@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T10:30:48.343910+00:00",
+  "updated": "2026-09-25T10:44:05.471784+00:00",
   "articles": [
+    {
+      "title": "Потушиха пожара, обхванал около 600 декара гора край село Смирненски",
+      "url": "https://dariknews.bg/regioni/montana/potushiha-pozhara-obhvanal-okolo-600-dekara-gora-kraj-selo-smirnenski-2467411",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
+    },
     {
       "title": "Управителят на БНБ Димитър Радев: Вдигането на данъци има цена",
       "url": "https://dariknews.bg/novini/biznes/upraviteliat-na-bnb-dimityr-radev-vdiganeto-na-danyci-ima-cena-2467408",
@@ -14,6 +21,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
+    },
+    {
+      "title": "При акция в Монтанско: Спипаха над 130 кг канабис, екстази и амфетамин (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/montana/pri-akciia-v-montansko-spipaha-nad-130-kg-kanabis-ekstazi-i-amfetamin-snimki-2467409",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50803/50803773/991-ratio-marihuana-kanabis-burkan.jpg"
+    },
+    {
+      "title": "Тръмп и Си Дзинпин си размениха любезности, но оставиха големите спорове нерешени",
+      "url": "https://dariknews.bg/novini/sviat/trymp-i-si-dzinpin-si-razmeniha-liubeznosti-no-ostaviha-golemite-sporove-neresheni-2467410",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387002/991-ratio-kitajskiiat-prezident-si-czinpin-i-amerikanskiia-mu-kolega-donald-trymp.jpg"
     },
     {
       "title": "Ефектът е отминал. Последствията може да не са: какво рискувате при тест за наркотици на пътя?",
@@ -121,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51198/51198702/991-ratio-ivajlo-mirchev.jpg"
     },
     {
-      "title": "Денков: Не може това да продължава - президент да говори обратното на това, което МВнР е подало като решение",
-      "url": "https://dariknews.bg/novini/bylgariia/denkov-ne-mozhe-tova-da-prodylzhava-prezident-da-govori-obratnoto-na-tova-koeto-mvnr-e-podalo-kato-reshenie-2467389",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51271/51271691/991-ratio-nikolaj-denkov.jpg"
-    },
-    {
-      "title": "Абсолютен трилър: Българин осъмна с дълг от 1,28 млн. евро за румънска фирма, за която не знае",
-      "url": "https://dariknews.bg/novini/bylgariia/absoliuten-trilyr-bylgarin-osymna-s-dylg-ot-128-mln.-evro-za-rumynska-firma-za-koiato-ne-znae-2467388",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Спасиха бедстващ делфин край Поморие",
-      "url": "https://dariknews.bg/regioni/burgas/spasiha-bedstvasht-delfin-kraj-pomorie-2467380",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50880/50880447/991-ratio-delfin.jpg"
-    },
-    {
-      "title": "На живо: Добър старт на Цолов в основното състезание 25 Сеп | 13:20",
+      "title": "На живо: Кошмар за Цолов в боксовете, българинът може да бъде и наказан 25 Сеп | 13:42",
       "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/finali-ekt-29-~1.og.png"
+      "image": "https://dsport.bg/media/383/gettyimages-2297010635.og.jpg"
     },
     {
       "title": "Футболна война: Висшата лига, Ла Лига, Серия А и Бундеслигата с мощна атака срещу ФИФА 25 Сеп | 13:19",
