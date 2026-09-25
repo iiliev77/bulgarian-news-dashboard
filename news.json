@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T10:54:39.872605+00:00",
+  "updated": "2026-09-25T11:03:30.890891+00:00",
   "articles": [
+    {
+      "title": "Иззеха над 12 000 безакцизни цигари „Капитан Андреево“",
+      "url": "https://dariknews.bg/regioni/haskovo/izzeha-nad-12-000-bezakcizni-cigari-kapitan-andreevo-2467413",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51280/51280635/991-ratio-cigari.jpg"
+    },
+    {
+      "title": "Масирани атаки с дронове между Русия и Украйна: Има жертви и ранени и от двете страни",
+      "url": "https://dariknews.bg/novini/sviat/masirani-ataki-s-dronove-mezhdu-rusiia-i-ukrajna-ima-zhertvi-i-raneni-i-ot-dvete-strani-2467412",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51327/51327034/991-ratio-kiev.jpg"
+    },
     {
       "title": "Потушиха пожара, обхванал около 600 декара гора край село Смирненски",
       "url": "https://dariknews.bg/regioni/montana/potushiha-pozhara-obhvanal-okolo-600-dekara-gora-kraj-selo-smirnenski-2467411",
@@ -23,18 +37,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
     },
     {
-      "title": "При акция в Монтанско: Спипаха над 130 кг канабис, екстази и амфетамин (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/montana/pri-akciia-v-montansko-spipaha-nad-130-kg-kanabis-ekstazi-i-amfetamin-snimki-2467409",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50803/50803773/991-ratio-marihuana-kanabis-burkan.jpg"
-    },
-    {
       "title": "Тръмп и Си Дзинпин си размениха любезности, но оставиха големите спорове нерешени (ВИДЕО)",
       "url": "https://dariknews.bg/novini/sviat/trymp-i-si-dzinpin-si-razmeniha-liubeznosti-no-ostaviha-golemite-sporove-neresheni-video-2467410",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387002/991-ratio-kitajskiiat-prezident-si-czinpin-i-amerikanskiia-mu-kolega-donald-trymp.jpg"
+    },
+    {
+      "title": "При акция в Монтанско: Спипаха над 130 кг канабис, екстази и амфетамин (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/montana/pri-akciia-v-montansko-spipaha-nad-130-kg-kanabis-ekstazi-i-amfetamin-snimki-2467409",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50803/50803773/991-ratio-marihuana-kanabis-burkan.jpg"
     },
     {
       "title": "Ефектът е отминал. Последствията може да не са: какво рискувате при тест за наркотици на пътя?",
@@ -128,21 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387239/991-ratio-roksana.jpg"
     },
     {
-      "title": "Петкова защити данъка върху свръхпечалбите: Те не отиват за нови заводи и работни места",
-      "url": "https://dariknews.bg/novini/bylgariia/petkova-zashtiti-danyka-vyrhu-svryhpechalbite-te-ne-otivat-za-novi-zavodi-i-rabotni-mesta-2467391",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50798/50798055/991-ratio-liudmila-petkova.jpg"
+      "title": "Ексклузивно Първата ракета на България за първия си сезон като №1 25 Сеп | 13:59",
+      "url": "https://dsport.bg/parvata-raketa-na-balgaria-za-parvia-si-sezon-kato-1~240694.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-1303-.og.png"
     },
     {
-      "title": "ДБ внася в НС искане за комисия за взривените заводи",
-      "url": "https://dariknews.bg/novini/bylgariia/db-vnasia-v-ns-iskane-za-komisiia-za-vzrivenite-zavodi-2467387",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51198/51198702/991-ratio-ivajlo-mirchev.jpg"
-    },
-    {
-      "title": "На живо: Кошмар за Цолов, българинът е аут от състезанието 25 Сеп | 13:42",
+      "title": "На живо: Кошмар за Цолов, българинът е аут от състезанието, което бе спряно 25 Сеп | 13:58",
       "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2215754476.og.jpg"
-    },
-    {
-      "title": "Генералният мениджър на Лейкърс за напускането на Леброн: Беше невероятна ера 25 Сеп | 11:22",
-      "url": "https://dsport.bg/generalniat-menidzar-na-leikars-za-napuskaneto-na-lebron-beshe-neveroatna-era~240684.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2275845334.og.jpg"
     }
   ]
 }
