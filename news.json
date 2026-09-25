@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:49:49.295724+00:00",
+  "updated": "2026-09-25T08:59:14.057101+00:00",
   "articles": [
     {
       "title": "Задържаха 17 000 литра гориво без документи на Митница София",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/39843/39843885/991-ratio-linejka-gyrciia.jpg"
     },
     {
+      "title": "Линдзи Вон показа новия си приятел 25 Сеп | 11:52",
+      "url": "https://dsport.bg/lindzi-von-pokaza-novia-si-priatel~240686.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-2026-09-25-114854.og.png"
+    },
+    {
       "title": "„Имола“ започна подготовка за финала във Формула 1 25 Сеп | 11:37",
       "url": "https://dsport.bg/imola-zapochna-podgotovka-za-finala-vav-formula-1~240685.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296964947.og.jpg"
-    },
-    {
-      "title": "Весела Лечева: България затвърждава своя авторитет като активен участник в международното олимпийско движение 25 Сеп | 09:26",
-      "url": "https://dsport.bg/vesela-lecheva-balgaria-zatvarzdava-svoa-avtoritet-kato-aktiven-uchastnik-v-mezdunarodnoto-olimpiisko-dvizenie~240676.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/lecheva_nagoa1.og.jpg"
     }
   ]
 }
