@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T14:01:39.393153+00:00",
+  "updated": "2026-09-25T14:19:06.272277+00:00",
   "articles": [
+    {
+      "title": "Шишков: Няма решение винетките за леките автомобили да отпаднат след 2030 г.",
+      "url": "https://dariknews.bg/novini/bylgariia/shishkov-niama-reshenie-vinetkite-za-lekite-avtomobili-da-otpadnat-sled-2030-g-2467435",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51259/51259537/991-ratio-vinetki.jpg"
+    },
     {
       "title": "Запознайте се с Мерлин, Дюи и Луна: Новите четириноги пазители на българската граница",
       "url": "https://dariknews.bg/novini/bylgariia/zapoznajte-se-s-merlin-diui-i-luna-novite-chetirinogi-paziteli-na-bylgarskata-granica-2467433",
@@ -16,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/51364/51364799/991-ratio-po-techenieto-na-zastrashitelno-presyhvashtiia-dunav.jpg"
     },
     {
-      "title": "Пожар избухна в склад за изолационни материали в Бяла",
-      "url": "https://dariknews.bg/regioni/varna/pozhar-izbuhnav-sklad-za-izolacionni-materiali-v-biala-2467431",
+      "title": "Пожар избухна в склад за изолационни материали в Бяла, има загинал (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/varna/pozhar-izbuhnav-sklad-za-izolacionni-materiali-v-biala-ima-zaginal-video-2467431",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
@@ -30,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
     },
     {
-      "title": "Жената, обвинила Джей Зи в изнасилване, призна: Обвиненията ми са неверни",
-      "url": "https://dariknews.bg/novini/sviat/zhenata-obvinila-dzhej-zi-v-iznasilvane-prizna-obvineniiata-mi-sa-neverni-2467428",
+      "title": "Жената, обвинила Джей Зи в изнасилване, призна: Обвиненията ми са лъжа",
+      "url": "https://dariknews.bg/novini/sviat/zhenata-obvinila-dzhej-zi-v-iznasilvane-prizna-obvineniiata-mi-sa-lyzha-2467428",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/48492/48492036/991-ratio-dzhej-zi.jpg"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51327/51327034/991-ratio-kiev.jpg"
     },
     {
-      "title": "Потушиха пожара, обхванал около 600 декара гора край село Смирненски",
-      "url": "https://dariknews.bg/regioni/montana/potushiha-pozhara-obhvanal-okolo-600-dekara-gora-kraj-selo-smirnenski-2467411",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
+      "title": "Краев: На най-високо ниво футболистите играят през 2-3 дни, добре е да има повече мачове 25 Сеп | 17:17",
+      "url": "https://dsport.bg/kraev-na-nai-visoko-nivo-futbolistite-igraat-prez-2-3-dni-dobre-e-da-ima-poveche-machove~240705.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1030889.og.jpg"
+    },
+    {
+      "title": "Спортното шоу на Дарик радио - 25.09.2026 г. 25 Сеп | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-25-09-2026-g~240704.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-1304-.og.png"
     },
     {
       "title": "Денят на страшния съд: Манчестър Сити е виновен по 114 обвинения! 25 Сеп | 16:52",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2297010635.og.jpg"
-    },
-    {
-      "title": "Братя Домусчиеви влязоха в Черно море 25 Сеп | 14:12",
-      "url": "https://dsport.bg/basketbolniat-cherno-more-s-novo-ime-i-sponsor~240696.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/viber_image_2026-09-25_12-21-09-575.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Първата ракета на България за първия си сезон като №1 25 Сеп | 13:59",
-      "url": "https://dsport.bg/parvata-raketa-na-balgaria-za-parvia-si-sezon-kato-1~240694.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-1303-.og.png"
     }
   ]
 }
