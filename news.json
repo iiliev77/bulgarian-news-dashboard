@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:46:00.193008+00:00",
+  "updated": "2026-09-25T07:56:02.661686+00:00",
   "articles": [
     {
       "title": "90-годишен японски бодибилдър не спира да побеждава (СНИМКИ)",
@@ -121,8 +121,8 @@
       "image": "https://m.netinfo.bg/media/images/50959/50959645/991-ratio-taksi.jpg"
     },
     {
-      "title": "Арестуваха 30 души, сред които актрисата Сюзън Сарандън по време на протест срещу Нетаняху",
-      "url": "https://dariknews.bg/novini/sviat/arestuvaha-30-dushi-sred-koito-aktrisata-siuzyn-sarandyn-po-vreme-na-protest-sreshtu-netaniahu-2467336",
+      "title": "Сюзън Сарандън и Елиът Пейдж сред десетките арестувани на протест срещу Нетаняху в Ню Йорк",
+      "url": "https://dariknews.bg/novini/sviat/siuzyn-sarandyn-i-eliyt-pejdzh-sred-desetkite-arestuvani-na-protest-sreshtu-netaniahu-v-niu-iork-2467336",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387126/991-ratio-protest.jpg"
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51180/51180260/991-ratio-bulevard-vladimir-vazov-sofiia.jpg"
+    },
+    {
+      "title": "Дунав обяви контрола с Черно море 25 Сеп | 10:54",
+      "url": "https://dsport.bg/dunav-obavi-kontrola-s-cherno-more~240682.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1027160~1.og.jpg"
     },
     {
       "title": "Скалони: Сега е подходящият момент за сбогуването на Меси с Аржентина 25 Сеп | 10:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-141255632~1.og.jpg"
-    },
-    {
-      "title": "Много труден спринт за Никола Цолов в Баку, но българинът увеличи аванса си пред Камара 25 Сеп | 08:19",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-nikola-colov-tragva-parvi-v-sprinta-v-baku~240669.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296888768.og.jpg"
     }
   ]
 }
