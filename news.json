@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-25T07:18:11.285890+00:00",
+  "updated": "2026-09-25T07:32:28.444890+00:00",
   "articles": [
+    {
+      "title": "Опозицията критикува разминаването между институциите за декларацията на ООН в подкрепа на Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/opoziciiata-kritikuva-razminavaneto-mezhdu-instituciite-za-deklaraciiata-na-oon-v-podkrepa-na-ukrajna-2467361",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386638/991-ratio-iliiana-iotova.jpg"
+    },
+    {
+      "title": "Млади шофьори се блъснаха в Казанлък, има ранен",
+      "url": "https://dariknews.bg/regioni/stara-zagora/mladi-shofiori-se-blysnaha-v-kazanlyk-ima-ranen-2467359",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51240/51240553/991-ratio-franciia-linejka.jpg"
+    },
+    {
+      "title": "Йеменското правителство поиска международна помощ срещу хутите (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/jemenskoto-pravitelstvo-poiska-mezhdunarodna-pomosht-sreshtu-hutite-video-2467357",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51057/51057171/991-ratio-jemen-huti.jpg"
+    },
+    {
+      "title": "ДБ искат обявяване на противоконституционност на промените в Закона за подпомагане на земеделските производители",
+      "url": "https://dariknews.bg/novini/bylgariia/db-iskat-obiaviavane-na-protivokonstitucionnost-na-promenite-v-zakona-za-podpomagane-na-zemedelskite-proizvoditeli-2467360",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51116/51116624/991-ratio-traktor-zemedelie.jpg"
+    },
     {
       "title": "Бивша монахиня получи 20 години затвор за сексуални злоупотреби с деца в Аржентина",
       "url": "https://dariknews.bg/novini/sviat/bivsha-monahinia-poluchi-20-godini-zatvor-za-seksualni-zloupotrebi-s-deca-v-arzhentina-2467352",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51373/51373846/991-ratio-parlament.jpg"
     },
     {
-      "title": "Започва проверка срещу прокуратурата за разгласяването на лични данни по случая „Петрохан“",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochva-proverka-sreshtu-prokuraturata-za-razglasiavaneto-na-lichni-danni-po-sluchaia-petrohan-2467331",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387113/991-ratio-petrohan.jpg"
-    },
-    {
-      "title": "Започна предизборната кампания за президентските избори на 25 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochna-predizbornata-kampaniia-za-prezidentskite-izbori-na-25-oktomvri-2467330",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Делото за замърсяването на Варненското езеро влиза в съда, oбвиняем е Иван Портних",
-      "url": "https://dariknews.bg/regioni/varna/deloto-za-zamyrsiavaneto-na-varnenskoto-ezero-vliza-v-syda-obviniaem-e-ivan-portnih-2467329",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50669/50669838/991-ratio-ivan-portnih.jpg"
-    },
-    {
-      "title": "Министър Велислава Петрова проведе серия срещи в ООН",
-      "url": "https://dariknews.bg/novini/sviat/ministyr-velislava-petrova-provede-seriia-sreshti-v-oon-2467328",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387110/991-ratio-velislava-petrova.jpg"
+      "title": "Везенков: Чувствам се добре, но трябва да подобрим някои неща 25 Сеп | 10:27",
+      "url": "https://dsport.bg/vezenkov-chuvstvam-se-dobre-no-trabva-da-podobrim-nakoi-nesta~240680.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2216989519-2-1-1-1-2-1-1~2.og.jpg"
     },
     {
       "title": "Жезус разкри защо е сменил Кристиано 25 Сеп | 10:08",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296969983.og.jpg"
-    },
-    {
-      "title": "Шави: Бяхме по-добри от Германия 25 Сеп | 07:30",
-      "url": "https://dsport.bg/shavi-bahme-po-dobri-ot-germania~240671.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296958908.og.jpg"
     }
   ]
 }
