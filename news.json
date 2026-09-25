@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-25T08:59:14.057101+00:00",
+  "updated": "2026-09-25T09:13:45.888520+00:00",
   "articles": [
+    {
+      "title": "МВР отвори денонощни канали за изборни сигнали",
+      "url": "https://dariknews.bg/novini/bylgariia/mvr-otvori-denonoshtni-kanali-za-izborni-signali-2467395",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
+    },
+    {
+      "title": "„Аз тебе ще те убия“: Мъж простреля с пистолет съседа си пред очите на детето му в София",
+      "url": "https://dariknews.bg/regioni/sofiia/az-tebe-shte-te-ubiia-myzh-prostrelia-s-pistolet-syseda-si-pred-ochite-na-deteto-mu-v-sofiia-2467397",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
+    },
+    {
+      "title": "Разплетоха мистерията: Легендарният изследовател сър Ранулф Файнс незаконно укриван в старчески дом",
+      "url": "https://dariknews.bg/novini/sviat/razpletoha-misteriiata-legendarniiat-izsledovatel-syr-ranulf-fajns-nezakonno-ukrivan-v-starcheski-dom-2467396",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387283/991-ratio-syr-ranulf-fajns.jpg"
+    },
     {
       "title": "Задържаха 17 000 литра гориво без документи на Митница София",
       "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-17-000-litra-gorivo-bez-dokumenti-na-mitnica-sofiia-2467394",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/48299/48299952/991-ratio-monahinia.jpg"
     },
     {
-      "title": "При спецакция: Спипаха буркани с марихуана в жилище в Свищов",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/pri-specakciia-spipaha-burkani-s-marihuana-v-zhilishte-v-svishtov-2467351",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51102/51102019/991-ratio-marihuana-burkan.jpg"
-    },
-    {
-      "title": "Мъж пострада при инцидент с газова бутилка, докато пече чушки",
-      "url": "https://dariknews.bg/regioni/pleven/myzh-postradapri-incident-s-gazova-butilka-dokato-peche-chushki-2467347",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47473/47473352/991-ratio-gazova-butilka.jpg"
-    },
-    {
-      "title": "Силен взрив частично срути сграда в центъра на Атина, трима души са ранени (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/silen-vzriv-chastichno-sruti-sgrada-v-centyra-na-atina-trima-dushi-sa-raneni-video-2467346",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39843/39843885/991-ratio-linejka-gyrciia.jpg"
+      "title": "ЦСКА с позиция за „Българска армия“ 25 Сеп | 12:02",
+      "url": "https://dsport.bg/cska-s-pozicia-za-balgarska-armia~240687.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-2026-06-15-140904-2.og.png"
     },
     {
       "title": "Линдзи Вон показа новия си приятел 25 Сеп | 11:52",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/whatsapp_image_2026-09-20_at_13_57_59.og.jpeg"
-    },
-    {
-      "title": "Юрген Клоп: Имаше много добри признаци, но ние сме в спорт, фокусиран върху резултатите 25 Сеп | 09:41",
-      "url": "https://dsport.bg/urgen-klop-imashe-mnogo-dobri-priznaci-no-nie-sme-v-sport-fokusiran-varhu-rezultatite~240677.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296964947.og.jpg"
     }
   ]
 }
