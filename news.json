@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T07:00:59.754326+00:00",
+  "updated": "2026-09-25T07:18:11.285890+00:00",
   "articles": [
+    {
+      "title": "Бивша монахиня получи 20 години затвор за сексуални злоупотреби с деца в Аржентина",
+      "url": "https://dariknews.bg/novini/sviat/bivsha-monahinia-poluchi-20-godini-zatvor-za-seksualni-zloupotrebi-s-deca-v-arzhentina-2467352",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48299/48299952/991-ratio-monahinia.jpg"
+    },
+    {
+      "title": "При спецакция: Спипаха буркани с марихуана в жилище в Свищов",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/pri-specakciia-spipaha-burkani-s-marihuana-v-zhilishte-v-svishtov-2467351",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51102/51102019/991-ratio-marihuana-burkan.jpg"
+    },
     {
       "title": "Мъж пострада при инцидент с газова бутилка, докато пече чушки",
       "url": "https://dariknews.bg/regioni/pleven/myzh-postradapri-incident-s-gazova-butilka-dokato-peche-chushki-2467347",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387110/991-ratio-velislava-petrova.jpg"
     },
     {
-      "title": "Доклад: Жителите на Истанбул губят по около 120 часа в задръствания всяка година",
-      "url": "https://dariknews.bg/novini/sviat/doklad-zhitelite-na-istanbul-gubiat-po-okolo-120-chasa-v-zadrystvaniia-vsiaka-godina-2467325",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51165/51165797/991-ratio-trafik-skandal-agresiia-na-pytia.jpg"
-    },
-    {
-      "title": "Лайънъл Ричи временно прекъсва изявите си след лечение",
-      "url": "https://dariknews.bg/novini/liubopitno/lajynyl-richi-vremenno-prekysva-iziavite-si-sled-lechenie-2467310",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386981/991-ratio-lajynyl-richi.jpg"
+      "title": "Жезус разкри защо е сменил Кристиано 25 Сеп | 10:08",
+      "url": "https://dsport.bg/zezus-razkri-zasto-e-smenil-kristiano~240679.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296971370.og.jpg"
     },
     {
       "title": "БФ Борба приветства криминализирането на нарушаването и заобикалянето на санкции на ЕС 25 Сеп | 09:52",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296958908.og.jpg"
-    },
-    {
-      "title": "Почина първият MVP на НБА 25 Сеп | 07:14",
-      "url": "https://dsport.bg/pochina-parviat-mvp-na-nba~240670.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-515261568.og.jpg"
     }
   ]
 }
