@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T17:20:31.738322+00:00",
+  "updated": "2026-09-25T17:32:55.532077+00:00",
   "articles": [
+    {
+      "title": "Експертът Христо Тутунаров в Телеграфно подкастът: Австралиец шпионин зад скандала с руснаците у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/ekspertyt-hristo-tutunarov-v-telegrafno-podkastyt-avstraliec-shpionin-zad-skandala-s-rusnacite-u-nas-2467449",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387506/991-ratio-telegraf.jpg"
+    },
     {
       "title": "Петима души, сред които 14-годишно момче, загинаха при руски атаки в Киев",
       "url": "https://dariknews.bg/novini/sviat/petima-dushi-sred-koito-14-godishno-momche-zaginaha-pri-ruski-ataki-v-kiev-2467448",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387368/991-ratio-vlado-nikolov.jpg"
     },
     {
-      "title": "До три месеца влизат в сила новите изисквания за млечните продукти",
-      "url": "https://dariknews.bg/novini/bylgariia/do-tri-meseca-vlizat-v-sila-novite-iziskvaniia-za-mlechnite-produkti-2467420",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50514/50514220/991-ratio-sirene.jpg"
+      "title": "Невероятен обрат! Младежите матираха Португалия от 87-ата до 91-ата минута 25 Сеп | 20:23",
+      "url": "https://dsport.bg/neveroaten-obrat-mladezite-matiraha-portugalia-ot-87-ata-do-91-ata-minuta~240717.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1030975.og.jpg"
     },
     {
       "title": "Радослав Росенов след европейската титла: Никога не идвам за второ или трето място 25 Сеп | 20:12",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-1305-~1.og.png"
-    },
-    {
-      "title": "Лоша новина - Никола Цолов наказан с три места назад на стартовата решетка 25 Сеп | 18:07",
-      "url": "https://dsport.bg/losha-novina-nikola-colov-nakazan-s-tri-mesta-nazad-na-startovata-reshetka~240708.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2287003776-1.og.jpg"
     }
   ]
 }
