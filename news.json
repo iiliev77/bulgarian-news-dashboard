@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T03:47:07.526647+00:00",
+  "updated": "2026-09-25T03:57:05.884553+00:00",
   "articles": [
+    {
+      "title": "Делото за замърсяването на Варненското езеро влиза в съда, oбвиняем е Иван Портних",
+      "url": "https://dariknews.bg/regioni/varna/deloto-za-zamyrsiavaneto-na-varnenskoto-ezero-vliza-v-syda-obviniaem-e-ivan-portnih-2467329",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50669/50669838/991-ratio-ivan-portnih.jpg"
+    },
     {
       "title": "Министър Велислава Петрова проведе серия срещи в ООН",
       "url": "https://dariknews.bg/novini/sviat/ministyr-velislava-petrova-provede-seriia-sreshti-v-oon-2467328",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387001/991-ratio-damiano-david-i-dav-kameryn.jpg"
     },
     {
-      "title": "„Наистина страхотно приятелство“: Тръмп посрещна Си Цзинпин в Белия дом",
-      "url": "https://dariknews.bg/novini/sviat/naistina-strahotno-priiatelstvo-trymp-posreshtna-si-czinpin-v-beliia-dom-2467313",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387002/991-ratio-kitajskiiat-prezident-si-czinpin-i-amerikanskiia-mu-kolega-donald-trymp.jpg"
+      "title": "Очаквайте на живо: Никола Цолов тръгва първи в спринта в Баку 25 Сеп | 06:55",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-nikola-colov-tragva-parvi-v-sprinta-v-baku~240669.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/finali-ekt-28-~1.og.png"
     },
     {
       "title": "Австрия удари Израел с два късни гола 25 Сеп | 00:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-09_43_58-pm.og.png"
-    },
-    {
-      "title": "Ас на ЦСКА 1948 наказа играч на ЦСКА, бивш на „армейците“ също вкара 24 Сеп | 21:04",
-      "url": "https://dsport.bg/as-na-cska-1948-nakaza-igrach-na-cska-bivsh-na-armeicite-sasto-vkara~240659.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/824179879_2645879559184251_1804803016593392380_n.og.jpg"
     }
   ]
 }
