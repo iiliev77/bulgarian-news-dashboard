@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-25T06:31:37.397600+00:00",
+  "updated": "2026-09-25T06:50:25.798435+00:00",
   "articles": [
     {
-      "title": "Иранският президент от Ню Йорк: Не се опитваме да убием Тръмп",
-      "url": "https://dariknews.bg/novini/sviat/iranskiiat-prezident-ot-niu-iork-ne-se-opitvame-da-ubiem-trymp-2467342",
+      "title": "Счетоводителка присвои пари от училище във Великотърновско",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/schetovoditelka-prisvoi-pari-ot-uchilishte-vyv-velikotyrnovsko-2467344",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51034/51034844/991-ratio-krazhba-pari-zhena.jpg"
+    },
+    {
+      "title": "Патриарх Даниил ще посети Светите земи и Йордания",
+      "url": "https://dariknews.bg/novini/bylgariia/patriarh-daniil-shte-poseti-svetite-zemi-i-iordaniia-2467345",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51319/51319916/991-ratio-patriarh-daniil.jpg"
+    },
+    {
+      "title": "Иранският президент от Ню Йорк: Не се опитваме да убием Тръмп (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/iranskiiat-prezident-ot-niu-iork-ne-se-opitvame-da-ubiem-trymp-video-2467342",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51300/51300658/991-ratio-prezidentyt-na-iran-masud-pezeshkian.jpg"
@@ -128,18 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Времето се обръща: Валежи обхващат страната, в планините ще вали сняг",
-      "url": "https://dariknews.bg/novini/bylgariia/vremeto-se-obryshta-valezhi-obhvashtat-stranata-v-planinite-shte-vali-sniag-2467290",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51197/51197796/991-ratio-oblachno-vreme.jpg"
-    },
-    {
-      "title": "ЦИК регистрира Александър Гарибов като кандидат за вицепрезидент заедно с Александър Томов",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-registrira-aleksandyr-garibov-kato-kandidat-za-viceprezident-zaedno-s-aleksandyr-tomov-2467327",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
+      "title": "Юрген Клоп: Имаше много добри признаци, но ние сме в спорт, фокусиран върху резултатите 25 Сеп | 09:41",
+      "url": "https://dsport.bg/urgen-klop-imashe-mnogo-dobri-priznaci-no-nie-sme-v-sport-fokusiran-varhu-rezultatite~240677.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296964947.og.jpg"
     },
     {
       "title": "Весела Лечева: България затвърждава своя авторитет като активен участник в международното олимпийско движение 25 Сеп | 09:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296975442.og.jpg"
-    },
-    {
-      "title": "Отмениха гол на Роналдо, но Португалия би - Холанд под пара и за Норвегия 24 Сеп | 23:53",
-      "url": "https://dsport.bg/otmeniha-gol-na-ronaldo-no-portugalia-bi-holand-pod-para-i-za-norvegia~240667.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296969563.og.jpg"
     }
   ]
 }
