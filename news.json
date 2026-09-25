@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:37:16.454659+00:00",
+  "updated": "2026-09-25T18:49:39.552294+00:00",
   "articles": [
     {
       "title": "Пешеходка и синът ѝ пострадаха при инцидент в Русе",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387369/991-ratio-asen-vasilev-dobrich.jpg"
     },
     {
+      "title": "Северна Ирландия шокира Грузия в Тбилиси, Армения започна с победа 25 Сеп | 21:46",
+      "url": "https://dsport.bg/severna-irlandia-shokira-gruzia-v-tbilisi-armenia-zapochna-s-pobeda~240724.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297118238.og.jpg"
+    },
+    {
+      "title": "Спектакъл за много пари - ясно е колко ще вземат Фюри и Джоуша за битката в Кардиф 25 Сеп | 21:40",
+      "url": "https://dsport.bg/spektakal-za-mnogo-pari-asno-e-kolko-ste-vzemat-furi-i-dzousha-za-bitkata-v-kardif~240723.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2270492627~1.og.jpg"
+    },
+    {
       "title": "Левски намалява цените за оставащите си домакинства в Лига Европа 25 Сеп | 21:05",
       "url": "https://dsport.bg/levski-namalava-cenite-za-ostavastite-si-domakinstva-v-liga-evropa~240722.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1031057.og.jpg"
-    },
-    {
-      "title": "Полша се класира за финала на Евроволей след чиста победа над Словения 25 Сеп | 19:50",
-      "url": "https://dsport.bg/polsha-se-klasira-za-finala-na-evrovolei-sled-chista-pobeda-nad-slovenia~240714.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/823373246_2046609076019153_8624946021726506604_n.og.jpg"
-    },
-    {
-      "title": "Сбогува ли се Манчестър Сити с Висшата лига след наказанието? 25 Сеп | 19:44",
-      "url": "https://dsport.bg/sboguva-li-se-manchestar-siti-s-visshata-liga-sled-nakazanieto~240713.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296240557.og.jpg"
     }
   ]
 }
