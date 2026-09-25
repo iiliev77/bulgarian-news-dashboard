@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-25T15:28:00.873160+00:00",
+  "updated": "2026-09-25T15:40:20.566441+00:00",
   "articles": [
     {
       "title": "Дмитро Кулеба благодари на Илияна Йотова и България за подкрепата за Украйна в ООН",
       "url": "https://dariknews.bg/novini/sviat/dmitro-kuleba-blagodari-na-iliiana-iotova-i-bylgariia-za-podkrepata-za-ukrajna-v-oon-2467442",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50868/50868275/991-ratio-dmitro-kuleba.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Проф. Вълчев: Одит в НАТФИЗ откри нарушения",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387351/991-ratio-kompiutyr.jpg"
     },
     {
+      "title": "УЕФА намали наказанието на Матео Гендузи 25 Сеп | 18:33",
+      "url": "https://dsport.bg/uefa-namali-nakazanieto-na-mateo-genduzi~240710.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2291056366~1.og.jpg"
+    },
+    {
       "title": "Роберто Карлос: Загубих 99% от всичко, което спечелих във футбола 25 Сеп | 18:26",
       "url": "https://dsport.bg/roberto-karlos-zagubih-99-ot-vsichko-koeto-spechelih-vav-futbola~240709.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2297073944.og.jpg"
-    },
-    {
-      "title": "Бивш треньор на Левски пое швейцарски гранд 25 Сеп | 16:00",
-      "url": "https://dsport.bg/bivsh-trenor-na-levski-poe-shveicarski-grand~240700.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1348579467~2.og.jpg"
     }
   ]
 }
