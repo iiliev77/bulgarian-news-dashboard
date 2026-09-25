@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T06:11:23.552199+00:00",
+  "updated": "2026-09-25T06:31:37.397600+00:00",
   "articles": [
+    {
+      "title": "Иранският президент от Ню Йорк: Не се опитваме да убием Тръмп",
+      "url": "https://dariknews.bg/novini/sviat/iranskiiat-prezident-ot-niu-iork-ne-se-opitvame-da-ubiem-trymp-2467342",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51300/51300658/991-ratio-prezidentyt-na-iran-masud-pezeshkian.jpg"
+    },
+    {
+      "title": "Възрастен мъж почина, блъснат от микробус на пешеходна пътека в Смолян",
+      "url": "https://dariknews.bg/regioni/Smolyan/vyzrasten-myzh-pochina-blysnat-ot-mikrobus-na-peshehodna-pyteka-v-smolian-2467341",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+    },
     {
       "title": "Тръмп похвали отношенията между САЩ и Китай по време на вечеря в Белия дом",
       "url": "https://dariknews.bg/novini/sviat/trymp-pohvali-otnosheniiata-mezhdu-sasht-i-kitaj-po-vreme-na-vecheria-v-beliia-dom-2467340",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
     },
     {
-      "title": "Петрова: България може да бъде стратегическа връзка между Европа, Черноморския регион, Близкия изток и Азия",
-      "url": "https://dariknews.bg/novini/bylgariia/petrova-bylgariia-mozhe-da-byde-strategicheska-vryzka-mezhdu-evropa-chernomorskiia-region-blizkiia-iztok-i-aziia-2467326",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51356/51356691/991-ratio-velislava-petrova.jpg"
+      "title": "Весела Лечева: България затвърждава своя авторитет като активен участник в международното олимпийско движение 25 Сеп | 09:26",
+      "url": "https://dsport.bg/vesela-lecheva-balgaria-zatvarzdava-svoa-avtoritet-kato-aktiven-uchastnik-v-mezdunarodnoto-olimpiisko-dvizenie~240676.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/lecheva_nagoa1.og.jpg"
     },
     {
-      "title": "Десетки делегати напуснаха залата на Общото събрание на ООН в началото на речта на Нетаняху",
-      "url": "https://dariknews.bg/novini/sviat/desetki-delegati-napusnaha-zalata-na-obshtoto-sybranie-na-oon-v-nachaloto-na-rechta-na-netaniahu-2467324",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387078/991-ratio-izraelskiiat-premier-beniamin-netaniahu.jpg"
+      "title": "Манчини: Трябва веднага да погледнем отвъд Босна 25 Сеп | 09:12",
+      "url": "https://dsport.bg/manchini-trabva-vednaga-da-poglednem-otvad-bosna~240675.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2287534512~1.og.jpg"
     },
     {
       "title": "Зидан: Изпитвам огромна емоция, че съм начело на този френски отбор 25 Сеп | 08:53",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296969563.og.jpg"
-    },
-    {
-      "title": "Нидерландия и Германия с драматичен хикс в дебютите на Клоп и Шави 24 Сеп | 23:43",
-      "url": "https://dsport.bg/niderlandia-i-germania-s-dramatichen-hiks-v-debutite-na-klop-i-shavi~240666.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296289534.og.jpg"
-    },
-    {
-      "title": "Ударен старт за Везенков и Олимпиакос в Евролигата 24 Сеп | 23:22",
-      "url": "https://dsport.bg/udaren-start-za-vezenkov-i-olimpiakos-v-evroligata~240665.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296300237.og.jpg"
     }
   ]
 }
