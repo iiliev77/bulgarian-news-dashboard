@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T14:58:20.927915+00:00",
+  "updated": "2026-09-25T15:12:49.525795+00:00",
   "articles": [
+    {
+      "title": "Проф. Вълчев: Одит в НАТФИЗ откри нарушения",
+      "url": "https://dariknews.bg/novini/bylgariia/prof.-vylchev-odit-v-natfiz-otkri-narusheniia-2467439",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51318/51318285/991-ratio-georgi-aleksandrov-vylchev.jpg"
+    },
     {
       "title": "Yettel отваря нови позиции за хора с увреждания в програмата „Рамо до рамо“",
       "url": "https://dariknews.bg/novini/plateni-publikacii/yettel-otvaria-novi-pozicii-za-hora-s-uvrezhdaniia-v-programata-ramo-do-ramo-2467434",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51323/51323941/991-ratio-gylyb-donev.jpg"
     },
     {
-      "title": "Пожар избухна в складова база в Бургас",
-      "url": "https://dariknews.bg/regioni/burgas/pozhar-izbuhna-v-skladova-baza-v-burgas-2467417",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
+      "title": "Лоша новина - Никола Цолов наказан с три места назад на стартовата решетка 25 Сеп | 18:07",
+      "url": "https://dsport.bg/losha-novina-nikola-colov-nakazan-s-tri-mesta-nazad-na-startovata-reshetka~240708.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2287003776-1.og.jpg"
     },
     {
       "title": "Ексклузивно Мишо Александров пред Дарик: Правим всичко възможно да играем с Монако на „Армията“ 25 Сеп | 17:33",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/797724971_2903114500056213_8818653789591913992_n.og.jpg"
-    },
-    {
-      "title": "По никое време: Арда подсили атаката с бивш нападател на Хебър 25 Сеп | 14:41",
-      "url": "https://dsport.bg/po-nikoe-vreme-arda-podsili-atakata-s-bivsh-napadatel-na-hebar~240697.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/825732537_2127358167988658_39634216182673276_n-1-.og.jfif"
     }
   ]
 }
