@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-25T11:32:55.930043+00:00",
+  "updated": "2026-09-25T11:45:55.671685+00:00",
   "articles": [
     {
-      "title": "ЕК стартира пет наказателни процедури срещу България",
-      "url": "https://dariknews.bg/novini/sviat/ek-startira-pet-nakazatelni-proceduri-sreshtu-bylgariia-2467422",
+      "title": "ЕК започна пет наказателни процедури срещу България",
+      "url": "https://dariknews.bg/novini/sviat/ek-zapochna-pet-nakazatelni-proceduri-sreshtu-bylgariia-2467422",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+    },
+    {
+      "title": "„Прогресивна България“ с първи коментар за декларацията на ООН в подкрепа на Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-s-pyrvi-komentar-za-deklaraciiata-na-oon-v-podkrepa-na-ukrajna-2467406",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338609/991-ratio-parlament-glasuvane.jpg"
     },
     {
       "title": "До три месеца влизат в сила новите изисквания за млечните продукти",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387291/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Премахнаха десетки незаконни сметища премахнати в Монтана",
-      "url": "https://dariknews.bg/regioni/montana/premahnaha-desetki-nezakonni-smetishta-premahnati-v-montana-2467404",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50865/50865391/991-ratio-bokluk.jpg"
+      "title": "По никое време: Арда подсили атаката с бивш нападател на Хебър 25 Сеп | 14:41",
+      "url": "https://dsport.bg/po-nikoe-vreme-arda-podsili-atakata-s-bivsh-napadatel-na-hebar~240697.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/825732537_2127358167988658_39634216182673276_n-1-.og.jfif"
+    },
+    {
+      "title": "Кошмар за Цолов в основното състезание, загуби първото място в шампионата 25 Сеп | 14:34",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297010635.og.jpg"
     },
     {
       "title": "Братя Домусчиеви влязоха в Черно море 25 Сеп | 14:12",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot-1303-.og.png"
-    },
-    {
-      "title": "Кошмар за Цолов в основното състезание 25 Сеп | 13:58",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297010635.og.jpg"
     },
     {
       "title": "Футболна война: Висшата лига, Ла Лига, Серия А и Бундеслигата с мощна атака срещу ФИФА 25 Сеп | 13:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/dji_20260809160800_0092_d-1500x844.og.jpg"
-    },
-    {
-      "title": "Линдзи Вон показа новия си приятел 25 Сеп | 11:52",
-      "url": "https://dsport.bg/lindzi-von-pokaza-novia-si-priatel~240686.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-2026-09-25-114854.og.png"
     }
   ]
 }
