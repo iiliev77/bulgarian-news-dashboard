@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T07:32:28.444890+00:00",
+  "updated": "2026-09-25T07:46:00.193008+00:00",
   "articles": [
+    {
+      "title": "90-годишен японски бодибилдър не спира да побеждава (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/90-godishen-iaponski-bodibildyr-ne-spira-da-pobezhdava-snimki-2467363",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44133/44133195/991-ratio-kulturist.jpg"
+    },
     {
       "title": "Опозицията критикува разминаването между институциите за декларацията на ООН в подкрепа на Украйна",
       "url": "https://dariknews.bg/novini/bylgariia/opoziciiata-kritikuva-razminavaneto-mezhdu-instituciite-za-deklaraciiata-na-oon-v-podkrepa-na-ukrajna-2467361",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51180/51180260/991-ratio-bulevard-vladimir-vazov-sofiia.jpg"
     },
     {
-      "title": "Парламентарен контрол: Петима министри отговарят за пътища, тол система и сигурност",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentaren-kontrol-petima-ministri-otgovariat-za-pytishta-tol-sistema-i-sigurnost-2467332",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51373/51373846/991-ratio-parlament.jpg"
+      "title": "Скалони: Сега е подходящият момент за сбогуването на Меси с Аржентина 25 Сеп | 10:43",
+      "url": "https://dsport.bg/skaloni-sega-e-podhodastiat-moment-za-sboguvaneto-na-mesi-s-arzentina~240681.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2286971049~1.og.jpg"
     },
     {
       "title": "Везенков: Чувствам се добре, но трябва да подобрим някои неща 25 Сеп | 10:27",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296888768.og.jpg"
-    },
-    {
-      "title": "Кабаков наказа нападател на Израел, скандализирал с начин на празнуване (ВИДЕО) 25 Сеп | 07:51",
-      "url": "https://dsport.bg/kabakov-nakaza-napadatel-na-izrael-skandaliziral-s-nachin-na-praznuvane-video~240672.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296969983.og.jpg"
     }
   ]
 }
