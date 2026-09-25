@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T13:41:31.817998+00:00",
+  "updated": "2026-09-25T13:53:28.082669+00:00",
   "articles": [
+    {
+      "title": "Запознайте се с Мерлин, Дюи и Луна: Новите четириноги пазители на българската граница",
+      "url": "https://dariknews.bg/novini/bylgariia/zapoznajte-se-s-merlin-diui-i-luna-novite-chetirinogi-paziteli-na-bylgarskata-granica-2467433",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387413/991-ratio-kuche.jpg"
+    },
     {
       "title": "Влияе ли ниското ниво на река Дунав на безопасността на АЕЦ „Козлодуй“?",
       "url": "https://dariknews.bg/novini/bylgariia/vliiae-li-niskoto-nivo-na-reka-dunav-na-bezopasnostta-na-aec-kozloduj-2467432",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
     },
     {
-      "title": "Управителят на БНБ Димитър Радев: Вдигането на данъци има цена",
-      "url": "https://dariknews.bg/novini/biznes/upraviteliat-na-bnb-dimityr-radev-vdiganeto-na-danyci-ima-cena-2467408",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51211/51211181/991-ratio-dimityr-radev.jpg"
+      "title": "Александър Димитров: Целта е поставена от президента - да влезем в Лига В (ВИДЕО) 25 Сеп | 16:43",
+      "url": "https://dsport.bg/aleksandar-dimitrov-celta-e-postavena-ot-prezidenta-da-vlezem-v-liga-v-video~240702.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1030891.og.jpg"
     },
     {
       "title": "Джордж Ръсел тръгва първи в Баку, Кими Антонели назад 25 Сеп | 16:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2293665279.og.jpg"
-    },
-    {
-      "title": "Хаверц напуска лагера на Германия 25 Сеп | 13:10",
-      "url": "https://dsport.bg/haverc-napuska-lagera-na-germania~240693.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296962927.og.jpg"
     }
   ]
 }
