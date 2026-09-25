@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T08:06:54.670319+00:00",
+  "updated": "2026-09-25T08:23:41.002567+00:00",
   "articles": [
+    {
+      "title": "Спасиха бедстващ делфин край Поморие",
+      "url": "https://dariknews.bg/regioni/burgas/spasiha-bedstvasht-delfin-kraj-pomorie-2467380",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50880/50880447/991-ratio-delfin.jpg"
+    },
     {
       "title": "Сърцето има нужда от поне 150 минути движение седмично",
       "url": "https://dariknews.bg/novini/liubopitno/syrceto-ima-nuzhda-ot-pone-150-minuti-dvizhenie-sedmichno-2467378",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/49135/49135651/991-ratio-bulgargaz.jpg"
     },
     {
-      "title": "„Таксиметровият бранш се чувства излъган, предаден и ощетен“: Шофьори са готови за протест",
-      "url": "https://dariknews.bg/regioni/sofiia/taksimetroviiat-bransh-se-chuvstva-izlygan-predaden-i-oshteten-shofiori-sa-gotovi-za-protest-2467337",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50959/50959645/991-ratio-taksi.jpg"
+      "title": "Шефът на Ред Бул за Цолов: Имаме дългосрочна перспектива за Никола 25 Сеп | 11:09",
+      "url": "https://dsport.bg/shefat-na-red-bul-za-colov-imame-dalgosrochna-perspektiva-za-nikola~240683.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/0319f9f8-05ba-4443-84dd-bb7c6529a44c-2-1.og.jpg"
     },
     {
       "title": "Дунав обяви контрола с Черно море 25 Сеп | 10:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/hotzojnxqaacjhp~1.og.jpg"
-    },
-    {
-      "title": "Бивш нападател на Ливърпул разкри, че е станал жертва на сексуално насилие 25 Сеп | 08:36",
-      "url": "https://dsport.bg/bivsh-napadatel-na-livarpul-razkri-che-e-stanal-zertva-na-seksualno-nasilie~240673.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-141255632~1.og.jpg"
     }
   ]
 }
