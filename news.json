@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-25T13:12:17.738021+00:00",
+  "updated": "2026-09-25T13:28:08.651063+00:00",
   "articles": [
+    {
+      "title": "БАБХ спря от продажба над 28 тона кисело зеле с изтекъл срок в София",
+      "url": "https://dariknews.bg/regioni/sofiia/babh-spria-ot-prodazhba-nad-28-tona-kiselo-zele-s-iztekyl-srok-v-sofiia-2467429",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
+    },
+    {
+      "title": "Пожар избухна в склад за изолационни материали в Бяла",
+      "url": "https://dariknews.bg/regioni/varna/pozhar-izbuhnav-sklad-za-izolacionni-materiali-v-biala-2467431",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
+    },
+    {
+      "title": "Жената, обвинила Джей Зи в изнасилване, призна: Обвиненията ми са неверни",
+      "url": "https://dariknews.bg/novini/sviat/zhenata-obvinila-dzhej-zi-v-iznasilvane-prizna-obvineniiata-mi-sa-neverni-2467428",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48492/48492036/991-ratio-dzhej-zi.jpg"
+    },
+    {
+      "title": "„Кюстендилска вода“ оспорва изводите на Басейнова дирекция за замърсяването на река Струма",
+      "url": "https://dariknews.bg/regioni/kiustendil/kiustendilska-voda-osporva-izvodite-na-basejnova-direkciia-za-zamyrsiavaneto-na-reka-struma-2467430",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51133/51133058/991-ratio-myrtva-riba.jpg"
+    },
     {
       "title": "3 години условно за катастрофата с коне, при която загина 18-годишно момиче край Кюстендил",
       "url": "https://dariknews.bg/regioni/kiustendil/3-godini-uslovno-za-katastrofata-s-kone-pri-koiato-zagina-18-godishno-momiche-kraj-kiustendil-2467427",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
     },
     {
-      "title": "Тръмп и Си Дзинпин си размениха любезности, но оставиха големите спорове нерешени (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/trymp-i-si-dzinpin-si-razmeniha-liubeznosti-no-ostaviha-golemite-sporove-neresheni-video-2467410",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387002/991-ratio-kitajskiiat-prezident-si-czinpin-i-amerikanskiia-mu-kolega-donald-trymp.jpg"
-    },
-    {
-      "title": "При акция в Монтанско: Спипаха над 130 кг канабис, екстази и амфетамин (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/montana/pri-akciia-v-montansko-spipaha-nad-130-kg-kanabis-ekstazi-i-amfetamin-snimki-2467409",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50803/50803773/991-ratio-marihuana-kanabis-burkan.jpg"
-    },
-    {
-      "title": "Ефектът е отминал. Последствията може да не са: какво рискувате при тест за наркотици на пътя?",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/efektyt-e-otminal.-posledstviiata-mozhe-da-ne-sa-kakvo-riskuvate-pri-test-za-narkotici-na-pytia-2467308",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386964/991-ratio-test.jpg"
-    },
-    {
-      "title": "Арестуваха шофьор с 1.75 промила алкохол в София",
-      "url": "https://dariknews.bg/regioni/sofiia/arestuvaha-shofior-s-1.75-promila-alkohol-v-sofiia-2467405",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50968/50968641/991-ratio-piian-shofior.jpg"
+      "title": "Джордж Ръсел тръгва първи в Баку, Кими Антонели назад 25 Сеп | 16:23",
+      "url": "https://dsport.bg/dzordz-rasel-tragva-parvi-v-baku-kimi-antoneli-nazad~240701.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297073944.og.jpg"
     },
     {
       "title": "Бивш треньор на Левски пое швейцарски гранд 25 Сеп | 16:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296962927.og.jpg"
-    },
-    {
-      "title": "Верстапен най-бърз в третата свободна тренировка в Баку 25 Сеп | 12:48",
-      "url": "https://dsport.bg/verstapen-nai-barz-v-tretata-svobodna-trenirovka-v-baku~240690.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297044459.og.jpg"
     }
   ]
 }
