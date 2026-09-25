@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T17:46:00.195473+00:00",
+  "updated": "2026-09-25T17:55:44.772797+00:00",
   "articles": [
+    {
+      "title": "Радослав Росенов спечели европейската титла по бокс",
+      "url": "https://dariknews.bg/novini/bylgariia/radoslav-rosenov-specheli-evropejskata-titla-po-boks-2467450",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387515/991-ratio-radoslav-rosenov.jpg"
+    },
     {
       "title": "Експертът Христо Тутунаров: Австралиец-шпионин зад скандала с руснаците у нас (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/ekspertyt-hristo-tutunarov-avstraliec-shpionin-zad-skandala-s-rusnacite-u-nas-video-2467449",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
     },
     {
-      "title": "„Прогресивна България“ с първи коментар за декларацията на ООН в подкрепа на Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-s-pyrvi-komentar-za-deklaraciiata-na-oon-v-podkrepa-na-ukrajna-2467406",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387368/991-ratio-vlado-nikolov.jpg"
+      "title": "Пламен Андреев: Отборът имаше нужда от мен, за да останем в мача 25 Сеп | 20:44",
+      "url": "https://dsport.bg/plamen-andreev-otborat-imashe-nuzda-ot-men-za-da-ostanem-v-macha~240719.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1030987.og.jpg"
     },
     {
       "title": "Героят за България Александър Маринов: Влязох, раздадох се и победихме много добър отбор 25 Сеп | 20:36",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2291056366~1.og.jpg"
-    },
-    {
-      "title": "Роберто Карлос: Загубих 99% от всичко, което спечелих във футбола 25 Сеп | 18:26",
-      "url": "https://dsport.bg/roberto-karlos-zagubih-99-ot-vsichko-koeto-spechelih-vav-futbola~240709.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1421374468~1.og.jpg"
     }
   ]
 }
