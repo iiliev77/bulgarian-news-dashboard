@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T18:59:22.743777+00:00",
+  "updated": "2026-09-25T19:11:36.689599+00:00",
   "articles": [
+    {
+      "title": "Си Цзинпин покани Доналд Тръмп отново да посети Китай тази година",
+      "url": "https://dariknews.bg/novini/sviat/si-czinpin-pokani-donald-trymp-otnovo-da-poseti-kitaj-tazi-godina-2467452",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Пешеходка и синът ѝ пострадаха при инцидент в Русе",
       "url": "https://dariknews.bg/regioni/ruse/peshehodka-i-sinyt-postradaha-pri-incident-v-ruse-2467451",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Заплати, ваучери и горива: Асен Василев с критики към управляващите за подготвяните промени",
-      "url": "https://dariknews.bg/regioni/dobrich/zaplati-vaucheri-i-goriva-asen-vasilev-s-kritiki-kym-upravliavashtite-za-podgotvianite-promeni-2467424",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387369/991-ratio-asen-vasilev-dobrich.jpg"
+      "title": "Ирландски национал се обяви против мача с Израел: Не мисля, че трябва да се играе 25 Сеп | 21:56",
+      "url": "https://dsport.bg/irlandski-nacional-se-obavi-protiv-macha-s-izrael-ne-misla-che-trabva-da-se-igrae~240725.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2276334407.og.jpg"
     },
     {
       "title": "Северна Ирландия шокира Грузия в Тбилиси, Армения започна с победа 25 Сеп | 21:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1031063.og.jpg"
-    },
-    {
-      "title": "Европейско злато за България! Радослав Росенов ликува в София 25 Сеп | 20:06",
-      "url": "https://dsport.bg/evropeisko-zlato-za-balgaria-radoslav-rosenov-likuva-v-sofia~240715.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1031057.og.jpg"
     }
   ]
 }
