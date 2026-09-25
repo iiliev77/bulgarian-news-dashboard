@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T14:34:12.475374+00:00",
+  "updated": "2026-09-25T14:48:01.450635+00:00",
   "articles": [
+    {
+      "title": "Yettel отваря нови позиции за хора с увреждания в програмата „Рамо до рамо“",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/yettel-otvaria-novi-pozicii-za-hora-s-uvrezhdaniia-v-programata-ramo-do-ramo-2467434",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387422/991-ratio-yettel.jpg"
+    },
     {
       "title": "Насрочиха заседание по делото за жестокото убийство на 20-годишния Мариян от Кула",
       "url": "https://dariknews.bg/regioni/vidin/nasrochiha-zasedanie-po-deloto-za-zhestokoto-ubijstvo-na-20-godishniia-mariian-ot-kula-2467437",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
     },
     {
-      "title": "Изплащането на „инфлационния чек“ от 50 евро започва от 1 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/izplashtaneto-na-inflacionniia-chek-ot-50-evro-zapochva-ot-1-oktomvri-2467415",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387340/991-ratio-50-evro.jpg"
+      "title": "Мишо Александров пред Дарик: Правим всичко възможно да играем с Монако на „Армията“ 25 Сеп | 17:33",
+      "url": "https://dsport.bg/misho-aleksandrov-pred-darik-pravim-vsichko-vazmozno-da-igraem-s-monako-na-armiata~240706.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1029871.og.jpg"
     },
     {
       "title": "Краев: На най-високо ниво футболистите играят през 2-3 дни, добре е да има повече мачове 25 Сеп | 17:17",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/825732537_2127358167988658_39634216182673276_n-1-.og.jfif"
-    },
-    {
-      "title": "Кошмар за Цолов в основното състезание, загуби първото място в шампионата 25 Сеп | 14:34",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297010635.og.jpg"
     }
   ]
 }
