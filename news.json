@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:45:04.314888+00:00",
+  "updated": "2026-09-25T16:55:49.849010+00:00",
   "articles": [
     {
       "title": "Петима души, сред които 14-годишно момче, загинаха при руски атаки в Киев",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50514/50514220/991-ratio-sirene.jpg"
     },
     {
+      "title": "Полша се класира за финала на Евроволей след чиста победа над Словения 25 Сеп | 19:50",
+      "url": "https://dsport.bg/polsha-se-klasira-za-finala-na-evrovolei-sled-chista-pobeda-nad-slovenia~240714.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/823373246_2046609076019153_8624946021726506604_n.og.jpg"
+    },
+    {
+      "title": "Сбогува ли се Манчестър Сити с Висшата лига след наказанието? 25 Сеп | 19:44",
+      "url": "https://dsport.bg/sboguva-li-se-manchestar-siti-s-visshata-liga-sled-nakazanieto~240713.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296240557.og.jpg"
+    },
+    {
       "title": "Тежка програма за Левски - 6 поредни гостувания и нови договори за ключови играчи 25 Сеп | 18:52",
       "url": "https://dsport.bg/tezka-programa-za-levski-6-poredni-gostuvania-i-novi-dogovori-za-kluchovi-igrachi~240712.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1030889.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 25.09.2026 г. 25 Сеп | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-25-09-2026-g~240704.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-1304-.og.png"
-    },
-    {
-      "title": "Денят на страшния съд: Манчестър Сити е виновен по 114 обвинения! 25 Сеп | 16:52",
-      "url": "https://dsport.bg/reshenieto-doide-manchestar-siti-e-vinoven-po-115-obvinenia~240703.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2261106941.og.jpg"
     }
   ]
 }
