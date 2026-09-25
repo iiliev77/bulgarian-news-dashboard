@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T04:23:46.072645+00:00",
+  "updated": "2026-09-25T04:37:07.983261+00:00",
   "articles": [
+    {
+      "title": "Временна организация на движението по бул. „Владимир Вазов“ в София",
+      "url": "https://dariknews.bg/regioni/sofiia/vremenna-organizaciia-na-dvizhenieto-po-bul.-vladimir-vazov-v-sofiia-2467333",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51180/51180260/991-ratio-bulevard-vladimir-vazov-sofiia.jpg"
+    },
     {
       "title": "Парламентарен контрол: Петима министри отговарят за пътища, тол система и сигурност",
       "url": "https://dariknews.bg/novini/bylgariia/parlamentaren-kontrol-petima-ministri-otgovariat-za-pytishta-tol-sistema-i-sigurnost-2467332",
@@ -135,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "МВнР: България се присъедини към декларацията на ООН за Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/mvnr-bylgariia-se-prisyedini-kym-deklaraciiata-na-oon-za-ukrajna-2467316",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387015/991-ratio-ukrainskiiat-ministyr-na-vynshnite-raboti-andrij-sibiha-govori-na-zasedanie.jpg"
+      "title": "Шави: Бяхме по-добри от Германия 25 Сеп | 07:30",
+      "url": "https://dsport.bg/shavi-bahme-po-dobri-ot-germania~240671.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296958908.og.jpg"
+    },
+    {
+      "title": "На живо: Никола Цолов запази първото си място на старта 25 Сеп | 07:26",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-nikola-colov-tragva-parvi-v-sprinta-v-baku~240669.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/finali-ekt-28-~1.og.png"
     },
     {
       "title": "Почина първият MVP на НБА 25 Сеп | 07:14",
@@ -147,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-515261568.og.jpg"
-    },
-    {
-      "title": "Очаквайте на живо: Никола Цолов тръгва първи в спринта в Баку 25 Сеп | 06:55",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-nikola-colov-tragva-parvi-v-sprinta-v-baku~240669.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/finali-ekt-28-~1.og.png"
     },
     {
       "title": "Австрия удари Израел с два късни гола 25 Сеп | 00:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/818478656_835335012971556_1982571297417573722_n.og.jpg"
-    },
-    {
-      "title": "България U19 с равенство срещу домакина на турнир в Сърбия 24 Сеп | 21:58",
-      "url": "https://dsport.bg/balgaria-u19-s-ravenstvo-srestu-domakina-na-turnir-v-sarbia~240661.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/image_1790266070_87491.og.jpeg"
     }
   ]
 }
