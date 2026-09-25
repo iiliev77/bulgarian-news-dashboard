@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T08:37:15.279750+00:00",
+  "updated": "2026-09-25T08:49:49.295724+00:00",
   "articles": [
+    {
+      "title": "Задържаха 17 000 литра гориво без документи на Митница София",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-17-000-litra-gorivo-bez-dokumenti-na-mitnica-sofiia-2467394",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50728/50728445/991-ratio-gorivo.jpg"
+    },
     {
       "title": "„България е готова за индустриите на бъдещето“: Радев откри форум за Европейския механизъм за стабилност",
       "url": "https://dariknews.bg/novini/bylgariia/bylgariia-e-gotova-za-industriite-na-bydeshteto-radev-otkri-forum-za-evropejskiia-mehanizym-za-stabilnost-2467392",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/39843/39843885/991-ratio-linejka-gyrciia.jpg"
     },
     {
-      "title": "Счетоводителка присвои пари от училище във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/schetovoditelka-prisvoi-pari-ot-uchilishte-vyv-velikotyrnovsko-2467344",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51034/51034844/991-ratio-krazhba-pari-zhena.jpg"
+      "title": "„Имола“ започна подготовка за финала във Формула 1 25 Сеп | 11:37",
+      "url": "https://dsport.bg/imola-zapochna-podgotovka-za-finala-vav-formula-1~240685.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2215754476.og.jpg"
     },
     {
       "title": "Генералният мениджър на Лейкърс за напускането на Леброн: Беше невероятна ера 25 Сеп | 11:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/lecheva_nagoa1.og.jpg"
-    },
-    {
-      "title": "Манчини: Трябва веднага да погледнем отвъд Босна 25 Сеп | 09:12",
-      "url": "https://dsport.bg/manchini-trabva-vednaga-da-poglednem-otvad-bosna~240675.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2287534512~1.og.jpg"
     }
   ]
 }
