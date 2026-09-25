@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T05:36:59.082545+00:00",
+  "updated": "2026-09-25T05:48:19.078241+00:00",
   "articles": [
+    {
+      "title": "От „Булгаргаз“ отказали да предоставят на Нинова протокол към споразумението с „Боташ“",
+      "url": "https://dariknews.bg/novini/bylgariia/ot-bulgargaz-otkazali-da-predostaviat-na-ninova-protokol-kym-sporazumenieto-s-botash-2467338",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49135/49135651/991-ratio-bulgargaz.jpg"
+    },
     {
       "title": "„Таксиметровият бранш се чувства излъган, предаден и ощетен“: Шофьори са готови за протест",
       "url": "https://dariknews.bg/regioni/sofiia/taksimetroviiat-bransh-se-chuvstva-izlygan-predaden-i-oshteten-shofiori-sa-gotovi-za-protest-2467337",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387074/991-ratio-hora-protestirat-sreshtu-izraelskiia-premier-beniamin-netaniahu-v-rajona-na.jpg"
     },
     {
-      "title": "Почина френската актриса Марина Влади, съпруга на Владимир Висоцки",
-      "url": "https://dariknews.bg/novini/sviat/pochina-frenskata-aktrisa-marina-vladi-sypruga-na-vladimir-visocki-2467320",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387062/991-ratio-marina-vladi.jpg"
+      "title": "Бивш нападател на Ливърпул разкри, че е станал жертва на сексуално насилие 25 Сеп | 08:36",
+      "url": "https://dsport.bg/bivsh-napadatel-na-livarpul-razkri-che-e-stanal-zertva-na-seksualno-nasilie~240673.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-141255632~1.og.jpg"
     },
     {
       "title": "Много труден спринт за Никола Цолов в Баку, но българинът увеличи аванса си пред Камара 25 Сеп | 08:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2197411562~1.og.jpg"
-    },
-    {
-      "title": "20-годишен футболист загина след инцидент с елен 24 Сеп | 22:44",
-      "url": "https://dsport.bg/20-godishen-futbolist-zagina-sled-incident-s-elen~240663.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/810148912_17957791641234362_737610731652114230_n.og.jpg"
     }
   ]
 }
