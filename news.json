@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T10:16:33.091212+00:00",
+  "updated": "2026-09-25T10:30:48.343910+00:00",
   "articles": [
+    {
+      "title": "Управителят на БНБ Димитър Радев: Вдигането на данъци има цена",
+      "url": "https://dariknews.bg/novini/biznes/upraviteliat-na-bnb-dimityr-radev-vdiganeto-na-danyci-ima-cena-2467408",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51211/51211181/991-ratio-dimityr-radev.jpg"
+    },
+    {
+      "title": "Депутатите в пореден спор за механизма за определяне на минималната работна заплата",
+      "url": "https://dariknews.bg/novini/bylgariia/deputatite-v-poreden-spor-za-mehanizma-za-opredeliane-na-minimalnata-rabotna-zaplata-2467407",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
+    },
     {
       "title": "Ефектът е отминал. Последствията може да не са: какво рискувате при тест за наркотици на пътя?",
       "url": "https://dariknews.bg/novini/plateni-publikacii/efektyt-e-otminal.-posledstviiata-mozhe-da-ne-sa-kakvo-riskuvate-pri-test-za-narkotici-na-pytia-2467308",
@@ -128,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50880/50880447/991-ratio-delfin.jpg"
     },
     {
-      "title": "Сърцето има нужда от поне 150 минути движение седмично",
-      "url": "https://dariknews.bg/novini/liubopitno/syrceto-ima-nuzhda-ot-pone-150-minuti-dvizhenie-sedmichno-2467378",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50839/50839749/991-ratio-uprazhneniia.jpg"
-    },
-    {
-      "title": "Велислав Величков: Взаимните обвинения около избора на ВСС налагат изслушване",
-      "url": "https://dariknews.bg/novini/bylgariia/velislav-velichkov-vzaimnite-obvineniia-okolo-izbora-na-vss-nalagat-izslushvane-2467372",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51318/51318318/991-ratio-velislav-velichkov.jpg"
-    },
-    {
-      "title": "Очаквайте на живо: Първото основно състезание за Цолов в Баку 25 Сеп | 12:57",
+      "title": "На живо: Добър старт на Цолов в основното състезание 25 Сеп | 13:20",
       "url": "https://dsport.bg/ochakvaite-na-zivo-parvoto-osnovno-sastezanie-za-colov-v-baku~240691.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/finali-ekt-29-~1.og.png"
+    },
+    {
+      "title": "Футболна война: Висшата лига, Ла Лига, Серия А и Бундеслигата с мощна атака срещу ФИФА 25 Сеп | 13:19",
+      "url": "https://dsport.bg/mostna-ataka-po-fifa-nai-silnite-parvenstva-s-arostna-pozicia~240692.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2293665279.og.jpg"
+    },
+    {
+      "title": "Хаверц напуска лагера на Германия 25 Сеп | 13:10",
+      "url": "https://dsport.bg/haverc-napuska-lagera-na-germania~240693.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296962927.og.jpg"
     },
     {
       "title": "Верстапен най-бърз в третата свободна тренировка в Баку 25 Сеп | 12:48",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2275845334.og.jpg"
-    },
-    {
-      "title": "Шефът на Ред Бул за Цолов: Имаме дългосрочна перспектива за Никола 25 Сеп | 11:09",
-      "url": "https://dsport.bg/shefat-na-red-bul-za-colov-imame-dalgosrochna-perspektiva-za-nikola~240683.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/0319f9f8-05ba-4443-84dd-bb7c6529a44c-2-1.og.jpg"
-    },
-    {
-      "title": "Дунав обяви контрола с Черно море 25 Сеп | 10:54",
-      "url": "https://dsport.bg/dunav-obavi-kontrola-s-cherno-more~240682.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1027160~1.og.jpg"
     }
   ]
 }
