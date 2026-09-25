@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T06:50:25.798435+00:00",
+  "updated": "2026-09-25T07:00:59.754326+00:00",
   "articles": [
+    {
+      "title": "Мъж пострада при инцидент с газова бутилка, докато пече чушки",
+      "url": "https://dariknews.bg/regioni/pleven/myzh-postradapri-incident-s-gazova-butilka-dokato-peche-chushki-2467347",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47473/47473352/991-ratio-gazova-butilka.jpg"
+    },
+    {
+      "title": "Силен взрив частично срути сграда в центъра на Атина, трима души са ранени (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/silen-vzriv-chastichno-sruti-sgrada-v-centyra-na-atina-trima-dushi-sa-raneni-video-2467346",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39843/39843885/991-ratio-linejka-gyrciia.jpg"
+    },
     {
       "title": "Счетоводителка присвои пари от училище във Великотърновско",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/schetovoditelka-prisvoi-pari-ot-uchilishte-vyv-velikotyrnovsko-2467344",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386981/991-ratio-lajynyl-richi.jpg"
     },
     {
-      "title": "Ердоган: Турция не е враг на Гърция, а неин съсед и съюзник",
-      "url": "https://dariknews.bg/novini/sviat/erdogan-turciia-ne-e-vrag-na-gyrciia-a-nein-sysed-i-syiuznik-2467323",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50996/50996112/991-ratio-erdogan.jpg"
-    },
-    {
-      "title": "Църквата почита Света преподобна Ефросиния Александрийска (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/obshtestvo/cyrkvata-pochita-sveta-prepodobna-efrosiniia-aleksandrijska-video-2284636",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "БФ Борба приветства криминализирането на нарушаването и заобикалянето на санкции на ЕС 25 Сеп | 09:52",
+      "url": "https://dsport.bg/bf-borba-privetstva-kriminaliziraneto-na-narushavaneto-i-zaobikalaneto-na-sankcii-na-es~240678.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/whatsapp_image_2026-09-20_at_13_57_59.og.jpeg"
     },
     {
       "title": "Юрген Клоп: Имаше много добри признаци, но ние сме в спорт, фокусиран върху резултатите 25 Сеп | 09:41",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-515261568.og.jpg"
-    },
-    {
-      "title": "Австрия удари Израел с два късни гола 25 Сеп | 00:05",
-      "url": "https://dsport.bg/avstria-udari-izrael-s-dva-kasni-gola~240668.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296975442.og.jpg"
     }
   ]
 }
