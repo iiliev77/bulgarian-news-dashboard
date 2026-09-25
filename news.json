@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-25T04:08:42.843458+00:00",
+  "updated": "2026-09-25T04:23:46.072645+00:00",
   "articles": [
+    {
+      "title": "Парламентарен контрол: Петима министри отговарят за пътища, тол система и сигурност",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentaren-kontrol-petima-ministri-otgovariat-za-pytishta-tol-sistema-i-sigurnost-2467332",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373846/991-ratio-parlament.jpg"
+    },
     {
       "title": "Започва проверка срещу прокуратурата за разгласяването на лични данни по случая „Петрохан“",
       "url": "https://dariknews.bg/novini/bylgariia/zapochva-proverka-sreshtu-prokuraturata-za-razglasiavaneto-na-lichni-danni-po-sluchaia-petrohan-2467331",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387015/991-ratio-ukrainskiiat-ministyr-na-vynshnite-raboti-andrij-sibiha-govori-na-zasedanie.jpg"
     },
     {
-      "title": "БАБХ обяви две огнища на шарка по овцете и козите в Софийско и Кърджалийско",
-      "url": "https://dariknews.bg/regioni/sofiia/babh-obiavi-dve-ognishta-na-sharka-po-ovcete-i-kozite-v-sofijsko-i-kyrdzhalijsko-2467315",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
+      "title": "Почина първият MVP на НБА 25 Сеп | 07:14",
+      "url": "https://dsport.bg/pochina-parviat-mvp-na-nba~240670.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-515261568.og.jpg"
     },
     {
       "title": "Очаквайте на живо: Никола Цолов тръгва първи в спринта в Баку 25 Сеп | 06:55",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/image_1790266070_87491.og.jpeg"
-    },
-    {
-      "title": "Лигата на нациите започна с успех на Малта в Андора 24 Сеп | 21:38",
-      "url": "https://dsport.bg/ligata-na-naciite-zapochna-s-uspeh-na-malta-v-andora~240660.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chatgpt-image-sep-24-2026-09_43_58-pm.og.png"
     }
   ]
 }
