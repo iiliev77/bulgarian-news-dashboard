@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T04:49:18.299593+00:00",
+  "updated": "2026-09-25T04:58:33.283271+00:00",
   "articles": [
     {
       "title": "Временна организация на движението по бул. „Владимир Вазов“ в София",
@@ -142,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "На живо: Никола Цолов запази първото си място на старта, наказание за Камара 25 Сеп | 07:38",
+      "title": "Нападател, играл срещу ЦСКА, скандализира с начин на празнуване 25 Сеп | 07:51",
+      "url": "https://dsport.bg/napadatel-igral-srestu-cska-skandalizira-s-nachin-na-praznuvane~240672.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296969983.og.jpg"
+    },
+    {
+      "title": "На живо: Никола Цолов вече е трети, наказание за Камара 25 Сеп | 07:50",
       "url": "https://dsport.bg/ochakvaite-na-zivo-nikola-colov-tragva-parvi-v-sprinta-v-baku~240669.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/finali-ekt-28-~1.og.png"
+      "image": "https://dsport.bg/media/383/gettyimages-2296888768.og.jpg"
     },
     {
       "title": "Шави: Бяхме по-добри от Германия 25 Сеп | 07:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/810148912_17957791641234362_737610731652114230_n.og.jpg"
-    },
-    {
-      "title": "Байерн Мюнхен откри Евролигата с драматичен триумф в София 24 Сеп | 22:18",
-      "url": "https://dsport.bg/baiern-munhen-otkri-evroligata-s-dramatichen-triumf-v-sofia~240662.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/818478656_835335012971556_1982571297417573722_n.og.jpg"
     }
   ]
 }
