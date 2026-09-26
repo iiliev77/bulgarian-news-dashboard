@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T10:33:31.861085+00:00",
+  "updated": "2026-09-26T10:44:11.640658+00:00",
   "articles": [
+    {
+      "title": "МВнР предупреди: Следете внимателно актуалната обстановка при пътувания до Гърция",
+      "url": "https://dariknews.bg/novini/bylgariia/mvnr-predupredi-sledete-vnimatelno-aktualnata-obstanovka-pri-pytuvaniia-do-gyrciia-2467472",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51171/51171851/991-ratio-simi-gyrciia.jpg"
+    },
     {
       "title": "„SOS Разтребители“ се отправят на „Мисия Варна“",
       "url": "https://dariknews.bg/novini/obshtestvo/sos-raztrebiteli-se-otpraviat-na-misiia-varna-2467470",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386517/991-ratio-dramatichniiat-teatyr-plovdiv.jpg"
     },
     {
-      "title": "Имате ли чувството, че годините летят? Ето защо времето минава по-бързо с възрастта",
-      "url": "https://dariknews.bg/novini/liubopitno/imate-li-chuvstvoto-che-godinite-letiat-eto-zashto-vremeto-minava-po-byrzo-s-vyzrastta-2467440",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44770/44770940/991-ratio-shtastliv-chovek-momiche-zhena.jpg"
+      "title": "Масов бой и напрежение в Будапеща (ВИДЕО) 26 Сеп | 13:21",
+      "url": "https://dsport.bg/masov-boi-i-naprezenie-v-budapesta-video~240765.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/actionaction2.og.jpg"
     },
     {
       "title": "Всички билети за последния танц на Меси с Аржентина бяха разпродадени за минути 26 Сеп | 13:07",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/621938-1~1.og.jpg"
-    },
-    {
-      "title": "Манчестър Сити може да остане без 8 трофея 26 Сеп | 11:23",
-      "url": "https://dsport.bg/manchestar-siti-moze-da-ostane-bez-8-trofea~240753.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-489564749.og.jpg"
     }
   ]
 }
