@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T17:00:04.687310+00:00",
+  "updated": "2026-09-26T17:13:21.112609+00:00",
   "articles": [
+    {
+      "title": "Зам.-министър на финансите: Лихвите по кредитите не са обвързани с данъчното облагане",
+      "url": "https://dariknews.bg/novini/bylgariia/zam.-ministyr-na-finansite-lihvite-po-kreditite-ne-sa-obvyrzani-s-danychnoto-oblagane-2467486",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Километрични опашки от тирове пред границата с Турция (ВИДЕО)",
       "url": "https://dariknews.bg/regioni/haskovo/kilometrichni-opashki-ot-tirove-pred-granicata-s-turciia-video-2467485",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387798/991-ratio-gaz-bezninostanciia-benzin-gorivo.jpg"
     },
     {
-      "title": "Глобяват Община Разлог и три строителни фирми заради мъртва риба в Бела река",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/globiavat-obshtina-razlog-i-tri-stroitelni-firmi-zaradi-myrtva-riba-v-bela-reka-2467464",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387795/991-ratio-myrtva-riba-biala-reka.jpg"
-    },
-    {
-      "title": "На живо: Люксембург изравни на България 26 Сеп | 19:45",
+      "title": "На живо: Люксембург изравни на България 26 Сеп | 20:07",
       "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/1032492.og.jpg"
+      "image": "https://dsport.bg/media/383/1032463.og.jpg"
+    },
+    {
+      "title": "Финландия шокира Словения и грабна бронза на Евроволей 26 Сеп | 20:05",
+      "url": "https://dsport.bg/finlandia-shokira-slovenia-i-grabna-bronza-na-evrovolei~240790.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot_3~186.og.jpg"
     },
     {
       "title": "Напрежение в Ирландия - мачът с Израел ще се играе, но национал напуснал отбора заради това решение 26 Сеп | 19:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2288512672~1.og.jpg"
-    },
-    {
-      "title": "Шок в света на бокса: Двубоят между Тайсън Фюри и Антъни Джошуа пред провал? 26 Сеп | 17:13",
-      "url": "https://dsport.bg/dzoshua~240780.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2201312927~1.og.jpg"
     }
   ]
 }
