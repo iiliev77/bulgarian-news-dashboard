@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T16:31:12.535210+00:00",
+  "updated": "2026-09-26T16:43:32.781717+00:00",
   "articles": [
     {
       "title": "Километрични опашки от тирове пред границата с Турция (ВИДЕО)",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387795/991-ratio-myrtva-riba-biala-reka.jpg"
     },
     {
-      "title": "На живо: България поведе на Люксембург, гол на Чандъров 26 Сеп | 19:20",
+      "title": "На живо: Люксембург изравни на България 26 Сеп | 19:40",
       "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/1032474.og.jpg"
+      "image": "https://dsport.bg/media/383/1032472.og.jpg"
+    },
+    {
+      "title": "Напрежение в Ирландия - мачът с Израел ще се играе, но национал напуснал отбора заради това решение 26 Сеп | 19:31",
+      "url": "https://dsport.bg/naprezenie-v-irlandia-machat-s-izrael-ste-se-igrae-no-nacional-napusnal-otbora-zaradi-tova-reshenie~240789.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296275045.og.jpg"
     },
     {
       "title": "Ливърпул обяви нов спортен директор 26 Сеп | 19:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2201312927~1.og.jpg"
-    },
-    {
-      "title": "Манчестър Сити с официална позиция: Уверени сме в невинността си 26 Сеп | 17:11",
-      "url": "https://dsport.bg/manchestar-siti-pozitsia-razsledvane-vissha-liga-al-mubarak~240778.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2275320179.og.jpg"
     }
   ]
 }
