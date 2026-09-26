@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T17:26:03.591887+00:00",
+  "updated": "2026-09-26T17:37:19.932081+00:00",
   "articles": [
+    {
+      "title": "Зеленски: Русия ескалира напрежението всеки ден",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-rusiia-eskalira-naprezhenieto-vseki-den-2467487",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388042/991-ratio-volodimir-zelenski.jpg"
+    },
     {
       "title": "Зам.-министър на финансите: Лихвите по кредитите не са обвързани с данъчното облагане",
       "url": "https://dariknews.bg/novini/bylgariia/zam.-ministyr-na-finansite-lihvite-po-kreditite-ne-sa-obvyrzani-s-danychnoto-oblagane-2467486",
@@ -135,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51365/51365113/991-ratio-ormuzki-protok-korabi.jpg"
     },
     {
-      "title": "Ниските запаси от газ в Европа засилват икономическия и политически натиск върху европейските правителства",
-      "url": "https://dariknews.bg/novini/biznes/niskite-zapasi-ot-gaz-v-evropa-zasilvat-ikonomicheskiia-i-politicheski-natisk-vyrhu-evropejskite-pravitelstva-2467465",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387798/991-ratio-gaz-bezninostanciia-benzin-gorivo.jpg"
+      "title": "България U19 с второ поредно равенство на турнира в Сърбия 26 Сеп | 20:33",
+      "url": "https://dsport.bg/balgaria-u19-s-vtoro-poredno-ravenstvo-na-turnira-v-sarbia~240793.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/image_1790442033_85924.og.jpeg"
     },
     {
-      "title": "На живо: България пропусна да поведе на Люксембург 26 Сеп | 20:17",
+      "title": "На живо: Люксембург обърна България... 26 Сеп | 20:30",
       "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1032501.og.jpg"
+    },
+    {
+      "title": "Локомотив Пловдив поднови тренировки, юноша се присъедини към вратарите 26 Сеп | 20:25",
+      "url": "https://dsport.bg/lokomotiv-plovdiv-podnovi-trenirovki-unosha-se-prisaedini-kam-vratarite~240792.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/825268035_1701351378662780_1363821555168192230_n.og.jpg"
     },
     {
       "title": "Кевин де Бройне: 125 мача за Белгия и това не е краят 26 Сеп | 20:16",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2290653814.og.jpg"
-    },
-    {
-      "title": "Словения и Шотландия не си вкараха в Любляна 26 Сеп | 18:09",
-      "url": "https://dsport.bg/slovenia-i-shotlandia-ne-si-vkaraha-v-lublana~240784.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296657916.og.jpg"
-    },
-    {
-      "title": "Нищо изненадващо – Пирин отново загуби, без голове в Горна Оряховица 26 Сеп | 18:01",
-      "url": "https://dsport.bg/nisto-iznenadvasto-pirin-otnovo-zagubi-bez-golove-v-gorna-orahovica~240783.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot_1~232.og.jpg"
     }
   ]
 }
