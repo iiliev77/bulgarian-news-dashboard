@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T11:00:18.587387+00:00",
+  "updated": "2026-09-26T11:13:45.441345+00:00",
   "articles": [
+    {
+      "title": "Голямо количество наркотици е спряно на ГКПП „Лесово“",
+      "url": "https://dariknews.bg/regioni/yambol/goliamo-kolichestvo-narkotici-e-spriano-na-gkpp-lesovo-2467466",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387807/991-ratio-lesovo.jpg"
+    },
     {
       "title": "МВнР предупреди: Следете внимателно актуалната обстановка при пътувания до Гърция",
       "url": "https://dariknews.bg/novini/bylgariia/mvnr-predupredi-sledete-vnimatelno-aktualnata-obstanovka-pri-pytuvaniia-do-gyrciia-2467472",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386634/991-ratio-gyrciia.jpg"
     },
     {
-      "title": "Даряваш кръв, получаваш два билета: Пловдивският театър започва сезона с кауза",
-      "url": "https://dariknews.bg/regioni/plovdiv/dariavash-kryv-poluchavash-dva-bileta-plovdivskiiat-teatyr-zapochva-sezona-s-kauza-2467195",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386517/991-ratio-dramatichniiat-teatyr-plovdiv.jpg"
+      "title": "Иван Иванов получи специално отличие за пробива в топ 500 в световната ранглиста по тенис 26 Сеп | 14:07",
+      "url": "https://dsport.bg/ivan-ivanov-poluchi-specialno-otlichie-za-probiva-v-top-500-v-svetovnata-ranglista-po-tenis~240769.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/837843-1-1-1-1-1-1.og.jpg"
+    },
+    {
+      "title": "Лионел Скалони със сълзи на очи: Ще е трудно да не плача на сбогуването на Меси 26 Сеп | 13:58",
+      "url": "https://dsport.bg/lionel-skaloni-sas-salzi-na-ochi-ste-e-trudno-da-ne-placha-na-sboguvaneto-na-mesi~240768.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2232903856-1.og.jpg"
+    },
+    {
+      "title": "Никола Цолов след второто място в Баку: Това е повече от победа 26 Сеп | 13:50",
+      "url": "https://dsport.bg/nikola-colov-sled-vtoroto-masto-v-baku-tova-e-poveche-ot-pobeda~240767.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297218298.og.jpg"
     },
     {
       "title": "Родри с мощна защита за Манчестър Сити: Вярвам в невинността на клуба! 26 Сеп | 13:34",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2269836806~1.og.jpg"
-    },
-    {
-      "title": "Луиш Фиго шокира: Нито Меси, нито Мбапе! Ето кой заслужава Златната топка 26 Сеп | 11:56",
-      "url": "https://dsport.bg/luish-figo-shokira-nito-mesi-nito-mbape-eto-koi-zasluzava-zlatnata-topka~240758.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1497460992-1~1.og.jpg"
-    },
-    {
-      "title": "Игор Йовичевич: Голямата мечта е да изведа Лудогорец до Шампионска лига (ВИДЕО) 26 Сеп | 11:44",
-      "url": "https://dsport.bg/igor-iovichevich-golamata-mechta-e-da-izveda-ludogorec-do-shampionska-liga-video~240757.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/ludogorets5.og.jpg"
-    },
-    {
-      "title": "Георги Караманджуков: Сигурен съм, че Игор и екипът му ще се справят безупречно (ВИДЕО) 26 Сеп | 11:38",
-      "url": "https://dsport.bg/georgi-karamandzukov-siguren-sam-che-igor-i-ekipat-mu-ste-se-spravat-bezuprechno-video~240756.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/ludogorets2.og.jpg"
     }
   ]
 }
