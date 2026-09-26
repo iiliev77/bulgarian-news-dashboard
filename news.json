@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-26T12:17:22.568910+00:00",
+  "updated": "2026-09-26T12:34:40.827368+00:00",
   "articles": [
+    {
+      "title": "Шест станаха жертвите в Атина, след като взрив срути сграда",
+      "url": "https://dariknews.bg/novini/sviat/shest-stanaha-zhertvite-v-atina-sled-kato-vzriv-sruti-sgrada-2467478",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387918/991-ratio-atina.jpg"
+    },
+    {
+      "title": "Пепел от вулкана Етна спря полетите на летището в Катания",
+      "url": "https://dariknews.bg/novini/sviat/pepel-ot-vulkana-etna-spria-poletite-na-letishteto-v-kataniia-2467477",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51382/51382896/991-ratio-etna.jpg"
+    },
     {
       "title": "„Уолстрийт Джърнъл“: Тръмп е отхвърлил иранското предложение за мир",
       "url": "https://dariknews.bg/novini/sviat/uolstrijt-dzhyrnyl-trymp-e-othvyrlil-iranskoto-predlozhenie-za-mir-2467476",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387284/991-ratio-oh-na-mama.jpg"
     },
     {
-      "title": "Ремонти по бул. „Владимир Вазов“ променят движението на трамваи 20 и 23",
-      "url": "https://dariknews.bg/regioni/sofiia/remonti-po-bul.-vladimir-vazov-promeniat-dvizhenieto-na-tramvai-20-i-23-2467458",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51180/51180262/991-ratio-bulevard-vladimir-vazov-sofiia.jpg"
-    },
-    {
-      "title": "„Агенти от ниско ниво“: Част от мрежа на ГРУ ли са арестуваните в Мюнхен българи",
-      "url": "https://dariknews.bg/novini/sviat/agenti-ot-nisko-nivo-chast-ot-mrezha-na-gru-li-sa-arestuvanite-v-miunhen-bylgari-2467457",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387732/991-ratio-miunhen.jpg"
+      "title": "Любопитните факти преди България – Люксембург 26 Сеп | 15:29",
+      "url": "https://dsport.bg/lubopitnite-fakti-predi-balgaria-luksemburg~240775.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1030957.og.jpg"
     },
     {
       "title": "Черно море победи Дунав в контрола 26 Сеп | 15:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/actionaction2.og.jpg"
-    },
-    {
-      "title": "Всички билети за последния танц на Меси с Аржентина бяха разпродадени за минути 26 Сеп | 13:07",
-      "url": "https://dsport.bg/vsichki-bileti-za-poslednia-tanc-na-mesi-s-arzentina-baha-razprodadeni-za-minuti~240764.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1471395457~3.og.jpg"
     }
   ]
 }
