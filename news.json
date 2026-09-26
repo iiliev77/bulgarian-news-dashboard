@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T06:15:31.271097+00:00",
+  "updated": "2026-09-26T06:33:41.489509+00:00",
   "articles": [
+    {
+      "title": "Тревожни, свиващи се, оцеляващи: Как психоложката Нели Лесер вижда българите",
+      "url": "https://dariknews.bg/novini/bylgariia/trevozhni-svivashti-se-oceliavashti-kak-psiholozhkata-neli-leser-vizhda-bylgarite-2467459",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "„Ох, на мама!“ днес в Пловдив: Всичко за бременността и родителството на едно място",
       "url": "https://dariknews.bg/novini/obshtestvo/oh-na-mama-dnes-v-plovdiv-vsichko-za-bremennostta-i-roditelstvoto-na-edno-miasto-2467400",
@@ -135,11 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Пешеходка и синът ѝ пострадаха при инцидент в Русе",
-      "url": "https://dariknews.bg/regioni/ruse/peshehodka-i-sinyt-postradaha-pri-incident-v-ruse-2467451",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
+      "title": "Майкъл Олисе влезе в историята на Франция с рекорд на 66 години 26 Сеп | 09:19",
+      "url": "https://dsport.bg/maikal-olise-vleze-v-istoriata-na-francia-s-rekord-na-66-godini~240743.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297137682.og.jpg"
+    },
+    {
+      "title": "Зидан с тревожни новини за Мбапе: Контузията не изглежда добре, връща се в Мадрид 26 Сеп | 09:08",
+      "url": "https://dsport.bg/zidan-s-trevozni-novini-za-mbape-kontuziata-ne-izglezda-dobre-vrasta-se-v-madrid~240742.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297131079.og.jpg"
+    },
+    {
+      "title": "Дейвид Бекъм не спира да трупа милиони - добави нови 38 милиона към състоянието си 26 Сеп | 08:57",
+      "url": "https://dsport.bg/deivid-bekam-ne-spira-da-trupa-milioni-dobavi-novi-38-miliona-kam-sastoanieto-si~240741.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2220170473~1.og.jpg"
     },
     {
       "title": "Рио Фърдинанд с яростна атака срещу Манчестър Сити: Отнемете им трофеите! 26 Сеп | 08:47",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/825340666_2046780696001991_6437445118738928470_n.og.jpg"
-    },
-    {
-      "title": "Исак и Гьокереш поведоха Швеция, Украйна удари Унгария, Полша се издъни срещу Босна 25 Сеп | 23:51",
-      "url": "https://dsport.bg/isak-i-gokeresh-povedoha-shvecia-ukraina-udari-ungaria-polsha-se-izdani-srestu-bosna~240732.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297128312.og.jpg"
-    },
-    {
-      "title": "Франция победи Турция в дебюта на Зидан, Мбапе вкара и се контузи 25 Сеп | 23:44",
-      "url": "https://dsport.bg/francia-pobedi-turcia-v-debuta-na-zidan-mbape-vkara-i-se-kontuzi~240731.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297134488.og.jpg"
-    },
-    {
-      "title": "Белгия си поигра на котка и мишка с Италия и спечели насред Рим 25 Сеп | 23:38",
-      "url": "https://dsport.bg/belgia-si-poigra-na-kotka-i-mishka-s-italia-i-specheli-nasred-rim~240730.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297127771.og.jpg"
     }
   ]
 }
