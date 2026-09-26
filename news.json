@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T09:57:40.268305+00:00",
+  "updated": "2026-09-26T10:10:06.754967+00:00",
   "articles": [
     {
       "title": "„SOS Разтребители“ се отправят на „Мисия Варна“",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/44770/44770940/991-ratio-shtastliv-chovek-momiche-zhena.jpg"
     },
     {
+      "title": "Грузия със спешна рокада 26 Сеп | 12:40",
+      "url": "https://dsport.bg/gruzia-sas-speshna-rokada~240761.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2159976637-1.og.jpg"
+    },
+    {
+      "title": "Край на сагата: Барселона се отказва окончателно от Хулиан Алварес 26 Сеп | 12:25",
+      "url": "https://dsport.bg/krai-na-sagata-barselona-se-otkazva-okonchatelno-ot-hulian-alvares~240760.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2291714271~2.og.jpg"
+    },
+    {
       "title": "Байерн Мюнхен готви мащабна оферта за футболист на Барселона 26 Сеп | 12:10",
       "url": "https://dsport.bg/baiern-munhen-gotvi-mastabna-oferta-za-futbolist-na-barselona~240759.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/fonkeu.og.jpg"
-    },
-    {
-      "title": "Стеф Къри се е съгласил на двегодишно удължаване на договора си с Голдън Стейт 26 Сеп | 10:30",
-      "url": "https://dsport.bg/stef-kari-se-e-saglasil-na-dvegodishno-udalzavane-na-dogovora-si-s-goldan-steit~240750.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2272314744~1.og.jpg"
-    },
-    {
-      "title": "Мрачна прогноза за Манчестър Сити: Очаква ги най-лошият възможен сценарий 26 Сеп | 10:10",
-      "url": "https://dsport.bg/mrachna-prognoza-za-manchestar-siti-ochakva-gi-nai-loshiat-vazmozen-scenarii~240749.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-489784397.og.jpg"
     }
   ]
 }
