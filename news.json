@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:52:32.888181+00:00",
+  "updated": "2026-09-26T11:00:18.587387+00:00",
   "articles": [
     {
       "title": "МВнР предупреди: Следете внимателно актуалната обстановка при пътувания до Гърция",
@@ -72,8 +72,8 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387765/991-ratio-pamporovo.jpg"
     },
     {
-      "title": "Община Бяла отмени бедственото положение след пожара",
-      "url": "https://dariknews.bg/regioni/varna/obshtina-biala-otmeni-bedstvenoto-polozhenie-sled-pozhara-2467461",
+      "title": "Ново тлеещо огнище край изгорелия цех в Бяла вдигна пожарникарите на крак",
+      "url": "https://dariknews.bg/regioni/varna/novo-tleeshto-ognishte-kraj-izgoreliia-ceh-v-biala-vdigna-pozharnikarite-na-krak-2467461",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387762/991-ratio-obshtina-biala-pozhar.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386517/991-ratio-dramatichniiat-teatyr-plovdiv.jpg"
     },
     {
+      "title": "Родри с мощна защита за Манчестър Сити: Вярвам в невинността на клуба! 26 Сеп | 13:34",
+      "url": "https://dsport.bg/rodri-s-mostna-zastita-za-manchestar-siti-varvam-v-nevinnostta-na-kluba~240766.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2262913991-2.og.jpg"
+    },
+    {
       "title": "Масов бой и напрежение в Будапеща (ВИДЕО) 26 Сеп | 13:21",
       "url": "https://dsport.bg/masov-boi-i-naprezenie-v-budapesta-video~240765.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/ludogorets2.og.jpg"
-    },
-    {
-      "title": "Георги Дерменджиев се завърна в Лудогорец 26 Сеп | 11:30",
-      "url": "https://dsport.bg/georgi-dermendziev-se-zavarna-v-ludogorec~240755.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/621938-1~1.og.jpg"
     }
   ]
 }
