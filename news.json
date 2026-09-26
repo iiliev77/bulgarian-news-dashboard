@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:34:40.827368+00:00",
+  "updated": "2026-09-26T12:48:39.210086+00:00",
   "articles": [
     {
       "title": "Шест станаха жертвите в Атина, след като взрив срути сграда",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387284/991-ratio-oh-na-mama.jpg"
     },
     {
+      "title": "Джордж Ръсел ликува след много драматично състезание в Баку 26 Сеп | 15:45",
+      "url": "https://dsport.bg/formula-1-gp-azerbaidjan-rasel-verstapen-bitka-baku~240774.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297230670.og.jpg"
+    },
+    {
       "title": "Любопитните факти преди България – Люксембург 26 Сеп | 15:29",
       "url": "https://dsport.bg/lubopitnite-fakti-predi-balgaria-luksemburg~240775.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2262913991-2.og.jpg"
-    },
-    {
-      "title": "Масов бой и напрежение в Будапеща (ВИДЕО) 26 Сеп | 13:21",
-      "url": "https://dsport.bg/masov-boi-i-naprezenie-v-budapesta-video~240765.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/actionaction2.og.jpg"
     }
   ]
 }
