@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-26T08:01:11.179078+00:00",
+  "updated": "2026-09-26T08:18:00.170836+00:00",
   "articles": [
+    {
+      "title": "Глобяват Община Разлог и три строителни фирми заради мъртва риба в Бела река",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/globiavat-obshtina-razlog-i-tri-stroitelni-firmi-zaradi-myrtva-riba-v-bela-reka-2467464",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387795/991-ratio-myrtva-riba-biala-reka.jpg"
+    },
+    {
+      "title": "Оптични часовници променят дефиницията на секундата",
+      "url": "https://dariknews.bg/novini/liubopitno/optichni-chasovnici-promeniat-definiciiata-na-sekundata-2467311",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386983/991-ratio-chasovnici.jpg"
+    },
     {
       "title": "Трима загинаха в челен удар на пътя София – Варна",
       "url": "https://dariknews.bg/regioni/lovech/trima-zaginaha-v-chelen-udar-na-pytia-sofiia-varna-2467463",
@@ -128,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50618/50618336/991-ratio-choveshkiia-mozyk.jpg"
     },
     {
-      "title": "„Гугъл\" се готви да тества чипове за изкуствен интелект в космоса",
-      "url": "https://dariknews.bg/novini/sviat/gugyl-se-gotvi-da-testva-chipove-za-izkustven-intelekt-v-kosmosa-2467444",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50804/50804450/991-ratio-solarni-paneli-kosmos.jpg"
-    },
-    {
-      "title": "Хладно и ветровито: Какво време ни очаква",
-      "url": "https://dariknews.bg/novini/bylgariia/hladno-i-vetrovito-kakvo-vreme-ni-ochakva-2467443",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51232/51232535/991-ratio-esen-mygla-slynce-vreme.jpg"
-    },
-    {
-      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:58",
+      "title": "Великолепен Цолов завърши втори в Баку, битката за титлата продължава 26 Сеп | 11:04",
       "url": "https://dsport.bg/na-zivo-colov-v-bitktata-za-titlata-vav-formula-2-vtoroto-sastezanie-v-baku~240744.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/f2.og.png"
+      "image": "https://dsport.bg/media/383/gettyimages-2297010633.og.jpg"
     },
     {
       "title": "Дунав представи ново попълнение 26 Сеп | 10:40",
