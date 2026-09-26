@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:54:31.873936+00:00",
+  "updated": "2026-09-26T18:03:59.471435+00:00",
   "articles": [
     {
       "title": "Варненци усетиха земетресение с магнитуд 7,8 чрез симулатор (ВИДЕО/СНИМКИ)",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387812/991-ratio-nikola-colov.jpg"
     },
     {
-      "title": "На живо: Люксембург обърна България... 26 Сеп | 20:36",
+      "title": "Тежък резил: Люксембург обърна България на „Колежа“ 26 Сеп | 20:55",
       "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1032501.og.jpg"
+    },
+    {
+      "title": "Исландия и Естония не се победиха, Паскотши донесе точката на гостите 26 Сеп | 20:54",
+      "url": "https://dsport.bg/islandia-i-estonia-ne-se-pobediha-pashkotshi-donese-tochkata-na-gostite~240794.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot_4~179.og.jpg"
     },
     {
       "title": "България U19 с второ поредно равенство на турнира в Сърбия 26 Сеп | 20:33",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295575982~1.og.jpg"
-    },
-    {
-      "title": "Разчленени човешки останки са открити в Загреб, появиха се информации, че са на бивш ММА боец 26 Сеп | 18:23",
-      "url": "https://dsport.bg/razchleneni-choveshki-ostanki-sa-otkriti-v-zagreb-poaviha-se-informacii-che-sa-na-bivsh-mma-boec~240785.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2290653814.og.jpg"
     }
   ]
 }
