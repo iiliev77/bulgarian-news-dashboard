@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:34:44.005684+00:00",
+  "updated": "2026-09-26T07:44:46.234923+00:00",
   "articles": [
     {
       "title": "Община Бяла отмени бедственото положение след пожара",
@@ -142,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/33454/33454015/991-ratio-cigara-pushach-pushene-tiutiunopushene.jpg"
     },
     {
-      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:32",
+      "title": "Дунав представи ново попълнение 26 Сеп | 10:40",
+      "url": "https://dsport.bg/dunav-predstavi-novo-popalnenie~240751.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/fonkeu.og.jpg"
+    },
+    {
+      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:38",
       "url": "https://dsport.bg/na-zivo-colov-v-bitktata-za-titlata-vav-formula-2-vtoroto-sastezanie-v-baku~240744.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/f2.og.png"
+    },
+    {
+      "title": "Стеф Къри се е съгласил на двегодишно удължаване на договора си с Голдън Стейт 26 Сеп | 10:30",
+      "url": "https://dsport.bg/stef-kari-se-e-saglasil-na-dvegodishno-udalzavane-na-dogovora-si-s-goldan-steit~240750.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2272314744~1.og.jpg"
     },
     {
       "title": "Мрачна прогноза за Манчестър Сити: Очаква ги най-лошият възможен сценарий 26 Сеп | 10:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2297131079.og.jpg"
-    },
-    {
-      "title": "Дейвид Бекъм не спира да трупа милиони - добави нови 38 милиона към състоянието си 26 Сеп | 08:57",
-      "url": "https://dsport.bg/deivid-bekam-ne-spira-da-trupa-milioni-dobavi-novi-38-miliona-kam-sastoanieto-si~240741.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2220170473~1.og.jpg"
-    },
-    {
-      "title": "Рио Фърдинанд с яростна атака срещу Манчестър Сити: Отнемете им трофеите! 26 Сеп | 08:47",
-      "url": "https://dsport.bg/rio-fardinand-s-arostna-ataka-srestu-manchestar-siti-otnemete-im-trofeite~240740.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1399588639-2-1.og.jpg"
     }
   ]
 }
