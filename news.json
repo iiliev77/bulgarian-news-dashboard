@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T05:18:18.579356+00:00",
+  "updated": "2026-09-26T05:31:00.713034+00:00",
   "articles": [
+    {
+      "title": "Ремонти по бул. „Владимир Вазов“ променят движението на трамваи 20 и 23",
+      "url": "https://dariknews.bg/regioni/sofiia/remonti-po-bul.-vladimir-vazov-promeniat-dvizhenieto-na-tramvai-20-i-23-2467458",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51180/51180262/991-ratio-bulevard-vladimir-vazov-sofiia.jpg"
+    },
     {
       "title": "„Агенти от ниско ниво“: Част от мрежа на ГРУ ли са арестуваните в Мюнхен българи",
       "url": "https://dariknews.bg/novini/sviat/agenti-ot-nisko-nivo-chast-ot-mrezha-na-gru-li-sa-arestuvanite-v-miunhen-bylgari-2467457",
@@ -16,13 +23,6 @@
       "image": "https://m.netinfo.bg/media/images/51000/51000537/991-ratio-fico.jpg"
     },
     {
-      "title": "Спим с час повече: Кога връщаме стрелките назад",
-      "url": "https://dariknews.bg/novini/liubopitno/spim-s-chas-poveche-koga-vryshtame-strelkite-nazad-2467262",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/28251/28251439/640-420-mestim-strelkite-na-chasovnika-s-chas-napred-v-nedelia.jpg"
-    },
-    {
       "title": "Тайната битка на Пресли Гербер: Травмата, която не успя да преодолее",
       "url": "https://dariknews.bg/novini/sviat/tajnata-bitka-na-presli-gerber-travmata-koiato-ne-uspia-da-preodolee-2467423",
       "source": "DarikNews",
@@ -35,6 +35,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386634/991-ratio-gyrciia.jpg"
+    },
+    {
+      "title": "Спим с час повече: Кога връщаме стрелките назад",
+      "url": "https://dariknews.bg/novini/liubopitno/spim-s-chas-poveche-koga-vryshtame-strelkite-nazad-2467262",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387734/991-ratio-chasovnik-zimno-chasovo-vreme.jpg"
     },
     {
       "title": "Даряваш кръв, получаваш два билета: Пловдивският театър започва сезона с кауза",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387515/991-ratio-radoslav-rosenov.jpg"
     },
     {
-      "title": "Експертът Христо Тутунаров: Австралиец-шпионин зад скандала с руснаците у нас (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/ekspertyt-hristo-tutunarov-avstraliec-shpionin-zad-skandala-s-rusnacite-u-nas-video-2467449",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387506/991-ratio-telegraf.jpg"
+      "title": "Тревога в Реал Мадрид, Килиан Мбапе отново с контузия в коляното 26 Сеп | 08:17",
+      "url": "https://dsport.bg/trevoga-v-real-madrid-kilian-mbape-otnovo-s-kontuzia-v-kolanoto~240737.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297137450.og.jpg"
+    },
+    {
+      "title": "Зинедин Зидан счупи 30-годишно проклятие 26 Сеп | 08:09",
+      "url": "https://dsport.bg/zinedin-zidan-schupi-30-godishno-proklatie~240735.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297142940.og.jpg"
     },
     {
       "title": "Клубове от Висшата лига готвят масови искове срещу Манчестър Сити за милиони 26 Сеп | 08:01",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2297058962.og.jpg"
-    },
-    {
-      "title": "Мач за ФА Къп ще бъде преигран заради съдийска грешка 25 Сеп | 22:23",
-      "url": "https://dsport.bg/mach-za-fa-kap-ste-bade-preigran-zaradi-sadiiska-greshka~240726.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot_5~158.og.jpg"
-    },
-    {
-      "title": "Ирландски национал се обяви против мача с Израел: Не мисля, че трябва да се играе 25 Сеп | 21:56",
-      "url": "https://dsport.bg/irlandski-nacional-se-obavi-protiv-macha-s-izrael-ne-misla-che-trabva-da-se-igrae~240725.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2276334407.og.jpg"
     }
   ]
 }
