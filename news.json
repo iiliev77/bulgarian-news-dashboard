@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T14:12:11.704144+00:00",
+  "updated": "2026-09-26T14:25:42.392834+00:00",
   "articles": [
     {
       "title": "Тежка катастрофа във Великотърновско: Шофьор загина на място, жена е в болница",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387765/991-ratio-pamporovo.jpg"
     },
     {
+      "title": "Шок в света на бокса: Двубоят между Тайсън Фюри и Антъни Джошуа пред провал? 26 Сеп | 17:13",
+      "url": "https://dsport.bg/dzoshua~240780.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2201312927~1.og.jpg"
+    },
+    {
+      "title": "Манчестър Сити с официална позиция: Уверени сме в невинността си 26 Сеп | 17:11",
+      "url": "https://dsport.bg/manchestar-siti-pozitsia-razsledvane-vissha-liga-al-mubarak~240778.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2275320179.og.jpg"
+    },
+    {
       "title": "Фенове на Лудогорец посрещнаха Игор Йовичевич с факли и димки (ВИДЕО) 26 Сеп | 17:07",
       "url": "https://dsport.bg/fenove-na-ludogorec-posrestnaha-igor-iovichevich-s-fakli-i-dimki-video~240779.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-454504854.og.jpg"
-    },
-    {
-      "title": "Барселона с революционен план: как новият „Spotify Камп Ноу“ ще генерира 700 млн. евро от VIP места 26 Сеп | 14:20",
-      "url": "https://dsport.bg/barselona-s-revolucionen-plan-kak-noviat-spotify-kamp-nou-ste-generira-700-mln-evro-ot-vip-mesta~240770.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2260372605-1.og.jpg"
-    },
-    {
-      "title": "Иван Иванов получи специално отличие за пробива в топ 500 в световната ранглиста по тенис 26 Сеп | 14:07",
-      "url": "https://dsport.bg/ivan-ivanov-poluchi-specialno-otlichie-za-probiva-v-top-500-v-svetovnata-ranglista-po-tenis~240769.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/837843-1-1-1-1-1-1.og.jpg"
     }
   ]
 }
