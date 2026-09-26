@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-26T03:24:41.958017+00:00",
+  "updated": "2026-09-26T03:36:59.081621+00:00",
   "articles": [
+    {
+      "title": "Изкуственият интелект открива повече мозъчни аневризми при изследвания",
+      "url": "https://dariknews.bg/novini/liubopitno/izkustveniiat-intelekt-otkriva-poveche-mozychni-anevrizmi-pri-izsledvaniia-2467445",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50618/50618336/991-ratio-choveshkiia-mozyk.jpg"
+    },
+    {
+      "title": "„Гугъл\" се готви да тества чипове за изкуствен интелект в космоса",
+      "url": "https://dariknews.bg/novini/sviat/gugyl-se-gotvi-da-testva-chipove-za-izkustven-intelekt-v-kosmosa-2467444",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50804/50804450/991-ratio-solarni-paneli-kosmos.jpg"
+    },
     {
       "title": "Хладно и ветровито: Какво време ни очаква",
       "url": "https://dariknews.bg/novini/bylgariia/hladno-i-vetrovito-kakvo-vreme-ni-ochakva-2467443",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51364/51364799/991-ratio-po-techenieto-na-zastrashitelno-presyhvashtiia-dunav.jpg"
-    },
-    {
-      "title": "Пожарът в Бяла, при който загина човек, е локализиран (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/varna/pozharyt-v-biala-pri-kojto-zagina-chovek-e-lokaliziran-video-2467431",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "БАБХ спря от продажба над 28 тона кисело зеле с изтекъл срок в София",
-      "url": "https://dariknews.bg/regioni/sofiia/babh-spria-ot-prodazhba-nad-28-tona-kiselo-zele-s-iztekyl-srok-v-sofiia-2467429",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
     },
     {
       "title": "Франция се класира за финала на Евроволей след 3:1 над Финландия 26 Сеп | 00:03",
