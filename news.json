@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:00:04.190106+00:00",
+  "updated": "2026-09-26T12:17:22.568910+00:00",
   "articles": [
     {
       "title": "„Уолстрийт Джърнъл“: Тръмп е отхвърлил иранското предложение за мир",
@@ -30,11 +30,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387907/991-ratio-smolian.jpg"
     },
     {
-      "title": "Разбиха канал за трафик на дрога на ГКПП „Лесово“, откриха 20 кг кокаин и 26 кг марихуана в тайник на камион",
-      "url": "https://dariknews.bg/regioni/yambol/razbiha-kanal-za-trafik-na-droga-na-gkpp-lesovo-otkriha-20-kg-kokain-i-26-kg-marihuana-v-tajnik-na-kamion-2467466",
+      "title": "Разбиха канал за трафик на дрога на ГКПП „Лесово“ (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/yambol/razbiha-kanal-za-trafik-na-droga-na-gkpp-lesovo-snimkivideo-2467466",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "МВнР предупреди: Следете внимателно актуалната обстановка при пътувания до Гърция",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387732/991-ratio-miunhen.jpg"
     },
     {
+      "title": "Черно море победи Дунав в контрола 26 Сеп | 15:05",
+      "url": "https://dsport.bg/cherno-more-pobedi-dunav-v-kontrola~240773.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1032441.og.jpg"
+    },
+    {
+      "title": "Какво ще се случи с Холанд, ако Манчестър Сити изпадне? Договорът му крие изненада 26 Сеп | 14:55",
+      "url": "https://dsport.bg/kakvo-ste-se-sluchi-s-holand-ako-manchestar-siti-izpadne-dogovorat-mu-krie-iznenada~240772.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297047017.og.jpg"
+    },
+    {
       "title": "Бивша звезда на Рома и Ювентус в тежко състояние, бори се за живота си 26 Сеп | 14:32",
       "url": "https://dsport.bg/bivsha-zvezda-na-roma-i-uventus-v-tezko-sastoanie-bori-se-za-zivota-si~240771.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1471395457~3.og.jpg"
-    },
-    {
-      "title": "Елизара Янева ще играе на финала на сингъл на международния турнир по тенис в Пловдив 26 Сеп | 12:55",
-      "url": "https://dsport.bg/elizara-aneva-ste-igrae-na-finala-na-singal-na-mezdunarodnia-turnir-po-tenis-v-plovdiv~240763.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/elizara-6-0-1~2.og.jpg"
-    },
-    {
-      "title": "Грузия със спешна рокада 26 Сеп | 12:40",
-      "url": "https://dsport.bg/gruzia-sas-speshna-rokada~240761.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2159976637-1.og.jpg"
     }
   ]
 }
