@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T07:44:46.234923+00:00",
+  "updated": "2026-09-26T07:53:15.912691+00:00",
   "articles": [
+    {
+      "title": "Парламентарната група на „Прогресивна България“ се събра на среща в Пампорово",
+      "url": "https://dariknews.bg/regioni/Smolyan/parlamentarnata-grupa-na-progresivna-bylgariia-se-sybra-na-sreshta-v-pamporovo-2467462",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387765/991-ratio-pamporovo.jpg"
+    },
     {
       "title": "Община Бяла отмени бедственото положение след пожара",
       "url": "https://dariknews.bg/regioni/varna/obshtina-biala-otmeni-bedstvenoto-polozhenie-sled-pozhara-2467461",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387690/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Турция обсъжда забрана за тютюнопушене за родените след 2015 г.",
-      "url": "https://dariknews.bg/novini/sviat/turciia-obsyzhda-zabrana-za-tiutiunopushene-za-rodenite-sled-2015-g-2467453",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/33454/33454015/991-ratio-cigara-pushach-pushene-tiutiunopushene.jpg"
+      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:48",
+      "url": "https://dsport.bg/na-zivo-colov-v-bitktata-za-titlata-vav-formula-2-vtoroto-sastezanie-v-baku~240744.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/f2.og.png"
     },
     {
       "title": "Дунав представи ново попълнение 26 Сеп | 10:40",
@@ -147,13 +154,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/fonkeu.og.jpg"
-    },
-    {
-      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:38",
-      "url": "https://dsport.bg/na-zivo-colov-v-bitktata-za-titlata-vav-formula-2-vtoroto-sastezanie-v-baku~240744.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/f2.og.png"
     },
     {
       "title": "Стеф Къри се е съгласил на двегодишно удължаване на договора си с Голдън Стейт 26 Сеп | 10:30",
