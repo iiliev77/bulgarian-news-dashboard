@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:00:34.430548+00:00",
+  "updated": "2026-09-26T21:14:44.801847+00:00",
   "articles": [
     {
       "title": "Над 200 мигранти бяха открити край Крит за няколко часа",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51171/51171851/991-ratio-simi-gyrciia.jpg"
     },
     {
+      "title": "Франция опита, но Полша защити европейската си титла по волейбол 27 Сеп | 00:04",
+      "url": "https://dsport.bg/francia-opita-no-polsha-zastiti-evropeiskata-si-titla-po-voleibol~240813.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot_10~64.og.jpg"
+    },
+    {
       "title": "Швейцария разгроми Северна Македония в Скопие 26 Сеп | 23:53",
       "url": "https://dsport.bg/shveicaria-razgromi-severna-makedonia-v-skopie~240812.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1032450~1.og.jpg"
-    },
-    {
-      "title": "Илия Груев: Нивото ни е Лига C, това е реалността, допуснахме елементарни голове 26 Сеп | 21:29",
-      "url": "https://dsport.bg/ilia-gruev-nivoto-ni-e-liga-c-tova-e-realnostta-dopusnahme-elementarni-golove~240800.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1032513~1.og.jpg"
     }
   ]
 }
