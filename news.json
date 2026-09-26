@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:09:14.373628+00:00",
+  "updated": "2026-09-26T19:20:53.846885+00:00",
   "articles": [
     {
       "title": "Черен ден по пътищата у нас: Петима загинаха при катастрофи в Ловешко",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387814/991-ratio-fich.jpg"
     },
     {
+      "title": "Добри новини за Мбапе след контузията с Франция 26 Сеп | 22:13",
+      "url": "https://dsport.bg/dobri-novini-za-mbape-sled-kontuziata-s-francia~240803.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295238228~1.og.jpg"
+    },
+    {
+      "title": "Кирил Котев: Показахме стари слабости, целта остава първото място 26 Сеп | 22:10",
+      "url": "https://dsport.bg/kiril-kotev-pokazahme-stari-slabosti-celta-ostava-parvoto-masto~240802.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/1032450~1.og.jpg"
+    },
+    {
       "title": "Илия Груев: Нивото ни е Лига C, това е реалността, допуснахме елементарни голове 26 Сеп | 21:29",
       "url": "https://dsport.bg/ilia-gruev-nivoto-ni-e-liga-c-tova-e-realnostta-dopusnahme-elementarni-golove~240800.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot_4~179.og.jpg"
-    },
-    {
-      "title": "България U19 с второ поредно равенство на турнира в Сърбия 26 Сеп | 20:33",
-      "url": "https://dsport.bg/balgaria-u19-s-vtoro-poredno-ravenstvo-na-turnira-v-sarbia~240793.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/image_1790442033_85924.og.jpeg"
-    },
-    {
-      "title": "Локомотив Пловдив поднови тренировки, юноша се присъедини към вратарите 26 Сеп | 20:25",
-      "url": "https://dsport.bg/lokomotiv-plovdiv-podnovi-trenirovki-unosha-se-prisaedini-kam-vratarite~240792.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/825268035_1701351378662780_1363821555168192230_n.og.jpg"
     }
   ]
 }
