@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:13:21.112609+00:00",
+  "updated": "2026-09-26T17:26:03.591887+00:00",
   "articles": [
     {
       "title": "Зам.-министър на финансите: Лихвите по кредитите не са обвързани с данъчното облагане",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387798/991-ratio-gaz-bezninostanciia-benzin-gorivo.jpg"
     },
     {
-      "title": "На живо: Люксембург изравни на България 26 Сеп | 20:07",
+      "title": "На живо: България пропусна да поведе на Люксембург 26 Сеп | 20:17",
       "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/1032463.og.jpg"
+      "image": "https://dsport.bg/media/383/1032501.og.jpg"
+    },
+    {
+      "title": "Кевин де Бройне: 125 мача за Белгия и това не е краят 26 Сеп | 20:16",
+      "url": "https://dsport.bg/kevin-de-broine-125-macha-za-belgia-i-tova-ne-e-kraat~240791.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2279463459~1.og.jpg"
     },
     {
       "title": "Финландия шокира Словения и грабна бронза на Евроволей 26 Сеп | 20:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot_1~232.og.jpg"
-    },
-    {
-      "title": "Салах не пожела да играе на изкуствена трева, напусна лагера на Египет 26 Сеп | 17:32",
-      "url": "https://dsport.bg/salah-ne-pozela-da-igrae-na-izkustvena-treva-napusna-lagera-na-egipet~240781.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2288512672~1.og.jpg"
     }
   ]
 }
