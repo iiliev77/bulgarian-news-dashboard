@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T16:01:51.952132+00:00",
+  "updated": "2026-09-26T16:17:57.248590+00:00",
   "articles": [
     {
       "title": "Бил Гейтс: В грешни ръце AI може да причини един милиард смъртни случая",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386983/991-ratio-chasovnici.jpg"
     },
     {
-      "title": "На живо: България - Люксембург 26 Сеп | 19:00",
+      "title": "Ливърпул обяви нов спортен директор 26 Сеп | 19:10",
+      "url": "https://dsport.bg/livarpul-obavi-nov-sporten-direktor~240788.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot_2~203.og.jpg"
+    },
+    {
+      "title": "На живо: България - Люксембург, двата отбора разменят положения 26 Сеп | 19:10",
       "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/383/finali-ekt-8-.og.jpg"
+      "image": "https://dsport.bg/media/383/1032474.og.jpg"
     },
     {
       "title": "Никой няма да замени Мбапе 26 Сеп | 18:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2275320179.og.jpg"
-    },
-    {
-      "title": "Фенове на Лудогорец посрещнаха Игор Йовичевич с факли и димки (ВИДЕО) 26 Сеп | 17:07",
-      "url": "https://dsport.bg/fenove-na-ludogorec-posrestnaha-igor-iovichevich-s-fakli-i-dimki-video~240779.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/whatsapp-image-2026-09-26-at-13.19.46.og.jpeg"
     }
   ]
 }
