@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:31:00.713034+00:00",
+  "updated": "2026-09-26T05:41:44.113760+00:00",
   "articles": [
     {
       "title": "Ремонти по бул. „Владимир Вазов“ променят движението на трамваи 20 и 23",
@@ -30,18 +30,18 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385629/991-ratio-presli-gerber.jpg"
     },
     {
-      "title": "Гърция отваря безплатно музеите си през уикенда",
-      "url": "https://dariknews.bg/novini/sviat/gyrciia-otvaria-bezplatno-muzeite-si-prez-uikenda-2467212",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386634/991-ratio-gyrciia.jpg"
-    },
-    {
       "title": "Спим с час повече: Кога връщаме стрелките назад",
       "url": "https://dariknews.bg/novini/liubopitno/spim-s-chas-poveche-koga-vryshtame-strelkite-nazad-2467262",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387734/991-ratio-chasovnik-zimno-chasovo-vreme.jpg"
+    },
+    {
+      "title": "Гърция отваря безплатно музеите си през уикенда",
+      "url": "https://dariknews.bg/novini/sviat/gyrciia-otvaria-bezplatno-muzeite-si-prez-uikenda-2467212",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386634/991-ratio-gyrciia.jpg"
     },
     {
       "title": "Даряваш кръв, получаваш два билета: Пловдивският театър започва сезона с кауза",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387515/991-ratio-radoslav-rosenov.jpg"
     },
     {
+      "title": "Как един туит на кмета на Ню Йорк взриви интернет и осмя Манчестър Сити 26 Сеп | 08:28",
+      "url": "https://dsport.bg/kak-edin-tuit-na-kmeta-na-nu-iork-vzrivi-internet-i-osma-manchestar-siti~240738.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2252400972.og.jpg"
+    },
+    {
       "title": "Тревога в Реал Мадрид, Килиан Мбапе отново с контузия в коляното 26 Сеп | 08:17",
       "url": "https://dsport.bg/trevoga-v-real-madrid-kilian-mbape-otnovo-s-kontuzia-v-kolanoto~240737.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2276082435-1.og.jpg"
-    },
-    {
-      "title": "Никола Цолов след наказанието: Никога не се отказвам, утре ще дадем всичко от себе си 25 Сеп | 22:28",
-      "url": "https://dsport.bg/nikola-colov-sled-nakazanieto-nikoga-ne-se-otkazvam-utre-ste-dadem-vsichko-ot-sebe-si~240727.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297058962.og.jpg"
     }
   ]
 }
