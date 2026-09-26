@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T19:56:30.403188+00:00",
+  "updated": "2026-09-26T20:06:49.918627+00:00",
   "articles": [
+    {
+      "title": "Над 200 мигранти бяха открити край Крит за няколко часа",
+      "url": "https://dariknews.bg/novini/sviat/nad-200-migranti-biaha-otkriti-kraj-krit-za-niakolko-chasa-2467493",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51286/51286960/991-ratio-policiia-krit.jpg"
+    },
     {
       "title": "Лавров: Европа прави всичко, за да провали мирните преговори за Украйна",
       "url": "https://dariknews.bg/novini/sviat/lavrov-evropa-pravi-vsichko-za-da-provali-mirnite-pregovori-za-ukrajna-2467492",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51171/51171851/991-ratio-simi-gyrciia.jpg"
     },
     {
-      "title": "„SOS Разтребители“ се отправят на „Мисия Варна“",
-      "url": "https://dariknews.bg/novini/obshtestvo/sos-raztrebiteli-se-otpraviat-na-misiia-varna-2467470",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387816/991-ratio-raztrebiteli.jpg"
+      "title": "Бруно Фернандеш пропуска гостуването на Португалия в Норвегия 26 Сеп | 22:59",
+      "url": "https://dsport.bg/bruno-fernandesh-propuska-gostuvaneto-na-portugalia-v-norvegia~240805.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2282972256~1.og.jpg"
     },
     {
       "title": "Проблем за Испания: Ерик Гарсия се контузи на загрявката преди мача с Англия 26 Сеп | 22:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/1032473~1.og.jpg"
-    },
-    {
-      "title": "Тежък резил: Люксембург обърна България на „Колежа“ 26 Сеп | 20:55",
-      "url": "https://dsport.bg/na-zivo-balgaria-luksemburg-sastavi~240782.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1032501.og.jpg"
     }
   ]
 }
