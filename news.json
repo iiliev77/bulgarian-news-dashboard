@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:11:21.170128+00:00",
+  "updated": "2026-09-26T07:24:15.756479+00:00",
   "articles": [
     {
       "title": "Община Бяла отмени бедственото положение след пожара",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/33454/33454015/991-ratio-cigara-pushach-pushene-tiutiunopushene.jpg"
     },
     {
-      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:04",
+      "title": "На живо: Цолов в битктата за титлата във Формула 2 26 Сеп | 10:12",
       "url": "https://dsport.bg/na-zivo-colov-v-bitktata-za-titlata-vav-formula-2-vtoroto-sastezanie-v-baku~240744.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/f2.og.png"
+    },
+    {
+      "title": "Мрачна прогноза за Манчестър Сити: Очаква ги най-лошият възможен сценарий 26 Сеп | 10:10",
+      "url": "https://dsport.bg/mrachna-prognoza-za-manchestar-siti-ochakva-gi-nai-loshiat-vazmozen-scenarii~240749.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-489784397.og.jpg"
     },
     {
       "title": "Карлос Алкарас и Якуб Меншик осигуриха аванс от две победи за отбора на Европа на „Лейвър Къп“ 26 Сеп | 09:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1399588639-2-1.og.jpg"
-    },
-    {
-      "title": "Създателят на Football Leaks: Манчестър Сити ще понесе „опустошителен“ удар 26 Сеп | 08:38",
-      "url": "https://dsport.bg/sazdatelat-na-football-leaks-manchestar-siti-ste-ponese-opustoshitelen-udar~240739.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1319654933.og.jpg"
     }
   ]
 }
