@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-27T16:00:41.375111+00:00",
+  "updated": "2026-09-27T16:15:57.116544+00:00",
   "articles": [
     {
-      "title": "Вълчев: Приоритет е да продължим да строим и разширяваме детски градини и училища",
-      "url": "https://dariknews.bg/novini/bylgariia/vylchev-prioritet-e-da-prodylzhim-da-stroim-i-razshiriavame-detski-gradini-i-uchilishta-2467524",
+      "title": "Вълчев: Приоритет е да строим и разширяваме детски градини и училища",
+      "url": "https://dariknews.bg/novini/bylgariia/vylchev-prioritet-e-da-stroim-i-razshiriavame-detski-gradini-i-uchilishta-2467524",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388293/991-ratio-georgi-vylchev.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51280/51280718/991-ratio-linejka.jpg"
     },
     {
+      "title": "ЦСКА 1948 врътна хикс със сърби в Банско 27 Сеп | 19:06",
+      "url": "https://dsport.bg/cska-1948-vratna-hiks-sas-sarbi-v-bansko~240873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/827785582_1980924125860350_4245651413745023359_n.og.jpg"
+    },
+    {
       "title": "Йомов титуляр при успех на ЦСКА II, „акулите“ захапаха и затъналия Монтана 27 Сеп | 18:53",
       "url": "https://dsport.bg/iomov-titular-pri-uspeh-na-cska-ii-akulite-zahapaha-i-zatanalia-montana~240871.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/plovdiv_nagrajdavane_27.09.26-2.og.jpg"
-    },
-    {
-      "title": "Ралф Шумахер подкрепи Цолов за място във Формула 1: Той е обещаващ талант 27 Сеп | 17:17",
-      "url": "https://dsport.bg/ralf-shumaher-podkrepi-colov-za-masto-vav-formula-1-toi-e-obestavast-talant~240862.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297010635~1.og.jpg"
     }
   ]
 }
