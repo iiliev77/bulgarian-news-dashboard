@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T05:06:47.739874+00:00",
+  "updated": "2026-09-27T05:20:40.605928+00:00",
   "articles": [
+    {
+      "title": "Сексът отвъд стереотипите: Интимност, доверие и истинска близост (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/liubopitno/seksyt-otvyd-stereotipite-intimnost-doverie-i-istinska-blizost-video-2467403",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387305/991-ratio-doktor-zdrave-s-mariia.jpg"
+    },
     {
       "title": "17 души, сред които ключови военни магистрати, загинаха в самолетна катастрофа в Конго",
       "url": "https://dariknews.bg/novini/sviat/17-dushi-sred-koito-kliuchovi-voenni-magistrati-zaginaha-v-samoletna-katastrofa-v-kongo-2467494",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387997/991-ratio-magata-fest.jpg"
     },
     {
-      "title": "Тежка катастрофа във Великотърновско: Шофьор загина на място, жена е в болница",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/tezhka-katastrofa-vyv-velikotyrnovsko-shofior-zagina-na-miasto-zhena-e-v-bolnica-2467481",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+      "title": "Манчестър Юнайтед с масови съкращения и дълг от над 1.1 милиард паунда 27 Сеп | 08:02",
+      "url": "https://dsport.bg/manchestar-unaited-s-masovi-sakrastenia-i-dalg-ot-nad-1-1-miliard-paunda~240814.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2215460980~2.og.jpg"
     },
     {
       "title": "Франция опита, но Полша защити европейската си титла по волейбол 27 Сеп | 00:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295238228~1.og.jpg"
-    },
-    {
-      "title": "Кирил Котев: Показахме стари слабости, целта остава първото място 26 Сеп | 22:10",
-      "url": "https://dsport.bg/kiril-kotev-pokazahme-stari-slabosti-celta-ostava-parvoto-masto~240802.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/1032450~1.og.jpg"
     }
   ]
 }
