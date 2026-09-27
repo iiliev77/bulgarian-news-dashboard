@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T09:56:46.547445+00:00",
+  "updated": "2026-09-27T10:07:46.599144+00:00",
   "articles": [
+    {
+      "title": "Швейцария гласува на референдум за бъдещето на своя неутралитет",
+      "url": "https://dariknews.bg/novini/sviat/shvejcariia-glasuva-na-referendum-za-bydeshteto-na-svoia-neutralitet-2467507",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388195/991-ratio-shvejcariia.jpg"
+    },
     {
       "title": "Повечето плодове и зеленчуци поскъпват на борсите у нас тази седмица",
       "url": "https://dariknews.bg/novini/bylgariia/povecheto-plodove-i-zelenchuci-poskypvat-na-borsite-u-nas-tazi-sedmica-2467505",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51165/51165248/991-ratio-sofiia-sofiia-izgled.jpg"
     },
     {
-      "title": "„Уолстрийт джърнъл“: AI бумът може да се окаже най-мащабният инвестиционен залог в историята на САЩ",
-      "url": "https://dariknews.bg/novini/sviat/uolstrijt-dzhyrnyl-ai-bumyt-mozhe-da-se-okazhe-naj-mashtabniiat-investicionen-zalog-v-istoriiata-na-sasht-2467489",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50360/50360789/991-ratio-izkustven-intelekt.jpg"
+      "title": "Феноменът Лука Модрич: на 41 години той счупи рекорд и изуми с играта си срещу Чехия 27 Сеп | 12:40",
+      "url": "https://dsport.bg/fenomenat-luka-modrich-na-41-godini-toi-schupi-rekord-i-izumi-s-igrata-si-srestu-chehia~240841.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2284526720.og.jpg"
     },
     {
       "title": "Тухел: Трябва да намалим грешките, които допускаме 27 Сеп | 12:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2297069177.og.jpg"
-    },
-    {
-      "title": "Ламин Ямал с поредна заявка за Златната топка 27 Сеп | 10:56",
-      "url": "https://dsport.bg/lamin-amal-s-poredna-zaavka-za-zlatnata-topka~240830.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296723969.og.jpg"
     }
   ]
 }
