@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T15:33:17.695759+00:00",
+  "updated": "2026-09-27T15:44:24.709050+00:00",
   "articles": [
+    {
+      "title": "Задържаха двама дилъри при акции срещу наркоразпространението в София",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-dvama-dilyri-pri-akcii-sreshtu-narkorazprostranenieto-v-sofiia-2467523",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388287/991-ratio-marihuana.jpg"
+    },
     {
       "title": "За първи път от 30 години: Разрешиха шествие на Оранжевия орден в Северна Ирландия",
       "url": "https://dariknews.bg/novini/sviat/za-pyrvi-pyt-ot-30-godini-razreshiha-shestvie-na-oranzheviia-orden-v-severna-irlandiia-2467522",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
     },
     {
-      "title": "Десетки жертви при две масови стрелби в САЩ – близо до Йоханесбург и Кейптаун",
-      "url": "https://dariknews.bg/novini/sviat/desetki-zhertvi-pri-dve-masovi-strelbi-v-sasht-blizo-do-iohanesburg-i-kejptaun-2467501",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388167/991-ratio-sasht-strelba.jpg"
+      "title": "Григор среща испанец в първия кръг в Порто 27 Сеп | 18:37",
+      "url": "https://dsport.bg/grigor-sresta-ispanec-v-parvia-krag-v-porto~240870.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2292430918-1.og.jpg"
     },
     {
       "title": "Корнер раздели Берое и Янтра 27 Сеп | 18:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-09-27_17-06-08-898.og.png"
-    },
-    {
-      "title": "Украински национал: Треньорът ни предупреди, че ще трябва да „дъвчем ла*на“ 27 Сеп | 16:41",
-      "url": "https://dsport.bg/ukrainski-nacional-trenorat-ni-predupredi-che-ste-trabva-da-davchem-la-na~240860.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297152583.og.jpg"
     }
   ]
 }
