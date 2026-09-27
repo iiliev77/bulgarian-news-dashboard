@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T07:29:52.136330+00:00",
+  "updated": "2026-09-27T07:41:59.427699+00:00",
   "articles": [
+    {
+      "title": "Десетки жертви при две масови стрелби в САЩ – близо до Йоханесбург и Кейптаун",
+      "url": "https://dariknews.bg/novini/sviat/desetki-zhertvi-pri-dve-masovi-strelbi-v-sasht-blizo-do-iohanesburg-i-kejptaun-2467501",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388167/991-ratio-sasht-strelba.jpg"
+    },
     {
       "title": "Д-р Райна Стоянова: Не е важно да живеем до 100, а как ще се чувстваме тогава",
       "url": "https://dariknews.bg/novini/liubopitno/d-r-rajna-stoianova-ne-e-vazhno-da-zhiveem-do-100-a-kak-shte-se-chuvstvame-togava-2467471",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388085/991-ratio-ruskiiat-vynshen-ministyr-sergej-lavrov.jpg"
     },
     {
-      "title": "Черен ден по пътищата у нас: Петима загинаха при катастрофи в Ловешко",
-      "url": "https://dariknews.bg/regioni/lovech/cheren-den-po-pytishtata-u-nas-petima-zaginaha-pri-katastrofi-v-loveshko-2467491",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Карлос Алкарас с важна победа срещу Тейлър Фриц за „Лейвър Къп“ 27 Сеп | 09:58",
+      "url": "https://dsport.bg/karlos-alkaras-s-vazna-pobeda-srestu-teilar-fric-za-leivar-kap~240825.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297310364.og.jpg"
     },
     {
       "title": "Ди Мария донесе Суперкупата на Росарио със скандал, Верон изригна: Цялата е твоя, крадецо! 27 Сеп | 09:47",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/chapter1.og.png"
-    },
-    {
-      "title": "Израел погна Георги Кабаков, подаде официална жалба в УЕФА 27 Сеп | 08:14",
-      "url": "https://dsport.bg/izrael-pogna-georgi-kabakov-podade-oficialna-zalba-v-uefa~240815.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2269394450~2.og.jpg"
     }
   ]
 }
