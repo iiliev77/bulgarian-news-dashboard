@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T08:13:38.139417+00:00",
+  "updated": "2026-09-27T08:28:06.537504+00:00",
   "articles": [
+    {
+      "title": "Зрелищна катастрофа в Пловдив, кола се обърна по таван на централен булевард",
+      "url": "https://dariknews.bg/regioni/plovdiv/zrelishtna-katastrofa-v-plovdiv-kola-se-obyrna-po-tavan-na-centralen-bulevard-2467502",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
     {
       "title": "Десетки жертви при две масови стрелби в САЩ – близо до Йоханесбург и Кейптаун",
       "url": "https://dariknews.bg/novini/sviat/desetki-zhertvi-pri-dve-masovi-strelbi-v-sasht-blizo-do-iohanesburg-i-kejptaun-2467501",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51286/51286960/991-ratio-policiia-krit.jpg"
     },
     {
-      "title": "Лавров: Европа прави всичко, за да провали мирните преговори за Украйна",
-      "url": "https://dariknews.bg/novini/sviat/lavrov-evropa-pravi-vsichko-za-da-provali-mirnite-pregovori-za-ukrajna-2467492",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388085/991-ratio-ruskiiat-vynshen-ministyr-sergej-lavrov.jpg"
+      "title": "Ламин Ямал с поредна заявка за Златната топка 27 Сеп | 10:56",
+      "url": "https://dsport.bg/lamin-amal-s-poredna-zaavka-za-zlatnata-topka~240830.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296723969.og.jpg"
     },
     {
       "title": "Проблемите за Джамал Мусиала нямат край, аут за месец 27 Сеп | 10:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2291590705.og.jpg"
-    },
-    {
-      "title": "Давид де Хеа с язвителен коментар към Манчестър Сити: Колко титли съм спечелил? 27 Сеп | 09:05",
-      "url": "https://dsport.bg/david-de-hea-s-azvitelen-komentar-kam-manchestar-siti-kolko-titli-sam-spechelil~240820.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-1433376460.og.jpg"
     }
   ]
 }
