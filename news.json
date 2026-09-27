@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:28:06.537504+00:00",
+  "updated": "2026-09-27T08:41:04.380983+00:00",
   "articles": [
     {
       "title": "Зрелищна катастрофа в Пловдив, кола се обърна по таван на централен булевард",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51286/51286960/991-ratio-policiia-krit.jpg"
     },
     {
+      "title": "Анчелоти с революционен ход, копира тактиката на Флик 27 Сеп | 11:07",
+      "url": "https://dsport.bg/ancheloti-s-revolucionen-hod-kopira-taktikata-na-flik~240831.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297069177.og.jpg"
+    },
+    {
       "title": "Ламин Ямал с поредна заявка за Златната топка 27 Сеп | 10:56",
       "url": "https://dsport.bg/lamin-amal-s-poredna-zaavka-za-zlatnata-topka~240830.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295064765.og.jpg"
-    },
-    {
-      "title": "Фиаското е пълно: завръщането на Роберто Манчини в Италия се превърна в кошмар 27 Сеп | 09:14",
-      "url": "https://dsport.bg/fiaskoto-e-palno-zavrastaneto-na-roberto-manchini-v-italia-se-prevarna-v-koshmar~240821.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2291590705.og.jpg"
     }
   ]
 }
