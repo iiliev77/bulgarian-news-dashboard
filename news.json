@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:08:06.507732+00:00",
+  "updated": "2026-09-27T15:21:39.796786+00:00",
   "articles": [
     {
       "title": "За първи път от 30 години: Разрешиха шествие на Оранжевия орден в Северна Ирландия",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388167/991-ratio-sasht-strelba.jpg"
     },
     {
+      "title": "Притеснение в Ливърпул, Исак се контузи 27 Сеп | 18:17",
+      "url": "https://dsport.bg/pritesnenie-v-livarpul-isak-se-kontuzi~240867.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2293563648.og.jpg"
+    },
+    {
       "title": "Ранни голове и по точка за Литва и Азербайджан 27 Сеп | 18:06",
       "url": "https://dsport.bg/ranni-golove-i-po-tochka-za-litva-i-azerbaidzan~240868.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/808941.og.jpg"
-    },
-    {
-      "title": "Лидерът Вихрен укроти „делфините“ и се върна към победите 27 Сеп | 15:52",
-      "url": "https://dsport.bg/liderat-vihren-ukroti-delfinite-i-se-varna-kam-pobedite~240858.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/748369960_1071101408588574_1447883685085408849_n.og.jfif"
     }
   ]
 }
