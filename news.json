@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:51:44.804858+00:00",
+  "updated": "2026-09-27T07:59:18.535077+00:00",
   "articles": [
     {
       "title": "Десетки жертви при две масови стрелби в САЩ – близо до Йоханесбург и Кейптаун",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388085/991-ratio-ruskiiat-vynshen-ministyr-sergej-lavrov.jpg"
     },
     {
+      "title": "Байерн Мюнхен подготвя сериозен удар 27 Сеп | 10:33",
+      "url": "https://dsport.bg/baiern-munhen-podgotva-seriozen-udar~240828.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2084177509~1.og.jpg"
+    },
+    {
       "title": "Испания поиска домакинството на финалите на Лигата на нациите 27 Сеп | 10:20",
       "url": "https://dsport.bg/ispania-poiska-domakinstvoto-na-finalite-na-ligata-na-naciite~240827.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-1875419025.og.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо пред сделка за 500 милиона долара 27 Сеп | 08:46",
-      "url": "https://dsport.bg/kristiano-ronaldo-pred-sdelka-za-500-miliona-dolara~240818.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2276580511~1.og.jpg"
     }
   ]
 }
