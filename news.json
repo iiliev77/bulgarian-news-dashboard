@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-27T06:00:44.070164+00:00",
+  "updated": "2026-09-27T06:21:13.144902+00:00",
   "articles": [
+    {
+      "title": "Странна миризма принуди самолет на „Луфтханза“ да кацне извънредно в Манчестър",
+      "url": "https://dariknews.bg/novini/sviat/stranna-mirizma-prinudi-samolet-na-lufthanza-da-kacne-izvynredno-v-manchestyr-2467497",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51124/51124730/991-ratio-lufthanza-samolet.jpg"
+    },
+    {
+      "title": "„Ако искаш нещо от живота, пожелай го от сърце“: Кардиолог съветва да пазим емоциите си",
+      "url": "https://dariknews.bg/novini/bylgariia/ako-iskash-neshto-ot-zhivota-pozhelaj-go-ot-syrce-kardiolog-syvetva-da-pazim-emociite-si-2467496",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Сексът отвъд стереотипите: Интимност, доверие и истинска близост (ВИДЕО)",
       "url": "https://dariknews.bg/novini/liubopitno/seksyt-otvyd-stereotipite-intimnost-doverie-i-istinska-blizost-video-2467403",
@@ -128,18 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Бил Гейтс: В грешни ръце AI може да причини един милиард смъртни случая",
-      "url": "https://dariknews.bg/novini/tehnologii/bil-gejts-v-greshni-ryce-ai-mozhe-da-prichini-edin-miliard-smyrtni-sluchaia-2467483",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46730/46730430/991-ratio-bil-gejts.jpg"
+      "title": "Кристиано Роналдо пред сделка за 500 милиона долара 27 Сеп | 08:46",
+      "url": "https://dsport.bg/kristiano-ronaldo-pred-sdelka-za-500-miliona-dolara~240818.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2276580511~1.og.jpg"
     },
     {
-      "title": "От мазета, гаражи и тавани: Софиянци предадоха близо 16 тона отпадъци за часове (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/ot-mazeta-garazhi-i-tavani-sofiianci-predadoha-blizo-16-tona-otpadyci-za-chasove-snimki-2467482",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387997/991-ratio-magata-fest.jpg"
+      "title": "Ефектът Ламин Ямал, европейският футбол инвестира рекордни €1.2 милиарда в млади таланти 27 Сеп | 08:35",
+      "url": "https://dsport.bg/efektat-lamin-amal-evropeiskiat-futbol-investira-rekordni-1-2-miliarda-v-mladi-talanti~240817.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297285850.og.jpg"
     },
     {
       "title": "След червения картон на Кабаков в Израел питат: Защо жестът „стрелба“ е позволен за едни, а за други – не? 27 Сеп | 08:24",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/screenshot_7~125.og.jpg"
-    },
-    {
-      "title": "Капитанката на Атлетико Мадрид отвори OnlyFans: Искам да покажа това, което обикновено не виждате 26 Сеп | 23:07",
-      "url": "https://dsport.bg/kapitankata-na-atletiko-madrid-otvori-onlyfans-iskam-da-pokaza-tova-koeto-obiknoveno-ne-vizdate~240806.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot_6~139.og.jpg"
-    },
-    {
-      "title": "Бруно Фернандеш пропуска гостуването на Португалия в Норвегия 26 Сеп | 22:59",
-      "url": "https://dsport.bg/bruno-fernandesh-propuska-gostuvaneto-na-portugalia-v-norvegia~240805.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2282972256~1.og.jpg"
     }
   ]
 }
