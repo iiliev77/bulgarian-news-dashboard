@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T16:29:54.331311+00:00",
+  "updated": "2026-09-27T16:42:33.815674+00:00",
   "articles": [
     {
       "title": "Моторист загина при катастрофа край Лясковец",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388180/991-ratio-kyrpichki.jpg"
     },
     {
+      "title": "Отборът на Европа триумфира за Laver Cup 27 Сеп | 19:37",
+      "url": "https://dsport.bg/otborat-na-evropa-triumfira-za-laver-cup~240874.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297406773.og.jpg"
+    },
+    {
       "title": "Дембеле взима лентата от Мбапе 27 Сеп | 19:18",
       "url": "https://dsport.bg/dembele-vzima-lentata-ot-mbape~240872.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/chatgpt-image-sep-27-2026-05_48_49-pm.og.png"
-    },
-    {
-      "title": "Рой Кийн с унищожителна критика към звезда на Англия: Има твърде много лоши навици 27 Сеп | 17:39",
-      "url": "https://dsport.bg/roi-kiin-s-unistozitelna-kritika-kam-zvezda-na-anglia-ima-tvarde-mnogo-loshi-navici~240864.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296030861.og.jpg"
     }
   ]
 }
