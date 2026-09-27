@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:47:53.055077+00:00",
+  "updated": "2026-09-27T12:58:31.614096+00:00",
   "articles": [
     {
       "title": "Задържаха лидер на група за „духовни ритуали“, иззеха 30 саксии с психоактивен кактус",
@@ -65,8 +65,8 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388200/991-ratio-borisov-v-plovdiv.jpg"
     },
     {
-      "title": "Швейцария гласува на референдум за бъдещето на своя неутралитет",
-      "url": "https://dariknews.bg/novini/sviat/shvejcariia-glasuva-na-referendum-za-bydeshteto-na-svoia-neutralitet-2467507",
+      "title": "Швейцарците казаха „не“ на по-строгия неутралитет",
+      "url": "https://dariknews.bg/novini/sviat/shvejcarcite-kazaha-ne-na-po-strogiia-neutralitet-2467507",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388195/991-ratio-shvejcariia.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51124/51124730/991-ratio-lufthanza-samolet.jpg"
     },
     {
+      "title": "Лидерът Вихрен укроти „делфините“ и се върна към победите 27 Сеп | 15:52",
+      "url": "https://dsport.bg/liderat-vihren-ukroti-delfinite-i-se-varna-kam-pobedite~240858.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/748369960_1071101408588574_1447883685085408849_n.og.jfif"
+    },
+    {
       "title": "Жоао Феликс: Искам да асистирам за гол №1000 на Кристиано Роналдо 27 Сеп | 15:32",
       "url": "https://dsport.bg/zoao-feliks-iskam-da-asistiram-za-gol-1000-na-kristiano-ronaldo~240855.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2294357881.og.jpg"
-    },
-    {
-      "title": "Играч на Лудогорец дебютира рамо до рамо с Гризман, отказал на България с гол и две асистенции (ВИДЕО) 27 Сеп | 13:38",
-      "url": "https://dsport.bg/igrach-na-ludogorec-debutira-ramo-do-ramo-s-grizman-otkazal-na-balgaria-s-gol-i-dve-asistencii-video~240845.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2296795351.og.jpg"
     }
   ]
 }
