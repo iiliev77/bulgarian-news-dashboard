@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:41:59.427699+00:00",
+  "updated": "2026-09-27T07:51:44.804858+00:00",
   "articles": [
     {
       "title": "Десетки жертви при две масови стрелби в САЩ – близо до Йоханесбург и Кейптаун",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388085/991-ratio-ruskiiat-vynshen-ministyr-sergej-lavrov.jpg"
     },
     {
+      "title": "Испания поиска домакинството на финалите на Лигата на нациите 27 Сеп | 10:20",
+      "url": "https://dsport.bg/ispania-poiska-domakinstvoto-na-finalite-na-ligata-na-naciite~240827.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2295238438.og.jpg"
+    },
+    {
+      "title": "Драма в UFC: боец изнесен на носилка, а 21-годишен талант преследва рекорд 27 Сеп | 10:10",
+      "url": "https://dsport.bg/drama-v-ufc-boec-iznesen-na-nosilka-a-21-godishen-talant-presledva-rekord~240826.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297325518.og.jpg"
+    },
+    {
       "title": "Карлос Алкарас с важна победа срещу Тейлър Фриц за „Лейвър Къп“ 27 Сеп | 09:58",
       "url": "https://dsport.bg/karlos-alkaras-s-vazna-pobeda-srestu-teilar-fric-za-leivar-kap~240825.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2276580511~1.og.jpg"
-    },
-    {
-      "title": "Ефектът Ламин Ямал, европейският футбол инвестира рекордни €1.2 милиарда в млади таланти 27 Сеп | 08:35",
-      "url": "https://dsport.bg/efektat-lamin-amal-evropeiskiat-futbol-investira-rekordni-1-2-miliarda-v-mladi-talanti~240817.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297285850.og.jpg"
-    },
-    {
-      "title": "След червения картон на Кабаков в Израел питат: Защо жестът „стрелба“ е позволен за едни, а за други – не? 27 Сеп | 08:24",
-      "url": "https://dsport.bg/sled-chervenia-karton-na-kabakov-v-izrael-pitat-zasto-zestat-strelba-e-pozvolen-za-edni-a-za-drugi-ne~240816.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/chapter1.og.png"
     }
   ]
 }
