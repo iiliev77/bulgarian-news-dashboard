@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T19:57:57.612829+00:00",
+  "updated": "2026-09-27T20:10:20.235964+00:00",
   "articles": [
+    {
+      "title": "Русия порази най-големия украински мобилен оператор",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-porazi-naj-golemiia-ukrainski-mobilen-operator-2467536",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388348/991-ratio-telekomunikacionna-kula-na-ukrainskiia-mobilen-operator-kievstar.jpg"
+    },
     {
       "title": "Папа Лъв XIV разкритикува френския закон за евтаназията",
       "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-razkritikuva-frenskiia-zakon-za-evtanaziiata-2467535",
@@ -13,7 +20,7 @@
       "url": "https://dariknews.bg/novini/sviat/srybskiiat-prezident-aleksandyr-vuchich-pomilva-49-dushi-sled-koeto-podade-ostavka-2467531",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388337/991-ratio-aleksandyr-vuchich.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Фатален уикенд по пътищата у нас: Поредица от тежки катастрофи взеха жертви",
@@ -133,13 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388223/991-ratio-marica.jpg"
-    },
-    {
-      "title": "Без пробив: Първа среща на високо равнище между Германия и Русия относно Украйна",
-      "url": "https://dariknews.bg/novini/sviat/bez-probiv-pyrva-sreshta-na-visoko-ravnishte-mezhdu-germaniia-i-rusiia-otnosno-ukrajna-2467512",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388221/991-ratio-sergej-lavrov.jpg"
     },
     {
       "title": "Везенков бе избран за MVP на турнира за Суперкупата на Гърция 27 Сеп | 22:55",
