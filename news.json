@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:23:15.693305+00:00",
+  "updated": "2026-09-27T20:34:25.893414+00:00",
   "articles": [
     {
       "title": "Русия порази най-големия украински мобилен оператор",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388223/991-ratio-marica.jpg"
     },
     {
+      "title": "Манчини: Нямаме поколение като това на Тоти, Дел Пиеро и други велики шампиони от миналото 27 Сеп | 23:26",
+      "url": "https://dsport.bg/manchini-namame-pokolenie-kato-tova-na-toti-del-piero-i-drugi-veliki-shampioni-ot-minaloto~240889.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1973411355~1.og.jpg"
+    },
+    {
       "title": "Александър Николов: Ще се върнем много по-силни! 27 Сеп | 23:12",
       "url": "https://dsport.bg/aleksandar-nikolov-ste-se-varnem-mnogo-po-silni~240888.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296874399.og.jpg"
-    },
-    {
-      "title": "Дания не пожали Уелс 27 Сеп | 20:53",
-      "url": "https://dsport.bg/dania-ne-pozali-uels~240879.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297412852.og.jpg"
     }
   ]
 }
