@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T19:50:30.874301+00:00",
+  "updated": "2026-09-27T19:57:57.612829+00:00",
   "articles": [
+    {
+      "title": "Папа Лъв XIV разкритикува френския закон за евтаназията",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-razkritikuva-frenskiia-zakon-za-evtanaziiata-2467535",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388346/991-ratio-papa-lyv-xiv.jpg"
+    },
     {
       "title": "Сръбският президент Александър Вучич помилва 49 души, след което подаде оставка",
       "url": "https://dariknews.bg/novini/sviat/srybskiiat-prezident-aleksandyr-vuchich-pomilva-49-dushi-sled-koeto-podade-ostavka-2467531",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388221/991-ratio-sergej-lavrov.jpg"
     },
     {
-      "title": "Проливни дъждове и силни ветрове връхлетяха североизточната част на САЩ",
-      "url": "https://dariknews.bg/novini/sviat/prolivni-dyzhdove-i-silni-vetrove-vryhletiaha-severoiztochnata-chast-na-sasht-2467511",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388213/991-ratio-sasht-buria.jpg"
+      "title": "Везенков бе избран за MVP на турнира за Суперкупата на Гърция 27 Сеп | 22:55",
+      "url": "https://dsport.bg/vezenkov-be-izbran-za-mvp-na-turnira-za-superkupata-na-garcia~240887.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-27-225553.og.png"
     },
     {
       "title": "Васьор отправи обвинения към Хорнер 27 Сеп | 22:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-09-27-203925.og.png"
-    },
-    {
-      "title": "Семейството на Освалдо разкри какво е състоянието му след спешната операция 27 Сеп | 20:18",
-      "url": "https://dsport.bg/semeistvoto-na-osvaldo-razkri-kakvo-e-sastoanieto-mu-sled-speshnata-operacia~240876.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-459658572.og.jpg"
     }
   ]
 }
