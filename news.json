@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-27T11:40:43.506533+00:00",
+  "updated": "2026-09-27T11:50:16.097339+00:00",
   "articles": [
+    {
+      "title": "18 км опашка от камиони по магистрала „Марица“ към „Капитан Андреево“",
+      "url": "https://dariknews.bg/regioni/haskovo/18-km-opashka-ot-kamioni-po-magistrala-marica-kym-kapitan-andreevo-2467513",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388223/991-ratio-marica.jpg"
+    },
+    {
+      "title": "Без пробив: Първа среща на високо равнище между Германия и Русия относно Украйна",
+      "url": "https://dariknews.bg/novini/sviat/bez-probiv-pyrva-sreshta-na-visoko-ravnishte-mezhdu-germaniia-i-rusiia-otnosno-ukrajna-2467512",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388221/991-ratio-sergej-lavrov.jpg"
+    },
     {
       "title": "Проливни дъждове и силни ветрове връхлетяха североизточната част на САЩ",
       "url": "https://dariknews.bg/novini/sviat/prolivni-dyzhdove-i-silni-vetrove-vryhletiaha-severoiztochnata-chast-na-sasht-2467511",
@@ -128,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388115/991-ratio-kongo.jpg"
     },
     {
-      "title": "Климатът на България се променя: Хиляди жертви и над 1 млрд. евро загуби",
-      "url": "https://dariknews.bg/novini/bylgariia/klimatyt-na-bylgariia-se-promenia-hiliadi-zhertvi-i-nad-1-mlrd.-evro-zagubi-2467269",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43985/43985293/991-ratio-susha.jpg"
-    },
-    {
-      "title": "Над 20 млн. туристи са посетили Гърция от началото на годината",
-      "url": "https://dariknews.bg/novini/sviat/nad-20-mln.-turisti-sa-posetili-gyrciia-ot-nachaloto-na-godinata-2467334",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387123/991-ratio-santorini.jpg"
-    },
-    {
       "title": "Куриозно: Ирландия картотекира защитник като вратар за мача с Израел 27 Сеп | 14:39",
       "url": "https://dsport.bg/kuriozno-irlandia-kartotekira-zastitnik-kato-vratar-za-macha-s-izrael~240851.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2246102760.og.jpg"
+    },
+    {
+      "title": "Една от най-шумните звезди във футбола обяви кой е най-великият във френския рап 27 Сеп | 14:37",
+      "url": "https://dsport.bg/edna-ot-nai-shumnite-zvezdi-vav-futbola-obavi-koi-e-nai-velikiat-vav-frenskia-rap~240852.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2294556566.og.jpg"
     },
     {
       "title": "В Реал Мадрид недоволни от Франция за контузията на Мбапе 27 Сеп | 14:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2297294991.og.jpg"
-    },
-    {
-      "title": "Феноменът Лука Модрич: на 41 години той счупи рекорд и изуми с играта си срещу Чехия 27 Сеп | 12:40",
-      "url": "https://dsport.bg/fenomenat-luka-modrich-na-41-godini-toi-schupi-rekord-i-izumi-s-igrata-si-srestu-chehia~240841.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2284526720.og.jpg"
     }
   ]
 }
