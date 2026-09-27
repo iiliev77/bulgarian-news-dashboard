@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T18:36:44.863189+00:00",
+  "updated": "2026-09-27T18:49:18.808124+00:00",
   "articles": [
+    {
+      "title": "Вучич помилва 49 души, след което подаде оставка",
+      "url": "https://dariknews.bg/novini/sviat/vuchich-pomilva-49-dushi-sled-koeto-podade-ostavka-2467531",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50610/50610926/991-ratio-aleksandyr-vuchich.jpg"
+    },
     {
       "title": "Фатален уикенд по пътищата у нас: Поредица от тежки катастрофи взеха жертви",
       "url": "https://dariknews.bg/novini/bylgariia/fatalen-uikend-po-pytishtata-u-nas-poredica-ot-tezhki-katastrofi-vzeha-zhertvi-2467530",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388213/991-ratio-sasht-buria.jpg"
     },
     {
-      "title": "Ивайло Мирчев: Защо „Лукойл Нефтохим” не е в групата за облагане за свръхпечалба",
-      "url": "https://dariknews.bg/novini/bylgariia/ivajlo-mirchev-zashto-lukojl-neftohim-ne-e-v-grupata-za-oblagane-za-svryhpechalba-2467510",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
+      "title": "Зидан: Ние сме голям отбор и обичаме големите мачове 27 Сеп | 21:37",
+      "url": "https://dsport.bg/zidan-nie-sme-golam-otbor-i-obichame-golemite-machove~240882.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297123194.og.jpg"
     },
     {
       "title": "Фратрия с класика срещу Спартак Плевен, Добруджа прекъсна негативната серия 27 Сеп | 21:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2284077423.og.jpg"
-    },
-    {
-      "title": "ЦСКА 1948 врътна хикс със сърби в Банско 27 Сеп | 19:06",
-      "url": "https://dsport.bg/cska-1948-vratna-hiks-sas-sarbi-v-bansko~240873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/827785582_1980924125860350_4245651413745023359_n.og.jpg"
     }
   ]
 }
