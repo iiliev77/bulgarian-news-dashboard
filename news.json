@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-27T18:03:57.220099+00:00",
+  "updated": "2026-09-27T18:21:57.199628+00:00",
   "articles": [
+    {
+      "title": "Фатален уикенд по пътищата у нас: Поредица от тежки катастрофи взеха жертви",
+      "url": "https://dariknews.bg/novini/bylgariia/fatalen-uikend-po-pytishtata-u-nas-poredica-ot-tezhki-katastrofi-vzeha-zhertvi-2467530",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388325/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Тежка катастрофа затвори Айтоския проход, загина жена",
+      "url": "https://dariknews.bg/regioni/burgas/tezhka-katastrofa-zatvori-ajtoskiia-prohod-zagina-zhena-2467529",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
     {
       "title": "Стефан Попов – Чефо и любимата му Ванеса очакват бебе (СНИМКИ)",
       "url": "https://dariknews.bg/novini/liubopitno/stefan-popov-chefo-i-liubimata-mu-vanesa-ochakvat-bebe-snimki-2467528",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
     },
     {
-      "title": "Държавният глава: Българската позиция беше ясно изразена в моята реч пред 189 държави",
-      "url": "https://dariknews.bg/regioni/yambol/dyrzhavniiat-glava-bylgarskata-poziciia-beshe-iasno-izrazena-v-moiata-rech-pred-189-dyrzhavi-2467509",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388202/991-ratio-iliiana-iotova.jpg"
+      "title": "Фратрия с класика срещу Спартак Плевен, Добруджа прекъсна негативната серия 27 Сеп | 21:20",
+      "url": "https://dsport.bg/fratria-s-klasika-srestu-spartak-pleven-dobrudza-prekasna-negativnata-seria~240881.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-27-211819.og.png"
     },
     {
-      "title": "Борисов: Съвсем се объркахме, като излязоха титаните на мисълта Антон Кутев и Владо Николов",
-      "url": "https://dariknews.bg/regioni/plovdiv/borisov-syvsem-se-obyrkahme-kato-izliazoha-titanite-na-misylta-anton-kutev-i-vlado-nikolov-2467508",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388200/991-ratio-borisov-v-plovdiv.jpg"
+      "title": "Австрия с втори успех в Лигата на нациите 27 Сеп | 21:09",
+      "url": "https://dsport.bg/avstria-s-vtori-uspeh-v-ligata-na-naciite~240880.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296976672.og.jpg"
     },
     {
       "title": "Неочакван герой измъкна Нидерландия в Сърбия 27 Сеп | 20:58",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/827785582_1980924125860350_4245651413745023359_n.og.jpg"
-    },
-    {
-      "title": "Йомов титуляр при успех на ЦСКА II, „акулите“ захапаха и затъналия Монтана 27 Сеп | 18:53",
-      "url": "https://dsport.bg/iomov-titular-pri-uspeh-na-cska-ii-akulite-zahapaha-i-zatanalia-montana~240871.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033058.og.jpg"
-    },
-    {
-      "title": "Григор среща испанец в първия кръг в Порто 27 Сеп | 18:37",
-      "url": "https://dsport.bg/grigor-sresta-ispanec-v-parvia-krag-v-porto~240870.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2292430918-1.og.jpg"
     }
   ]
 }
