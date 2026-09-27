@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-27T17:00:41.282211+00:00",
+  "updated": "2026-09-27T17:14:22.978985+00:00",
   "articles": [
     {
-      "title": "Арестуваха петима край база на САЩ във Великобритания за подготовка на терористичен акт",
-      "url": "https://dariknews.bg/novini/sviat/arestuvaha-petima-kraj-baza-na-sasht-vyv-velikobritaniia-za-podgotovka-na-teroristichen-akt-2467526",
+      "title": "Арестуваха петима край база на САЩ във Великобритания за подготовка на терористичен акт (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/arestuvaha-petima-kraj-baza-na-sasht-vyv-velikobritaniia-za-podgotovka-na-teroristichen-akt-video-2467526",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388307/991-ratio-britanska-sluzhitelka-na-reda-patrulira-pred-bykingamskiia-dvorec.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51348/51348754/991-ratio-plodove-zelenchuci.jpg"
     },
     {
+      "title": "Йомов за завръщането на терена, подкрепата на Валентин Илиев и промените в ЦСКА (ВИДЕО) 27 Сеп | 19:59",
+      "url": "https://dsport.bg/iomov-za-zavrastaneto-na-terena-podkrepata-na-valentin-iliev-i-promenite-v-cska-video~240875.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033056~1.og.jpg"
+    },
+    {
       "title": "Отборът на Европа триумфира за Laver Cup 27 Сеп | 19:37",
       "url": "https://dsport.bg/otborat-na-evropa-triumfira-za-laver-cup~240874.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297382455.og.jpg"
-    },
-    {
-      "title": "Три гола, две греди, изпусната дузпа и победа при завръщането на Йовичевич в Лудогорец (ВИДЕО) 27 Сеп | 17:48",
-      "url": "https://dsport.bg/tri-gola-dve-gredi-izpusnata-duzpa-i-pobeda-pri-zavrastaneto-na-iovichevich-v-ludogorec-video~240866.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/chatgpt-image-sep-27-2026-05_48_49-pm.og.png"
     }
   ]
 }
