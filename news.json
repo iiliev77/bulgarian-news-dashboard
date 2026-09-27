@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T17:14:22.978985+00:00",
+  "updated": "2026-09-27T17:26:07.517426+00:00",
   "articles": [
+    {
+      "title": "Асен Василев: Изказването на Илияна Йотова в ООН беше абсолютна грешка (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-izkazvaneto-na-iliiana-iotova-v-oon-beshe-absoliutna-greshka-video-2467527",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Арестуваха петима край база на САЩ във Великобритания за подготовка на терористичен акт (ВИДЕО)",
       "url": "https://dariknews.bg/novini/sviat/arestuvaha-petima-kraj-baza-na-sasht-vyv-velikobritaniia-za-podgotovka-na-teroristichen-akt-video-2467526",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388195/991-ratio-shvejcariia.jpg"
     },
     {
-      "title": "Повечето плодове и зеленчуци поскъпват на борсите у нас тази седмица",
-      "url": "https://dariknews.bg/novini/bylgariia/povecheto-plodove-i-zelenchuci-poskypvat-na-borsite-u-nas-tazi-sedmica-2467505",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51348/51348754/991-ratio-plodove-zelenchuci.jpg"
+      "title": "Семейството на Освалдо разкри какво е състоянието му след спешната операция 27 Сеп | 20:18",
+      "url": "https://dsport.bg/semeistvoto-na-osvaldo-razkri-kakvo-e-sastoanieto-mu-sled-speshnata-operacia~240876.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-459658572.og.jpg"
     },
     {
       "title": "Йомов за завръщането на терена, подкрепата на Валентин Илиев и промените в ЦСКА (ВИДЕО) 27 Сеп | 19:59",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/827510493_2309609706537946_5554684177173095234_n.og.jpg"
-    },
-    {
-      "title": "Чехия спечели Били Джийн Кинг Къп 27 Сеп | 17:57",
-      "url": "https://dsport.bg/chehia-specheli-bili-dziin-king-kap~240865.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297382455.og.jpg"
     }
   ]
 }
