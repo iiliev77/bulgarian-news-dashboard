@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T07:16:56.548669+00:00",
+  "updated": "2026-09-27T07:29:52.136330+00:00",
   "articles": [
+    {
+      "title": "Д-р Райна Стоянова: Не е важно да живеем до 100, а как ще се чувстваме тогава",
+      "url": "https://dariknews.bg/novini/liubopitno/d-r-rajna-stoianova-ne-e-vazhno-da-zhiveem-do-100-a-kak-shte-se-chuvstvame-togava-2467471",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Контрабандни цигари в тавана на микробус откриха на МП „Малко Търново“",
       "url": "https://dariknews.bg/regioni/burgas/kontrabandni-cigari-v-tavana-na-mikrobus-otkriha-na-mp-malko-tyrnovo-2467500",
@@ -135,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Варненци усетиха земетресение с магнитуд 7,8 чрез симулатор (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/varna/varnenci-usetiha-zemetresenie-s-magnitud-78-chrez-simulator-videosnimki-2467488",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Ди Мария донесе Суперкупата на Росарио със скандал, Верон изригна: Цялата е твоя, крадецо! 27 Сеп | 09:47",
+      "url": "https://dsport.bg/di-maria-donese-superkupata-na-rosario-sas-skandal-veron-izrigna-calata-e-tvoa-kradeco~240824.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2294711277.og.jpg"
+    },
+    {
+      "title": "Мауро Икарди със забрана да шофира за 73 години, новото му гадже го забърка в огромна каша 27 Сеп | 09:37",
+      "url": "https://dsport.bg/mauro-ikardi-sas-zabrana-da-shofira-za-73-godini-novoto-mu-gadze-go-zabarka-v-ogromna-kasha~240823.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/screenshot-2026-07-07-101823~1.og.png"
     },
     {
       "title": "Четирима на дузпата: кой ще е първият уволнен мениджър във Висшата лига? 27 Сеп | 09:26",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2269394450~2.og.jpg"
-    },
-    {
-      "title": "Манчестър Юнайтед с масови съкращения и дълг от над 1.1 милиард паунда 27 Сеп | 08:02",
-      "url": "https://dsport.bg/manchestar-unaited-s-masovi-sakrastenia-i-dalg-ot-nad-1-1-miliard-paunda~240814.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2215460980~2.og.jpg"
-    },
-    {
-      "title": "Франция опита, но Полша защити европейската си титла по волейбол 27 Сеп | 00:04",
-      "url": "https://dsport.bg/francia-opita-no-polsha-zastiti-evropeiskata-si-titla-po-voleibol~240813.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot_10~64.og.jpg"
     }
   ]
 }
