@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T17:37:07.065547+00:00",
+  "updated": "2026-09-27T17:46:30.689783+00:00",
   "articles": [
+    {
+      "title": "Стефан Попов – Чефо и любимата му Венеса очакват бебе (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/stefan-popov-chefo-i-liubimata-mu-venesa-ochakvat-bebe-snimki-2467528",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388313/991-ratio-stefan-popov-chefo-i-liubimata-mu-venesa.jpg"
+    },
     {
       "title": "Асен Василев: Изказването на Илияна Йотова в ООН беше абсолютна грешка (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-izkazvaneto-na-iliiana-iotova-v-oon-beshe-absoliutna-greshka-video-2467527",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388200/991-ratio-borisov-v-plovdiv.jpg"
     },
     {
-      "title": "Швейцарците казаха „не“ на по-строгия неутралитет",
-      "url": "https://dariknews.bg/novini/sviat/shvejcarcite-kazaha-ne-na-po-strogiia-neutralitet-2467507",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388195/991-ratio-shvejcariia.jpg"
+      "title": "Локомотив Пловдив спечели турнира Черноморски игри 27 Сеп | 20:39",
+      "url": "https://dsport.bg/lokomotiv-plovdiv-specheli-turnira-chernomorski-igri~240877.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-27-203925.og.png"
     },
     {
       "title": "Семейството на Освалдо разкри какво е състоянието му след спешната операция 27 Сеп | 20:18",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2293563648.og.jpg"
-    },
-    {
-      "title": "Ранни голове и по точка за Литва и Азербайджан 27 Сеп | 18:06",
-      "url": "https://dsport.bg/ranni-golove-i-po-tochka-za-litva-i-azerbaidzan~240868.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/827510493_2309609706537946_5554684177173095234_n.og.jpg"
     }
   ]
 }
