@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T15:21:39.796786+00:00",
+  "updated": "2026-09-27T15:33:17.695759+00:00",
   "articles": [
     {
       "title": "За първи път от 30 години: Разрешиха шествие на Оранжевия орден в Северна Ирландия",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388167/991-ratio-sasht-strelba.jpg"
     },
     {
+      "title": "Корнер раздели Берое и Янтра 27 Сеп | 18:23",
+      "url": "https://dsport.bg/korner-razdeli-beroe-i-antra~240869.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033052.og.jpg"
+    },
+    {
       "title": "Притеснение в Ливърпул, Исак се контузи 27 Сеп | 18:17",
       "url": "https://dsport.bg/pritesnenie-v-livarpul-isak-se-kontuzi~240867.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297152583.og.jpg"
-    },
-    {
-      "title": "Повериха България - Естония на грузинец, свирил на Лудогорец 27 Сеп | 16:16",
-      "url": "https://dsport.bg/poveriha-balgaria-estonia-na-gruzinec-sviril-na-ludogorec~240859.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/808941.og.jpg"
     }
   ]
 }
