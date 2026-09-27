@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-27T18:58:32.965472+00:00",
+  "updated": "2026-09-27T19:10:00.155097+00:00",
   "articles": [
     {
       "title": "Сръбският президент Александър Вучич помилва 49 души, след което подаде оставка",
       "url": "https://dariknews.bg/novini/sviat/srybskiiat-prezident-aleksandyr-vuchich-pomilva-49-dushi-sled-koeto-podade-ostavka-2467531",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388331/991-ratio-aleksandyr-vuchich.jpg"
+      "image": "https://m.netinfo.bg/media/images/51388/51388337/991-ratio-aleksandyr-vuchich.jpg"
     },
     {
       "title": "Фатален уикенд по пътищата у нас: Поредица от тежки катастрофи взеха жертви",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388213/991-ratio-sasht-buria.jpg"
     },
     {
+      "title": "Везенков изведе Олимпиакос до Суперкупата на Гърция 27 Сеп | 22:02",
+      "url": "https://dsport.bg/vezenkov-izvede-olimpiakos-do-superkupata-na-garcia~240883.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/825268121_1094640649808520_5390893075697627263_n.og.jfif"
+    },
+    {
       "title": "Зидан: Ние сме голям отбор и обичаме големите мачове 27 Сеп | 21:37",
       "url": "https://dsport.bg/zidan-nie-sme-golam-otbor-i-obichame-golemite-machove~240882.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297406773.og.jpg"
-    },
-    {
-      "title": "Дембеле взима лентата от Мбапе 27 Сеп | 19:18",
-      "url": "https://dsport.bg/dembele-vzima-lentata-ot-mbape~240872.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2284077423.og.jpg"
     }
   ]
 }
