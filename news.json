@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-27T08:59:11.530705+00:00",
+  "updated": "2026-09-27T09:12:37.554540+00:00",
   "articles": [
+    {
+      "title": "Повечето плодове и зеленчуци поскъпват на борсите у нас тази седмица",
+      "url": "https://dariknews.bg/novini/bylgariia/povecheto-plodove-i-zelenchuci-poskypvat-na-borsite-u-nas-tazi-sedmica-2467505",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51348/51348754/991-ratio-plodove-zelenchuci.jpg"
+    },
+    {
+      "title": "Мъж плати 230 евро за маратонки от TikTok, получи кърпички",
+      "url": "https://dariknews.bg/regioni/razgrad/myzh-plati-230-evro-za-maratonki-ot-tiktok-poluchikyrpichki-2467504",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388180/991-ratio-kyrpichki.jpg"
+    },
     {
       "title": "Шофьор на камион почина след катастрофа в Кубрат",
       "url": "https://dariknews.bg/regioni/razgrad/shofior-na-kamion-pochina-sled-katastrofa-v-kubrat-2467503",
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50360/50360789/991-ratio-izkustven-intelekt.jpg"
     },
     {
-      "title": "Времето в неделя: Облаци, дъжд и силно морско вълнение",
-      "url": "https://dariknews.bg/novini/bylgariia/vremeto-v-nedelia-oblaci-dyzhd-i-silno-morsko-vylnenie-2467484",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35288/35288430/991-ratio-okean-vylni-more.jpg"
+      "title": "Германия кандидатства с Мюнхен за домакинство на Олимпийските игри през 2036, 2040 или 2046 година 27 Сеп | 11:56",
+      "url": "https://dsport.bg/germania-kandidatstva-s-munhen-za-domakinstvo-na-olimpiiskite-igri-prez-2036-2040-ili-2046-godina~240836.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-585263224-1-2-1.og.jpg"
     },
     {
-      "title": "Въвеждат нова такса за пратки, поръчани онлайн от страни извън ЕС",
-      "url": "https://dariknews.bg/novini/sviat/vyvezhdat-nova-taksa-za-pratki-porychani-onlajn-ot-strani-izvyn-es-2467490",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51223/51223147/991-ratio-pratka-kurier.jpg"
+      "title": "Защитата на Англия – големият проблем за Томас Тухел 27 Сеп | 11:45",
+      "url": "https://dsport.bg/zastitata-na-anglia-golemiat-problem-za-tomas-tuhel~240835.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297295878.og.jpg"
+    },
+    {
+      "title": "Яник Синер от модното ревю направо в болница, възможна е и операция 27 Сеп | 11:36",
+      "url": "https://dsport.bg/anik-siner-ot-modnoto-revu-napravo-v-bolnica-vazmozna-e-i-operacia~240834.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2297129971.og.jpg"
     },
     {
       "title": "ПСЖ пред съдбоносен избор 27 Сеп | 11:25",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2295238438.og.jpg"
-    },
-    {
-      "title": "Драма в UFC: боец изнесен на носилка, а 21-годишен талант преследва рекорд 27 Сеп | 10:10",
-      "url": "https://dsport.bg/drama-v-ufc-boec-iznesen-na-nosilka-a-21-godishen-talant-presledva-rekord~240826.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297325518.og.jpg"
-    },
-    {
-      "title": "Карлос Алкарас с важна победа срещу Тейлър Фриц за „Лейвър Къп“ 27 Сеп | 09:58",
-      "url": "https://dsport.bg/karlos-alkaras-s-vazna-pobeda-srestu-teilar-fric-za-leivar-kap~240825.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297310364.og.jpg"
-    },
-    {
-      "title": "Ди Мария донесе Суперкупата на Росарио със скандал, Верон изригна: Цялата е твоя, крадецо! 27 Сеп | 09:47",
-      "url": "https://dsport.bg/di-maria-donese-superkupata-na-rosario-sas-skandal-veron-izrigna-calata-e-tvoa-kradeco~240824.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2294711277.og.jpg"
     }
   ]
 }
