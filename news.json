@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T11:50:16.097339+00:00",
+  "updated": "2026-09-27T11:57:45.987680+00:00",
   "articles": [
+    {
+      "title": "Мъж загина при катастрофа на пътя за Садово",
+      "url": "https://dariknews.bg/regioni/plovdiv/myzh-zagina-pri-katastrofa-na-pytia-za-sadovo-2467514",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388224/991-ratio-katastrofa-sadovo.jpg"
+    },
     {
       "title": "18 км опашка от камиони по магистрала „Марица“ към „Капитан Андреево“",
       "url": "https://dariknews.bg/regioni/haskovo/18-km-opashka-ot-kamioni-po-magistrala-marica-kym-kapitan-andreevo-2467513",
@@ -30,15 +37,15 @@
       "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
     },
     {
-      "title": "Държавният глава: Българската позиция е час по-скоро преговори за мир в Украйна",
-      "url": "https://dariknews.bg/regioni/yambol/dyrzhavniiat-glava-bylgarskata-poziciia-e-chas-po-skoro-pregovori-za-mir-v-ukrajna-2467509",
+      "title": "Държавният глава: Българската позиция беше ясно изразена в моята реч пред 189 държави",
+      "url": "https://dariknews.bg/regioni/yambol/dyrzhavniiat-glava-bylgarskata-poziciia-beshe-iasno-izrazena-v-moiata-rech-pred-189-dyrzhavi-2467509",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388202/991-ratio-iliiana-iotova.jpg"
     },
     {
-      "title": "И Борисов с критика към президента заради декларацията в подкрепа на Украйна",
-      "url": "https://dariknews.bg/regioni/plovdiv/i-borisov-s-kritika-kym-prezidenta-zaradi-deklaraciiata-v-podkrepa-na-ukrajna-2467508",
+      "title": "Борисов: Съвсем се объркахме, като излязоха титаните на мисълта Антон Кутев и Владо Николов",
+      "url": "https://dariknews.bg/regioni/plovdiv/borisov-syvsem-se-obyrkahme-kato-izliazoha-titanite-na-misylta-anton-kutev-i-vlado-nikolov-2467508",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388200/991-ratio-borisov-v-plovdiv.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387305/991-ratio-doktor-zdrave-s-mariia.jpg"
     },
     {
-      "title": "17 души, сред които ключови военни магистрати, загинаха в самолетна катастрофа в Конго",
-      "url": "https://dariknews.bg/novini/sviat/17-dushi-sred-koito-kliuchovi-voenni-magistrati-zaginaha-v-samoletna-katastrofa-v-kongo-2467494",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388115/991-ratio-kongo.jpg"
+      "title": "Барселона готви раздяла с петима ключови играчи 27 Сеп | 14:49",
+      "url": "https://dsport.bg/barselona-gotvi-razdala-s-petima-kluchovi-igrachi~240853.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2148880187-1-1~1.og.jpg"
     },
     {
       "title": "Куриозно: Ирландия картотекира защитник като вратар за мача с Израел 27 Сеп | 14:39",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/viber_image_2026-09-27_13-14-20-970.og.png"
-    },
-    {
-      "title": "Алекс Баена не се отказва от мечтата си, изпрати ясно послание към Барселона 27 Сеп | 12:55",
-      "url": "https://dsport.bg/aleks-baena-ne-se-otkazva-ot-mechtata-si-izprati-asno-poslanie-kam-barselona~240842.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297294991.og.jpg"
     }
   ]
 }
