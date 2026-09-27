@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T15:53:11.857227+00:00",
+  "updated": "2026-09-27T16:00:41.375111+00:00",
   "articles": [
+    {
+      "title": "Вълчев: Приоритет е да продължим да строим и разширяваме детски градини и училища",
+      "url": "https://dariknews.bg/novini/bylgariia/vylchev-prioritet-e-da-prodylzhim-da-stroim-i-razshiriavame-detski-gradini-i-uchilishta-2467524",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388293/991-ratio-georgi-vylchev.jpg"
+    },
     {
       "title": "Задържаха двама дилъри при акции срещу наркоразпространението в София",
       "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-dvama-dilyri-pri-akcii-sreshtu-narkorazprostranenieto-v-sofiia-2467523",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51280/51280718/991-ratio-linejka.jpg"
     },
     {
-      "title": "Зрелищна катастрофа в Пловдив, кола се обърна по таван на централен булевард",
-      "url": "https://dariknews.bg/regioni/plovdiv/zrelishtna-katastrofa-v-plovdiv-kola-se-obyrna-po-tavan-na-centralen-bulevard-2467502",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+      "title": "Йомов титуляр при успех на ЦСКА II, „акулите“ захапаха и затъналия Монтана 27 Сеп | 18:53",
+      "url": "https://dsport.bg/iomov-titular-pri-uspeh-na-cska-ii-akulite-zahapaha-i-zatanalia-montana~240871.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033058.og.jpg"
     },
     {
       "title": "Григор среща испанец в първия кръг в Порто 27 Сеп | 18:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297010635~1.og.jpg"
-    },
-    {
-      "title": "Футболистът с расти до глезените „изгони“ двама съперници, но падна с 0:5 (ВИДЕО) 27 Сеп | 16:58",
-      "url": "https://dsport.bg/futbolistat-s-rasti-do-glezenite-izgoni-dvama-sapernici-no-padna-s-0-5-video~240861.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2026-09-27_17-06-08-898.og.png"
     }
   ]
 }
