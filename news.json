@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-27T13:11:05.372634+00:00",
+  "updated": "2026-09-27T13:24:02.912630+00:00",
   "articles": [
     {
-      "title": "Ердоган: Мястото на военнопрестъпниците е в съда, а не в ООН",
-      "url": "https://dariknews.bg/novini/sviat/erdogan-miastoto-na-voennoprestypnicite-e-v-syda-a-ne-v-oon-2467517",
+      "title": "Ердоган: Мястото на Нетаняху е в съдебната зала, а не на трибуната на ООН",
+      "url": "https://dariknews.bg/novini/sviat/erdogan-miastoto-na-netaniahu-e-v-sydebnata-zala-a-ne-na-tribunata-na-oon-2467517",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50996/50996112/991-ratio-erdogan.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388144/991-ratio-madrid.jpg"
     },
     {
+      "title": "Повериха България - Естония на грузинец, свирил на Лудогорец 27 Сеп | 16:16",
+      "url": "https://dsport.bg/poveriha-balgaria-estonia-na-gruzinec-sviril-na-ludogorec~240859.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/808941.og.jpg"
+    },
+    {
       "title": "Лидерът Вихрен укроти „делфините“ и се върна към победите 27 Сеп | 15:52",
       "url": "https://dsport.bg/liderat-vihren-ukroti-delfinite-i-se-varna-kam-pobedite~240858.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296681827.og.jpg"
-    },
-    {
-      "title": "Барселона наостри уши заради напрежението между Естевао и Чаби Алонсо 27 Сеп | 13:45",
-      "url": "https://dsport.bg/barselona-naostri-ushi-zaradi-naprezenieto-mezdu-estevao-i-chabi-alonso~240846.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2294357881.og.jpg"
     }
   ]
 }
