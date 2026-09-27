@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:10:20.235964+00:00",
+  "updated": "2026-09-27T20:23:15.693305+00:00",
   "articles": [
     {
       "title": "Русия порази най-големия украински мобилен оператор",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388223/991-ratio-marica.jpg"
     },
     {
+      "title": "Александър Николов: Ще се върнем много по-силни! 27 Сеп | 23:12",
+      "url": "https://dsport.bg/aleksandar-nikolov-ste-se-varnem-mnogo-po-silni~240888.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1027402.og.jpg"
+    },
+    {
       "title": "Везенков бе избран за MVP на турнира за Суперкупата на Гърция 27 Сеп | 22:55",
       "url": "https://dsport.bg/vezenkov-be-izbran-za-mvp-na-turnira-za-superkupata-na-garcia~240887.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297412852.og.jpg"
-    },
-    {
-      "title": "Локомотив Пловдив спечели турнира Черноморски игри 27 Сеп | 20:39",
-      "url": "https://dsport.bg/lokomotiv-plovdiv-specheli-turnira-chernomorski-igri~240877.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-27-203925.og.png"
     }
   ]
 }
