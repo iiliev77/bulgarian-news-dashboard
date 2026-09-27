@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:54:41.259858+00:00",
+  "updated": "2026-09-27T21:03:16.643724+00:00",
   "articles": [
     {
       "title": "Русия порази най-големия украински мобилен оператор",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388223/991-ratio-marica.jpg"
     },
     {
+      "title": "Кристиано не игра, но Холанд не стигна на Норвегия срещу Португалия 27 Сеп | 23:59",
+      "url": "https://dsport.bg/kristiano-ne-igra-no-holand-ne-stigna-na-norvegia-srestu-portugalia~240892.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297435842.og.jpg"
+    },
+    {
       "title": "Гърция шокира Германия, Клоп остава без успех начело на Бундестима 27 Сеп | 23:42",
       "url": "https://dsport.bg/garcia-shokira-germania-klop-ostava-bez-uspeh-nachelo-na-bundestima~240891.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297123194.og.jpg"
-    },
-    {
-      "title": "Фратрия с класика срещу Спартак Плевен, Добруджа прекъсна негативната серия 27 Сеп | 21:20",
-      "url": "https://dsport.bg/fratria-s-klasika-srestu-spartak-pleven-dobrudza-prekasna-negativnata-seria~240881.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-27-211819.og.png"
     }
   ]
 }
