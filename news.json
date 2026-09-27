@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:31:50.681288+00:00",
+  "updated": "2026-09-27T19:42:30.734797+00:00",
   "articles": [
     {
       "title": "Сръбският президент Александър Вучич помилва 49 души, след което подаде оставка",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388213/991-ratio-sasht-buria.jpg"
     },
     {
+      "title": "Васьор отправи обвинения към Хорнер 27 Сеп | 22:40",
+      "url": "https://dsport.bg/vasor-otpravi-obvinenia-kam-horner~240886.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294469520.og.jpg"
+    },
+    {
       "title": "Тоти отпразнува 50-годишния си юбилей в Лас Вегас 27 Сеп | 22:20",
       "url": "https://dsport.bg/toti-otpraznuva-50-godishnia-si-ubilei-v-las-vegas~240885.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-459658572.og.jpg"
-    },
-    {
-      "title": "Йомов за завръщането на терена, подкрепата на Валентин Илиев и промените в ЦСКА (ВИДЕО) 27 Сеп | 19:59",
-      "url": "https://dsport.bg/iomov-za-zavrastaneto-na-terena-podkrepata-na-valentin-iliev-i-promenite-v-cska-video~240875.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033056~1.og.jpg"
     }
   ]
 }
