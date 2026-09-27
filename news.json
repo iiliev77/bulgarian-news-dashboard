@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T08:41:04.380983+00:00",
+  "updated": "2026-09-27T08:51:38.186480+00:00",
   "articles": [
+    {
+      "title": "Шофьор на камион почина след катастрофа в Кубрат",
+      "url": "https://dariknews.bg/regioni/razgrad/shofior-na-kamion-pochina-sled-katastrofa-v-kubrat-2467503",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51280/51280718/991-ratio-linejka.jpg"
+    },
     {
       "title": "Зрелищна катастрофа в Пловдив, кола се обърна по таван на централен булевард",
       "url": "https://dariknews.bg/regioni/plovdiv/zrelishtna-katastrofa-v-plovdiv-kola-se-obyrna-po-tavan-na-centralen-bulevard-2467502",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51223/51223147/991-ratio-pratka-kurier.jpg"
     },
     {
-      "title": "Над 200 мигранти бяха открити край Крит за няколко часа",
-      "url": "https://dariknews.bg/novini/sviat/nad-200-migranti-biaha-otkriti-kraj-krit-za-niakolko-chasa-2467493",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51286/51286960/991-ratio-policiia-krit.jpg"
+      "title": "ПСЖ пред съдбоносен избор 27 Сеп | 11:25",
+      "url": "https://dsport.bg/psz-pred-sadbonosen-izbor~240833.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-1343581109.og.jpg"
+    },
+    {
+      "title": "Скандал в Алжир: футболист на Манчестър Сити беше изгонен от националния отбор 27 Сеп | 11:16",
+      "url": "https://dsport.bg/skandal-v-alzir-futbolist-na-manchestar-siti-beshe-izgonen-ot-nacionalnia-otbor~240832.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/383/gettyimages-2296213003.og.jpg"
     },
     {
       "title": "Анчелоти с революционен ход, копира тактиката на Флик 27 Сеп | 11:07",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2294711277.og.jpg"
-    },
-    {
-      "title": "Мауро Икарди със забрана да шофира за 73 години, новото му гадже го забърка в огромна каша 27 Сеп | 09:37",
-      "url": "https://dsport.bg/mauro-ikardi-sas-zabrana-da-shofira-za-73-godini-novoto-mu-gadze-go-zabarka-v-ogromna-kasha~240823.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/screenshot-2026-07-07-101823~1.og.png"
-    },
-    {
-      "title": "Четирима на дузпата: кой ще е първият уволнен мениджър във Висшата лига? 27 Сеп | 09:26",
-      "url": "https://dsport.bg/chetirima-na-duzpata-koi-ste-e-parviat-uvolnen-menidzar-vav-visshata-liga~240822.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2295064765.og.jpg"
     }
   ]
 }
