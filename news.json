@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T16:15:57.116544+00:00",
+  "updated": "2026-09-27T16:29:54.331311+00:00",
   "articles": [
+    {
+      "title": "Моторист загина при катастрофа край Лясковец",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/motorist-zagina-pri-katastrofa-kraj-liaskovec-2467525",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50959/50959014/991-ratio-motor-motociklet-katastrofa-motorist-motocikletist.jpg"
+    },
     {
       "title": "Вълчев: Приоритет е да строим и разширяваме детски градини и училища",
       "url": "https://dariknews.bg/novini/bylgariia/vylchev-prioritet-e-da-stroim-i-razshiriavame-detski-gradini-i-uchilishta-2467524",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388180/991-ratio-kyrpichki.jpg"
     },
     {
-      "title": "Шофьор на камион почина след катастрофа в Кубрат",
-      "url": "https://dariknews.bg/regioni/razgrad/shofior-na-kamion-pochina-sled-katastrofa-v-kubrat-2467503",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51280/51280718/991-ratio-linejka.jpg"
+      "title": "Дембеле взима лентата от Мбапе 27 Сеп | 19:18",
+      "url": "https://dsport.bg/dembele-vzima-lentata-ot-mbape~240872.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2284077423.og.jpg"
     },
     {
       "title": "ЦСКА 1948 врътна хикс със сърби в Банско 27 Сеп | 19:06",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296030861.og.jpg"
-    },
-    {
-      "title": "Янева не успя да стигне до титлата в Пловдив 27 Сеп | 17:26",
-      "url": "https://dsport.bg/aneva-ne-uspa-da-stigne-do-titlata-v-plovdiv~240863.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/plovdiv_nagrajdavane_27.09.26-2.og.jpg"
     }
   ]
 }
