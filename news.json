@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:10:00.155097+00:00",
+  "updated": "2026-09-27T19:21:36.776099+00:00",
   "articles": [
     {
       "title": "Сръбският президент Александър Вучич помилва 49 души, след което подаде оставка",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388213/991-ratio-sasht-buria.jpg"
     },
     {
+      "title": "Тоти отпразнува 50-годишния си юбилей в Лас Вегас 27 Сеп | 22:20",
+      "url": "https://dsport.bg/toti-otpraznuva-50-godishnia-si-ubilei-v-las-vegas~240885.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1695630488.og.jpg"
+    },
+    {
       "title": "Везенков изведе Олимпиакос до Суперкупата на Гърция 27 Сеп | 22:02",
       "url": "https://dsport.bg/vezenkov-izvede-olimpiakos-do-superkupata-na-garcia~240883.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1033056~1.og.jpg"
-    },
-    {
-      "title": "Отборът на Европа триумфира за Laver Cup 27 Сеп | 19:37",
-      "url": "https://dsport.bg/otborat-na-evropa-triumfira-za-laver-cup~240874.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297406773.og.jpg"
     }
   ]
 }
