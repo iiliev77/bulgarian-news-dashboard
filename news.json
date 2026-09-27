@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-27T12:31:15.086138+00:00",
+  "updated": "2026-09-27T12:47:53.055077+00:00",
   "articles": [
+    {
+      "title": "Задържаха лидер на група за „духовни ритуали“, иззеха 30 саксии с психоактивен кактус",
+      "url": "https://dariknews.bg/regioni/plovdiv/zadyrzhaha-lider-na-grupa-za-duhovni-rituali-izzeha-30-saksii-s-psihoaktiven-kaktus-2467516",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32721/32721625/991-ratio-zadyrzhan.jpg"
+    },
     {
       "title": "Катастрофа край Стожер взе жертва, шофьорката е дала положителна проба за метамфетамин",
       "url": "https://dariknews.bg/regioni/varna/katastrofa-kraj-stozher-vze-zhertva-shofiorkata-e-dala-polozhitelna-proba-za-metamfetamin-2467515",
@@ -121,8 +128,8 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388161/991-ratio-grafiti.jpg"
     },
     {
-      "title": "Масови протести в Мадрив след принудителното изваждане на 87-годишна жена от дома ѝ",
-      "url": "https://dariknews.bg/novini/sviat/masovi-protesti-v-madriv-sled-prinuditelnoto-izvazhdane-na-87-godishna-zhena-ot-doma--2467498",
+      "title": "Масови протести в Мадрид след принудителното изваждане на 87-годишна жена от дома ѝ",
+      "url": "https://dariknews.bg/novini/sviat/masovi-protesti-v-madrid-sled-prinuditelnoto-izvazhdane-na-87-godishna-zhena-ot-doma--2467498",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388144/991-ratio-madrid.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51124/51124730/991-ratio-lufthanza-samolet.jpg"
     },
     {
-      "title": "„Ако искаш нещо от живота, пожелай го от сърце“: Кардиолог съветва да пазим емоциите си",
-      "url": "https://dariknews.bg/novini/bylgariia/ako-iskash-neshto-ot-zhivota-pozhelaj-go-ot-syrce-kardiolog-syvetva-da-pazim-emociite-si-2467496",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Жоао Феликс: Искам да асистирам за гол №1000 на Кристиано Роналдо 27 Сеп | 15:32",
+      "url": "https://dsport.bg/zoao-feliks-iskam-da-asistiram-za-gol-1000-na-kristiano-ronaldo~240855.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2284674388.og.jpg"
     },
     {
       "title": "10 години по-късно: Шапекоензе се върна на мястото на самолетната трагедия (СНИМКИ) 27 Сеп | 15:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/383/gettyimages-2296795351.og.jpg"
-    },
-    {
-      "title": "Шокът от присъдата срещу Сити разклати Англия? Грешките на „Уембли“ разпалиха дебати 27 Сеп | 13:30",
-      "url": "https://dsport.bg/shokat-ot-prisadata-srestu-siti-razklati-anglia-greshkite-na-uembli-razpaliha-debati~240844.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/383/gettyimages-2297361240.og.jpg"
     }
   ]
 }
