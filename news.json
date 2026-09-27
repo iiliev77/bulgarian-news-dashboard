@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:34:25.893414+00:00",
+  "updated": "2026-09-27T20:45:31.008113+00:00",
   "articles": [
     {
       "title": "Русия порази най-големия украински мобилен оператор",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388223/991-ratio-marica.jpg"
     },
     {
+      "title": "Гърция шокира Германия, Клоп остава без успех начело на Бундестима 27 Сеп | 23:42",
+      "url": "https://dsport.bg/garcia-shokira-germania-klop-ostava-bez-uspeh-nachelo-na-bundestima~240891.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297438341.og.jpg"
+    },
+    {
+      "title": "Ирландия разби Израел в мач, предизвикал огромно напрежение 27 Сеп | 23:35",
+      "url": "https://dsport.bg/irlandia-razbi-izrael-v-mach-predizvikal-ogromno-naprezenie~240890.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296906397.og.jpg"
+    },
+    {
       "title": "Манчини: Нямаме поколение като това на Тоти, Дел Пиеро и други велики шампиони от миналото 27 Сеп | 23:26",
       "url": "https://dsport.bg/manchini-namame-pokolenie-kato-tova-na-toti-del-piero-i-drugi-veliki-shampioni-ot-minaloto~240889.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-09-27-211819.og.png"
-    },
-    {
-      "title": "Австрия с втори успех в Лигата на нациите 27 Сеп | 21:09",
-      "url": "https://dsport.bg/avstria-s-vtori-uspeh-v-ligata-na-naciite~240880.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296976672.og.jpg"
-    },
-    {
-      "title": "Неочакван герой измъкна Нидерландия в Сърбия 27 Сеп | 20:58",
-      "url": "https://dsport.bg/neochakvan-geroi-izmakna-niderlandia-v-sarbia~240878.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296874399.og.jpg"
     }
   ]
 }
