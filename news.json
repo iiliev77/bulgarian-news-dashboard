@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T19:59:26.729496+00:00",
+  "updated": "2026-09-28T20:13:00.913972+00:00",
   "articles": [
+    {
+      "title": "Путин подписа указ за увеличаване на числеността на руската армия",
+      "url": "https://dariknews.bg/novini/sviat/putin-podpisa-ukaz-za-uvelichavane-na-chislenostta-na-ruskata-armiia-2467644",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388692/991-ratio-ruskiiat-prezident-vladimir-putin-po-vreme-na-ceremoniia-po-polagane.jpg"
+    },
     {
       "title": "Румен Спецов: Задачата ми беше да осигуря достъпни цени на горивата",
       "url": "https://dariknews.bg/novini/bylgariia/rumen-specov-zadachata-mi-beshe-da-osiguria-dostypni-ceni-na-gorivata-2467643",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
-      "title": "Министър Найденов стартира подбор за европейски прокурор",
-      "url": "https://dariknews.bg/novini/bylgariia/ministyr-najdenov-startira-podbor-za-evropejski-prokuror-2467620",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51355/51355110/991-ratio-nikolaj-najdenov.jpg"
+      "title": "Шеф на Манчестър Сити за съдебния процес: Ще отнеме още много време 28 Сеп | 23:04",
+      "url": "https://dsport.bg/shef-na-manchestar-siti-kaza-kakvo-ochakva-ot-procesa-sas-114-te-obvinenia~240962.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2266003365.og.jpg"
     },
     {
       "title": "Ивайло Петев ще вади Здравко Димитров от дупката 28 Сеп | 22:24",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1027409.og.jpg"
-    },
-    {
-      "title": "Селекционерът на Естония: Опасно е да мислим, че проблемите на България ще ни улеснят 28 Сеп | 19:25",
-      "url": "https://dsport.bg/selekcionerat-na-estonia-opasno-e-da-mislich-che-problemite-na-balgaria-ste-ni-ulesnat~240951.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2240477580.og.jpg"
     }
   ]
 }
