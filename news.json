@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-28T03:14:22.098966+00:00",
+  "updated": "2026-09-28T03:30:48.451924+00:00",
   "articles": [
+    {
+      "title": "Община призна: Спестихме средства и маркировката на пътя Гара Елин Пелин – Лесново криволичи",
+      "url": "https://dariknews.bg/regioni/sofiia/obshtina-prizna-spestihme-sredstva-i-markirovkata-na-pytia-gara-elin-pelin-lesnovo-krivolichi-2467534",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "България е домакин на Европейско полицейско първенство по волейбол",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-e-domakin-na-evropejsko-policejsko-pyrvenstvo-po-volejbol-2467506",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388191/991-ratio-volejbol.jpg"
+    },
+    {
+      "title": "„Държат се с мен като с най-големия престъпник“: Продължава делото срещу Ива Михайлова в Кочани",
+      "url": "https://dariknews.bg/novini/sviat/dyrzhat-se-s-men-kato-s-naj-golemiia-prestypnik-prodylzhava-deloto-sreshtu-iva-mihajlova-v-kochani-2467532",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Българските ВВС са домакин на международната летателна тренировка ETAP-C 26-3",
       "url": "https://dariknews.bg/novini/bylgariia/bylgarskite-vvs-sa-domakin-na-mezhdunarodnata-letatelna-trenirovka-etap-c-26-3-2467460",
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51115/51115037/991-ratio-film-kino.jpg"
-    },
-    {
-      "title": "Министърът на туризма: За България вече не трябва да се говори като за евтина дестинация",
-      "url": "https://dariknews.bg/regioni/varna/ministyryt-na-turizma-za-bylgariia-veche-ne-triabva-da-se-govori-kato-za-evtina-destinaciia-2467518",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388233/991-ratio-ilin-dimitrov.jpg"
-    },
-    {
-      "title": "Ердоган: Мястото на Нетаняху е в съдебната зала, а не на трибуната на ООН",
-      "url": "https://dariknews.bg/novini/sviat/erdogan-miastoto-na-netaniahu-e-v-sydebnata-zala-a-ne-na-tribunata-na-oon-2467517",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50996/50996112/991-ratio-erdogan.jpg"
-    },
-    {
-      "title": "Задържаха лидер на група за „духовни ритуали“, иззеха 30 саксии с психоактивен кактус",
-      "url": "https://dariknews.bg/regioni/plovdiv/zadyrzhaha-lider-na-grupa-za-duhovni-rituali-izzeha-30-saksii-s-psihoaktiven-kaktus-2467516",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Кристиано не игра, но Холанд не стигна на Норвегия срещу Португалия 27 Сеп | 23:59",
