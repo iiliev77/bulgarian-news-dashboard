@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-28T13:38:47.239860+00:00",
+  "updated": "2026-09-28T13:54:06.875926+00:00",
   "articles": [
     {
-      "title": "Гълъб Донев „се забавлява“ с меметата по свой арес за домашната ракия",
-      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-se-zabavliava-s-memetata-po-svoj-ares-za-domashnata-rakiia-2467621",
+      "title": "Пожар край село Зорница затруднява движението между Хасковско и Кърджалийско",
+      "url": "https://dariknews.bg/regioni/haskovo/pozhar-kraj-selo-zornica-zatrudniava-dvizhenieto-mezhdu-haskovsko-i-kyrdzhalijsko-2467623",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
+    },
+    {
+      "title": "Патриарх Даниил пристигна в Йордания",
+      "url": "https://dariknews.bg/novini/bylgariia/patriarh-daniil-pristigna-v-iordaniia-2467622",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388608/991-ratio-bylgarskiiat-patriarh-daniil-pristigna-v-iordaniia.jpg"
+    },
+    {
+      "title": "Гълъб Донев: Не посягаме на домашната ракия, контролът е върху незаконната търговия",
+      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-ne-posiagame-na-domashnata-rakiia-kontrolyt-e-vyrhu-nezakonnata-tyrgoviia-2467621",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51347/51347077/991-ratio-gylyb-donev.jpg"
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/32580/32580952/991-ratio-dmitrij-peskov.jpg"
-    },
-    {
-      "title": "„Без паника, изпийте ракията“: Наталия Киселова с ироничен коментар за спорните промени",
-      "url": "https://dariknews.bg/novini/bylgariia/bez-panika-izpijte-rakiiata-nataliia-kiselova-s-ironichen-komentar-za-spornite-promeni-2467600",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388523/991-ratio-nataliia-kiselova.jpg"
-    },
-    {
-      "title": "Помощта за отопление: Заявления се приемат в 2142 пощенски станции",
-      "url": "https://dariknews.bg/novini/bylgariia/pomoshtta-za-otoplenie-zaiavleniia-se-priemat-v-2142-poshtenski-stancii-2467596",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51164/51164702/991-ratio-bylgarski-poshti.jpg"
     },
     {
       "title": "Григор Димитров се отказа от турнир в Порто 28 Сеп | 16:32",
