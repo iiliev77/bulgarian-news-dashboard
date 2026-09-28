@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-28T10:35:42.173334+00:00",
+  "updated": "2026-09-28T10:49:51.983356+00:00",
   "articles": [
+    {
+      "title": "Помощта за отопление: Заявления се приемат в 2142 пощенски станции",
+      "url": "https://dariknews.bg/novini/bylgariia/pomoshtta-za-otoplenie-zaiavleniia-se-priemat-v-2142-poshtenski-stancii-2467596",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51164/51164702/991-ratio-bylgarski-poshti.jpg"
+    },
+    {
+      "title": "Близо 430 грама марихуана и кокаин са иззети от жилище в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/blizo-430-grama-marihuana-i-kokain-sa-izzeti-ot-zhilishte-v-stara-zagora-2467595",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388518/991-ratio-marihuana.jpg"
+    },
+    {
+      "title": "Камион се запали на магистрала „Тракия“",
+      "url": "https://dariknews.bg/novini/bylgariia/kamion-se-zapali-na-magistrala-trakiia-2467594",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/40977/40977791/991-ratio-kamion.jpg"
+    },
     {
       "title": "Бизнесът предлага да се облага само увеличението на ваучерите за храна",
       "url": "https://dariknews.bg/novini/bylgariia/biznesyt-predlaga-da-se-oblaga-samo-uvelichenieto-na-vaucherite-za-hrana-2467592",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51169/51169292/991-ratio-magazin-hrana.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Мъж е в тежко състояние след катастрофа в Пловдив",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51303/51303484/991-ratio-peter-madiar.jpg"
     },
     {
-      "title": "Вулканична пепел от Етна парализира полетите в Катания за трети пореден ден",
-      "url": "https://dariknews.bg/novini/sviat/vulkanichna-pepel-ot-etna-paralizira-poletite-v-kataniia-za-treti-poreden-den-2467577",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51382/51382896/991-ratio-etna.jpg"
+      "title": "Бившата №2 на сръбския тенис стана националка в друг спорт 28 Сеп | 13:42",
+      "url": "https://dsport.bg/bivshata-2-na-srabskia-tenis-stana-nacionalka-v-drug-sport~240927.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-28-133646.og.png"
     },
     {
-      "title": "Катастрофа на столичния булевард „Гешов“ доведе до огромно задръстване",
-      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-na-stolichniia-bulevard-geshov-dovede-do-ogromno-zadrystvane-2467576",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
-    },
-    {
-      "title": "Лидерката на шведските социалдемократи Андершон не успя да сформира правителство",
-      "url": "https://dariknews.bg/novini/sviat/liderkata-na-shvedskite-socialdemokrati-andershon-ne-uspia-da-sformira-pravitelstvo-2467575",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50042/50042295/991-ratio-magdalena-andershon.jpg"
+      "title": "Методът „Кугел“: как новият фитнес гуру на Барселона революционизира отбора на Ханзи Флик? 28 Сеп | 13:40",
+      "url": "https://dsport.bg/metodat-kugel-kak-noviat-fitnes-guru-na-barselona-revolucionizira-otbora-na-hanzi-flik~240926.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1345102937~1.og.jpg"
     },
     {
       "title": "„Заедно с Ботев“ продължава с фланелката на Алберто Салидо от класиката в София 28 Сеп | 13:20",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296744052.og.jpg"
-    },
-    {
-      "title": "Мексиканският диамант продължава да пише история 28 Сеп | 11:50",
-      "url": "https://dsport.bg/meksikanskiat-diamant-prodalzava-da-pishe-istoria~240916.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296780056.og.jpg"
-    },
-    {
-      "title": "Мбапе, Ямал или Кейн? Гласуването за „Златната топка“ приключва, напрежението расте 28 Сеп | 11:30",
-      "url": "https://dsport.bg/mbape-amal-ili-kein-glasuvaneto-za-zlatnata-topka-prikluchva-naprezenieto-raste~240915.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/goldenball.og.png"
     }
   ]
 }
