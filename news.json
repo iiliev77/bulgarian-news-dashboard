@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T08:51:20.660809+00:00",
+  "updated": "2026-09-28T09:01:48.462119+00:00",
   "articles": [
+    {
+      "title": "Вулканична пепел от Етна парализира полетите в Катания за трети пореден ден",
+      "url": "https://dariknews.bg/novini/sviat/vulkanichna-pepel-ot-etna-paralizira-poletite-v-kataniia-za-treti-poreden-den-2467577",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51382/51382896/991-ratio-etna.jpg"
+    },
+    {
+      "title": "Тежка катастрофа на столичния булевард „Гешов“, има огромно задръстване",
+      "url": "https://dariknews.bg/novini/bylgariia/tezhka-katastrofa-na-stolichniia-bulevard-geshov-ima-ogromno-zadrystvane-2467576",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320375/991-ratio-policiia-sireni.jpg"
+    },
     {
       "title": "Лидерката на шведските социалдемократи Андершон не успя да сформира правителство",
       "url": "https://dariknews.bg/novini/sviat/liderkata-na-shvedskite-socialdemokrati-andershon-ne-uspia-da-sformira-pravitelstvo-2467575",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/44282/44282207/991-ratio-policiia-sinia-lampa-rusiia.jpg"
     },
     {
-      "title": "Дрон навлязе във въздушното пространство на Румъния, вдигнаха изтребители",
-      "url": "https://dariknews.bg/novini/sviat/dron-navliaze-vyv-vyzdushnoto-prostranstvo-na-rumyniia-vdignaha-iztrebiteli-2467557",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50935/50935930/991-ratio-dron.jpg"
-    },
-    {
-      "title": "Астрономи откриха „звезден поток“ извън Млечния път",
-      "url": "https://dariknews.bg/novini/liubopitno/astronomi-otkriha-zvezden-potok-izvyn-mlechniia-pyt-2467552",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/41038/41038823/991-ratio-mlechniia-pyt-kosmos.jpg"
+      "title": "Мбапе, Ямал или Кейн? Гласуването за „Златната топка“ приключва, напрежението расте 28 Сеп | 11:30",
+      "url": "https://dsport.bg/mbape-amal-ili-kein-glasuvaneto-za-zlatnata-topka-prikluchva-naprezenieto-raste~240915.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/goldenball.og.png"
     },
     {
       "title": "Христо Крушарски потвърди: Напускам Локомотив Пловдив в сряда 28 Сеп | 11:21",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/elizara_qneva_bili-1.og.jpg"
-    },
-    {
-      "title": "Гол, достоен за Златна топка, който наруши законите на геометрията 28 Сеп | 09:43",
-      "url": "https://dsport.bg/gol-dostoen-za-zlatna-topka-koito-narushi-zakonite-na-geometriata~240904.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297460975.og.jpg"
     }
   ]
 }
