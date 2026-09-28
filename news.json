@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T18:25:53.143203+00:00",
+  "updated": "2026-09-28T18:42:54.373969+00:00",
   "articles": [
     {
       "title": "Кола се вряза в ограда на детска градина във Велико Търново (СНИМКИ)",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/35758/35758239/991-ratio-roza.jpg"
     },
     {
+      "title": "Исторически момент: братя титуляри за Италия – невиждано от 111 години 28 Сеп | 21:35",
+      "url": "https://dsport.bg/bratya-esposito-istoria-italia-nacionalen-otbor~240959.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296564304.og.jpg"
+    },
+    {
       "title": "\"Маратон София 2026\"с над 12 хиляди участници 28 Сеп | 21:15",
       "url": "https://dsport.bg/maraton-sofia-2026-s-nad-12-hiladi-uchastnici~240958.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2291661089.og.jpg"
-    },
-    {
-      "title": "Ювентус си върна вратар от Бразилия 28 Сеп | 18:43",
-      "url": "https://dsport.bg/uventus-si-varna-vratar-ot-brazilia~240949.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1047271878.og.jpg"
     }
   ]
 }
