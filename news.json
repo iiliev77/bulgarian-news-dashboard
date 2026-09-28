@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T05:51:55.480792+00:00",
+  "updated": "2026-09-28T06:00:24.820523+00:00",
   "articles": [
+    {
+      "title": "Петролът поскъпна, след като Тръмп отхвърли иранско предложение за седемдневно примирие.",
+      "url": "https://dariknews.bg/novini/sviat/petrolyt-poskypna-sled-kato-trymp-othvyrli-iransko-predlozhenie-za-sedemdnevno-primirie-2467549",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
+    },
+    {
+      "title": "Най-малко двама души загинаха при приближаването на урагана „Поло“ към Мексико",
+      "url": "https://dariknews.bg/novini/sviat/naj-malko-dvama-dushi-zaginaha-pri-priblizhavaneto-na-uragana-polo-kym-meksiko-2467548",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
+    },
     {
       "title": "„Половин час детето ми е умирало“: нова експертиза за смъртта на Сияна разтърси баща ѝ",
       "url": "https://dariknews.bg/novini/bylgariia/polovin-chas-deteto-mi-e-umiralo-nova-ekspertiza-za-smyrtta-na-siiana-raztyrsi-bashta--2467547",
@@ -128,18 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Българските ВВС са домакин на международната летателна тренировка ETAP-C 26-3",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgarskite-vvs-sa-domakin-na-mezhdunarodnata-letatelna-trenirovka-etap-c-26-3-2467460",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387758/991-ratio-vvs.jpg"
-    },
-    {
-      "title": "Седмицата започва със слънце в част от страната и опасно силен вятър по морето",
-      "url": "https://dariknews.bg/novini/bylgariia/sedmicata-zapochva-sys-slynce-v-chast-ot-stranata-i-opasno-silen-viatyr-po-moreto-2467533",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385353/991-ratio-esen-lista-viatyr.jpg"
+      "title": "Кризата в Реал Мадрид не спира 28 Сеп | 08:42",
+      "url": "https://dsport.bg/krizata-v-real-madrid-ne-spira~240897.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296301315.og.jpg"
     },
     {
       "title": "Кристиано Роналдо предизвика напрежение в Португалия 28 Сеп | 08:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1027402.og.jpg"
-    },
-    {
-      "title": "Везенков бе избран за MVP на турнира за Суперкупата на Гърция 27 Сеп | 22:55",
-      "url": "https://dsport.bg/vezenkov-be-izbran-za-mvp-na-turnira-za-superkupata-na-garcia~240887.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-27-225553.og.png"
     }
   ]
 }
