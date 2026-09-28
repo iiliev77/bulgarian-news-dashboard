@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T11:57:59.047789+00:00",
+  "updated": "2026-09-28T12:14:08.206910+00:00",
   "articles": [
+    {
+      "title": "Папа Лъв XIV призова Европа да не забравя християнската си история (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-prizova-evropa-da-ne-zabravia-hristiianskata-si-istoriia-video-2467607",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388566/991-ratio-papa-lyv.jpg"
+    },
+    {
+      "title": "Пухкав гламур: Юрдечка, зайци и питбул на един червен килим - Русе събра най-шарения парад (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/ruse/puhkav-glamur-iurdechka-zajci-i-pitbul-na-edin-cherven-kilim-ruse-sybra-naj-shareniia-parad-snimki-2467608",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388562/991-ratio-zhivotni-defile-ruse.jpg"
+    },
     {
       "title": "Принц Уилям запази мълчание за скандалната книга на чичо си Ърл Спенсър",
       "url": "https://dariknews.bg/novini/sviat/princ-uiliam-zapazi-mylchanie-za-skandalnata-kniga-na-chicho-si-yrl-spensyr-2467605",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50981/50981767/991-ratio-alkohol.jpg"
     },
     {
-      "title": "Мъж си напазарува дрехи с фалшива банкнота от 200 евро във Варна",
-      "url": "https://dariknews.bg/regioni/varna/myzh-si-napazaruva-drehi-s-falshivabanknota-ot-200-evro-vyv-varna-2467586",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
-    },
-    {
-      "title": "Ученик е бил пребит в двора на училище в Ихтиман",
-      "url": "https://dariknews.bg/regioni/sofiia/uchenik-e-bil-prebit-v-dvora-na-uchilishte-v-ihtiman-2467585",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51269/51269768/991-ratio-pytna-policiia.jpg"
+      "title": "Голмайсторът на ЦСКА привлече вниманието отвъд Океана 28 Сеп | 15:07",
+      "url": "https://dsport.bg/golmaistorat-na-cska-privleche-vnimanieto-otvad-okeana~240934.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1027741.og.jpg"
     },
     {
       "title": "България ще гостува на Парагвай за оставане в Световна група I за Купа „Дейвис“ 28 Сеп | 14:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/salido.og.jpg"
-    },
-    {
-      "title": "Бивш световен шампион: Ангелов е най-добрият вариант за борбата 28 Сеп | 13:18",
-      "url": "https://dsport.bg/bivsh-svetoven-shampion-angelov-e-nai-dobriat-variant-za-borbata~240924.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/741966.og.jpg"
     }
   ]
 }
