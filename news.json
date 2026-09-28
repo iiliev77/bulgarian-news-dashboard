@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T20:27:33.591992+00:00",
+  "updated": "2026-09-28T20:41:54.050690+00:00",
   "articles": [
+    {
+      "title": "Тринадесет души загинаха при пожар във фабрика за фойерверки в Русия",
+      "url": "https://dariknews.bg/novini/sviat/trinadeset-dushi-zaginaha-pri-pozhar-vyv-fabrika-za-fojerverki-v-rusiia-2467646",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50993/50993474/991-ratio-fojerverki.jpg"
+    },
     {
       "title": "Раниха 12 младежи при престрелка по време на рожден ден в парк в Джорджия",
       "url": "https://dariknews.bg/novini/sviat/raniha-12-mladezhi-pri-prestrelka-po-vreme-na-rozhden-den-v-park-v-dzhordzhiia-2467645",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
     },
     {
-      "title": "Патриарх Даниил пристигна в Йордания",
-      "url": "https://dariknews.bg/novini/bylgariia/patriarh-daniil-pristigna-v-iordaniia-2467622",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388608/991-ratio-bylgarskiiat-patriarh-daniil-pristigna-v-iordaniia.jpg"
+      "title": "Италия откъсна главата на Турция на „Крокодила“ 28 Сеп | 23:39",
+      "url": "https://dsport.bg/italia-otkasna-glavata-na-turcia-na-krokodila~240966.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297599391.og.jpg"
+    },
+    {
+      "title": "Ана Иванович се наслаждава на живота сингъл 28 Сеп | 23:24",
+      "url": "https://dsport.bg/ana-ivanovich-se-naslazdava-na-zivota-singal~240965.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-1319-~1.og.png"
     },
     {
       "title": "Шеф на Манчестър Сити за съдебния процес: Ще отнеме още много време 28 Сеп | 23:04",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2149627915~2.og.jpg"
-    },
-    {
-      "title": "Димитров: Времето ми на селекционер е изпълнено с негативизъм, много преди мен не са пречупили прокобата 28 Сеп | 19:44",
-      "url": "https://dsport.bg/dimitrov-vremeto-mi-na-selekcioner-e-izpalneno-s-negativizam-mnogo-predi-men-ne-sa-prechupili-prokobata~240953.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1030904.og.jpg"
-    },
-    {
-      "title": "Братя Николови започват подготовка с Лубе Чивитанова 28 Сеп | 19:41",
-      "url": "https://dsport.bg/brata-nikolovi-zapochvat-podgotovka-s-lube-chivitanova~240952.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1027409.og.jpg"
     }
   ]
 }
