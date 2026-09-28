@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-28T05:39:34.570403+00:00",
+  "updated": "2026-09-28T05:51:55.480792+00:00",
   "articles": [
     {
-      "title": "„Половин час детето ми е умирало, можело е да бъде спасено“: нова експертиза за смъртта на Сияна разтърси баща ѝ",
-      "url": "https://dariknews.bg/novini/bylgariia/polovin-chas-deteto-mi-e-umiralo-mozhelo-e-da-byde-spaseno-nova-ekspertiza-za-smyrtta-na-siiana-raztyrsi-bashta--2467547",
+      "title": "„Половин час детето ми е умирало“: нова експертиза за смъртта на Сияна разтърси баща ѝ",
+      "url": "https://dariknews.bg/novini/bylgariia/polovin-chas-deteto-mi-e-umiralo-nova-ekspertiza-za-smyrtta-na-siiana-raztyrsi-bashta--2467547",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -13,7 +13,7 @@
       "url": "https://dariknews.bg/novini/sviat/teroristichna-zaplaha-kraj-amerikanska-baza-vyv-velikobritaniia-petima-myzhe-sa-arestuvani-2467546",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/27470/27470186/640-420-bomba-beshe-otkrita-vyv-voenna-baza-vyv-velikobritaniia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51040/51040859/991-ratio-voenna-baza.jpg"
     },
     {
       "title": "Археолози откриха останки от римски храм в Германия",
@@ -30,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/50417/50417339/991-ratio-dron-ruski-iztrebiteli.jpg"
     },
     {
-      "title": "35 километра преследване и 200 км/ч в насрещното - гонка край Бургас завърши с катастрофа и арести",
-      "url": "https://dariknews.bg/novini/bylgariia/35-kilometra-presledvane-i-200-kmch-v-nasreshtnoto-gonka-kraj-burgas-zavyrshi-s-katastrofa-i-aresti-2467544",
+      "title": "35 км преследване и 200 км/ч в насрещното - гонка край Бургас завърши с катастрофа и арести",
+      "url": "https://dariknews.bg/novini/bylgariia/35-km-presledvane-i-200-kmch-v-nasreshtnoto-gonka-kraj-burgas-zavyrshi-s-katastrofa-i-aresti-2467544",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385353/991-ratio-esen-lista-viatyr.jpg"
     },
     {
+      "title": "Кристиано Роналдо предизвика напрежение в Португалия 28 Сеп | 08:32",
+      "url": "https://dsport.bg/kristiano-ronaldo-predizvika-naprezenie-v-portugalia~240896.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297424617.og.jpg"
+    },
+    {
       "title": "Краят на медения месец за Клоп и Германия 28 Сеп | 08:22",
       "url": "https://dsport.bg/kraat-na-medenia-mesec-za-klop-i-germania~240895.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-09-27-225553.og.png"
-    },
-    {
-      "title": "Васьор отправи обвинения към Хорнер 27 Сеп | 22:40",
-      "url": "https://dsport.bg/vasor-otpravi-obvinenia-kam-horner~240886.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294469520.og.jpg"
     }
   ]
 }
