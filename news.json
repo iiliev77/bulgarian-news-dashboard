@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-28T06:00:24.820523+00:00",
+  "updated": "2026-09-28T06:22:19.981812+00:00",
   "articles": [
     {
-      "title": "Петролът поскъпна, след като Тръмп отхвърли иранско предложение за седемдневно примирие.",
-      "url": "https://dariknews.bg/novini/sviat/petrolyt-poskypna-sled-kato-trymp-othvyrli-iransko-predlozhenie-za-sedemdnevno-primirie-2467549",
+      "title": "Над 8000 са вече заразените с ебола в ДР Конго",
+      "url": "https://dariknews.bg/novini/sviat/nad-8000-sa-veche-zarazenite-s-ebola-v-dr-kongo-2467551",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51331/51331026/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
+    },
+    {
+      "title": "Мечка слиза всяка вечер в родопско село (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/mechka-sliza-vsiaka-vecher-v-rodopsko-selo-video-2467550",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51311/51311493/991-ratio-mechka-park-za-mechki-v-belica.jpg"
+    },
+    {
+      "title": "Петролът поскъпна, след като Тръмп отхвърли иранско предложение за примирие",
+      "url": "https://dariknews.bg/novini/sviat/petrolyt-poskypna-sled-kato-trymp-othvyrli-iransko-predlozhenie-za-primirie-2467549",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
@@ -128,18 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "България е домакин на Европейско полицейско първенство по волейбол",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-e-domakin-na-evropejsko-policejsko-pyrvenstvo-po-volejbol-2467506",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388191/991-ratio-volejbol.jpg"
+      "title": "Хавиер Тебас с взривяващ коментар за Манчестър Сити: Истината излиза наяве! 28 Сеп | 09:00",
+      "url": "https://dsport.bg/havier-tebas-s-vzrivavast-komentar-za-manchestar-siti-istinata-izliza-naave~240899.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2178970450-2-1-1-1~1.og.jpg"
     },
     {
-      "title": "„Държат се с мен като с най-големия престъпник“: Продължава делото срещу Ива Михайлова в Кочани",
-      "url": "https://dariknews.bg/novini/sviat/dyrzhat-se-s-men-kato-s-naj-golemiia-prestypnik-prodylzhava-deloto-sreshtu-iva-mihajlova-v-kochani-2467532",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Лиъм Галахър предрече каква ще е санкцията за Манчестър Сити 28 Сеп | 08:52",
+      "url": "https://dsport.bg/liam-galahar-predreche-kakva-ste-e-sankciata-za-manchestar-siti~240898.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2276034047.og.jpg"
     },
     {
       "title": "Кризата в Реал Мадрид не спира 28 Сеп | 08:42",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296906397.og.jpg"
-    },
-    {
-      "title": "Манчини: Нямаме поколение като това на Тоти, Дел Пиеро и други велики шампиони от миналото 27 Сеп | 23:26",
-      "url": "https://dsport.bg/manchini-namame-pokolenie-kato-tova-na-toti-del-piero-i-drugi-veliki-shampioni-ot-minaloto~240889.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1973411355~1.og.jpg"
-    },
-    {
-      "title": "Александър Николов: Ще се върнем много по-силни! 27 Сеп | 23:12",
-      "url": "https://dsport.bg/aleksandar-nikolov-ste-se-varnem-mnogo-po-silni~240888.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1027402.og.jpg"
     }
   ]
 }
