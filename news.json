@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-28T08:00:42.637903+00:00",
+  "updated": "2026-09-28T08:20:17.084426+00:00",
   "articles": [
+    {
+      "title": "20-годишен мъж загина при катастрофа край Брезница",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/20-godishen-myzh-zagina-pri-katastrofa-kraj-breznica-2467569",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Жена агресира и рани майка си в Дупница",
+      "url": "https://dariknews.bg/regioni/kiustendil/zhena-agresira-i-rani-majka-si-v-dupnica-2467571",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50994/50994188/991-ratio-zhena-stara-zhena-vyzrastna-zhena-nasilie-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Балон или бум? Цените на имотите растат, сделките падат",
+      "url": "https://dariknews.bg/novini/bylgariia/balon-ili-bum-cenite-na-imotite-rastat-sdelkite-padat-2467572",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Диетолози: Не всяка ултрапреработена храна е непременно вредна",
+      "url": "https://dariknews.bg/novini/liubopitno/dietolozi-ne-vsiaka-ultraprerabotena-hrana-e-nepremenno-vredna-2467570",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50242/50242524/991-ratio-burger.jpg"
+    },
     {
       "title": "Старинни монети, артефакти и 8 металдетектора иззеха при акция в Силистра",
       "url": "https://dariknews.bg/regioni/silistra/starinni-moneti-artefakti-i-8-metaldetektora-izzeha-pri-akciia-v-silistra-2467568",
@@ -44,18 +72,18 @@
       "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
     },
     {
-      "title": "Дете и още трима пострадаха при катастрофа с такси в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/dete-i-oshte-trima-postradaha-pri-katastrofa-s-taksi-v-stara-zagora-2467563",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51266/51266939/991-ratio-taksi.jpg"
-    },
-    {
       "title": "След осуетения опит за терористичен акт: САЩ предупредиха гражданите си във Великобритания",
       "url": "https://dariknews.bg/novini/sviat/sled-osueteniia-opit-za-teroristichen-akt-sasht-preduprediha-grazhdanite-si-vyv-velikobritaniia-2467562",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388469/991-ratio-voenna-baza.jpg"
+    },
+    {
+      "title": "Дете и още трима пострадаха при катастрофа с такси в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/dete-i-oshte-trima-postradaha-pri-katastrofa-s-taksi-v-stara-zagora-2467563",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51266/51266939/991-ratio-taksi.jpg"
     },
     {
       "title": "Регионалният министър: Започваме проверки на обществените поръчки за строителство",
@@ -114,32 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Чужда домашна ракия в хладилника? Властта предвижда глоба от 1 000 евро",
-      "url": "https://dariknews.bg/novini/bylgariia/chuzhda-domashna-rakiia-v-hladilnika-vlastta-predvizhda-globa-ot-1-000-evro-2467556",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48794/48794379/991-ratio-slivova-rakiia.jpg"
+      "title": "Станка Златева с безпрецедентен ход 28 Сеп | 11:01",
+      "url": "https://dsport.bg/stanka-zlateva-s-bezprecedenten-hod~240912.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/901314~1.og.jpg"
     },
     {
-      "title": "Над 8000 са вече заразените с ебола в ДР Конго",
-      "url": "https://dariknews.bg/novini/sviat/nad-8000-sa-veche-zarazenite-s-ebola-v-dr-kongo-2467551",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331026/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
-    },
-    {
-      "title": "Мечка слиза всяка вечер в родопско село (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/mechka-sliza-vsiaka-vecher-v-rodopsko-selo-video-2467550",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51311/51311493/991-ratio-mechka-park-za-mechki-v-belica.jpg"
-    },
-    {
-      "title": "Петролът поскъпна, след като Тръмп отхвърли иранско предложение за примирие",
-      "url": "https://dariknews.bg/novini/sviat/petrolyt-poskypna-sled-kato-trymp-othvyrli-iransko-predlozhenie-za-primirie-2467549",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
+      "title": "Роберто Манчини за скандала в Манчестър Сити: Това не е мой проблем 28 Сеп | 10:54",
+      "url": "https://dsport.bg/roberto-manchini-za-skandala-v-manchestar-siti-tova-ne-e-moi-problem~240911.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1962790193-1.og.jpg"
     },
     {
       "title": "Бивш шеф на Манчестър Сити с мрачна прогноза: Глоба не стига, трябва да ги изхвърлят 28 Сеп | 10:41",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2295669181.og.jpg"
-    },
-    {
-      "title": "Ламин Ямал със смело изявление: На ниво съм за Златната топка отдавна, но възрастта ми пречи 28 Сеп | 09:10",
-      "url": "https://dsport.bg/lamin-amal-sas-smelo-izavlenie-na-nivo-sam-za-zlatnata-topka-otdavna-no-vazrastta-mi-prechi~240900.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294365346.og.jpg"
-    },
-    {
-      "title": "Хавиер Тебас с взривяващ коментар за Манчестър Сити: Истината излиза наяве! 28 Сеп | 09:00",
-      "url": "https://dsport.bg/havier-tebas-s-vzrivavast-komentar-za-manchestar-siti-istinata-izliza-naave~240899.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2178970450-2-1-1-1~1.og.jpg"
     }
   ]
 }
