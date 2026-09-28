@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-28T07:49:35.080356+00:00",
+  "updated": "2026-09-28T08:00:42.637903+00:00",
   "articles": [
+    {
+      "title": "Старинни монети, артефакти и 8 металдетектора иззеха при акция в Силистра",
+      "url": "https://dariknews.bg/regioni/silistra/starinni-moneti-artefakti-i-8-metaldetektora-izzeha-pri-akciia-v-silistra-2467568",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47494/47494069/991-ratio-artefakti-velikobritaniia-bylgariia.jpg"
+    },
+    {
+      "title": "Ново заседание по делото срещу Кирил Петков за арестите на Борисов, Горанов и Арнаудова",
+      "url": "https://dariknews.bg/novini/bylgariia/novo-zasedanie-po-deloto-sreshtu-kiril-petkov-za-arestite-na-borisov-goranov-i-arnaudova-2467567",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51219/51219407/991-ratio-kiril-petkov.jpg"
+    },
     {
       "title": "От побой до заплахи: Три случая на насилие между бивши партньори в Старозагорско",
       "url": "https://dariknews.bg/regioni/stara-zagora/ot-poboj-do-zaplahi-tri-sluchaia-na-nasilie-mezhdu-bivshi-partniori-v-starozagorsko-2467565",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
+    },
+    {
+      "title": "18-годишен шофьор с месец стаж катастрофира и преобърна кола, пълна с младежи",
+      "url": "https://dariknews.bg/novini/bylgariia/18-godishen-shofior-s-mesec-stazh-katastrofira-i-preobyrna-kola-pylna-s-mladezhi-2467566",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
     },
     {
       "title": "Калас: Русия готви саботажи срещу демокрацията в ЕС",
@@ -23,18 +44,18 @@
       "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
     },
     {
-      "title": "След осуетения опит за терористичен акт: САЩ предупредиха гражданите си във Великобритания",
-      "url": "https://dariknews.bg/novini/sviat/sled-osueteniia-opit-za-teroristichen-akt-sasht-preduprediha-grazhdanite-si-vyv-velikobritaniia-2467562",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51104/51104389/991-ratio-policiia-velikobritaniia.jpg"
-    },
-    {
       "title": "Дете и още трима пострадаха при катастрофа с такси в Стара Загора",
       "url": "https://dariknews.bg/regioni/stara-zagora/dete-i-oshte-trima-postradaha-pri-katastrofa-s-taksi-v-stara-zagora-2467563",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51266/51266939/991-ratio-taksi.jpg"
+    },
+    {
+      "title": "След осуетения опит за терористичен акт: САЩ предупредиха гражданите си във Великобритания",
+      "url": "https://dariknews.bg/novini/sviat/sled-osueteniia-opit-za-teroristichen-akt-sasht-preduprediha-grazhdanite-si-vyv-velikobritaniia-2467562",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388469/991-ratio-voenna-baza.jpg"
     },
     {
       "title": "Регионалният министър: Започваме проверки на обществените поръчки за строителство",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
     },
     {
-      "title": "Най-малко двама души загинаха при приближаването на урагана „Поло“ към Мексико",
-      "url": "https://dariknews.bg/novini/sviat/naj-malko-dvama-dushi-zaginaha-pri-priblizhavaneto-na-uragana-polo-kym-meksiko-2467548",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
-    },
-    {
-      "title": "„Половин час детето ми е умирало“: нова експертиза за смъртта на Сияна разтърси баща ѝ",
-      "url": "https://dariknews.bg/novini/bylgariia/polovin-chas-deteto-mi-e-umiralo-nova-ekspertiza-za-smyrtta-na-siiana-raztyrsi-bashta--2467547",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Терористична заплаха край американска база във Великобритания: Петима мъже са арестувани",
-      "url": "https://dariknews.bg/novini/sviat/teroristichna-zaplaha-kraj-amerikanska-baza-vyv-velikobritaniia-petima-myzhe-sa-arestuvani-2467546",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51040/51040859/991-ratio-voenna-baza.jpg"
+      "title": "Бивш шеф на Манчестър Сити с мрачна прогноза: Глоба не стига, трябва да ги изхвърлят 28 Сеп | 10:41",
+      "url": "https://dsport.bg/bivsh-shef-na-manchestar-siti-s-mrachna-prognoza-globa-ne-stiga-trabva-da-gi-izhvarlat~240910.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2153734887~1.og.jpg"
     },
     {
       "title": "Жоао Феликс: Трансфер в Реал Мадрид? Ще бъда най-големият предател във футбола! 28 Сеп | 10:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2178970450-2-1-1-1~1.og.jpg"
-    },
-    {
-      "title": "Лиъм Галахър предрече каква ще е санкцията за Манчестър Сити 28 Сеп | 08:52",
-      "url": "https://dsport.bg/liam-galahar-predreche-kakva-ste-e-sankciata-za-manchestar-siti~240898.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276034047.og.jpg"
     }
   ]
 }
