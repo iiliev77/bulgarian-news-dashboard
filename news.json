@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T11:31:05.088882+00:00",
+  "updated": "2026-09-28T11:47:37.594948+00:00",
   "articles": [
+    {
+      "title": "Нови тротоари по бул. „Столетов“ в Габрово: Инвестицията е за 630 хил. евро",
+      "url": "https://dariknews.bg/regioni/gabrovo/novi-trotoari-po-bul.-stoletov-v-gabrovo-investiciiata-e-za-630-hil.-evro-2467604",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388540/991-ratio-deian-donchev.jpg"
+    },
+    {
+      "title": "Откриха канабис в кравеферма към затворническо общежитие в Смолян",
+      "url": "https://dariknews.bg/regioni/Smolyan/otkriha-kanabis-v-kraveferma-kym-zatvornichesko-obshtezhitie-v-smolian-2467602",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51383/51383178/991-ratio-marihuana-kanabis.jpg"
+    },
     {
       "title": "Двегодишно дете с тежки увреждания е евтаназирано в Нидерландия",
       "url": "https://dariknews.bg/novini/sviat/dvegodishno-dete-s-tezhki-uvrezhdaniia-e-evtanazirano-v-niderlandiia-2467601",
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50638/50638998/991-ratio-varna-avtobus-gradski-transport.jpg"
     },
     {
-      "title": "Гръцката полиция разследва напитка за заобикаляне на дрегер, която води и към България",
-      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razsledva-napitka-za-zaobikaliane-na-dreger-koiato-vodi-i-kym-bylgariia-2467583",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51222/51222934/991-ratio-dreger.jpg"
+      "title": "България ще гостува на Парагвай за оставане в Световна група I за Купа „Дейвис“ 28 Сеп | 14:46",
+      "url": "https://dsport.bg/balgaria-ste-gostuva-na-paragvai-za-ostavane-v-svetovna-grupa-i-za-kupa-deivis~240933.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/nacionali-0-1-.og.jfif"
     },
     {
-      "title": "Жена пострада при катастрофа с автобус, превозвал работници край Попинци",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/zhena-postrada-pri-katastrofa-s-avtobus-prevozval-rabotnici-kraj-popinci-2467582",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51376/51376280/991-ratio-avtobus.jpg"
+      "title": "Рекорди и амбиции за повече – Евроволей 2026 за България 28 Сеп | 14:43",
+      "url": "https://dsport.bg/rekordi-i-ambicii-za-poveche-evrovolei-2026-za-balgaria~240932.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/28.09-3~2.og.jpg"
+    },
+    {
+      "title": "Изкуството влиза в Маратон София 28 Сеп | 14:39",
+      "url": "https://dsport.bg/izkustvoto-vliza-v-maraton-sofia~240931.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/9700168-1~1.og.jpg"
     },
     {
       "title": "ЦСКА във финални преговори с предшественика на Томас Райс 28 Сеп | 14:20",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/741966.og.jpg"
-    },
-    {
-      "title": "Локо Пд взе мерки за терена на стадион „Христо Бонев“ след предупреждението от БФС 28 Сеп | 13:10",
-      "url": "https://dsport.bg/loko-pd-vze-merki-za-terena-na-stadion-hristo-bonev-sled-preduprezdenieto-ot-bfs~240923.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/lokopd56.og.jpg"
-    },
-    {
-      "title": "Завръщането на Антонио Конте в Ювентус отеква все по-силно в Италия 28 Сеп | 12:55",
-      "url": "https://dsport.bg/zavrastaneto-na-antonio-konte-v-uventus-otekva-vse-po-silno-v-italia~240922.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2255920710~1.og.jpg"
-    },
-    {
-      "title": "Ще съжалява ли Реал Мадрид? 28 Сеп | 12:37",
-      "url": "https://dsport.bg/ste-sazalava-li-real-madrid~240921.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296294678.og.jpg"
     }
   ]
 }
