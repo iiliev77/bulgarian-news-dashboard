@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-28T09:21:14.815824+00:00",
+  "updated": "2026-09-28T09:37:22.023502+00:00",
   "articles": [
+    {
+      "title": "Гръцката полиция разследва напитка срещу дрегер, която води и към България",
+      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razsledva-napitka-sreshtu-dreger-koiato-vodi-i-kym-bylgariia-2467583",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51222/51222934/991-ratio-dreger.jpg"
+    },
+    {
+      "title": "Жена пострада при катастрофа с автобус, превозвал работници край Попинци",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/zhena-postrada-pri-katastrofa-s-avtobus-prevozval-rabotnici-kraj-popinci-2467582",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51376/51376280/991-ratio-avtobus.jpg"
+    },
+    {
+      "title": "Случаят „Петрохан–Околчица“: Бащата на 15-годишното момче иска ексхумация на тялото на сина си",
+      "url": "https://dariknews.bg/novini/obshtestvo/sluchaiat-petrohanokolchica-bashtata-na-15-godishnoto-momche-iska-ekshumaciia-na-tialoto-na-sina-si-2467581",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Мисия на Международния валутен фонд пристига у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/misiia-na-mezhdunarodniia-valuten-fond-pristiga-u-nas-2467579",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388493/991-ratio-mvf.jpg"
+    },
+    {
+      "title": "Заловиха мъж с голямо количество фалшиво евро в Шумен (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/shumen/zaloviha-myzh-s-goliamo-kolichestvo-falshivo-evro-v-shumen-snimki-2467580",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388491/991-ratio-falshivo-evro-shumen.jpg"
+    },
     {
       "title": "Унгарският парламент свали имунитета на премиера Петер Мадяр",
       "url": "https://dariknews.bg/novini/sviat/ungarskiiat-parlament-svali-imuniteta-na-premiera-peter-madiar-2467578",
@@ -16,8 +51,8 @@
       "image": "https://m.netinfo.bg/media/images/51382/51382896/991-ratio-etna.jpg"
     },
     {
-      "title": "Тежка катастрофа на столичния булевард „Гешов“, има огромно задръстване",
-      "url": "https://dariknews.bg/novini/bylgariia/tezhka-katastrofa-na-stolichniia-bulevard-geshov-ima-ogromno-zadrystvane-2467576",
+      "title": "Катастрофа на столичния булевард „Гешов“, има огромно задръстване",
+      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-na-stolichniia-bulevard-geshov-ima-ogromno-zadrystvane-2467576",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51320/51320375/991-ratio-policiia-sireni.jpg"
@@ -107,39 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50990/50990985/991-ratio-kaia-kalas.jpg"
     },
     {
-      "title": "Разкриха подробности за тежката катастрофа край Лясковец, при която загина моторист",
-      "url": "https://dariknews.bg/novini/bylgariia/razkriha-podrobnosti-za-tezhkata-katastrofa-kraj-liaskovec-pri-koiato-zagina-motorist-2467561",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
-    },
-    {
-      "title": "След осуетения опит за терористичен акт: САЩ предупредиха гражданите си във Великобритания",
-      "url": "https://dariknews.bg/novini/sviat/sled-osueteniia-opit-za-teroristichen-akt-sasht-preduprediha-grazhdanite-si-vyv-velikobritaniia-2467562",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388469/991-ratio-voenna-baza.jpg"
-    },
-    {
-      "title": "Дете и още трима пострадаха при катастрофа с такси в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/dete-i-oshte-trima-postradaha-pri-katastrofa-s-taksi-v-stara-zagora-2467563",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51266/51266939/991-ratio-taksi.jpg"
-    },
-    {
-      "title": "Регионалният министър: Жителите на България ще получат магистрали, ще имаме истинска свързаност",
-      "url": "https://dariknews.bg/novini/bylgariia/regionalniiat-ministyr-zhitelite-na-bylgariia-shte-poluchat-magistrali-shte-imame-istinska-svyrzanost-2467560",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51370/51370074/991-ratio-ivan-shishkov.jpg"
-    },
-    {
-      "title": "Коя е Ана Бърнабич – жената, която временно поема президентския пост в Сърбия",
-      "url": "https://dariknews.bg/novini/sviat/koia-e-ana-byrnabich-zhenata-koiato-vremenno-poema-prezidentskiia-post-v-syrbiia-2467559",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32628/32628600/991-ratio-ana-byrnabich.jpg"
+      "title": "Новата цел на Реал Мадрид: 20-годишен германски защитник с рекорден скок в цената 28 Сеп | 12:10",
+      "url": "https://dsport.bg/novata-cel-na-real-madrid-20-godishen-germanski-zastitnik-s-rekorden-skok-v-cenata~240919.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294488576.og.jpg"
     },
     {
       "title": "Алекс Баена посочи своя фаворит за Златната топка и изненада всички (ВИДЕО) 28 Сеп | 12:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1761661207-1.og.jpg"
-    },
-    {
-      "title": "Правната сага с Манчестър Сити се задълбочава, решението може да отнеме години 28 Сеп | 10:21",
-      "url": "https://dsport.bg/pravnata-saga-s-manchestar-siti-se-zadalbochava-reshenieto-moze-da-otneme-godini~240908.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2289184391~1.og.jpg"
     }
   ]
 }
