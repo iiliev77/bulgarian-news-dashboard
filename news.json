@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-28T06:22:19.981812+00:00",
+  "updated": "2026-09-28T06:44:19.252446+00:00",
   "articles": [
+    {
+      "title": "Астрономи откриха „звезден поток“ извън Млечния път",
+      "url": "https://dariknews.bg/novini/liubopitno/astronomi-otkriha-zvezden-potok-izvyn-mlechniia-pyt-2467552",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/41038/41038823/991-ratio-mlechniia-pyt-kosmos.jpg"
+    },
+    {
+      "title": "Депутатът Ангел Георгиев не е допуснат в Северна Македония за делото срещу Ива Михайлова",
+      "url": "https://dariknews.bg/novini/bylgariia/deputatyt-angel-georgiev-ne-e-dopusnat-v-severna-makedoniia-za-deloto-sreshtu-iva-mihajlova-2467554",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388393/991-ratio-angel-georgiev.jpg"
+    },
+    {
+      "title": "Спипаха марихуана за близо половин милион евро в камион с авточасти на „Капитан Андреево“ (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/haskovo/spipaha-marihuana-za-blizo-polovin-milion-evro-v-kamion-s-avtochasti-na-kapitan-andreevo-snimkivideo-2467555",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Демерджиев: Надяваме се прокуратурата да работи за мантинелите със същата скорост, с която по сигнала на Пеевски",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nadiavame-se-prokuraturata-da-raboti-za-mantinelite-sys-syshtata-skorost-s-koiato-po-signala-na-peevski-2467553",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
+    },
+    {
+      "title": "Чужда домашна ракия в хладилника? Властта предвижда глоба от 1 000 евро",
+      "url": "https://dariknews.bg/novini/bylgariia/chuzhda-domashna-rakiia-v-hladilnika-vlastta-predvizhda-globa-ot-1-000-evro-2467556",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48794/48794379/991-ratio-slivova-rakiia.jpg"
+    },
     {
       "title": "Над 8000 са вече заразените с ебола в ДР Конго",
       "url": "https://dariknews.bg/novini/sviat/nad-8000-sa-veche-zarazenite-s-ebola-v-dr-kongo-2467551",
@@ -69,7 +104,7 @@
       "url": "https://dariknews.bg/novini/sviat/novi-ruski-udari-desetki-raneni-i-zhertvi-sred-civilni-v-ukrajna-2467541",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51117/51117532/991-ratio-harkov.jpg"
+      "image": "https://m.netinfo.bg/media/images/51388/51388373/991-ratio-kiev.jpg"
     },
     {
       "title": "„Хората се страхуват да излязат“: мъж с брадва вилнее в село Бели извор",
@@ -107,39 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388362/991-ratio-sasht-armiia-irak.jpg"
     },
     {
-      "title": "„Не на вандализма“: Протест пред Съдебната палата в София за случая „Петрохан“",
-      "url": "https://dariknews.bg/novini/bylgariia/ne-na-vandalizma-protest-pred-sydebnata-palata-v-sofiia-za-sluchaia-petrohan-2467537",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Клоп: Предпочитам лош старт пред лош край 28 Сеп | 09:32",
+      "url": "https://dsport.bg/klop-predpochitam-losh-start-pred-losh-krai~240903.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297446781.og.jpg"
     },
     {
-      "title": "Огън, мускули и екшън: Филип Буков в най-горещата си роля - на пожарникар",
-      "url": "https://dariknews.bg/novini/liubopitno/ogyn-muskuli-i-ekshyn-filip-bukov-v-naj-goreshtata-si-rolia-na-pozharnikar-2467350",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387165/991-ratio-filip-bukov.jpg"
+      "title": "УЕФА алармира: Висшата лига изкривява трансферния пазар 28 Сеп | 09:20",
+      "url": "https://dsport.bg/uefa-alarmira-visshata-liga-izkrivava-transfernia-pazar~240902.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2295669181.og.jpg"
     },
     {
-      "title": "Употребата на захар в ранна възраст може да увеличи риска от тревожност години по-късно",
-      "url": "https://dariknews.bg/novini/liubopitno/upotrebata-na-zahar-v-ranna-vyzrast-mozhe-da-uvelichi-riska-ot-trevozhnost-godini-po-kysno-2467414",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35287/35287105/991-ratio-deca-zahar-sladkishi-sladki-neshta.jpg"
-    },
-    {
-      "title": "Назална или инжекционна противогрипна ваксина за децата – какво трябва да знаят родителите",
-      "url": "https://dariknews.bg/novini/bylgariia/nazalna-ili-inzhekcionna-protivogripna-vaksina-za-decata-kakvo-triabva-da-znaiat-roditelite-2467520",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388242/991-ratio-vaksina-bebe.jpg"
-    },
-    {
-      "title": "Община призна: Спестихме средства и маркировката на пътя Гара Елин Пелин – Лесново криволичи",
-      "url": "https://dariknews.bg/regioni/sofiia/obshtina-prizna-spestihme-sredstva-i-markirovkata-na-pytia-gara-elin-pelin-lesnovo-krivolichi-2467534",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Ламин Ямал със смело изявление: На ниво съм за Златната топка отдавна, но възрастта ми пречи 28 Сеп | 09:10",
+      "url": "https://dsport.bg/lamin-amal-sas-smelo-izavlenie-na-nivo-sam-za-zlatnata-topka-otdavna-no-vazrastta-mi-prechi~240900.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294365346.og.jpg"
     },
     {
       "title": "Хавиер Тебас с взривяващ коментар за Манчестър Сити: Истината излиза наяве! 28 Сеп | 09:00",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297460987.og.jpg"
-    },
-    {
-      "title": "Кристиано не игра, но Холанд не стигна на Норвегия срещу Португалия 27 Сеп | 23:59",
-      "url": "https://dsport.bg/kristiano-ne-igra-no-holand-ne-stigna-na-norvegia-srestu-portugalia~240892.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297435842.og.jpg"
-    },
-    {
-      "title": "Гърция шокира Германия, Клоп остава без успех начело на Бундестима 27 Сеп | 23:42",
-      "url": "https://dsport.bg/garcia-shokira-germania-klop-ostava-bez-uspeh-nachelo-na-bundestima~240891.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297438341.og.jpg"
-    },
-    {
-      "title": "Ирландия разби Израел в мач, предизвикал огромно напрежение 27 Сеп | 23:35",
-      "url": "https://dsport.bg/irlandia-razbi-izrael-v-mach-predizvikal-ogromno-naprezenie~240890.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296906397.og.jpg"
     }
   ]
 }
