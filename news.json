@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T16:59:41.129573+00:00",
+  "updated": "2026-09-28T17:14:25.443892+00:00",
   "articles": [
+    {
+      "title": "Полетът на „Старшип“ на „Спейс Екс“ бе прекратен преждевременно (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/poletyt-na-starship-na-spejs-eks-be-prekraten-prezhdevremenno-video-2467638",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Протест под надслов „Долу Йотова“ в триъгълника на властта",
       "url": "https://dariknews.bg/novini/bylgariia/protest-pod-nadslov-dolu-iotova-v-triygylnika-na-vlastta-2467637",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50463/50463248/991-ratio-amfetamin.jpg"
     },
     {
-      "title": "Руски дрон удари сградата на украинската Национална академия на науките в Киев (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/ruski-dron-udari-sgradata-na-ukrainskata-nacionalna-akademiia-na-naukite-v-kiev-video-2467611",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388577/991-ratio-ukrainskata-nacionalna-akademiia-na-naukite.jpg"
+      "title": "Рой Кийн за Манчестър Сити: Решиха да мамят и заслужават наказание 28 Сеп | 20:02",
+      "url": "https://dsport.bg/roi-kiin-za-manchestar-siti-reshiha-da-mamat-i-zasluzavat-nakazanie~240954.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2149627915~2.og.jpg"
     },
     {
       "title": "Димитров: Времето ми на селекционер е изпълнено с негативизъм, много преди мен не са пречупили прокобата 28 Сеп | 19:44",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1300705436.og.jpg"
-    },
-    {
-      "title": "Левски ще играе с лекари за благотворителна кауза 28 Сеп | 17:25",
-      "url": "https://dsport.bg/levski-ste-igrae-s-lekari-za-blagotvoritelna-kauza~240945.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/28.09-7~1.og.jpg"
     }
   ]
 }
