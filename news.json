@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:29:34.190473+00:00",
+  "updated": "2026-09-28T17:43:39.411904+00:00",
   "articles": [
     {
       "title": "Криминален психолог: Винаги е имало секти и винаги ще има",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50869/50869352/991-ratio-pozhar-pozhar-gora.jpg"
     },
     {
+      "title": "Легендата Марсело влиза в закъсал френски клуб? 28 Сеп | 20:32",
+      "url": "https://dsport.bg/legendata-marselo-vliza-v-pozakasal-frenski-klub~240956.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2198410504.og.jpg"
+    },
+    {
       "title": "Рой Кийн за Манчестър Сити: Решиха да мамят и заслужават наказание 28 Сеп | 20:02",
       "url": "https://dsport.bg/roi-kiin-za-manchestar-siti-reshiha-da-mamat-i-zasluzavat-nakazanie~240954.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1025208.og.jpg"
-    },
-    {
-      "title": "Потвърждение от Германия: ЦСКА назначава Гиздол 28 Сеп | 17:31",
-      "url": "https://dsport.bg/bild-cska-dade-rabota-na-germanec~240944.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1300705436.og.jpg"
     }
   ]
 }
