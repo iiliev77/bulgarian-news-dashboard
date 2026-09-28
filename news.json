@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T19:10:31.934455+00:00",
+  "updated": "2026-09-28T19:24:43.362060+00:00",
   "articles": [
     {
       "title": "„Държавата ме държи като заложник“: Ива Михайлова с тежки обвинения в съда в Кочани",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388594/991-ratio-igri-na-voliata.jpg"
     },
     {
+      "title": "Ивайло Петев ще вади Здравко Димитров от кризата 28 Сеп | 22:24",
+      "url": "https://dsport.bg/ivailo-petev-ste-vadi-zdravko-dimitrov-ot-krizata~240961.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/505131~2.og.jpg"
+    },
+    {
       "title": "Соле и бивш нападател на ЦСКА с втора загуба за ЦАР 28 Сеп | 21:58",
       "url": "https://dsport.bg/sole-i-bivsh-napadatel-na-cska-s-vtora-zaguba-za-car~240960.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2240477580.og.jpg"
-    },
-    {
-      "title": "Коментарно студио: ново дъно за националите, нов треньор в ЦСКА!? 28 Сеп | 19:12",
-      "url": "https://dsport.bg/komentarno-studio-novo-dano-za-nacionalite-nov-trenor-v-cska~240950.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-1315-~1.og.png"
     }
   ]
 }
