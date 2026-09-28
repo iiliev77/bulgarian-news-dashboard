@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T15:11:34.733344+00:00",
+  "updated": "2026-09-28T15:30:09.360521+00:00",
   "articles": [
+    {
+      "title": "Цените на горивата: КЗК поиска данни от 7 компании за търговията на едро",
+      "url": "https://dariknews.bg/novini/bylgariia/cenite-na-gorivata-kzk-poiska-danni-ot-7-kompanii-za-tyrgoviiata-na-edro-2467634",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50213/50213942/991-ratio-benzinostanciia.jpg"
+    },
     {
       "title": "Премахват незаконен строеж в лесопарк „Кошарите“, теренът ще бъде озеленен (СНИМКИ)",
       "url": "https://dariknews.bg/regioni/sofiia/premahvat-nezakonen-stroezh-v-lesopark-kosharite-terenyt-shte-byde-ozelenen-snimki-2467632",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388566/991-ratio-papa-lyv.jpg"
     },
     {
-      "title": "Пухкав гламур: Юрдечка, зайци и питбул на един червен килим - Русе събра най-шарения парад (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/ruse/puhkav-glamur-iurdechka-zajci-i-pitbul-na-edin-cherven-kilim-ruse-sybra-naj-shareniia-parad-snimki-2467608",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388562/991-ratio-zhivotni-defile-ruse.jpg"
+      "title": "Легенда на Байерн предречи трудни времена за Германия при Клоп 28 Сеп | 18:23",
+      "url": "https://dsport.bg/legenda-na-baiern-predrechi-trudni-vremena-za-germania-pri-klop~240948.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1391924774.og.jpg"
     },
     {
       "title": "Теодор Иванов напусна националите и се върна в ЦСКА 28 Сеп | 17:48",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1026516-1.og.jpg"
-    },
-    {
-      "title": "Въпреки ранното отпадане от Европейското – България си гарантира място на Световното 28 Сеп | 15:52",
-      "url": "https://dsport.bg/vapreki-rannoto-otpadane-ot-evropeiskoto-balgaria-si-garantira-masto-na-svetovnoto~240937.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1027239.og.jpg"
     }
   ]
 }
