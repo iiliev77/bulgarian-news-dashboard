@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T15:59:10.600470+00:00",
+  "updated": "2026-09-28T16:15:31.197291+00:00",
   "articles": [
     {
       "title": "Тестват BG-ALERT в цялата страна на 1 октомври",
@@ -142,7 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/49543/49543870/991-ratio-bojko-borisov-arest.jpg"
     },
     {
-      "title": "Возиня си иска живота обратно, славата се оказа тежко бреме 28 Сеп | 18:49",
+      "title": "Коментарно студио: ново дъно за националите, нов треньор в ЦСКА!? 28 Сеп | 19:12",
+      "url": "https://dsport.bg/komentarno-studio-novo-dano-za-nacionalite-nov-trenor-v-cska~240950.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-1315-~1.og.png"
+    },
+    {
+      "title": "Возиня си иска живота обратно, славата се оказа тежко бреме 28 Сеп | 18:55",
       "url": "https://dsport.bg/vozina-si-iska-zivota-obratno~240947.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296863167.og.jpg"
-    },
-    {
-      "title": "Григор Димитров се отказа от турнир в Порто 28 Сеп | 16:32",
-      "url": "https://dsport.bg/grigor-dimitrov-se-otkaza-ot-turnir-v-porto~240940.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2292433441~1.og.jpg"
     }
   ]
 }
