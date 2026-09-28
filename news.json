@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-28T09:37:22.023502+00:00",
+  "updated": "2026-09-28T09:51:54.362546+00:00",
   "articles": [
+    {
+      "title": "Евростат: 4,6% от българите над 16 години пият алкохол всеки ден",
+      "url": "https://dariknews.bg/novini/bylgariia/evrostat-46-ot-bylgarite-nad-16-godini-piiat-alkohol-vseki-den-2467587",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50981/50981767/991-ratio-alkohol.jpg"
+    },
+    {
+      "title": "Мъж си напазарува дрехи с фалшива банкнота от 200 евро във Варна",
+      "url": "https://dariknews.bg/regioni/varna/myzh-si-napazaruva-drehi-s-falshivabanknota-ot-200-evro-vyv-varna-2467586",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
+    },
+    {
+      "title": "Ученик е бил пребит в двора на училище в Ихтиман",
+      "url": "https://dariknews.bg/regioni/sofiia/uchenik-e-bil-prebit-v-dvora-na-uchilishte-v-ihtiman-2467585",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51269/51269768/991-ratio-pytna-policiia.jpg"
+    },
+    {
+      "title": "Автобус на градския транспорт във Варна се заби в стълб, пострада 6-годишно дете",
+      "url": "https://dariknews.bg/regioni/varna/avtobus-na-gradskiia-transport-vyv-varna-se-zabi-v-stylb-postrada-6-godishno-dete-2467584",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50638/50638998/991-ratio-varna-avtobus-gradski-transport.jpg"
+    },
     {
       "title": "Гръцката полиция разследва напитка срещу дрегер, която води и към България",
       "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razsledva-napitka-sreshtu-dreger-koiato-vodi-i-kym-bylgariia-2467583",
@@ -51,8 +79,8 @@
       "image": "https://m.netinfo.bg/media/images/51382/51382896/991-ratio-etna.jpg"
     },
     {
-      "title": "Катастрофа на столичния булевард „Гешов“, има огромно задръстване",
-      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-na-stolichniia-bulevard-geshov-ima-ogromno-zadrystvane-2467576",
+      "title": "Катастрофа на столичния булевард „Гешов“ доведе до огромно задръстване",
+      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-na-stolichniia-bulevard-geshov-dovede-do-ogromno-zadrystvane-2467576",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51320/51320375/991-ratio-policiia-sireni.jpg"
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/47494/47494069/991-ratio-artefakti-velikobritaniia-bylgariia.jpg"
     },
     {
-      "title": "Ново заседание по делото срещу Кирил Петков за арестите на Борисов, Горанов и Арнаудова",
-      "url": "https://dariknews.bg/novini/bylgariia/novo-zasedanie-po-deloto-sreshtu-kiril-petkov-za-arestite-na-borisov-goranov-i-arnaudova-2467567",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51219/51219407/991-ratio-kiril-petkov.jpg"
-    },
-    {
-      "title": "От побой до заплахи: Три случая на насилие между бивши партньори в Старозагорско",
-      "url": "https://dariknews.bg/regioni/stara-zagora/ot-poboj-do-zaplahi-tri-sluchaia-na-nasilie-mezhdu-bivshi-partniori-v-starozagorsko-2467565",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51113/51113946/991-ratio-boj.jpg"
-    },
-    {
-      "title": "18-годишен шофьор с месец стаж катастрофира и преобърна кола, пълна с младежи",
-      "url": "https://dariknews.bg/novini/bylgariia/18-godishen-shofior-s-mesec-stazh-katastrofira-i-preobyrna-kola-pylna-s-mladezhi-2467566",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
-    },
-    {
-      "title": "Калас: Русия готви саботажи срещу демокрацията в ЕС",
-      "url": "https://dariknews.bg/novini/sviat/kalas-rusiia-gotvi-sabotazhi-sreshtu-demokraciiata-v-es-2467564",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50990/50990985/991-ratio-kaia-kalas.jpg"
+      "title": "На крачка от вечния рекорд 28 Сеп | 12:24",
+      "url": "https://dsport.bg/na-krachka-ot-vechnia-rekord~240920.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297460976.og.jpg"
     },
     {
       "title": "Новата цел на Реал Мадрид: 20-годишен германски защитник с рекорден скок в цената 28 Сеп | 12:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2153734887~1.og.jpg"
-    },
-    {
-      "title": "Жоао Феликс: Трансфер в Реал Мадрид? Ще бъда най-големият предател във футбола! 28 Сеп | 10:32",
-      "url": "https://dsport.bg/zoao-feliks-transfer-v-real-madrid-ste-bada-nai-golemiat-predatel-vav-futbola~240909.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1761661207-1.og.jpg"
     }
   ]
 }
