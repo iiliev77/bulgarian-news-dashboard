@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T06:44:19.252446+00:00",
+  "updated": "2026-09-28T07:00:29.617690+00:00",
   "articles": [
+    {
+      "title": "Дрон навлязе във въздушното пространство на Румъния, вдигнаха изтребители",
+      "url": "https://dariknews.bg/novini/sviat/dron-navliaze-vyv-vyzdushnoto-prostranstvo-na-rumyniia-vdignaha-iztrebiteli-2467557",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50935/50935930/991-ratio-dron.jpg"
+    },
     {
       "title": "Астрономи откриха „звезден поток“ извън Млечния път",
       "url": "https://dariknews.bg/novini/liubopitno/astronomi-otkriha-zvezden-potok-izvyn-mlechniia-pyt-2467552",
@@ -27,7 +34,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nadiavame-se-prokuraturata-da-raboti-za-mantinelite-sys-syshtata-skorost-s-koiato-po-signala-na-peevski-2467553",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Чужда домашна ракия в хладилника? Властта предвижда глоба от 1 000 евро",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388116/991-ratio-zhena-sport.jpg"
     },
     {
-      "title": "САЩ са изтеглили окончателно военните си от Ирак, очакват се четиридневни празници",
-      "url": "https://dariknews.bg/novini/sviat/sasht-sa-izteglili-okonchatelno-voennite-si-ot-irak-ochakvat-se-chetiridnevni-praznici-2467538",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388362/991-ratio-sasht-armiia-irak.jpg"
+      "title": "Гол, достоен за Златна топка, който наруши законите на геометрията 28 Сеп | 09:43",
+      "url": "https://dsport.bg/gol-dostoen-za-zlatna-topka-koito-narushi-zakonite-na-geometriata~240904.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297460975.og.jpg"
     },
     {
       "title": "Клоп: Предпочитам лош старт пред лош край 28 Сеп | 09:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297435062.og.jpg"
-    },
-    {
-      "title": "Магията на Меси не стигна, Интер Маями с болезнена загуба (ВИДЕО) 28 Сеп | 08:03",
-      "url": "https://dsport.bg/magiata-na-mesi-ne-stigna-inter-maami-s-boleznena-zaguba-video~240893.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297460987.og.jpg"
     }
   ]
 }
