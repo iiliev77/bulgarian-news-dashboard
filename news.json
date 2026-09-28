@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-28T14:25:47.354658+00:00",
+  "updated": "2026-09-28T14:41:12.063196+00:00",
   "articles": [
+    {
+      "title": "България и Япония обсъдиха партньорство в роботиката и изкуствения интелект",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-iaponiia-obsydiha-partniorstvo-v-robotikata-i-izkustveniia-intelekt-2467631",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388636/991-ratio-velislava-petrova.jpg"
+    },
     {
       "title": "Над 400 посетители, 15 лекции и десетки въпроси на „Ох, на мама!“ в Пловдив (СНИМКИ)",
       "url": "https://dariknews.bg/novini/liubopitno/nad-400-posetiteli-15-lekcii-i-desetki-vyprosi-na-oh-na-mama-v-plovdiv-snimki-2467628",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388630/991-ratio-oh-na-mama.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Украинският премиер: Най-уязвимите хора е добре да напуснат големите градове преди зимата",
@@ -48,7 +55,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/donev-sled-memetata-niamalo-da-debne-koj-pie-domashna-rakiia-a-koj-ia-prodava-nezakonno-2467621",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
       "title": "Министър Найденов стартира подбор за европейски прокурор",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50119/50119458/991-ratio-princ-uiliam.jpg"
     },
     {
-      "title": "Нови тротоари по бул. „Столетов“ в Габрово: Инвестицията е за 630 хил. евро",
-      "url": "https://dariknews.bg/regioni/gabrovo/novi-trotoari-po-bul.-stoletov-v-gabrovo-investiciiata-e-za-630-hil.-evro-2467604",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388540/991-ratio-deian-donchev.jpg"
+      "title": "Потвърждение от Германия: ЦСКА назначава Гиздол 28 Сеп | 17:31",
+      "url": "https://dsport.bg/bild-cska-dade-rabota-na-germanec~240944.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1300705436.og.jpg"
+    },
+    {
+      "title": "Левски ще играе с лекари за благотворителна кауза 28 Сеп | 17:25",
+      "url": "https://dsport.bg/levski-ste-igrae-s-lekari-za-blagotvoritelna-kauza~240945.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/28.09-7~1.og.jpg"
     },
     {
       "title": "Илиян Филипов към Венци Стефанов: Преди да коментира Лом и Лондон, да погледне собствения си двор 28 Сеп | 17:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/28.09-5.og.jpg"
-    },
-    {
-      "title": "Юношите с ново равенство срещу Естония в Етрополе (ВИДЕО) 28 Сеп | 15:22",
-      "url": "https://dsport.bg/unoshite-s-novo-ravenstvo-srestu-estonia-v-etropole~240935.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/28.09-4~1.og.jpg"
-    },
-    {
-      "title": "Голмайсторът на ЦСКА привлече вниманието отвъд Океана 28 Сеп | 15:07",
-      "url": "https://dsport.bg/golmaistorat-na-cska-privleche-vnimanieto-otvad-okeana~240934.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1027741.og.jpg"
     }
   ]
 }
