@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T18:57:23.984534+00:00",
+  "updated": "2026-09-28T19:10:31.934455+00:00",
   "articles": [
+    {
+      "title": "„Държавата ме държи като заложник“: Ива Михайлова с тежки обвинения в съда в Кочани",
+      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-me-dyrzhi-kato-zalozhnik-iva-mihajlova-s-tezhki-obvineniia-v-syda-v-kochani-2467642",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
+    },
     {
       "title": "Съвместна летателна тренировка на военнотранспортната авиация се провежда у нас",
       "url": "https://dariknews.bg/novini/bylgariia/syvmestna-letatelna-trenirovka-na-voennotransportnata-aviaciia-se-provezhda-u-nas-2467641",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388594/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Нови полети до българското море? България и Армения с план за повече туристи",
-      "url": "https://dariknews.bg/novini/bylgariia/novi-poleti-do-bylgarskoto-more-bylgariia-i-armeniia-s-plan-za-poveche-turisti-2467616",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388581/991-ratio-bylgariia-i-armeniia-zadylbochavat-sytrudnichestvoto-v-zdravniia-turizym.jpg"
+      "title": "Соле и бивш нападател на ЦСКА с втора загуба за ЦАР 28 Сеп | 21:58",
+      "url": "https://dsport.bg/sole-i-bivsh-napadatel-na-cska-s-vtora-zaguba-za-car~240960.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1013308~1.og.jpg"
     },
     {
       "title": "Исторически момент: братя титуляри за Италия – невиждано от 111 години 28 Сеп | 21:35",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-1315-~1.og.png"
-    },
-    {
-      "title": "Возиня си иска живота обратно, славата се оказа тежко бреме 28 Сеп | 18:55",
-      "url": "https://dsport.bg/vozina-si-iska-zivota-obratno~240947.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2291661089.og.jpg"
     }
   ]
 }
