@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T16:33:02.269839+00:00",
+  "updated": "2026-09-28T16:48:48.001404+00:00",
   "articles": [
+    {
+      "title": "Протест под надслов „Долу Йотова“ в триъгълника на властта",
+      "url": "https://dariknews.bg/novini/bylgariia/protest-pod-nadslov-dolu-iotova-v-triygylnika-na-vlastta-2467637",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388659/991-ratio-protest.jpg"
+    },
     {
       "title": "Учител бе застрелян, а ученичка отиде на училище с пушка в Турция",
       "url": "https://dariknews.bg/novini/sviat/uchitel-be-zastrelian-a-uchenichka-otide-na-uchilishte-s-pushka-v-turciia-2467636",
@@ -135,14 +142,21 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388577/991-ratio-ukrainskata-nacionalna-akademiia-na-naukite.jpg"
     },
     {
-      "title": "Вятърът в Сливен достига скорост от 72 км/ч",
-      "url": "https://dariknews.bg/regioni/sliven/viatyryt-v-sliven-dostiga-skorost-ot-72-kmch-2467610",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/42759/42759698/991-ratio-obshtina-sliven.jpg"
+      "title": "Димитров: Времето ми на селекционер е изпълнено с негативизъм, много преди мен не са пречупили прокобата 28 Сеп | 19:44",
+      "url": "https://dsport.bg/dimitrov-vremeto-mi-na-selekcioner-e-izpalneno-s-negativizam-mnogo-predi-men-ne-sa-prechupili-prokobata~240953.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1030904.og.jpg"
     },
     {
-      "title": "Селекционерът на Естония: Опасно е да мислич, че проблемите на България ще ни улеснят 28 Сеп | 19:25",
+      "title": "Братя Николови започват подготовка с Лубе Чивитанова 28 Сеп | 19:41",
+      "url": "https://dsport.bg/brata-nikolovi-zapochvat-podgotovka-s-lube-chivitanova~240952.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1027409.og.jpg"
+    },
+    {
+      "title": "Селекционерът на Естония: Опасно е да мислим, че проблемите на България ще ни улеснят 28 Сеп | 19:25",
       "url": "https://dsport.bg/selekcionerat-na-estonia-opasno-e-da-mislich-che-problemite-na-balgaria-ste-ni-ulesnat~240951.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/28.09-7~1.og.jpg"
-    },
-    {
-      "title": "Илиян Филипов към Венци Стефанов: Преди да коментира Лом и Лондон, да погледне собствения си двор 28 Сеп | 17:10",
-      "url": "https://dsport.bg/ilian-filipov-kam-venci-stefanov-predi-da-komentira-lom-i-london-da-pogledne-sobstvenia-si-dvor~240943.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/868230-1~1.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 28.09.2026 г. 28 Сеп | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-28-09-2026-g~240942.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-28-170242.og.png"
     }
   ]
 }
