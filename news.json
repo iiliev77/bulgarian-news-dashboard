@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T10:20:39.091851+00:00",
+  "updated": "2026-09-28T10:35:42.173334+00:00",
   "articles": [
+    {
+      "title": "Бизнесът предлага да се облага само увеличението на ваучерите за храна",
+      "url": "https://dariknews.bg/novini/bylgariia/biznesyt-predlaga-da-se-oblaga-samo-uvelichenieto-na-vaucherite-za-hrana-2467592",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51169/51169292/991-ratio-magazin-hrana.jpg"
+    },
+    {
+      "title": "Мъж е в тежко състояние след катастрофа в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/myzh-e-v-tezhko-systoianie-sled-katastrofa-v-plovdiv-2467593",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50721/50721891/991-ratio-katastrofa-kola.jpg"
+    },
     {
       "title": "Коя е Ана Бърнабич - жената, която пое временно държавното кормило в Сърбия",
       "url": "https://dariknews.bg/novini/sviat/koia-e-ana-byrnabich-zhenata-koiato-poe-vremenno-dyrzhavnoto-kormilo-v-syrbiia-2467590",
@@ -118,7 +132,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/katastrofa-na-stolichniia-bulevard-geshov-dovede-do-ogromno-zadrystvane-2467576",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51320/51320375/991-ratio-policiia-sireni.jpg"
+      "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
     },
     {
       "title": "Лидерката на шведските социалдемократи Андершон не успя да сформира правителство",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50042/50042295/991-ratio-magdalena-andershon.jpg"
     },
     {
-      "title": "Две момчета се удариха с кросов мотор и АТВ край Попово",
-      "url": "https://dariknews.bg/novini/dve-momcheta-se-udariha-s-krosov-motor-i-atv-kraj-popovo-2467574",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51165/51165796/991-ratio-atv.jpg"
+      "title": "„Заедно с Ботев“ продължава с фланелката на Алберто Салидо от класиката в София 28 Сеп | 13:20",
+      "url": "https://dsport.bg/zaedno-s-botev-prodalzava-s-flanelkata-na-alberto-salido-ot-klasikata-v-sofia~240925.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/salido.og.jpg"
     },
     {
-      "title": "Папа Лъв XIV пристигна в Мец, последния етап от посещението му във Франция (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-pristigna-v-mec-posledniia-etap-ot-poseshtenieto-mu-vyv-franciia-video-2467573",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
+      "title": "Бивш световен шампион: Ангелов е най-добрият вариант за борбата 28 Сеп | 13:18",
+      "url": "https://dsport.bg/bivsh-svetoven-shampion-angelov-e-nai-dobriat-variant-za-borbata~240924.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/741966.og.jpg"
     },
     {
       "title": "Локо Пд взе мерки за терена на стадион „Христо Бонев“ след предупреждението от БФС 28 Сеп | 13:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/goldenball.og.png"
-    },
-    {
-      "title": "Христо Крушарски потвърди: Напускам Локомотив Пловдив в сряда 28 Сеп | 11:21",
-      "url": "https://dsport.bg/hristo-krusharski-potvardi-napuskam-lokomotiv-plovdiv-v-srada~240914.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/421707-1.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив ще играе контрола 28 Сеп | 11:11",
-      "url": "https://dsport.bg/botev-plovdiv-ste-igrae-kontrola~240913.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/04.09-7-2.og.jpg"
     }
   ]
 }
