@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T15:46:36.520545+00:00",
+  "updated": "2026-09-28T15:59:10.600470+00:00",
   "articles": [
+    {
+      "title": "Тестват BG-ALERT в цялата страна на 1 октомври",
+      "url": "https://dariknews.bg/novini/bylgariia/testvat-bg-alert-v-cialata-strana-na-1-oktomvri-2467635",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50943/50943542/991-ratio-bg-alert.jpg"
+    },
     {
       "title": "Цените на горивата: КЗК поиска данни от 7 компании за търговията на едро",
       "url": "https://dariknews.bg/novini/bylgariia/cenite-na-gorivata-kzk-poiska-danni-ot-7-kompanii-za-tyrgoviiata-na-edro-2467634",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/49543/49543870/991-ratio-bojko-borisov-arest.jpg"
     },
     {
-      "title": "Папа Лъв XIV призова Европа да не забравя християнската си история (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-prizova-evropa-da-ne-zabravia-hristiianskata-si-istoriia-video-2467607",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388566/991-ratio-papa-lyv.jpg"
+      "title": "Возиня си иска живота обратно, славата се оказа тежко бреме 28 Сеп | 18:49",
+      "url": "https://dsport.bg/vozina-si-iska-zivota-obratno~240947.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2291661089.og.jpg"
+    },
+    {
+      "title": "Ювентус си върна вратар от Бразилия 28 Сеп | 18:43",
+      "url": "https://dsport.bg/uventus-si-varna-vratar-ot-brazilia~240949.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1047271878.og.jpg"
     },
     {
       "title": "Легенда на Байерн предречи трудни времена за Германия при Клоп 28 Сеп | 18:23",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2292433441~1.og.jpg"
-    },
-    {
-      "title": "Кметът на Пазарджик награди президента на леката атлетика 28 Сеп | 16:20",
-      "url": "https://dsport.bg/kmetat-na-pazardzik-nagradi-prezidenta-na-lekata-atletika~240938.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/28.09-6~1.og.jpg"
-    },
-    {
-      "title": "Веласкес с много по-голям избор след паузата 28 Сеп | 16:06",
-      "url": "https://dsport.bg/velaskes-s-mnogo-po-golam-izbor-sled-pauzata~240939.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1026516-1.og.jpg"
     }
   ]
 }
