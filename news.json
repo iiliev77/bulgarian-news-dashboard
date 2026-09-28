@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T11:14:31.107697+00:00",
+  "updated": "2026-09-28T11:31:05.088882+00:00",
   "articles": [
+    {
+      "title": "Двегодишно дете с тежки увреждания е евтаназирано в Нидерландия",
+      "url": "https://dariknews.bg/novini/sviat/dvegodishno-dete-s-tezhki-uvrezhdaniia-e-evtanazirano-v-niderlandiia-2467601",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38383/38383706/991-ratio-evtanaziia.jpg"
+    },
     {
       "title": "От 27 градуса до минус 5: Какво време ни очаква през октомври",
       "url": "https://dariknews.bg/novini/bylgariia/ot-27-gradusa-do-minus-5-kakvo-vreme-ni-ochakva-prez-oktomvri-2467598",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51376/51376280/991-ratio-avtobus.jpg"
     },
     {
-      "title": "Случаят „Петрохан–Околчица“: Бащата на 15-годишното момче иска ексхумация на тялото на сина си",
-      "url": "https://dariknews.bg/novini/obshtestvo/sluchaiat-petrohanokolchica-bashtata-na-15-godishnoto-momche-iska-ekshumaciia-na-tialoto-na-sina-si-2467581",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "ЦСКА във финални преговори с предшественика на Томас Райс 28 Сеп | 14:20",
+      "url": "https://dsport.bg/cska-vav-finalni-pregovori-s-predshestvenika-na-tomas-rais~240930.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1294136727.og.jpg"
     },
     {
       "title": "Славия обяви контрола през паузата 28 Сеп | 14:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296294678.og.jpg"
-    },
-    {
-      "title": "На крачка от вечния рекорд 28 Сеп | 12:24",
-      "url": "https://dsport.bg/na-krachka-ot-vechnia-rekord~240920.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297460976.og.jpg"
     }
   ]
 }
