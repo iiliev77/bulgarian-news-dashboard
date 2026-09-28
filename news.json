@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T09:01:48.462119+00:00",
+  "updated": "2026-09-28T09:21:14.815824+00:00",
   "articles": [
+    {
+      "title": "Унгарският парламент свали имунитета на премиера Петер Мадяр",
+      "url": "https://dariknews.bg/novini/sviat/ungarskiiat-parlament-svali-imuniteta-na-premiera-peter-madiar-2467578",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51303/51303484/991-ratio-peter-madiar.jpg"
+    },
     {
       "title": "Вулканична пепел от Етна парализира полетите в Катания за трети пореден ден",
       "url": "https://dariknews.bg/novini/sviat/vulkanichna-pepel-ot-etna-paralizira-poletite-v-kataniia-za-treti-poreden-den-2467577",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/32628/32628600/991-ratio-ana-byrnabich.jpg"
     },
     {
-      "title": "Скандал, бой и 100 души за саморазправа в Ботевград",
-      "url": "https://dariknews.bg/regioni/sofiia/skandal-boj-i-100-dushi-za-samorazprava-v-botevgrad-2467558",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44282/44282207/991-ratio-policiia-sinia-lampa-rusiia.jpg"
+      "title": "Алекс Баена посочи своя фаворит за Златната топка и изненада всички (ВИДЕО) 28 Сеп | 12:00",
+      "url": "https://dsport.bg/aleks-baena-posochi-svoa-favorit-za-zlatnata-topka-i-iznenada-vsichki-video~240918.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296744052.og.jpg"
+    },
+    {
+      "title": "Мексиканският диамант продължава да пише история 28 Сеп | 11:50",
+      "url": "https://dsport.bg/meksikanskiat-diamant-prodalzava-da-pishe-istoria~240916.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296780056.og.jpg"
     },
     {
       "title": "Мбапе, Ямал или Кейн? Гласуването за „Златната топка“ приключва, напрежението расте 28 Сеп | 11:30",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2289184391~1.og.jpg"
-    },
-    {
-      "title": "Иван Иванов с пробив в топ 500 28 Сеп | 10:10",
-      "url": "https://dsport.bg/ivan-ivanov-s-probiv-v-top-500~240907.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.11-4-2-1-2.og.jpg"
-    },
-    {
-      "title": "Елизара Янева постигна ново рекордно класиране в световната ранглиста по тенис при жените 28 Сеп | 09:55",
-      "url": "https://dsport.bg/elizara-aneva-postigna-novo-rekordno-klasirane-v-svetovnata-ranglista-po-tenis-pri-zenite~240905.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/elizara_qneva_bili-1.og.jpg"
     }
   ]
 }
