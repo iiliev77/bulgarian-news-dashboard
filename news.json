@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T13:54:06.875926+00:00",
+  "updated": "2026-09-28T14:05:30.812438+00:00",
   "articles": [
+    {
+      "title": "Донев с критика към шефа на БНБ: Излиза извън правомощията си",
+      "url": "https://dariknews.bg/novini/bylgariia/donev-s-kritika-kym-shefa-na-bnb-izliza-izvyn-pravomoshtiiata-si-2467624",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51258/51258694/991-ratio-dimityr-radev-iliiana-iotova.jpg"
+    },
     {
       "title": "Пожар край село Зорница затруднява движението между Хасковско и Кърджалийско",
       "url": "https://dariknews.bg/regioni/haskovo/pozhar-kraj-selo-zornica-zatrudniava-dvizhenieto-mezhdu-haskovsko-i-kyrdzhalijsko-2467623",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50938/50938331/991-ratio-esen.jpg"
     },
     {
-      "title": "Кремъл: Разговорите със САЩ за контрол на оръжията отдавна трябваше да започнат",
-      "url": "https://dariknews.bg/novini/sviat/kremyl-razgovorite-sys-sasht-za-kontrol-na-oryzhiiata-otdavna-triabvashe-da-zapochnat-2467597",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32580/32580952/991-ratio-dmitrij-peskov.jpg"
+      "title": "Спортното шоу на Дарик радио - 28.09.2026 г. 28 Сеп | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-28-09-2026-g~240942.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-28-170242.og.png"
+    },
+    {
+      "title": "Италия отмени тренировка заради лошо време 28 Сеп | 16:53",
+      "url": "https://dsport.bg/italia-otmeni-trenirovka-zaradi-losho-vreme~240941.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296863167.og.jpg"
     },
     {
       "title": "Григор Димитров се отказа от турнир в Порто 28 Сеп | 16:32",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/nacionali-0-1-.og.jfif"
-    },
-    {
-      "title": "Рекорди и амбиции за повече – Евроволей 2026 за България 28 Сеп | 14:43",
-      "url": "https://dsport.bg/rekordi-i-ambicii-za-poveche-evrovolei-2026-za-balgaria~240932.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/28.09-3~2.og.jpg"
-    },
-    {
-      "title": "Изкуството влиза в Маратон София 28 Сеп | 14:39",
-      "url": "https://dsport.bg/izkustvoto-vliza-v-maraton-sofia~240931.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/9700168-1~1.og.jpg"
     }
   ]
 }
