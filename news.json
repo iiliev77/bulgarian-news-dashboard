@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T16:15:31.197291+00:00",
+  "updated": "2026-09-28T16:33:02.269839+00:00",
   "articles": [
+    {
+      "title": "Учител бе застрелян, а ученичка отиде на училище с пушка в Турция",
+      "url": "https://dariknews.bg/novini/sviat/uchitel-be-zastrelian-a-uchenichka-otide-na-uchilishte-s-pushka-v-turciia-2467636",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388656/991-ratio-momiche-pushka.jpg"
+    },
     {
       "title": "Тестват BG-ALERT в цялата страна на 1 октомври",
       "url": "https://dariknews.bg/novini/bylgariia/testvat-bg-alert-v-cialata-strana-na-1-oktomvri-2467635",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/42759/42759698/991-ratio-obshtina-sliven.jpg"
     },
     {
-      "title": "Нови показания пред съда: Главният секретар на МВР не знаел за ареста на Борисов преди 4 години",
-      "url": "https://dariknews.bg/novini/bylgariia/novi-pokazaniia-pred-syda-glavniiat-sekretar-na-mvr-ne-znael-za-aresta-na-borisov-predi-4-godini-2467612",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49543/49543870/991-ratio-bojko-borisov-arest.jpg"
+      "title": "Селекционерът на Естония: Опасно е да мислич, че проблемите на България ще ни улеснят 28 Сеп | 19:25",
+      "url": "https://dsport.bg/selekcionerat-na-estonia-opasno-e-da-mislich-che-problemite-na-balgaria-ste-ni-ulesnat~240951.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2240477580.og.jpg"
     },
     {
       "title": "Коментарно студио: ново дъно за националите, нов треньор в ЦСКА!? 28 Сеп | 19:12",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-09-28-170242.og.png"
-    },
-    {
-      "title": "Италия отмени тренировка заради лошо време 28 Сеп | 16:53",
-      "url": "https://dsport.bg/italia-otmeni-trenirovka-zaradi-losho-vreme~240941.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296863167.og.jpg"
     }
   ]
 }
