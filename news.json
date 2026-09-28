@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-28T09:51:54.362546+00:00",
+  "updated": "2026-09-28T10:01:50.510601+00:00",
   "articles": [
+    {
+      "title": "Жена е с опасност за живота след челен удар край Бракьовци",
+      "url": "https://dariknews.bg/regioni/sofiia/zhena-e-s-opasnost-za-zhivota-sled-chelen-udar-kraj-brakiovci-2467588",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51147/51147120/991-ratio-bolnica.jpg"
+    },
     {
       "title": "Евростат: 4,6% от българите над 16 години пият алкохол всеки ден",
       "url": "https://dariknews.bg/novini/bylgariia/evrostat-46-ot-bylgarite-nad-16-godini-piiat-alkohol-vseki-den-2467587",
@@ -30,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/50638/50638998/991-ratio-varna-avtobus-gradski-transport.jpg"
     },
     {
-      "title": "Гръцката полиция разследва напитка срещу дрегер, която води и към България",
-      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razsledva-napitka-sreshtu-dreger-koiato-vodi-i-kym-bylgariia-2467583",
+      "title": "Гръцката полиция разследва напитка за заобикаляне на дрегер, която води и към България",
+      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razsledva-napitka-za-zaobikaliane-na-dreger-koiato-vodi-i-kym-bylgariia-2467583",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51222/51222934/991-ratio-dreger.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50242/50242524/991-ratio-burger.jpg"
     },
     {
-      "title": "Старинни монети, артефакти и 8 металдетектора иззеха при акция в Силистра",
-      "url": "https://dariknews.bg/regioni/silistra/starinni-moneti-artefakti-i-8-metaldetektora-izzeha-pri-akciia-v-silistra-2467568",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47494/47494069/991-ratio-artefakti-velikobritaniia-bylgariia.jpg"
+      "title": "Ще съжалява ли Реал Мадрид? 28 Сеп | 12:37",
+      "url": "https://dsport.bg/ste-sazalava-li-real-madrid~240921.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296294678.og.jpg"
     },
     {
       "title": "На крачка от вечния рекорд 28 Сеп | 12:24",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1962790193-1.og.jpg"
-    },
-    {
-      "title": "Бивш шеф на Манчестър Сити с мрачна прогноза: Глоба не стига, трябва да ги изхвърлят 28 Сеп | 10:41",
-      "url": "https://dsport.bg/bivsh-shef-na-manchestar-siti-s-mrachna-prognoza-globa-ne-stiga-trabva-da-gi-izhvarlat~240910.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2153734887~1.og.jpg"
     }
   ]
 }
