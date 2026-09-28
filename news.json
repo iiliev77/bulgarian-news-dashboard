@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-28T10:01:50.510601+00:00",
+  "updated": "2026-09-28T10:20:39.091851+00:00",
   "articles": [
+    {
+      "title": "Коя е Ана Бърнабич - жената, която пое временно държавното кормило в Сърбия",
+      "url": "https://dariknews.bg/novini/sviat/koia-e-ana-byrnabich-zhenata-koiato-poe-vremenno-dyrzhavnoto-kormilo-v-syrbiia-2467590",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/40992/40992220/991-ratio-syrbiia-zname.jpg"
+    },
+    {
+      "title": "Жена загина, а шофьорът е в болница след катастрофа край Костенец",
+      "url": "https://dariknews.bg/regioni/sofiia/zhena-zagina-a-shofioryt-e-v-bolnica-sled-katastrofa-kraj-kostenec-2467589",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51176/51176698/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Жена се бори за живота си след катастрофа в Плевенско",
+      "url": "https://dariknews.bg/regioni/pleven/zhena-se-bori-za-zhivota-si-sled-katastrofa-v-plevensko-2467591",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
+    },
+    {
+      "title": "Огън, мускули и екшън: Филип Буков в най-горещата си роля - на пожарникар",
+      "url": "https://dariknews.bg/novini/liubopitno/ogyn-muskuli-i-ekshyn-filip-bukov-v-naj-goreshtata-si-rolia-na-pozharnikar-2467350",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387165/991-ratio-filip-bukov.jpg"
+    },
     {
       "title": "Жена е с опасност за живота след челен удар край Бракьовци",
       "url": "https://dariknews.bg/regioni/sofiia/zhena-e-s-opasnost-za-zhivota-sled-chelen-udar-kraj-brakiovci-2467588",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
     },
     {
-      "title": "20-годишен мъж загина при катастрофа край Брезница",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/20-godishen-myzh-zagina-pri-katastrofa-kraj-breznica-2467569",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
+      "title": "Локо Пд взе мерки за терена на стадион „Христо Бонев“ след предупреждението от БФС 28 Сеп | 13:10",
+      "url": "https://dsport.bg/loko-pd-vze-merki-za-terena-na-stadion-hristo-bonev-sled-preduprezdenieto-ot-bfs~240923.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/lokopd56.og.jpg"
     },
     {
-      "title": "Жена агресира и рани майка си в Дупница",
-      "url": "https://dariknews.bg/regioni/kiustendil/zhena-agresira-i-rani-majka-si-v-dupnica-2467571",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50994/50994188/991-ratio-zhena-stara-zhena-vyzrastna-zhena-nasilie-domashno-nasilie.jpg"
-    },
-    {
-      "title": "Балон или бум? Цените на имотите растат, сделките падат",
-      "url": "https://dariknews.bg/novini/bylgariia/balon-ili-bum-cenite-na-imotite-rastat-sdelkite-padat-2467572",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Диетолози: Не всяка ултрапреработена храна е непременно вредна",
-      "url": "https://dariknews.bg/novini/liubopitno/dietolozi-ne-vsiaka-ultraprerabotena-hrana-e-nepremenno-vredna-2467570",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50242/50242524/991-ratio-burger.jpg"
+      "title": "Завръщането на Антонио Конте в Ювентус отеква все по-силно в Италия 28 Сеп | 12:55",
+      "url": "https://dsport.bg/zavrastaneto-na-antonio-konte-v-uventus-otekva-vse-po-silno-v-italia~240922.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2255920710~1.og.jpg"
     },
     {
       "title": "Ще съжалява ли Реал Мадрид? 28 Сеп | 12:37",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/04.09-7-2.og.jpg"
-    },
-    {
-      "title": "Станка Златева с безпрецедентен ход 28 Сеп | 11:01",
-      "url": "https://dsport.bg/stanka-zlateva-s-bezprecedenten-hod~240912.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/901314~1.og.jpg"
-    },
-    {
-      "title": "Роберто Манчини за скандала в Манчестър Сити: Това не е мой проблем 28 Сеп | 10:54",
-      "url": "https://dsport.bg/roberto-manchini-za-skandala-v-manchestar-siti-tova-ne-e-moi-problem~240911.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1962790193-1.og.jpg"
     }
   ]
 }
