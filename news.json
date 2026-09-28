@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T08:20:17.084426+00:00",
+  "updated": "2026-09-28T08:37:13.335092+00:00",
   "articles": [
+    {
+      "title": "Две момчета се удариха с кросов мотор и АТВ край Попово",
+      "url": "https://dariknews.bg/novini/dve-momcheta-se-udariha-s-krosov-motor-i-atv-kraj-popovo-2467574",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51165/51165796/991-ratio-atv.jpg"
+    },
+    {
+      "title": "Папа Лъв XIV пристигна в Мец, последния етап от посещението му във Франция (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-pristigna-v-mec-posledniia-etap-ot-poseshtenieto-mu-vyv-franciia-video-2467573",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
+    },
     {
       "title": "20-годишен мъж загина при катастрофа край Брезница",
       "url": "https://dariknews.bg/regioni/blagoevgrad/20-godishen-myzh-zagina-pri-katastrofa-kraj-breznica-2467569",
@@ -86,8 +100,8 @@
       "image": "https://m.netinfo.bg/media/images/51266/51266939/991-ratio-taksi.jpg"
     },
     {
-      "title": "Регионалният министър: Започваме проверки на обществените поръчки за строителство",
-      "url": "https://dariknews.bg/novini/bylgariia/regionalniiat-ministyr-zapochvame-proverki-na-obshtestvenite-porychki-za-stroitelstvo-2467560",
+      "title": "Регионалният министър: Жителите на България ще получат магистрали, ще имаме истинска свързаност",
+      "url": "https://dariknews.bg/novini/bylgariia/regionalniiat-ministyr-zhitelite-na-bylgariia-shte-poluchat-magistrali-shte-imame-istinska-svyrzanost-2467560",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51370/51370074/991-ratio-ivan-shishkov.jpg"
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388393/991-ratio-angel-georgiev.jpg"
     },
     {
-      "title": "Спипаха марихуана за близо половин милион евро в камион с авточасти на „Капитан Андреево“ (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/haskovo/spipaha-marihuana-za-blizo-polovin-milion-evro-v-kamion-s-avtochasti-na-kapitan-andreevo-snimkivideo-2467555",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Христо Крушарски потвърди: Напускам Локомотив Пловдив в сряда 28 Сеп | 11:21",
+      "url": "https://dsport.bg/hristo-krusharski-potvardi-napuskam-lokomotiv-plovdiv-v-srada~240914.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/421707-1.og.jpg"
     },
     {
-      "title": "Демерджиев: Надяваме се прокуратурата да работи по мантинелите със същата скорост като по сигнала на Пеевски",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nadiavame-se-prokuraturata-da-raboti-po-mantinelite-sys-syshtata-skorost-kato-po-signala-na-peevski-2467553",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Ботев Пловдив ще играе контрола 28 Сеп | 11:11",
+      "url": "https://dsport.bg/botev-plovdiv-ste-igrae-kontrola~240913.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/04.09-7-2.og.jpg"
     },
     {
       "title": "Станка Златева с безпрецедентен ход 28 Сеп | 11:01",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297460975.og.jpg"
-    },
-    {
-      "title": "Клоп: Предпочитам лош старт пред лош край 28 Сеп | 09:32",
-      "url": "https://dsport.bg/klop-predpochitam-losh-start-pred-losh-krai~240903.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297446781.og.jpg"
-    },
-    {
-      "title": "УЕФА алармира: Висшата лига изкривява трансферния пазар 28 Сеп | 09:20",
-      "url": "https://dsport.bg/uefa-alarmira-visshata-liga-izkrivava-transfernia-pazar~240902.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2295669181.og.jpg"
     }
   ]
 }
