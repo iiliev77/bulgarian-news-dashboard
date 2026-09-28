@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-28T13:23:34.358772+00:00",
+  "updated": "2026-09-28T13:38:47.239860+00:00",
   "articles": [
+    {
+      "title": "Гълъб Донев „се забавлява“ с меметата по свой арес за домашната ракия",
+      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-se-zabavliava-s-memetata-po-svoj-ares-za-domashnata-rakiia-2467621",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51347/51347077/991-ratio-gylyb-donev.jpg"
+    },
+    {
+      "title": "Министър Найденов стартира подбор за европейски прокурор",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-najdenov-startira-podbor-za-evropejski-prokuror-2467620",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355110/991-ratio-nikolaj-najdenov.jpg"
+    },
     {
       "title": "Ново изпитание предизвиква племената в „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/novo-izpitanie-predizvikva-plemenata-v-igri-na-voliata-2467617",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51164/51164702/991-ratio-bylgarski-poshti.jpg"
     },
     {
-      "title": "Близо 430 грама марихуана и кокаин са иззети от жилище в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/blizo-430-grama-marihuana-i-kokain-sa-izzeti-ot-zhilishte-v-stara-zagora-2467595",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388518/991-ratio-marihuana.jpg"
-    },
-    {
-      "title": "Камион се запали на магистрала „Тракия“",
-      "url": "https://dariknews.bg/novini/bylgariia/kamion-se-zapali-na-magistrala-trakiia-2467594",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/40977/40977791/991-ratio-kamion.jpg"
+      "title": "Григор Димитров се отказа от турнир в Порто 28 Сеп | 16:32",
+      "url": "https://dsport.bg/grigor-dimitrov-se-otkaza-ot-turnir-v-porto~240940.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2292433441~1.og.jpg"
     },
     {
       "title": "Кметът на Пазарджик награди президента на леката атлетика 28 Сеп | 16:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/9700168-1~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА във финални преговори с предшественика на Томас Райс 28 Сеп | 14:20",
-      "url": "https://dsport.bg/cska-vav-finalni-pregovori-s-predshestvenika-na-tomas-rais~240930.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1294136727.og.jpg"
     }
   ]
 }
