@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-28T07:18:16.403071+00:00",
+  "updated": "2026-09-28T07:34:47.703348+00:00",
   "articles": [
+    {
+      "title": "Разкриха подробности за тежката катастрофа край Лясковец, при която загина моторист",
+      "url": "https://dariknews.bg/novini/bylgariia/razkriha-podrobnosti-za-tezhkata-katastrofa-kraj-liaskovec-pri-koiato-zagina-motorist-2467561",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
+    },
+    {
+      "title": "След осуетения опит за терористичен акт: САЩ предупредиха гражданите си във Великобритания",
+      "url": "https://dariknews.bg/novini/sviat/sled-osueteniia-opit-za-teroristichen-akt-sasht-preduprediha-grazhdanite-si-vyv-velikobritaniia-2467562",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51104/51104389/991-ratio-policiia-velikobritaniia.jpg"
+    },
+    {
+      "title": "Регионалният министър: Започваме проверки на обществените поръчки за строителство",
+      "url": "https://dariknews.bg/novini/bylgariia/regionalniiat-ministyr-zapochvame-proverki-na-obshtestvenite-porychki-za-stroitelstvo-2467560",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51370/51370074/991-ratio-ivan-shishkov.jpg"
+    },
     {
       "title": "Коя е Ана Бърнабич – жената, която временно поема президентския пост в Сърбия",
       "url": "https://dariknews.bg/novini/sviat/koia-e-ana-byrnabich-zhenata-koiato-vremenno-poema-prezidentskiia-post-v-syrbiia-2467559",
@@ -44,8 +65,8 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Демерджиев: Надяваме се прокуратурата да работи за мантинелите със същата скорост, с която по сигнала на Пеевски",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nadiavame-se-prokuraturata-da-raboti-za-mantinelite-sys-syshtata-skorost-s-koiato-po-signala-na-peevski-2467553",
+      "title": "Демерджиев: Надяваме се прокуратурата да работи по мантинелите със същата скорост като по сигнала на Пеевски",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nadiavame-se-prokuraturata-da-raboti-po-mantinelite-sys-syshtata-skorost-kato-po-signala-na-peevski-2467553",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -121,25 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Нови руски удари: Десетки ранени и жертви сред цивилни в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/novi-ruski-udari-desetki-raneni-i-zhertvi-sred-civilni-v-ukrajna-2467541",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388373/991-ratio-kiev.jpg"
-    },
-    {
-      "title": "„Хората се страхуват да излязат“: мъж с брадва вилнее в село Бели извор",
-      "url": "https://dariknews.bg/novini/bylgariia/horata-se-strahuvat-da-izliazat-myzh-s-bradva-vilnee-v-selo-beli-izvor-2467542",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Ученици от цяла Румъния отиват на училище, облечени в черно в знак на протест",
-      "url": "https://dariknews.bg/novini/sviat/uchenici-ot-ciala-rumyniia-otivat-na-uchilishte-oblecheni-v-cherno-v-znak-na-protest-2467540",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388377/991-ratio-dete-s-cherna-teniska.jpg"
+      "title": "Правната сага с Манчестър Сити се задълбочава, решението може да отнеме години 28 Сеп | 10:21",
+      "url": "https://dsport.bg/pravnata-saga-s-manchestar-siti-se-zadalbochava-reshenieto-moze-da-otneme-godini~240908.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2289184391~1.og.jpg"
     },
     {
       "title": "Иван Иванов с пробив в топ 500 28 Сеп | 10:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296301315.og.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо предизвика напрежение в Португалия 28 Сеп | 08:32",
-      "url": "https://dsport.bg/kristiano-ronaldo-predizvika-naprezenie-v-portugalia~240896.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297424617.og.jpg"
     }
   ]
 }
