@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T11:15:58.789477+00:00",
+  "updated": "2026-09-29T11:30:42.699053+00:00",
   "articles": [
     {
       "title": "Украйна неутрализира голяма руска въздушна атака с дронове и ракети",
@@ -16,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/50886/50886232/991-ratio-bonboni.jpg"
     },
     {
-      "title": "ЦИК: Над 35 500 заявления за гласуване от чужбина са подадени в 72 държави (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-nad-35-500-zaiavleniia-za-glasuvane-ot-chuzhbina-sa-podadeni-v-72-dyrzhavi-na-zhivo-2467719",
+      "title": "ЦИК: Над 35 500 заявления за гласуване от чужбина са подадени в 72 държави",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-nad-35-500-zaiavleniia-za-glasuvane-ot-chuzhbina-sa-podadeni-v-72-dyrzhavi-2467719",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51306/51306613/991-ratio-izbori.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51361/51361737/991-ratio-gyrciia.jpg"
     },
     {
+      "title": "Рууни с достойна позиция: Няма да приема титлата на Ман Сити от 2012, не я заслужавахме 29 Сеп | 14:21",
+      "url": "https://dsport.bg/ruuni-s-dostoina-pozicia-nama-da-priema-titlata-na-man-siti-ot-2012-ne-a-zasluzavahme~241010.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-143623479.og.jpg"
+    },
+    {
       "title": "Фернандо Алонсо остава във Формула 1, подписа нов договор 29 Сеп | 14:06",
       "url": "https://dsport.bg/fernando-alonso-ostava-vav-formula-1-podpisa-nov-dogovor~241009.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2271643367.og.jpg"
-    },
-    {
-      "title": "Една кариера, преобразена от гения на Сеск Фабрегас и доверието на Зинедин Зидан 29 Сеп | 12:41",
-      "url": "https://dsport.bg/edna-kariera-preobrazena-ot-genia-na-sesk-fabregas-i-doverieto-na-zinedin-zidan~241000.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276667254.og.jpg"
     }
   ]
 }
