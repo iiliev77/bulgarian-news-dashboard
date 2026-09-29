@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-29T08:19:54.060075+00:00",
+  "updated": "2026-09-29T08:36:54.649379+00:00",
   "articles": [
+    {
+      "title": "Напуснала работа на 28 септември и оттогава е в неизвестност: Виждали ли сте тази жена",
+      "url": "https://dariknews.bg/novini/bylgariia/napusnala-rabota-na-28-septemvri-i-ottogava-e-v-neizvestnost-vizhdali-li-ste-tazi-zhena-2467683",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Хванаха мъж за серия кражби от джамии в Благоевградско",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/hvanaha-myzh-za-seriia-krazhbi-ot-dzhamii-v-blagoevgradsko-2467682",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
+    },
     {
       "title": "Млад мъж преби баща си в община Търговище",
       "url": "https://dariknews.bg/regioni/tyrgovishte/mlad-myzh-prebi-bashta-si-v-obshtina-tyrgovishte-2467679",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50754/50754263/991-ratio-boj-poboj-iumruk.jpg"
+    },
+    {
+      "title": "Коледната добавка ще се изплаща през ноември, инфлационният чек започва от 1 октомври",
+      "url": "https://dariknews.bg/novini/bylgariia/kolednata-dobavka-shte-se-izplashta-prez-noemvri-inflacionniiat-chek-zapochva-ot-1-oktomvri-2467681",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51325/51325161/991-ratio-pari-evro-pensii.jpg"
     },
     {
       "title": "Пловдив засилва контрола срещу нерегламентираното изхвърляне на отпадъци",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50887/50887832/991-ratio-aleksej-petrov.jpg"
     },
     {
-      "title": "Метрото в София: Изградени са 3.7 км от тунела през „Слатина“, остават 900 метра до финала (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/metroto-v-sofiia-izgradeni-sa-3.7-km-ot-tunela-prez-slatina-ostavat-900-metra-do-finala-snimki-2467663",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388785/991-ratio-metro-sofiia.jpg"
+      "title": "Рикардо Калафиори трогна млад турски фен с незабравим жест след мача на Италия (ВИДЕО) 29 Сеп | 11:16",
+      "url": "https://dsport.bg/rikardo-kalafiori-trogna-mlad-turski-fen-s-nezabravim-zest-sled-macha-na-italia-video~240989.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297595452.og.jpg"
     },
     {
-      "title": "БАБХ спря продажбата на храни от Турция, предлагани у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/babh-spria-prodazhbata-na-hrani-ot-turciia-predlagani-u-nas-2467660",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388781/991-ratio-turski-stoki.jpg"
-    },
-    {
-      "title": "Мъж предизвика пожар в Хасковско, запалил огън да се стопли",
-      "url": "https://dariknews.bg/regioni/haskovo/myzh-predizvika-pozhar-v-haskovsko-zapalilogyn-da-se-stopli-2467661",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+      "title": "Футболна треска в Гърция: 100 000 напират за билети за мача с Нидерландия 29 Сеп | 11:07",
+      "url": "https://dsport.bg/futbolna-treska-v-garcia-100-000-napirat-za-bileti-za-macha-s-niderlandia~240988.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2245356641.og.jpg"
     },
     {
       "title": "„Мач за Мач“: Пак срам с националите? ЦСКА приключи кастинга! 29 Сеп | 11:00",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/676125-1~1.og.jpg"
-    },
-    {
-      "title": "Асен Митков: Трябва ни добър резултат срещу Чехия (ВИДЕО) 29 Сеп | 09:46",
-      "url": "https://dsport.bg/asen-mitkov-trabva-ni-dobar-rezultat-srestu-chehia-video~240980.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1031824.og.jpg"
-    },
-    {
-      "title": "Никола Илиев: Отиваме за победа в Чехия, трите точки са най-важни за нас (ВИДЕО) 29 Сеп | 09:38",
-      "url": "https://dsport.bg/nikola-iliev-otivame-za-pobeda-v-chehia-trite-tochki-sa-nai-vazni-za-nas-video~240979.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/521495~1.og.jpg"
     }
   ]
 }
