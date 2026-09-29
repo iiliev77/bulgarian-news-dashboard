@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T16:03:42.790813+00:00",
+  "updated": "2026-09-29T16:23:53.137984+00:00",
   "articles": [
+    {
+      "title": "Борисов: Ако имаше кандидатпрезидентска двойка на ГЕРБ - нямаше да се бият помежду си, а щяха да се бият с нас",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-ako-imashe-kandidatprezidentska-dvojka-na-gerb-niamashe-da-se-biiat-pomezhdu-si-a-shtiaha-da-se-biiat-s-nas-2467759",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375738/991-ratio-bojko-borisov.jpg"
+    },
     {
       "title": "МВнР привика дипломат от Скопие след недопускането на български депутат в РСМ",
       "url": "https://dariknews.bg/novini/bylgariia/mvnr-privika-diplomat-ot-skopie-sled-nedopuskaneto-na-bylgarski-deputat-v-rsm-2467758",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51242/51242904/991-ratio-ministerski-syvet.jpg"
     },
     {
-      "title": "Кошер 2026 събра над 4 000 души и показа нов формат за бизнес събития",
-      "url": "https://dariknews.bg/novini/biznes/kosher-2026-sybra-nad-4-000-dushi-i-pokaza-nov-format-za-biznes-sybitiia-2467736",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389120/991-ratio-kosher.jpg"
+      "title": "В Ман Сити са изненадани от решението на Висшата лига, но имат доказателства, че не са виновни 29 Сеп | 19:19",
+      "url": "https://dsport.bg/v-man-siti-sa-iznenadani-ot-reshenieto-na-visshata-liga-no-imat-dokazatelstva-che-ne-sa-vinovni~241029.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2278150929.og.jpg"
+    },
+    {
+      "title": "Висшата лига обяви: Манчестър Сити е виновен по всички 115 обвинения 29 Сеп | 19:01",
+      "url": "https://dsport.bg/visshata-liga-obavi-manchestar-siti-e-vinoven-po-vsichki-115-obvinenia~241028.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2275320179~1.og.jpg"
     },
     {
       "title": "Тодор Янчев преди Чехия: Няма напрежение, в главите ни е единствено победата (ВИДЕО) 29 Сеп | 18:51",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-09-29_17-01-27-459.og.png"
-    },
-    {
-      "title": "Новият треньор на ЦСКА събра погледите преди година 29 Сеп | 16:50",
-      "url": "https://dsport.bg/noviat-trenor-na-cska-sabra-pogledite-predi-godina~241018.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2047415993.og.jpg"
-    },
-    {
-      "title": "Шампион с Левски все още няма отбор 29 Сеп | 16:32",
-      "url": "https://dsport.bg/shampion-s-levski-vse-oste-nama-otbor~241017.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/972853~1.og.jpg"
     }
   ]
 }
