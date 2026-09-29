@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T18:39:40.861133+00:00",
+  "updated": "2026-09-29T18:54:24.678144+00:00",
   "articles": [
+    {
+      "title": "От кмет на Маракеш до премиер на Мароко – коя е Фатима Езахра ел Мансури",
+      "url": "https://dariknews.bg/novini/sviat/ot-kmet-na-marakesh-do-premier-na-maroko-koia-e-fatima-ezahra-el-mansuri-2467764",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389207/991-ratio-maroko.jpg"
+    },
     {
       "title": "ЦИК предвижда над 2,3 млн. евро за бюлетини и ролки за президентския вот",
       "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-predvizhda-nad-23-mln.-evro-za-biuletini-i-rolki-za-prezidentskiia-vot-2467763",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389124/991-ratio-sveti-vrach.jpg"
     },
     {
-      "title": "Напрегнати елиминации в “Игри на волята” тази вечер",
-      "url": "https://dariknews.bg/novini/liubopitno/napregnati-eliminacii-v-igri-na-voliata-tazi-vecher-2467741",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389112/991-ratio-igri-na-voliata.jpg"
+      "title": "На живо: България – Естония 29 Сеп | 21:48",
+      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/finali-ekt-3-~1.og.jpg"
+    },
+    {
+      "title": "Сейни Санянг влезе и даде голов пас при паметен обрат на Гамбия срещу Гана 29 Сеп | 21:46",
+      "url": "https://dsport.bg/seini-sanang-vleze-i-dade-golov-pas-pri-pameten-obrat-na-gambia-srestu-gana~241041.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2193779682.og.jpg"
     },
     {
       "title": "Измамата на Манчестър Сити за 900 милиона паунда 29 Сеп | 21:37",
@@ -177,13 +191,6 @@
       "image": "https://dsport.bg/media/384/screenshot-2026-09-29-185808.og.png"
     },
     {
-      "title": "На живо: България – Естония (Състави) 29 Сеп | 20:38",
-      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/finali-ekt-3-~1.og.jpg"
-    },
-    {
       "title": "Президентът на Лудогорец влезе в борда на директорите на европейската футболна клубна асоциация 29 Сеп | 20:30",
       "url": "https://dsport.bg/prezidentat-na-ludogorec-vleze-v-borda-na-direktorite-na-evropeiskata-futbolna-klubna-asociacia~241035.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297069177~1.og.jpg"
-    },
-    {
-      "title": "България на Световно и при жените 29 Сеп | 19:55",
-      "url": "https://dsport.bg/balgaria-na-svetovno-i-pri-zenite~241032.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/29.09-2~2.og.jpg"
     }
   ]
 }
