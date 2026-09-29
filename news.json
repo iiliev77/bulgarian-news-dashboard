@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T11:57:46.562513+00:00",
+  "updated": "2026-09-29T12:13:45.508414+00:00",
   "articles": [
+    {
+      "title": "След смъртта на дете и серия проверки: Отнемат разрешението на болница в Пловдив",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-smyrtta-na-dete-i-seriia-proverki-otnemat-razreshenieto-na-bolnica-v-plovdiv-2467727",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308650/991-ratio-bolnica.jpg"
+    },
     {
       "title": "7-и и 8-и блок на АЕЦ „Козлодуй“ – ключов проект между България, Корея и САЩ",
       "url": "https://dariknews.bg/novini/bylgariia/7-i-i-8-i-blok-na-aec-kozloduj-kliuchov-proekt-mezhdu-bylgariia-koreia-i-sasht-2467725",
@@ -34,7 +41,7 @@
       "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-nad-35-500-zaiavleniia-za-glasuvane-v-chuzhbina-podgotovkata-na-mashinite-zapochna-2467719",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389086/991-ratio-cik.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Вдигат с 9% възнагражденията на медиците в „Пирогов“",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388991/991-ratio-telefoni.jpg"
     },
     {
-      "title": "Израел ликвидира ръководителя на военното крило на „Хамас“ в Газа",
-      "url": "https://dariknews.bg/novini/sviat/izrael-likvidira-rykovoditelia-na-voennoto-krilo-na-hamas-v-gaza-2467703",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51025/51025575/991-ratio-hamas.jpg"
+      "title": "ЦСКА представи новия треньор, даде му договор до края на сезона 29 Сеп | 14:58",
+      "url": "https://dsport.bg/cska-predstavi-novia-trenor-dade-mu-dogovor-do-kraa-na-sezona~241013.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/828552109_2697054950690985_2947689696454202522_n.og.jpg"
     },
     {
       "title": "Трагедия в Гърция: 16-годишен футболист почина след инцидент по време на мач 29 Сеп | 14:48",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/ludmilgeorgiev.og.jpg"
-    },
-    {
-      "title": "Пиърс Морган с присъда: Манчестър Сити трябва да бъде изхвърлен! Проектът на Абу Даби е обречен 29 Сеп | 13:10",
-      "url": "https://dsport.bg/piars-morgan-s-prisada-manchestar-siti-trabva-da-bade-izhvarlen-proektat-na-abu-dabi-e-obrechen~241003.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-594794140.og.jpg"
     }
   ]
 }
