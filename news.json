@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T18:20:28.435230+00:00",
+  "updated": "2026-09-29T18:39:40.861133+00:00",
   "articles": [
     {
       "title": "ЦИК предвижда над 2,3 млн. евро за бюлетини и ролки за президентския вот",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389112/991-ratio-igri-na-voliata.jpg"
     },
     {
+      "title": "Измамата на Манчестър Сити за 900 милиона паунда 29 Сеп | 21:37",
+      "url": "https://dsport.bg/izmamata-na-manchestar-siti-za-900-miliona-paunda~241039.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1368771963~3.og.jpg"
+    },
+    {
+      "title": "Васил Божков разкри още колко може да поиска от Левски и „захапа“ Сираков за обяд и кафе 29 Сеп | 21:24",
+      "url": "https://dsport.bg/vasil-bozkov-razkri-oste-kolko-moze-da-poiska-ot-levski-i-zahapa-sirakov-za-obad-i-kafe~241040.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/neozaglaven-dizain-90-1.og.png"
+    },
+    {
       "title": "Лапоухов и Ебонг титуляри при равенство на Беларус в Хелзинки 29 Сеп | 20:59",
       "url": "https://dsport.bg/lapouhov-i-ebong-titulari-pri-ravenstvo-na-belarus-v-helzinki~241038.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/29.09-2~2.og.jpg"
-    },
-    {
-      "title": "Директор на Висшата лига: Сити системно е нарушавал правилата в продължение на близо десетилетие 29 Сеп | 19:44",
-      "url": "https://dsport.bg/direktor-na-visshata-liga-siti-sistemno-e-narushaval-pravilata-v-prodalzenie-na-blizo-desetiletie~241031.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2149875123~1.og.jpg"
-    },
-    {
-      "title": "Работил с Рангник, тренирал Нойер, вдигал Купата на Германия: ЦСКА показа кой е Гиздол 29 Сеп | 19:33",
-      "url": "https://dsport.bg/rabotil-s-rangnik-treniral-noier-vdigal-kupata-na-germania-cska-pokaza-koi-e-gizdol~241030.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/29.09-1~1.og.jpg"
     }
   ]
 }
