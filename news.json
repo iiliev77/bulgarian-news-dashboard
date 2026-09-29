@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:47:09.932936+00:00",
+  "updated": "2026-09-29T20:57:10.011366+00:00",
   "articles": [
     {
       "title": "Трима воини напуснаха „Игри на волята“",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/46554/46554901/991-ratio-parnikovi-emisii-zamyrsiavane.jpg"
     },
     {
+      "title": "Александър Димитров се сбогува с националния отбор 29 Сеп | 23:49",
+      "url": "https://dsport.bg/aleksandar-dimitrov-se-sboguva-s-nacionalnia-otbor~241053.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033940~1.og.jpg"
+    },
+    {
       "title": "Червен картон отвори пътя на Англия към първа победа в Лигата на нациите 29 Сеп | 23:44",
       "url": "https://dsport.bg/cherven-karton-otvori-pata-na-anglia-kam-parva-pobeda-v-ligata-na-naciite~241050.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-470239362~2.og.jpg"
-    },
-    {
-      "title": "Везенков и Олимпиакос с измъчена победа срещу Жалгирис пред погледа на Шакил О'Нийл 29 Сеп | 22:02",
-      "url": "https://dsport.bg/vezenkov-i-olimpiakos-s-izmachena-pobeda-srestu-zalgiris-pred-pogleda-na-shakil-o-niil~241042.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297224079.og.jpg"
     }
   ]
 }
