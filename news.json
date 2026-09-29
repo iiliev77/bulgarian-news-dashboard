@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-29T13:47:09.200049+00:00",
+  "updated": "2026-09-29T14:00:28.939829+00:00",
   "articles": [
+    {
+      "title": "Путин разширява армията с над 15 000 войници на фона на големи загуби",
+      "url": "https://dariknews.bg/novini/sviat/putin-razshiriava-armiiata-s-nad-15-000-vojnici-na-fona-na-golemi-zagubi-2467750",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
+    },
+    {
+      "title": "Демерджиев: Няма данни за купуване на гласове като при предишни избори",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-niama-danni-za-kupuvane-na-glasove-kato-pri-predishni-izbori-2467748",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
+    },
+    {
+      "title": "След няколко месеца плен: Сомалийски сили освободиха танкер и екипажа му от пирати",
+      "url": "https://dariknews.bg/novini/sviat/sled-niakolko-meseca-plen-somalijski-sili-osvobodiha-tanker-i-ekipazha-mu-ot-pirati-2467749",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389160/991-ratio-somalijski-morski-policai-ot-silite-za-sigurnost-v-puntland-patrulirat.jpg"
+    },
     {
       "title": "Нова база с 3D симулации ще подготвя пожарникари и спасители край Благоевград",
       "url": "https://dariknews.bg/regioni/blagoevgrad/nova-baza-s-3d-simulacii-shte-podgotvia-pozharnikari-i-spasiteli-kraj-blagoevgrad-2467745",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51190/51190602/991-ratio-polskiiat-premier-donald-tusk.jpg"
     },
     {
-      "title": "След смъртта на дете и серия проверки: Отнемат разрешението на болница в Пловдив",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-smyrtta-na-dete-i-seriia-proverki-otnemat-razreshenieto-na-bolnica-v-plovdiv-2467727",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308650/991-ratio-bolnica.jpg"
-    },
-    {
-      "title": "7-и и 8-и блок на АЕЦ „Козлодуй“ – ключов проект между България, Корея и САЩ",
-      "url": "https://dariknews.bg/novini/bylgariia/7-i-i-8-i-blok-na-aec-kozloduj-kliuchov-proekt-mezhdu-bylgariia-koreia-i-sasht-2467725",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389082/991-ratio-bylgariia-i-republika-koreia-zadylbochavat-partniorstvoto-si-v-iadrenata-energetika.jpg"
-    },
-    {
-      "title": "Екстремният риалити формат „Игри на волята“ завладява Roblox",
-      "url": "https://dariknews.bg/novini/liubopitno/ekstremniiat-rialiti-format-igri-na-voliata-zavladiava-roblox-2467723",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389077/991-ratio-roblox.jpg"
+      "title": "Новият треньор на ЦСКА събра погледите преди година 29 Сеп | 16:50",
+      "url": "https://dsport.bg/noviat-trenor-na-cska-sabra-pogledite-predi-godina~241018.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2047415993.og.jpg"
     },
     {
       "title": "Шампион с Левски все още няма отбор 29 Сеп | 16:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2294500791.og.jpg"
-    },
-    {
-      "title": "Филипов: Оставам с впечатлението, че г-н Стефанов сънува и се събужда с „SOS“ на уста 29 Сеп | 14:02",
-      "url": "https://dsport.bg/filipov-ostavam-s-vpechatlenieto-che-g-n-stefanov-sanuva-i-se-sabuzda-s-sos-na-usta~241008.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2025-10-08_15-55-49-599-1.l.og.webp"
     }
   ]
 }
