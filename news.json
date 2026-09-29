@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-29T10:50:48.819636+00:00",
+  "updated": "2026-09-29T11:00:25.132732+00:00",
   "articles": [
+    {
+      "title": "Експерт: Насилието над деца най-често се случва в семейството",
+      "url": "https://dariknews.bg/novini/bylgariia/ekspert-nasilieto-nad-deca-naj-chesto-se-sluchva-v-semejstvoto-2467717",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49160/49160714/991-ratio-agresiia-deca-boj-sbivane.jpg"
+    },
+    {
+      "title": "Край на един от символите на Царево: Потъна емблематичният кораб „Робинзон“",
+      "url": "https://dariknews.bg/novini/bylgariia/kraj-na-edin-ot-simvolite-na-carevo-potyna-emblematichniiat-korab-robinzon-2467715",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50885/50885811/991-ratio-cherno-more.jpg"
+    },
+    {
+      "title": "Пробив в Пентагона засегна над 3 милиона души",
+      "url": "https://dariknews.bg/novini/sviat/probiv-v-pentagona-zasegna-nad-3-miliona-dushi-2467716",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32734/32734577/991-ratio-lichni-danni.jpg"
+    },
     {
       "title": "Доставят близо 32 хил. дози ваксини срещу COVID-19 до края на годината",
       "url": "https://dariknews.bg/novini/bylgariia/dostaviat-blizo-32-hil.-dozi-vaksini-sreshtu-covid-19-do-kraia-na-godinata-2467714",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388967/991-ratio-prokuraturata.jpg"
     },
     {
-      "title": "„Следващата глоба ще е за киселото зеле“: ДПС срещу промените за домашната ракия",
-      "url": "https://dariknews.bg/novini/bylgariia/sledvashtata-globa-shte-e-za-kiseloto-zele-dps-sreshtu-promenite-za-domashnata-rakiia-2467695",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332546/991-ratio-atidzhe-alieva-veli.jpg"
-    },
-    {
-      "title": "Със заповед на кмета на Благоевград: 5 октомври е обявен за неучебен, но присъствен ден за учениците",
-      "url": "https://dariknews.bg/novini/bylgariia/sys-zapoved-na-kmeta-na-blagoevgrad-5-oktomvri-e-obiaven-za-neucheben-no-prisystven-den-za-uchenicite-2467693",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51168/51168671/991-ratio-teatyr-blagoevgrad.jpg"
-    },
-    {
-      "title": "Близо 29% от хората в България живеят в риск от бедност",
-      "url": "https://dariknews.bg/novini/bylgariia/blizo-29-ot-horata-v-bylgariia-zhiveiat-v-risk-ot-bednost-2467692",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45324/45324128/991-ratio-beden.jpg"
+      "title": "Манчестър Сити пред колосална глоба 29 Сеп | 13:46",
+      "url": "https://dsport.bg/manchestar-siti-pred-kolosalna-globa~241007.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2272051229.og.jpg"
     },
     {
       "title": "Страх и несигурност сред футболистите на Манчестър Сити 29 Сеп | 13:33",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1838814766-1-1-1-1~1.og.jpg"
-    },
-    {
-      "title": "Медалистът от големи първенства Добри Маринов: Тодор Ангелов е шансът за спасение на борбата ни 29 Сеп | 12:21",
-      "url": "https://dsport.bg/medalistat-ot-golemi-parvenstva-dobri-marinov-todor-angelov-e-shansat-za-spasenie-na-borbata-ni~240996.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/741932.og.jpg"
     }
   ]
 }
