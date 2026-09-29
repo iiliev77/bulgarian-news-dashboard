@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-29T17:04:27.310219+00:00",
+  "updated": "2026-09-29T17:20:57.761731+00:00",
   "articles": [
+    {
+      "title": "Голямото завръщане: Селин Дион откри Седмицата на модата в Париж (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/novini/liubopitno/goliamoto-zavryshtane-selin-dion-otkri-sedmicata-na-modata-v-parizh-snimkivideo-2467761",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50797/50797987/991-ratio-selin-dion.jpg"
+    },
+    {
+      "title": "Путин поиска „по-справедливо отношение“ към сърбите в Босна",
+      "url": "https://dariknews.bg/novini/sviat/putin-poiska-po-spravedlivo-otnoshenie-kym-syrbite-v-bosna-2467762",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51368/51368509/991-ratio-ruskiiat-prezident-vladimir-putin.jpg"
+    },
     {
       "title": "Шокиращи кадри от Пазарджишко: Деца връзват, влачат и душат куче (ВИДЕО)",
       "url": "https://dariknews.bg/regioni/Pazardzhik/shokirashti-kadri-ot-pazardzhishko-deca-vryzvat-vlachat-i-dushat-kuche-video-2467760",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387351/991-ratio-kompiutyr.jpg"
     },
     {
-      "title": "Одобриха кандидатурата на Ивелин Занев за ген. директор на Секретариата на Дунавската комисия",
-      "url": "https://dariknews.bg/novini/bylgariia/odobriha-kandidaturata-na-ivelin-zanev-za-gen.-direktor-na-sekretariata-na-dunavskata-komisiia-2467739",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51249/51249335/991-ratio-ministerski-syvet.jpg"
+      "title": "Мюлер остава във Ванкувър 29 Сеп | 20:20",
+      "url": "https://dsport.bg/muler-ostava-vav-vankuvar~241033.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296636175.og.jpg"
     },
     {
-      "title": "Държавата дава над 1,5 млн. евро за телефонна система в затворите",
-      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-dava-nad-15-mln.-evro-za-telefonna-sistema-v-zatvorite-2467737",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
+      "title": "Анчелоти не разкри какво му е на Рафиня, похвали Винисиус 29 Сеп | 20:10",
+      "url": "https://dsport.bg/ancheloti-ne-razkri-kakvo-mu-e-na-rafina-pohvali-vinisius~241034.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297069177~1.og.jpg"
     },
     {
       "title": "България на Световно и при жените 29 Сеп | 19:55",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2274272920~1.og.jpg"
-    },
-    {
-      "title": "Цолов: Усещам положителната ви енергия и винаги ще я ценя 29 Сеп | 18:10",
-      "url": "https://dsport.bg/colov-usestam-polozitelnata-vi-energia-i-vinagi-ste-a-cena~241023.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297205153~1.og.jpg"
-    },
-    {
-      "title": "Мбапе се размина с операция, в Реал Мадрид няма да рискуват с него 29 Сеп | 17:56",
-      "url": "https://dsport.bg/mbape-se-razmina-s-operacia-v-real-madrid-nama-da-riskuvat-s-nego~241022.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297121628.og.jpg"
     }
   ]
 }
