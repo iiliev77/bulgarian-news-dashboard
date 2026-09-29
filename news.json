@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-29T09:52:14.099596+00:00",
+  "updated": "2026-09-29T10:01:39.170028+00:00",
   "articles": [
     {
-      "title": "Израел е ликвидирал ръководителя на военното крило на \"Хамас\" в Газа",
-      "url": "https://dariknews.bg/novini/sviat/izrael-e-likvidiral-rykovoditelia-na-voennoto-krilo-na-hamas-v-gaza-2467703",
+      "title": "Над 1 млн. употребявани телефона са продавани като нови, България също е в схемата",
+      "url": "https://dariknews.bg/novini/bylgariia/nad-1-mln.-upotrebiavani-telefona-sa-prodavani-kato-novi-bylgariia-syshto-e-v-shemata-2467705",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/41772/41772971/991-ratio-magazin-telefoni.jpg"
+    },
+    {
+      "title": "Израел ликвидира ръководителя на военното крило на „Хамас“ в Газа",
+      "url": "https://dariknews.bg/novini/sviat/izrael-likvidira-rykovoditelia-na-voennoto-krilo-na-hamas-v-gaza-2467703",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51025/51025575/991-ratio-hamas.jpg"
+    },
+    {
+      "title": "София с първа „Улица на лапата“: Ето какви глоби дебнат недобросъвестните стопани (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/sofiia-s-pyrva-ulica-na-lapata-eto-kakvi-globi-debnat-nedobrosyvestnite-stopani-snimki-2467704",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388981/991-ratio-sofiia-ulica-skaniraj-lapata.jpg"
     },
     {
       "title": "НСИ с данни: Къде пътуваха българите в чужбина през август",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Откриха обявената за издирване 49-годишна жена от Ямбол",
-      "url": "https://dariknews.bg/novini/bylgariia/otkriha-obiavenata-za-izdirvane-49-godishna-zhena-ot-iambol-2467683",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Хванаха мъж за серия кражби от джамии в Благоевградско",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/hvanaha-myzh-za-seriia-krazhbi-ot-dzhamii-v-blagoevgradsko-2467682",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
+      "title": "Съдът потвърди наказание на Пике 29 Сеп | 12:55",
+      "url": "https://dsport.bg/sadat-potvardi-nakazanie-na-pike~241001.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2271643367.og.jpg"
     },
     {
       "title": "Една кариера, преобразена от гения на Сеск Фабрегас и доверието на Зинедин Зидан 29 Сеп | 12:41",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2238285513-2.og.jpg"
-    },
-    {
-      "title": "Рикардо Калафиори трогна млад турски фен с незабравим жест след мача на Италия (ВИДЕО) 29 Сеп | 11:16",
-      "url": "https://dsport.bg/rikardo-kalafiori-trogna-mlad-turski-fen-s-nezabravim-zest-sled-macha-na-italia-video~240989.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297595452.og.jpg"
     }
   ]
 }
