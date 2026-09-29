@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:32:54.298762+00:00",
+  "updated": "2026-09-29T20:47:09.932936+00:00",
   "articles": [
     {
       "title": "Трима воини напуснаха „Игри на волята“",
@@ -142,7 +142,21 @@
       "image": "https://m.netinfo.bg/media/images/46554/46554901/991-ratio-parnikovi-emisii-zamyrsiavane.jpg"
     },
     {
-      "title": "На живо: България допусна гол от Естония, но от засада 29 Сеп | 23:26",
+      "title": "Червен картон отвори пътя на Англия към първа победа в Лигата на нациите 29 Сеп | 23:44",
+      "url": "https://dsport.bg/cherven-karton-otvori-pata-na-anglia-kam-parva-pobeda-v-ligata-na-naciite~241050.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297770931.og.jpg"
+    },
+    {
+      "title": "Наказателната акция на Испания продължава – фламенкото на Ямал остави Хърватия без отговор 29 Сеп | 23:42",
+      "url": "https://dsport.bg/nakazatelnata-akcia-na-ispania-prodalzava-flamengoto-na-amal-ostavi-harvatia-bez-otgovor~241051.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297762793.og.jpg"
+    },
+    {
+      "title": "България се уплаши, но удържа юнашки Естония на празния стадион в Пловдив 29 Сеп | 23:37",
       "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297224079.og.jpg"
-    },
-    {
-      "title": "Сейни Санянг влезе и даде голов пас при паметен обрат на Гамбия срещу Гана 29 Сеп | 21:46",
-      "url": "https://dsport.bg/seini-sanang-vleze-i-dade-golov-pas-pri-pameten-obrat-na-gambia-srestu-gana~241041.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2193779682.og.jpg"
-    },
-    {
-      "title": "Измамата на Манчестър Сити за 900 милиона паунда 29 Сеп | 21:37",
-      "url": "https://dsport.bg/izmamata-na-manchestar-siti-za-900-miliona-paunda~241039.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1368771963~3.og.jpg"
     }
   ]
 }
