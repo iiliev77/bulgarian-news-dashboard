@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-29T15:23:00.586106+00:00",
+  "updated": "2026-09-29T15:38:31.659632+00:00",
   "articles": [
+    {
+      "title": "Кметът на Стара Загора подписа оставката си пред Борисов (НА ЖИВО)",
+      "url": "https://dariknews.bg/regioni/stara-zagora/kmetyt-na-stara-zagora-podpisa-ostavkata-si-pred-borisov-na-zhivo-2467757",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51334/51334320/991-ratio-zhivko-todorov-kmet-stara-zagora.jpg"
+    },
+    {
+      "title": "Напрежение в МВР: Готвят масови съкращения на служители с ТЕЛК и работещи пенсионери",
+      "url": "https://dariknews.bg/novini/bylgariia/naprezhenie-v-mvr-gotviat-masovi-sykrashteniia-na-sluzhiteli-s-telk-i-raboteshti-pensioneri-2467756",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51365/51365117/991-ratio-mvr.jpg"
+    },
+    {
+      "title": "Радев откри новата сграда на Националния STEM център",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-otkri-novata-sgrada-na-nacionalniia-stem-centyr-2467754",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389180/991-ratio-premieryt-radev-pri-otkrivaneto-na-sgradata-na-nacionalniia-stem-centyr.jpg"
+    },
     {
       "title": "Зеленски: Белгия ще предаде три изтребителя Ф-16 на Украйна",
       "url": "https://dariknews.bg/novini/sviat/zelenski-belgiia-shte-predade-tri-iztrebitelia-f-16-na-ukrajna-2467753",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/32627/32627086/991-ratio-kipyr-zname.jpg"
     },
     {
-      "title": "Държавата ще осигури 126,6 млн. евро за увеличаване на капитала на „Холдинг Марица Изток“",
-      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-shte-osiguri-1266-mln.-evro-za-uvelichavane-na-kapitala-na-holding-marica-iztok-2467734",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51359/51359144/991-ratio-tec-marica-iztok-2.jpg"
-    },
-    {
-      "title": "Правителството реши: Електрическите тротинетки вече ще се регистрират в общините",
-      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-reshi-elektricheskite-trotinetki-veche-shte-se-registrirat-v-obshtinite-2467732",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50136/50136037/991-ratio-trotinetka.jpg"
-    },
-    {
-      "title": "Пеевски: Ако не извади истината за корупционните схеми на ПБ, Демерджиев ще остане „хартиен тигър“",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-ako-ne-izvadi-istinata-za-korupcionnite-shemi-na-pb-demerdzhiev-shte-ostane-hartien-tigyr-2467731",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
+      "title": "В Манчестър Сити знаели, че ще бъдат признати за виновни още през юли 29 Сеп | 18:28",
+      "url": "https://dsport.bg/v-manchestar-siti-znaeli-che-ste-badat-priznati-za-vinovni-oste-prez-uli~241024.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2274272920~1.og.jpg"
     },
     {
       "title": "Цолов: Усещам положителната ви енергия и винаги ще я ценя 29 Сеп | 18:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2271833005.og.jpg"
-    },
-    {
-      "title": "Бразилия взе „реванша“ с Австралия, Рафиня напусна с проблем 29 Сеп | 15:15",
-      "url": "https://dsport.bg/brazilia-vze-revansha-s-avstralia-rafina-napusna-s-problem~241014.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297696663.og.jpg"
     }
   ]
 }
