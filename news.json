@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-29T12:36:29.240582+00:00",
+  "updated": "2026-09-29T12:55:32.287473+00:00",
   "articles": [
+    {
+      "title": "Одобриха кандидатурата на Ивелин Занев за ген. директор на Секретариата на Дунавската комисия",
+      "url": "https://dariknews.bg/novini/bylgariia/odobriha-kandidaturata-na-ivelin-zanev-za-gen.-direktor-na-sekretariata-na-dunavskata-komisiia-2467739",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51249/51249335/991-ratio-ministerski-syvet.jpg"
+    },
+    {
+      "title": "Държавата дава над 1,5 млн. евро за телефонна система в затворите",
+      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-dava-nad-15-mln.-evro-za-telefonna-sistema-v-zatvorite-2467737",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
+    },
+    {
+      "title": "България ще бъде домакин на международна министерска конференция по Коридор VIII",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-shte-byde-domakin-na-mezhdunarodna-ministerska-konferenciia-po-koridor-viii-2467738",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51242/51242904/991-ratio-ministerski-syvet.jpg"
+    },
+    {
+      "title": "Кошер 2026 събра над 4 000 души и показа нов формат за бизнес събития",
+      "url": "https://dariknews.bg/novini/biznes/kosher-2026-sybra-nad-4-000-dushi-i-pokaza-nov-format-za-biznes-sybitiia-2467736",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389120/991-ratio-kosher.jpg"
+    },
+    {
+      "title": "Откриват консулство на Република Кипър в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/otkrivat-konsulstvo-na-republika-kipyr-v-plovdiv-2467735",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32627/32627086/991-ratio-kipyr-zname.jpg"
+    },
     {
       "title": "Държавата ще осигури 126,6 млн. евро за увеличаване на капитала на „Холдинг Марица Изток“",
       "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-shte-osiguri-1266-mln.-evro-za-uvelichavane-na-kapitala-na-holding-marica-iztok-2467734",
@@ -107,39 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50885/50885811/991-ratio-cherno-more.jpg"
     },
     {
-      "title": "Пробив в Пентагона изложи на риск данни на над 3 млн. души",
-      "url": "https://dariknews.bg/novini/sviat/probiv-v-pentagona-izlozhi-na-risk-danni-na-nad-3-mln.-dushi-2467716",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51148/51148923/991-ratio-hakerska-ataka.jpg"
-    },
-    {
-      "title": "Доставят близо 32 хил. дози ваксини срещу COVID-19 до края на годината",
-      "url": "https://dariknews.bg/novini/bylgariia/dostaviat-blizo-32-hil.-dozi-vaksini-sreshtu-covid-19-do-kraia-na-godinata-2467714",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49087/49087024/991-ratio-vaksina-koronavirus-kovid-vaksinirane.jpg"
-    },
-    {
-      "title": "Смъртоносно нападение от ученик в словашко училище, има жертва и ранени",
-      "url": "https://dariknews.bg/novini/sviat/smyrtonosno-napadenie-ot-uchenik-v-slovashko-uchilishte-ima-zhertva-i-raneni-2467713",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51355/51355384/991-ratio-slovakiia-policiia.jpg"
-    },
-    {
-      "title": "Изпращаме септември с жълт код за силен вятър в 6 области (КАРТА)",
-      "url": "https://dariknews.bg/novini/bylgariia/izprashtame-septemvri-s-zhylt-kod-za-silen-viatyr-v-6-oblasti-karta-2467712",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/41004/41004600/991-ratio-vetropokazatel.jpg"
-    },
-    {
-      "title": "Ритейл асоциацията: Методиката за „справедливата стойност“ ще навреди на бизнеса и потребителите",
-      "url": "https://dariknews.bg/novini/bylgariia/ritejl-asociaciiata-metodikata-za-spravedlivata-stojnost-shte-navredi-na-biznesa-i-potrebitelite-2467711",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50940/50940193/991-ratio-mol-magazini.jpg"
+      "title": "Скандал в Турция: задържаха шефа на съдиите по подозрения за манипулиране на мачове 29 Сеп | 15:39",
+      "url": "https://dsport.bg/skandal-v-turcia-zadarzaha-shefa-na-sadiite-po-podozrenia-za-manipulirane-na-machove~241015.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2271833005.og.jpg"
     },
     {
       "title": "Бразилия взе „реванша“ с Австралия, Рафиня напусна с проблем 29 Сеп | 15:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2294205293.og.jpg"
-    },
-    {
-      "title": "Колко се познават? Играчи на Лудогорец гадаха рейтингите си в популярна игра (ВИДЕО) 29 Сеп | 13:30",
-      "url": "https://dsport.bg/kolko-se-poznavat-igrachi-na-ludogorec-gadaha-reitingite-si-v-popularna-igra-video~241005.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/chatgpt-image-sep-29-2026-01_24_35-pm.og.png"
     }
   ]
 }
