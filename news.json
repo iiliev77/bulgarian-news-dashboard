@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T11:30:42.699053+00:00",
+  "updated": "2026-09-29T11:45:43.837657+00:00",
   "articles": [
+    {
+      "title": "Екстремният риалити формат „Игри на волята“ завладява Roblox",
+      "url": "https://dariknews.bg/novini/liubopitno/ekstremniiat-rialiti-format-igri-na-voliata-zavladiava-roblox-2467723",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389077/991-ratio-roblox.jpg"
+    },
     {
       "title": "Украйна неутрализира голяма руска въздушна атака с дронове и ракети",
       "url": "https://dariknews.bg/novini/sviat/ukrajna-neutralizira-goliama-ruska-vyzdushna-ataka-s-dronove-i-raketi-2467720",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388981/991-ratio-sofiia-ulica-skaniraj-lapata.jpg"
     },
     {
-      "title": "НСИ с данни: Къде пътуваха българите в чужбина през август",
-      "url": "https://dariknews.bg/novini/bylgariia/nsi-s-danni-kyde-pytuvaha-bylgarite-v-chuzhbina-prez-avgust-2467701",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361737/991-ratio-gyrciia.jpg"
+      "title": "Барселона следи изкъсо двама крайни защитници с изтичащи договори 29 Сеп | 14:29",
+      "url": "https://dsport.bg/barselona-sledi-izkaso-dvama-kraini-zastitnici-s-iztichasti-dogovori~241011.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2269824583-1-1.og.jpg"
     },
     {
       "title": "Рууни с достойна позиция: Няма да приема титлата на Ман Сити от 2012, не я заслужавахме 29 Сеп | 14:21",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2280236552~1.og.jpg"
-    },
-    {
-      "title": "Съдът потвърди наказание на Пике 29 Сеп | 12:55",
-      "url": "https://dsport.bg/sadat-potvardi-nakazanie-na-pike~241001.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2271643367.og.jpg"
     }
   ]
 }
