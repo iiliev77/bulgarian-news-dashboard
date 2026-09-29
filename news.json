@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T14:00:28.939829+00:00",
+  "updated": "2026-09-29T14:17:17.694386+00:00",
   "articles": [
+    {
+      "title": "НАП напомня: Доходите от чужбина и имуществото зад граница подлежат на деклариране",
+      "url": "https://dariknews.bg/novini/bylgariia/nap-napomnia-dohodite-ot-chuzhbina-i-imushtestvoto-zad-granica-podlezhat-na-deklarirane-2467751",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48237/48237967/991-ratio-api-nap-policiia.jpg"
+    },
     {
       "title": "Путин разширява армията с над 15 000 войници на фона на големи загуби",
       "url": "https://dariknews.bg/novini/sviat/putin-razshiriava-armiiata-s-nad-15-000-vojnici-na-fona-na-golemi-zagubi-2467750",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51317/51317813/991-ratio-slavi-vasilev.jpg"
     },
     {
-      "title": "Туск предупреди: Руските атаки по границата между Украйна и Полша са придобили „постоянен характер“",
-      "url": "https://dariknews.bg/novini/sviat/tusk-predupredi-ruskite-ataki-po-granicata-mezhdu-ukrajna-i-polsha-sa-pridobili-postoianen-harakter-2467728",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51190/51190602/991-ratio-polskiiat-premier-donald-tusk.jpg"
+      "title": "Локомотив Пловдив и Арда играят закрита контрола в паузата 29 Сеп | 17:09",
+      "url": "https://dsport.bg/lokomotiv-plovdiv-i-arda-igraat-zakrita-kontrola-v-pauzata~241020.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1015191.og.jpg"
+    },
+    {
+      "title": "Спортното шоу на Дарик - 29.09.2026 г. 29 Сеп | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik~241019.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2026-09-29_17-01-27-459.og.png"
     },
     {
       "title": "Новият треньор на ЦСКА събра погледите преди година 29 Сеп | 16:50",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2269824583-1-1.og.jpg"
-    },
-    {
-      "title": "Рууни с достойна позиция: Няма да приема титлата на Ман Сити от 2012, не я заслужавахме 29 Сеп | 14:21",
-      "url": "https://dsport.bg/ruuni-s-dostoina-pozicia-nama-da-priema-titlata-na-man-siti-ot-2012-ne-a-zasluzavahme~241010.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-143623479.og.jpg"
-    },
-    {
-      "title": "Фернандо Алонсо остава във Формула 1, подписа нов договор 29 Сеп | 14:06",
-      "url": "https://dsport.bg/fernando-alonso-ostava-vav-formula-1-podpisa-nov-dogovor~241009.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294500791.og.jpg"
     }
   ]
 }
