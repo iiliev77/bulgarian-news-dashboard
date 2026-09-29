@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-29T11:00:25.132732+00:00",
+  "updated": "2026-09-29T11:15:58.789477+00:00",
   "articles": [
+    {
+      "title": "Украйна неутрализира голяма руска въздушна атака с дронове и ракети",
+      "url": "https://dariknews.bg/novini/sviat/ukrajna-neutralizira-goliama-ruska-vyzdushna-ataka-s-dronove-i-raketi-2467720",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384396/991-ratio-ukrainski-boen-dron.jpg"
+    },
+    {
+      "title": "Акция в склад в Плевен: Спипаха десерти, бонбони, дъвки, кафе, близалки - без етикети, без документи и с изтекъл срок (СНИМКА)",
+      "url": "https://dariknews.bg/regioni/pleven/akciia-v-sklad-v-pleven-spipaha-deserti-bonboni-dyvki-kafe-blizalki-bez-etiketi-bez-dokumenti-i-s-iztekyl-srok-snimka-2467721",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50886/50886232/991-ratio-bonboni.jpg"
+    },
+    {
+      "title": "ЦИК: Над 35 500 заявления за гласуване от чужбина са подадени в 72 държави (НА ЖИВО)",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-nad-35-500-zaiavleniia-za-glasuvane-ot-chuzhbina-sa-podadeni-v-72-dyrzhavi-na-zhivo-2467719",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51306/51306613/991-ratio-izbori.jpg"
+    },
+    {
+      "title": "Вдигат с 9% възнагражденията на медиците в „Пирогов“",
+      "url": "https://dariknews.bg/regioni/sofiia/vdigat-s-9-vyznagrazhdeniiata-na-medicite-v-pirogov-2467718",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51220/51220649/991-ratio-pirogov.jpg"
+    },
     {
       "title": "Експерт: Насилието над деца най-често се случва в семейството",
       "url": "https://dariknews.bg/novini/bylgariia/ekspert-nasilieto-nad-deca-naj-chesto-se-sluchva-v-semejstvoto-2467717",
@@ -16,11 +44,11 @@
       "image": "https://m.netinfo.bg/media/images/50885/50885811/991-ratio-cherno-more.jpg"
     },
     {
-      "title": "Пробив в Пентагона засегна над 3 милиона души",
-      "url": "https://dariknews.bg/novini/sviat/probiv-v-pentagona-zasegna-nad-3-miliona-dushi-2467716",
+      "title": "Пробив в Пентагона изложи на риск данни на над 3 млн. души",
+      "url": "https://dariknews.bg/novini/sviat/probiv-v-pentagona-izlozhi-na-risk-danni-na-nad-3-mln.-dushi-2467716",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32734/32734577/991-ratio-lichni-danni.jpg"
+      "image": "https://m.netinfo.bg/media/images/51148/51148923/991-ratio-hakerska-ataka.jpg"
     },
     {
       "title": "Доставят близо 32 хил. дози ваксини срещу COVID-19 до края на годината",
@@ -56,6 +84,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/40986/40986121/991-ratio-iran-zheni.jpg"
+    },
+    {
+      "title": "КЗП проверява защо фермерите продават евтино, а храните са скъпи",
+      "url": "https://dariknews.bg/novini/bylgariia/kzp-proveriava-zashto-fermerite-prodavat-evtino-a-hranite-sa-skypi-2467708",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51096/51096470/991-ratio-plodove-i-zelenchuci.jpg"
     },
     {
       "title": "„Демократична България“ предлага 1000 евро от държавата за всяко новородено",
@@ -107,39 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51361/51361737/991-ratio-gyrciia.jpg"
     },
     {
-      "title": "Ураганът „Поло“ достигна сушата на Мексико със сила от трета категория",
-      "url": "https://dariknews.bg/novini/sviat/uraganyt-polo-dostigna-sushata-na-meksiko-sys-sila-ot-treta-kategoriia-2467699",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
+      "title": "Фернандо Алонсо остава във Формула 1, подписа нов договор 29 Сеп | 14:06",
+      "url": "https://dsport.bg/fernando-alonso-ostava-vav-formula-1-podpisa-nov-dogovor~241009.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294500791.og.jpg"
     },
     {
-      "title": "770 000 ваксини срещу грип идват у нас: Част от тях ще са безплатни за деца",
-      "url": "https://dariknews.bg/novini/bylgariia/770-000-vaksini-sreshtu-grip-idvat-u-nas-chast-ot-tiah-shte-sa-bezplatni-za-deca-2467702",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51131/51131270/991-ratio-dete-vaksina.jpg"
-    },
-    {
-      "title": "Две малки леопардови звезди превзеха зоопарка в Стара Загора: Близнаците Джай и Шанти вече правят пакости (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/dve-malki-leopardovi-zvezdi-prevzeha-zooparka-v-stara-zagora-bliznacite-dzhaj-i-shanti-veche-praviat-pakosti-snimkivideo-2467700",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Иран: Тръмп е голям лъжец, САЩ да напуснат региона",
-      "url": "https://dariknews.bg/novini/sviat/iran-trymp-e-goliam-lyzhec-sasht-da-napusnat-regiona-2467696",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388964/991-ratio-hosein-mohebi.jpg"
-    },
-    {
-      "title": "Прокуратурата, МВР, ДАНС и ЦИК се обединяват срещу изборни нарушения преди президентските избори",
-      "url": "https://dariknews.bg/novini/bylgariia/prokuraturata-mvr-dans-i-cik-se-obediniavat-sreshtu-izborni-narusheniia-predi-prezidentskite-izbori-2467698",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388967/991-ratio-prokuraturata.jpg"
+      "title": "Филипов: Оставам с впечатлението, че г-н Стефанов сънува и се събужда с „SOS“ на уста 29 Сеп | 14:02",
+      "url": "https://dsport.bg/filipov-ostavam-s-vpechatlenieto-che-g-n-stefanov-sanuva-i-se-sabuzda-s-sos-na-usta~241008.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2025-10-08_15-55-49-599-1.l.og.webp"
     },
     {
       "title": "Манчестър Сити пред колосална глоба 29 Сеп | 13:46",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2276667254.og.jpg"
-    },
-    {
-      "title": "ЦСКА 1948 си върна психоложката 29 Сеп | 12:34",
-      "url": "https://dsport.bg/cska-1948-si-varna-psiholozkata~240998.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/828305846_17893909635611077_6903956898193975504_n.og.jpg"
-    },
-    {
-      "title": "ФИФА срещу УЕФА: войната е обявена с обвинения в тормоз и „кампания с дезинформация“ 29 Сеп | 12:24",
-      "url": "https://dsport.bg/fifa-srestu-uefa-voinata-e-obavena-s-obvinenia-v-tormoz-i-kampania-s-dezinformacia~240997.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1838814766-1-1-1-1~1.og.jpg"
     }
   ]
 }
