@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-29T07:20:06.193058+00:00",
+  "updated": "2026-09-29T07:35:23.405429+00:00",
   "articles": [
+    {
+      "title": "Футболист пострада при сбиване на мач в Плевенско",
+      "url": "https://dariknews.bg/regioni/pleven/futbolist-postrada-pri-sbivane-na-mach-v-plevensko-2467669",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48831/48831457/991-ratio-futbol-igrishte.jpg"
+    },
+    {
+      "title": "Важно от НОИ: Датите за пенсии, майчинство и обезщетения вече са ясни",
+      "url": "https://dariknews.bg/novini/bylgariia/vazhno-ot-noi-datite-za-pensii-majchinstvo-i-obezshteteniia-veche-sa-iasni-2467670",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51293/51293513/991-ratio-gyrciia-evro.jpg"
+    },
     {
       "title": "Моторист е в тежко състояние след катастрофа с кола в Русе",
       "url": "https://dariknews.bg/novini/bylgariia/motorist-e-v-tezhko-systoianie-sled-katastrofa-s-kola-v-ruse-2467667",
@@ -21,6 +35,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51140/51140656/991-ratio-pari-evro-portmone-zhena.jpg"
+    },
+    {
+      "title": "Нови разкрития за изолацията на легендарния изследовател сър Ранулф Файнс (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/novi-razkritiia-za-izolaciiata-na-legendarniia-izsledovatel-syr-ranulf-fajns-snimki-2467668",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387283/991-ratio-syr-ranulf-fajns.jpg"
     },
     {
       "title": "Катастрофа затруднява движението по АМ „Тракия“ към Бургас",
@@ -118,28 +139,14 @@
       "url": "https://dariknews.bg/novini/bylgariia/premieryt-pokani-bylgarite-da-posreshtnat-tlennite-ostanki-na-car-samuil-v-sofiia-2467649",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51329/51329612/991-ratio-rumen-radev-ministerski-syvet.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Експлозии са избухнали в Киев след обявено предупреждение за въздушни удари",
-      "url": "https://dariknews.bg/novini/sviat/eksplozii-sa-izbuhnali-v-kiev-sled-obiaveno-preduprezhdenie-za-vyzdushni-udari-2467648",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388373/991-ratio-kiev.jpg"
-    },
-    {
-      "title": "Зеленски: Русия е започнала нова мобилизационна кампания",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-rusiia-e-zapochnala-nova-mobilizacionna-kampaniia-2467647",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51355/51355044/991-ratio-zelenski.jpg"
-    },
-    {
-      "title": "Нови изисквания за търговията с определени защитени животински видове от 1 януари",
-      "url": "https://dariknews.bg/novini/bylgariia/novi-iziskvaniia-za-tyrgoviiata-s-opredeleni-zashtiteni-zhivotinski-vidove-ot-1-ianuari-2467629",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51320/51320469/991-ratio-papagal-papagali-kletka.jpg"
+      "title": "Заплатите в Манчестър Сити: Холанд е №1, но кои са другите милионери в отбора? 29 Сеп | 10:06",
+      "url": "https://dsport.bg/zaplatite-v-manchestar-siti-holand-e-1-no-koi-sa-drugite-milioneri-v-otbora~240982.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296337671.og.jpg"
     },
     {
       "title": "„Мач за Мач“: Пак срам с националите? ЦСКА приключи кастинга! 29 Сеп | 10:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2249175119-1.og.jpg"
-    },
-    {
-      "title": "Кой ще спечели Златната топка? Изненадващ фаворит води 29 Сеп | 08:48",
-      "url": "https://dsport.bg/koi-ste-specheli-zlatnata-topka-iznenadvast-favorit-vodi~240972.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2186600586~1.og.jpg"
     }
   ]
 }
