@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T11:45:43.837657+00:00",
+  "updated": "2026-09-29T11:57:46.562513+00:00",
   "articles": [
+    {
+      "title": "7-и и 8-и блок на АЕЦ „Козлодуй“ – ключов проект между България, Корея и САЩ",
+      "url": "https://dariknews.bg/novini/bylgariia/7-i-i-8-i-blok-na-aec-kozloduj-kliuchov-proekt-mezhdu-bylgariia-koreia-i-sasht-2467725",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389082/991-ratio-bylgariia-i-republika-koreia-zadylbochavat-partniorstvoto-si-v-iadrenata-energetika.jpg"
+    },
     {
       "title": "Екстремният риалити формат „Игри на волята“ завладява Roblox",
       "url": "https://dariknews.bg/novini/liubopitno/ekstremniiat-rialiti-format-igri-na-voliata-zavladiava-roblox-2467723",
@@ -23,11 +30,11 @@
       "image": "https://m.netinfo.bg/media/images/50886/50886232/991-ratio-bonboni.jpg"
     },
     {
-      "title": "ЦИК: Над 35 500 заявления за гласуване от чужбина са подадени в 72 държави",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-nad-35-500-zaiavleniia-za-glasuvane-ot-chuzhbina-sa-podadeni-v-72-dyrzhavi-2467719",
+      "title": "ЦИК: Над 35 500 заявления за гласуване в чужбина, подготовката на машините започна",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-nad-35-500-zaiavleniia-za-glasuvane-v-chuzhbina-podgotovkata-na-mashinite-zapochna-2467719",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306613/991-ratio-izbori.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389086/991-ratio-cik.jpg"
     },
     {
       "title": "Вдигат с 9% възнагражденията на медиците в „Пирогов“",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51025/51025575/991-ratio-hamas.jpg"
     },
     {
-      "title": "София с първа „Улица на лапата“: Ето какви глоби дебнат недобросъвестните стопани (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/sofiia-s-pyrva-ulica-na-lapata-eto-kakvi-globi-debnat-nedobrosyvestnite-stopani-snimki-2467704",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388981/991-ratio-sofiia-ulica-skaniraj-lapata.jpg"
+      "title": "Трагедия в Гърция: 16-годишен футболист почина след инцидент по време на мач 29 Сеп | 14:48",
+      "url": "https://dsport.bg/tragedia-v-garcia-16-godishen-futbolist-pochina-sled-incident-po-vreme-na-mach~241012.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/828677808_18138016750622743_1277657200345221295_n.og.jpg"
     },
     {
       "title": "Барселона следи изкъсо двама крайни защитници с изтичащи договори 29 Сеп | 14:29",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-594794140.og.jpg"
-    },
-    {
-      "title": "В Турция скочиха на шефа на футболната федерация и на Монтела, искат им главите 29 Сеп | 12:58",
-      "url": "https://dsport.bg/v-turcia-skochiha-na-shefa-na-futbolnata-federacia-i-na-montela-iskat-im-glavite~241002.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2280236552~1.og.jpg"
     }
   ]
 }
