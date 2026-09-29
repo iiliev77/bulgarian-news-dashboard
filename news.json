@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-29T10:01:39.170028+00:00",
+  "updated": "2026-09-29T10:19:39.562272+00:00",
   "articles": [
+    {
+      "title": "„Демократична България“ предлага 1000 евро от държавата за всяко новородено",
+      "url": "https://dariknews.bg/novini/bylgariia/demokratichna-bylgariia-predlaga-1000-evro-ot-dyrzhavata-za-vsiako-novorodeno-2467707",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388995/991-ratio-db.jpg"
+    },
+    {
+      "title": "Издирван мъж във Венеция българин остава в ареста: Осъден е за сексуална експлоатация",
+      "url": "https://dariknews.bg/regioni/varna/izdirvan-myzh-vyv-veneciia-bylgarin-ostava-v-aresta-osyden-e-za-seksualna-eksploataciia-2467706",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196058/991-ratio-arest.jpg"
+    },
     {
       "title": "Над 1 млн. употребявани телефона са продавани като нови, България също е в схемата",
       "url": "https://dariknews.bg/novini/bylgariia/nad-1-mln.-upotrebiavani-telefona-sa-prodavani-kato-novi-bylgariia-syshto-e-v-shemata-2467705",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/41772/41772971/991-ratio-magazin-telefoni.jpg"
+      "image": "https://m.netinfo.bg/media/images/51388/51388991/991-ratio-telefoni.jpg"
     },
     {
       "title": "Израел ликвидира ръководителя на военното крило на „Хамас“ в Газа",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51310/51310077/991-ratio-lopata.jpg"
     },
     {
-      "title": "Авария налага промяна в схемата на водоснабдяване в части на София",
-      "url": "https://dariknews.bg/regioni/sofiia/avariia-nalaga-promiana-v-shemata-na-vodosnabdiavane-v-chasti-na-sofiia-2467687",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50722/50722394/991-ratio-voda-bez-voda-cheshma.jpg"
+      "title": "Пиърс Морган с присъда: Манчестър Сити трябва да бъде изхвърлен! Проектът на Абу Даби е обречен 29 Сеп | 13:10",
+      "url": "https://dsport.bg/piars-morgan-s-prisada-manchestar-siti-trabva-da-bade-izhvarlen-proektat-na-abu-dabi-e-obrechen~241003.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-594794140.og.jpg"
     },
     {
-      "title": "Ненадминат по сила, ненадминат по храброст: Българският цар Самуил",
-      "url": "https://dariknews.bg/novini/bylgariia/nenadminat-po-sila-nenadminat-po-hrabrost-bylgarskiiat-car-samuil-2467684",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "В Турция скочиха на шефа на футболната федерация и на Монтела, искат им главите 29 Сеп | 12:58",
+      "url": "https://dsport.bg/v-turcia-skochiha-na-shefa-na-futbolnata-federacia-i-na-montela-iskat-im-glavite~241002.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2280236552~1.og.jpg"
     },
     {
       "title": "Съдът потвърди наказание на Пике 29 Сеп | 12:55",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2295190673.og.jpg"
-    },
-    {
-      "title": "Аманда Анисимова сложи край на сезона си заради контузия 29 Сеп | 11:34",
-      "url": "https://dsport.bg/amanda-anisimova-slozi-krai-na-sezona-si-zaradi-kontuzia~240991.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2206589477~1.og.jpg"
-    },
-    {
-      "title": "Френки де Йонг може да напусне Барселона още през януари 29 Сеп | 11:25",
-      "url": "https://dsport.bg/frenki-de-iong-moze-da-napusne-barselona-oste-prez-anuari~240990.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2238285513-2.og.jpg"
     }
   ]
 }
