@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T16:39:15.311759+00:00",
+  "updated": "2026-09-29T16:54:32.681075+00:00",
   "articles": [
     {
       "title": "Шокиращи кадри от Пазарджишко: Деца връзват, влачат и душат куче (ВИДЕО)",
@@ -9,8 +9,8 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Борисов: Ако имаше кандидатпрезидентска двойка на ГЕРБ - нямаше да се бият помежду си, а щяха да се бият с нас",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-ako-imashe-kandidatprezidentska-dvojka-na-gerb-niamashe-da-se-biiat-pomezhdu-si-a-shtiaha-da-se-biiat-s-nas-2467759",
+      "title": "Борисов: Ако имаше кандидатпрезидентска двойка на ГЕРБ - нямаше да се бият помежду си, а с нас",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-ako-imashe-kandidatprezidentska-dvojka-na-gerb-niamashe-da-se-biiat-pomezhdu-si-a-s-nas-2467759",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51375/51375738/991-ratio-bojko-borisov.jpg"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
     },
     {
+      "title": "България на Световно и при жените 29 Сеп | 19:53",
+      "url": "https://dsport.bg/balgaria-na-svetovno-i-pri-zenite~241032.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/29.09-2~2.og.jpg"
+    },
+    {
+      "title": "Директор на Висшата лига: Сити системно е нарушавал правилата в продължение на близо десетилетие 29 Сеп | 19:44",
+      "url": "https://dsport.bg/direktor-na-visshata-liga-siti-sistemno-e-narushaval-pravilata-v-prodalzenie-na-blizo-desetiletie~241031.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2149875123~1.og.jpg"
+    },
+    {
       "title": "Работил с Рангник, тренирал Нойер, вдигал Купата на Германия: ЦСКА показа кой е Гиздол 29 Сеп | 19:33",
       "url": "https://dsport.bg/rabotil-s-rangnik-treniral-noier-vdigal-kupata-na-germania-cska-pokaza-koi-e-gizdol~241030.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297121628.og.jpg"
-    },
-    {
-      "title": "„Справедлив, но много твърд“: какъв човек и треньор пое ЦСКА? 29 Сеп | 17:35",
-      "url": "https://dsport.bg/spravedliv-no-mnogo-tvard-kakav-chovek-i-trenor-poe-cska~241021.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1273629860.og.jpg"
-    },
-    {
-      "title": "Локомотив Пловдив и Арда играят закрита контрола в паузата 29 Сеп | 17:09",
-      "url": "https://dsport.bg/lokomotiv-plovdiv-i-arda-igraat-zakrita-kontrola-v-pauzata~241020.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1015191.og.jpg"
     }
   ]
 }
