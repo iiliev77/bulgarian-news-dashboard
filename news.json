@@ -1,9 +1,37 @@
 {
-  "updated": "2026-09-29T09:01:43.187402+00:00",
+  "updated": "2026-09-29T09:20:46.831501+00:00",
   "articles": [
     {
-      "title": "MONA представя дебютния си албум „Жива“",
-      "url": "https://dariknews.bg/novini/liubopitno/mona-predstavia-debiutniia-si-album-zhiva-2467690",
+      "title": "„Следващата глоба ще е за киселото зеле“: ДПС срещу промените за домашната ракия",
+      "url": "https://dariknews.bg/novini/bylgariia/sledvashtata-globa-shte-e-za-kiseloto-zele-dps-sreshtu-promenite-za-domashnata-rakiia-2467695",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332546/991-ratio-atidzhe-alieva-veli.jpg"
+    },
+    {
+      "title": "Със заповед на кмета на Благоевград: 5 октомври е обявен за неучебен, но присъствен ден за учениците",
+      "url": "https://dariknews.bg/novini/bylgariia/sys-zapoved-na-kmeta-na-blagoevgrad-5-oktomvri-e-obiaven-za-neucheben-no-prisystven-den-za-uchenicite-2467693",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51168/51168671/991-ratio-teatyr-blagoevgrad.jpg"
+    },
+    {
+      "title": "Близо 29% от хората в България живеят в риск от бедност",
+      "url": "https://dariknews.bg/novini/bylgariia/blizo-29-ot-horata-v-bylgariia-zhiveiat-v-risk-ot-bednost-2467692",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45324/45324128/991-ratio-beden.jpg"
+    },
+    {
+      "title": "53% от българите са доплащали за здравни услуги през последната година",
+      "url": "https://dariknews.bg/novini/bylgariia/53-ot-bylgarite-sa-doplashtali-za-zdravni-uslugi-prez-poslednata-godina-2467691",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51322/51322804/991-ratio-laboratoriia-test-bolnica.jpg"
+    },
+    {
+      "title": "За трудностите и сбъднатите мечти: MONA представя дебютния си албум „Жива“",
+      "url": "https://dariknews.bg/novini/liubopitno/za-trudnostite-i-sbydnatite-mechti-mona-predstavia-debiutniia-si-album-zhiva-2467690",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388953/991-ratio-mona.jpg"
@@ -41,7 +69,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/nenadminat-po-sila-nenadminat-po-hrabrost-bylgarskiiat-car-samuil-2467684",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388935/991-ratio-car-samuil.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Откриха обявената за издирване 49-годишна жена от Ямбол",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388898/991-ratio-anesteziia.jpg"
     },
     {
-      "title": "Откриха още места за млади медицински специалисти в области и специалности с недостиг",
-      "url": "https://dariknews.bg/novini/bylgariia/otkriha-oshte-mesta-za-mladi-medicinski-specialisti-v-oblasti-i-specialnosti-s-nedostig-2467672",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51358/51358072/991-ratio-ung-lekar.jpg"
+      "title": "Лидерът в MrBit Втора лига взе мерките за състоянието на терена си (ВИДЕО) 29 Сеп | 12:16",
+      "url": "https://dsport.bg/liderat-v-mrbit-vtora-liga-vze-merkite-za-sastoanieto-na-terena-si-video~240994.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/chatgpt-image-sep-29-2026-12_10_05-pm.og.png"
     },
     {
-      "title": "„Ей сега ще те гръмна“: Тийнейджър заплашва хора и стреля с пистолет в автобус и на спирка в Софийско",
-      "url": "https://dariknews.bg/regioni/sofiia/ej-sega-shte-te-grymna-tijnejdzhyr-zaplashva-hora-i-strelia-s-pistolet-v-avtobus-i-na-spirka-v-sofijsko-2467673",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
-    },
-    {
-      "title": "Иран очаква официален отговор от САЩ за Ормузкия проток",
-      "url": "https://dariknews.bg/novini/sviat/iran-ochakva-oficialen-otgovor-ot-sasht-za-ormuzkiia-protok-2467671",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51178/51178258/991-ratio-iranskiiat-vynshen-ministyr-abas-aragchi.jpg"
-    },
-    {
-      "title": "Футболист пострада при сбиване на мач в Плевенско",
-      "url": "https://dariknews.bg/regioni/pleven/futbolist-postrada-pri-sbivane-na-mach-v-plevensko-2467669",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48831/48831457/991-ratio-futbol-igrishte.jpg"
+      "title": "Арестуваха висш футболен шеф в Турция 29 Сеп | 11:58",
+      "url": "https://dsport.bg/arestuvaha-vissh-futbolen-shef-v-turcia~240993.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2270230644~1.og.jpg"
     },
     {
       "title": "Манчестър Сити пред невиждано наказание 29 Сеп | 11:46",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297088128.og.jpg"
-    },
-    {
-      "title": "Фабрегас с тайна клауза в договора си, валидна само за Барселона, Арсенал и Челси 29 Сеп | 10:36",
-      "url": "https://dsport.bg/fabregas-s-taina-klauza-v-dogovora-si-validna-samo-za-barselona-arsenal-i-chelsi~240985.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2295382564.og.jpg"
-    },
-    {
-      "title": "Разкриха заплатата на Зинедин Зидан начело на Франция - по-малко от очакваното, но с важна уловка 29 Сеп | 10:26",
-      "url": "https://dsport.bg/razkriha-zaplatata-na-zinedin-zidan-nachelo-na-francia-po-malko-ot-ochakvanoto-no-s-vazna-ulovka~240984.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297597698.og.jpg"
     }
   ]
 }
