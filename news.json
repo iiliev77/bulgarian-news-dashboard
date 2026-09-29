@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-29T17:49:05.607708+00:00",
+  "updated": "2026-09-29T18:00:47.668210+00:00",
   "articles": [
     {
-      "title": "Над 2,3 млн. евро ще струват бюлетините и ролките за президентския вот",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/nad-23-mln.-evro-shte-struvat-biuletinite-i-rolkite-za-prezidentskiia-vot-2467763",
+      "title": "ЦИК предвижда над 2,3 млн. евро за бюлетини и ролки за президентския вот",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-predvizhda-nad-23-mln.-evro-za-biuletini-i-rolki-za-prezidentskiia-vot-2467763",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50227/50227978/991-ratio-izbori-glasuvane-mashini-biuletina.jpg"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389112/991-ratio-igri-na-voliata.jpg"
     },
     {
+      "title": "Лапоухов и Ебонг титуляри при равенство на Беларус в Хелзинки 29 Сеп | 20:59",
+      "url": "https://dsport.bg/lapouhov-i-ebong-titulari-pri-ravenstvo-na-belarus-v-helzinki~241038.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gw9lumdwoaaayxp-1.og.jpg"
+    },
+    {
+      "title": "Таня Гатева застана начело на Славия 29 Сеп | 20:56",
+      "url": "https://dsport.bg/tana-gateva-zastana-nachelo-na-slavia~241036.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/29.09-5~1.og.jpg"
+    },
+    {
       "title": "Александър Николов за Симеон: Ние се мотивираме взаимно 29 Сеп | 20:47",
       "url": "https://dsport.bg/aleksandar-nikolov-za-simeon-nie-se-motivirame-vzaimno~241026.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/29.09-1~1.og.jpg"
-    },
-    {
-      "title": "В Ман Сити са изненадани от решението на Висшата лига, но имат доказателства, че не са виновни 29 Сеп | 19:19",
-      "url": "https://dsport.bg/v-man-siti-sa-iznenadani-ot-reshenieto-na-visshata-liga-no-imat-dokazatelstva-che-ne-sa-vinovni~241029.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2278150929.og.jpg"
-    },
-    {
-      "title": "Висшата лига обяви: Манчестър Сити е виновен по всички обвинения, свързани със сериозни нарушения на финансовите правила 29 Сеп | 19:01",
-      "url": "https://dsport.bg/visshata-liga-obavi-manchestar-siti-e-vinoven-po-vsichki-115-obvinenia~241028.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2275320179~1.og.jpg"
     }
   ]
 }
