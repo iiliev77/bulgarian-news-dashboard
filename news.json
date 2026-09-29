@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T01:31:04.231149+00:00",
+  "updated": "2026-09-29T01:44:50.586559+00:00",
   "articles": [
+    {
+      "title": "Времето във вторник: Дъжд на места, силен вятър и вълнение по морето",
+      "url": "https://dariknews.bg/novini/bylgariia/vremeto-vyv-vtornik-dyzhd-na-mesta-silen-viatyr-i-vylnenie-po-moreto-2467619",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35288/35288430/991-ratio-okean-vylni-more.jpg"
+    },
     {
       "title": "Тринадесет души загинаха при пожар във фабрика за фойерверки в Русия",
       "url": "https://dariknews.bg/novini/sviat/trinadeset-dushi-zaginaha-pri-pozhar-vyv-fabrika-za-fojerverki-v-rusiia-2467646",
@@ -133,13 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/smileys/lightbulb.png"
-    },
-    {
-      "title": "Пожар край село Зорница затруднява движението между Хасковско и Кърджалийско",
-      "url": "https://dariknews.bg/regioni/haskovo/pozhar-kraj-selo-zornica-zatrudniava-dvizhenieto-mezhdu-haskovsko-i-kyrdzhalijsko-2467623",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
     },
     {
       "title": "Гениален миг от Олисе зарадва Франция и съкруши Белгия 28 Сеп | 23:46",
