@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:15:56.569520+00:00",
+  "updated": "2026-09-29T20:32:54.298762+00:00",
   "articles": [
     {
       "title": "Трима воини напуснаха „Игри на волята“",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/46554/46554901/991-ratio-parnikovi-emisii-zamyrsiavane.jpg"
     },
     {
+      "title": "На живо: България допусна гол от Естония, но от засада 29 Сеп | 23:26",
+      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033911.og.jpg"
+    },
+    {
+      "title": "Тебас за Манчестър Сити: Трябва да бъде наложено най-строгото наказание 29 Сеп | 23:24",
+      "url": "https://dsport.bg/tebas-za-manchestar-siti-trabva-da-bade-nalozeno-nai-strogoto-nakazanie~241049.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2242522639~2.og.jpg"
+    },
+    {
       "title": "Русия надигра Иран в контрола 29 Сеп | 23:11",
       "url": "https://dsport.bg/rusia-nadigra-iran-v-kontrola~241048.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2225998089.og.jpg"
-    },
-    {
-      "title": "На живо: България допусна гол от Естония, но от засада 29 Сеп | 23:09",
-      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033911.og.jpg"
     },
     {
       "title": "Кузманов продължава напред в Бари, Нестеров отпадна в Порто 29 Сеп | 22:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1368771963~3.og.jpg"
-    },
-    {
-      "title": "Васил Божков разкри още колко може да поиска от Левски и „захапа“ Сираков за обяд и кафе 29 Сеп | 21:24",
-      "url": "https://dsport.bg/vasil-bozkov-razkri-oste-kolko-moze-da-poiska-ot-levski-i-zahapa-sirakov-za-obad-i-kafe~241040.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/neozaglaven-dizain-90-1.og.png"
     }
   ]
 }
