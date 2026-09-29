@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T15:03:19.062483+00:00",
+  "updated": "2026-09-29T15:23:00.586106+00:00",
   "articles": [
+    {
+      "title": "Зеленски: Белгия ще предаде три изтребителя Ф-16 на Украйна",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-belgiia-shte-predade-tri-iztrebitelia-f-16-na-ukrajna-2467753",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51374/51374300/991-ratio-volodimir-zelenski.jpg"
+    },
     {
       "title": "Приключи прочистването на района около склада за боеприпаси на „Емко“ в село Горни Върпища",
       "url": "https://dariknews.bg/novini/bylgariia/prikliuchi-prochistvaneto-na-rajona-okolo-sklada-za-boepripasi-na-emko-v-selo-gorni-vyrpishta-2467752",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Скандал в Белград: Общинска съветничка със счупен нос и челюст, обвиниха кмета",
-      "url": "https://dariknews.bg/novini/sviat/skandal-v-belgrad-obshtinska-syvetnichka-sys-schupen-nos-i-cheliust-obviniha-kmeta-2467730",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
+      "title": "Цолов: Усещам положителната ви енергия и винаги ще я ценя 29 Сеп | 18:10",
+      "url": "https://dsport.bg/colov-usestam-polozitelnata-vi-energia-i-vinagi-ste-a-cena~241023.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297205153~1.og.jpg"
     },
     {
       "title": "Мбапе се размина с операция, в Реал Мадрид няма да рискуват с него 29 Сеп | 17:56",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297696663.og.jpg"
-    },
-    {
-      "title": "ЦСКА представи новия треньор, даде му договор до края на сезона 29 Сеп | 14:58",
-      "url": "https://dsport.bg/cska-predstavi-novia-trenor-dade-mu-dogovor-do-kraa-na-sezona~241013.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/828552109_2697054950690985_2947689696454202522_n.og.jpg"
     }
   ]
 }
