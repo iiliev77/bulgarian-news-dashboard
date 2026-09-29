@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-29T09:36:58.300847+00:00",
+  "updated": "2026-09-29T09:52:14.099596+00:00",
   "articles": [
+    {
+      "title": "Израел е ликвидирал ръководителя на военното крило на \"Хамас\" в Газа",
+      "url": "https://dariknews.bg/novini/sviat/izrael-e-likvidiral-rykovoditelia-na-voennoto-krilo-na-hamas-v-gaza-2467703",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51025/51025575/991-ratio-hamas.jpg"
+    },
+    {
+      "title": "НСИ с данни: Къде пътуваха българите в чужбина през август",
+      "url": "https://dariknews.bg/novini/bylgariia/nsi-s-danni-kyde-pytuvaha-bylgarite-v-chuzhbina-prez-avgust-2467701",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361737/991-ratio-gyrciia.jpg"
+    },
     {
       "title": "Ураганът „Поло“ достигна сушата на Мексико със сила от трета категория",
       "url": "https://dariknews.bg/novini/sviat/uraganyt-polo-dostigna-sushata-na-meksiko-sys-sila-ot-treta-kategoriia-2467699",
@@ -9,11 +23,18 @@
       "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
     },
     {
+      "title": "770 000 ваксини срещу грип идват у нас: Част от тях ще са безплатни за деца",
+      "url": "https://dariknews.bg/novini/bylgariia/770-000-vaksini-sreshtu-grip-idvat-u-nas-chast-ot-tiah-shte-sa-bezplatni-za-deca-2467702",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51131/51131270/991-ratio-dete-vaksina.jpg"
+    },
+    {
       "title": "Две малки леопардови звезди превзеха зоопарка в Стара Загора: Близнаците Джай и Шанти вече правят пакости (СНИМКИ/ВИДЕО)",
       "url": "https://dariknews.bg/regioni/stara-zagora/dve-malki-leopardovi-zvezdi-prevzeha-zooparka-v-stara-zagora-bliznacite-dzhaj-i-shanti-veche-praviat-pakosti-snimkivideo-2467700",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388969/991-ratio-bebeta-leopardi-stara-zagora.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Иран: Тръмп е голям лъжец, САЩ да напуснат региона",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
     },
     {
-      "title": "Млад мъж преби баща си в община Търговище",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/mlad-myzh-prebi-bashta-si-v-obshtina-tyrgovishte-2467679",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50754/50754263/991-ratio-boj-poboj-iumruk.jpg"
-    },
-    {
-      "title": "Заподозрените за терористичния акт край Феърфорд са освободени, разследването продължава",
-      "url": "https://dariknews.bg/novini/sviat/zapodozrenite-za-teroristichniia-akt-kraj-feyrford-sa-osvobodeni-razsledvaneto-prodylzhava-2467685",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388469/991-ratio-voenna-baza.jpg"
-    },
-    {
-      "title": "Коледната добавка ще се изплаща през ноември, инфлационният чек започва от 1 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/kolednata-dobavka-shte-se-izplashta-prez-noemvri-inflacionniiat-chek-zapochva-ot-1-oktomvri-2467681",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51325/51325161/991-ratio-pari-evro-pensii.jpg"
+      "title": "Една кариера, преобразена от гения на Сеск Фабрегас и доверието на Зинедин Зидан 29 Сеп | 12:41",
+      "url": "https://dsport.bg/edna-kariera-preobrazena-ot-genia-na-sesk-fabregas-i-doverieto-na-zinedin-zidan~241000.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2276667254.og.jpg"
     },
     {
       "title": "ЦСКА 1948 си върна психоложката 29 Сеп | 12:34",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297595452.og.jpg"
-    },
-    {
-      "title": "Футболна треска в Гърция: 100 000 напират за билети за мача с Нидерландия 29 Сеп | 11:07",
-      "url": "https://dsport.bg/futbolna-treska-v-garcia-100-000-napirat-za-bileti-za-macha-s-niderlandia~240988.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2245356641.og.jpg"
     }
   ]
 }
