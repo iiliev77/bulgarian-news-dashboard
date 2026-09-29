@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T19:59:36.284880+00:00",
+  "updated": "2026-09-29T20:15:56.569520+00:00",
   "articles": [
+    {
+      "title": "Трима воини напуснаха „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/trima-voini-napusnaha-igri-na-voliata-2467767",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389268/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Българският патриарх Даниил се срещна с крал Абдула II",
       "url": "https://dariknews.bg/novini/sviat/bylgarskiiat-patriarh-daniil-se-sreshtna-s-kral-abdula-ii-2467765",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/46554/46554901/991-ratio-parnikovi-emisii-zamyrsiavane.jpg"
     },
     {
-      "title": "След свлачището: АПИ търси изпълнител за пътя към Пампорово",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-svlachishteto-api-tyrsi-izpylnitel-za-pytia-kym-pamporovo-2467746",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51314/51314526/991-ratio-smolian-pamporovo-pyt-svlachishte.jpg"
+      "title": "Русия надигра Иран в контрола 29 Сеп | 23:11",
+      "url": "https://dsport.bg/rusia-nadigra-iran-v-kontrola~241048.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2225998089.og.jpg"
+    },
+    {
+      "title": "На живо: България допусна гол от Естония, но от засада 29 Сеп | 23:09",
+      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033911.og.jpg"
     },
     {
       "title": "Кузманов продължава напред в Бари, Нестеров отпадна в Порто 29 Сеп | 22:58",
@@ -147,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/29.09-6.og.jpg"
-    },
-    {
-      "title": "На живо: България - Естония 29 Сеп | 22:49",
-      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033911.og.jpg"
     },
     {
       "title": "Съперник на ЦСКА предложи нов договор на голмайстора си 29 Сеп | 22:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/neozaglaven-dizain-90-1.og.png"
-    },
-    {
-      "title": "Лапоухов и Ебонг титуляри при равенство на Беларус в Хелзинки 29 Сеп | 20:59",
-      "url": "https://dsport.bg/lapouhov-i-ebong-titulari-pri-ravenstvo-na-belarus-v-helzinki~241038.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gw9lumdwoaaayxp-1.og.jpg"
     }
   ]
 }
