@@ -1,19 +1,33 @@
 {
-  "updated": "2026-09-29T08:51:28.622838+00:00",
+  "updated": "2026-09-29T09:01:43.187402+00:00",
   "articles": [
     {
-      "title": "Бой с лопата в Костенец, мъж остана без два зъба",
-      "url": "https://dariknews.bg/novini/bylgariia/boj-s-lopata-v-kostenec-myzh-ostana-bez-dva-zyba-2467688",
+      "title": "MONA представя дебютния си албум „Жива“",
+      "url": "https://dariknews.bg/novini/liubopitno/mona-predstavia-debiutniia-si-album-zhiva-2467690",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51310/51310077/991-ratio-lopata.jpg"
+      "image": "https://m.netinfo.bg/media/images/51388/51388953/991-ratio-mona.jpg"
+    },
+    {
+      "title": "Катастрофа затруднява движението на пътя Змейово-Борилово в Старозагорско",
+      "url": "https://dariknews.bg/regioni/stara-zagora/katastrofa-zatrudniava-dvizhenieto-na-pytia-zmejovo-borilovo-v-starozagorsko-2467689",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
     },
     {
       "title": "По-високи цени и лихви: Фискалният съвет очерта рисковете пред икономиката през следващите години",
       "url": "https://dariknews.bg/novini/bylgariia/po-visoki-ceni-i-lihvi-fiskalniiat-syvet-ocherta-riskovete-pred-ikonomikata-prez-sledvashtite-godini-2467686",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50194/50194658/991-ratio-ministerstvo-na-finansite.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Бой с лопата в Костенец, мъж остана без два зъба",
+      "url": "https://dariknews.bg/novini/bylgariia/boj-s-lopata-v-kostenec-myzh-ostana-bez-dva-zyba-2467688",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51310/51310077/991-ratio-lopata.jpg"
     },
     {
       "title": "Авария налага промяна в схемата на водоснабдяване в части на София",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/48831/48831457/991-ratio-futbol-igrishte.jpg"
     },
     {
-      "title": "Важно от НОИ: Датите за пенсии, майчинство и обезщетения през октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/vazhno-ot-noi-datite-za-pensii-majchinstvo-i-obezshteteniia-prez-oktomvri-2467670",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51293/51293513/991-ratio-gyrciia-evro.jpg"
-    },
-    {
-      "title": "Моторист е в тежко състояние след катастрофа с кола в Русе",
-      "url": "https://dariknews.bg/novini/bylgariia/motorist-e-v-tezhko-systoianie-sled-katastrofa-s-kola-v-ruse-2467667",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
+      "title": "Манчестър Сити пред невиждано наказание 29 Сеп | 11:46",
+      "url": "https://dsport.bg/manchestar-siti-pred-nevizdano-nakazanie~240992.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2295190673.og.jpg"
     },
     {
       "title": "Аманда Анисимова сложи край на сезона си заради контузия 29 Сеп | 11:34",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297597698.og.jpg"
-    },
-    {
-      "title": "Англичанин ли е фаворитът за нов мениджър на Манчестър Юнайтед? 29 Сеп | 10:15",
-      "url": "https://dsport.bg/anglichanin-li-e-favoritat-za-nov-menidzar-na-manchestar-unaited~240983.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2271029899-1.og.jpg"
     }
   ]
 }
