@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-29T13:29:58.739944+00:00",
+  "updated": "2026-09-29T13:47:09.200049+00:00",
   "articles": [
+    {
+      "title": "Нова база с 3D симулации ще подготвя пожарникари и спасители край Благоевград",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/nova-baza-s-3d-simulacii-shte-podgotvia-pozharnikari-i-spasiteli-kraj-blagoevgrad-2467745",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51069/51069337/991-ratio-pozharnikar.jpg"
+    },
     {
       "title": "Нови правила за вредните емисии от големите горивни инсталации",
       "url": "https://dariknews.bg/novini/bylgariia/novi-pravila-za-vrednite-emisii-ot-golemite-gorivni-instalacii-2467744",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/46554/46554901/991-ratio-parnikovi-emisii-zamyrsiavane.jpg"
+    },
+    {
+      "title": "След свлачището: АПИ търси изпълнител за пътя към Пампорово",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-svlachishteto-api-tyrsi-izpylnitel-za-pytia-kym-pamporovo-2467746",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51314/51314526/991-ratio-smolian-pamporovo-pyt-svlachishte.jpg"
     },
     {
       "title": "Зоокът, спортни игрища и градина в китайски стил: Разширяват парк „Свети Врач“ в Сандански",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389077/991-ratio-roblox.jpg"
     },
     {
-      "title": "Украйна неутрализира голяма руска въздушна атака с дронове и ракети",
-      "url": "https://dariknews.bg/novini/sviat/ukrajna-neutralizira-goliama-ruska-vyzdushna-ataka-s-dronove-i-raketi-2467720",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384396/991-ratio-ukrainski-boen-dron.jpg"
-    },
-    {
-      "title": "Акция в склад в Плевен: Спипаха десерти, бонбони, дъвки, кафе, близалки - без етикети, без документи и с изтекъл срок (СНИМКА)",
-      "url": "https://dariknews.bg/regioni/pleven/akciia-v-sklad-v-pleven-spipaha-deserti-bonboni-dyvki-kafe-blizalki-bez-etiketi-bez-dokumenti-i-s-iztekyl-srok-snimka-2467721",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50886/50886232/991-ratio-bonboni.jpg"
+      "title": "Шампион с Левски все още няма отбор 29 Сеп | 16:32",
+      "url": "https://dsport.bg/shampion-s-levski-vse-oste-nama-otbor~241017.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/972853~1.og.jpg"
     },
     {
       "title": "Играчите в MrBit Втора лига отнесоха повече глоби от клубовете, Вихрен с най-солена санкция 29 Сеп | 16:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2025-10-08_15-55-49-599-1.l.og.webp"
-    },
-    {
-      "title": "Манчестър Сити пред колосална глоба 29 Сеп | 13:46",
-      "url": "https://dsport.bg/manchestar-siti-pred-kolosalna-globa~241007.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2272051229.og.jpg"
     }
   ]
 }
