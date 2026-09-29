@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T14:17:17.694386+00:00",
+  "updated": "2026-09-29T14:34:42.337514+00:00",
   "articles": [
+    {
+      "title": "Приключи прочистването на района около склада за боеприпаси на „Емко“ в село Горни Върпища",
+      "url": "https://dariknews.bg/novini/bylgariia/prikliuchi-prochistvaneto-na-rajona-okolo-sklada-za-boepripasi-na-emko-v-selo-gorni-vyrpishta-2467752",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51381/51381451/991-ratio-zavod-emko-vzrivove.jpg"
+    },
     {
       "title": "НАП напомня: Доходите от чужбина и имуществото зад граница подлежат на деклариране",
       "url": "https://dariknews.bg/novini/bylgariia/nap-napomnia-dohodite-ot-chuzhbina-i-imushtestvoto-zad-granica-podlezhat-na-deklarirane-2467751",
@@ -30,11 +37,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389160/991-ratio-somalijski-morski-policai-ot-silite-za-sigurnost-v-puntland-patrulirat.jpg"
     },
     {
-      "title": "Нова база с 3D симулации ще подготвя пожарникари и спасители край Благоевград",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/nova-baza-s-3d-simulacii-shte-podgotvia-pozharnikari-i-spasiteli-kraj-blagoevgrad-2467745",
+      "title": "Нова база с 3D симулации ще подготвя пожарникари и спасители край Благоевград (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/nova-baza-s-3d-simulacii-shte-podgotvia-pozharnikari-i-spasiteli-kraj-blagoevgrad-snimki-2467745",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51069/51069337/991-ratio-pozharnikar.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389170/991-ratio-d.jpg"
     },
     {
       "title": "Нови правила за вредните емисии от големите горивни инсталации",
@@ -133,13 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
-    },
-    {
-      "title": "ПП внася сигнал за конфликт на интереси на депутата от „Прогресивна България“ Слави Василев",
-      "url": "https://dariknews.bg/novini/bylgariia/pp-vnasia-signal-za-konflikt-na-interesi-na-deputata-ot-progresivna-bylgariia-slavi-vasilev-2467729",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51317/51317813/991-ratio-slavi-vasilev.jpg"
     },
     {
       "title": "Локомотив Пловдив и Арда играят закрита контрола в паузата 29 Сеп | 17:09",
