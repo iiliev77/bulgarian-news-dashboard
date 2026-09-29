@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T18:54:24.678144+00:00",
+  "updated": "2026-09-29T19:04:45.260432+00:00",
   "articles": [
     {
       "title": "От кмет на Маракеш до премиер на Мароко – коя е Фатима Езахра ел Мансури",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389124/991-ratio-sveti-vrach.jpg"
     },
     {
-      "title": "На живо: България – Естония 29 Сеп | 21:48",
+      "title": "Везенков и Олимпиакос с измъчена победа срещу Жалгирис пред погледа на Шакил О'Нийл 29 Сеп | 22:02",
+      "url": "https://dsport.bg/vezenkov-i-olimpiakos-s-izmachena-pobeda-srestu-zalgiris-pred-pogleda-na-shakil-o-niil~241042.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297224079.og.jpg"
+    },
+    {
+      "title": "На живо: България – Естония 29 Сеп | 22:01",
       "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/finali-ekt-3-~1.og.jpg"
+      "image": "https://dsport.bg/media/384/1033886.og.jpg"
     },
     {
       "title": "Сейни Санянг влезе и даде голов пас при паметен обрат на Гамбия срещу Гана 29 Сеп | 21:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296636175.og.jpg"
-    },
-    {
-      "title": "Анчелоти не разкри какво му е на Рафиня, похвали Винисиус 29 Сеп | 20:10",
-      "url": "https://dsport.bg/ancheloti-ne-razkri-kakvo-mu-e-na-rafina-pohvali-vinisius~241034.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297069177~1.og.jpg"
     }
   ]
 }
