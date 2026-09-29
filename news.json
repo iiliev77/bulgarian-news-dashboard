@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-29T05:28:49.374576+00:00",
+  "updated": "2026-09-29T05:42:57.668679+00:00",
   "articles": [
     {
-      "title": "Ураганите завоюваха спасение и специална вечеря след подвиг на Арената в “Игри на волята”",
+      "title": "„Това е традиция, вкоренена в българския бит“: Производители на ракия са готови за протести, ако няма диалог с властта (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/montana/tova-e-tradiciia-vkorenena-v-bylgarskiia-bit-proizvoditeli-na-rakiia-sa-gotovi-za-protesti-ako-niama-dialog-s-vlastta-video-2467654",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Ураганите завоюваха спасение и специална вечеря след подвиг на Арената в „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/uraganite-zavoiuvaha-spasenie-i-specialna-vecheria-sled-podvig-na-arenata-v-igri-na-voliata-2467653",
       "source": "DarikNews",
       "section": "news",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388692/991-ratio-ruskiiat-prezident-vladimir-putin-po-vreme-na-ceremoniia-po-polagane.jpg"
     },
     {
-      "title": "Румен Спецов: Задачата ми беше да осигуря достъпни цени на горивата",
-      "url": "https://dariknews.bg/novini/bylgariia/rumen-specov-zadachata-mi-beshe-da-osiguria-dostypni-ceni-na-gorivata-2467643",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51218/51218490/991-ratio-rumen-specov.jpg"
+      "title": "Зидан избухна в луда радост: Изглеждах нелепо, но е позволено 29 Сеп | 08:26",
+      "url": "https://dsport.bg/zidan-izbuhna-v-luda-radost-izglezdah-nelepo-no-e-pozvoleno~240970.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/fradadz.og.jpg"
+    },
+    {
+      "title": "Съдебната война започва: Барселона и Флорентино Перес се изправят един срещу друг на 25 ноември 29 Сеп | 08:14",
+      "url": "https://dsport.bg/sadebnata-voina-zapochva-barselona-i-florentino-peres-se-izpravat-edin-srestu-drug-na-25-noemvri~240969.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2243417903.og.jpg"
     },
     {
       "title": "Рома с грандиозен проект - нов стадион за 1,4 млрд. получи зелена светлина 29 Сеп | 08:03",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296564304.og.jpg"
-    },
-    {
-      "title": "\"Маратон София 2026\"с над 12 хиляди участници 28 Сеп | 21:15",
-      "url": "https://dsport.bg/maraton-sofia-2026-s-nad-12-hiladi-uchastnici~240958.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/milica.og.jpeg"
-    },
-    {
-      "title": "Питас не успя да пробие Латвия, капитанът на ЦСКА 1948 спря Украйна 28 Сеп | 20:56",
-      "url": "https://dsport.bg/pitas-ne-uspa-da-probie-latvia-kapitanat-na-cska-1948-spra-ukraina~240957.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/827630474_1443097397917070_7495006257673598553_n.og.jpg"
     }
   ]
 }
