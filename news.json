@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T19:36:20.626568+00:00",
+  "updated": "2026-09-29T19:49:09.135626+00:00",
   "articles": [
+    {
+      "title": "Българският патриарх Даниил се срещна с крал Абдула II",
+      "url": "https://dariknews.bg/novini/sviat/bylgarskiiat-patriarh-daniil-se-sreshtna-s-kral-abdula-ii-2467765",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389220/991-ratio-daniil.jpg"
+    },
     {
       "title": "От кмет на Маракеш до премиер на Мароко – коя е Фатима Езахра ел Мансури",
       "url": "https://dariknews.bg/novini/sviat/ot-kmet-na-marakesh-do-premier-na-maroko-koia-e-fatima-ezahra-el-mansuri-2467764",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51314/51314526/991-ratio-smolian-pamporovo-pyt-svlachishte.jpg"
     },
     {
-      "title": "Зоокът, спортни игрища и градина в китайски стил: Разширяват парк „Свети Врач“ в Сандански",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/zookyt-sportni-igrishta-i-gradina-v-kitajski-stil-razshiriavat-park-sveti-vrach-v-sandanski-2467742",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389124/991-ratio-sveti-vrach.jpg"
+      "title": "Съперник на ЦСКА предложи нов договор на голмайстора си 29 Сеп | 22:45",
+      "url": "https://dsport.bg/sapernik-na-cska-predlozi-nov-dogovor-na-golmaistora-si~241045.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2246698808.og.jpg"
+    },
+    {
+      "title": "Какво ще донесе Маркус Гиздол в ЦСКА? (ВИДЕО) 29 Сеп | 22:40",
+      "url": "https://dsport.bg/kakvo-ste-donese-markus-gizdol-v-cska-video~241044.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gizdol.og.png"
     },
     {
       "title": "На живо: България удържа Естония през първото полувреме 29 Сеп | 22:34",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/29.09-5~1.og.jpg"
-    },
-    {
-      "title": "Александър Николов за Симеон: Ние се мотивираме взаимно 29 Сеп | 20:47",
-      "url": "https://dsport.bg/aleksandar-nikolov-za-simeon-nie-se-motivirame-vzaimno~241026.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-29-185808.og.png"
-    },
-    {
-      "title": "Президентът на Лудогорец влезе в борда на директорите на европейската футболна клубна асоциация 29 Сеп | 20:30",
-      "url": "https://dsport.bg/prezidentat-na-ludogorec-vleze-v-borda-na-direktorite-na-evropeiskata-futbolna-klubna-asociacia~241035.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/29.09-3~3.og.jpg"
     }
   ]
 }
