@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-29T17:35:12.191155+00:00",
+  "updated": "2026-09-29T17:49:05.607708+00:00",
   "articles": [
+    {
+      "title": "Над 2,3 млн. евро ще струват бюлетините и ролките за президентския вот",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/nad-23-mln.-evro-shte-struvat-biuletinite-i-rolkite-za-prezidentskiia-vot-2467763",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50227/50227978/991-ratio-izbori-glasuvane-mashini-biuletina.jpg"
+    },
     {
       "title": "Голямото завръщане: Селин Дион откри Седмицата на модата в Париж (СНИМКИ/ВИДЕО)",
       "url": "https://dariknews.bg/novini/liubopitno/goliamoto-zavryshtane-selin-dion-otkri-sedmicata-na-modata-v-parizh-snimkivideo-2467761",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389112/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Държавата въвежда Европейски портфейл за цифрова самоличност",
-      "url": "https://dariknews.bg/novini/bylgariia/dyrzhavata-vyvezhda-evropejski-portfejl-za-cifrova-samolichnost-2467740",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387351/991-ratio-kompiutyr.jpg"
+      "title": "Александър Николов за Симеон: Ние се мотивираме взаимно 29 Сеп | 20:47",
+      "url": "https://dsport.bg/aleksandar-nikolov-za-simeon-nie-se-motivirame-vzaimno~241026.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-29-185808.og.png"
+    },
+    {
+      "title": "На живо: България – Естония (Състави) 29 Сеп | 20:38",
+      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/finali-ekt-3-~1.og.jpg"
     },
     {
       "title": "Президентът на Лудогорец влезе в борда на директорите на европейската футболна клубна асоциация 29 Сеп | 20:30",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2275320179~1.og.jpg"
-    },
-    {
-      "title": "Тодор Янчев преди Чехия: Няма напрежение, в главите ни е единствено победата (ВИДЕО) 29 Сеп | 18:51",
-      "url": "https://dsport.bg/todor-anchev-predi-chehia-nama-naprezenie-v-glavite-ni-e-edinstveno-pobedata-video~241027.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/857363.og.jpg"
-    },
-    {
-      "title": "България U19 загуби от Румъния след късен гол 29 Сеп | 18:45",
-      "url": "https://dsport.bg/balgaria-u19-zagubi-ot-rumania-sled-kasen-gol~241025.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/chatgpt-image-sep-29-2026-06_43_33-pm.og.png"
     }
   ]
 }
