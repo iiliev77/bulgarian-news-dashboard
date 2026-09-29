@@ -1,9 +1,37 @@
 {
-  "updated": "2026-09-29T08:36:54.649379+00:00",
+  "updated": "2026-09-29T08:51:28.622838+00:00",
   "articles": [
     {
-      "title": "Напуснала работа на 28 септември и оттогава е в неизвестност: Виждали ли сте тази жена",
-      "url": "https://dariknews.bg/novini/bylgariia/napusnala-rabota-na-28-septemvri-i-ottogava-e-v-neizvestnost-vizhdali-li-ste-tazi-zhena-2467683",
+      "title": "Бой с лопата в Костенец, мъж остана без два зъба",
+      "url": "https://dariknews.bg/novini/bylgariia/boj-s-lopata-v-kostenec-myzh-ostana-bez-dva-zyba-2467688",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51310/51310077/991-ratio-lopata.jpg"
+    },
+    {
+      "title": "По-високи цени и лихви: Фискалният съвет очерта рисковете пред икономиката през следващите години",
+      "url": "https://dariknews.bg/novini/bylgariia/po-visoki-ceni-i-lihvi-fiskalniiat-syvet-ocherta-riskovete-pred-ikonomikata-prez-sledvashtite-godini-2467686",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50194/50194658/991-ratio-ministerstvo-na-finansite.jpg"
+    },
+    {
+      "title": "Авария налага промяна в схемата на водоснабдяване в части на София",
+      "url": "https://dariknews.bg/regioni/sofiia/avariia-nalaga-promiana-v-shemata-na-vodosnabdiavane-v-chasti-na-sofiia-2467687",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50722/50722394/991-ratio-voda-bez-voda-cheshma.jpg"
+    },
+    {
+      "title": "Ненадминат по сила, ненадминат по храброст: Българският цар Самуил",
+      "url": "https://dariknews.bg/novini/bylgariia/nenadminat-po-sila-nenadminat-po-hrabrost-bylgarskiiat-car-samuil-2467684",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388935/991-ratio-car-samuil.jpg"
+    },
+    {
+      "title": "Откриха обявената за издирване 49-годишна жена от Ямбол",
+      "url": "https://dariknews.bg/novini/bylgariia/otkriha-obiavenata-za-izdirvane-49-godishna-zhena-ot-iambol-2467683",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
@@ -21,6 +49,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50754/50754263/991-ratio-boj-poboj-iumruk.jpg"
+    },
+    {
+      "title": "Заподозрените за терористичния акт край Феърфорд са освободени, разследването продължава",
+      "url": "https://dariknews.bg/novini/sviat/zapodozrenite-za-teroristichniia-akt-kraj-feyrford-sa-osvobodeni-razsledvaneto-prodylzhava-2467685",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388469/991-ratio-voenna-baza.jpg"
     },
     {
       "title": "Коледната добавка ще се изплаща през ноември, инфлационният чек започва от 1 октомври",
@@ -107,39 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51294/51294133/991-ratio-motor-katastrofa.jpg"
     },
     {
-      "title": "За 5 години: 87% ръст на средствата за социални помощи, личните асистенти вече са над 88 хиляди",
-      "url": "https://dariknews.bg/novini/bylgariia/za-5-godini-87-ryst-na-sredstvata-za-socialni-pomoshti-lichnite-asistenti-veche-sa-nad-88-hiliadi-2467665",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45081/45081802/991-ratio-chovek-s-uvrezhdane.jpg"
+      "title": "Аманда Анисимова сложи край на сезона си заради контузия 29 Сеп | 11:34",
+      "url": "https://dsport.bg/amanda-anisimova-slozi-krai-na-sezona-si-zaradi-kontuzia~240991.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2206589477~1.og.jpg"
     },
     {
-      "title": "Нови разкрития за изолацията на легендарния изследовател сър Ранулф Файнс (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/novi-razkritiia-za-izolaciiata-na-legendarniia-izsledovatel-syr-ranulf-fajns-snimki-2467668",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387283/991-ratio-syr-ranulf-fajns.jpg"
-    },
-    {
-      "title": "Доблестна постъпка в Плевен: Млада жена намери изгубено портмоне и го предаде в полицията",
-      "url": "https://dariknews.bg/regioni/pleven/doblestna-postypka-v-pleven-mlada-zhena-nameri-izgubeno-portmone-i-go-predade-v-policiiata-2467666",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51140/51140656/991-ratio-pari-evro-portmone-zhena.jpg"
-    },
-    {
-      "title": "Катастрофа затруднява движението по АМ „Тракия“ към Бургас",
-      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-zatrudniava-dvizhenieto-po-am-trakiia-kym-burgas-2467664",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51321/51321020/991-ratio-policiia-chehiia.jpg"
-    },
-    {
-      "title": "ВКС увеличи обезщетението за близките на Алексей Петров",
-      "url": "https://dariknews.bg/novini/obshtestvo/vks-uvelichi-obezshtetenieto-za-blizkite-na-aleksej-petrov-2467662",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50887/50887832/991-ratio-aleksej-petrov.jpg"
+      "title": "Френки де Йонг може да напусне Барселона още през януари 29 Сеп | 11:25",
+      "url": "https://dsport.bg/frenki-de-iong-moze-da-napusne-barselona-oste-prez-anuari~240990.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2238285513-2.og.jpg"
     },
     {
       "title": "Рикардо Калафиори трогна млад турски фен с незабравим жест след мача на Италия (ВИДЕО) 29 Сеп | 11:16",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2271029899-1.og.jpg"
-    },
-    {
-      "title": "Заплатите в Манчестър Сити: Холанд е №1, но кои са другите милионери в отбора? 29 Сеп | 10:06",
-      "url": "https://dsport.bg/zaplatite-v-manchestar-siti-holand-e-1-no-koi-sa-drugite-milioneri-v-otbora~240982.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296337671.og.jpg"
-    },
-    {
-      "title": "Волейболният Левски с най-много пари от държавата 29 Сеп | 09:57",
-      "url": "https://dsport.bg/voleibolniat-levski-s-nai-mnogo-pari-ot-darzavata~240981.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/676125-1~1.og.jpg"
     }
   ]
 }
