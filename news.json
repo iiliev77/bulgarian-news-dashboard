@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:20:33.026856+00:00",
+  "updated": "2026-09-30T17:34:55.291223+00:00",
   "articles": [
     {
       "title": "Разширяват обходния път на Хасково, АПИ избира изпълнител",
@@ -13,7 +13,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/v-sofiia-zadyrzhaha-bivsh-sluzhitel-na-ubitiia-iliian-filipov-2467861",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Йотова подписва в четвъртък указа за освобождаването на посланика в ОАЕ",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51039/51039721/991-ratio-rumyniia-parlament.jpg"
     },
     {
+      "title": "Клоп с първи коментар след решението за Манчестър Сити 30 Сеп | 20:33",
+      "url": "https://dsport.bg/klop-s-parvi-komentar-sled-reshenieto-za-manchestar-siti~241122.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297912467.og.jpg"
+    },
+    {
       "title": "Бомба в Португалия: Роналдо изостави националния отбор 30 Сеп | 20:15",
       "url": "https://dsport.bg/bomba-v-portugalia-ronaldo-izostavi-nacionalnia-otbor~241121.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1385938909.l-1-2.og.webp"
-    },
-    {
-      "title": "Димитър Кузманов отпадна във втория кръг на Чалънджър в Бари 30 Сеп | 18:47",
-      "url": "https://dsport.bg/dimitar-kuzmanov-otpadna-vav-vtoria-krag-na-chalandzar-v-bari~241111.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/508967-1-1-1-1-2-1~2.og.jpg"
     }
   ]
 }
