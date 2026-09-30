@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-30T13:14:21.259142+00:00",
+  "updated": "2026-09-30T13:32:42.658303+00:00",
   "articles": [
+    {
+      "title": "Путин: Изборите потвърдиха устойчивостта на политическата ни система",
+      "url": "https://dariknews.bg/novini/sviat/putin-izborite-potvyrdiha-ustojchivostta-na-politicheskata-ni-sistema-2467845",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51220/51220778/991-ratio-vladimir-putin.jpg"
+    },
+    {
+      "title": "Социално подпомагане: Държавата преструктурира 28 регионални дирекции, но обещава да няма съкращения",
+      "url": "https://dariknews.bg/novini/bylgariia/socialno-podpomagane-dyrzhavata-prestrukturira-28-regionalni-direkcii-no-obeshtava-da-niama-sykrashteniia-2467843",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389596/991-ratio-nataliia-efremova.jpg"
+    },
+    {
+      "title": "Византийски печати и над 40 монети са на крепостта „Маркели“ край Карнобат",
+      "url": "https://dariknews.bg/regioni/burgas/vizantijski-pechati-i-nad-40-moneti-sa-na-krepostta-markeli-kraj-karnobat-2467842",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51198/51198039/991-ratio-arheologiia-razkopki.jpg"
+    },
+    {
+      "title": "Закриха училището в село Трескавец заради намаляване на децата през последните години",
+      "url": "https://dariknews.bg/regioni/tyrgovishte/zakriha-uchilishteto-v-selo-treskavec-zaradi-namaliavane-na-decata-prez-poslednite-godini-2467844",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389597/991-ratio-obshtinskiiat-syvet-v-antonovo.jpg"
+    },
     {
       "title": "Политическата криза в Румъния продължава: Вторият опит за съставяне на правителство се провали",
       "url": "https://dariknews.bg/novini/sviat/politicheskata-kriza-v-rumyniia-prodylzhava-vtoriiat-opit-za-systaviane-na-pravitelstvo-se-provali-2467841",
@@ -90,7 +118,7 @@
       "url": "https://dariknews.bg/regioni/stara-zagora/tezhka-katastrofa-s-dve-zhertvi-na-izhoda-na-gurkovo-2467829",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389604/991-ratio-katastrofa-gurkovo.jpg"
     },
     {
       "title": "България и Франция обсъдиха общи приоритети в опазването на околната среда",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/42590/42590335/991-ratio-detski-gradini-plovdiv.jpg"
     },
     {
-      "title": "След поредица от технически проблеми: НС прекрати заседанието заради изчерпано пленарно време",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-poredica-ot-tehnicheski-problemi-ns-prekrati-zasedanieto-zaradi-izcherpano-plenarno-vreme-2467824",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51281/51281035/991-ratio-parlament.jpg"
-    },
-    {
-      "title": "Обвиниха двама братя в жесток грабеж с побой над жена в столичния квартал „Люлин“",
-      "url": "https://dariknews.bg/regioni/sofiia/obviniha-dvama-bratia-v-zhestok-grabezh-s-poboj-nad-zhena-v-stolichniia-kvartal-liulin-2467822",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50617/50617464/991-ratio-kradec-krazhba-grabezh.jpg"
-    },
-    {
-      "title": "Повдигнаха обвинение на 18-годишния мъж, стрелял по непознати в автобус в Световрачане",
-      "url": "https://dariknews.bg/regioni/sofiia/povdignaha-obvinenie-na-18-godishniia-myzh-strelial-po-nepoznati-v-avtobus-v-svetovrachane-2467821",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
-    },
-    {
-      "title": "Чешката опозиция внесе вот на недоверие срещу Андрей Бабиш",
-      "url": "https://dariknews.bg/novini/sviat/cheshkata-opoziciia-vnese-vot-na-nedoverie-sreshtu-andrej-babish-2467820",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/38646/38646009/991-ratio-andrej-babish.jpg"
+      "title": "Джокович се завърна на корта с победа 30 Сеп | 16:15",
+      "url": "https://dsport.bg/dzokovich-se-zavarna-na-korta-s-pobeda~241095.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297887778.og.jpg"
     },
     {
       "title": "Рой Кийн за Манчестър Сити: Ако бях футболист, щях на 100 процента да изхвърля тези медали в кофата за боклук 30 Сеп | 15:59",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2227833460~1.og.jpg"
-    },
-    {
-      "title": "Официално: Атанас Рибарски поема националния отбор на България 30 Сеп | 13:47",
-      "url": "https://dsport.bg/oficialno-atanas-ribarski-poema-nacionalnia-otbor-na-balgaria~241084.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/657556.og.jpg"
     }
   ]
 }
