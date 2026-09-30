@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:14:47.053018+00:00",
+  "updated": "2026-09-30T18:33:40.869806+00:00",
   "articles": [
     {
       "title": "Разширяват обходния път на Хасково, АПИ избира изпълнител",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51039/51039721/991-ratio-rumyniia-parlament.jpg"
     },
     {
+      "title": "Асен Митков: Горд съм с този отбор 30 Сеп | 21:25",
+      "url": "https://dsport.bg/asen-mitkov-gord-sam-s-tozi-otbor~241126.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/831542729_4524557897799124_4416783401671074762_n~1.og.jfif"
+    },
+    {
+      "title": "Тодор Янчев: Момчетата показаха българския дух, но не успяхме да вкараме нужния гол 30 Сеп | 21:18",
+      "url": "https://dsport.bg/todor-anchev-momchetata-pokazaha-balgarskia-duh-no-ne-uspahme-da-vkarame-nuznia-gol~241125.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1032002.og.jpg"
+    },
+    {
       "title": "Олисе подписва нов договор с Байерн при едно условие 30 Сеп | 21:09",
       "url": "https://dsport.bg/olise-podpisva-nov-dogovor-s-baiern-pri-edno-uslovie~241124.html",
       "source": "Dsport",
@@ -153,7 +167,7 @@
       "url": "https://dsport.bg/mechtata-na-lavchetata-za-evropeisko-be-sakrushena-ot-chehia~241123.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/831542729_4524557897799124_4416783401671074762_n.og.jfif"
+      "image": "https://dsport.bg/media/384/829157856_2154744251804364_4912000925458747884_n.og.jfif"
     },
     {
       "title": "Клоп с първи коментар след решението за Манчестър Сити 30 Сеп | 20:33",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-09-30_19-34-28-730.l.og.webp"
-    },
-    {
-      "title": "Николай Желязков: В момента не сме там, където трябва да бъдем 30 Сеп | 19:19",
-      "url": "https://dsport.bg/nikolai-zelazkov-v-momenta-ne-sme-tam-kadeto-trabva-da-badem~241115.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1034846.og.jpg"
-    },
-    {
-      "title": "Мартин Петров за присъдата на Ман Сити: Правилата са, за да се спазват 30 Сеп | 19:10",
-      "url": "https://dsport.bg/martin-petrov-za-prisadata-na-man-siti-pravilata-sa-za-da-se-spazvat~241114.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1173951447.og.jpg"
     }
   ]
 }
