@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T16:23:45.536313+00:00",
+  "updated": "2026-09-30T16:38:58.804857+00:00",
   "articles": [
     {
       "title": "В София задържаха бивш служител на убития Илиян Филипов",
       "url": "https://dariknews.bg/novini/bylgariia/v-sofiia-zadyrzhaha-bivsh-sluzhitel-na-ubitiia-iliian-filipov-2467861",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Йотова: Процедурата за посланика на ОАЕ минава през мен, утре ще подпиша",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388917/991-ratio-stamatin-kids.jpg"
     },
     {
+      "title": "Задържаха бивш служител на Илиян Филипов за убийството му 30 Сеп | 19:30",
+      "url": "https://dsport.bg/zadarzaha-bivsh-sluzitel-na-ilian-filipov-za-ubiistvoto-mu~241116.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/4bc6ce9e-3ad1-4842-9630-73534d5c9b07.og.jfif"
+    },
+    {
       "title": "Николай Желязков: В момента не сме там, където трябва да бъдем 30 Сеп | 19:19",
       "url": "https://dsport.bg/nikolai-zelazkov-v-momenta-ne-sme-tam-kadeto-trabva-da-badem~241115.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1029924.og.jpg"
-    },
-    {
-      "title": "Пеп Гуардиола подкрепи Манчестър Сити 30 Сеп | 18:03",
-      "url": "https://dsport.bg/pep-guardiola-podkrepi-manchestar-siti~241106.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2153875498~1.og.jpg"
     }
   ]
 }
