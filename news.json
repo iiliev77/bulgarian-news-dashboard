@@ -1,13 +1,6 @@
 {
-  "updated": "2026-09-30T17:02:40.744266+00:00",
+  "updated": "2026-09-30T17:20:33.026856+00:00",
   "articles": [
-    {
-      "title": "Samsung Galaxy Z Fold8: Когато екосистемата спестява време в ежедневието",
-      "url": "https://dariknews.bg/novini/tehnologii/samsung-galaxy-z-fold8-kogato-ekosistemata-spestiava-vreme-v-ezhednevieto-2467851",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389611/991-ratio-samsung.jpg"
-    },
     {
       "title": "Разширяват обходния път на Хасково, АПИ избира изпълнител",
       "url": "https://dariknews.bg/regioni/haskovo/razshiriavat-obhodniia-pyt-na-haskovo-api-izbira-izpylnitel-2467863",
@@ -35,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51358/51358112/991-ratio-samolet.jpg"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold8: Когато екосистемата спестява време в ежедневието",
+      "url": "https://dariknews.bg/novini/tehnologii/samsung-galaxy-z-fold8-kogato-ekosistemata-spestiava-vreme-v-ezhednevieto-2467851",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389611/991-ratio-samsung.jpg"
     },
     {
       "title": "Демерджиев разпореди проверка дали в МВР са постъпвали жалби и сигнали от Илиян Филипов",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51039/51039721/991-ratio-rumyniia-parlament.jpg"
     },
     {
+      "title": "Бомба в Португалия: Роналдо изостави националния отбор 30 Сеп | 20:15",
+      "url": "https://dsport.bg/bomba-v-portugalia-ronaldo-izostavi-nacionalnia-otbor~241121.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297435066.og.jpg"
+    },
+    {
+      "title": "Жезус: Кристиано Роналдо не отказа да тренира 30 Сеп | 20:09",
+      "url": "https://dsport.bg/zezus-kristiano-ronaldo-ne-otkaza-da-trenira~241120.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297061781.og.jpg"
+    },
+    {
       "title": "В 19:12 часа: Ботев Пловдив почете паметта на Илиян Филипов пред „Колежа“ (ВИДЕО) 30 Сеп | 19:55",
       "url": "https://dsport.bg/botev-plovdiv-pochete-pametta-na-ilian-filipov-pred-koleza-video~241118.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/508967-1-1-1-1-2-1~2.og.jpg"
-    },
-    {
-      "title": "Убийството на Илиян Филипов: бъдещето на Ботев Пловдив е обвито в мъгла (ВИДЕО) 30 Сеп | 18:42",
-      "url": "https://dsport.bg/ubiistvoto-na-ilian-filipov-badesteto-na-botev-plovdiv-e-obvito-v-magla-video~241110.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/bfed7bed-1500-4a48-acbe-29e3f51d0c32.og.jfif"
-    },
-    {
-      "title": "Евгени Иванов: Левски е най-голямото ми предизвикателство 30 Сеп | 18:35",
-      "url": "https://dsport.bg/evgeni-ivanov-levski-e-nai-golamoto-mi-predizvikatelstvo~241109.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1034840.og.jpg"
     }
   ]
 }
