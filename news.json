@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-30T08:10:25.277859+00:00",
+  "updated": "2026-09-30T08:29:51.403831+00:00",
   "articles": [
+    {
+      "title": "Кървав скандал в Благоевград: Мъж удари съгражданин с твърд предмет по главата",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/kyrvav-skandal-v-blagoevgrad-myzh-udari-sygrazhdanin-s-tvyrd-predmet-po-glavata-2467801",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50967/50967372/991-ratio-agresiia-poboj.jpg"
+    },
+    {
+      "title": "САЩ се изтеглиха от Ирак: Какво следва",
+      "url": "https://dariknews.bg/novini/sviat/sasht-se-iztegliha-ot-irak-kakvo-sledva-2467802",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389426/991-ratio-irak-amerikanski-vojnici.jpg"
+    },
+    {
+      "title": "Почти половината чуждестранни студенти у нас учат медицина",
+      "url": "https://dariknews.bg/novini/bylgariia/pochti-polovinata-chuzhdestranni-studenti-u-nas-uchat-medicina-2467800",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51156/51156711/991-ratio-studenti.jpg"
+    },
+    {
+      "title": "България сменя регионалната карта: Новото пренареждане - четири района и отделна София",
+      "url": "https://dariknews.bg/regioni/kiustendil/bylgariia-smenia-regionalnata-karta-novoto-prenarezhdane-chetiri-rajona-i-otdelna-sofiia-2467797",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332209/991-ratio-zname-bylgariia.jpg"
+    },
     {
       "title": "Напрежение на паметника на Шипка: Двама задържани след блокада на работници",
       "url": "https://dariknews.bg/regioni/stara-zagora/naprezhenie-na-pametnika-na-shipka-dvama-zadyrzhani-sled-blokada-na-rabotnici-2467799",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389383/991-ratio-stolichna-obshtina.jpg"
     },
     {
-      "title": "Шофьор с положителна проба за два вида наркотици се заби в спирка във Варна",
-      "url": "https://dariknews.bg/novini/bylgariia/shofior-s-polozhitelna-proba-za-dva-vida-narkotici-se-zabi-v-spirka-vyv-varna-2467782",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389380/991-ratio-spirka-varna-shofior.jpg"
+      "title": "Ботев Пловдив отмени контролата със Септември и затвори тренировките след смъртта на Илиян Филипов 30 Сеп | 11:23",
+      "url": "https://dsport.bg/botev-plovdiv-otmeni-kontrolata-sas-septemvri-i-zatvori-trenirovkite-sled-smartta-na-ilian-filipov~241074.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/botevplovdiv2~2.og.jpg"
     },
     {
-      "title": "Летището в Берлин пусна в експлоатация система за откриване на дронове",
-      "url": "https://dariknews.bg/novini/sviat/letishteto-v-berlin-pusna-v-eksploataciia-sistema-za-otkrivane-na-dronove-2467781",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389378/991-ratio-letishte.jpg"
-    },
-    {
-      "title": "Петрова: България трябва ясно да определи своята роля и да показва добавената си стойност",
-      "url": "https://dariknews.bg/novini/bylgariia/petrova-bylgariia-triabva-iasno-da-opredeli-svoiata-rolia-i-da-pokazva-dobavenata-si-stojnost-2467780",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387109/991-ratio-velislava-petrova.jpg"
-    },
-    {
-      "title": "Петролът поскъпна след позицията на Тръмп за Иран",
-      "url": "https://dariknews.bg/novini/sviat/petrolyt-poskypna-sled-poziciiata-na-trymp-za-iran-2467778",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
+      "title": "Лапорта нападна Реал Мадрид: Отношенията ни са прекъснати, между нас няма нищо 30 Сеп | 11:19",
+      "url": "https://dsport.bg/laporta-napadna-real-madrid-otnosheniata-ni-sa-prekasnati-mezdu-nas-nama-nisto~241073.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1482780893-1-1-1-2-2.og.jpg"
     },
     {
       "title": "Камери може да са заснели предполагаемия убиец на Илиян Филипов 30 Сеп | 11:04",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/87~1.og.png"
-    },
-    {
-      "title": "Световен шампион по снукър получи 7 години затвор за сексуално насилие над деца 30 Сеп | 09:37",
-      "url": "https://dsport.bg/svetoven-shampion-po-snukar-poluchi-7-godini-zatvor-za-seksualno-nasilie-nad-deca~241064.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-470239362~3.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив се сбогува с Илиян Филипов: Името му ще остане със златни букви 30 Сеп | 09:13",
-      "url": "https://dsport.bg/botev-plovdiv-se-sboguva-s-ilian-filipov-imeto-mu-ste-ostane-sas-zlatni-bukvi~241063.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/432~2.og.png"
     }
   ]
 }
