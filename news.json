@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T15:33:47.472123+00:00",
+  "updated": "2026-09-30T15:51:06.570001+00:00",
   "articles": [
+    {
+      "title": "Йотова за връщането на останките на Цар Самуил: Изключително постижение на българската дипломация",
+      "url": "https://dariknews.bg/novini/bylgariia/iotova-za-vryshtaneto-na-ostankite-na-car-samuil-izkliuchitelno-postizhenie-na-bylgarskata-diplomaciia-2467860",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355893/991-ratio-jotova.jpg"
+    },
+    {
+      "title": "Нетаняху: Единият пилот на отклонения полет на „Флайдубай“ e намушкал другия и изглежда се e опитал да разбие самолета",
+      "url": "https://dariknews.bg/novini/sviat/netaniahu-ediniiat-pilot-na-otkloneniia-polet-na-flajdubaj-e-namushkal-drugiia-i-izglezhda-se-e-opital-da-razbie-samoleta-2467859",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51358/51358112/991-ratio-samolet.jpg"
+    },
     {
       "title": "Демерджиев разпореди проверка дали в МВР са постъпвали жалби и сигнали от Илиян Филипов",
       "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-razporedi-proverka-dali-v-mvr-sa-postypvali-zhalbi-i-signali-ot-iliian-filipov-2467856",
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389584/991-ratio-oblastniiat-upravitel-na-veliko-tyrnovo-marin-bogomilov.jpg"
     },
     {
-      "title": "Иван Петлешков след убийството на Илиян Филипов: Различия и спорове губят значение пред трагедията",
-      "url": "https://dariknews.bg/regioni/plovdiv/ivan-petleshkov-sled-ubijstvoto-na-iliian-filipov-razlichiia-i-sporove-gubiat-znachenie-pred-tragediiata-2467838",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389583/991-ratio-ubijstvo-plovdiv.jpg"
+      "title": "Димитър Кузманов отпадна във втория кръг на Чалънджър в Бари 30 Сеп | 18:47",
+      "url": "https://dsport.bg/dimitar-kuzmanov-otpadna-vav-vtoria-krag-na-chalandzar-v-bari~241111.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/508967-1-1-1-1-2-1~2.og.jpg"
     },
     {
-      "title": "Премиерът: Не съм адвокат на Путин, не сме изчерпали средствата на дипломацията за Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-ne-sym-advokat-na-putin-ne-sme-izcherpali-sredstvata-na-diplomaciiata-za-ukrajna-2467837",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
+      "title": "Убийството на Илиян Филипов: бъдещето на Ботев Пловдив е обвито в мъгла (ВИДЕО) 30 Сеп | 18:42",
+      "url": "https://dsport.bg/ubiistvoto-na-ilian-filipov-badesteto-na-botev-plovdiv-e-obvito-v-magla-video~241110.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/bfed7bed-1500-4a48-acbe-29e3f51d0c32.og.jfif"
+    },
+    {
+      "title": "Евгени Иванов: Левски е най-голямото ми предизвикателство 30 Сеп | 18:35",
+      "url": "https://dsport.bg/evgeni-ivanov-levski-e-nai-golamoto-mi-predizvikatelstvo~241109.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1034840.og.jpg"
     },
     {
       "title": "Бурас, Око-Флекс и Серафимов тренират извън основната група (ВИДЕО) 30 Сеп | 18:22",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/fotojet-1-18.l.og.webp"
-    },
-    {
-      "title": "Председателят на БОК Весела Лечева получи ключовете от новата сграда 30 Сеп | 17:22",
-      "url": "https://dsport.bg/predsedatelat-na-bok-vesela-lecheva-poluchi-kluchovete-ot-novata-sgrada~241100.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/bva_3817.og.jpg"
-    },
-    {
-      "title": "Левски е осми в света по интересен показател 30 Сеп | 17:14",
-      "url": "https://dsport.bg/levski-e-osmi-v-sveta-po-interesen-pokazatel~241101.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1031307.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио 30 Сеп | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio~241099.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-30-170137.og.png"
     }
   ]
 }
