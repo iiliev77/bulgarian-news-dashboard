@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T08:58:49.250349+00:00",
+  "updated": "2026-09-30T09:12:51.079121+00:00",
   "articles": [
+    {
+      "title": "КНСБ: Цените на храните продължават да нарастват, някои домакинства не могат да покриват разходите си",
+      "url": "https://dariknews.bg/novini/bylgariia/knsb-cenite-na-hranite-prodylzhavat-da-narastvat-niakoi-domakinstva-ne-mogat-da-pokrivat-razhodite-si-2467806",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320893/991-ratio-ceni-pazar-magazin.jpg"
+    },
     {
       "title": "Цените на производител нагоре, бизнес климатът надолу",
       "url": "https://dariknews.bg/novini/bylgariia/cenite-na-proizvoditel-nagore-biznes-klimatyt-nadolu-2467803",
@@ -14,6 +21,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389434/991-ratio-doktor-bojkov.jpg"
+    },
+    {
+      "title": "Министър Демерджиев ще бъде изслушан за мантинелите и полетите, но... не по искане на ДПС",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-demerdzhiev-shte-byde-izslushan-za-mantinelite-i-poletite-no...-ne-po-iskane-na-dps-2467805",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
     },
     {
       "title": "Кървав скандал в Благоевград: Мъж удари съгражданин с твърд предмет по главата",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51246/51246067/991-ratio-nasilie-poboj-zhena-domashno-nasilie-myzh.jpg"
     },
     {
-      "title": "След смъртта на Хейдън Панетиър: Кличко поиска защита на наследството на дъщеря им",
-      "url": "https://dariknews.bg/novini/sviat/sled-smyrtta-na-hejdyn-panetiyr-klichko-poiska-zashtita-na-nasledstvoto-na-dyshteria-im-2467787",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389395/991-ratio-hejdyn-panetiyr-i-klichko.jpg"
-    },
-    {
-      "title": "Екшън посред нощ в Сливен: Двама мъже разбиха аптека за 250 евро",
-      "url": "https://dariknews.bg/regioni/sliven/ekshyn-posred-nosht-v-sliven-dvama-myzhe-razbiha-apteka-za-250-evro-2467785",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51277/51277344/991-ratio-kradec.jpg"
+      "title": "Рафиня напусна лагера на Бразилия заради мускулна травма 30 Сеп | 12:01",
+      "url": "https://dsport.bg/rafina-napusna-lagera-na-brazilia-zaradi-muskulna-travma~241077.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2233763068~1.og.jpg"
     },
     {
       "title": "Роналдо не тренира с Португалия, медиите заговориха за напрежение с Жорже Жезус 30 Сеп | 11:49",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297783058.og.jpg"
-    },
-    {
-      "title": "Историческо: МФК Спартак ще представлява България на световното клубно първенство по плажен футбол 30 Сеп | 10:16",
-      "url": "https://dsport.bg/istorichesko-mfk-spartak-ste-predstavlava-balgaria-na-svetovnoto-klubno-parvenstvo-po-plazen-futbol~241068.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/plajen-futbol-60-.og.jpg"
     }
   ]
 }
