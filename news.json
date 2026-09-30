@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-30T12:37:09.391326+00:00",
+  "updated": "2026-09-30T12:57:52.342204+00:00",
   "articles": [
     {
-      "title": "Премиерът: Не съм адвокат Путин, не сме изчерпали средствата на дипломацията за Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-ne-sym-advokat-putin-ne-sme-izcherpali-sredstvata-na-diplomaciiata-za-ukrajna-2467837",
+      "title": "„Мамо, май съм настинал“: Как да подготвим детския имунитет за есента",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/mamo-maj-sym-nastinal-kak-da-podgotvim-detskiia-imunitet-za-esenta-2467680",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388917/991-ratio-stamatin-kids.jpg"
+    },
+    {
+      "title": "Риск за водоснабдяването на Велико Търново: Подкопани са основи на главния водопровод",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/risk-za-vodosnabdiavaneto-na-veliko-tyrnovo-podkopani-sa-osnovi-na-glavniia-vodoprovod-2467839",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389584/991-ratio-oblastniiat-upravitel-na-veliko-tyrnovo-marin-bogomilov.jpg"
+    },
+    {
+      "title": "Иван Петлешков след убийството на Илиян Филипов: Различия и спорове губят значение пред трагедията",
+      "url": "https://dariknews.bg/regioni/plovdiv/ivan-petleshkov-sled-ubijstvoto-na-iliian-filipov-razlichiia-i-sporove-gubiat-znachenie-pred-tragediiata-2467838",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389583/991-ratio-ubijstvo-plovdiv.jpg"
+    },
+    {
+      "title": "Премиерът: Не съм адвокат на Путин, не сме изчерпали средствата на дипломацията за Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-ne-sym-advokat-na-putin-ne-sme-izcherpali-sredstvata-na-diplomaciiata-za-ukrajna-2467837",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51382/51382204/991-ratio-mirchev-i-bozhanov.jpg"
     },
     {
-      "title": "Мария Цветкова е назначена за зам.-министър на младежта и спорта",
-      "url": "https://dariknews.bg/novini/bylgariia/mariia-cvetkova-e-naznachena-za-zam.-ministyr-na-mladezhta-i-sporta-2467818",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50484/50484636/991-ratio-ministerski-syvet-sgrada.jpg"
-    },
-    {
-      "title": "Заблудила се акула стана знаменитост и съживи местната икономика в Южна Корея (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/zabludila-se-akula-stana-znamenitost-i-syzhivi-mestnata-ikonomika-v-iuzhna-koreia-video-2467817",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43759/43759353/991-ratio-akula.jpg"
-    },
-    {
-      "title": "Четирима души са ранени при израелски въздушен удар в Ливан",
-      "url": "https://dariknews.bg/novini/sviat/chetirima-dushi-sa-raneni-pri-izraelski-vyzdushen-udar-v-livan-2467815",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51066/51066971/991-ratio-livan.jpg"
+      "title": "Защитник на Реал Мадрид ще бъде опериран 30 Сеп | 15:46",
+      "url": "https://dsport.bg/zastitnik-na-real-madrid-ste-bade-operiran~241092.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2198426304-2-1~1.og.jpg"
     },
     {
       "title": "Промени в програмата на две срещи от втория предварителен кръг на Sesame Купа на България 30 Сеп | 15:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_14~34.og.jpg"
-    },
-    {
-      "title": "Ники Михайлов с откровено и искрено интервю - за Боби Михайлов, новия бос на Левски и българския футбол (ВИДЕО) 30 Сеп | 13:05",
-      "url": "https://dsport.bg/niki-mihailov-s-otkroveno-i-iskreno-intervu-za-bobi-mihailov-novia-bos-na-levski-i-balgarskia-futbol-video~241082.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/podkast-v-efira~7.og.png"
     }
   ]
 }
