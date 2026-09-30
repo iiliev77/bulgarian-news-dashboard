@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T10:49:33.372224+00:00",
+  "updated": "2026-09-30T11:00:08.638079+00:00",
   "articles": [
+    {
+      "title": "Повдигнаха обвинение на 18-годишния мъж, стрелял по непознати в автобус в Световрачане",
+      "url": "https://dariknews.bg/regioni/sofiia/povdignaha-obvinenie-na-18-godishniia-myzh-strelial-po-nepoznati-v-avtobus-v-svetovrachane-2467821",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
+    },
     {
       "title": "Чешката опозиция внесе вот на недоверие срещу Андрей Бабиш",
       "url": "https://dariknews.bg/novini/sviat/cheshkata-opoziciia-vnese-vot-na-nedoverie-sreshtu-andrej-babish-2467820",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50967/50967372/991-ratio-agresiia-poboj.jpg"
     },
     {
-      "title": "САЩ се изтеглиха от Ирак: Какво следва (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/sasht-se-iztegliha-ot-irak-kakvo-sledva-video-2467802",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389426/991-ratio-irak-amerikanski-vojnici.jpg"
+      "title": "Официално: Атанас Рибарски поема националния отбор на България 30 Сеп | 13:47",
+      "url": "https://dsport.bg/oficialno-atanas-ribarski-poema-nacionalnia-otbor-na-balgaria~241084.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/657556.og.jpg"
     },
     {
       "title": "Нетипичният герой на Ботсвана: 163 см ръст, любопитна спортна форма, шест спасявания и историческо постижение (ВИДЕО) 30 Сеп | 13:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2284778810~1.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив отмени контролата със Септември и затвори тренировките след смъртта на Илиян Филипов 30 Сеп | 11:23",
-      "url": "https://dsport.bg/botev-plovdiv-otmeni-kontrolata-sas-septemvri-i-zatvori-trenirovkite-sled-smartta-na-ilian-filipov~241074.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/botevplovdiv2~2.og.jpg"
     }
   ]
 }
