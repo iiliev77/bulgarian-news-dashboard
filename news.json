@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T11:00:08.638079+00:00",
+  "updated": "2026-09-30T11:14:59.910113+00:00",
   "articles": [
+    {
+      "title": "Обвиниха двама братя в жесток грабеж с побой над жена в столичния квартал „Люлин“",
+      "url": "https://dariknews.bg/regioni/sofiia/obviniha-dvama-bratia-v-zhestok-grabezh-s-poboj-nad-zhena-v-stolichniia-kvartal-liulin-2467822",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50617/50617464/991-ratio-kradec-krazhba-grabezh.jpg"
+    },
     {
       "title": "Повдигнаха обвинение на 18-годишния мъж, стрелял по непознати в автобус в Световрачане",
       "url": "https://dariknews.bg/regioni/sofiia/povdignaha-obvinenie-na-18-godishniia-myzh-strelial-po-nepoznati-v-avtobus-v-svetovrachane-2467821",
@@ -107,11 +114,11 @@
       "image": "https://m.netinfo.bg/media/images/51325/51325726/991-ratio-nasilie.jpg"
     },
     {
-      "title": "КНСБ: Цените на храните продължават да нарастват, някои домакинства не могат да покриват разходите си",
-      "url": "https://dariknews.bg/novini/bylgariia/knsb-cenite-na-hranite-prodylzhavat-da-narastvat-niakoi-domakinstva-ne-mogat-da-pokrivat-razhodite-si-2467806",
+      "title": "КНСБ: Цените на храните продължават да нарастват, малката потребителска кошница вече е 62,02 евро",
+      "url": "https://dariknews.bg/novini/bylgariia/knsb-cenite-na-hranite-prodylzhavat-da-narastvat-malkata-potrebitelska-koshnica-veche-e-6202-evro-2467806",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51320/51320893/991-ratio-ceni-pazar-magazin.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Цените на производител нагоре, бизнес климатът надолу",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
     },
     {
-      "title": "Кървав скандал в Благоевград: Мъж удари съгражданин с твърд предмет по главата",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/kyrvav-skandal-v-blagoevgrad-myzh-udari-sygrazhdanin-s-tvyrd-predmet-po-glavata-2467801",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50967/50967372/991-ratio-agresiia-poboj.jpg"
+      "title": "Ферари гласува доверие на Васьор 30 Сеп | 14:06",
+      "url": "https://dsport.bg/ferari-glasuva-doverie-na-vasor~241085.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2227833460~1.og.jpg"
     },
     {
       "title": "Официално: Атанас Рибарски поема националния отбор на България 30 Сеп | 13:47",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2276580511-1.og.jpg"
-    },
-    {
-      "title": "Оже-Алиасим отпадна още на старта в Пекин 30 Сеп | 11:44",
-      "url": "https://dsport.bg/oze-aliasim-otpadna-oste-na-starta-v-pekin~241075.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2284778810~1.og.jpg"
     }
   ]
 }
