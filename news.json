@@ -1,19 +1,40 @@
 {
-  "updated": "2026-09-30T10:16:26.772004+00:00",
+  "updated": "2026-09-30T10:33:44.798712+00:00",
   "articles": [
+    {
+      "title": "Пенсия с „фалшив“ стаж? 68-годишна попадна под прицела на прокуратурата",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/pensiia-s-falshiv-stazh-68-godishna-popadna-pod-pricela-na-prokuraturata-2467816",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272908/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Подаваме сигнал до НАП за имотната империя на Борислав Сарафов",
+      "url": "https://dariknews.bg/novini/bylgariia/podavame-signal-do-nap-za-imotnata-imperiia-na-borislav-sarafov-2467819",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51382/51382204/991-ratio-mirchev-i-bozhanov.jpg"
+    },
+    {
+      "title": "Мария Цветкова е назначена за зам.-министър на младежта и спорта",
+      "url": "https://dariknews.bg/novini/bylgariia/mariia-cvetkova-e-naznachena-za-zam.-ministyr-na-mladezhta-i-sporta-2467818",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50484/50484636/991-ratio-ministerski-syvet-sgrada.jpg"
+    },
+    {
+      "title": "Заблудила се акула стана знаменитост и съживи местната икономика в Южна Корея (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/liubopitno/zabludila-se-akula-stana-znamenitost-i-syzhivi-mestnata-ikonomika-v-iuzhna-koreia-video-2467817",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43759/43759353/991-ratio-akula.jpg"
+    },
     {
       "title": "Четирима души са ранени при израелски въздушен удар в Ливан",
       "url": "https://dariknews.bg/novini/sviat/chetirima-dushi-sa-raneni-pri-izraelski-vyzdushen-udar-v-livan-2467815",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51066/51066971/991-ratio-livan.jpg"
-    },
-    {
-      "title": "Домашно насилие над 15-годишна: Задържаха младеж, с когото живеела на семейни начала",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/domashno-nasilie-nad-15-godishna-zadyrzhaha-mladezh-s-kogoto-zhiveela-na-semejni-nachala-2467816",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272908/991-ratio-domashno-nasilie.jpg"
     },
     {
       "title": "Екшън в центъра на Бургас: Патрулка се вряза в оптика при гонка с криминално проявен (СНИМКИ)",
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51156/51156711/991-ratio-studenti.jpg"
-    },
-    {
-      "title": "България сменя регионалната карта: Новото пренареждане - четири района и отделна София",
-      "url": "https://dariknews.bg/regioni/kiustendil/bylgariia-smenia-regionalnata-karta-novoto-prenarezhdane-chetiri-rajona-i-otdelna-sofiia-2467797",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332209/991-ratio-zname-bylgariia.jpg"
-    },
-    {
-      "title": "Напрежение на паметника на Шипка: Задържаха кандидат за президент след блокада на работници (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/naprezhenie-na-pametnika-na-shipka-zadyrzhaha-kandidat-za-prezident-sled-blokada-na-rabotnici-video-2467799",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51371/51371629/991-ratio-shipka.jpg"
-    },
-    {
-      "title": "Терзиев: Разделяме се с Никола Лютов по взаимно съгласие, няма нищо драматично",
-      "url": "https://dariknews.bg/regioni/sofiia/terziev-razdeliame-se-s-nikola-liutov-po-vzaimno-syglasie-niama-nishto-dramatichno-2467794",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375079/991-ratio-vasil-terziev-kmet-sofiia.jpg"
     },
     {
       "title": "Ники Михайлов с откровено и искрено интервю - за Боби Михайлов, новия бос на Левски и българския футбол (ВИДЕО) 30 Сеп | 13:05",
