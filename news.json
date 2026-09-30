@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T14:57:31.400261+00:00",
+  "updated": "2026-09-30T15:14:06.186350+00:00",
   "articles": [
     {
       "title": "Демерджиев разпореди проверка дали в МВР са постъпвали жалби и сигнали от Илиян Филипов",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
     },
     {
+      "title": "Локомотив София закри контрола със сърби заради подобрения на терена 30 Сеп | 18:09",
+      "url": "https://dsport.bg/lokomotiv-sofia-zakri-kontrola-sas-sarbi-zaradi-podobrenia-na-terena~241107.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1029924.og.jpg"
+    },
+    {
+      "title": "Пеп Гуардиола подкрепи Манчестър Сити 30 Сеп | 18:03",
+      "url": "https://dsport.bg/pep-guardiola-podkrepi-manchestar-siti~241106.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2153875498~1.og.jpg"
+    },
+    {
       "title": "Демерджиев разпореди проверка за неглижиране на сигнали на Илиян Филипов в МВР 30 Сеп | 17:50",
       "url": "https://dsport.bg/demerdziev-razporedi-proverka-za-neglizirane-na-signali-na-ilian-filipov-v-mvr~241105.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/567406-1-1-1.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Христо Крушарски: Не се чувствам собственик на Локомотив Пловдив 30 Сеп | 16:46",
-      "url": "https://dsport.bg/hristo-krusharski-ne-se-chuvstvam-sobstvenik-na-lokomotiv-plovdiv~241097.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/15.06-8-1.og.jpg"
-    },
-    {
-      "title": "Председателят на Съдийската комисия се срещна с представители на професионалните клубове 30 Сеп | 16:31",
-      "url": "https://dsport.bg/predsedatelat-na-sadiiskata-komisia-se-srestna-s-predstaviteli-na-profesionalnite-klubove~241096.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/825266814_1111417941403630_6357957070939250645_n.og.jpg"
     }
   ]
 }
