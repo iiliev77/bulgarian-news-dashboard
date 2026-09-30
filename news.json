@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:47:39.034982+00:00",
+  "updated": "2026-09-30T05:58:37.648324+00:00",
   "articles": [
     {
       "title": "Кметът на Ню Йорк представи план за борба с антисемитизма в града",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50227/50227978/991-ratio-izbori-glasuvane-mashini-biuletina.jpg"
     },
     {
+      "title": "Първа официална информация за убийството на Илиян Филипов 30 Сеп | 08:54",
+      "url": "https://dsport.bg/parva-oficialna-informacia-za-ubiistvoto-na-ilian-filipov~241062.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/871832.og.jpg"
+    },
+    {
       "title": "От строежа на „Колежа“ до управлението на Ботев: пътят на Илиян Филипов в клуба 30 Сеп | 08:28",
       "url": "https://dsport.bg/ot-stroeza-na-koleza-do-upravlenieto-na-botev-patat-na-ilian-filipov-v-kluba~241061.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1033915~1.og.jpg"
-    },
-    {
-      "title": "Александър Димитров се сбогува с националния отбор 29 Сеп | 23:49",
-      "url": "https://dsport.bg/aleksandar-dimitrov-se-sboguva-s-nacionalnia-otbor~241053.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033940~1.og.jpg"
     }
   ]
 }
