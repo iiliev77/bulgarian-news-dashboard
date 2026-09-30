@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T07:27:27.425437+00:00",
+  "updated": "2026-09-30T07:42:53.722420+00:00",
   "articles": [
+    {
+      "title": "Васил Найденов се срещна с посланика на Катар в София, отправи послание за мир",
+      "url": "https://dariknews.bg/novini/bylgariia/vasil-najdenov-se-sreshtna-s-poslanika-na-katar-v-sofiia-otpravi-poslanie-za-mir-2467792",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389399/991-ratio-poslanik.jpg"
+    },
+    {
+      "title": "Млад мъж предизвика пожар в изоставена сграда във Великотърновско, запалил огън да се стопли",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/mlad-myzh-predizvika-pozhar-v-izostavena-sgrada-vyv-velikotyrnovsko-zapalil-ogyn-da-se-stopli-2467791",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51171/51171709/991-ratio-pozhar-myzh-pozharna.jpg"
+    },
     {
       "title": "Тончо призна: Имам гадже от „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/toncho-prizna-imam-gadzhe-ot-igri-na-voliata-2467789",
@@ -14,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Заловиха шофьор с близо 2 промила алкохол в Челопеч",
+      "url": "https://dariknews.bg/regioni/sofiia/zaloviha-shofior-s-blizo-2-promila-alkohol-v-chelopech-2467790",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51163/51163595/991-ratio-piian-shofior.jpg"
     },
     {
       "title": "При семеен скандал: Мъж бутна съпругата си по стълбите в дома им в Пирдоп",
@@ -83,7 +104,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/botev-plovdiv-v-shok-iliian-filipov-zavinagi-shte-ostane-chast-ot-istoriiata-2467779",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389312/640-420-iliian-filipov.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Омбудсманът поиска компенсации и проверки заради липсата на топла вода в София",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/44973/44973409/991-ratio-kokain.jpg"
     },
     {
-      "title": "Парламентът ще изслуша вътрешния министър за мантинелите и полетите на Пеевски",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-shte-izslusha-vytreshniia-ministyr-za-mantinelite-i-poletite-na-peevski-2467772",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332377/991-ratio-deputati-parlament.jpg"
+      "title": "„Екзекуция в мафиотски стил“: светът гледа към Пловдив след убийството на Илиян Филипов 30 Сеп | 10:32",
+      "url": "https://dsport.bg/ekzekucia-v-mafiotski-stil-svetat-gleda-kam-plovdiv-sled-ubiistvoto-na-ilian-filipov~241070.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/filipov_chuzhda_presa_thumb_3x2.og.jpg"
     },
     {
-      "title": "Руски удари и експлозии в Киев, има убит и ранени",
-      "url": "https://dariknews.bg/novini/sviat/ruski-udari-i-eksplozii-v-kiev-ima-ubit-i-raneni-2467771",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388373/991-ratio-kiev.jpg"
-    },
-    {
-      "title": "КЕВР обсъжда предложението на „Булгаргаз“ за поскъпване с близо 6% на природния газ за октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/kevr-obsyzhda-predlozhenieto-na-bulgargaz-za-poskypvane-s-blizo-6-na-prirodniia-gaz-za-oktomvri-2467770",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49923/49923385/991-ratio-stanislav-todorov-kevr.jpg"
+      "title": "Ламин Ямал продължава да чупи рекорди с Испания 30 Сеп | 10:25",
+      "url": "https://dsport.bg/lamin-amal-prodalzava-da-chupi-rekordi-s-ispania~241069.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297783058.og.jpg"
     },
     {
       "title": "Историческо: МФК Спартак ще представлява България на световното клубно първенство по плажен футбол 30 Сеп | 10:16",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/843724-1-2.og.jpg"
-    },
-    {
-      "title": "Подробности за убийството на Илиян Филипов, случило се е слад мача на националния отбор 30 Сеп | 08:20",
-      "url": "https://dsport.bg/podrobnosti-za-ubiistvoto-na-ilian-filipov-sluchilo-se-e-slad-macha-na-nacionalnia-otbor~241060.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/604665430_18387893551198951_2915863841344597100_n-1-1~2.og.jpg"
-    },
-    {
-      "title": "Де ла Фуенте след новия успех на Испания: Винаги има какво да подобряваме 30 Сеп | 08:15",
-      "url": "https://dsport.bg/de-la-fuente-sled-novia-uspeh-na-ispania-vinagi-ima-kakvo-da-podobravame~241059.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2286568253-1.og.jpg"
     }
   ]
 }
