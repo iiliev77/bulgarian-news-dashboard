@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T14:39:45.903574+00:00",
+  "updated": "2026-09-30T14:57:31.400261+00:00",
   "articles": [
+    {
+      "title": "Демерджиев разпореди проверка дали в МВР са постъпвали жалби и сигнали от Илиян Филипов",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-razporedi-proverka-dali-v-mvr-sa-postypvali-zhalbi-i-signali-ot-iliian-filipov-2467856",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379567/991-ratio-ivan-demerdzhiev.jpg"
+    },
     {
       "title": "Частните лечебни заведения: Отнемането на лиценз на болница под натиск не е добра политика",
       "url": "https://dariknews.bg/novini/bylgariia/chastnite-lechebni-zavedeniia-otnemaneto-na-licenz-na-bolnica-pod-natisk-ne-e-dobra-politika-2467855",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
     },
     {
-      "title": "Новият механизъм за минималната заплата е публикуван за обществено обсъждане",
-      "url": "https://dariknews.bg/novini/bylgariia/noviiat-mehanizym-za-minimalnata-zaplata-e-publikuvan-za-obshtestveno-obsyzhdane-2467835",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50796/50796018/991-ratio-rabota.jpg"
+      "title": "Демерджиев разпореди проверка за неглижиране на сигнали на Илиян Филипов в МВР 30 Сеп | 17:50",
+      "url": "https://dsport.bg/demerdziev-razporedi-proverka-za-neglizirane-na-signali-na-ilian-filipov-v-mvr~241105.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/27dd27b1-2b6d-4989-a577-d811738f11e1.og.jfif"
+    },
+    {
+      "title": "Атанас Рибарски проведе първа тренировка с националите 30 Сеп | 17:43",
+      "url": "https://dsport.bg/atanas-ribarski-provede-parva-trenirovka-s-nacionalite~241104.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/827282062_1620859792814145_4344116217559519807_n.og.jfif"
     },
     {
       "title": "Повреден автобус донесе служебна победа за Купата на Аматьорската лига 30 Сеп | 17:37",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/825266814_1111417941403630_6357957070939250645_n.og.jpg"
-    },
-    {
-      "title": "Джокович се завърна на корта с победа 30 Сеп | 16:15",
-      "url": "https://dsport.bg/dzokovich-se-zavarna-na-korta-s-pobeda~241095.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297887778.og.jpg"
-    },
-    {
-      "title": "Рой Кийн за Манчестър Сити: Ако бях футболист, щях на 100 процента да изхвърля тези медали в кофата за боклук 30 Сеп | 15:59",
-      "url": "https://dsport.bg/roi-kiin-za-manchestar-siti-ako-bah-futbolist-stah-na-100-procenta-da-izhvarla-tezi-medali-v-kofata-za-bokluk~241094.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1911910777-1.og.jpg"
     }
   ]
 }
