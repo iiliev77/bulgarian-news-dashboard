@@ -1,16 +1,23 @@
 {
-  "updated": "2026-09-30T10:33:44.798712+00:00",
+  "updated": "2026-09-30T10:49:33.372224+00:00",
   "articles": [
     {
-      "title": "Пенсия с „фалшив“ стаж? 68-годишна попадна под прицела на прокуратурата",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/pensiia-s-falshiv-stazh-68-godishna-popadna-pod-pricela-na-prokuraturata-2467816",
+      "title": "Чешката опозиция внесе вот на недоверие срещу Андрей Бабиш",
+      "url": "https://dariknews.bg/novini/sviat/cheshkata-opoziciia-vnese-vot-na-nedoverie-sreshtu-andrej-babish-2467820",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272908/991-ratio-domashno-nasilie.jpg"
+      "image": "https://m.netinfo.bg/media/images/38646/38646009/991-ratio-andrej-babish.jpg"
     },
     {
-      "title": "Подаваме сигнал до НАП за имотната империя на Борислав Сарафов",
-      "url": "https://dariknews.bg/novini/bylgariia/podavame-signal-do-nap-za-imotnata-imperiia-na-borislav-sarafov-2467819",
+      "title": "Пенсия с „фалшив“ стаж? 68-годишна представи документ с неверни данни пред НОИ",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/pensiia-s-falshiv-stazh-68-godishna-predstavi-dokument-s-neverni-danni-pred-noi-2467816",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
+    },
+    {
+      "title": "ДБ: Подаваме сигнал до НАП за имотната империя на Борислав Сарафов",
+      "url": "https://dariknews.bg/novini/bylgariia/db-podavame-signal-do-nap-za-imotnata-imperiia-na-borislav-sarafov-2467819",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51382/51382204/991-ratio-mirchev-i-bozhanov.jpg"
@@ -37,8 +44,8 @@
       "image": "https://m.netinfo.bg/media/images/51066/51066971/991-ratio-livan.jpg"
     },
     {
-      "title": "Екшън в центъра на Бургас: Патрулка се вряза в оптика при гонка с криминално проявен (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/ekshyn-v-centyra-na-burgas-patrulka-se-vriaza-v-optika-pri-gonka-s-kriminalno-proiaven-snimki-2467814",
+      "title": "Екшън в центъра на Бургас: Патрулка се вряза в оптика при гонка с криминално проявен с колело (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/burgas/ekshyn-v-centyra-na-burgas-patrulka-se-vriaza-v-optika-pri-gonka-s-kriminalno-proiaven-s-kolelo-snimki-2467814",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389483/991-ratio-incident-patrulka-burgas.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389426/991-ratio-irak-amerikanski-vojnici.jpg"
     },
     {
-      "title": "Почти половината чуждестранни студенти у нас учат медицина",
-      "url": "https://dariknews.bg/novini/bylgariia/pochti-polovinata-chuzhdestranni-studenti-u-nas-uchat-medicina-2467800",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51156/51156711/991-ratio-studenti.jpg"
+      "title": "Нетипичният герой на Ботсвана: 163 см ръст, любопитна спортна форма, шест спасявания и историческо постижение (ВИДЕО) 30 Сеп | 13:31",
+      "url": "https://dsport.bg/netipichniat-geroi-na-botsvana-163-sm-rast-lubopitna-sportna-forma-shest-spasavania-i-istorichesko-postizenie-video~241083.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_14~34.og.jpg"
     },
     {
       "title": "Ники Михайлов с откровено и искрено интервю - за Боби Михайлов, новия бос на Левски и българския футбол (ВИДЕО) 30 Сеп | 13:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/botevplovdiv2~2.og.jpg"
-    },
-    {
-      "title": "Лапорта нападна Реал Мадрид: Отношенията ни са прекъснати, между нас няма нищо 30 Сеп | 11:19",
-      "url": "https://dsport.bg/laporta-napadna-real-madrid-otnosheniata-ni-sa-prekasnati-mezdu-nas-nama-nisto~241073.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1482780893-1-1-1-2-2.og.jpg"
     }
   ]
 }
