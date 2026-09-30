@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-30T13:48:46.262221+00:00",
+  "updated": "2026-09-30T14:01:31.987200+00:00",
   "articles": [
+    {
+      "title": "Магистрат крещи и заплашва 101-годишен мъж: Прокуратурата се самосезира (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/sofiia/magistrat-kreshti-i-zaplashva-101-godishen-myzh-prokuraturata-se-samosezira-video-2467850",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50086/50086314/991-ratio-vyzrasten-myzh.jpg"
+    },
+    {
+      "title": "Полетът на Flydubai към Тел Авив – възможна мишена на терористична атака",
+      "url": "https://dariknews.bg/novini/sviat/poletyt-na-flydubai-kym-tel-aviv-vyzmozhna-mishena-na-teroristichna-ataka-2467849",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389407/991-ratio-samolet.jpg"
+    },
     {
       "title": "Евтим Милошев за размяната на артефакти с Гърция: Това не е търговска сделка",
       "url": "https://dariknews.bg/novini/bylgariia/evtim-miloshev-za-razmianata-na-artefakti-s-gyrciia-tova-ne-e-tyrgovska-sdelka-2467846",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50895/50895624/991-ratio-evtim-miloshev.jpg"
+    },
+    {
+      "title": "Важно за родителите: Обявиха кога започват имунизациите срещу грип при деца с назална ваксина",
+      "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-roditelite-obiaviha-koga-zapochvat-imunizaciite-sreshtu-grip-pri-deca-s-nazalna-vaksina-2467848",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388244/991-ratio-nazalna-vaksina.jpg"
     },
     {
       "title": "България поиска последните 1,823 млрд. евро по Плана за възстановяване",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50778/50778390/991-ratio-ministerstvo-na-finansite.jpg"
     },
     {
-      "title": "Проливни дъждове парализираха Южна Франция, обявиха червен код за наводнения",
-      "url": "https://dariknews.bg/novini/sviat/prolivni-dyzhdove-paraliziraha-iuzhna-franciia-obiaviha-cherven-kod-za-navodneniia-2467830",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51229/51229044/991-ratio-dyzhd.jpg"
-    },
-    {
-      "title": "Тежка катастрофа с две жертви на изхода на Гурково",
-      "url": "https://dariknews.bg/regioni/stara-zagora/tezhka-katastrofa-s-dve-zhertvi-na-izhoda-na-gurkovo-2467829",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389604/991-ratio-katastrofa-gurkovo.jpg"
-    },
-    {
-      "title": "България и Франция обсъдиха общи приоритети в опазването на околната среда",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-franciia-obsydiha-obshti-prioriteti-v-opazvaneto-na-okolnata-sreda-2467828",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389538/991-ratio-rosica-karamfilova.jpg"
+      "title": "Ексклузивно Крушарски категоричен: Ще си търся вземанията до дупка 30 Сеп | 16:58",
+      "url": "https://dsport.bg/krusharski-kategorichen-ste-si-tarsa-vzemaniata-do-dupka~241098.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/567406-1-1-1.og.jpg"
     },
     {
       "title": "Ексклузивно Христо Крушарски: Не се чувствам собственик на Локомотив Пловдив 30 Сеп | 16:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1010123.og.jpg"
-    },
-    {
-      "title": "Димитър Тонев към Илиян Филипов: Няма да се намери собственик, който да обича клуба си повече 30 Сеп | 14:40",
-      "url": "https://dsport.bg/dimitar-tonev-kam-ilian-filipov-nama-da-se-nameri-sobstvenik-koito-da-obicha-kluba-si-poveche~241087.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-30-143449.og.png"
     }
   ]
 }
