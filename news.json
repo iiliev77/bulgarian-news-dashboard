@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T08:29:51.403831+00:00",
+  "updated": "2026-09-30T08:46:51.457734+00:00",
   "articles": [
+    {
+      "title": "Цените на производител нагоре, бизнес климатът надолу",
+      "url": "https://dariknews.bg/novini/bylgariia/cenite-na-proizvoditel-nagore-biznes-klimatyt-nadolu-2467803",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379482/991-ratio-biznes.jpg"
+    },
     {
       "title": "Кървав скандал в Благоевград: Мъж удари съгражданин с твърд предмет по главата",
       "url": "https://dariknews.bg/regioni/blagoevgrad/kyrvav-skandal-v-blagoevgrad-myzh-udari-sygrazhdanin-s-tvyrd-predmet-po-glavata-2467801",
@@ -9,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/50967/50967372/991-ratio-agresiia-poboj.jpg"
     },
     {
-      "title": "САЩ се изтеглиха от Ирак: Какво следва",
-      "url": "https://dariknews.bg/novini/sviat/sasht-se-iztegliha-ot-irak-kakvo-sledva-2467802",
+      "title": "САЩ се изтеглиха от Ирак: Какво следва (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/sasht-se-iztegliha-ot-irak-kakvo-sledva-video-2467802",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389426/991-ratio-irak-amerikanski-vojnici.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51331/51331521/991-ratio-smetna-palata.jpg"
     },
     {
-      "title": "Емилиян Георгиев поема ресор „Обществено строителство“ в Столична община",
-      "url": "https://dariknews.bg/regioni/sofiia/emiliian-georgiev-poema-resor-obshtestveno-stroitelstvo-v-stolichna-obshtina-2467783",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389383/991-ratio-stolichna-obshtina.jpg"
+      "title": "Оже-Алиасим отпадна още на старта в Пекин 30 Сеп | 11:44",
+      "url": "https://dsport.bg/oze-aliasim-otpadna-oste-na-starta-v-pekin~241075.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2284778810~1.og.jpg"
     },
     {
       "title": "Ботев Пловдив отмени контролата със Септември и затвори тренировките след смъртта на Илиян Филипов 30 Сеп | 11:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/884726-1-1.og.jpg"
-    },
-    {
-      "title": "Седмата жертва: хрониката на убитите футболни босове в Пловдив 30 Сеп | 10:09",
-      "url": "https://dsport.bg/sedmata-zertva-hronikata-na-ubitite-futbolni-bosove-v-plovdiv~241066.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/87~1.og.png"
     }
   ]
 }
