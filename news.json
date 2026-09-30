@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-30T11:14:59.910113+00:00",
+  "updated": "2026-09-30T11:29:16.980236+00:00",
   "articles": [
+    {
+      "title": "Трима души загинаха при тежка катастрофа край Айтос",
+      "url": "https://dariknews.bg/novini/bylgariia/trima-dushi-zaginaha-pri-tezhka-katastrofa-kraj-ajtos-2467825",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "КЗП съди 63 частни училища и градини: Какви са таксите и клаузите, които засягат родителите",
+      "url": "https://dariknews.bg/novini/bylgariia/kzp-sydi-63-chastni-uchilishta-i-gradini-kakvi-sa-taksite-i-klauzite-koito-zasiagat-roditelite-2467826",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/42590/42590335/991-ratio-detski-gradini-plovdiv.jpg"
+    },
+    {
+      "title": "След поредица от технически проблеми: НС прекрати заседанието заради изчерпано пленарно време",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-poredica-ot-tehnicheski-problemi-ns-prekrati-zasedanieto-zaradi-izcherpano-plenarno-vreme-2467824",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51281/51281035/991-ratio-parlament.jpg"
+    },
     {
       "title": "Обвиниха двама братя в жесток грабеж с побой над жена в столичния квартал „Люлин“",
       "url": "https://dariknews.bg/regioni/sofiia/obviniha-dvama-bratia-v-zhestok-grabezh-s-poboj-nad-zhena-v-stolichniia-kvartal-liulin-2467822",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Цените на производител нагоре, бизнес климатът надолу",
-      "url": "https://dariknews.bg/novini/bylgariia/cenite-na-proizvoditel-nagore-biznes-klimatyt-nadolu-2467803",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379482/991-ratio-biznes.jpg"
-    },
-    {
-      "title": "Цената на суетата: Когато жаждата за вечна младост може да доведе до фатален край (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/cenata-na-suetata-kogato-zhazhdata-za-vechna-mladost-mozhe-da-dovede-do-fatalen-kraj-video-2467804",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389434/991-ratio-doktor-bojkov.jpg"
-    },
-    {
-      "title": "Демерджиев ще бъде изслушан за мантинелите и полетите на Пеевски, но утре и не по искане на ДПС",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-shte-byde-izslushan-za-mantinelite-i-poletite-na-peevski-no-utre-i-ne-po-iskane-na-dps-2467805",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
+      "title": "Трансферите на Манчестър Сити между сезоните 2009/10 и 2017/18 30 Сеп | 14:25",
+      "url": "https://dsport.bg/transferite-na-manchestar-siti-mezdu-sezonite-2009-10-i-2017-18~241086.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-516696248.og.jpg"
     },
     {
       "title": "Ферари гласува доверие на Васьор 30 Сеп | 14:06",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2233763068~1.og.jpg"
-    },
-    {
-      "title": "Роналдо не тренира с Португалия, медиите заговориха за напрежение с Жорже Жезус 30 Сеп | 11:49",
-      "url": "https://dsport.bg/ronaldo-ne-trenira-s-portugalia-mediite-zagovoriha-za-naprezenie-s-zorze-zezus~241076.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276580511-1.og.jpg"
     }
   ]
 }
