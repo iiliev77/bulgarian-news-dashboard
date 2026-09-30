@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T16:03:08.383374+00:00",
+  "updated": "2026-09-30T16:23:45.536313+00:00",
   "articles": [
+    {
+      "title": "В София задържаха бивш служител на убития Илиян Филипов",
+      "url": "https://dariknews.bg/novini/bylgariia/v-sofiia-zadyrzhaha-bivsh-sluzhitel-na-ubitiia-iliian-filipov-2467861",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
+    },
     {
       "title": "Йотова: Процедурата за посланика на ОАЕ минава през мен, утре ще подпиша",
       "url": "https://dariknews.bg/novini/bylgariia/iotova-procedurata-za-poslanika-na-oae-minava-prez-men-utre-shte-podpisha-2467860",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388917/991-ratio-stamatin-kids.jpg"
     },
     {
-      "title": "Риск за водоснабдяването на Велико Търново: Подкопани са основи на главния водопровод",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/risk-za-vodosnabdiavaneto-na-veliko-tyrnovo-podkopani-sa-osnovi-na-glavniia-vodoprovod-2467839",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389584/991-ratio-oblastniiat-upravitel-na-veliko-tyrnovo-marin-bogomilov.jpg"
+      "title": "Николай Желязков: В момента не сме там, където трябва да бъдем 30 Сеп | 19:19",
+      "url": "https://dsport.bg/nikolai-zelazkov-v-momenta-ne-sme-tam-kadeto-trabva-da-badem~241115.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1034846.og.jpg"
+    },
+    {
+      "title": "Мартин Петров за присъдата на Ман Сити: Правилата са, за да се спазват 30 Сеп | 19:10",
+      "url": "https://dsport.bg/martin-petrov-za-prisadata-na-man-siti-pravilata-sa-za-da-se-spazvat~241114.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1173951447.og.jpg"
+    },
+    {
+      "title": "Мартин Петров: Имам чувството, че сме мазохисти, не ни ли омръзна всяка година да се повтаря едно и също? 30 Сеп | 19:03",
+      "url": "https://dsport.bg/martin-petrov-imam-chuvstvoto-che-sme-mazohisti-ne-ni-li-omrazna-vsaka-godina-da-se-povtara-edno-i-sasto~241113.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/583155-1-1.og.jpg"
     },
     {
       "title": "Срещу 1 евро: Емблематичен френски клуб е близо до спасението 30 Сеп | 18:59",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2153875498~1.og.jpg"
-    },
-    {
-      "title": "Демерджиев разпореди проверка за неглижиране на сигнали на Илиян Филипов в МВР 30 Сеп | 17:50",
-      "url": "https://dsport.bg/demerdziev-razporedi-proverka-za-neglizirane-na-signali-na-ilian-filipov-v-mvr~241105.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/27dd27b1-2b6d-4989-a577-d811738f11e1.og.jfif"
-    },
-    {
-      "title": "Атанас Рибарски проведе първа тренировка с националите 30 Сеп | 17:43",
-      "url": "https://dsport.bg/atanas-ribarski-provede-parva-trenirovka-s-nacionalite~241104.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/827282062_1620859792814145_4344116217559519807_n.og.jfif"
-    },
-    {
-      "title": "Повреден автобус донесе служебна победа за Купата на Аматьорската лига 30 Сеп | 17:37",
-      "url": "https://dsport.bg/povreden-avtobus-donese-sluzebna-pobeda-za-kupata-na-amatorskata-liga~241103.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/unnamed-file-4.og.jpg"
     }
   ]
 }
