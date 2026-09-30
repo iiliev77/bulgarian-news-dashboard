@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T04:18:47.846988+00:00",
+  "updated": "2026-09-30T04:35:28.694313+00:00",
   "articles": [
+    {
+      "title": "Руски удари и експлозии в Киев, има убит и ранени",
+      "url": "https://dariknews.bg/novini/sviat/ruski-udari-i-eksplozii-v-kiev-ima-ubit-i-raneni-2467771",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388373/991-ratio-kiev.jpg"
+    },
+    {
+      "title": "КЕВР обсъжда предложението на „Булгаргаз“ за поскъпване с близо 6% на природния газ за октомври",
+      "url": "https://dariknews.bg/novini/bylgariia/kevr-obsyzhda-predlozhenieto-na-bulgargaz-za-poskypvane-s-blizo-6-na-prirodniia-gaz-za-oktomvri-2467770",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49923/49923385/991-ratio-stanislav-todorov-kevr.jpg"
+    },
     {
       "title": "До 15 октомври: Временна организация на движението по бул. „Владимир Вазов“ в София",
       "url": "https://dariknews.bg/novini/bylgariia/do-15-oktomvri-vremenna-organizaciia-na-dvizhenieto-po-bul.-vladimir-vazov-v-sofiia-2467768",
@@ -128,21 +142,7 @@
       "image": "https://m.netinfo.bg/media/images/51123/51123975/991-ratio-mvnr.jpg"
     },
     {
-      "title": "Кметът на Стара Загора показа оставката си пред Борисов, поиска и получи вот на доверие (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/kmetyt-na-stara-zagora-pokaza-ostavkata-si-pred-borisov-poiska-i-poluchi-vot-na-doverie-video-2467757",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51334/51334320/991-ratio-zhivko-todorov-kmet-stara-zagora.jpg"
-    },
-    {
-      "title": "Напрежение в МВР: Готвят масови съкращения на служители с ТЕЛК и работещи пенсионери",
-      "url": "https://dariknews.bg/novini/bylgariia/naprezhenie-v-mvr-gotviat-masovi-sykrashteniia-na-sluzhiteli-s-telk-i-raboteshti-pensioneri-2467756",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51365/51365117/991-ratio-mvr.jpg"
-    },
-    {
-      "title": "Убиха собственика на Ботев Пловдив Илиян Филипов 30 Сеп | 07:10",
+      "title": "Убиха собственикът на Ботев Пловдив Илиян Филипов 30 Сеп | 07:10",
       "url": "https://dsport.bg/ubiha-sobstvenika-na-botev-plovdiv-ilian-filipov~241058.html",
       "source": "Dsport",
       "section": "sport",
