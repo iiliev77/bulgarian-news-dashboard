@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T05:58:37.648324+00:00",
+  "updated": "2026-09-30T06:16:06.174211+00:00",
   "articles": [
+    {
+      "title": "Омбудсманът поиска компенсации и проверки заради липсата на топла вода в София",
+      "url": "https://dariknews.bg/regioni/sofiia/ombudsmanyt-poiska-kompensacii-i-proverki-zaradi-lipsata-na-topla-voda-v-sofiia-2467777",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51157/51157498/991-ratio-voda-kuche-topla-voda.jpg"
+    },
     {
       "title": "Кметът на Ню Йорк представи план за борба с антисемитизма в града",
       "url": "https://dariknews.bg/novini/sviat/kmetyt-na-niu-iork-predstavi-plan-za-borba-s-antisemitizma-v-grada-2467776",
@@ -135,13 +142,6 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389207/991-ratio-maroko.jpg"
     },
     {
-      "title": "ЦИК предвижда над 2,3 млн. евро за бюлетини и ролки за президентския вот",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/cik-predvizhda-nad-23-mln.-evro-za-biuletini-i-rolki-za-prezidentskiia-vot-2467763",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50227/50227978/991-ratio-izbori-glasuvane-mashini-biuletina.jpg"
-    },
-    {
       "title": "Първа официална информация за убийството на Илиян Филипов 30 Сеп | 08:54",
       "url": "https://dsport.bg/parva-oficialna-informacia-za-ubiistvoto-na-ilian-filipov~241062.html",
       "source": "Dsport",
@@ -170,7 +170,7 @@
       "image": "https://dsport.bg/media/384/gettyimages-2286568253-1.og.jpg"
     },
     {
-      "title": "Убиха собственикът на Ботев Пловдив Илиян Филипов 30 Сеп | 07:10",
+      "title": "Убиха собственика на Ботев Пловдив Илиян Филипов 30 Сеп | 07:10",
       "url": "https://dsport.bg/ubiha-sobstvenika-na-botev-plovdiv-ilian-filipov~241058.html",
       "source": "Dsport",
       "section": "sport",
