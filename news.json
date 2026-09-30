@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T16:52:41.783923+00:00",
+  "updated": "2026-09-30T17:02:40.744266+00:00",
   "articles": [
+    {
+      "title": "Samsung Galaxy Z Fold8: Когато екосистемата спестява време в ежедневието",
+      "url": "https://dariknews.bg/novini/tehnologii/samsung-galaxy-z-fold8-kogato-ekosistemata-spestiava-vreme-v-ezhednevieto-2467851",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389611/991-ratio-samsung.jpg"
+    },
+    {
+      "title": "Разширяват обходния път на Хасково, АПИ избира изпълнител",
+      "url": "https://dariknews.bg/regioni/haskovo/razshiriavat-obhodniia-pyt-na-haskovo-api-izbira-izpylnitel-2467863",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51350/51350382/991-ratio-remont.jpg"
+    },
     {
       "title": "В София задържаха бивш служител на убития Илиян Филипов",
       "url": "https://dariknews.bg/novini/bylgariia/v-sofiia-zadyrzhaha-bivsh-sluzhitel-na-ubitiia-iliian-filipov-2467861",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51039/51039721/991-ratio-rumyniia-parlament.jpg"
     },
     {
-      "title": "Вицепремиерът Пулев обяви предстояща среща с „Райнметал“",
-      "url": "https://dariknews.bg/novini/bylgariia/vicepremieryt-pulev-obiavi-predstoiashta-sreshta-s-rajnmetal-2467840",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51334/51334129/991-ratio-aleksandyr-pulev.jpg"
-    },
-    {
-      "title": "„Мамо, май съм настинал“: Как да подготвим детския имунитет за есента",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/mamo-maj-sym-nastinal-kak-da-podgotvim-detskiia-imunitet-za-esenta-2467680",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388917/991-ratio-stamatin-kids.jpg"
+      "title": "В 19:12 часа: Ботев Пловдив почете паметта на Илиян Филипов пред „Колежа“ (ВИДЕО) 30 Сеп | 19:55",
+      "url": "https://dsport.bg/botev-plovdiv-pochete-pametta-na-ilian-filipov-pred-koleza-video~241118.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2026-09-30_19-48-44-121.og.jpg"
     },
     {
       "title": "Клубовете във Висшата лига решават съдбата на Манчестър Сити? 30 Сеп | 19:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1034840.og.jpg"
-    },
-    {
-      "title": "Бурас, Око-Флекс и Серафимов тренират извън основната група (ВИДЕО) 30 Сеп | 18:22",
-      "url": "https://dsport.bg/buras-oko-fleks-i-serafimov-trenirat-izvan-osnovnata-grupa-video~241108.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2026-09-30_18-03-07-581.og.jpg"
     }
   ]
 }
