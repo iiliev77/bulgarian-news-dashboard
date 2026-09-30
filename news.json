@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30T11:29:16.980236+00:00",
+  "updated": "2026-09-30T11:44:38.999141+00:00",
   "articles": [
     {
-      "title": "Трима души загинаха при тежка катастрофа край Айтос",
-      "url": "https://dariknews.bg/novini/bylgariia/trima-dushi-zaginaha-pri-tezhka-katastrofa-kraj-ajtos-2467825",
+      "title": "Трима души загинаха при жестока катастрофа с камион и кола край Айтос",
+      "url": "https://dariknews.bg/novini/bylgariia/trima-dushi-zaginaha-pri-zhestoka-katastrofa-s-kamion-i-kola-kraj-ajtos-2467825",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389531/991-ratio-katastrofa-ajtos-ruen.jpg"
     },
     {
       "title": "КЗП съди 63 частни училища и градини: Какви са таксите и клаузите, които засягат родителите",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
+      "title": "Димитър Тонев към Илиян Филипов: Няма да се намери собственик, който да обича клуба си повече 30 Сеп | 14:40",
+      "url": "https://dsport.bg/dimitar-tonev-kam-ilian-filipov-nama-da-se-nameri-sobstvenik-koito-da-obicha-kluba-si-poveche~241087.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-30-143449.og.png"
+    },
+    {
       "title": "Трансферите на Манчестър Сити между сезоните 2009/10 и 2017/18 30 Сеп | 14:25",
       "url": "https://dsport.bg/transferite-na-manchestar-siti-mezdu-sezonite-2009-10-i-2017-18~241086.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1761590355~1.og.jpg"
-    },
-    {
-      "title": "Рафиня напусна лагера на Бразилия заради мускулна травма 30 Сеп | 12:01",
-      "url": "https://dsport.bg/rafina-napusna-lagera-na-brazilia-zaradi-muskulna-travma~241077.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2233763068~1.og.jpg"
     }
   ]
 }
