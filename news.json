@@ -1,12 +1,40 @@
 {
-  "updated": "2026-09-30T12:11:38.542887+00:00",
+  "updated": "2026-09-30T12:37:09.391326+00:00",
   "articles": [
+    {
+      "title": "Премиерът: Не съм адвокат Путин, не сме изчерпали средствата на дипломацията за Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-ne-sym-advokat-putin-ne-sme-izcherpali-sredstvata-na-diplomaciiata-za-ukrajna-2467837",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
+    },
+    {
+      "title": "Новият механизъм за минималната заплата е публикуван за обществено обсъждане",
+      "url": "https://dariknews.bg/novini/bylgariia/noviiat-mehanizym-za-minimalnata-zaplata-e-publikuvan-za-obshtestveno-obsyzhdane-2467835",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50796/50796018/991-ratio-rabota.jpg"
+    },
     {
       "title": "Кръговата икономика на практика: Как пластмасовият отпадък се превръща в нова суровина",
       "url": "https://dariknews.bg/novini/plateni-publikacii/krygovata-ikonomika-na-praktika-kak-plastmasoviiat-otpadyk-se-prevryshta-v-nova-surovina-2467827",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389530/991-ratio-plastmasoviiat-otpadyk.jpg"
+    },
+    {
+      "title": "Окончателно: Съдът отказа да спре действията на СО за премахване на незаконния строеж на „Кошарите“",
+      "url": "https://dariknews.bg/regioni/sofiia/okonchatelno-sydyt-otkaza-da-spre-dejstviiata-na-so-za-premahvane-na-nezakonniia-stroezh-na-kosharite-2467836",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389562/991-ratio-kosharite.jpg"
+    },
+    {
+      "title": "„В сърцето си се чувствам невинен“: Испанецът-гуру на сектата край Калофер остава в ареста (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/plovdiv/v-syrceto-si-se-chuvstvam-nevinen-ispanecyt-guru-na-sektata-kraj-kalofer-ostava-v-aresta-snimkivideo-2467834",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Държавата изтегли нов дълг от 2,25 млрд. евро: Какво означава това за бюджета",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51066/51066971/991-ratio-livan.jpg"
     },
     {
-      "title": "Екшън в центъра на Бургас: Патрулка се вряза в оптика при гонка с криминално проявен с колело (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/ekshyn-v-centyra-na-burgas-patrulka-se-vriaza-v-optika-pri-gonka-s-kriminalno-proiaven-s-kolelo-snimki-2467814",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389483/991-ratio-incident-patrulka-burgas.jpg"
+      "title": "Промени в програмата на две срещи от втория предварителен кръг на Sesame Купа на България 30 Сеп | 15:32",
+      "url": "https://dsport.bg/promeni-v-programata-na-dve-sresti-ot-vtoria-predvaritelen-krag-na-sesame-kupa-na-balgaria~241091.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/390463-3-1-1-1.og.jpg"
     },
     {
-      "title": "Шампионски сблъсък в новата звездна битка на „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/shampionski-sblysyk-v-novata-zvezdna-bitka-na-igri-na-voliata-2467813",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389472/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Терзиев откри обновена детска градина в София с места за 112 деца",
-      "url": "https://dariknews.bg/regioni/sofiia/terziev-otkri-obnovena-detska-gradina-v-sofiia-s-mesta-za-112-deca-2467812",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389468/991-ratio-vasil-terziev-otkrivane-detska-gradina.jpg"
-    },
-    {
-      "title": "Прокуратурата връчи обвинението на Борислав Сандов по казуса „Петрохан“",
-      "url": "https://dariknews.bg/novini/bylgariia/prokuraturata-vrychi-obvinenieto-na-borislav-sandov-po-kazusa-petrohan-2467809",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Невероятната серия на Александър Везенков в Евролигата 30 Сеп | 15:21",
+      "url": "https://dsport.bg/neveroatnata-seria-na-aleksandar-vezenkov-v-evroligata~241089.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2273058685-1~1.og.jpg"
     },
     {
       "title": "Арсенал не пуска капитана си: Йодегор е отказал оферти от Саудитска Арабия 30 Сеп | 15:08",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/podkast-v-efira~7.og.png"
-    },
-    {
-      "title": "Смъртни заплахи, полицейска защита и Football Leaks: кой е Руи Пинто, човекът зад разкритията за Манчестър Сити 30 Сеп | 12:46",
-      "url": "https://dsport.bg/smartni-zaplahi-policeiska-zastita-i-football-leaks-koi-e-rui-pinto-chovekat-zad-razkritiata-za-manchestar-siti~241081.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_13~34.og.jpg"
-    },
-    {
-      "title": "Тодор Неделев към Илиян Филипов: За мен не беше просто шеф, а истински приятел 30 Сеп | 12:35",
-      "url": "https://dsport.bg/todor-nedelev-kam-ilian-filipov-za-men-ne-beshe-prosto-shef-a-istinski-priatel~241080.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/517717337_18364628974198951_9209456609269508597_n~2.og.jpg"
     }
   ]
 }
