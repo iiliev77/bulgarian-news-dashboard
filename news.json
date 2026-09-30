@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T08:46:51.457734+00:00",
+  "updated": "2026-09-30T08:58:49.250349+00:00",
   "articles": [
     {
       "title": "Цените на производител нагоре, бизнес климатът надолу",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51379/51379482/991-ratio-biznes.jpg"
+    },
+    {
+      "title": "Цената на суетата: Когато жаждата за вечна младост може да доведе до фатален край (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/liubopitno/cenata-na-suetata-kogato-zhazhdata-za-vechna-mladost-mozhe-da-dovede-do-fatalen-kraj-video-2467804",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389434/991-ratio-doktor-bojkov.jpg"
     },
     {
       "title": "Кървав скандал в Благоевград: Мъж удари съгражданин с твърд предмет по главата",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51277/51277344/991-ratio-kradec.jpg"
     },
     {
-      "title": "3,37 млрд. лева корекции и 896 проверки: какво отчита Сметната палата за 2025 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/337-mlrd.-leva-korekcii-i-896-proverki-kakvo-otchita-smetnata-palata-za-2025-g-2467784",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331521/991-ratio-smetna-palata.jpg"
+      "title": "Роналдо не тренира с Португалия, медиите заговориха за напрежение с Жорже Жезус 30 Сеп | 11:49",
+      "url": "https://dsport.bg/ronaldo-ne-trenira-s-portugalia-mediite-zagovoriha-za-naprezenie-s-zorze-zezus~241076.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2276580511-1.og.jpg"
     },
     {
       "title": "Оже-Алиасим отпадна още на старта в Пекин 30 Сеп | 11:44",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/plajen-futbol-60-.og.jpg"
-    },
-    {
-      "title": "Шефът на Спартак Варна за Илиян Филипов: Снощи се прегърнахме и си обещахме скоро пак да се видим 30 Сеп | 10:13",
-      "url": "https://dsport.bg/shefat-na-spartak-varna-za-ilian-filipov-snosti-se-pregarnahme-i-si-obestahme-skoro-pak-da-se-vidim~241067.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/884726-1-1.og.jpg"
     }
   ]
 }
