@@ -1,12 +1,33 @@
 {
-  "updated": "2026-09-30T07:42:53.722420+00:00",
+  "updated": "2026-09-30T07:56:34.983993+00:00",
   "articles": [
+    {
+      "title": "Терзиев: Разделяме се с Никола Лютов по взаимно съгласие, няма нищо драматично",
+      "url": "https://dariknews.bg/regioni/sofiia/terziev-razdeliame-se-s-nikola-liutov-po-vzaimno-syglasie-niama-nishto-dramatichno-2467794",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375079/991-ratio-vasil-terziev-kmet-sofiia.jpg"
+    },
+    {
+      "title": "КС остави избора на шеф на ДАНС в ръцете на парламента",
+      "url": "https://dariknews.bg/novini/bylgariia/ks-ostavi-izbora-na-shef-na-dans-v-rycete-na-parlamenta-2467793",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272338/991-ratio-deputati-parlament.jpg"
+    },
     {
       "title": "Васил Найденов се срещна с посланика на Катар в София, отправи послание за мир",
       "url": "https://dariknews.bg/novini/bylgariia/vasil-najdenov-se-sreshtna-s-poslanika-na-katar-v-sofiia-otpravi-poslanie-za-mir-2467792",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389399/991-ratio-poslanik.jpg"
+    },
+    {
+      "title": "Разбиха конопена „плантация“ във Видинско, двама мъже са задържани (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/vidin/razbiha-konopena-plantaciia-vyv-vidinsko-dvama-myzhe-sa-zadyrzhani-snimki-2467795",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389403/991-ratio-marihuana.jpg"
     },
     {
       "title": "Млад мъж предизвика пожар в изоставена сграда във Великотърновско, запалил огън да се стопли",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51211/51211718/991-ratio-zohran-mamdani.jpg"
     },
     {
-      "title": "Северна Корея отхвърли обвиненията на Южна Корея за взривовете на мини в демилитаризираната зона",
-      "url": "https://dariknews.bg/novini/sviat/severna-koreia-othvyrli-obvineniiata-na-iuzhna-koreia-za-vzrivovete-na-mini-v-demilitariziranata-zona-2467775",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50936/50936978/991-ratio-severna-koreia-iuzhna-koreia-granici.jpg"
+      "title": "Най-глупавото празнуване? Вкара решаващ гол, свали фланелката и прати отбора си на жребий (ВИДЕО) 30 Сеп | 10:49",
+      "url": "https://dsport.bg/nai-glupavoto-praznuvane-vkara-reshavast-gol-svali-flanelkata-i-prati-otbora-si-na-zrebii-video~241071.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_10~65.og.jpg"
     },
     {
-      "title": "По лични причини: Освободиха директора на „Медицински надзор“ Иванка Динева",
-      "url": "https://dariknews.bg/novini/bylgariia/po-lichni-prichini-osvobodiha-direktora-na-medicinski-nadzor-ivanka-dineva-2467774",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51278/51278358/991-ratio-ivanka-dineva.jpg"
-    },
-    {
-      "title": "Кокаин за брашно: Откраднаха наркотици от хранилище за доказателства във Фиджи",
-      "url": "https://dariknews.bg/novini/sviat/kokain-za-brashno-otkradnaha-narkotici-ot-hranilishte-za-dokazatelstva-vyv-fidzhi-2467773",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44973/44973409/991-ratio-kokain.jpg"
+      "title": "Българският футбол се сбогува с Илиян Филипов (обновява се) 30 Сеп | 10:43",
+      "url": "https://dsport.bg/balgarskiat-futbol-se-sboguva-s-ilian-filipov~241065.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/677.og.png"
     },
     {
       "title": "„Екзекуция в мафиотски стил“: светът гледа към Пловдив след убийството на Илиян Филипов 30 Сеп | 10:32",
@@ -177,13 +191,6 @@
       "image": "https://dsport.bg/media/384/87~1.og.png"
     },
     {
-      "title": "Българският футбол се сбогува с Илиян Филипов 30 Сеп | 09:44",
-      "url": "https://dsport.bg/balgarskiat-futbol-se-sboguva-s-ilian-filipov~241065.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/677.og.png"
-    },
-    {
       "title": "Световен шампион по снукър получи 7 години затвор за сексуално насилие над деца 30 Сеп | 09:37",
       "url": "https://dsport.bg/svetoven-shampion-po-snukar-poluchi-7-godini-zatvor-za-seksualno-nasilie-nad-deca~241064.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/871832.og.jpg"
-    },
-    {
-      "title": "От строежа на „Колежа“ до управлението на Ботев: пътят на Илиян Филипов в клуба 30 Сеп | 08:28",
-      "url": "https://dsport.bg/ot-stroeza-na-koleza-do-upravlenieto-na-botev-patat-na-ilian-filipov-v-kluba~241061.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/843724-1-2.og.jpg"
     }
   ]
 }
