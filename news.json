@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-30T09:59:59.328538+00:00",
+  "updated": "2026-09-30T10:16:26.772004+00:00",
   "articles": [
+    {
+      "title": "Четирима души са ранени при израелски въздушен удар в Ливан",
+      "url": "https://dariknews.bg/novini/sviat/chetirima-dushi-sa-raneni-pri-izraelski-vyzdushen-udar-v-livan-2467815",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51066/51066971/991-ratio-livan.jpg"
+    },
+    {
+      "title": "Домашно насилие над 15-годишна: Задържаха младеж, с когото живеела на семейни начала",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/domashno-nasilie-nad-15-godishna-zadyrzhaha-mladezh-s-kogoto-zhiveela-na-semejni-nachala-2467816",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272908/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Екшън в центъра на Бургас: Патрулка се вряза в оптика при гонка с криминално проявен (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/burgas/ekshyn-v-centyra-na-burgas-patrulka-se-vriaza-v-optika-pri-gonka-s-kriminalno-proiaven-snimki-2467814",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389483/991-ratio-incident-patrulka-burgas.jpg"
+    },
     {
       "title": "Шампионски сблъсък в новата звездна битка на „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/shampionski-sblysyk-v-novata-zvezdna-bitka-na-igri-na-voliata-2467813",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51375/51375079/991-ratio-vasil-terziev-kmet-sofiia.jpg"
     },
     {
-      "title": "Полет на Flydubai към Тел Авив подаде сигнал за възможно отвличане, кацна в Саудитска Арабия",
-      "url": "https://dariknews.bg/novini/sviat/polet-na-flydubai-kym-tel-aviv-podade-signal-za-vyzmozhno-otvlichane-kacna-v-sauditska-arabiia-2467796",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389407/991-ratio-samolet.jpg"
-    },
-    {
-      "title": "Малката потребителска кошница поскъпва – най-новите данни",
-      "url": "https://dariknews.bg/novini/bylgariia/malkata-potrebitelska-koshnica-poskypva-naj-novite-danni-2467798",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "КС остави избора на шеф на ДАНС в ръцете на парламента",
-      "url": "https://dariknews.bg/novini/bylgariia/ks-ostavi-izbora-na-shef-na-dans-v-rycete-na-parlamenta-2467793",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272338/991-ratio-deputati-parlament.jpg"
+      "title": "Ники Михайлов с откровено и искрено интервю - за Боби Михайлов, новия бос на Левски и българския футбол (ВИДЕО) 30 Сеп | 13:05",
+      "url": "https://dsport.bg/niki-mihailov-s-otkroveno-i-iskreno-intervu-za-bobi-mihailov-novia-bos-na-levski-i-balgarskia-futbol-video~241082.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/podkast-v-efira~7.og.png"
     },
     {
       "title": "Смъртни заплахи, полицейска защита и Football Leaks: кой е Руи Пинто, човекът зад разкритията за Манчестър Сити 30 Сеп | 12:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1482780893-1-1-1-2-2.og.jpg"
-    },
-    {
-      "title": "Камери може да са заснели предполагаемия убиец на Илиян Филипов 30 Сеп | 11:04",
-      "url": "https://dsport.bg/kameri-moze-da-sa-zasneli-predpolagaemia-ubiec-na-ilian-filipov~241072.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_11~51.og.jpg"
     }
   ]
 }
