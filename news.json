@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T05:00:19.070879+00:00",
+  "updated": "2026-09-30T05:16:44.577932+00:00",
   "articles": [
+    {
+      "title": "Кокаин за брашно: Откраднаха наркотици от хранилище за доказателства във Фиджи",
+      "url": "https://dariknews.bg/novini/sviat/kokain-za-brashno-otkradnaha-narkotici-ot-hranilishte-za-dokazatelstva-vyv-fidzhi-2467773",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44973/44973409/991-ratio-kokain.jpg"
+    },
     {
       "title": "Парламентът ще изслуша вътрешния министър за мантинелите и полетите на Пеевски",
       "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-shte-izslusha-vytreshniia-ministyr-za-mantinelite-i-poletite-na-peevski-2467772",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Борисов: Ако имаше кандидатпрезидентска двойка на ГЕРБ - нямаше да се бият помежду си, а с нас",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-ako-imashe-kandidatprezidentska-dvojka-na-gerb-niamashe-da-se-biiat-pomezhdu-si-a-s-nas-2467759",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375738/991-ratio-bojko-borisov.jpg"
+      "title": "Де ла Фуенте след новия успех на Испания: Винаги има какво да подобряваме 30 Сеп | 08:15",
+      "url": "https://dsport.bg/de-la-fuente-sled-novia-uspeh-na-ispania-vinagi-ima-kakvo-da-podobravame~241059.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2286568253-1.og.jpg"
     },
     {
       "title": "Убиха собственикът на Ботев Пловдив Илиян Филипов 30 Сеп | 07:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297762793.og.jpg"
-    },
-    {
-      "title": "България се уплаши, но удържа юнашки Естония на празния стадион в Пловдив 29 Сеп | 23:37",
-      "url": "https://dsport.bg/na-zivo-balgaria-estonia-sastavi~241037.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033911.og.jpg"
     }
   ]
 }
