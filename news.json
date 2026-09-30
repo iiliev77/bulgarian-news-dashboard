@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-30T20:12:23.940615+00:00",
+  "updated": "2026-09-30T20:28:33.868977+00:00",
   "articles": [
+    {
+      "title": "Пътник успял да влезе в пилотската кабина по време на схватката на „Флайдубай\"",
+      "url": "https://dariknews.bg/novini/sviat/pytnik-uspial-da-vleze-v-pilotskata-kabina-po-vreme-na-shvatkata-na-flajdubaj-2467867",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389683/991-ratio-flajdubaj.jpg"
+    },
     {
       "title": "Вълнуващ обрат класира Мартин и Николета за следващия етап на звездната надпревара в „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/vylnuvasht-obrat-klasira-martin-i-nikoleta-za-sledvashtiia-etap-na-zvezdnata-nadprevara-v-igri-na-voliata-2467865",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51198/51198039/991-ratio-arheologiia-razkopki.jpg"
     },
     {
-      "title": "Закриха училището в село Трескавец заради намаляване на децата през последните години",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/zakriha-uchilishteto-v-selo-treskavec-zaradi-namaliavane-na-decata-prez-poslednite-godini-2467844",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389597/991-ratio-obshtinskiiat-syvet-v-antonovo.jpg"
+      "title": "Ирландия реши: ще играе и втория мач срещу Израел 30 Сеп | 23:21",
+      "url": "https://dsport.bg/irlandia-reshi-ste-igrae-i-vtoria-mach-srestu-izrael~241130.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297622927.og.jpg"
     },
     {
       "title": "Сестрата на Роналдо: Португалците не заслужават да имат най-доброто в каквото и да било 30 Сеп | 22:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297435066.og.jpg"
-    },
-    {
-      "title": "Жезус: Кристиано Роналдо не отказа да тренира 30 Сеп | 20:09",
-      "url": "https://dsport.bg/zezus-kristiano-ronaldo-ne-otkaza-da-trenira~241120.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297061781.og.jpg"
     }
   ]
 }
