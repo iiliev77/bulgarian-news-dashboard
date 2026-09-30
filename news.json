@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T09:30:29.460577+00:00",
+  "updated": "2026-09-30T09:48:08.218116+00:00",
   "articles": [
+    {
+      "title": "Шампионски сблъсък в новата звездна битка на “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/shampionski-sblysyk-v-novata-zvezdna-bitka-na-igri-na-voliata-2467813",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389472/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Терзиев откри обновена детска градина в София с места за 112 деца",
+      "url": "https://dariknews.bg/regioni/sofiia/terziev-otkri-obnovena-detska-gradina-v-sofiia-s-mesta-za-112-deca-2467812",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389468/991-ratio-vasil-terziev-otkrivane-detska-gradina.jpg"
+    },
     {
       "title": "Прокуратурата връчи обвинението на Борислав Сандов по казуса „Петрохан“",
       "url": "https://dariknews.bg/novini/bylgariia/prokuraturata-vrychi-obvinenieto-na-borislav-sandov-po-kazusa-petrohan-2467809",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51272/51272338/991-ratio-deputati-parlament.jpg"
     },
     {
-      "title": "Васил Найденов се срещна с посланика на Катар в София, отправи послание за мир",
-      "url": "https://dariknews.bg/novini/bylgariia/vasil-najdenov-se-sreshtna-s-poslanika-na-katar-v-sofiia-otpravi-poslanie-za-mir-2467792",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389399/991-ratio-poslanik.jpg"
+      "title": "Тодор Неделев към Илиян Филипов: За мен не беше просто шеф, а истински приятел 30 Сеп | 12:35",
+      "url": "https://dsport.bg/todor-nedelev-kam-ilian-filipov-za-men-ne-beshe-prosto-shef-a-istinski-priatel~241080.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/517717337_18364628974198951_9209456609269508597_n~2.og.jpg"
     },
     {
-      "title": "Разбиха конопена „плантация“ във Видинско, двама мъже са задържани (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/vidin/razbiha-konopena-plantaciia-vyv-vidinsko-dvama-myzhe-sa-zadyrzhani-snimki-2467795",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389403/991-ratio-marihuana.jpg"
+      "title": "Естебан Окон напуска Хаас след края на сезона 30 Сеп | 12:18",
+      "url": "https://dsport.bg/esteban-okon-napuska-haas-sled-kraa-na-sezona~241079.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2287338310.og.jpg"
     },
     {
       "title": "Скандал с Билич: Идиот такъв, топката беше излязла! Какво ме гледаш? 30 Сеп | 12:13",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_10~65.og.jpg"
-    },
-    {
-      "title": "Българският футбол се сбогува с Илиян Филипов (обновява се) 30 Сеп | 10:43",
-      "url": "https://dsport.bg/balgarskiat-futbol-se-sboguva-s-ilian-filipov~241065.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/677.og.png"
-    },
-    {
-      "title": "„Екзекуция в мафиотски стил“: светът гледа към Пловдив след убийството на Илиян Филипов 30 Сеп | 10:32",
-      "url": "https://dsport.bg/ekzekucia-v-mafiotski-stil-svetat-gleda-kam-plovdiv-sled-ubiistvoto-na-ilian-filipov~241070.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/filipov_chuzhda_presa_thumb_3x2.og.jpg"
     }
   ]
 }
