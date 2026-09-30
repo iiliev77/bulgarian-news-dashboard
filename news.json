@@ -1,9 +1,23 @@
 {
-  "updated": "2026-09-30T05:32:16.594148+00:00",
+  "updated": "2026-09-30T05:47:39.034982+00:00",
   "articles": [
     {
-      "title": "По лични причини: Освободиха директора на агенция „Медицински надзор“ Иванка Динева",
-      "url": "https://dariknews.bg/novini/bylgariia/po-lichni-prichini-osvobodiha-direktora-na-agenciia-medicinski-nadzor-ivanka-dineva-2467774",
+      "title": "Кметът на Ню Йорк представи план за борба с антисемитизма в града",
+      "url": "https://dariknews.bg/novini/sviat/kmetyt-na-niu-iork-predstavi-plan-za-borba-s-antisemitizma-v-grada-2467776",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51211/51211718/991-ratio-zohran-mamdani.jpg"
+    },
+    {
+      "title": "Северна Корея отхвърли обвиненията на Южна Корея за взривовете на мини в демилитаризираната зона",
+      "url": "https://dariknews.bg/novini/sviat/severna-koreia-othvyrli-obvineniiata-na-iuzhna-koreia-za-vzrivovete-na-mini-v-demilitariziranata-zona-2467775",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50936/50936978/991-ratio-severna-koreia-iuzhna-koreia-granici.jpg"
+    },
+    {
+      "title": "По лични причини: Освободиха директора на „Медицински надзор“ Иванка Динева",
+      "url": "https://dariknews.bg/novini/bylgariia/po-lichni-prichini-osvobodiha-direktora-na-medicinski-nadzor-ivanka-dineva-2467774",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51278/51278358/991-ratio-ivanka-dineva.jpg"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50227/50227978/991-ratio-izbori-glasuvane-mashini-biuletina.jpg"
     },
     {
-      "title": "Голямото завръщане: Селин Дион откри Седмицата на модата в Париж (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/goliamoto-zavryshtane-selin-dion-otkri-sedmicata-na-modata-v-parizh-snimkivideo-2467761",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50797/50797987/991-ratio-selin-dion.jpg"
-    },
-    {
-      "title": "Путин поиска „по-справедливо отношение“ към сърбите в Босна",
-      "url": "https://dariknews.bg/novini/sviat/putin-poiska-po-spravedlivo-otnoshenie-kym-syrbite-v-bosna-2467762",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51368/51368509/991-ratio-ruskiiat-prezident-vladimir-putin.jpg"
+      "title": "От строежа на „Колежа“ до управлението на Ботев: пътят на Илиян Филипов в клуба 30 Сеп | 08:28",
+      "url": "https://dsport.bg/ot-stroeza-na-koleza-do-upravlenieto-na-botev-patat-na-ilian-filipov-v-kluba~241061.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/843724-1-2.og.jpg"
     },
     {
       "title": "Подробности за убийството на Илиян Филипов, случило се е слад мача на националния отбор 30 Сеп | 08:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1033940~1.og.jpg"
-    },
-    {
-      "title": "Червен картон отвори пътя на Англия към първа победа в Лигата на нациите 29 Сеп | 23:44",
-      "url": "https://dsport.bg/cherven-karton-otvori-pata-na-anglia-kam-parva-pobeda-v-ligata-na-naciite~241050.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297770931.og.jpg"
     }
   ]
 }
