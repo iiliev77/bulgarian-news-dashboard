@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T13:32:42.658303+00:00",
+  "updated": "2026-09-30T13:48:46.262221+00:00",
   "articles": [
+    {
+      "title": "Евтим Милошев за размяната на артефакти с Гърция: Това не е търговска сделка",
+      "url": "https://dariknews.bg/novini/bylgariia/evtim-miloshev-za-razmianata-na-artefakti-s-gyrciia-tova-ne-e-tyrgovska-sdelka-2467846",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50895/50895624/991-ratio-evtim-miloshev.jpg"
+    },
+    {
+      "title": "България поиска последните 1,823 млрд. евро по Плана за възстановяване",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-poiska-poslednite-1823-mlrd.-evro-po-plana-za-vyzstanoviavane-2467847",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50484/50484635/991-ratio-ministerski-syvet-sgrada.jpg"
+    },
     {
       "title": "Путин: Изборите потвърдиха устойчивостта на политическата ни система",
       "url": "https://dariknews.bg/novini/sviat/putin-izborite-potvyrdiha-ustojchivostta-na-politicheskata-ni-sistema-2467845",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389538/991-ratio-rosica-karamfilova.jpg"
     },
     {
-      "title": "Трима души загинаха при жестока катастрофа с камион и кола край Айтос (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/trima-dushi-zaginaha-pri-zhestoka-katastrofa-s-kamion-i-kola-kraj-ajtos-snimki-2467825",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389531/991-ratio-katastrofa-ajtos-ruen.jpg"
+      "title": "Ексклузивно Христо Крушарски: Не се чувствам собственик на Локомотив Пловдив 30 Сеп | 16:46",
+      "url": "https://dsport.bg/hristo-krusharski-ne-se-chuvstvam-sobstvenik-na-lokomotiv-plovdiv~241097.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/15.06-8-1.og.jpg"
     },
     {
-      "title": "КЗП съди 63 частни училища и градини: Какви са таксите и клаузите, които засягат родителите",
-      "url": "https://dariknews.bg/novini/bylgariia/kzp-sydi-63-chastni-uchilishta-i-gradini-kakvi-sa-taksite-i-klauzite-koito-zasiagat-roditelite-2467826",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/42590/42590335/991-ratio-detski-gradini-plovdiv.jpg"
+      "title": "Председателят на Съдийската комисия се срещна с представители на професионалните клубове 30 Сеп | 16:31",
+      "url": "https://dsport.bg/predsedatelat-na-sadiiskata-komisia-se-srestna-s-predstaviteli-na-profesionalnite-klubove~241096.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/825266814_1111417941403630_6357957070939250645_n.og.jpg"
     },
     {
       "title": "Джокович се завърна на корта с победа 30 Сеп | 16:15",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-09-30-143449.og.png"
-    },
-    {
-      "title": "Трансферите на Манчестър Сити между сезоните 2009/10 и 2017/18 30 Сеп | 14:25",
-      "url": "https://dsport.bg/transferite-na-manchestar-siti-mezdu-sezonite-2009-10-i-2017-18~241086.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-516696248.og.jpg"
-    },
-    {
-      "title": "Ферари гласува доверие на Васьор 30 Сеп | 14:06",
-      "url": "https://dsport.bg/ferari-glasuva-doverie-na-vasor~241085.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2227833460~1.og.jpg"
     }
   ]
 }
