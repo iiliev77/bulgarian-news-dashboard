@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:42:17.651982+00:00",
+  "updated": "2026-09-30T20:53:42.856127+00:00",
   "articles": [
     {
       "title": "Пътник успял да влезе в пилотската кабина по време на схватката на „Флайдубай\"",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51198/51198039/991-ratio-arheologiia-razkopki.jpg"
     },
     {
+      "title": "Решено: Кристиано Роналдо приключи завинаги с Португалия 30 Сеп | 23:50",
+      "url": "https://dsport.bg/resheno-kristiano-ronaldo-prikluchi-zavinagi-s-portugalia~241132.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-545932862.og.jpg"
+    },
+    {
+      "title": "Балкан започна със загуба дебютното си участие в Еврокъп 30 Сеп | 23:44",
+      "url": "https://dsport.bg/balkan-zapochna-sas-zaguba-debutnoto-si-uchastie-v-evrokap~241131.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/828888224_1389175859870041_5570443781975506408_n.og.jpg"
+    },
+    {
       "title": "Ирландия реши: ще играе и втория мач срещу Израел 30 Сеп | 23:21",
       "url": "https://dsport.bg/irlandia-reshi-ste-igrae-i-vtoria-mach-srestu-izrael~241130.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/829157856_2154744251804364_4912000925458747884_n.og.jfif"
-    },
-    {
-      "title": "Клоп с първи коментар след решението за Манчестър Сити 30 Сеп | 20:33",
-      "url": "https://dsport.bg/klop-s-parvi-komentar-sled-reshenieto-za-manchestar-siti~241122.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297912467.og.jpg"
-    },
-    {
-      "title": "Бомба в Португалия: Роналдо изостави националния отбор 30 Сеп | 20:15",
-      "url": "https://dsport.bg/bomba-v-portugalia-ronaldo-izostavi-nacionalnia-otbor~241121.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297435066.og.jpg"
     }
   ]
 }
