@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T14:22:08.630994+00:00",
+  "updated": "2026-09-30T14:39:45.903574+00:00",
   "articles": [
     {
       "title": "Частните лечебни заведения: Отнемането на лиценз на болница под натиск не е добра политика",
@@ -27,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/nachalnikyt-na-otbranata-emil-eftimov-e-podal-raport-za-osvobozhdavane-ot-voenna-sluzhba-2467852",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379527/991-ratio-emil-eftimov.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389620/991-ratio-emil-eftimov.jpg"
     },
     {
       "title": "Магистрат крещи и заплашва 101-годишен мъж: Прокуратурата се самосезира (ВИДЕО)",
@@ -142,6 +142,27 @@
       "image": "https://m.netinfo.bg/media/images/50796/50796018/991-ratio-rabota.jpg"
     },
     {
+      "title": "Повреден автобус донесе служебна победа за Купата на Аматьорската лига 30 Сеп | 17:37",
+      "url": "https://dsport.bg/povreden-avtobus-donese-sluzebna-pobeda-za-kupata-na-amatorskata-liga~241103.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/unnamed-file-4.og.jpg"
+    },
+    {
+      "title": "Петлешков за Филипов: Не използвайте смъртта му за спекулации, дълбоки съболезнования 30 Сеп | 17:25",
+      "url": "https://dsport.bg/petleshkov-za-filipov-ne-izpolzvaite-smartta-mu-za-spekulacii-dalboki-saboleznovania~241102.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/fotojet-1-18.l.og.webp"
+    },
+    {
+      "title": "Председателят на БОК Весела Лечева получи ключовете от новата сграда 30 Сеп | 17:22",
+      "url": "https://dsport.bg/predsedatelat-na-bok-vesela-lecheva-poluchi-kluchovete-ot-novata-sgrada~241100.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/bva_3817.og.jpg"
+    },
+    {
       "title": "Левски е осми в света по интересен показател 30 Сеп | 17:14",
       "url": "https://dsport.bg/levski-e-osmi-v-sveta-po-interesen-pokazatel~241101.html",
       "source": "Dsport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1911910777-1.og.jpg"
-    },
-    {
-      "title": "Защитник на Реал Мадрид ще бъде опериран 30 Сеп | 15:46",
-      "url": "https://dsport.bg/zastitnik-na-real-madrid-ste-bade-operiran~241092.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2198426304-2-1~1.og.jpg"
-    },
-    {
-      "title": "Промени в програмата на две срещи от втория предварителен кръг на Sesame Купа на България 30 Сеп | 15:32",
-      "url": "https://dsport.bg/promeni-v-programata-na-dve-sresti-ot-vtoria-predvaritelen-krag-na-sesame-kupa-na-balgaria~241091.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/390463-3-1-1-1.og.jpg"
-    },
-    {
-      "title": "Невероятната серия на Александър Везенков в Евролигата 30 Сеп | 15:21",
-      "url": "https://dsport.bg/neveroatnata-seria-na-aleksandar-vezenkov-v-evroligata~241089.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2273058685-1~1.og.jpg"
     }
   ]
 }
