@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-30T12:57:52.342204+00:00",
+  "updated": "2026-09-30T13:14:21.259142+00:00",
   "articles": [
+    {
+      "title": "Политическата криза в Румъния продължава: Вторият опит за съставяне на правителство се провали",
+      "url": "https://dariknews.bg/novini/sviat/politicheskata-kriza-v-rumyniia-prodylzhava-vtoriiat-opit-za-systaviane-na-pravitelstvo-se-provali-2467841",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51039/51039721/991-ratio-rumyniia-parlament.jpg"
+    },
+    {
+      "title": "Вицепремиерът Пулев обяви предстояща среща с „Райнметал“",
+      "url": "https://dariknews.bg/novini/bylgariia/vicepremieryt-pulev-obiavi-predstoiashta-sreshta-s-rajnmetal-2467840",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51334/51334129/991-ratio-aleksandyr-pulev.jpg"
+    },
     {
       "title": "„Мамо, май съм настинал“: Как да подготвим детския имунитет за есента",
       "url": "https://dariknews.bg/novini/plateni-publikacii/mamo-maj-sym-nastinal-kak-da-podgotvim-detskiia-imunitet-za-esenta-2467680",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/38646/38646009/991-ratio-andrej-babish.jpg"
     },
     {
-      "title": "Пенсия с „фалшив“ стаж? 68-годишна представи документ с неверни данни пред НОИ",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/pensiia-s-falshiv-stazh-68-godishna-predstavi-dokument-s-neverni-danni-pred-noi-2467816",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
-    },
-    {
-      "title": "ДБ: Подаваме сигнал до НАП за имотната империя на Борислав Сарафов",
-      "url": "https://dariknews.bg/novini/bylgariia/db-podavame-signal-do-nap-za-imotnata-imperiia-na-borislav-sarafov-2467819",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51382/51382204/991-ratio-mirchev-i-bozhanov.jpg"
+      "title": "Рой Кийн за Манчестър Сити: Ако бях футболист, щях на 100 процента да изхвърля тези медали в кофата за боклук 30 Сеп | 15:59",
+      "url": "https://dsport.bg/roi-kiin-za-manchestar-siti-ako-bah-futbolist-stah-na-100-procenta-da-izhvarla-tezi-medali-v-kofata-za-bokluk~241094.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1911910777-1.og.jpg"
     },
     {
       "title": "Защитник на Реал Мадрид ще бъде опериран 30 Сеп | 15:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/657556.og.jpg"
-    },
-    {
-      "title": "Нетипичният герой на Ботсвана: 163 см ръст, любопитна спортна форма, шест спасявания и историческо постижение (ВИДЕО) 30 Сеп | 13:31",
-      "url": "https://dsport.bg/netipichniat-geroi-na-botsvana-163-sm-rast-lubopitna-sportna-forma-shest-spasavania-i-istorichesko-postizenie-video~241083.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_14~34.og.jpg"
     }
   ]
 }
