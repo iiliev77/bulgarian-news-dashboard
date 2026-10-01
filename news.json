@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-01T09:24:18.399326+00:00",
+  "updated": "2026-10-01T09:39:29.100387+00:00",
   "articles": [
+    {
+      "title": "НС реши: Услугата по издаване на удостоверение за електронна идентичност вече ще е безплатна",
+      "url": "https://dariknews.bg/novini/bylgariia/ns-reshi-uslugata-po-izdavane-na-udostoverenie-za-elektronna-identichnost-veche-shte-e-bezplatna-2467911",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51240/51240458/991-ratio-elektronen-podpis.jpg"
+    },
+    {
+      "title": "Силна буря връхлетя Крит: Наводнения и свлачища блокираха острова (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/silna-buria-vryhletia-krit-navodneniia-i-svlachishta-blokiraha-ostrova-videosnimki-2467910",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51108/51108787/991-ratio-dyzhd-vremeto.jpg"
+    },
     {
       "title": "От „Като две капки вода“ до „Пееш или лъжеш“: Даниел Пеев - Дънди в търсене на истинския талант",
       "url": "https://dariknews.bg/novini/liubopitno/ot-kato-dve-kapki-voda-do-peesh-ili-lyzhesh-daniel-peev-dyndi-v-tyrsene-na-istinskiia-talant-2467909",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51258/51258415/991-ratio-kanie-uest.jpg"
     },
     {
-      "title": "Пеевски: Цените хвърчат, отидоха в Космоса, където Демерджиев трябва да отиде",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-cenite-hvyrchat-otidoha-v-kosmosa-kydeto-demerdzhiev-triabva-da-otide-2467891",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51355/51355235/991-ratio-demerdzhiev-peevski.jpg"
-    },
-    {
-      "title": "Злато, въоръжени грабежи и присъда за убийство: Криминалното минало на Славчо Мегеров",
-      "url": "https://dariknews.bg/novini/bylgariia/zlato-vyoryzheni-grabezhi-i-prisyda-za-ubijstvo-kriminalnoto-minalo-na-slavcho-megerov-2467890",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389663/991-ratio-slavcho-megerov.jpg"
+      "title": "Нежелан и у дома: Швейцария оттегли подкрепата към Инфантино 01 Окт | 12:30",
+      "url": "https://dsport.bg/neharesvan-i-u-doma-shveicaria-ottegli-podkrepata-kam-infantino~241144.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2293650775.og.jpg"
     },
     {
       "title": "Германец отрече завръщане в ЦСКА 01 Окт | 11:59",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297109452.og.jpg"
-    },
-    {
-      "title": "В Испания възхитени: Хулио Веласкес покори България 01 Окт | 08:25",
-      "url": "https://dsport.bg/hulio-velaskes-levski-trenior-na-sezona-shampion-bulgaria~241134.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1031294.og.jpg"
     }
   ]
 }
