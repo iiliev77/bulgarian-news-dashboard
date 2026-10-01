@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T11:51:33.214293+00:00",
+  "updated": "2026-10-01T12:02:49.682316+00:00",
   "articles": [
     {
       "title": "Протест пред Министерския съвет заради реставрацията на Паметника на Шипка",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51240/51240458/991-ratio-elektronen-podpis.jpg"
     },
     {
+      "title": "Ексклузивно Станислав Генчев за Илиян Филипов: Губя близък приятел, моралният ангажимент е много голям 01 Окт | 14:59",
+      "url": "https://dsport.bg/stanislav-genchev-za-ilian-filipov-guba-blizak-priatel-moralniat-angaziment-e-mnogo-golam~241157.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/980740.og.jpg"
+    },
+    {
+      "title": "SLYBET разширява присъствието си в спорта с партньорство със Суперкупата по баскетбол 01 Окт | 14:51",
+      "url": "https://dsport.bg/slybet-razshirava-prisastvieto-si-v-sporta-s-partnorstvo-sas-superkupata-po-basketbol~241156.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/dsport-640x360.og.png"
+    },
+    {
       "title": "Слави Ангелов: Убийството на Илиян Филипов и участието на Мегеров са смущаващо предизвестени 01 Окт | 14:48",
       "url": "https://dsport.bg/slavi-angelov-ubiistvoto-na-ilian-filipov-i-uchastieto-na-megerov-sa-smustavasto-predizvesteni~241155.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1035001.og.jpg"
-    },
-    {
-      "title": "Камерунски национал отново в плановете на Хулио Веласкес 01 Окт | 13:29",
-      "url": "https://dsport.bg/kamerunski-nacional-otnovo-e-planovete-na-hulio-velaskes~241149.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/989899.og.jpg"
-    },
-    {
-      "title": "Маркус Гиздол с първи думи като треньор на ЦСКА 01 Окт | 13:17",
-      "url": "https://dsport.bg/markus-gizdol-s-parvi-dumi-kato-trenor-na-cska~241147.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1273629860~1.og.jpg"
     }
   ]
 }
