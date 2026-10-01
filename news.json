@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-01T12:02:49.682316+00:00",
+  "updated": "2026-10-01T12:26:57.953333+00:00",
   "articles": [
+    {
+      "title": "Обновена система променя здравния контрол: Какво трябва да знаем",
+      "url": "https://dariknews.bg/novini/bylgariia/obnovena-sistema-promenia-zdravniia-kontrol-kakvo-triabva-da-znaem-2467932",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389930/991-ratio-laptop-lekar.jpg"
+    },
+    {
+      "title": "Разкриха незаконна кланица в частен имот в Симеоновград",
+      "url": "https://dariknews.bg/regioni/haskovo/razkriha-nezakonna-klanica-v-chasten-imot-v-simeonovgrad-2467931",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389923/991-ratio-razkriha-nezakonna-klanica-v-simeonovgrad.jpg"
+    },
     {
       "title": "Протест пред Министерския съвет заради реставрацията на Паметника на Шипка",
       "url": "https://dariknews.bg/novini/bylgariia/protest-pred-ministerskiia-syvet-zaradi-restavraciiata-na-pametnika-na-shipka-2467930",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/45622/45622035/991-ratio-smyrtna-prisyda-inzhekciia-smyrtonosna-inzhekciia.jpg"
     },
     {
-      "title": "Десетки села в Южна България под карантина заради шарка по овцете и козите",
-      "url": "https://dariknews.bg/regioni/haskovo/desetki-sela-v-iuzhna-bylgariia-pod-karantina-zaradi-sharka-po-ovcete-i-kozite-2467913",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
-    },
-    {
-      "title": "НС реши: Услугата по издаване на удостоверение за електронна идентичност вече ще е безплатна",
-      "url": "https://dariknews.bg/novini/bylgariia/ns-reshi-uslugata-po-izdavane-na-udostoverenie-za-elektronna-identichnost-veche-shte-e-bezplatna-2467911",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51240/51240458/991-ratio-elektronen-podpis.jpg"
+      "title": "Светослав Петров за България U17 и пътя от талант към професионалист (ВИДЕО) 01 Окт | 15:19",
+      "url": "https://dsport.bg/svetoslav-petrov-za-balgaria-u17-i-pata-ot-talant-kam-profesionalist-video~241158.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1032406.og.jpg"
     },
     {
       "title": "Ексклузивно Станислав Генчев за Илиян Филипов: Губя близък приятел, моралният ангажимент е много голям 01 Окт | 14:59",
@@ -167,7 +174,7 @@
       "url": "https://dsport.bg/vsichki-za-ilian-botev-pd-pusna-simvolichni-bileti-s-priziv-za-palen-stadion~241154.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/831506727_1476876084494132_5823632527448286843_n.og.jpg"
+      "image": "https://dsport.bg/media/384/site-174.og.webp"
     },
     {
       "title": "Манчини пак остави голяма група извън състава на Италия 01 Окт | 14:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/732552.og.jpg"
-    },
-    {
-      "title": "Етапът на Сашо Димитров - от „срам“, през „гротеска“, до „уплах“ срещу Естония 01 Окт | 13:30",
-      "url": "https://dsport.bg/etapat-na-sasho-dimitrov-ot-sram-prez-groteska-do-uplah-srestu-estonia~241148.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1035001.og.jpg"
     }
   ]
 }
