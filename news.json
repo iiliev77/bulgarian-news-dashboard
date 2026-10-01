@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T19:24:39.188692+00:00",
+  "updated": "2026-10-01T19:38:16.792457+00:00",
   "articles": [
+    {
+      "title": "България постави случая на Ива Михайлова пред Съвета на Европа",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-postavi-sluchaia-na-iva-mihajlova-pred-syveta-na-evropa-2467975",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
+    },
     {
       "title": "Вотът на недоверие срещу чешкия премиер не успя",
       "url": "https://dariknews.bg/novini/sviat/votyt-na-nedoverie-sreshtu-cheshkiia-premier-ne-uspia-2467974",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386965/991-ratio-marihuana.jpg"
     },
     {
-      "title": "„Пейка на поколенията“ събира различни възрасти пред президентската институция до 6 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do-6-oktomvri-2467948",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390030/991-ratio-pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do.jpg"
+      "title": "Аспарух Аспарухов стана баща 01 Окт | 22:27",
+      "url": "https://dsport.bg/asparuh-asparuhov-stana-basta~241189.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/848030-1.og.jpg"
     },
     {
       "title": "Британският премиер си навлече критики заради Манчестър Сити, излезе с нова позиция 01 Окт | 22:09",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1132971961.og.jpg"
-    },
-    {
-      "title": "Становищата на Реал Мадрид и Барселона за „Негрейра“ и разследването на УЕФА 01 Окт | 19:45",
-      "url": "https://dsport.bg/stanovistata-na-real-madrid-i-barselona-za-negreira-i-razsledvaneto-na-uefa~241179.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2257944663.og.jpg"
     }
   ]
 }
