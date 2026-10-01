@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T19:08:17.144052+00:00",
+  "updated": "2026-10-01T19:24:39.188692+00:00",
   "articles": [
+    {
+      "title": "Вотът на недоверие срещу чешкия премиер не успя",
+      "url": "https://dariknews.bg/novini/sviat/votyt-na-nedoverie-sreshtu-cheshkiia-premier-ne-uspia-2467974",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50344/50344752/991-ratio-andrej-babish.jpg"
+    },
     {
       "title": "Мъж ухапа стюардеса и пътничка по време на полет",
       "url": "https://dariknews.bg/novini/sviat/myzh-uhapa-stiuardesa-i-pytnichka-po-vreme-na-polet-2467973",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390030/991-ratio-pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do.jpg"
     },
     {
-      "title": "Сеновал с 60 тона слама се запали в кравеферма в Хасковско (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/haskovo/senoval-s-60-tona-slama-se-zapali-v-kraveferma-v-haskovsko-snimki-2467947",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389985/991-ratio-pozhar-konush.jpg"
+      "title": "Британският премиер си навлече критики заради Манчестър Сити, излезе с нова позиция 01 Окт | 22:09",
+      "url": "https://dsport.bg/britanskiat-premier-si-navleche-kritiki-zaradi-manchestar-siti-izleze-s-nova-pozicia~241188.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297874980.og.jpg"
     },
     {
       "title": "Гидженов ще ръководи мач в Лигата на нациите 01 Окт | 21:51",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2257944663.og.jpg"
-    },
-    {
-      "title": "Премиерът на Португалия е говорил с Жезус и Кристиано 01 Окт | 19:30",
-      "url": "https://dsport.bg/premierat-na-portugalia-e-govoril-s-zezus-i-kristiano~241178.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297062847.og.jpg"
     }
   ]
 }
