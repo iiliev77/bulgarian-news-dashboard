@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T17:16:25.904493+00:00",
+  "updated": "2026-10-01T17:32:44.188319+00:00",
   "articles": [
+    {
+      "title": "Жители на „Младост“ 1 излязоха на протест заради липса на топла вода (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/sofiia/zhiteli-na-mladost-1-izliazoha-na-protest-zaradi-lipsa-na-topla-voda-video-2467969",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Аварирал камион затруднява движението по АМ „Хемус“ в посока Варна",
       "url": "https://dariknews.bg/novini/bylgariia/avariral-kamion-zatrudniava-dvizhenieto-po-am-hemus-v-posoka-varna-2467967",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
     },
     {
-      "title": "Удължават ремонта в столичния квартал „Дружба“: В някои части ще имат топла вода на 22 октомври",
-      "url": "https://dariknews.bg/regioni/sofiia/udylzhavat-remonta-v-stolichniia-kvartal-druzhba-v-niakoi-chasti-shte-imat-topla-voda-na-22-oktomvri-2467942",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51162/51162090/991-ratio-voda.jpg"
+      "title": "Унгарец ръководи Исландия - България 01 Окт | 20:26",
+      "url": "https://dsport.bg/ungarec-rakovodi-islandia-balgaria~241182.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1033875~1.og.jpg"
+    },
+    {
+      "title": "Затишие в Левски по време на международната пауза (ВИДЕО) 01 Окт | 20:15",
+      "url": "https://dsport.bg/zatishie-v-levski-po-vreme-na-mezdunarodnata-pauza-video~241181.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/komentarno-alpha-11-~1.og.png"
     },
     {
       "title": "Легенда на Атлетик Билбао получи инфаркт 01 Окт | 19:59",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298054401.og.jpg"
-    },
-    {
-      "title": "Клоп е възмутен от твърденията, че германският национален отбор „не е достатъчно бял“ 01 Окт | 18:20",
-      "url": "https://dsport.bg/klop-e-vazmuten-ot-tvardeniata-che-germanskiat-nacionalen-otbor-ne-e-dostatachno-bal~241169.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297912973.og.jpg"
-    },
-    {
-      "title": "Втори футболист от Висшата лига преобърна колата си на едно и също място за три седмици 01 Окт | 18:08",
-      "url": "https://dsport.bg/vtori-futbolist-ot-visshata-liga-preobarna-kolata-si-na-edno-i-sasto-masto-za-tri-sedmici~241170.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/htihys-xiaac9kp.og.jfif"
     }
   ]
 }
