@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-01T06:46:47.275039+00:00",
+  "updated": "2026-10-01T07:02:01.736860+00:00",
   "articles": [
+    {
+      "title": "Откриха починал човек в района на Комините на Витоша",
+      "url": "https://dariknews.bg/regioni/sofiia/otkriha-pochinal-chovek-v-rajona-na-kominite-na-vitosha-2467884",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51210/51210437/991-ratio-vitosha.jpg"
+    },
+    {
+      "title": "Шофьор на камион блъсна патрулка и кола на Околовръстния път в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/shofior-na-kamion-blysna-patrulka-i-kola-na-okolovrystniia-pyt-v-stara-zagora-2467883",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375937/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "„Медийни потоци“ и „басейни“: Скандал в парламента заради изказване на Слави Василев",
+      "url": "https://dariknews.bg/novini/bylgariia/medijni-potoci-i-basejni-skandal-v-parlamenta-zaradi-izkazvane-na-slavi-vasilev-2467881",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389736/991-ratio-slavi-vasilev.jpg"
+    },
+    {
+      "title": "Животни само на хартия: МВР разби схема за 70 000 евро с пасища и ливади",
+      "url": "https://dariknews.bg/regioni/vraca/zhivotni-samo-na-hartiia-mvr-razbi-shema-za-70-000-evro-s-pasishta-i-livadi-2467882",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48221/48221969/991-ratio-kozi.jpg"
+    },
     {
       "title": "Внук нападна с удари баба си във Великотърновско",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/vnuk-napadna-s-udari-baba-si-vyv-velikotyrnovsko-2467880",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50722/50722197/991-ratio-mediia-novini.jpg"
     },
     {
-      "title": "Ограничават движението по АМ „Тракия“ край Чирпан",
-      "url": "https://dariknews.bg/regioni/stara-zagora/ogranichavat-dvizhenieto-po-am-trakiia-kraj-chirpan-2467833",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51368/51368589/991-ratio-api-trakiia.jpg"
-    },
-    {
-      "title": "Посрещаме октомври с жълт и оранжев код за опасно време по Черноморието",
-      "url": "https://dariknews.bg/novini/bylgariia/posreshtame-oktomvri-s-zhylt-i-oranzhev-kod-za-opasno-vreme-po-chernomorieto-2467858",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Сърбия удължи газовата сделка с Русия до края на годината",
-      "url": "https://dariknews.bg/novini/sviat/syrbiia-udylzhi-gazovata-sdelka-s-rusiia-do-kraia-na-godinata-2467857",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389624/991-ratio-syrbiia.jpg"
-    },
-    {
-      "title": "1 октомври: Празнуваме Световния ден на музиката, поезията, възрастните хора и още…",
-      "url": "https://dariknews.bg/novini/liubopitno/1-oktomvri-praznuvame-svetovniia-den-na-muzikata-poeziiata-vyzrastnite-hora-i-oshte-2396014",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51189/51189216/991-ratio-muzika-poeziia.jpg"
+      "title": "Иван Демерджиев: Нямаме съмнение, че сме задържали физическия убиец на Илиян Филипов 01 Окт | 09:53",
+      "url": "https://dsport.bg/ivan-demerdziev-namame-samnenie-che-sme-zadarzali-fizicheskia-ubiec-na-ilian-filipov~241138.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-1320-.og.png"
     },
     {
       "title": "Българският диамант в Милан получи нова висока оценка 01 Окт | 09:18",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297435842~1.og.jpg"
-    },
-    {
-      "title": "Роналдо: Като му дойде времето, ще кажа истината защо напуснах националния 30 Сеп | 22:11",
-      "url": "https://dsport.bg/ronaldo-kato-mu-doide-vremeto-ste-kaza-istinata-zasto-napusnah-nacionalnia~241128.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297064782.og.jpg"
     }
   ]
 }
