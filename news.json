@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:58:37.999005+00:00",
+  "updated": "2026-10-01T21:12:05.169610+00:00",
   "articles": [
     {
       "title": "Тръмп: Иран може да стои зад опита за покушение на полета на „Флайдубай“",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
     },
     {
+      "title": "Ирландия и Австрия не се победиха в мач, прекъснат заради протест 02 Окт | 00:00",
+      "url": "https://dsport.bg/irlandia-i-avstria-ne-se-pobediha-v-mach-prekasnat-zaradi-protest~241198.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298110149.og.jpg"
+    },
+    {
       "title": "Гърция тръгна ударно, но не успя да удари и Нидерландия 01 Окт | 23:48",
       "url": "https://dsport.bg/garcia-tragna-udarno-no-ne-uspa-da-udari-i-niderlandia~241194.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297874980.og.jpg"
-    },
-    {
-      "title": "Гидженов ще ръководи мач в Лигата на нациите 01 Окт | 21:51",
-      "url": "https://dsport.bg/gidzenov-ste-rakovodi-mach-v-ligata-na-naciite~241187.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/951426-1.og.jpg"
     }
   ]
 }
