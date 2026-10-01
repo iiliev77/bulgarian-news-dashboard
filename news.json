@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-01T15:14:43.870815+00:00",
+  "updated": "2026-10-01T15:32:54.307460+00:00",
   "articles": [
+    {
+      "title": "Заради задимяване: Ограничиха движението в тунел „Витиня“",
+      "url": "https://dariknews.bg/novini/bylgariia/zaradi-zadimiavane-ogranichiha-dvizhenieto-v-tunel-vitinia-2467961",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51303/51303193/991-ratio-tunel-vitinia.jpg"
+    },
+    {
+      "title": "Ивкова имала доклад за отнемане разрешителното на „Медикус Алфа\" още на 2 септември",
+      "url": "https://dariknews.bg/novini/bylgariia/ivkova-imala-doklad-za-otnemane-razreshitelnoto-na-medikus-alfa-oshte-na-2-septemvri-2467960",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51359/51359242/991-ratio-katia-ivkova.jpg"
+    },
     {
       "title": "„Малки полицаи“ в действие: Две детски полицейски управления отвориха врати в Етрополе",
       "url": "https://dariknews.bg/regioni/sofiia/malki-policai-v-dejstvie-dve-detski-policejski-upravleniia-otvoriha-vrati-v-etropole-2467959",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50854/50854155/991-ratio-gaz.jpg"
     },
     {
-      "title": "Социалният министър: Около 22 000 души без доходи ще получат наведнъж помощта за отопление с дърва",
-      "url": "https://dariknews.bg/novini/bylgariia/socialniiat-ministyr-okolo-22-000-dushi-bez-dohodi-shte-poluchat-navednyzh-pomoshtta-za-otoplenie-s-dyrva-2467937",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50247/50247542/991-ratio-dyrva-za-ogrev.jpg"
-    },
-    {
-      "title": "Шофьорка с положителна проба за алкохол се опита да подкупи полицаи в Лозен (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/shofiorka-s-polozhitelna-proba-za-alkohol-se-opita-da-podkupi-policai-v-lozen-snimki-2467936",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389939/991-ratio-zhena-podkup-alkohol.jpg"
+      "title": "Клоп е възмутен от твърденията, че германският национален отбор „не е достатъчно бял“ 01 Окт | 18:20",
+      "url": "https://dsport.bg/klop-e-vazmuten-ot-tvardeniata-che-germanskiat-nacionalen-otbor-ne-e-dostatachno-bal~241169.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297912973.og.jpg"
     },
     {
       "title": "Втори футболист от Висшата лига преобърна колата си на едно и също място за три седмици 01 Окт | 18:08",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296971233.og.jpg"
-    },
-    {
-      "title": "Торо: Десетилетия проблемите са замитани под килима, трябва да започнем начисто (ВИДЕО) 01 Окт | 15:42",
-      "url": "https://dsport.bg/toro-desetiletia-problemite-sa-zamitani-pod-kilima-trabva-da-zapochnem-nachisto-video~241160.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/825267618_1443836274518108_5038353545400254229_n.og.jpg"
     }
   ]
 }
