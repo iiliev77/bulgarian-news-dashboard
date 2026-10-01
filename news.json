@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-01T03:16:52.802875+00:00",
+  "updated": "2026-10-01T03:34:05.765412+00:00",
   "articles": [
+    {
+      "title": "Унгарска звезда имитира Дара и „Бангаранга“ в аналог на „Като две капки вода”",
+      "url": "https://dariknews.bg/novini/liubopitno/ungarska-zvezda-imitira-dara-i-bangaranga-v-analog-na-kato-dve-kapki-voda-2467864",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389667/991-ratio-imitaciia-dara.jpg"
+    },
+    {
+      "title": "Съдът взе решение за закриване на турски новинарски сайт заради съдържание на ЛГБТИ тематика",
+      "url": "https://dariknews.bg/novini/sviat/sydyt-vze-reshenie-za-zakrivane-na-turski-novinarski-sajt-zaradi-sydyrzhanie-na-lgbti-tematika-2467862",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50722/50722197/991-ratio-mediia-novini.jpg"
+    },
+    {
+      "title": "Ограничават движението по АМ „Тракия“ край Чирпан",
+      "url": "https://dariknews.bg/regioni/stara-zagora/ogranichavat-dvizhenieto-po-am-trakiia-kraj-chirpan-2467833",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51368/51368589/991-ratio-api-trakiia.jpg"
+    },
     {
       "title": "Посрещаме октомври с жълт и оранжев код за опасно време по Черноморието",
       "url": "https://dariknews.bg/novini/bylgariia/posreshtame-oktomvri-s-zhylt-i-oranzhev-kod-za-opasno-vreme-po-chernomorieto-2467858",
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389553/991-ratio-ivan-portnih.jpg"
-    },
-    {
-      "title": "След обява в интернет: БАБХ разкри незаконна продажба на свинско месо и животни в Плевенско",
-      "url": "https://dariknews.bg/regioni/pleven/sled-obiava-v-internet-babh-razkri-nezakonna-prodazhba-na-svinsko-meso-i-zhivotni-v-plevensko-2467853",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46248/46248871/991-ratio-prase.jpg"
-    },
-    {
-      "title": "Началникът на отбраната Емил Ефтимов е подал рапорт за освобождаване от военна служба",
-      "url": "https://dariknews.bg/novini/bylgariia/nachalnikyt-na-otbranata-emil-eftimov-e-podal-raport-za-osvobozhdavane-ot-voenna-sluzhba-2467852",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389620/991-ratio-emil-eftimov.jpg"
-    },
-    {
-      "title": "Магистрат крещи и заплашва 101-годишен мъж: Прокуратурата се самосезира (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/sofiia/magistrat-kreshti-i-zaplashva-101-godishen-myzh-prokuraturata-se-samosezira-video-2467850",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50086/50086314/991-ratio-vyzrasten-myzh.jpg"
     },
     {
       "title": "Решено: Кристиано Роналдо приключи завинаги с Португалия 30 Сеп | 23:50",
