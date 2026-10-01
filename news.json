@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T05:02:11.676665+00:00",
+  "updated": "2026-10-01T05:19:49.706024+00:00",
   "articles": [
+    {
+      "title": "Чаушев вече не е зам.-кмет по транспорта, кметът Терзиев временно поема ресора",
+      "url": "https://dariknews.bg/regioni/sofiia/chaushev-veche-ne-e-zam.-kmet-po-transporta-kmetyt-terziev-vremenno-poema-resora-2467874",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51383/51383690/991-ratio-vasil-terziev.jpg"
+    },
     {
       "title": "Земетресение е регистрирано край Тополовград",
       "url": "https://dariknews.bg/novini/zemetresenie-e-registrirano-kraj-topolovgrad-2467873",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389676/991-ratio-igri.jpg"
     },
     {
-      "title": "Разширяват обходния път на Хасково, АПИ избира изпълнител",
-      "url": "https://dariknews.bg/regioni/haskovo/razshiriavat-obhodniia-pyt-na-haskovo-api-izbira-izpylnitel-2467863",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51350/51350382/991-ratio-remont.jpg"
+      "title": "Ответен удар: спонсор на Манчестър Сити започва съдебно дело срещу Висшата лига 01 Окт | 08:11",
+      "url": "https://dsport.bg/otveten-udar-sponsor-na-manchestar-siti-zapochva-sadebno-delo-srestu-visshata-liga~241133.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-89056184.og.jpg"
     },
     {
       "title": "Решено: Кристиано Роналдо приключи завинаги с Португалия 30 Сеп | 23:50",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2276578878-1.og.jpg"
-    },
-    {
-      "title": "Мечтата на „лъвчетата“ за Европейско бе съкрушена от Чехия 30 Сеп | 20:54",
-      "url": "https://dsport.bg/mechtata-na-lavchetata-za-evropeisko-be-sakrushena-ot-chehia~241123.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/829157856_2154744251804364_4912000925458747884_n.og.jfif"
     }
   ]
 }
