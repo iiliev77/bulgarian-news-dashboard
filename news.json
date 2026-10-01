@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T05:19:49.706024+00:00",
+  "updated": "2026-10-01T05:35:17.726593+00:00",
   "articles": [
+    {
+      "title": "Журналист: Заподозреният за убийството на Илиян Филипов е имал отношение към поръчкови убийства",
+      "url": "https://dariknews.bg/novini/bylgariia/zhurnalist-zapodozreniiat-za-ubijstvoto-na-iliian-filipov-e-imal-otnoshenie-kym-porychkovi-ubijstva-2467875",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Чаушев вече не е зам.-кмет по транспорта, кметът Терзиев временно поема ресора",
       "url": "https://dariknews.bg/regioni/sofiia/chaushev-veche-ne-e-zam.-kmet-po-transporta-kmetyt-terziev-vremenno-poema-resora-2467874",
@@ -20,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/testvat-bg-alert-v-cialata-strana-2467635",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50943/50943542/991-ratio-bg-alert.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Тръмп иска да наложи евентуална забрана за износа на дизел",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389683/991-ratio-flajdubaj.jpg"
     },
     {
-      "title": "Вълнуващ обрат класира Мартин и Николета за следващия етап на звездната надпревара в „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/vylnuvasht-obrat-klasira-martin-i-nikoleta-za-sledvashtiia-etap-na-zvezdnata-nadprevara-v-igri-na-voliata-2467865",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389676/991-ratio-igri.jpg"
+      "title": "В Испания възхитени: Хулио Веласкес покори България 01 Окт | 08:25",
+      "url": "https://dsport.bg/hulio-velaskes-levski-trenior-na-sezona-shampion-bulgaria~241134.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1031294.og.jpg"
     },
     {
       "title": "Ответен удар: спонсор на Манчестър Сити започва съдебно дело срещу Висшата лига 01 Окт | 08:11",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1032002.og.jpg"
-    },
-    {
-      "title": "Олисе подписва нов договор с Байерн при едно условие 30 Сеп | 21:09",
-      "url": "https://dsport.bg/olise-podpisva-nov-dogovor-s-baiern-pri-edno-uslovie~241124.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276578878-1.og.jpg"
     }
   ]
 }
