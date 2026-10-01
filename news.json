@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-01T12:48:02.777640+00:00",
+  "updated": "2026-10-01T13:03:30.906515+00:00",
   "articles": [
     {
-      "title": "Засилени мерки за сигурност заради посрещането на тленните останки на цар Самуил в София",
-      "url": "https://dariknews.bg/regioni/sofiia/zasileni-merki-za-sigurnost-zaradi-posreshtaneto-na-tlennite-ostanki-na-car-samuil-v-sofiia-2467938",
+      "title": "Спиращи дъха гледки в новия епизод на „Свобода на колела“",
+      "url": "https://dariknews.bg/novini/liubopitno/spirashti-dyha-gledki-v-noviia-epizod-na-svoboda-na-kolela-2467939",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389451/991-ratio-car-samuil.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389946/991-ratio-svoboda-na-kolela.jpg"
+    },
+    {
+      "title": "„Да им върнем Гоце Делчев с дрон“, „грозна демонстрация на сила“: Остри реакции от Скопие за връщането цар Самуил",
+      "url": "https://dariknews.bg/novini/bylgariia/da-im-vyrnem-goce-delchev-s-dron-grozna-demonstraciia-na-sila-ostri-reakcii-ot-skopie-za-vryshtaneto-car-samuil-2467940",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51030/51030093/991-ratio-bylgariia-makedoniia.jpg"
+    },
+    {
+      "title": "750 служители на крак и ограничено движение при посрещането на тленните останки на цар Самуил в София",
+      "url": "https://dariknews.bg/regioni/sofiia/750-sluzhiteli-na-krak-i-ogranicheno-dvizhenie-pri-posreshtaneto-na-tlennite-ostanki-na-car-samuil-v-sofiia-2467938",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Газът поскъпва с близо 6% през октомври",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
     },
     {
-      "title": "Асен Ненчев е новият изпълнителен директор на Българската агенция за инвестиции",
-      "url": "https://dariknews.bg/novini/bylgariia/asen-nenchev-e-noviiat-izpylnitelen-direktor-na-bylgarskata-agenciia-za-investicii-2467918",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389881/991-ratio-asen-nenchev.jpg"
-    },
-    {
-      "title": "Историк: 1 октомври 1940 г. е знаменателен ден за Силистра",
-      "url": "https://dariknews.bg/novini/liubopitno/istorik-1-oktomvri-1940-g.-e-znamenatelen-den-za-silistra-2467919",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389883/991-ratio-istorikyt-ivan-zanov.jpg"
+      "title": "Ясно е кой взима №7 на Роналдо в Португалия 01 Окт | 15:55",
+      "url": "https://dsport.bg/asno-e-koi-vzima-7-na-ronaldo-v-portugalia~241161.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296971233.og.jpg"
     },
     {
       "title": "Торо: Десетилетия проблемите са замитани под килима, трябва да започнем начисто (ВИДЕО) 01 Окт | 15:42",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1235018635.og.jpg"
-    },
-    {
-      "title": "Конвоираха в Пловдив заподозрения за убийството на Илиян Филипов 01 Окт | 14:11",
-      "url": "https://dsport.bg/konvoiraha-v-plovdiv-zapodozrenia-za-ubiistvoto-na-ilian-filipov~241152.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/megera.png.og.webp"
     }
   ]
 }
