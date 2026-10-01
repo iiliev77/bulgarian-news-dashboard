@@ -1,26 +1,47 @@
 {
-  "updated": "2026-10-01T09:04:26.792530+00:00",
+  "updated": "2026-10-01T09:24:18.399326+00:00",
   "articles": [
     {
-      "title": "Дърво се стовари върху мъж и жена в Морската градина във Варна",
-      "url": "https://dariknews.bg/regioni/varna/dyrvo-se-stovari-vyrhu-myzh-i-zhena-v-morskata-gradina-vyv-varna-2467904",
+      "title": "От „Като две капки вода“ до „Пееш или лъжеш“: Даниел Пеев - Дънди в търсене на истинския талант",
+      "url": "https://dariknews.bg/novini/liubopitno/ot-kato-dve-kapki-voda-do-peesh-ili-lyzhesh-daniel-peev-dyndi-v-tyrsene-na-istinskiia-talant-2467909",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389809/991-ratio-dyndi.jpg"
     },
     {
-      "title": "Как Моника Белучи поддържа форма на 62: Нейната изненадваща рецепта",
-      "url": "https://dariknews.bg/novini/liubopitno/kak-monika-beluchi-poddyrzha-forma-na-62-nejnata-iznenadvashta-recepta-2467905",
+      "title": "Кокаин и над 3 промила: Трима шофьори с обвинения в Софийско",
+      "url": "https://dariknews.bg/regioni/sofiia/kokain-i-nad-3-promila-trima-shofiori-s-obvineniia-v-sofijsko-2467908",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51163/51163595/991-ratio-piian-shofior.jpg"
+    },
+    {
+      "title": "Подутина, която прилича на тумор, се оказа рядка инфекция: Бургаски лекари разгадаха мистериозен случай",
+      "url": "https://dariknews.bg/regioni/burgas/podutina-koiato-prilicha-na-tumor-se-okaza-riadka-infekciia-burgaski-lekari-razgadaha-misteriozen-sluchaj-2467907",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389802/991-ratio-burgas-operaciia.jpg"
+    },
+    {
+      "title": "Обвиниха мъж за брутална принуда във Видин: Заплашвал жертвите с пистолет и нож за имоти",
+      "url": "https://dariknews.bg/regioni/vidin/obviniha-myzh-za-brutalna-prinuda-vyv-vidin-zaplashval-zhertvite-s-pistolet-i-nozh-za-imoti-2467906",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
+    },
+    {
+      "title": "Дърво се стовари върху мъж и жена в Морската градина във Варна (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/varna/dyrvo-se-stovari-vyrhu-myzh-i-zhena-v-morskata-gradina-vyv-varna-snimki-2467904",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389815/991-ratio-dyrvo-padna-vyv-varna.jpg"
+    },
+    {
+      "title": "Как Моника Белучи поддържа форма на 62: Нейната изненадваща рецепта (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/kak-monika-beluchi-poddyrzha-forma-na-62-nejnata-iznenadvashta-recepta-snimki-2467905",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389796/991-ratio-monika-beluchi.jpg"
-    },
-    {
-      "title": "Без срам от Бога: Мъж разби църква за шепа монети в Благоевградско",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/bez-sram-ot-boga-myzh-razbi-cyrkva-za-shepa-moneti-v-blagoevgradsko-2467903",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50807/50807592/991-ratio-kryst-cyrkva-religiia.jpg"
     },
     {
       "title": "Прокурорският син остава в ареста, наложиха му глоба от 250 евро, защото не си е свалил качулката в съда",
@@ -28,6 +49,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51080/51080391/991-ratio-vasil-mihajlov.jpg"
+    },
+    {
+      "title": "Без срам от Бога: Мъж разби църква за шепа монети в Благоевградско",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/bez-sram-ot-boga-myzh-razbi-cyrkva-za-shepa-moneti-v-blagoevgradsko-2467903",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50807/50807592/991-ratio-kryst-cyrkva-religiia.jpg"
     },
     {
       "title": "„Нежелани във Франция, неприети и у дома“: Българският квартал във френски град е под ударите на нови ограничения",
@@ -112,34 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389663/991-ratio-slavcho-megerov.jpg"
-    },
-    {
-      "title": "Млад мъж преби приятелката си в Шуменско",
-      "url": "https://dariknews.bg/regioni/shumen/mlad-myzh-prebi-priiatelkata-si-v-shumensko-2467888",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036745/991-ratio-domashno-nasilie.jpg"
-    },
-    {
-      "title": "Бъдете внимателни и не давайте пари на непознати: Ало измамници атакуват жители на Кърджали",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/bydete-vnimatelni-i-ne-davajte-pari-na-nepoznati-alo-izmamnici-atakuvat-zhiteli-na-kyrdzhali-2467886",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50704/50704163/991-ratio-telefon.jpg"
-    },
-    {
-      "title": "Нов модел за яслите: Медицинските сестри няма да са задължителни във всяка група",
-      "url": "https://dariknews.bg/regioni/sofiia/nov-model-za-iaslite-medicinskite-sestri-niama-da-sa-zadylzhitelni-vyv-vsiaka-grupa-2467889",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51064/51064719/991-ratio-detska-iasla.jpg"
-    },
-    {
-      "title": "Определиха съдия Ваня Анчева за временно изпълняващ функциите председател на ВАС",
-      "url": "https://dariknews.bg/novini/bylgariia/opredeliha-sydiia-vania-ancheva-za-vremenno-izpylniavasht-funkciite-predsedatel-na-vas-2467885",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51164/51164441/991-ratio-vas-vyrhoven-administrativen.jpg"
     },
     {
       "title": "Германец отрече завръщане в ЦСКА 01 Окт | 11:59",
