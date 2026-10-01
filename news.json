@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-01T14:09:26.137995+00:00",
+  "updated": "2026-10-01T14:29:27.982958+00:00",
   "articles": [
+    {
+      "title": "Оставиха в ареста обвиняемия за катастрофата в Мездра, при която загинаха двама души",
+      "url": "https://dariknews.bg/regioni/vraca/ostaviha-v-aresta-obviniaemiia-za-katastrofata-v-mezdra-pri-koiato-zaginaha-dvama-dushi-2467956",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Мъж е обвинен за насилие над дете при домашен тормоз в Монтанско",
+      "url": "https://dariknews.bg/regioni/montana/myzh-e-obvinen-za-nasilie-nad-dete-pri-domashen-tormoz-v-montansko-2467953",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
+    },
     {
       "title": "Агенция „Митници“ отчете рекордни приходи за деветмесечието",
       "url": "https://dariknews.bg/novini/bylgariia/agenciia-mitnici-otchete-rekordni-prihodi-za-devetmesechieto-2467952",
@@ -13,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do-6-oktomvri-2467948",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390004/991-ratio-pejka-na-pokoleniiata-sybra-vyzrastni-hora-s-prezidenta-na-dondukov.jpg"
+      "image": "https://m.netinfo.bg/media/images/51390/51390030/991-ratio-pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do.jpg"
     },
     {
       "title": "Сеновал с 60 тона слама се запали в кравеферма в Хасковско (СНИМКИ)",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389923/991-ratio-razkriha-nezakonna-klanica-v-simeonovgrad.jpg"
     },
     {
-      "title": "Протест пред Министерския съвет заради реставрацията на Паметника на Шипка",
-      "url": "https://dariknews.bg/novini/bylgariia/protest-pred-ministerskiia-syvet-zaradi-restavraciiata-na-pametnika-na-shipka-2467930",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389892/991-ratio-shipka-pametnik-remont.jpg"
+      "title": "Проблем за Барселона: УЕФА отвори отново „Негрейра“ след 50 000 страници от Реал Мадрид 01 Окт | 17:22",
+      "url": "https://dsport.bg/problem-za-barselona-uefa-otvori-otnovo-negreira-sled-50-000-stranici-ot-real-madrid~241166.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2270265037.og.jpg"
     },
     {
-      "title": "Новите жилищни кредити в еврозоната достигнаха 3,60% лихва",
-      "url": "https://dariknews.bg/novini/biznes/novite-zhilishtni-krediti-v-evrozonata-dostignaha-360-lihva-2467928",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50694/50694123/991-ratio-ruse-obshtinski-zhilishta.jpg"
+      "title": "Алкарас започна с трудна победа в Токио, доста изненади в първия кръг 01 Окт | 17:13",
+      "url": "https://dsport.bg/alkaras-zapochna-s-trudna-pobeda-v-tokio-dosta-iznenadi-v-parvia-krag~241165.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297883048.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик - 01.10.2026 г. 01 Окт | 17:00",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/980740.og.jpg"
-    },
-    {
-      "title": "SLYBET разширява присъствието си в спорта с партньорство със Суперкупата по баскетбол 01 Окт | 14:51",
-      "url": "https://dsport.bg/slybet-razshirava-prisastvieto-si-v-sporta-s-partnorstvo-sas-superkupata-po-basketbol~241156.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/dsport-640x360.og.png"
-    },
-    {
-      "title": "Слави Ангелов: Убийството на Илиян Филипов и участието на Мегеров са смущаващо предизвестени 01 Окт | 14:48",
-      "url": "https://dsport.bg/slavi-angelov-ubiistvoto-na-ilian-filipov-i-uchastieto-na-megerov-sa-smustavasto-predizvesteni~241155.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/aceab37b-8466-4d40-a116-0673c14ecc7e.og.jfif"
     }
   ]
 }
