@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-01T07:02:01.736860+00:00",
+  "updated": "2026-10-01T07:21:46.142668+00:00",
   "articles": [
+    {
+      "title": "Млад мъж преби приятелката си в Шуменско",
+      "url": "https://dariknews.bg/regioni/shumen/mlad-myzh-prebi-priiatelkata-si-v-shumensko-2467888",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51036/51036745/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Бъдете внимателни и не давайте пари на непознати: Ало измамници атакуват жители на Кърджали",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/bydete-vnimatelni-i-ne-davajte-pari-na-nepoznati-alo-izmamnici-atakuvat-zhiteli-na-kyrdzhali-2467886",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50704/50704163/991-ratio-telefon.jpg"
+    },
+    {
+      "title": "Определиха съдия Ваня Анчева за временно изпълняващ функциите председател на ВАС",
+      "url": "https://dariknews.bg/novini/bylgariia/opredeliha-sydiia-vania-ancheva-za-vremenno-izpylniavasht-funkciite-predsedatel-na-vas-2467885",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51164/51164441/991-ratio-vas-vyrhoven-administrativen.jpg"
+    },
     {
       "title": "Откриха починал човек в района на Комините на Витоша",
       "url": "https://dariknews.bg/regioni/sofiia/otkriha-pochinal-chovek-v-rajona-na-kominite-na-vitosha-2467884",
@@ -9,11 +30,11 @@
       "image": "https://m.netinfo.bg/media/images/51210/51210437/991-ratio-vitosha.jpg"
     },
     {
-      "title": "Шофьор на камион блъсна патрулка и кола на Околовръстния път в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/shofior-na-kamion-blysna-patrulka-i-kola-na-okolovrystniia-pyt-v-stara-zagora-2467883",
+      "title": "„Бях сигурна, че ще умра“: Пътници и екипаж предотвратиха трагедия на борда на самолет на Flydubai",
+      "url": "https://dariknews.bg/novini/sviat/biah-sigurna-che-shte-umra-pytnici-i-ekipazh-predotvratiha-tragediia-na-borda-na-samolet-na-flydubai-2467887",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375937/991-ratio-policiia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51389/51389407/991-ratio-samolet.jpg"
     },
     {
       "title": "„Медийни потоци“ и „басейни“: Скандал в парламента заради изказване на Слави Василев",
@@ -21,6 +42,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389736/991-ratio-slavi-vasilev.jpg"
+    },
+    {
+      "title": "Шофьор на камион блъсна патрулка и кола на Околовръстния път в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/shofior-na-kamion-blysna-patrulka-i-kola-na-okolovrystniia-pyt-v-stara-zagora-2467883",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375937/991-ratio-policiia.jpg"
     },
     {
       "title": "Животни само на хартия: МВР разби схема за 70 000 евро с пасища и ливади",
@@ -114,39 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
     },
     {
-      "title": "Демерджиев: Убедени сме, че сме задържали извършителя на убийството в Пловдив (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-ubedeni-sme-che-sme-zadyrzhali-izvyrshitelia-na-ubijstvoto-v-plovdiv-na-zhivo-2467869",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Войни и глобални кризи: Какви бяха посланията на световните лидери от трибуната на ООН",
-      "url": "https://dariknews.bg/novini/sviat/vojni-i-globalni-krizi-kakvi-biaha-poslaniiata-na-svetovnite-lideri-ot-tribunata-na-oon-2467722",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036600/991-ratio-oon.jpg"
-    },
-    {
-      "title": "Унгарска звезда имитира Дара и „Бангаранга“ в аналог на „Като две капки вода”",
-      "url": "https://dariknews.bg/novini/liubopitno/ungarska-zvezda-imitira-dara-i-bangaranga-v-analog-na-kato-dve-kapki-voda-2467864",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389667/991-ratio-imitaciia-dara.jpg"
-    },
-    {
-      "title": "Съдът взе решение за закриване на турски новинарски сайт заради съдържание на ЛГБТИ тематика",
-      "url": "https://dariknews.bg/novini/sviat/sydyt-vze-reshenie-za-zakrivane-na-turski-novinarski-sajt-zaradi-sydyrzhanie-na-lgbti-tematika-2467862",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50722/50722197/991-ratio-mediia-novini.jpg"
-    },
-    {
       "title": "Иван Демерджиев: Нямаме съмнение, че сме задържали физическия убиец на Илиян Филипов 01 Окт | 09:53",
       "url": "https://dsport.bg/ivan-demerdziev-namame-samnenie-che-sme-zadarzali-fizicheskia-ubiec-na-ilian-filipov~241138.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-1320-.og.png"
+      "image": "https://dsport.bg/media/384/04c1da87-0ce7-412e-b434-e429de78b4fb.og.jfif"
     },
     {
       "title": "Българският диамант в Милан получи нова висока оценка 01 Окт | 09:18",
