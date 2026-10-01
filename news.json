@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T15:49:51.515568+00:00",
+  "updated": "2026-10-01T16:00:42.605425+00:00",
   "articles": [
+    {
+      "title": "Бюджетът е на дефицит от 3,6 млрд. евро към края на септември",
+      "url": "https://dariknews.bg/novini/bylgariia/biudzhetyt-e-na-deficit-ot-36-mlrd.-evro-kym-kraia-na-septemvri-2467963",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50778/50778390/991-ratio-ministerstvo-na-finansite.jpg"
+    },
     {
       "title": "Предупредиха за нови валежи в Царево: Активират BG-Alert",
       "url": "https://dariknews.bg/regioni/burgas/preduprediha-za-novi-valezhi-v-carevo-aktivirat-bg-alert-2467962",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51030/51030093/991-ratio-bylgariia-makedoniia.jpg"
     },
     {
-      "title": "750 служители на крак и ограничено движение при посрещането на мощите на цар Самуил в София",
-      "url": "https://dariknews.bg/regioni/sofiia/750-sluzhiteli-na-krak-i-ogranicheno-dvizhenie-pri-posreshtaneto-na-moshtite-na-car-samuil-v-sofiia-2467938",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Черно море Navibulgar обяви нов силен партньор 01 Окт | 18:55",
+      "url": "https://dsport.bg/cherno-more-navibulgar-obavi-nov-silen-partnor~241174.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/image-19-~1.og.png"
     },
     {
       "title": "Владо Николов катастрофира в центъра на София 01 Окт | 18:47",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-10-01_17-03-22-266.og.png"
-    },
-    {
-      "title": "Ексклузивно Груев-старши пред Дарик и Dsport: Гиздол е с аналитичен ум, знае как се работи под напрежение 01 Окт | 16:40",
-      "url": "https://dsport.bg/gruev-starshi-pred-darik-i-dsport-gizdol-e-s-analitichen-um-znae-kak-se-raboti-pod-naprezenie~241163.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2241658302.og.jpg"
     }
   ]
 }
