@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-01T13:40:55.421096+00:00",
+  "updated": "2026-10-01T13:55:47.008695+00:00",
   "articles": [
     {
-      "title": "„Пейка на поколенията“ събра различни възрасти пред президентската институция до 6 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/pejka-na-pokoleniiata-sybra-razlichni-vyzrasti-pred-prezidentskata-instituciia-do-6-oktomvri-2467948",
+      "title": "„Пейка на поколенията“ събира различни възрасти пред президентската институция до 6 октомври",
+      "url": "https://dariknews.bg/novini/bylgariia/pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do-6-oktomvri-2467948",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390004/991-ratio-pejka-na-pokoleniiata-sybra-vyzrastni-hora-s-prezidenta-na-dondukov.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/40984/40984514/991-ratio-izchisleniia-taksi-danyci.jpg"
     },
     {
+      "title": "Ексклузивно Груев-старши пред Дарик и Dsport: Гиздол е с аналитичен ум, знае как се работи под напрежение 01 Окт | 16:40",
+      "url": "https://dsport.bg/gruev-starshi-pred-darik-i-dsport-gizdol-e-s-analitichen-um-znae-kak-se-raboti-pod-naprezenie~241163.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2241658302.og.jpg"
+    },
+    {
       "title": "Ново огромно признание за Меси - правят го доктор 01 Окт | 16:16",
       "url": "https://dsport.bg/novo-ogromno-priznanie-za-mesi-pravat-go-doktor~241162.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/site-174.og.webp"
-    },
-    {
-      "title": "Манчини пак остави голяма група извън състава на Италия 01 Окт | 14:37",
-      "url": "https://dsport.bg/manchini-ostavi-devet-igachi-izvan-sastava-na-italia-za-macha-s-francia~241146.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297604575.og.jpg"
     }
   ]
 }
