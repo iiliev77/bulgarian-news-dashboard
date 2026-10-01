@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-01T07:21:46.142668+00:00",
+  "updated": "2026-10-01T07:38:00.206346+00:00",
   "articles": [
+    {
+      "title": "Отмениха концертите на Кание Уест в Русия, разследват измама",
+      "url": "https://dariknews.bg/novini/liubopitno/otmeniha-koncertite-na-kanie-uest-v-rusiia-razsledvat-izmama-2467892",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51258/51258415/991-ratio-kanie-uest.jpg"
+    },
+    {
+      "title": "Пеевски: Цените хвърчат, отидоха в Космоса, където Демерджиев трябваше да отиде",
+      "url": "https://dariknews.bg/novini/bylgariia/peevski-cenite-hvyrchat-otidoha-v-kosmosa-kydeto-demerdzhiev-triabvashe-da-otide-2467891",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355235/991-ratio-demerdzhiev-peevski.jpg"
+    },
+    {
+      "title": "Злато, въоръжени грабежи и присъда за убийство: Криминалното минало на Славчо Мегеров",
+      "url": "https://dariknews.bg/novini/bylgariia/zlato-vyoryzheni-grabezhi-i-prisyda-za-ubijstvo-kriminalnoto-minalo-na-slavcho-megerov-2467890",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389663/991-ratio-slavcho-megerov.jpg"
+    },
     {
       "title": "Млад мъж преби приятелката си в Шуменско",
       "url": "https://dariknews.bg/regioni/shumen/mlad-myzh-prebi-priiatelkata-si-v-shumensko-2467888",
@@ -14,6 +35,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50704/50704163/991-ratio-telefon.jpg"
+    },
+    {
+      "title": "Променят модела на яслите: Предлагат да преминат от здравното към образователното министерство",
+      "url": "https://dariknews.bg/regioni/sofiia/promeniat-modela-na-iaslite-predlagat-da-preminat-ot-zdravnoto-kym-obrazovatelnoto-ministerstvo-2467889",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51064/51064719/991-ratio-detska-iasla.jpg"
     },
     {
       "title": "Определиха съдия Ваня Анчева за временно изпълняващ функциите председател на ВАС",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
     },
     {
-      "title": "Тестват BG-ALERT в цялата страна",
-      "url": "https://dariknews.bg/novini/bylgariia/testvat-bg-alert-v-cialata-strana-2467635",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Тръмп иска да наложи евентуална забрана за износа на дизел",
-      "url": "https://dariknews.bg/novini/sviat/trymp-iska-da-nalozhi-eventualna-zabrana-za-iznosa-na-dizel-2467872",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384485/991-ratio-donald-trymp.jpg"
-    },
-    {
-      "title": "Германия понижи за втори път тази година акциза на горивата",
-      "url": "https://dariknews.bg/novini/sviat/germaniia-ponizhi-za-vtori-pyt-tazi-godina-akciza-na-gorivata-2467871",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51296/51296559/991-ratio-gorivo-benzinostanciia-dizel.jpg"
-    },
-    {
-      "title": "Тръмп поиска обяснение защо Великобритания освободи заподозрените за заговор срещу база на САЩ",
-      "url": "https://dariknews.bg/novini/sviat/trymp-poiska-obiasnenie-zashto-velikobritaniia-osvobodi-zapodozrenite-za-zagovor-sreshtu-baza-na-sasht-2467870",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
+      "title": "„Аз командвам тук“: репликата, която вбеси Кристиано Роналдо 01 Окт | 10:26",
+      "url": "https://dsport.bg/az-komandvam-tuk-replikata-koato-adosa-kristiano-ronaldo~241139.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297064782~1.og.jpg"
     },
     {
       "title": "Иван Демерджиев: Нямаме съмнение, че сме задържали физическия убиец на Илиян Филипов 01 Окт | 09:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297622927.og.jpg"
-    },
-    {
-      "title": "Сестрата на Роналдо: Португалците не заслужават да имат най-доброто в каквото и да било 30 Сеп | 22:54",
-      "url": "https://dsport.bg/sestrata-na-ronaldo-portugalcite-ne-zasluzavat-da-imat-nai-dobroto-v-kakvoto-i-da-bilo~241129.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297435842~1.og.jpg"
     }
   ]
 }
