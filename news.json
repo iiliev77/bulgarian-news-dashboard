@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T19:59:21.640948+00:00",
+  "updated": "2026-10-01T20:15:05.602495+00:00",
   "articles": [
+    {
+      "title": "Тръмп: Иран може да стои зад опита за покушение на полета на „Флайдубай“",
+      "url": "https://dariknews.bg/novini/sviat/trymp-iran-mozhe-da-stoi-zad-opita-za-pokushenie-na-poleta-na-flajdubaj-2467976",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384485/991-ratio-donald-trymp.jpg"
+    },
     {
       "title": "България постави случая на Ива Михайлова пред Съвета на Европа",
       "url": "https://dariknews.bg/novini/bylgariia/bylgariia-postavi-sluchaia-na-iva-mihajlova-pred-syveta-na-evropa-2467975",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
     },
     {
-      "title": "Агенция „Митници“ отчете рекордни приходи за деветмесечието",
-      "url": "https://dariknews.bg/novini/bylgariia/agenciia-mitnici-otchete-rekordni-prihodi-za-devetmesechieto-2467952",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386965/991-ratio-marihuana.jpg"
+      "title": "След загуба от Гамбия и Санянг - Кейрош подаде оставка 01 Окт | 23:03",
+      "url": "https://dsport.bg/sled-zaguba-ot-gambia-i-sanang-keirosh-podade-ostavka~241191.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2283612727~1.og.jpg"
     },
     {
       "title": "Реал Мадрид следи английски национал 01 Окт | 22:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1033875~1.og.jpg"
-    },
-    {
-      "title": "Затишие в Левски по време на международната пауза (ВИДЕО) 01 Окт | 20:15",
-      "url": "https://dsport.bg/zatishie-v-levski-po-vreme-na-mezdunarodnata-pauza-video~241181.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/komentarno-alpha-11-~1.og.png"
     }
   ]
 }
