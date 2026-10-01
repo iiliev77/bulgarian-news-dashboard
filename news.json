@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-01T09:39:29.100387+00:00",
+  "updated": "2026-10-01T09:54:24.742948+00:00",
   "articles": [
+    {
+      "title": "Осъдена за убийство оцеля след две смъртоносни инжекции в Тенеси",
+      "url": "https://dariknews.bg/novini/sviat/osydena-za-ubijstvo-ocelia-sled-dve-smyrtonosni-inzhekcii-v-tenesi-2467912",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45622/45622035/991-ratio-smyrtna-prisyda-inzhekciia-smyrtonosna-inzhekciia.jpg"
+    },
+    {
+      "title": "Десетки села в Южна България под карантина заради шарка по овцете и козите",
+      "url": "https://dariknews.bg/regioni/haskovo/desetki-sela-v-iuzhna-bylgariia-pod-karantina-zaradi-sharka-po-ovcete-i-kozite-2467913",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
+    },
     {
       "title": "НС реши: Услугата по издаване на удостоверение за електронна идентичност вече ще е безплатна",
       "url": "https://dariknews.bg/novini/bylgariia/ns-reshi-uslugata-po-izdavane-na-udostoverenie-za-elektronna-identichnost-veche-shte-e-bezplatna-2467911",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/49680/49680072/991-ratio-dzhim-keri.jpg"
-    },
-    {
-      "title": "Спецакция срещу дрогата в Старозагорско: Задържаха мъж и жена (СНИМКА)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/specakciia-sreshtu-drogata-v-starozagorsko-zadyrzhaha-myzh-i-zhena-snimka-2467895",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Отмениха концертите на Кание Уест в Русия, разследват измама",
-      "url": "https://dariknews.bg/novini/liubopitno/otmeniha-koncertite-na-kanie-uest-v-rusiia-razsledvat-izmama-2467892",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51258/51258415/991-ratio-kanie-uest.jpg"
     },
     {
       "title": "Нежелан и у дома: Швейцария оттегли подкрепата към Инфантино 01 Окт | 12:30",
