@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T11:04:59.839191+00:00",
+  "updated": "2026-10-01T11:22:29.613275+00:00",
   "articles": [
+    {
+      "title": "Светлин Ненов е новият зам.-кмет на София по дигитализация и иновации",
+      "url": "https://dariknews.bg/regioni/sofiia/svetlin-nenov-e-noviiat-zam.-kmet-na-sofiia-po-digitalizaciia-i-inovacii-2467926",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51259/51259259/991-ratio-stolichna-obshtina.jpg"
+    },
     {
       "title": "„Много положителен знак“: Кремъл похвали позицията на Румен Радев за диалог с Русия",
       "url": "https://dariknews.bg/novini/sviat/mnogo-polozhitelen-znak-kremyl-pohvali-poziciiata-na-rumen-radev-za-dialog-s-rusiia-2467925",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389802/991-ratio-burgas-operaciia.jpg"
     },
     {
-      "title": "Обвиниха мъж за брутална принуда във Видин: Заплашвал жертвите с пистолет и нож за имоти",
-      "url": "https://dariknews.bg/regioni/vidin/obviniha-myzh-za-brutalna-prinuda-vyv-vidin-zaplashval-zhertvite-s-pistolet-i-nozh-za-imoti-2467906",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
+      "title": "Нападател с гол срещу Италия се върна в националния отбор 01 Окт | 14:21",
+      "url": "https://dsport.bg/napadatel-s-gol-srestu-italia-se-varna-v-nacionalnia-otbor~241153.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1235018635.og.jpg"
+    },
+    {
+      "title": "Конвоираха в Пловдив заподозрения за убийството на Илиян Филипов 01 Окт | 14:11",
+      "url": "https://dsport.bg/konvoiraha-v-plovdiv-zapodozrenia-za-ubiistvoto-na-ilian-filipov~241152.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/megera.png.og.webp"
     },
     {
       "title": "Тъжният край на една велика история! 01 Окт | 13:55",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/9e4e9709c99afcd6fe63cf9602d8319b.image.960x720~1.og.png"
-    },
-    {
-      "title": "Кога ще се завърне Акрам Бурас? 01 Окт | 11:38",
-      "url": "https://dsport.bg/koga-ste-se-zavarne-akram-buras~241143.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1005797.og.jpg"
-    },
-    {
-      "title": "Министър Демерджиев: Никога не съм бил юридически представител на Филипов 01 Окт | 11:27",
-      "url": "https://dsport.bg/ministar-demerdziev-nikoga-ne-sam-bil-uridicheski-predstavitel-na-filipov~241142.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1000057342-14.l.og.jpg"
     }
   ]
 }
