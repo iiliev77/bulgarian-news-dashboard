@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T18:41:28.647243+00:00",
+  "updated": "2026-10-01T18:56:23.204008+00:00",
   "articles": [
+    {
+      "title": "Мъж ухапа стюардеса и пътничка по време на полет",
+      "url": "https://dariknews.bg/novini/sviat/myzh-uhapa-stiuardesa-i-pytnichka-po-vreme-na-polet-2467973",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390101/991-ratio-stiuardesa.jpg"
+    },
     {
       "title": "ЕК прекрати наказателна процедура срещу България",
       "url": "https://dariknews.bg/novini/bylgariia/ek-prekrati-nakazatelna-procedura-sreshtu-bylgariia-2467971",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389985/991-ratio-pozhar-konush.jpg"
     },
     {
-      "title": "Отложиха делото за жестокото убийство на 20-годишния Мариян Пасков в Кула (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/otlozhiha-deloto-za-zhestokoto-ubijstvo-na-20-godishniia-mariian-paskov-v-kula-snimki-2467946",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389986/991-ratio-deloto-za-ubijstvoto-na-mariian-paskov.jpg"
+      "title": "Гидженов ще ръководи мач в Лигата на нациите 01 Окт | 21:51",
+      "url": "https://dsport.bg/gidzenov-ste-rakovodi-mach-v-ligata-na-naciite~241187.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/951426-1.og.jpg"
     },
     {
       "title": "Реал Мадрид бе близо до голям обрат, но Апоел спечели зрелището в София 01 Окт | 21:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297062847.og.jpg"
-    },
-    {
-      "title": "Зверев тръгна с успех в Пекин, Коболи е аут 01 Окт | 19:20",
-      "url": "https://dsport.bg/zverev-tragna-s-uspeh-v-pekin-koboli-e-aut~241172.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298036351.og.jpg"
     }
   ]
 }
