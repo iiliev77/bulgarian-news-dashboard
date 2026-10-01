@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-01T08:23:00.260957+00:00",
+  "updated": "2026-10-01T08:39:46.446641+00:00",
   "articles": [
+    {
+      "title": "Горивата у нас поскъпват: Бензинът с 6,3%, дизелът с 4,4% за месец",
+      "url": "https://dariknews.bg/novini/bylgariia/gorivata-u-nas-poskypvat-benzinyt-s-63-dizelyt-s-44-za-mesec-2467899",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51304/51304141/991-ratio-gorivo.jpg"
+    },
+    {
+      "title": "SOS Разтребители“ влизат в изоставена химическа лаборатория",
+      "url": "https://dariknews.bg/novini/liubopitno/sos-raztrebiteli-vlizat-v-izostavena-himicheska-laboratoriia-2467898",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389769/991-ratio-sos-raztrebiteli.jpg"
+    },
     {
       "title": "Израелският президент ще награди четирима пътници от полета на Flydubai, които предотвратиха катастрофа",
       "url": "https://dariknews.bg/novini/sviat/izraelskiiat-prezident-shte-nagradi-chetirima-pytnici-ot-poleta-na-flydubai-koito-predotvratiha-katastrofa-2467897",
@@ -23,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389758/991-ratio-vlak-orient-ekspres.jpg"
     },
     {
-      "title": "След два брака: Джим Кери отново е женен",
-      "url": "https://dariknews.bg/novini/liubopitno/sled-dva-braka-dzhim-keri-otnovo-e-zhenen-2467893",
+      "title": "След два развода: Джим Кери отново е женен",
+      "url": "https://dariknews.bg/novini/liubopitno/sled-dva-razvoda-dzhim-keri-otnovo-e-zhenen-2467893",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/49680/49680072/991-ratio-dzhim-keri.jpg"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50855/50855693/991-ratio-izmama-vyzrastna-zhena-pensionerka.jpg"
     },
     {
-      "title": "Мъже си платиха таксито с фалшиво евро във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/myzhe-si-platiha-taksito-s-falshivo-evro-vyv-velikotyrnovsko-2467879",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307840/991-ratio-evro.jpg"
-    },
-    {
-      "title": "Крис и Мария от „Игри на волята“ с ексклузивно интервю в „След Игрите Podcast“ (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/kris-i-mariia-ot-igri-na-voliata-s-ekskluzivno-interviu-v-sled-igrite-podcast-video-2467878",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Министър Демерджиев: Никога не съм бил юридически представител на Филипов 01 Окт | 11:27",
+      "url": "https://dsport.bg/ministar-demerdziev-nikoga-ne-sam-bil-uridicheski-predstavitel-na-filipov~241142.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1000057342-14.l.og.jpg"
     },
     {
       "title": "Кристиано Роналдо пред сурово наказание заради бягството си 01 Окт | 10:59",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-545932862.og.jpg"
-    },
-    {
-      "title": "Балкан започна със загуба дебютното си участие в Еврокъп 30 Сеп | 23:44",
-      "url": "https://dsport.bg/balkan-zapochna-sas-zaguba-debutnoto-si-uchastie-v-evrokap~241131.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/828888224_1389175859870041_5570443781975506408_n.og.jpg"
     }
   ]
 }
