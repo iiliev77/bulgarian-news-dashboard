@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-01T08:02:18.957346+00:00",
+  "updated": "2026-10-01T08:23:00.260957+00:00",
   "articles": [
     {
-      "title": "Легендарният влак Ориент експрес пристигна в Истанбул",
-      "url": "https://dariknews.bg/novini/liubopitno/legendarniiat-vlak-orient-ekspres-pristigna-v-istanbul-2467894",
+      "title": "Израелският президент ще награди четирима пътници от полета на Flydubai, които предотвратиха катастрофа",
+      "url": "https://dariknews.bg/novini/sviat/izraelskiiat-prezident-shte-nagradi-chetirima-pytnici-ot-poleta-na-flydubai-koito-predotvratiha-katastrofa-2467897",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50463/50463182/991-ratio-ichak-hercog.jpg"
+    },
+    {
+      "title": "Демерджиев: Никой от служебното правителство на Гълъб Донев не е летял в частни самолети, за разлика от други",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nikoj-ot-sluzhebnoto-pravitelstvo-na-gylyb-donev-ne-e-letial-v-chastni-samoleti-za-razlika-ot-drugi-2467896",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51323/51323941/991-ratio-gylyb-donev.jpg"
+    },
+    {
+      "title": "Легендарният влак Ориент експрес пристигна в Истанбул (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/legendarniiat-vlak-orient-ekspres-pristigna-v-istanbul-snimki-2467894",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389758/991-ratio-vlak-orient-ekspres.jpg"
@@ -14,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/49680/49680072/991-ratio-dzhim-keri.jpg"
+    },
+    {
+      "title": "Спецакция срещу дрогата в Старозагорско: Задържаха мъж и жена (СНИМКА)",
+      "url": "https://dariknews.bg/regioni/stara-zagora/specakciia-sreshtu-drogata-v-starozagorsko-zadyrzhaha-myzh-i-zhena-snimka-2467895",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
     },
     {
       "title": "Отмениха концертите на Кание Уест в Русия, разследват измама",
@@ -121,25 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Гълъб Донев увери: Никой няма да ходи по къщите и да търси ракия, текстовете ще бъдат променени",
-      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-uveri-nikoj-niama-da-hodi-po-kyshtite-i-da-tyrsi-rakiia-tekstovete-shte-bydat-promeneni-2467877",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Започва изплащането на 50 евро компенсации за горивата",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochva-izplashtaneto-na-50-evro-kompensacii-za-gorivata-2467876",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51325/51325160/991-ratio-pensii-pari-evro-pensioner.jpg"
-    },
-    {
-      "title": "Журналист: Заподозреният за убийството на Илиян Филипов е имал отношение към поръчкови убийства",
-      "url": "https://dariknews.bg/novini/bylgariia/zhurnalist-zapodozreniiat-za-ubijstvoto-na-iliian-filipov-e-imal-otnoshenie-kym-porychkovi-ubijstva-2467875",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Кристиано Роналдо пред сурово наказание заради бягството си 01 Окт | 10:59",
+      "url": "https://dsport.bg/ronaldo-pred-surovo-nakazanie-zaradi-bagstvoto-si~241140.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297061965.og.jpg"
     },
     {
       "title": "„Аз командвам тук“: репликата, която вбеси Кристиано Роналдо 01 Окт | 10:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/828888224_1389175859870041_5570443781975506408_n.og.jpg"
-    },
-    {
-      "title": "Ирландия реши: ще играе и втория мач срещу Израел 30 Сеп | 23:21",
-      "url": "https://dsport.bg/irlandia-reshi-ste-igrae-i-vtoria-mach-srestu-izrael~241130.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297622927.og.jpg"
     }
   ]
 }
