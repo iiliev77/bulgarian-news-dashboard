@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:15:05.602495+00:00",
+  "updated": "2026-10-01T20:33:14.164991+00:00",
   "articles": [
     {
       "title": "Тръмп: Иран може да стои зад опита за покушение на полета на „Флайдубай“",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
     },
     {
+      "title": "Олимпиакос и Везенков с драматична загуба в Болоня 01 Окт | 23:23",
+      "url": "https://dsport.bg/olimpiakos-i-vezenkov-s-dramatichna-zaguba-v-bolona~241192.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/951235~2.og.jpg"
+    },
+    {
       "title": "След загуба от Гамбия и Санянг - Кейрош подаде оставка 01 Окт | 23:03",
       "url": "https://dsport.bg/sled-zaguba-ot-gambia-i-sanang-keirosh-podade-ostavka~241191.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-10-01-205601.og.png"
-    },
-    {
-      "title": "Унгарец ръководи Исландия - България 01 Окт | 20:26",
-      "url": "https://dsport.bg/ungarec-rakovodi-islandia-balgaria~241182.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1033875~1.og.jpg"
     }
   ]
 }
