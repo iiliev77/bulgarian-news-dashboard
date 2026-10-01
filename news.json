@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T13:55:47.008695+00:00",
+  "updated": "2026-10-01T14:09:26.137995+00:00",
   "articles": [
+    {
+      "title": "Агенция „Митници“ отчете рекордни приходи за деветмесечието",
+      "url": "https://dariknews.bg/novini/bylgariia/agenciia-mitnici-otchete-rekordni-prihodi-za-devetmesechieto-2467952",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386965/991-ratio-marihuana.jpg"
+    },
     {
       "title": "„Пейка на поколенията“ събира различни възрасти пред президентската институция до 6 октомври",
       "url": "https://dariknews.bg/novini/bylgariia/pejka-na-pokoleniiata-sybira-razlichni-vyzrasti-pred-prezidentskata-instituciia-do-6-oktomvri-2467948",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50694/50694123/991-ratio-ruse-obshtinski-zhilishta.jpg"
     },
     {
-      "title": "АИКБ предупреждава: Част от данъчните промени създават рискове за бизнеса",
-      "url": "https://dariknews.bg/novini/bylgariia/aikb-preduprezhdava-chast-ot-danychnite-promeni-syzdavat-riskove-za-biznesa-2467929",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/40984/40984514/991-ratio-izchisleniia-taksi-danyci.jpg"
+      "title": "Спортното шоу на Дарик - 01.10.2026 г. 01 Окт | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-01-10-2026-g~241164.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2026-10-01_17-03-22-266.og.png"
     },
     {
       "title": "Ексклузивно Груев-старши пред Дарик и Dsport: Гиздол е с аналитичен ум, знае как се работи под напрежение 01 Окт | 16:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/aceab37b-8466-4d40-a116-0673c14ecc7e.og.jfif"
-    },
-    {
-      "title": "„Всички за Илиян!“ - Ботев Пд пусна символични билети с призив за пълен стадион 01 Окт | 14:40",
-      "url": "https://dsport.bg/vsichki-za-ilian-botev-pd-pusna-simvolichni-bileti-s-priziv-za-palen-stadion~241154.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/site-174.og.webp"
     }
   ]
 }
