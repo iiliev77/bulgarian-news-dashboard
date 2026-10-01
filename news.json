@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T05:49:23.389744+00:00",
+  "updated": "2026-10-01T06:01:39.749405+00:00",
   "articles": [
+    {
+      "title": "Започва изплащането на 50 евро компенсации за горивата",
+      "url": "https://dariknews.bg/novini/bylgariia/zapochva-izplashtaneto-na-50-evro-kompensacii-za-gorivata-2467876",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51325/51325160/991-ratio-pensii-pari-evro-pensioner.jpg"
+    },
     {
       "title": "Журналист: Заподозреният за убийството на Илиян Филипов е имал отношение към поръчкови убийства",
       "url": "https://dariknews.bg/novini/bylgariia/zhurnalist-zapodozreniiat-za-ubijstvoto-na-iliian-filipov-e-imal-otnoshenie-kym-porychkovi-ubijstva-2467875",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Пътник успял да влезе в пилотската кабина по време на схватката на „Флайдубай\"",
-      "url": "https://dariknews.bg/novini/sviat/pytnik-uspial-da-vleze-v-pilotskata-kabina-po-vreme-na-shvatkata-na-flajdubaj-2467867",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389683/991-ratio-flajdubaj.jpg"
-    },
-    {
       "title": "Аржентина с голово шоу във вратата на Боливия 01 Окт | 08:42",
       "url": "https://dsport.bg/arzentina-s-golovo-shou-vav-vratata-na-bolivia~241136.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297982440.og.jpg"
+    },
+    {
+      "title": "Италия се задейства за Евро 2032, предложи 13 града и 14 стадиона 01 Окт | 08:34",
+      "url": "https://dsport.bg/italia-se-zadeistva-za-evro-2032-predlozi-14-stadiona~241135.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297109452.og.jpg"
     },
     {
       "title": "В Испания възхитени: Хулио Веласкес покори България 01 Окт | 08:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/igpahbv5dvw-hd.og.jpg"
-    },
-    {
-      "title": "Асен Митков: Горд съм с този отбор 30 Сеп | 21:25",
-      "url": "https://dsport.bg/asen-mitkov-gord-sam-s-tozi-otbor~241126.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/831542729_4524557897799124_4416783401671074762_n~1.og.jfif"
     }
   ]
 }
