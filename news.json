@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T16:33:05.729648+00:00",
+  "updated": "2026-10-01T16:47:32.975259+00:00",
   "articles": [
+    {
+      "title": "Ключове, сертификати и полицейска охрана: Как ще се пазят машините за гласуване",
+      "url": "https://dariknews.bg/novini/bylgariia/kliuchove-sertifikati-i-policejska-ohrana-kak-shte-se-paziat-mashinite-za-glasuvane-2467965",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51306/51306610/991-ratio-cik.jpg"
+    },
     {
       "title": "Мотивът за убийството на Илиян Филипов: Финансови неуредени отношения (ВИДЕО)",
       "url": "https://dariknews.bg/regioni/plovdiv/motivyt-za-ubijstvoto-na-iliian-filipov-finansovi-neuredeni-otnosheniia-video-2467964",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389962/991-ratio-uchenici-uchastvashti-v-demonstraciite-v-grad-lil.jpg"
     },
     {
-      "title": "Спиращи дъха гледки в новия епизод на „Свобода на колела“",
-      "url": "https://dariknews.bg/novini/liubopitno/spirashti-dyha-gledki-v-noviia-epizod-na-svoboda-na-kolela-2467939",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389946/991-ratio-svoboda-na-kolela.jpg"
+      "title": "Становищата на Реал Мадрид и Барселона за „Негрейра“ и разследването на УЕФА 01 Окт | 19:45",
+      "url": "https://dsport.bg/stanovistata-na-real-madrid-i-barselona-za-negreira-i-razsledvaneto-na-uefa~241179.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2257944663.og.jpg"
     },
     {
       "title": "Премиерът на Португалия е говорил с Жезус и Кристиано 01 Окт | 19:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2230615863.og.jpg"
-    },
-    {
-      "title": "На какво ще се основава защитата на Манчестър Сити? 01 Окт | 17:34",
-      "url": "https://dsport.bg/na-kakvo-ste-se-osnovava-zastitata-na-manchestar-siti~241167.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1497470006.og.jpg"
     }
   ]
 }
