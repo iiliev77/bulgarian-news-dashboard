@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T15:32:54.307460+00:00",
+  "updated": "2026-10-01T15:49:51.515568+00:00",
   "articles": [
+    {
+      "title": "Предупредиха за нови валежи в Царево: Активират BG-Alert",
+      "url": "https://dariknews.bg/regioni/burgas/preduprediha-za-novi-valezhi-v-carevo-aktivirat-bg-alert-2467962",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51247/51247537/991-ratio-dyzhd.jpg"
+    },
     {
       "title": "Заради задимяване: Ограничиха движението в тунел „Витиня“",
       "url": "https://dariknews.bg/novini/bylgariia/zaradi-zadimiavane-ogranichiha-dvizhenieto-v-tunel-vitinia-2467961",
@@ -135,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Газът поскъпва с близо 6% през октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/gazyt-poskypva-s-blizo-6-prez-oktomvri-2467935",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50854/50854155/991-ratio-gaz.jpg"
+      "title": "Владо Николов катастрофира в центъра на София 01 Окт | 18:47",
+      "url": "https://dsport.bg/vlado-nikolov-katastrofira-v-centara-na-sofia~241173.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/image_23659116_40_0.l.og.webp"
+    },
+    {
+      "title": "Нова заплаха за Манчестър Сити: футболисти обмислят съдебни искове за пропуснати милиони 01 Окт | 18:34",
+      "url": "https://dsport.bg/nova-zaplaha-za-manchestar-siti-futbolisti-obmislat-sadebni-iskove-za-propusnati-milioni~241171.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298054401.og.jpg"
     },
     {
       "title": "Клоп е възмутен от твърденията, че германският национален отбор „не е достатъчно бял“ 01 Окт | 18:20",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2241658302.og.jpg"
-    },
-    {
-      "title": "Ново огромно признание за Меси - правят го доктор 01 Окт | 16:16",
-      "url": "https://dsport.bg/novo-ogromno-priznanie-za-mesi-pravat-go-doktor~241162.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2286090735-1-.og.jpg"
-    },
-    {
-      "title": "Ясно е кой взима №7 на Роналдо в Португалия 01 Окт | 15:55",
-      "url": "https://dsport.bg/asno-e-koi-vzima-7-na-ronaldo-v-portugalia~241161.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296971233.og.jpg"
     }
   ]
 }
