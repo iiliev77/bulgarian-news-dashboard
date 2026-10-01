@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-01T14:29:27.982958+00:00",
+  "updated": "2026-10-01T14:46:44.182645+00:00",
   "articles": [
+    {
+      "title": "„Малки полицаи“ в действие: Две детски полицейски управления отвориха врати в Етрополе",
+      "url": "https://dariknews.bg/regioni/sofiia/malki-policai-v-dejstvie-dve-detski-policejski-upravleniia-otvoriha-vrati-v-etropole-2467959",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390036/991-ratio-detski-policejski-upravleniia-biaha-tyrzhestveno-otkriti-v-dve-uchilishta-v.jpg"
+    },
+    {
+      "title": "Разследват сигнал за полицейско насилие в Районното управление на МВР в Кърджали",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/razsledvat-signal-za-policejsko-nasilie-v-rajonnoto-upravlenie-na-mvr-v-kyrdzhali-2467958",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390035/991-ratio-sgradata-na-mvr-kyrdzhali.jpg"
+    },
+    {
+      "title": "„Всичко във песен звъни“: Инициативата „Светилник“ започна шестото си издание",
+      "url": "https://dariknews.bg/novini/bylgariia/vsichko-vyv-pesen-zvyni-iniciativata-svetilnik-zapochna-shestoto-si-izdanie-2467957",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390034/991-ratio-svetilnik.jpg"
+    },
     {
       "title": "Оставиха в ареста обвиняемия за катастрофата в Мездра, при която загинаха двама души",
       "url": "https://dariknews.bg/regioni/vraca/ostaviha-v-aresta-obviniaemiia-za-katastrofata-v-mezdra-pri-koiato-zaginaha-dvama-dushi-2467956",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389939/991-ratio-zhena-podkup-alkohol.jpg"
     },
     {
-      "title": "Обновена система променя здравния контрол: Какво трябва да знаем",
-      "url": "https://dariknews.bg/novini/bylgariia/obnovena-sistema-promenia-zdravniia-kontrol-kakvo-triabva-da-znaem-2467932",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389930/991-ratio-laptop-lekar.jpg"
-    },
-    {
-      "title": "„Лакомства“ с дрога: Плашеща находка при спецакция срещу наркотиците в София (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/lakomstva-s-droga-plasheshta-nahodka-pri-specakciia-sreshtu-narkoticite-v-sofiia-snimki-2467934",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389933/991-ratio-narkotici.jpg"
-    },
-    {
-      "title": "Разкриха незаконна кланица в частен имот в Симеоновград",
-      "url": "https://dariknews.bg/regioni/haskovo/razkriha-nezakonna-klanica-v-chasten-imot-v-simeonovgrad-2467931",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389923/991-ratio-razkriha-nezakonna-klanica-v-simeonovgrad.jpg"
+      "title": "На какво ще се основава защитата на Манчестър Сити? 01 Окт | 17:34",
+      "url": "https://dsport.bg/na-kakvo-ste-se-osnovava-zastitata-na-manchestar-siti~241167.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1497470006.og.jpg"
     },
     {
       "title": "Проблем за Барселона: УЕФА отвори отново „Негрейра“ след 50 000 страници от Реал Мадрид 01 Окт | 17:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1032406.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Станислав Генчев за Илиян Филипов: Губя близък приятел, моралният ангажимент е много голям 01 Окт | 14:59",
-      "url": "https://dsport.bg/stanislav-genchev-za-ilian-filipov-guba-blizak-priatel-moralniat-angaziment-e-mnogo-golam~241157.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/980740.og.jpg"
     }
   ]
 }
