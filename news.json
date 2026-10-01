@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:39:46.446641+00:00",
+  "updated": "2026-10-01T08:54:02.347239+00:00",
   "articles": [
     {
       "title": "Горивата у нас поскъпват: Бензинът с 6,3%, дизелът с 4,4% за месец",
@@ -9,7 +9,7 @@
       "image": "https://m.netinfo.bg/media/images/51304/51304141/991-ratio-gorivo.jpg"
     },
     {
-      "title": "SOS Разтребители“ влизат в изоставена химическа лаборатория",
+      "title": "„SOS Разтребители“ влизат в изоставена химическа лаборатория",
       "url": "https://dariknews.bg/novini/liubopitno/sos-raztrebiteli-vlizat-v-izostavena-himicheska-laboratoriia-2467898",
       "source": "DarikNews",
       "section": "news",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50855/50855693/991-ratio-izmama-vyzrastna-zhena-pensionerka.jpg"
     },
     {
+      "title": "Кога ще се завърне Акрам Бурас? 01 Окт | 11:38",
+      "url": "https://dsport.bg/koga-ste-se-zavarne-akram-buras~241143.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1005797.og.jpg"
+    },
+    {
       "title": "Министър Демерджиев: Никога не съм бил юридически представител на Филипов 01 Окт | 11:27",
       "url": "https://dsport.bg/ministar-demerdziev-nikoga-ne-sam-bil-uridicheski-predstavitel-na-filipov~241142.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-89056184.og.jpg"
-    },
-    {
-      "title": "Решено: Кристиано Роналдо приключи завинаги с Португалия 30 Сеп | 23:50",
-      "url": "https://dsport.bg/resheno-kristiano-ronaldo-prikluchi-zavinagi-s-portugalia~241132.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-545932862.og.jpg"
     }
   ]
 }
