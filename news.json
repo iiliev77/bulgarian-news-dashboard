@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-01T10:54:08.334235+00:00",
+  "updated": "2026-10-01T11:04:59.839191+00:00",
   "articles": [
+    {
+      "title": "„Много положителен знак“: Кремъл похвали позицията на Румен Радев за диалог с Русия",
+      "url": "https://dariknews.bg/novini/sviat/mnogo-polozhitelen-znak-kremyl-pohvali-poziciiata-na-rumen-radev-za-dialog-s-rusiia-2467925",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50217/50217878/991-ratio-kremyl.jpg"
+    },
     {
       "title": "Кости на цар Самуил срещу 53 артефакта: Какво ще получи Гърция от България, но само временно",
       "url": "https://dariknews.bg/novini/bylgariia/kosti-na-car-samuil-sreshtu-53-artefakta-kakvo-shte-poluchi-gyrciia-ot-bylgariia-no-samo-vremenno-2467923",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
     },
     {
-      "title": "Дърво се стовари върху мъж и жена в Морската градина във Варна (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/varna/dyrvo-se-stovari-vyrhu-myzh-i-zhena-v-morskata-gradina-vyv-varna-snimki-2467904",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389815/991-ratio-dyrvo-padna-vyv-varna.jpg"
+      "title": "Тъжният край на една велика история! 01 Окт | 13:55",
+      "url": "https://dsport.bg/tazniat-krai-na-edna-velika-istoria~241151.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297064827.og.jpg"
     },
     {
       "title": "Гребенчарски с наряд за предварителната фаза на Sesame Купа на България 01 Окт | 13:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1000057342-14.l.og.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо пред сурово наказание заради бягството си 01 Окт | 10:59",
-      "url": "https://dsport.bg/ronaldo-pred-surovo-nakazanie-zaradi-bagstvoto-si~241140.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297061965.og.jpg"
     }
   ]
 }
