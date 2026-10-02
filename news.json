@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T11:30:14.968575+00:00",
+  "updated": "2026-10-02T11:45:48.503953+00:00",
   "articles": [
+    {
+      "title": "Евростат: Инфлацията в еврозоната скочи до 3,8%, България остава над средното ниво",
+      "url": "https://dariknews.bg/novini/sviat/evrostat-inflaciiata-v-evrozonata-skochi-do-38-bylgariia-ostava-nad-srednoto-nivo-2468052",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51204/51204882/991-ratio-inflaciia-magazin-potrebitelska-koshnica.jpg"
+    },
+    {
+      "title": "Срещу сливането с Агенцията по горите: Служители на ИАРА излизат на протест в Бургас",
+      "url": "https://dariknews.bg/regioni/burgas/sreshtu-slivaneto-s-agenciiata-po-gorite-sluzhiteli-na-iara-izlizat-na-protest-v-burgas-2468051",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39976/39976618/991-ratio-dokument.jpg"
+    },
     {
       "title": "Лидерът на шведската опозиция получи втори шанс да сформира правителство",
       "url": "https://dariknews.bg/novini/sviat/lideryt-na-shvedskata-opoziciia-poluchi-vtori-shans-da-sformira-pravitelstvo-2468049",
@@ -9,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/50042/50042295/991-ratio-magdalena-andershon.jpg"
     },
     {
-      "title": "Внимание, слана на 3 октомври: НИМХ обяви жълт код в част от страната",
-      "url": "https://dariknews.bg/novini/bylgariia/vnimanie-slana-na-3-oktomvri-nimh-obiavi-zhylt-kod-v-chast-ot-stranata-2468048",
+      "title": "Внимание, слана на 3 октомври: Жълт код в част от страната",
+      "url": "https://dariknews.bg/novini/bylgariia/vnimanie-slana-na-3-oktomvri-zhylt-kod-v-chast-ot-stranata-2468048",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50931/50931564/991-ratio-slana.jpg"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51214/51214871/991-ratio-test-s-dreger.jpg"
     },
     {
-      "title": "Спипаха двама издирвани мъже с влезли в сила присъди в Кюстендил",
-      "url": "https://dariknews.bg/regioni/kiustendil/spipaha-dvama-izdirvani-myzhe-s-vlezli-v-sila-prisydi-v-kiustendil-2468025",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157465/991-ratio-arest.jpg"
-    },
-    {
-      "title": "Кога е най-полезно да хапваме черен шоколад",
-      "url": "https://dariknews.bg/novini/liubopitno/koga-e-naj-polezno-da-hapvame-cheren-shokolad-2468024",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45681/45681703/991-ratio-cheren-shokolad.jpg"
+      "title": "Манчестър Сити подаде жалба срещу Висшата лига 02 Окт | 14:36",
+      "url": "https://dsport.bg/manchestar-siti-podade-zalba-srestu-visshata-liga~241226.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2278150929~1.og.jpg"
     },
     {
       "title": "В чест на великия Джеко! Сараево промени прочутите кебапчета 02 Окт | 14:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298101912.og.jpg"
-    },
-    {
-      "title": "Льоклер с най-добро време на втората сесия в Малайзия 02 Окт | 12:21",
-      "url": "https://dsport.bg/lokler-s-nai-dobro-vreme-na-vtorata-sesia-v-malaizia~241215.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298164989.og.jpg"
     }
   ]
 }
