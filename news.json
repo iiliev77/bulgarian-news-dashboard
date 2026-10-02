@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T06:38:27.168532+00:00",
+  "updated": "2026-10-02T06:56:04.654849+00:00",
   "articles": [
+    {
+      "title": "Моторист загина при катастрофа във Варненско",
+      "url": "https://dariknews.bg/regioni/varna/motorist-zagina-pri-katastrofa-vyv-varnensko-2467992",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38694/38694101/991-ratio-katastrofa-s-motor.jpg"
+    },
+    {
+      "title": "Радев: В „Икономическа полиция“ изскочиха доста неща - там е истинска джунгла",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-v-ikonomicheska-policiia-izskochiha-dosta-neshta-tam-e-istinska-dzhungla-2467993",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51348/51348147/991-ratio-rumen-radev.jpg"
+    },
     {
       "title": "Мъж агресира и заплашва с нож полицаи във Великотърновско",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/myzh-agresira-i-zaplashva-s-nozh-policai-vyv-velikotyrnovsko-2467991",
@@ -16,8 +30,15 @@
       "image": "https://m.netinfo.bg/media/images/51352/51352113/991-ratio-kradec-krazhba.jpg"
     },
     {
-      "title": "Съдът ограничи контактите на Хали Бери със сина ѝ след обвинения за физическо насилие",
-      "url": "https://dariknews.bg/novini/sviat/sydyt-ogranichi-kontaktite-na-hali-beri-sys-sina-sled-obvineniia-za-fizichesko-nasilie-2467990",
+      "title": "„Манипулирани данни“: Министър Донев и Теменужка Петкова в спор за отчета за Бюджет 2025",
+      "url": "https://dariknews.bg/novini/bylgariia/manipulirani-danni-ministyr-donev-i-temenuzhka-petkova-v-spor-za-otcheta-za-biudzhet-2025-2467994",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332831/991-ratio-gylyb-donev.jpg"
+    },
+    {
+      "title": "Съдът ограничи контактите на Хали Бери със сина ѝ след обвинения за физическо насилие (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/sydyt-ogranichi-kontaktite-na-hali-beri-sys-sina-sled-obvineniia-za-fizichesko-nasilie-snimki-2467990",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390197/991-ratio-hali-beri.jpg"
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51290/51290152/991-ratio-vlak-shkoda-bylgariia.jpg"
     },
     {
-      "title": "Слънчев петък, но с дъжд и вятър по Черноморието",
-      "url": "https://dariknews.bg/novini/bylgariia/slynchev-petyk-no-s-dyzhd-i-viatyr-po-chernomorieto-2467972",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/41034/41034549/991-ratio-burno-more.jpg"
-    },
-    {
-      "title": "Храната като лекарство или вреда: как ежедневните ни навици влияят на здравето",
-      "url": "https://dariknews.bg/novini/interviu/hranata-kato-lekarstvo-ili-vreda-kak-ezhednevnite-ni-navici-vliiaiat-na-zdraveto-2467968",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390073/991-ratio-zdravoslovno-hranene-i-nachin-na-zhivot.jpg"
-    },
-    {
-      "title": "Тръмп: Иран може да стои зад опита за покушение на полета на „Флайдубай“",
-      "url": "https://dariknews.bg/novini/sviat/trymp-iran-mozhe-da-stoi-zad-opita-za-pokushenie-na-poleta-na-flajdubaj-2467976",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384485/991-ratio-donald-trymp.jpg"
+      "title": "Доскорошен помощник в ЦСКА и кадър на Левски ще помагат на временния селекционер 02 Окт | 09:39",
+      "url": "https://dsport.bg/doskoroshen-pomostnik-v-cska-i-kadar-na-levski-ste-pomagat-na-vremennia-selekcioner~241204.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1035101.og.jpg"
     },
     {
       "title": "Трима пилоти с наказания за Гран При на Бахрейн в Малайзия 02 Окт | 09:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298123588.og.jpg"
-    },
-    {
-      "title": "Клоп с първа победа начело на Германия, Вирц се отпуши 01 Окт | 23:36",
-      "url": "https://dsport.bg/klop-s-parva-pobeda-nachelo-na-germania-virc-se-otpushi~241193.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298122146.og.jpg"
     }
   ]
 }
