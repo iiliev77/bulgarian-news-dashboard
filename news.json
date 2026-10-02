@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-02T13:25:26.285753+00:00",
+  "updated": "2026-10-02T13:41:21.094529+00:00",
   "articles": [
+    {
+      "title": "Полша възстановява бомбоубежища от Студената война заради руската заплаха",
+      "url": "https://dariknews.bg/novini/sviat/polsha-vyzstanoviava-bomboubezhishta-ot-studenata-vojna-zaradi-ruskata-zaplaha-2468074",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49417/49417985/991-ratio-bomboubezhishte.jpg"
+    },
+    {
+      "title": "Проверка в „Св. Анна“ след сигнал: Отказват ли кръводарители заради липса на храна",
+      "url": "https://dariknews.bg/regioni/sofiia/proverka-v-sv.-anna-sled-signal-otkazvat-li-kryvodariteli-zaradi-lipsa-na-hrana-2468073",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386516/991-ratio-kryvodariavane.jpg"
+    },
+    {
+      "title": "Изслушват кандидатите за членове на ВСС от парламентарната квота на 2 ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/izslushvat-kandidatite-za-chlenove-na-vss-ot-parlamentarnata-kvota-na-2-noemvri-2468072",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+    },
     {
       "title": "В Ловешко откриха автомобил, обявен за откраднат във Великобритания",
       "url": "https://dariknews.bg/regioni/lovech/v-loveshko-otkriha-avtomobil-obiaven-za-otkradnat-vyv-velikobritaniia-2468071",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/39976/39976618/991-ratio-dokument.jpg"
     },
     {
-      "title": "Лидерът на шведската опозиция получи втори шанс да сформира правителство",
-      "url": "https://dariknews.bg/novini/sviat/lideryt-na-shvedskata-opoziciia-poluchi-vtori-shans-da-sformira-pravitelstvo-2468049",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50042/50042295/991-ratio-magdalena-andershon.jpg"
+      "title": "„Такъв отбор не е правен в България!“: Дея Волей, Цветан Соколов и братята Братоеви тръгват за всички трофеи през новия сезон! 02 Окт | 16:30",
+      "url": "https://dsport.bg/takav-otbor-ne-e-praven-v-balgaria-dea-volei-cvetan-sokolov-i-bratata-bratoevi-tragvat-za-vsichki-trofei-prez-novia-sezon~241233.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/36535.og.png"
     },
     {
-      "title": "Внимание, слана на 3 октомври: Жълт код в част от страната",
-      "url": "https://dariknews.bg/novini/bylgariia/vnimanie-slana-na-3-oktomvri-zhylt-kod-v-chast-ot-stranata-2468048",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50931/50931564/991-ratio-slana.jpg"
-    },
-    {
-      "title": "Полиция и жандармерия с акция в Разград, изградени са КПП-та (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/razgrad/policiia-i-zhandarmeriia-s-akciia-v-razgrad-izgradeni-sa-kpp-ta-snimki-2468047",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390391/991-ratio-policiia.jpg"
+      "title": "От интензивното до Октоберфест: трансформацията на футболната икона Лусио 02 Окт | 16:27",
+      "url": "https://dsport.bg/legendaren-zastitnik-se-preobrazi~241232.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/830196482_914856374834874_66209244950500203_n.og.png"
     },
     {
       "title": "Тя е милиардерска наследница, но избра да гради кариера сама 02 Окт | 15:58",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/05.06-3~1.og.jpg"
-    },
-    {
-      "title": "Треньорско завръщане в Янтра 02 Окт | 14:00",
-      "url": "https://dsport.bg/trenorsko-zavrastane-v-antra~241222.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.10-8.og.jpg"
-    },
-    {
-      "title": "Германските треньори, докоснали се до българския футбол 02 Окт | 13:50",
-      "url": "https://dsport.bg/germanskite-trenori-dokosnali-se-do-balgarskia-futbol~241223.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/lothar-matthaus.og.jpg"
     }
   ]
 }
