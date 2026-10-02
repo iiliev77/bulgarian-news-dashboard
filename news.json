@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T05:58:32.369102+00:00",
+  "updated": "2026-10-02T06:15:54.810218+00:00",
   "articles": [
+    {
+      "title": "Нова следа около убийството на бизнесмена Илиян Филипов и задържания Славчо Мегеров",
+      "url": "https://dariknews.bg/novini/bylgariia/nova-sleda-okolo-ubijstvoto-na-biznesmena-iliian-filipov-i-zadyrzhaniia-slavcho-megerov-2467987",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Мощни експлозии разтърсиха йеменската столица Сана",
       "url": "https://dariknews.bg/novini/sviat/moshtni-eksplozii-raztyrsiha-jemenskata-stolica-sana-2467986",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51210/51210595/991-ratio-bylgariia-es.jpg"
     },
     {
-      "title": "Трагедия в Индия: Осем ученици се удавиха в морето по време на излет",
-      "url": "https://dariknews.bg/novini/sviat/tragediia-v-indiia-osem-uchenici-se-udaviha-v-moreto-po-vreme-na-izlet-2467970",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390085/991-ratio-plazh-cherven-flag.jpg"
+      "title": "Верстапен впечатли при завръщането на бахрейнското състезание в Малайзия 02 Окт | 09:04",
+      "url": "https://dsport.bg/verstapen-vpechatli-pri-zavrastaneto-na-bahreinskoto-sastezanie-v-malaizia~241202.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298156955.og.jpg"
     },
     {
       "title": "Атанасовците поведоха националния отбор към Исландия (ВИДЕО) 02 Окт | 08:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/951235~2.og.jpg"
-    },
-    {
-      "title": "След загуба от Гамбия и Санянг - Кейрош подаде оставка 01 Окт | 23:03",
-      "url": "https://dsport.bg/sled-zaguba-ot-gambia-i-sanang-keirosh-podade-ostavka~241191.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2283612727~1.og.jpg"
     }
   ]
 }
