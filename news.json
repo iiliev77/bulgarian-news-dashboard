@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T15:51:27.263274+00:00",
+  "updated": "2026-10-02T16:01:33.515187+00:00",
   "articles": [
+    {
+      "title": "Три катастрофи затрудняват движението по АМ „Тракия“ към Бургас",
+      "url": "https://dariknews.bg/novini/bylgariia/tri-katastrofi-zatrudniavat-dvizhenieto-po-am-trakiia-kym-burgas-2468083",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51194/51194347/991-ratio-magistrala-trakiia.jpg"
+    },
     {
       "title": "„Беше извънземен. Беше недостижим. Вчера разбрах, че беше просто човек“: Децата на Илиян Филипов с емоционални думи за баща си",
       "url": "https://dariknews.bg/regioni/plovdiv/beshe-izvynzemen.-beshe-nedostizhim.-vchera-razbrah-che-beshe-prosto-chovek-decata-na-iliian-filipov-s-emocionalni-dumi-za-bashta-si-2468082",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
     },
     {
-      "title": "„Ще има много промени и иновации“: ВиК - Шумен е с нов управител",
-      "url": "https://dariknews.bg/regioni/shumen/shte-ima-mnogo-promeni-i-inovacii-vik-shumen-e-s-nov-upravitel-2468061",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390417/991-ratio-stoian-vladimirov.jpg"
+      "title": "Илия Груев: Последните години пътят ни води повече надолу, отколкото нагоре (ВИДЕО) 02 Окт | 18:51",
+      "url": "https://dsport.bg/ilia-gruev-poslednite-godini-patat-ni-vodi-poveche-nadolu-otkolkoto-nagore-video~241245.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1035779.og.jpg"
     },
     {
       "title": "Атанас Рибарски: Искам да играем като отбор, вярвам изключително много на футболистите (ВИДЕО) 02 Окт | 18:47",
@@ -177,7 +184,7 @@
       "image": "https://dsport.bg/media/384/829035790_1133853599307253_5763464986587184532_n.og.jpg"
     },
     {
-      "title": "Ексклузивно Драгомир Драганов за последния си мач, най-тежката грешка и цената да бъдеш съдия 02 Окт | 17:37",
+      "title": "Ексклузивно Драгомир Драганов за последния си мач, най-тежката грешка и цената да бъдеш съдия (ВИДЕО) 02 Окт | 17:37",
       "url": "https://dsport.bg/dragomir-draganov-za-poslednia-si-mach-nai-tezkata-greshka-i-cenata-da-badesh-sadia~241236.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-1325-~1.og.png"
-    },
-    {
-      "title": "България с исторически шанс в плажния футбол! Българският шампион се изправя срещу световния елит на пясъка в Алания! 02 Окт | 16:51",
-      "url": "https://dsport.bg/balgaria-s-istoricheski-shans-v-plaznia-futbol-balgarskiat-shampion-se-izprava-srestu-svetovnia-elit-na-pasaka-v-alania~241234.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/802393812_2903126036721726_6045333515962012141_n.og.jpg"
     }
   ]
 }
