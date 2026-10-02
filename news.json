@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T15:35:09.171822+00:00",
+  "updated": "2026-10-02T15:51:27.263274+00:00",
   "articles": [
+    {
+      "title": "„Беше извънземен. Беше недостижим. Вчера разбрах, че беше просто човек“: Децата на Илиян Филипов с емоционални думи за баща си",
+      "url": "https://dariknews.bg/regioni/plovdiv/beshe-izvynzemen.-beshe-nedostizhim.-vchera-razbrah-che-beshe-prosto-chovek-decata-na-iliian-filipov-s-emocionalni-dumi-za-bashta-si-2468082",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390495/991-ratio-iliian-filipov.jpg"
+    },
     {
       "title": "Почина 20-годишният Мирослав – първият двойно трансплантиран пациент у нас",
       "url": "https://dariknews.bg/novini/obshtestvo/pochina-20-godishniiat-miroslav-pyrviiat-dvojno-transplantiran-pacient-u-nas-2468081",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390417/991-ratio-stoian-vladimirov.jpg"
     },
     {
-      "title": "Родители сигнализират омбудсмана: искат по-малко зубрене, повече умения в училище",
-      "url": "https://dariknews.bg/novini/bylgariia/roditeli-signalizirat-ombudsmana-iskat-po-malko-zubrene-poveche-umeniia-v-uchilishte-2468060",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332333/991-ratio-uchenici-izpit.jpg"
+      "title": "Атанас Рибарски: Искам да играем като отбор, вярвам изключително много на футболистите (ВИДЕО) 02 Окт | 18:47",
+      "url": "https://dsport.bg/atanas-ribarski-iskam-da-igraem-kato-otbor-varvam-izkluchitelno-mnogo-na-futbolistite~241244.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1035781.og.jpg"
+    },
+    {
+      "title": "Акциите на Крушарски са готови за прехвърляне, Локомотив Пловдив търси нов собственик 02 Окт | 18:36",
+      "url": "https://dsport.bg/akciite-na-krusharski-sa-gotovi-za-prehvarlane-lokomotiv-plovdiv-tarsi-nov-sobstvenik~241243.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/684347-1-.og.jpg"
     },
     {
       "title": "Локомотив София уреди двама нови за \"железничарското\" дерби 02 Окт | 18:11",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/802393812_2903126036721726_6045333515962012141_n.og.jpg"
-    },
-    {
-      "title": "„Такъв отбор не е правен в България!“: Дея Волей, Цветан Соколов и братята Братоеви тръгват за всички трофеи през новия сезон! 02 Окт | 16:30",
-      "url": "https://dsport.bg/takav-otbor-ne-e-praven-v-balgaria-dea-volei-cvetan-sokolov-i-bratata-bratoevi-tragvat-za-vsichki-trofei-prez-novia-sezon~241233.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/36535.og.png"
-    },
-    {
-      "title": "От интензивното до Октоберфест: трансформацията на футболната икона Лусио 02 Окт | 16:27",
-      "url": "https://dsport.bg/legendaren-zastitnik-se-preobrazi~241232.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/830196482_914856374834874_66209244950500203_n.og.png"
     }
   ]
 }
