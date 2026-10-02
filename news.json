@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-02T09:07:12.254829+00:00",
+  "updated": "2026-10-02T09:25:37.332264+00:00",
   "articles": [
+    {
+      "title": "Засилен контрол на НАП върху веригата за доставки на месо и месни продукти",
+      "url": "https://dariknews.bg/novini/bylgariia/zasilen-kontrol-na-nap-vyrhu-verigata-za-dostavki-na-meso-i-mesni-produkti-2468031",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51245/51245167/991-ratio-nap.jpg"
+    },
+    {
+      "title": "Кърджалиец предаде в полицията 3100 евро, поискани от ало измамници от 93-годишен мъж",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/kyrdzhaliec-predade-v-policiiata-3100-evro-poiskani-ot-alo-izmamnici-ot-93-godishen-myzh-2468029",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35974/35974771/991-ratio-myzh-vyzrasten-ryce-bastun.jpg"
+    },
+    {
+      "title": "„Мечтаем за думите мама и тате“: малкият Иван се бори за живот",
+      "url": "https://dariknews.bg/novini/obshtestvo/mechtaem-za-dumite-mama-i-tate-malkiiat-ivan-se-bori-za-zhivot-2468027",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390317/991-ratio-malkiiat-ivan.jpg"
+    },
     {
       "title": "Без книжка и с 1,92 промила: Задържаха 22-годишен в Драгичево",
       "url": "https://dariknews.bg/regioni/pernik/bez-knizhka-i-s-192-promila-zadyrzhaha-22-godishen-v-dragichevo-2468026",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390278/991-ratio-v-sofiia-pristigna-sarkofagyt-v-kojto-shte-bydat-polozheni-kostite.jpg"
     },
     {
-      "title": "Зад жълтата раница: Скритият свят на градските куриери",
-      "url": "https://dariknews.bg/novini/liubopitno/zad-zhyltata-ranica-skritiiat-sviat-na-gradskite-kurieri-2468008",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390279/991-ratio-kurieri.jpg"
+      "title": "Льоклер с най-добро време на втората сесия в Малайзия 02 Окт | 12:21",
+      "url": "https://dsport.bg/lokler-s-nai-dobro-vreme-na-vtorata-sesia-v-malaizia~241215.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298164989.og.jpg"
     },
     {
-      "title": "Перилни препарати с чужди търговски марки иззеха при акция във Видин",
-      "url": "https://dariknews.bg/regioni/vidin/perilni-preparati-s-chuzhdi-tyrgovski-marki-izzeha-pri-akciia-vyv-vidin-2468005",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390267/991-ratio-perilni-preparati.jpg"
-    },
-    {
-      "title": "Фалшиви лични асистенти обраха 85-годишна жена: Майка и дъщеря задигнаха 450 евро",
-      "url": "https://dariknews.bg/regioni/montana/falshivi-lichni-asistenti-obraha-85-godishna-zhena-majka-i-dyshteria-zadignaha-450-evro-2468006",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50855/50855693/991-ratio-izmama-vyzrastna-zhena-pensionerka.jpg"
+      "title": "Тестваха визуалните ефекти на „Българска армия“ (ВИДЕО) 02 Окт | 12:07",
+      "url": "https://dsport.bg/testvaha-vizualnite-efekti-na-balgarska-armia-video~241214.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/02.10-3~3.og.jpg"
     },
     {
       "title": "Вратар пренаписа историята с гол в NHL (ВИДЕО) 02 Окт | 11:57",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298125119.og.jpg"
-    },
-    {
-      "title": "Доскорошен помощник в ЦСКА и кадър на Левски ще помагат на временния селекционер 02 Окт | 09:39",
-      "url": "https://dsport.bg/doskoroshen-pomostnik-v-cska-i-kadar-na-levski-ste-pomagat-na-vremennia-selekcioner~241204.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1035101.og.jpg"
-    },
-    {
-      "title": "Трима пилоти с наказания за Гран При на Бахрейн в Малайзия 02 Окт | 09:19",
-      "url": "https://dsport.bg/trima-piloti-s-nakazania-za-gran-pri-na-bahrein-v-malaizia~241203.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298169337.og.jpg"
     }
   ]
 }
