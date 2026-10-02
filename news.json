@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T09:40:57.171721+00:00",
+  "updated": "2026-10-02T09:54:40.043130+00:00",
   "articles": [
+    {
+      "title": "Ема Хеминг с рядка снимка на Брус Уилис: Ще превърна скръбта си в подкрепа за другите (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/ema-heming-s-riadka-snimka-na-brus-uilis-shte-prevyrna-skrybta-si-v-podkrepa-za-drugite-snimki-2468034",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51011/51011673/991-ratio-brus-uilis.jpg"
+    },
     {
       "title": "Над 750 000 здравни досиета вече са достъпни през приложението „еЗдраве“",
       "url": "https://dariknews.bg/novini/bylgariia/nad-750-000-zdravni-dosieta-veche-sa-dostypni-prez-prilozhenieto-ezdrave-2468032",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51179/51179875/991-ratio-promila-alkohol.jpg"
     },
     {
-      "title": "От фризьорски салони до автосервизи: Гълъб Донев защити промените за домашната ракия",
-      "url": "https://dariknews.bg/novini/bylgariia/ot-friziorski-saloni-do-avtoservizi-gylyb-donev-zashtiti-promenite-za-domashnata-rakiia-2468009",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/42209/42209461/991-ratio-rakiia.jpg"
+      "title": "FA с изявление по случая с решението за Манчестър Сити 02 Окт | 12:45",
+      "url": "https://dsport.bg/fa-s-izavlenie-po-sluchaa-s-reshenieto-za-manchestar-siti~241217.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298101912.og.jpg"
     },
     {
       "title": "Льоклер с най-добро време на втората сесия в Малайзия 02 Окт | 12:21",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/02.10-1~3.og.jpg"
-    },
-    {
-      "title": "Клоп след първата победа: Хареса ми всичко, можехме да вкараме още голове 02 Окт | 09:57",
-      "url": "https://dsport.bg/klop-sled-parvata-pobeda-haresa-mi-vsichko-mozehme-da-vkarame-oste-golove~241205.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298125119.og.jpg"
     }
   ]
 }
