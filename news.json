@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T11:14:53.328531+00:00",
+  "updated": "2026-10-02T11:30:14.968575+00:00",
   "articles": [
+    {
+      "title": "Лидерът на шведската опозиция получи втори шанс да сформира правителство",
+      "url": "https://dariknews.bg/novini/sviat/lideryt-na-shvedskata-opoziciia-poluchi-vtori-shans-da-sformira-pravitelstvo-2468049",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50042/50042295/991-ratio-magdalena-andershon.jpg"
+    },
+    {
+      "title": "Внимание, слана на 3 октомври: НИМХ обяви жълт код в част от страната",
+      "url": "https://dariknews.bg/novini/bylgariia/vnimanie-slana-na-3-oktomvri-nimh-obiavi-zhylt-kod-v-chast-ot-stranata-2468048",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50931/50931564/991-ratio-slana.jpg"
+    },
     {
       "title": "Полиция и жандармерия с акция в Разград, изградени са КПП-та (СНИМКИ)",
       "url": "https://dariknews.bg/regioni/razgrad/policiia-i-zhandarmeriia-s-akciia-v-razgrad-izgradeni-sa-kpp-ta-snimki-2468047",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/45681/45681703/991-ratio-cheren-shokolad.jpg"
     },
     {
-      "title": "Полицейска гонка в Перник: 22-годишен шофьор с 1,79 промила отказа да спре за проверка",
-      "url": "https://dariknews.bg/regioni/pernik/policejska-gonka-v-pernik-22-godishen-shofior-s-179-promila-otkaza-da-spre-za-proverka-2468023",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+      "title": "В чест на великия Джеко! Сараево промени прочутите кебапчета 02 Окт | 14:25",
+      "url": "https://dsport.bg/bosna-promeni-mesten-specialitet-zaradi-legendata-dzeko~241224.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/mixcollage-02-oct-2026-02-19-pm-405.og.jpg"
     },
     {
-      "title": "73-годишен шофьор блъсна 84-годишна жена на пешеходна пътека в Казанлък",
-      "url": "https://dariknews.bg/regioni/stara-zagora/73-godishen-shofior-blysna-84-godishna-zhena-na-peshehodna-pyteka-v-kazanlyk-2468022",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50941/50941243/991-ratio-shofior-kola-vyzrasten-myzh-vyzrasten-shofior.jpg"
+      "title": "Марек подписа първи договор със свой юноша 02 Окт | 14:16",
+      "url": "https://dsport.bg/marek-podpisa-parvi-dogovor-sas-svoi-unosha~241225.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/05.06-3~1.og.jpg"
     },
     {
       "title": "Треньорско завръщане в Янтра 02 Окт | 14:00",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298164989.og.jpg"
-    },
-    {
-      "title": "Тестваха визуалните ефекти на „Българска армия“ (ВИДЕО) 02 Окт | 12:07",
-      "url": "https://dsport.bg/testvaha-vizualnite-efekti-na-balgarska-armia-video~241214.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.10-3~3.og.jpg"
-    },
-    {
-      "title": "Вратар пренаписа историята с гол в NHL (ВИДЕО) 02 Окт | 11:57",
-      "url": "https://dsport.bg/vratar-prenapisa-istoriata-s-gol-v-nhl-video~241213.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298152772.og.jpg"
     }
   ]
 }
