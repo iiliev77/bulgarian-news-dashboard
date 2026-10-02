@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T11:57:31.056859+00:00",
+  "updated": "2026-10-02T12:12:58.068699+00:00",
   "articles": [
+    {
+      "title": "Заради пожар: Движението по пътя Гривица – Згалево – Пордим е ограничено",
+      "url": "https://dariknews.bg/regioni/pleven/zaradi-pozhar-dvizhenieto-po-pytia-grivica-zgalevo-pordim-e-ogranicheno-2468056",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390410/991-ratio-pozhar-hrasti.jpg"
+    },
+    {
+      "title": "КЗП стартира проверки в търговските вериги",
+      "url": "https://dariknews.bg/novini/bylgariia/kzp-startira-proverki-v-tyrgovskite-verigi-2468055",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51204/51204882/991-ratio-inflaciia-magazin-potrebitelska-koshnica.jpg"
+    },
     {
       "title": "Евростат: Инфлацията в еврозоната скочи до 3,8%, България остава над средното ниво",
       "url": "https://dariknews.bg/novini/sviat/evrostat-inflaciiata-v-evrozonata-skochi-do-38-bylgariia-ostava-nad-srednoto-nivo-2468052",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/35974/35974771/991-ratio-myzh-vyzrasten-ryce-bastun.jpg"
     },
     {
-      "title": "„Мечтаем за думите мама и тате“: малкият Иван се бори за живот",
-      "url": "https://dariknews.bg/novini/obshtestvo/mechtaem-za-dumite-mama-i-tate-malkiiat-ivan-se-bori-za-zhivot-2468027",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390317/991-ratio-malkiiat-ivan.jpg"
-    },
-    {
-      "title": "Без книжка и с 1,92 промила: Задържаха 22-годишен в Драгичево",
-      "url": "https://dariknews.bg/regioni/pernik/bez-knizhka-i-s-192-promila-zadyrzhaha-22-godishen-v-dragichevo-2468026",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51214/51214871/991-ratio-test-s-dreger.jpg"
+      "title": "Официално: Лео Меси стана бос на още един испански клуб 02 Окт | 15:06",
+      "url": "https://dsport.bg/oficialno-leo-mesi-stana-bos-na-oste-edin-ispanski-klub~241230.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297466421.og.jpg"
     },
     {
       "title": "Облачно време и силен вятър посрещнаха националите в Исландия (ВИДЕО) 02 Окт | 14:51",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/02.10-6~1.og.jpg"
-    },
-    {
-      "title": "Арабите подкрепиха Джани Инфантино 02 Окт | 13:09",
-      "url": "https://dsport.bg/arabite-podkrepiha-dzani-infantino~241218.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2282659016-1-1~1.og.jpg"
     }
   ]
 }
