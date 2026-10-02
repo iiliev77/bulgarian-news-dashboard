@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-02T12:12:58.068699+00:00",
+  "updated": "2026-10-02T12:35:58.965825+00:00",
   "articles": [
+    {
+      "title": "„Ще има много промени и иновации“: ВиК - Шумен е с нов управител",
+      "url": "https://dariknews.bg/regioni/shumen/shte-ima-mnogo-promeni-i-inovacii-vik-shumen-e-s-nov-upravitel-2468061",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390417/991-ratio-stoian-vladimirov.jpg"
+    },
+    {
+      "title": "Родители сигнализират омбудсмана: искат по-малко зубрене, повече умения в училище",
+      "url": "https://dariknews.bg/novini/bylgariia/roditeli-signalizirat-ombudsmana-iskat-po-malko-zubrene-poveche-umeniia-v-uchilishte-2468060",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332333/991-ratio-uchenici-izpit.jpg"
+    },
+    {
+      "title": "22 души са задържани при акция срещу трафика на мигранти в София",
+      "url": "https://dariknews.bg/regioni/sofiia/22-dushi-sa-zadyrzhani-pri-akciia-sreshtu-trafika-na-migranti-v-sofiia-2468058",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51259/51259425/991-ratio-migranti-gdbop-kanaldzhii.jpg"
+    },
     {
       "title": "Заради пожар: Движението по пътя Гривица – Згалево – Пордим е ограничено",
       "url": "https://dariknews.bg/regioni/pleven/zaradi-pozhar-dvizhenieto-po-pytia-grivica-zgalevo-pordim-e-ogranicheno-2468056",
@@ -9,11 +30,18 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390410/991-ratio-pozhar-hrasti.jpg"
     },
     {
+      "title": "Банско е център на национална подготовка: Спасители с 20 кучета тренират за реакция при бедствия",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/bansko-e-centyr-na-nacionalna-podgotovka-spasiteli-s-20-kucheta-trenirat-za-reakciia-pri-bedstviia-2468059",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390414/991-ratio-obuchenie-bansko.jpg"
+    },
+    {
       "title": "КЗП стартира проверки в търговските вериги",
       "url": "https://dariknews.bg/novini/bylgariia/kzp-startira-proverki-v-tyrgovskite-verigi-2468055",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51204/51204882/991-ratio-inflaciia-magazin-potrebitelska-koshnica.jpg"
+      "image": "https://m.netinfo.bg/media/images/51148/51148043/991-ratio-magazin-pazaruvane.jpg"
     },
     {
       "title": "Евростат: Инфлацията в еврозоната скочи до 3,8%, България остава над средното ниво",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51011/51011673/991-ratio-brus-uilis.jpg"
     },
     {
-      "title": "При два пътни инцидента в Пловдивско: Пешеходка почина, а мъж е в тежко състояние",
-      "url": "https://dariknews.bg/regioni/plovdiv/pri-dva-pytni-incidenta-v-plovdivsko-peshehodka-pochina-a-myzh-e-v-tezhko-systoianie-2468035",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+      "title": "Ради Кирилов е на рехабилитация в чужбина, не му предстои втора операция 02 Окт | 15:19",
+      "url": "https://dsport.bg/radi-kirilov-e-na-rehabilitacia-v-chuzbina-ne-mu-predstoi-vtora-operacia~241231.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/929944.og.jpg"
     },
     {
-      "title": "Над 750 000 здравни досиета вече са достъпни през приложението „еЗдраве“",
-      "url": "https://dariknews.bg/novini/bylgariia/nad-750-000-zdravni-dosieta-veche-sa-dostypni-prez-prilozhenieto-ezdrave-2468032",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51367/51367477/991-ratio-ezdrave.jpg"
-    },
-    {
-      "title": "Засилен контрол на НАП върху веригата за доставки на месо и месни продукти",
-      "url": "https://dariknews.bg/novini/bylgariia/zasilen-kontrol-na-nap-vyrhu-verigata-za-dostavki-na-meso-i-mesni-produkti-2468031",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51245/51245167/991-ratio-nap.jpg"
-    },
-    {
-      "title": "Кърджалиец предаде в полицията 3100 евро, поискани от ало измамници от 93-годишен мъж",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/kyrdzhaliec-predade-v-policiiata-3100-evro-poiskani-ot-alo-izmamnici-ot-93-godishen-myzh-2468029",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35974/35974771/991-ratio-myzh-vyzrasten-ryce-bastun.jpg"
+      "title": "Ливърпул гласи раздяла с разочаровалия Вирц 02 Окт | 15:15",
+      "url": "https://dsport.bg/livarpul-glasi-razdala-s-razocharovalia-virc~241228.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294948499.og.jpg"
     },
     {
       "title": "Официално: Лео Меси стана бос на още един испански клуб 02 Окт | 15:06",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/fotojet-2026-10-01t191613.187-1.l.og.jpg"
-    },
-    {
-      "title": "Локо Пловдив победи Арда в закрита контрола 02 Окт | 13:30",
-      "url": "https://dsport.bg/loko-plovdiv-pobedi-arda-v-zakrita-kontrola~241221.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.10-7.og.jpg"
-    },
-    {
-      "title": "ЦСКА ще представи новия треньор на „Армията“ 02 Окт | 13:19",
-      "url": "https://dsport.bg/cska-ste-predstavi-novia-trenor-na-armiata~241219.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.10-6~1.og.jpg"
     }
   ]
 }
