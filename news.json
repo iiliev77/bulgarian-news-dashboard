@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-02T05:00:39.079291+00:00",
+  "updated": "2026-10-02T05:16:42.981213+00:00",
   "articles": [
     {
-      "title": "Цар Самуил се завръща у дома: България го посреща на 3 октомври с изтребители, салюти и държавни почести",
-      "url": "https://dariknews.bg/novini/bylgariia/car-samuil-se-zavryshta-u-doma-bylgariia-go-posreshta-na-3-oktomvri-s-iztrebiteli-saliuti-i-dyrzhavni-pochesti-2467982",
+      "title": "Арестуваха американски правителствен служител заради подкрепа за йеменски бунтовници",
+      "url": "https://dariknews.bg/novini/sviat/arestuvaha-amerikanski-pravitelstven-sluzhitel-zaradi-podkrepa-za-jemenski-buntovnici-2467984",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
+    },
+    {
+      "title": "Цар Самуил се завръща у дома: България посреща тленните останки на 3 октомври с изтребители, салюти и почести",
+      "url": "https://dariknews.bg/novini/bylgariia/car-samuil-se-zavryshta-u-doma-bylgariia-posreshta-tlennite-ostanki-na-3-oktomvri-s-iztrebiteli-saliuti-i-pochesti-2467982",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51332/51332616/991-ratio-trakiia.jpg"
     },
     {
-      "title": "Д-р Добрик Георгиев е носителят на голямата награда „Джон Атанасов“ (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/d-r-dobrik-georgiev-e-nositeliat-na-goliamata-nagrada-dzhon-atanasov-snimki-2467966",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390067/991-ratio-nagrada-dzhon-atanasov.jpg"
+      "title": "Той е чужденец №1 в Русия, а прякорът му идва заради жена 02 Окт | 08:10",
+      "url": "https://dsport.bg/toi-e-chuzdenec-1-v-rusia-a-prakorat-mu-idva-zaradi-zena~241199.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-168987458.og.jpg"
     },
     {
       "title": "Ирландия и Австрия не се победиха в мач, прекъснат заради протест 02 Окт | 00:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/848030-1.og.jpg"
-    },
-    {
-      "title": "Британският премиер си навлече критики заради Манчестър Сити, излезе с нова позиция 01 Окт | 22:09",
-      "url": "https://dsport.bg/britanskiat-premier-si-navleche-kritiki-zaradi-manchestar-siti-izleze-s-nova-pozicia~241188.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297874980.og.jpg"
     }
   ]
 }
