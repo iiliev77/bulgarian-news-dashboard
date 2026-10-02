@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:47:48.647874+00:00",
+  "updated": "2026-10-02T17:58:40.334171+00:00",
   "articles": [
     {
       "title": "Нов инцидент с танкер в Ормузкия проток, избухнал е пожар",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51091/51091803/991-ratio-ekaterina-asenova-ia-git.jpg"
     },
     {
+      "title": "Асистенция на Питас помогна на Кипър за важна победа над Армения 02 Окт | 20:53",
+      "url": "https://dsport.bg/asistencia-na-pitas-pomogna-na-kipar-za-vazna-pobeda-nad-armenia~241250.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2240946666.og.jpg"
+    },
+    {
       "title": "Националите проведоха официалната си тренировка преди гостуването на Исландия (ВИДЕО) 02 Окт | 20:13",
       "url": "https://dsport.bg/nacionalite-provedoha-oficialnata-si-trenirovka-predi-gostuvaneto-na-islandia-video~241249.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_15~34.og.jpg"
-    },
-    {
-      "title": "Ювентус експериментира и загуби от тим от Серия Б 02 Окт | 18:01",
-      "url": "https://dsport.bg/uventus-strada-i-v-priatelski-mach~241240.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297659986.og.jpg"
     }
   ]
 }
