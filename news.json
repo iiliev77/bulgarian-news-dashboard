@@ -1,16 +1,23 @@
 {
-  "updated": "2026-10-02T10:03:54.470619+00:00",
+  "updated": "2026-10-02T10:21:17.236729+00:00",
   "articles": [
     {
-      "title": "Ема Хеминг с рядка снимка на Брус Уилис: Ще превърна скръбта си в подкрепа за другите (СНИМКИ)",
+      "title": "Авария оцвети водите на река Бели Искър",
+      "url": "https://dariknews.bg/regioni/sofiia/avariia-ocveti-vodite-na-reka-beli-iskyr-2468037",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390343/991-ratio-reka-beli-iskyr.jpg"
+    },
+    {
+      "title": "Ема Хеминг с рядка снимка на Брус Уилис: „Ще превърна скръбта си в подкрепа за другите“ (СНИМКИ)",
       "url": "https://dariknews.bg/novini/sviat/ema-heming-s-riadka-snimka-na-brus-uilis-shte-prevyrna-skrybta-si-v-podkrepa-za-drugite-snimki-2468034",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51011/51011673/991-ratio-brus-uilis.jpg"
     },
     {
-      "title": "Два тежки инцидента в Пловдивско: Пешеходка почина, а мъж е в тежко състояние",
-      "url": "https://dariknews.bg/regioni/plovdiv/dva-tezhki-incidenta-v-plovdivsko-peshehodka-pochina-a-myzh-e-v-tezhko-systoianie-2468035",
+      "title": "При два пътни инцидента в Пловдивско: Пешеходка почина, а мъж е в тежко състояние",
+      "url": "https://dariknews.bg/regioni/plovdiv/pri-dva-pytni-incidenta-v-plovdivsko-peshehodka-pochina-a-myzh-e-v-tezhko-systoianie-2468035",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/45622/45622035/991-ratio-smyrtna-prisyda-inzhekciia-smyrtonosna-inzhekciia.jpg"
     },
     {
-      "title": "Премиерът: Диалогът, който направихме с веригите за „Кошница с грижа“, даде резултат",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-dialogyt-kojto-napravihme-s-verigite-za-koshnica-s-grizha-dade-rezultat-2468014",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51321/51321547/991-ratio-visoki-ceni.jpg"
+      "title": "ЦСКА ще представи новия треньор на „Армията“ 02 Окт | 13:19",
+      "url": "https://dsport.bg/cska-ste-predstavi-novia-trenor-na-armiata~241219.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/02.10-6~1.og.jpg"
+    },
+    {
+      "title": "Арабите подкрепиха Джани Инфантино 02 Окт | 13:09",
+      "url": "https://dsport.bg/arabite-podkrepiha-dzani-infantino~241218.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2282659016-1-1~1.og.jpg"
     },
     {
       "title": "FA с изявление по случая с решението за Манчестър Сити 02 Окт | 12:45",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297090259.og.jpg"
-    },
-    {
-      "title": "Синът на Илиян Филипов с трогателно сбогуване с баща си 02 Окт | 10:37",
-      "url": "https://dsport.bg/sinat-na-ilian-filipov-s-trogatelno-sboguvane-s-basta-si~241208.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.10-2~3.og.jpg"
-    },
-    {
-      "title": "Разделение в Добруджа? Страницата на отбора с разкритие за треньора 02 Окт | 10:18",
-      "url": "https://dsport.bg/razdelenie-v-dobrudza-stranicata-na-otbora-s-razkritie-za-trenora~241207.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/02.10-1~3.og.jpg"
     }
   ]
 }
