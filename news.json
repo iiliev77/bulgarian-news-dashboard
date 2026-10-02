@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-02T07:42:41.973065+00:00",
+  "updated": "2026-10-02T07:56:22.891506+00:00",
   "articles": [
+    {
+      "title": "В София пристигна саркофагът, в който ще бъдат положени костите на цар Самуил (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/v-sofiia-pristigna-sarkofagyt-v-kojto-shte-bydat-polozheni-kostite-na-car-samuil-snimki-2468007",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390278/991-ratio-v-sofiia-pristigna-sarkofagyt-v-kojto-shte-bydat-polozheni-kostite.jpg"
+    },
+    {
+      "title": "Зад жълтата раница: Скритият свят на градските куриери",
+      "url": "https://dariknews.bg/novini/liubopitno/zad-zhyltata-ranica-skritiiat-sviat-na-gradskite-kurieri-2468008",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390279/991-ratio-kurieri.jpg"
+    },
     {
       "title": "Перилни препарати с чужди търговски марки иззеха при акция във Видин",
       "url": "https://dariknews.bg/regioni/vidin/perilni-preparati-s-chuzhdi-tyrgovski-marki-izzeha-pri-akciia-vyv-vidin-2468005",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390267/991-ratio-perilni-preparati.jpg"
+    },
+    {
+      "title": "Фалшиви лични асистенти обраха 85-годишна жена: Майка и дъщеря задигнаха 450 евро",
+      "url": "https://dariknews.bg/regioni/montana/falshivi-lichni-asistenti-obraha-85-godishna-zhena-majka-i-dyshteria-zadignaha-450-evro-2468006",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50855/50855693/991-ratio-izmama-vyzrastna-zhena-pensionerka.jpg"
     },
     {
       "title": "Фейгин вече не крие любовта си: Разкри кой е мъжът до нея (ВИДЕО)",
@@ -30,8 +51,8 @@
       "image": "https://m.netinfo.bg/media/images/51182/51182072/991-ratio-mechka.jpg"
     },
     {
-      "title": "Донев отхвърли по-ниска прогноза за дефицита през 2026 г. - ще бъде до 5,7%",
-      "url": "https://dariknews.bg/novini/bylgariia/donev-othvyrli-po-niska-prognoza-za-deficita-prez-2026-g.-shte-byde-do-57-2468003",
+      "title": "Донев отхвърли по-ниска прогноза за дефицита през 2026 г., категоричен е - ще бъде до 5,7%",
+      "url": "https://dariknews.bg/novini/bylgariia/donev-othvyrli-po-niska-prognoza-za-deficita-prez-2026-g.-kategorichen-e-shte-byde-do-57-2468003",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51335/51335425/991-ratio-gylyb-donev.jpg"
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390197/991-ratio-hali-beri.jpg"
     },
     {
-      "title": "Пеканов: Очакваме голяма част от петото плащане по ПВУ да дойде до края на тази година",
-      "url": "https://dariknews.bg/novini/bylgariia/pekanov-ochakvame-goliama-chast-ot-petotoplashtane-po-pvu-da-dojde-do-kraia-na-tazi-godina-2467988",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50320/50320825/991-ratio-atanas-pekanov.jpg"
-    },
-    {
-      "title": "Нова следа около убийството на бизнесмена Илиян Филипов и задържания Славчо Мегеров",
-      "url": "https://dariknews.bg/novini/bylgariia/nova-sleda-okolo-ubijstvoto-na-biznesmena-iliian-filipov-i-zadyrzhaniia-slavcho-megerov-2467987",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Мощни експлозии разтърсиха йеменската столица Сана",
-      "url": "https://dariknews.bg/novini/sviat/moshtni-eksplozii-raztyrsiha-jemenskata-stolica-sana-2467986",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390172/991-ratio-sana.jpg"
+      "title": "Шави пое вината за мача срещу Гърция 02 Окт | 10:47",
+      "url": "https://dsport.bg/shavi-poe-vinata-za-macha-srestu-garcia~241209.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297090259.og.jpg"
     },
     {
       "title": "Синът на Илиян Филипов с трогателно сбогуване с баща си 02 Окт | 10:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-168987458.og.jpg"
-    },
-    {
-      "title": "Ирландия и Австрия не се победиха в мач, прекъснат заради протест 02 Окт | 00:00",
-      "url": "https://dsport.bg/irlandia-i-avstria-ne-se-pobediha-v-mach-prekasnat-zaradi-protest~241198.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298110149.og.jpg"
     }
   ]
 }
