@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T17:58:40.334171+00:00",
+  "updated": "2026-10-02T18:16:41.954337+00:00",
   "articles": [
+    {
+      "title": "Пожар избухна в ТЕЦ „Брикел“ в Гълъбово",
+      "url": "https://dariknews.bg/novini/pozhar-izbuhna-v-tec-brikel-v-gylybovo-2468088",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390670/991-ratio-tec-brikel.jpg"
+    },
     {
       "title": "Нов инцидент с танкер в Ормузкия проток, избухнал е пожар",
       "url": "https://dariknews.bg/novini/sviat/nov-incident-s-tanker-v-ormuzkiia-protok-izbuhnal-e-pozhar-2468085",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50880/50880261/991-ratio-telefonna-izmama-alo-izmama.jpg"
     },
     {
-      "title": "Шефът на ГИТ: Строителството остава най-рисковият сектор, падането от височина - водеща причина за инциденти",
-      "url": "https://dariknews.bg/novini/bylgariia/shefyt-na-git-stroitelstvoto-ostava-naj-riskoviiat-sektor-padaneto-ot-visochina-vodeshta-prichina-za-incidenti-2468065",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51091/51091803/991-ratio-ekaterina-asenova-ia-git.jpg"
+      "title": "Манчини си изми ръцета за скандала в Манчестър Сити: Не е мой проблем 02 Окт | 21:06",
+      "url": "https://dsport.bg/manchini-si-izmi-raceta-za-skandala-v-manchestar-siti-ne-e-moi-problem~241251.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1960299090~1.og.jpg"
     },
     {
       "title": "Асистенция на Питас помогна на Кипър за важна победа над Армения 02 Окт | 20:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/684347-1-.og.jpg"
-    },
-    {
-      "title": "Локомотив София уреди двама нови за \"железничарското\" дерби 02 Окт | 18:11",
-      "url": "https://dsport.bg/lokomotiv-sf-uredi-dvama-novi-za-zeleznicharskoto-derbi~241241.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_15~34.og.jpg"
     }
   ]
 }
