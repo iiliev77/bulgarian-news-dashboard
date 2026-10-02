@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-02T12:35:58.965825+00:00",
+  "updated": "2026-10-02T12:54:20.238218+00:00",
   "articles": [
+    {
+      "title": "Имало ли е 160% оскъпяване на договори за мантинели – ДПС сезира прокуратурата",
+      "url": "https://dariknews.bg/novini/bylgariia/imalo-li-e-160-oskypiavane-na-dogovori-za-mantineli-dps-sezira-prokuraturata-2468066",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390425/991-ratio-hamid-hamid.jpg"
+    },
+    {
+      "title": "Легендарният Кронос от Venom си отиде на 63 години",
+      "url": "https://dariknews.bg/novini/sviat/legendarniiat-kronos-ot-venom-si-otide-na-63-godini-2468064",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
+    },
+    {
+      "title": "Бъдете внимателни: Опити за ало измами в Петрич",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/bydete-vnimatelni-opiti-za-alo-izmami-v-petrich-2468067",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50880/50880261/991-ratio-telefonna-izmama-alo-izmama.jpg"
+    },
+    {
+      "title": "Шефът на ГИТ: Строителството остава най-рисковият сектор, падането от височина - водеща причина за инциденти",
+      "url": "https://dariknews.bg/novini/bylgariia/shefyt-na-git-stroitelstvoto-ostava-naj-riskoviiat-sektor-padaneto-ot-visochina-vodeshta-prichina-za-incidenti-2468065",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51091/51091803/991-ratio-ekaterina-asenova-ia-git.jpg"
+    },
+    {
+      "title": "Броят на жертвите на епидемията от ебола в ДР Конго надхвърли 4000",
+      "url": "https://dariknews.bg/novini/sviat/broiat-na-zhertvite-na-epidemiiata-ot-ebola-v-dr-kongo-nadhvyrli-4000-2468062",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51331/51331030/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
+    },
+    {
+      "title": "Полицията в Шумен издирва 89-годишна жена (СНИМКА)",
+      "url": "https://dariknews.bg/regioni/shumen/policiiata-v-shumen-izdirva-89-godishna-zhena-snimka-2468063",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+    },
     {
       "title": "„Ще има много промени и иновации“: ВиК - Шумен е с нов управител",
       "url": "https://dariknews.bg/regioni/shumen/shte-ima-mnogo-promeni-i-inovacii-vik-shumen-e-s-nov-upravitel-2468061",
@@ -16,8 +58,8 @@
       "image": "https://m.netinfo.bg/media/images/51332/51332333/991-ratio-uchenici-izpit.jpg"
     },
     {
-      "title": "22 души са задържани при акция срещу трафика на мигранти в София",
-      "url": "https://dariknews.bg/regioni/sofiia/22-dushi-sa-zadyrzhani-pri-akciia-sreshtu-trafika-na-migranti-v-sofiia-2468058",
+      "title": "МВР разби организирана престъпна група за трафик на мигранти, 22 души са задържани в София (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/mvr-razbi-organizirana-prestypna-grupa-za-trafik-na-migranti-22-dushi-sa-zadyrzhani-v-sofiia-snimki-2468058",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51259/51259425/991-ratio-migranti-gdbop-kanaldzhii.jpg"
@@ -98,48 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51219/51219409/991-ratio-kriptovaluta.jpg"
-    },
-    {
-      "title": "Сибига: Украйна разполага с данни за планирани руски атаки в Европа",
-      "url": "https://dariknews.bg/novini/sviat/sibiga-ukrajna-razpolaga-s-danni-za-planirani-ruski-ataki-v-evropa-2468042",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51329/51329698/991-ratio-andrij-sibiga.jpg"
-    },
-    {
-      "title": "Областният управител на Смолян ще сезира институциите за случая със субсидията за училището в Доспат",
-      "url": "https://dariknews.bg/regioni/Smolyan/oblastniiat-upravitel-na-smolian-shte-sezira-instituciite-za-sluchaia-sys-subsidiiata-za-uchilishteto-v-dospat-2468041",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50232/50232731/991-ratio-dokument.jpg"
-    },
-    {
-      "title": "Откриха 20 кг млечни продукти и колбаси с изтекъл срок на годност в склад в Сливенско",
-      "url": "https://dariknews.bg/regioni/sliven/otkriha-20-kg-mlechni-produkti-i-kolbasi-s-iztekyl-srok-na-godnost-v-sklad-v-slivensko-2468039",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51305/51305973/991-ratio-sirene.jpg"
-    },
-    {
-      "title": "Радев за Украйна: Няма нито една лъжа и неизпълнено обещание от наша страна",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-za-ukrajna-niama-nito-edna-lyzha-i-neizpylneno-obeshtanie-ot-nasha-strana-2468040",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51383/51383290/991-ratio-rumen-radev.jpg"
-    },
-    {
-      "title": "Авария оцвети водите на река Бели Искър",
-      "url": "https://dariknews.bg/regioni/sofiia/avariia-ocveti-vodite-na-reka-beli-iskyr-2468037",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390343/991-ratio-reka-beli-iskyr.jpg"
-    },
-    {
-      "title": "Ема Хеминг с рядка снимка на Брус Уилис: „Ще превърна скръбта си в подкрепа за другите“ (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/ema-heming-s-riadka-snimka-na-brus-uilis-shte-prevyrna-skrybta-si-v-podkrepa-za-drugite-snimki-2468034",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51011/51011673/991-ratio-brus-uilis.jpg"
     },
     {
       "title": "Ради Кирилов е на рехабилитация в чужбина, не му предстои втора операция 02 Окт | 15:19",
