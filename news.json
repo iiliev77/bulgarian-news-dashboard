@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-02T06:15:54.810218+00:00",
+  "updated": "2026-10-02T06:38:27.168532+00:00",
   "articles": [
+    {
+      "title": "Мъж агресира и заплашва с нож полицаи във Великотърновско",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/myzh-agresira-i-zaplashva-s-nozh-policai-vyv-velikotyrnovsko-2467991",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196169/991-ratio-myzh-nozh.jpg"
+    },
+    {
+      "title": "Задигнаха 31000 евро от апартамент в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/zadignaha-31000-evro-ot-apartament-v-stara-zagora-2467989",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352113/991-ratio-kradec-krazhba.jpg"
+    },
+    {
+      "title": "Съдът ограничи контактите на Хали Бери със сина ѝ след обвинения за физическо насилие",
+      "url": "https://dariknews.bg/novini/sviat/sydyt-ogranichi-kontaktite-na-hali-beri-sys-sina-sled-obvineniia-za-fizichesko-nasilie-2467990",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390197/991-ratio-hali-beri.jpg"
+    },
+    {
+      "title": "Пеканов: Очакваме голяма част от петото плащане по ПВУ да дойде до края на тази година",
+      "url": "https://dariknews.bg/novini/bylgariia/pekanov-ochakvame-goliama-chast-ot-petotoplashtane-po-pvu-da-dojde-do-kraia-na-tazi-godina-2467988",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50320/50320825/991-ratio-atanas-pekanov.jpg"
+    },
     {
       "title": "Нова следа около убийството на бизнесмена Илиян Филипов и задържания Славчо Мегеров",
       "url": "https://dariknews.bg/novini/bylgariia/nova-sleda-okolo-ubijstvoto-na-biznesmena-iliian-filipov-i-zadyrzhaniia-slavcho-megerov-2467987",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384485/991-ratio-donald-trymp.jpg"
     },
     {
-      "title": "България постави случая на Ива Михайлова пред Съвета на Европа",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-postavi-sluchaia-na-iva-mihajlova-pred-syveta-na-evropa-2467975",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
-    },
-    {
-      "title": "Вотът на недоверие срещу чешкия премиер не успя",
-      "url": "https://dariknews.bg/novini/sviat/votyt-na-nedoverie-sreshtu-cheshkiia-premier-ne-uspia-2467974",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50344/50344752/991-ratio-andrej-babish.jpg"
-    },
-    {
-      "title": "Мъж ухапа стюардеса и пътничка по време на полет",
-      "url": "https://dariknews.bg/novini/sviat/myzh-uhapa-stiuardesa-i-pytnichka-po-vreme-na-polet-2467973",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390101/991-ratio-stiuardesa.jpg"
-    },
-    {
-      "title": "ЕК прекрати наказателна процедура срещу България",
-      "url": "https://dariknews.bg/novini/bylgariia/ek-prekrati-nakazatelna-procedura-sreshtu-bylgariia-2467971",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51210/51210595/991-ratio-bylgariia-es.jpg"
+      "title": "Трима пилоти с наказания за Гран При на Бахрейн в Малайзия 02 Окт | 09:19",
+      "url": "https://dsport.bg/trima-piloti-s-nakazania-za-gran-pri-na-bahrein-v-malaizia~241203.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298169337.og.jpg"
     },
     {
       "title": "Верстапен впечатли при завръщането на бахрейнското състезание в Малайзия 02 Окт | 09:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298122146.og.jpg"
-    },
-    {
-      "title": "Олимпиакос и Везенков с драматична загуба в Болоня 01 Окт | 23:23",
-      "url": "https://dsport.bg/olimpiakos-i-vezenkov-s-dramatichna-zaguba-v-bolona~241192.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/951235~2.og.jpg"
     }
   ]
 }
