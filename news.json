@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T13:06:30.677840+00:00",
+  "updated": "2026-10-02T13:25:26.285753+00:00",
   "articles": [
+    {
+      "title": "В Ловешко откриха автомобил, обявен за откраднат във Великобритания",
+      "url": "https://dariknews.bg/regioni/lovech/v-loveshko-otkriha-avtomobil-obiaven-za-otkradnat-vyv-velikobritaniia-2468071",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
+    },
     {
       "title": "Фон дер Лайен посъветва Мицкоски да търси диалог с България",
       "url": "https://dariknews.bg/novini/bylgariia/fon-der-lajen-posyvetva-mickoski-da-tyrsi-dialog-s-bylgariia-2468068",
@@ -135,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390391/991-ratio-policiia.jpg"
     },
     {
-      "title": "Петима миньори загинаха при срутване в мина в Турция",
-      "url": "https://dariknews.bg/novini/sviat/petima-miniori-zaginaha-pri-srutvane-v-mina-v-turciia-2468045",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390388/991-ratio-mina.jpg"
-    },
-    {
       "title": "Тя е милиардерска наследница, но избра да гради кариера сама 02 Окт | 15:58",
       "url": "https://dsport.bg/ta-e-miliarderska-naslednica-no-izbra-da-gradi-kariera-sama~241227.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/.og.gcmdz04mdamagfzad1iodyyotyymdrhymzlmdrmytziodawmtc5mmnkzmy"
+      "image": "https://dsport.bg/media/384/ioanatiriac.og.jpg"
     },
     {
       "title": "Ради Кирилов е на рехабилитация в чужбина, не му предстои втора операция 02 Окт | 15:19",
