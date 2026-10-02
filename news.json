@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T10:21:17.236729+00:00",
+  "updated": "2026-10-02T10:35:38.591375+00:00",
   "articles": [
+    {
+      "title": "Откриха 20 кг млечни продукти и колбаси с изтекъл срок на годност в склад в Сливенско",
+      "url": "https://dariknews.bg/regioni/sliven/otkriha-20-kg-mlechni-produkti-i-kolbasi-s-iztekyl-srok-na-godnost-v-sklad-v-slivensko-2468039",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51305/51305973/991-ratio-sirene.jpg"
+    },
+    {
+      "title": "Радев за Украйна: Няма нито една лъжа и неизпълнено обещание от наша страна",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-za-ukrajna-niama-nito-edna-lyzha-i-neizpylneno-obeshtanie-ot-nasha-strana-2468040",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51383/51383290/991-ratio-rumen-radev.jpg"
+    },
     {
       "title": "Авария оцвети водите на река Бели Искър",
       "url": "https://dariknews.bg/regioni/sofiia/avariia-ocveti-vodite-na-reka-beli-iskyr-2468037",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51205/51205071/991-ratio-rajnmetal.jpg"
     },
     {
-      "title": "Хвърлиха домат по кмета на Доспат на извънредно заседание, последва физически сблъсък",
-      "url": "https://dariknews.bg/regioni/Smolyan/hvyrliha-domat-po-kmeta-na-dospat-na-izvynredno-zasedanie-posledva-fizicheski-sblysyk-2468013",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390287/991-ratio-skrijnshot-ot-videoizlychvane-na-zasedanieto-na-obshtinskiia-syvet-v-dospat.jpg"
-    },
-    {
-      "title": "„Беше жестоко и мъчително“: Криста Пайк остана жива след екзекуцията, но е в критично състояние",
-      "url": "https://dariknews.bg/novini/sviat/beshe-zhestoko-i-mychitelno-krista-pajk-ostana-zhiva-sled-ekzekuciiata-no-e-v-kritichno-systoianie-2468015",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45622/45622035/991-ratio-smyrtna-prisyda-inzhekciia-smyrtonosna-inzhekciia.jpg"
+      "title": "Локо Пловдив победи Арда в закрита контрола 02 Окт | 13:30",
+      "url": "https://dsport.bg/loko-plovdiv-pobedi-arda-v-zakrita-kontrola~241221.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/02.10-7.og.jpg"
     },
     {
       "title": "ЦСКА ще представи новия треньор на „Армията“ 02 Окт | 13:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296958655.og.jpg"
-    },
-    {
-      "title": "Шави пое вината за мача срещу Гърция 02 Окт | 10:47",
-      "url": "https://dsport.bg/shavi-poe-vinata-za-macha-srestu-garcia~241209.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297090259.og.jpg"
     }
   ]
 }
