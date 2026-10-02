@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T02:55:42.046971+00:00",
+  "updated": "2026-10-02T03:07:24.948201+00:00",
   "articles": [
+    {
+      "title": "Слънчев петък, но с дъжд и вятър по Черноморието",
+      "url": "https://dariknews.bg/novini/bylgariia/slynchev-petyk-no-s-dyzhd-i-viatyr-po-chernomorieto-2467972",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/41034/41034549/991-ratio-burno-more.jpg"
+    },
+    {
+      "title": "Храната като лекарство или вреда: как ежедневният ни избор влияе на здравето",
+      "url": "https://dariknews.bg/novini/interviu/hranata-kato-lekarstvo-ili-vreda-kak-ezhednevniiat-ni-izbor-vliiae-na-zdraveto-2467968",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390073/991-ratio-zdravoslovno-hranene-i-nachin-na-zhivot.jpg"
+    },
     {
       "title": "Тръмп: Иран може да стои зад опита за покушение на полета на „Флайдубай“",
       "url": "https://dariknews.bg/novini/sviat/trymp-iran-mozhe-da-stoi-zad-opita-za-pokushenie-na-poleta-na-flajdubaj-2467976",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390034/991-ratio-svetilnik.jpg"
-    },
-    {
-      "title": "Оставиха в ареста обвиняемия за катастрофата в Мездра, при която загинаха двама души",
-      "url": "https://dariknews.bg/regioni/vraca/ostaviha-v-aresta-obviniaemiia-za-katastrofata-v-mezdra-pri-koiato-zaginaha-dvama-dushi-2467956",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Мъж е обвинен за насилие над дете при домашен тормоз в Монтанско",
-      "url": "https://dariknews.bg/regioni/montana/myzh-e-obvinen-za-nasilie-nad-dete-pri-domashen-tormoz-v-montansko-2467953",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
     },
     {
       "title": "Ирландия и Австрия не се победиха в мач, прекъснат заради протест 02 Окт | 00:00",
