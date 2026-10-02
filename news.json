@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T11:00:08.873202+00:00",
+  "updated": "2026-10-02T11:14:53.328531+00:00",
   "articles": [
+    {
+      "title": "Полиция и жандармерия с акция в Разград, изградени са КПП-та (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/razgrad/policiia-i-zhandarmeriia-s-akciia-v-razgrad-izgradeni-sa-kpp-ta-snimki-2468047",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390391/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Петима миньори загинаха при срутване в мина в Турция",
+      "url": "https://dariknews.bg/novini/sviat/petima-miniori-zaginaha-pri-srutvane-v-mina-v-turciia-2468045",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390388/991-ratio-mina.jpg"
+    },
     {
       "title": "Арестуваха кмет на истанбулска община при операция срещу корупцията",
       "url": "https://dariknews.bg/novini/sviat/arestuvaha-kmet-na-istanbulska-obshtina-pri-operaciia-sreshtu-korupciiata-2468044",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50941/50941243/991-ratio-shofior-kola-vyzrasten-myzh-vyzrasten-shofior.jpg"
     },
     {
-      "title": "Затварят 400 училища във Франция заради ескалиращо насилие",
-      "url": "https://dariknews.bg/novini/sviat/zatvariat-400-uchilishta-vyv-franciia-zaradi-eskalirashto-nasilie-2468021",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
-    },
-    {
-      "title": "Пеевски: Ако има 36 фактури за платени от фирма мои полети, подавам оставка. Ако няма, Радев да подаде",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-ako-ima-36-fakturi-za-plateni-ot-firma-moi-poleti-podavam-ostavka.-ako-niama-radev-da-podade-2468020",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
+      "title": "Треньорско завръщане в Янтра 02 Окт | 14:00",
+      "url": "https://dsport.bg/trenorsko-zavrastane-v-antra~241222.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/02.10-8.og.jpg"
     },
     {
       "title": "Германските треньори, докоснали се до българския футбол 02 Окт | 13:50",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298152772.og.jpg"
-    },
-    {
-      "title": "Спартак Варна с мач предизвикателство по време на паузата 02 Окт | 11:39",
-      "url": "https://dsport.bg/spartak-varna-s-mach-predizvikatelstvo-po-vreme-na-pauzata~241212.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1018086~1.og.jpg"
     }
   ]
 }
