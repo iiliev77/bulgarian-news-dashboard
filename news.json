@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T10:50:01.227610+00:00",
+  "updated": "2026-10-02T11:00:08.873202+00:00",
   "articles": [
+    {
+      "title": "Арестуваха кмет на истанбулска община при операция срещу корупцията",
+      "url": "https://dariknews.bg/novini/sviat/arestuvaha-kmet-na-istanbulska-obshtina-pri-operaciia-sreshtu-korupciiata-2468044",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390385/991-ratio-eiupsultan.jpg"
+    },
+    {
+      "title": "Гръцката полиция разкри финансова пирамида с криптовалута",
+      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razkri-finansova-piramida-s-kriptovaluta-2468043",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51219/51219409/991-ratio-kriptovaluta.jpg"
+    },
     {
       "title": "Сибига: Украйна разполага с данни за планирани руски атаки в Европа",
       "url": "https://dariknews.bg/novini/sviat/sibiga-ukrajna-razpolaga-s-danni-za-planirani-ruski-ataki-v-evropa-2468042",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Бабини рецепти, споделени мигове и лични истории в „Спомени с вкус“",
-      "url": "https://dariknews.bg/novini/liubopitno/babini-recepti-spodeleni-migove-i-lichni-istorii-v-spomeni-s-vkus-2468019",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390310/991-ratio-spomeni-s-vkus.jpg"
-    },
-    {
-      "title": "Искат постоянен арест за задържания за убийството на Илиян Филипов, проверяват дали има и други участници",
-      "url": "https://dariknews.bg/regioni/plovdiv/iskat-postoianen-arest-za-zadyrzhaniia-za-ubijstvoto-na-iliian-filipov-proveriavat-dali-ima-i-drugi-uchastnici-2468018",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Германските треньори, докоснали се до българския футбол 02 Окт | 13:50",
+      "url": "https://dsport.bg/germanskite-trenori-dokosnali-se-do-balgarskia-futbol~241223.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/lothar-matthaus.og.jpg"
     },
     {
       "title": "Шефът на полицията в Пловдив: Мегеров и Филипов са имали контакт преди около две седмици 02 Окт | 13:42",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1018086~1.og.jpg"
-    },
-    {
-      "title": "Леао: Кристиано е моят идол от детството, сигурен съм, че той у дома се радва за победата 02 Окт | 11:29",
-      "url": "https://dsport.bg/leao-kristiano-e-moat-idol-ot-detstvoto-siguren-sam-che-toi-u-doma-se-radva-za-pobedata~241211.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296974364.og.jpg"
     }
   ]
 }
