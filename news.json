@@ -1,9 +1,30 @@
 {
-  "updated": "2026-10-02T08:42:29.107665+00:00",
+  "updated": "2026-10-02T08:55:26.207457+00:00",
   "articles": [
     {
-      "title": "Пеевски: Радев да си викне Демерджиев да видим кой лъже за полетите – той, или министърът",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-radev-da-si-vikne-demerdzhiev-da-vidim-koj-lyzhe-za-poletite-toj-ili-ministyryt-2468020",
+      "title": "Полицейска гонка в Перник: 22-годишен шофьор с 1,79 промила отказа да спре за проверка",
+      "url": "https://dariknews.bg/regioni/pernik/policejska-gonka-v-pernik-22-godishen-shofior-s-179-promila-otkaza-da-spre-za-proverka-2468023",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "73-годишен шофьор блъсна 84-годишна жена на пешеходна пътека в Казанлък",
+      "url": "https://dariknews.bg/regioni/stara-zagora/73-godishen-shofior-blysna-84-godishna-zhena-na-peshehodna-pyteka-v-kazanlyk-2468022",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50941/50941243/991-ratio-shofior-kola-vyzrasten-myzh-vyzrasten-shofior.jpg"
+    },
+    {
+      "title": "Затварят 400 училища във Франция заради ескалиращо насилие",
+      "url": "https://dariknews.bg/novini/sviat/zatvariat-400-uchilishta-vyv-franciia-zaradi-eskalirashto-nasilie-2468021",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+    },
+    {
+      "title": "Пеевски: Радев да викне Демерджиев, да видим кой лъже – премиерът или министърът",
+      "url": "https://dariknews.bg/novini/bylgariia/peevski-radev-da-vikne-demerdzhiev-da-vidim-koj-lyzhe-premieryt-ili-ministyryt-2468020",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51182/51182072/991-ratio-mechka.jpg"
-    },
-    {
-      "title": "„Изтърбушване“ и „ние сме дали парите“: Остри реплики между Радев и „Възраждане“ за ремонта на Шипка",
-      "url": "https://dariknews.bg/novini/bylgariia/iztyrbushvane-i-nie-sme-dali-parite-ostri-repliki-mezhdu-radev-i-vyzrazhdane-za-remonta-na-shipka-2468001",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389890/991-ratio-shipka-pametnik-remont.jpg"
-    },
-    {
-      "title": "Опозицията за дефицита: „Жан Виденов гледа и се хили отнякъде“ – Донев: „Сега берем плодовете на взетите решения“",
-      "url": "https://dariknews.bg/novini/bylgariia/opoziciiata-za-deficita-zhan-videnov-gleda-i-se-hili-otniakyde-donev-sega-berem-plodovete-na-vzetite-resheniia-2468003",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51335/51335425/991-ratio-gylyb-donev.jpg"
-    },
-    {
-      "title": "Дрон падна в Румъния след атаки срещу Украйна",
-      "url": "https://dariknews.bg/novini/sviat/dron-padna-v-rumyniia-sled-ataki-sreshtu-ukrajna-2467999",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50935/50935930/991-ratio-dron.jpg"
     },
     {
       "title": "Спартак Варна с мач предизвикателство по време на паузата 02 Окт | 11:39",
