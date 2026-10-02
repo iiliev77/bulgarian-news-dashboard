@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:45:48.503953+00:00",
+  "updated": "2026-10-02T11:57:31.056859+00:00",
   "articles": [
     {
       "title": "Евростат: Инфлацията в еврозоната скочи до 3,8%, България остава над средното ниво",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51214/51214871/991-ratio-test-s-dreger.jpg"
     },
     {
+      "title": "Облачно време и силен вятър посрещнаха националите в Исландия (ВИДЕО) 02 Окт | 14:51",
+      "url": "https://dsport.bg/oblachno-vreme-i-silen-vatar-posrestnaha-nacionalite-v-islandia-video~241229.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1035099.og.jpg"
+    },
+    {
       "title": "Манчестър Сити подаде жалба срещу Висшата лига 02 Окт | 14:36",
       "url": "https://dsport.bg/manchestar-siti-podade-zalba-srestu-visshata-liga~241226.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2282659016-1-1~1.og.jpg"
-    },
-    {
-      "title": "FA с изявление по случая с решението за Манчестър Сити 02 Окт | 12:45",
-      "url": "https://dsport.bg/fa-s-izavlenie-po-sluchaa-s-reshenieto-za-manchestar-siti~241217.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298101912.og.jpg"
     }
   ]
 }
