@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-02T03:24:26.976837+00:00",
+  "updated": "2026-10-02T03:39:55.650677+00:00",
   "articles": [
+    {
+      "title": "Разкриха как ще изглежда саркофагът на цар Самуил",
+      "url": "https://dariknews.bg/novini/bylgariia/razkriha-kak-shte-izglezhda-sarkofagyt-na-car-samuil-2467977",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35338/35338796/991-ratio-pametnik-car-samuil.jpg"
+    },
+    {
+      "title": "Пилотът герой от полета на Flydubai има още една необичайна история",
+      "url": "https://dariknews.bg/novini/sviat/pilotyt-geroj-ot-poleta-na-flydubai-ima-oshte-edna-neobichajna-istoriia-2467949",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373920/991-ratio-amerikanski-samolet.jpg"
+    },
+    {
+      "title": "Принц Хари: След края на военната ми кариера загубих част от себе си",
+      "url": "https://dariknews.bg/novini/sviat/princ-hari-sled-kraia-na-voennata-mi-kariera-zagubih-chast-ot-sebe-si-2467978",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51253/51253608/991-ratio-princ-hari.jpg"
+    },
     {
       "title": "БДЖ пуска безплатни билети до София за посрещането на тленните останки на цар Самуил",
       "url": "https://dariknews.bg/novini/bylgariia/bdzh-puska-bezplatni-bileti-do-sofiia-za-posreshtaneto-na-tlennite-ostanki-na-car-samuil-2467951",
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51303/51303193/991-ratio-tunel-vitinia.jpg"
-    },
-    {
-      "title": "Ивкова имала доклад за отнемане разрешителното на „Медикус Алфа\" още на 2 септември",
-      "url": "https://dariknews.bg/novini/bylgariia/ivkova-imala-doklad-za-otnemane-razreshitelnoto-na-medikus-alfa-oshte-na-2-septemvri-2467960",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51359/51359242/991-ratio-katia-ivkova.jpg"
-    },
-    {
-      "title": "„Малки полицаи“ в действие: Две детски полицейски управления отвориха врати в Етрополе",
-      "url": "https://dariknews.bg/regioni/sofiia/malki-policai-v-dejstvie-dve-detski-policejski-upravleniia-otvoriha-vrati-v-etropole-2467959",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390036/991-ratio-detski-policejski-upravleniia-biaha-tyrzhestveno-otkriti-v-dve-uchilishta-v.jpg"
-    },
-    {
-      "title": "Разследват сигнал за полицейско насилие в Районното управление на МВР в Кърджали",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/razsledvat-signal-za-policejsko-nasilie-v-rajonnoto-upravlenie-na-mvr-v-kyrdzhali-2467958",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390035/991-ratio-sgradata-na-mvr-kyrdzhali.jpg"
     },
     {
       "title": "Ирландия и Австрия не се победиха в мач, прекъснат заради протест 02 Окт | 00:00",
