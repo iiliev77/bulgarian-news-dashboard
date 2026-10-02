@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:16:42.981213+00:00",
+  "updated": "2026-10-02T05:32:11.748628+00:00",
   "articles": [
     {
       "title": "Арестуваха американски правителствен служител заради подкрепа за йеменски бунтовници",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
+    },
+    {
+      "title": "Година след потопа, взел жертви: „Елените“ се превърнаха в мъртъв курорт, а реката – затисната от бетон",
+      "url": "https://dariknews.bg/novini/bylgariia/godina-sled-potopa-vzel-zhertvi-elenite-se-prevyrnaha-v-myrtyv-kurort-a-rekata-zatisnata-ot-beton-2467985",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51194/51194711/991-ratio-elenite-more-navodnenie.jpg"
     },
     {
       "title": "Цар Самуил се завръща у дома: България посреща тленните останки на 3 октомври с изтребители, салюти и почести",
@@ -79,8 +86,8 @@
       "image": "https://m.netinfo.bg/media/images/41034/41034549/991-ratio-burno-more.jpg"
     },
     {
-      "title": "Храната като лекарство или вреда: как ежедневният ни избор влияе на здравето",
-      "url": "https://dariknews.bg/novini/interviu/hranata-kato-lekarstvo-ili-vreda-kak-ezhednevniiat-ni-izbor-vliiae-na-zdraveto-2467968",
+      "title": "Храната като лекарство или вреда: как ежедневните ни навици влияят на здравето",
+      "url": "https://dariknews.bg/novini/interviu/hranata-kato-lekarstvo-ili-vreda-kak-ezhednevnite-ni-navici-vliiaiat-na-zdraveto-2467968",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390073/991-ratio-zdravoslovno-hranene-i-nachin-na-zhivot.jpg"
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Аварирал камион затруднява движението по АМ „Хемус“ в посока Варна",
-      "url": "https://dariknews.bg/novini/bylgariia/avariral-kamion-zatrudniava-dvizhenieto-po-am-hemus-v-posoka-varna-2467967",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332616/991-ratio-trakiia.jpg"
+      "title": "Мбапе се лекува от контузия в дискотека с гаджето (ВИДЕО) 02 Окт | 08:25",
+      "url": "https://dsport.bg/mbape-se-lekuva-ot-kontuzia-v-diskoteka-s-gadzeto-video~241200.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2292961736.og.jpg"
     },
     {
       "title": "Той е чужденец №1 в Русия, а прякорът му идва заради жена 02 Окт | 08:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2222456527~1.og.jpg"
-    },
-    {
-      "title": "Аспарух Аспарухов стана баща 01 Окт | 22:27",
-      "url": "https://dsport.bg/asparuh-asparuhov-stana-basta~241189.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/848030-1.og.jpg"
     }
   ]
 }
