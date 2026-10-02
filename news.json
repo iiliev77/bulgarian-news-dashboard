@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T13:41:21.094529+00:00",
+  "updated": "2026-10-02T13:56:00.280133+00:00",
   "articles": [
+    {
+      "title": "Нов закон за публично-частните партньорства е на финалната права",
+      "url": "https://dariknews.bg/novini/bylgariia/nov-zakon-za-publichno-chastnite-partniorstva-e-na-finalnata-prava-2468075",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51377/51377253/991-ratio-biznes-rabota-procenti.jpg"
+    },
     {
       "title": "Полша възстановява бомбоубежища от Студената война заради руската заплаха",
       "url": "https://dariknews.bg/novini/sviat/polsha-vyzstanoviava-bomboubezhishta-ot-studenata-vojna-zaradi-ruskata-zaplaha-2468074",
@@ -9,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/49417/49417985/991-ratio-bomboubezhishte.jpg"
     },
     {
-      "title": "Проверка в „Св. Анна“ след сигнал: Отказват ли кръводарители заради липса на храна",
-      "url": "https://dariknews.bg/regioni/sofiia/proverka-v-sv.-anna-sled-signal-otkazvat-li-kryvodariteli-zaradi-lipsa-na-hrana-2468073",
+      "title": "Проверяват дали връщат кръводарители в „Св. Анна“: Нямало храна след даряването",
+      "url": "https://dariknews.bg/regioni/sofiia/proveriavat-dali-vryshtat-kryvodariteli-v-sv.-anna-niamalo-hrana-sled-dariavaneto-2468073",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386516/991-ratio-kryvodariavane.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51204/51204882/991-ratio-inflaciia-magazin-potrebitelska-koshnica.jpg"
     },
     {
-      "title": "Срещу сливането с Агенцията по горите: Служители на ИАРА излизат на протест в Бургас",
-      "url": "https://dariknews.bg/regioni/burgas/sreshtu-slivaneto-s-agenciiata-po-gorite-sluzhiteli-na-iara-izlizat-na-protest-v-burgas-2468051",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39976/39976618/991-ratio-dokument.jpg"
+      "title": "България с исторически шанс в плажния футбол! Българският шампион се изправя срещу световния елит на пясъка в Алания! 02 Окт | 16:51",
+      "url": "https://dsport.bg/balgaria-s-istoricheski-shans-v-plaznia-futbol-balgarskiat-shampion-se-izprava-srestu-svetovnia-elit-na-pasaka-v-alania~241234.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/802393812_2903126036721726_6045333515962012141_n.og.jpg"
     },
     {
       "title": "„Такъв отбор не е правен в България!“: Дея Волей, Цветан Соколов и братята Братоеви тръгват за всички трофеи през новия сезон! 02 Окт | 16:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/mixcollage-02-oct-2026-02-19-pm-405.og.jpg"
-    },
-    {
-      "title": "Марек подписа първи договор със свой юноша 02 Окт | 14:16",
-      "url": "https://dsport.bg/marek-podpisa-parvi-dogovor-sas-svoi-unosha~241225.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/05.06-3~1.og.jpg"
     }
   ]
 }
