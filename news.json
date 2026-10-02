@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T12:54:20.238218+00:00",
+  "updated": "2026-10-02T13:06:30.677840+00:00",
   "articles": [
+    {
+      "title": "Фон дер Лайен посъветва Мицкоски да търси диалог с България",
+      "url": "https://dariknews.bg/novini/bylgariia/fon-der-lajen-posyvetva-mickoski-da-tyrsi-dialog-s-bylgariia-2468068",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390433/991-ratio-fon-der-lajen-i-mickoski.jpg"
+    },
+    {
+      "title": "Голям пожар избухна в Хасковско",
+      "url": "https://dariknews.bg/regioni/haskovo/goliam-pozhar-izbuhna-v-haskovsko-2468069",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+    },
     {
       "title": "Имало ли е 160% оскъпяване на договори за мантинели – ДПС сезира прокуратурата",
       "url": "https://dariknews.bg/novini/bylgariia/imalo-li-e-160-oskypiavane-na-dogovori-za-mantineli-dps-sezira-prokuraturata-2468066",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390388/991-ratio-mina.jpg"
     },
     {
-      "title": "Арестуваха кмет на истанбулска община при операция срещу корупцията",
-      "url": "https://dariknews.bg/novini/sviat/arestuvaha-kmet-na-istanbulska-obshtina-pri-operaciia-sreshtu-korupciiata-2468044",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390385/991-ratio-eiupsultan.jpg"
-    },
-    {
-      "title": "Гръцката полиция разкри финансова пирамида с криптовалута",
-      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razkri-finansova-piramida-s-kriptovaluta-2468043",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51219/51219409/991-ratio-kriptovaluta.jpg"
+      "title": "Тя е милиардерска наследница, но избра да гради кариера сама 02 Окт | 15:58",
+      "url": "https://dsport.bg/ta-e-miliarderska-naslednica-no-izbra-da-gradi-kariera-sama~241227.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/.og.gcmdz04mdamagfzad1iodyyotyymdrhymzlmdrmytziodawmtc5mmnkzmy"
     },
     {
       "title": "Ради Кирилов е на рехабилитация в чужбина, не му предстои втора операция 02 Окт | 15:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/lothar-matthaus.og.jpg"
-    },
-    {
-      "title": "Шефът на полицията в Пловдив: Мегеров и Филипов са имали контакт преди около две седмици 02 Окт | 13:42",
-      "url": "https://dsport.bg/shefat-na-policiata-v-plovdiv-megerov-i-filipov-sa-imali-kontakt-predi-okolo-dve-sedmici~241220.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/fotojet-2026-10-01t191613.187-1.l.og.jpg"
     }
   ]
 }
