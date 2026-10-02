@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-02T06:56:04.654849+00:00",
+  "updated": "2026-10-02T07:08:54.409707+00:00",
   "articles": [
+    {
+      "title": "Американски космически кораб стигна до МКС за рекордно време",
+      "url": "https://dariknews.bg/novini/liubopitno/amerikanski-kosmicheski-korab-stigna-do-mks-za-rekordno-vreme-2467996",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390248/991-ratio-nasa-kosmos.jpg"
+    },
+    {
+      "title": "Турски шофьор на товарен автомобил загина при катастрофа в Сливенско",
+      "url": "https://dariknews.bg/regioni/sliven/turski-shofior-na-tovaren-avtomobil-zagina-pri-katastrofa-v-slivensko-2467997",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
+    },
+    {
+      "title": "Специални студиа „Самуил: Завръщането на българския цар“ в петък и събота по NOVA",
+      "url": "https://dariknews.bg/novini/liubopitno/specialni-studia-samuil-zavryshtaneto-na-bylgarskiia-car-v-petyk-i-sybota-po-nova-2467995",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390243/640-420-samuil.jpg"
+    },
     {
       "title": "Моторист загина при катастрофа във Варненско",
       "url": "https://dariknews.bg/regioni/varna/motorist-zagina-pri-katastrofa-vyv-varnensko-2467992",
@@ -9,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/38694/38694101/991-ratio-katastrofa-s-motor.jpg"
     },
     {
-      "title": "Радев: В „Икономическа полиция“ изскочиха доста неща - там е истинска джунгла",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-v-ikonomicheska-policiia-izskochiha-dosta-neshta-tam-e-istinska-dzhungla-2467993",
+      "title": "Радев: Имаме фактурите за полети за 5 млн. евро, ясно е коя фирма е закупила самолета",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-imame-fakturite-za-poleti-za-5-mln.-evro-iasno-e-koia-firma-e-zakupila-samoleta-2467993",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51348/51348147/991-ratio-rumen-radev.jpg"
@@ -23,18 +44,18 @@
       "image": "https://m.netinfo.bg/media/images/51196/51196169/991-ratio-myzh-nozh.jpg"
     },
     {
-      "title": "Задигнаха 31000 евро от апартамент в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/zadignaha-31000-evro-ot-apartament-v-stara-zagora-2467989",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352113/991-ratio-kradec-krazhba.jpg"
-    },
-    {
       "title": "„Манипулирани данни“: Министър Донев и Теменужка Петкова в спор за отчета за Бюджет 2025",
       "url": "https://dariknews.bg/novini/bylgariia/manipulirani-danni-ministyr-donev-i-temenuzhka-petkova-v-spor-za-otcheta-za-biudzhet-2025-2467994",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51332/51332831/991-ratio-gylyb-donev.jpg"
+    },
+    {
+      "title": "Задигнаха 31 000 евро от апартамент в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/zadignaha-31-000-evro-ot-apartament-v-stara-zagora-2467989",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352113/991-ratio-kradec-krazhba.jpg"
     },
     {
       "title": "Съдът ограничи контактите на Хали Бери със сина ѝ след обвинения за физическо насилие (СНИМКИ)",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/35338/35338796/991-ratio-pametnik-car-samuil.jpg"
     },
     {
-      "title": "Пилотът герой от полета на Flydubai има още една необичайна история",
-      "url": "https://dariknews.bg/novini/sviat/pilotyt-geroj-ot-poleta-na-flydubai-ima-oshte-edna-neobichajna-istoriia-2467949",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51373/51373920/991-ratio-amerikanski-samolet.jpg"
-    },
-    {
-      "title": "Принц Хари: След края на военната ми кариера загубих част от себе си",
-      "url": "https://dariknews.bg/novini/sviat/princ-hari-sled-kraia-na-voennata-mi-kariera-zagubih-chast-ot-sebe-si-2467978",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51253/51253608/991-ratio-princ-hari.jpg"
-    },
-    {
-      "title": "БДЖ пуска безплатни билети до София за посрещането на тленните останки на цар Самуил",
-      "url": "https://dariknews.bg/novini/bylgariia/bdzh-puska-bezplatni-bileti-do-sofiia-za-posreshtaneto-na-tlennite-ostanki-na-car-samuil-2467951",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51290/51290152/991-ratio-vlak-shkoda-bylgariia.jpg"
+      "title": "Клоп след първата победа: Хареса ми всичко, можехме да вкараме още голове 02 Окт | 09:57",
+      "url": "https://dsport.bg/klop-sled-parvata-pobeda-haresa-mi-vsichko-mozehme-da-vkarame-oste-golove~241205.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298125119.og.jpg"
     },
     {
       "title": "Доскорошен помощник в ЦСКА и кадър на Левски ще помагат на временния селекционер 02 Окт | 09:39",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297545861.og.jpg"
-    },
-    {
-      "title": "Холанд не вкара и Норвегия загуби в Кардиф 01 Окт | 23:39",
-      "url": "https://dsport.bg/holand-ne-vkara-i-norvegia-zagubi-v-kardif~241195.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298123588.og.jpg"
     }
   ]
 }
