@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T14:59:34.024106+00:00",
+  "updated": "2026-10-02T15:16:29.006584+00:00",
   "articles": [
+    {
+      "title": "Почина 20-годишният Мирослав – първият двойно трансплантиран пациент у нас",
+      "url": "https://dariknews.bg/novini/obshtestvo/pochina-20-godishniiat-miroslav-pyrviiat-dvojno-transplantiran-pacient-u-nas-2468081",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390492/991-ratio-miroslav-gelin.jpg"
+    },
+    {
+      "title": "ЕС даде 2,9 млрд. евро на Украйна за държавната администрация",
+      "url": "https://dariknews.bg/novini/sviat/es-dade-29-mlrd.-evro-na-ukrajna-za-dyrzhavnata-administraciia-2468080",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49164/49164334/991-ratio-es-ukrajna.jpg"
+    },
     {
       "title": "Кражбата на 1 кг злато в Пловдив: Замесен ли е задържаният за убийство Славчо Мегеров",
       "url": "https://dariknews.bg/regioni/plovdiv/krazhbata-na-1-kg-zlato-v-plovdiv-zamesen-li-e-zadyrzhaniiat-za-ubijstvo-slavcho-megerov-2468079",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51332/51332333/991-ratio-uchenici-izpit.jpg"
     },
     {
-      "title": "МВР разби организирана престъпна група за трафик на мигранти, 22 души са задържани в София (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/mvr-razbi-organizirana-prestypna-grupa-za-trafik-na-migranti-22-dushi-sa-zadyrzhani-v-sofiia-snimki-2468058",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51259/51259425/991-ratio-migranti-gdbop-kanaldzhii.jpg"
+      "title": "Локомотив София уреди двама нови за \"железничарското\" дерби 02 Окт | 18:11",
+      "url": "https://dsport.bg/lokomotiv-sf-uredi-dvama-novi-za-zeleznicharskoto-derbi~241241.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_15~34.og.jpg"
     },
     {
-      "title": "Заради пожар: Движението по пътя Гривица – Згалево – Пордим е ограничено",
-      "url": "https://dariknews.bg/regioni/pleven/zaradi-pozhar-dvizhenieto-po-pytia-grivica-zgalevo-pordim-e-ogranicheno-2468056",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390410/991-ratio-pozhar-hrasti.jpg"
+      "title": "Ювентус експериментира и загуби от тим от Серия Б 02 Окт | 18:01",
+      "url": "https://dsport.bg/uventus-strada-i-v-priatelski-mach~241240.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297659986.og.jpg"
     },
     {
       "title": "Левски спечели мача с НАП предсрочно 02 Окт | 17:40",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/830196482_914856374834874_66209244950500203_n.og.png"
-    },
-    {
-      "title": "Тя е милиардерска наследница, но избра да гради кариера сама 02 Окт | 15:58",
-      "url": "https://dsport.bg/ta-e-miliarderska-naslednica-no-izbra-da-gradi-kariera-sama~241227.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/ioanatiriac.og.jpg"
-    },
-    {
-      "title": "Ради Кирилов е на рехабилитация в чужбина, не му предстои втора операция 02 Окт | 15:19",
-      "url": "https://dsport.bg/radi-kirilov-e-na-rehabilitacia-v-chuzbina-ne-mu-predstoi-vtora-operacia~241231.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/929944.og.jpg"
     }
   ]
 }
