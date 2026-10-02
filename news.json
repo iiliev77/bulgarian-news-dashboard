@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T20:45:32.932392+00:00",
+  "updated": "2026-10-02T20:57:54.695829+00:00",
   "articles": [
     {
       "title": "Червен код за опасно време на Крит, властите призоваха хората да не излизат",
@@ -142,7 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
-      "title": "Полша посрами Румъния - 6:0 и хеттрик на Левандовски 02 Окт | 23:42",
+      "title": "Джеко се сбогува с Босна в емоционална вечер, „драконите“ измъкнаха равенство срещу Швеция 02 Окт | 23:46",
+      "url": "https://dsport.bg/dzeko-se-sboguva-s-bosna-v-emocionalna-vecher-drakonite-izmaknaha-ravenstvo-srestu-shvecia~241262.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_4~180.og.jpg"
+    },
+    {
+      "title": "Полша посрами Румъния - 6:0 и хеттрик на Левандовски (ВИДЕО) 02 Окт | 23:42",
       "url": "https://dsport.bg/polsha-posrami-rumania-6-0-i-hettrik-na-levandovski~241261.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/image_1790958605_58257.og.jpeg"
-    },
-    {
-      "title": "Монтана започна защитата на титлата с разгром в Адриатическата лига 02 Окт | 21:18",
-      "url": "https://dsport.bg/montana-zapochna-zastitata-na-titlata-s-razgrom-v-adriaticheskata-liga~241252.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_2~204.og.jpg"
     }
   ]
 }
