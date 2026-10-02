@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T20:29:55.998224+00:00",
+  "updated": "2026-10-02T20:45:32.932392+00:00",
   "articles": [
+    {
+      "title": "Червен код за опасно време на Крит, властите призоваха хората да не излизат",
+      "url": "https://dariknews.bg/novini/sviat/cherven-kod-za-opasno-vreme-na-krit-vlastite-prizovaha-horata-da-ne-izlizat-2468092",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50983/50983528/991-ratio-sniag-dyzhd-i-viatyr.jpg"
+    },
     {
       "title": "Кремъл: Русия е отворена за диалог с всички държави по въпросите на сигурността в Черно море",
       "url": "https://dariknews.bg/novini/sviat/kremyl-rusiia-e-otvorena-za-dialog-s-vsichki-dyrzhavi-po-vyprosite-na-sigurnostta-v-cherno-more-2468090",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
-      "title": "Имало ли е 160% оскъпяване на договори за мантинели – ДПС сезира прокуратурата",
-      "url": "https://dariknews.bg/novini/bylgariia/imalo-li-e-160-oskypiavane-na-dogovori-za-mantineli-dps-sezira-prokuraturata-2468066",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390425/991-ratio-hamid-hamid.jpg"
+      "title": "Полша посрами Румъния - 6:0 и хеттрик на Левандовски 02 Окт | 23:42",
+      "url": "https://dsport.bg/polsha-posrami-rumania-6-0-i-hettrik-na-levandovski~241261.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_3~187.og.jpg"
+    },
+    {
+      "title": "Донарума блестя, а Италия оцеля срещу Франция 02 Окт | 23:40",
+      "url": "https://dsport.bg/donaruma-blesta-a-italia-ocela-srestu-francia~241259.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298286610.og.jpg"
+    },
+    {
+      "title": "Де Бройне поведе Белгия към класика срещу Турция, Лукаку също се разписа 02 Окт | 23:39",
+      "url": "https://dsport.bg/de-broine-povede-belgia-kam-klasika-srestu-turcia-lukaku-sasto-se-razpisa~241260.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297140361.og.jpg"
     },
     {
       "title": "Разкриха как Руи Пинто е пробил системите на Манчестър Сити 02 Окт | 23:18",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_2~204.og.jpg"
-    },
-    {
-      "title": "Манчини си изми ръцета за скандала в Манчестър Сити: Не е мой проблем 02 Окт | 21:06",
-      "url": "https://dsport.bg/manchini-si-izmi-raceta-za-skandala-v-manchestar-siti-ne-e-moi-problem~241251.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1960299090~1.og.jpg"
-    },
-    {
-      "title": "Асистенция на Питас помогна на Кипър за важна победа над Армения 02 Окт | 20:53",
-      "url": "https://dsport.bg/asistencia-na-pitas-pomogna-na-kipar-za-vazna-pobeda-nad-armenia~241250.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2240946666.og.jpg"
-    },
-    {
-      "title": "Националите проведоха официалната си тренировка преди гостуването на Исландия (ВИДЕО) 02 Окт | 20:13",
-      "url": "https://dsport.bg/nacionalite-provedoha-oficialnata-si-trenirovka-predi-gostuvaneto-na-islandia-video~241249.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1035799.og.jpg"
     }
   ]
 }
