@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T17:01:39.113189+00:00",
+  "updated": "2026-10-02T17:19:12.794815+00:00",
   "articles": [
+    {
+      "title": "Нов инцидент с танкер в Ормузкия проток, избухнал е пожар",
+      "url": "https://dariknews.bg/novini/sviat/nov-incident-s-tanker-v-ormuzkiia-protok-izbuhnal-e-pozhar-2468085",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51367/51367733/991-ratio-plavatelni-sydove-v-ormuzkiia-protok.jpg"
+    },
     {
       "title": "Светият синод остави в сила аргоса на архимандрит Никанор",
       "url": "https://dariknews.bg/novini/bylgariia/svetiiat-sinod-ostavi-v-sila-argosa-na-arhimandrit-nikanor-2468084",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51091/51091803/991-ratio-ekaterina-asenova-ia-git.jpg"
     },
     {
-      "title": "Броят на жертвите на епидемията от ебола в ДР Конго надхвърли 4000",
-      "url": "https://dariknews.bg/novini/sviat/broiat-na-zhertvite-na-epidemiiata-ot-ebola-v-dr-kongo-nadhvyrli-4000-2468062",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331030/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
+      "title": "Националите проведоха официалната си тренировка преди гостуването на Исландия (ВИДЕО) 02 Окт | 20:13",
+      "url": "https://dsport.bg/nacionalite-provedoha-oficialnata-si-trenirovka-predi-gostuvaneto-na-islandia-video~241249.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1035799.og.jpg"
     },
     {
       "title": "ПСЖ спечели съдебна битка срещу Килиан Мбапе 02 Окт | 19:49",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297659986.og.jpg"
-    },
-    {
-      "title": "Левски спечели мача с НАП предсрочно 02 Окт | 17:40",
-      "url": "https://dsport.bg/levski-specheli-macha-s-nap-predsrochno~241239.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/829035790_1133853599307253_5763464986587184532_n.og.jpg"
     }
   ]
 }
