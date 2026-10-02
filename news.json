@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T05:32:11.748628+00:00",
+  "updated": "2026-10-02T05:47:23.195379+00:00",
   "articles": [
+    {
+      "title": "Мощни експлозии разтърсиха йеменската столица Сана",
+      "url": "https://dariknews.bg/novini/sviat/moshtni-eksplozii-raztyrsiha-jemenskata-stolica-sana-2467986",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390172/991-ratio-sana.jpg"
+    },
     {
       "title": "Арестуваха американски правителствен служител заради подкрепа за йеменски бунтовници",
       "url": "https://dariknews.bg/novini/sviat/arestuvaha-amerikanski-pravitelstven-sluzhitel-zaradi-podkrepa-za-jemenski-buntovnici-2467984",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390085/991-ratio-plazh-cherven-flag.jpg"
     },
     {
-      "title": "Жители на „Младост“ 1 излязоха на протест заради липса на топла вода (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/sofiia/zhiteli-na-mladost-1-izliazoha-na-protest-zaradi-lipsa-na-topla-voda-video-2467969",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Атанасовците поведоха националния отбор към Исландия (ВИДЕО) 02 Окт | 08:43",
+      "url": "https://dsport.bg/atanasovcite-povedoha-nacionalnia-otbor-kam-islandia-video~241201.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1035093.og.jpg"
     },
     {
       "title": "Мбапе се лекува от контузия в дискотека с гаджето (ВИДЕО) 02 Окт | 08:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2283612727~1.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид следи английски национал 01 Окт | 22:46",
-      "url": "https://dsport.bg/real-madrid-sledi-angliiski-nacional~241190.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2222456527~1.og.jpg"
     }
   ]
 }
