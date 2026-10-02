@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T10:35:38.591375+00:00",
+  "updated": "2026-10-02T10:50:01.227610+00:00",
   "articles": [
+    {
+      "title": "Сибига: Украйна разполага с данни за планирани руски атаки в Европа",
+      "url": "https://dariknews.bg/novini/sviat/sibiga-ukrajna-razpolaga-s-danni-za-planirani-ruski-ataki-v-evropa-2468042",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51329/51329698/991-ratio-andrij-sibiga.jpg"
+    },
+    {
+      "title": "Областният управител на Смолян ще сезира институциите за случая със субсидията за училището в Доспат",
+      "url": "https://dariknews.bg/regioni/Smolyan/oblastniiat-upravitel-na-smolian-shte-sezira-instituciite-za-sluchaia-sys-subsidiiata-za-uchilishteto-v-dospat-2468041",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50232/50232731/991-ratio-dokument.jpg"
+    },
     {
       "title": "Откриха 20 кг млечни продукти и колбаси с изтекъл срок на годност в склад в Сливенско",
       "url": "https://dariknews.bg/regioni/sliven/otkriha-20-kg-mlechni-produkti-i-kolbasi-s-iztekyl-srok-na-godnost-v-sklad-v-slivensko-2468039",
@@ -128,18 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Бунт в редиците на „SOS Разтребители“?",
-      "url": "https://dariknews.bg/novini/liubopitno/bunt-v-redicite-na-sos-raztrebiteli-2468017",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390301/991-ratio-sos-raztrebiteli.jpg"
-    },
-    {
-      "title": "България предложи на „Райнметал“ нов терен край Бургас за заводи",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-predlozhi-na-rajnmetal-nov-teren-kraj-burgas-za-zavodi-2468016",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51205/51205071/991-ratio-rajnmetal.jpg"
+      "title": "Шефът на полицията в Пловдив: Мегеров и Филипов са имали контакт преди около две седмици 02 Окт | 13:42",
+      "url": "https://dsport.bg/shefat-na-policiata-v-plovdiv-megerov-i-filipov-sa-imali-kontakt-predi-okolo-dve-sedmici~241220.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/fotojet-2026-10-01t191613.187-1.l.og.jpg"
     },
     {
       "title": "Локо Пловдив победи Арда в закрита контрола 02 Окт | 13:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296974364.og.jpg"
-    },
-    {
-      "title": "Жезус за скандала с Роналдо: Правилата са еднакви за всички, не съжалявам за решението си 02 Окт | 11:02",
-      "url": "https://dsport.bg/zezus-za-skandala-s-ronaldo-pravilata-sa-ednakvi-za-vsichki-ne-sazalavam-za-reshenieto-si~241210.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296958655.og.jpg"
     }
   ]
 }
