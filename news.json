@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T14:08:58.910837+00:00",
+  "updated": "2026-10-02T14:27:55.740974+00:00",
   "articles": [
+    {
+      "title": "Милошев освободи директора на Национален фонд „Култура“",
+      "url": "https://dariknews.bg/novini/bylgariia/miloshev-osvobodi-direktora-na-nacionalen-fond-kultura-2468078",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51318/51318286/991-ratio-evtim-miloshev.jpg"
+    },
+    {
+      "title": "Банско влиза в празничен режим: 5 октомври е неучебен и неработен ден",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/bansko-vliza-v-praznichen-rezhim-5-oktomvri-e-neucheben-i-neraboten-den-2468077",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51117/51117843/991-ratio-uchilishte-izpit-deca-uchenici.jpg"
+    },
     {
       "title": "Нов закон за публично-частните партньорства е на финалната права",
       "url": "https://dariknews.bg/novini/bylgariia/nov-zakon-za-publichno-chastnite-partniorstva-e-na-finalnata-prava-2468075",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390414/991-ratio-obuchenie-bansko.jpg"
     },
     {
-      "title": "КЗП стартира проверки в търговските вериги",
-      "url": "https://dariknews.bg/novini/bylgariia/kzp-startira-proverki-v-tyrgovskite-verigi-2468055",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51148/51148043/991-ratio-magazin-pazaruvane.jpg"
-    },
-    {
-      "title": "Евростат: Инфлацията в еврозоната скочи до 3,8%, България остава над средното ниво",
-      "url": "https://dariknews.bg/novini/sviat/evrostat-inflaciiata-v-evrozonata-skochi-do-38-bylgariia-ostava-nad-srednoto-nivo-2468052",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51204/51204882/991-ratio-inflaciia-magazin-potrebitelska-koshnica.jpg"
+      "title": "УС на БФВ прие календар за новия сезон и тестови промени в правилата 02 Окт | 17:21",
+      "url": "https://dsport.bg/us-na-bfv-prie-kalendar-za-novia-sezon-i-testovi-promeni-v-pravilata~241237.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/bc227ca5_dea3_47bc_8f20_4b9e6280d256_31b117bb1e.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик радио - 02.10.2026 г. 02 Окт | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1035099.og.jpg"
-    },
-    {
-      "title": "Манчестър Сити подаде жалба срещу Висшата лига 02 Окт | 14:36",
-      "url": "https://dsport.bg/manchestar-siti-podade-zalba-srestu-visshata-liga~241226.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2278150929~1.og.jpg"
     }
   ]
 }
