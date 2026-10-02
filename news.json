@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T18:16:41.954337+00:00",
+  "updated": "2026-10-02T18:37:24.016767+00:00",
   "articles": [
+    {
+      "title": "Военният пилот Радостин Павлов: Искам да събудя ВВС",
+      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-pilot-radostin-pavlov-iskam-da-sybudia-vvs-2468089",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390678/991-ratio-telegraf.jpg"
+    },
     {
       "title": "Пожар избухна в ТЕЦ „Брикел“ в Гълъбово",
       "url": "https://dariknews.bg/novini/pozhar-izbuhna-v-tec-brikel-v-gylybovo-2468088",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
     },
     {
-      "title": "Бъдете внимателни: Опити за ало измами в Петрич",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/bydete-vnimatelni-opiti-za-alo-izmami-v-petrich-2468067",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50880/50880261/991-ratio-telefonna-izmama-alo-izmama.jpg"
+      "title": "България U17 разгроми Малта с 4:0 в контрола 02 Окт | 21:36",
+      "url": "https://dsport.bg/balgaria-u17-razgromi-malta-s-4-0-v-kontrola~241253.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/image_1790958605_58257.og.jpeg"
+    },
+    {
+      "title": "Монтана започна защитата на титлата с разгром в Адриатическата лига 02 Окт | 21:18",
+      "url": "https://dsport.bg/montana-zapochna-zastitata-na-titlata-s-razgrom-v-adriaticheskata-liga~241252.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_2~204.og.jpg"
     },
     {
       "title": "Манчини си изми ръцета за скандала в Манчестър Сити: Не е мой проблем 02 Окт | 21:06",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1035779.og.jpg"
-    },
-    {
-      "title": "Атанас Рибарски: Искам да играем като отбор, вярвам изключително много на футболистите (ВИДЕО) 02 Окт | 18:47",
-      "url": "https://dsport.bg/atanas-ribarski-iskam-da-igraem-kato-otbor-varvam-izkluchitelno-mnogo-na-futbolistite~241244.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1035781.og.jpg"
-    },
-    {
-      "title": "Акциите на Крушарски са готови за прехвърляне, Локомотив Пловдив търси нов собственик 02 Окт | 18:36",
-      "url": "https://dsport.bg/akciite-na-krusharski-sa-gotovi-za-prehvarlane-lokomotiv-plovdiv-tarsi-nov-sobstvenik~241243.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/684347-1-.og.jpg"
     }
   ]
 }
