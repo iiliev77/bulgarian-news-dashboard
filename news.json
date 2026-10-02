@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:37:24.016767+00:00",
+  "updated": "2026-10-02T18:53:16.269654+00:00",
   "articles": [
     {
       "title": "Военният пилот Радостин Павлов: Искам да събудя ВВС",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
     },
     {
+      "title": "Специален ден за Текпетей: майка му посети Лудогорец за първи път 02 Окт | 21:41",
+      "url": "https://dsport.bg/specialen-den-za-tekpetei-maika-mu-poseti-ludogorec-za-parvi-pat~241254.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_1~233.og.jpg"
+    },
+    {
       "title": "България U17 разгроми Малта с 4:0 в контрола 02 Окт | 21:36",
       "url": "https://dsport.bg/balgaria-u17-razgromi-malta-s-4-0-v-kontrola~241253.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298254161.og.jpg"
-    },
-    {
-      "title": "Илия Груев: Последните години пътят ни води повече надолу, отколкото нагоре (ВИДЕО) 02 Окт | 18:51",
-      "url": "https://dsport.bg/ilia-gruev-poslednite-godini-patat-ni-vodi-poveche-nadolu-otkolkoto-nagore-video~241245.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1035779.og.jpg"
     }
   ]
 }
