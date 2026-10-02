@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T14:27:55.740974+00:00",
+  "updated": "2026-10-02T14:45:20.561132+00:00",
   "articles": [
+    {
+      "title": "Кражбата на 1 кг злато в Пловдив: Замесен ли е задържаният за убийство Славчо Мегеров",
+      "url": "https://dariknews.bg/regioni/plovdiv/krazhbata-na-1-kg-zlato-v-plovdiv-zamesen-li-e-zadyrzhaniiat-za-ubijstvo-slavcho-megerov-2468079",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389661/991-ratio-slavcho-megerov.jpg"
+    },
     {
       "title": "Милошев освободи директора на Национален фонд „Култура“",
       "url": "https://dariknews.bg/novini/bylgariia/miloshev-osvobodi-direktora-na-nacionalen-fond-kultura-2468078",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390410/991-ratio-pozhar-hrasti.jpg"
     },
     {
-      "title": "Банско е център на национална подготовка: Спасители с 20 кучета тренират за реакция при бедствия",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/bansko-e-centyr-na-nacionalna-podgotovka-spasiteli-s-20-kucheta-trenirat-za-reakciia-pri-bedstviia-2468059",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390414/991-ratio-obuchenie-bansko.jpg"
+      "title": "Левски спечели мача с НАП предсрочно 02 Окт | 17:40",
+      "url": "https://dsport.bg/levski-specheli-macha-s-nap-predsrochno~241239.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/829035790_1133853599307253_5763464986587184532_n.og.jpg"
+    },
+    {
+      "title": "Ексклузивно Драгомир Драганов за последния си мач, най-тежката грешка и цената да бъдеш съдия 02 Окт | 17:37",
+      "url": "https://dsport.bg/dragomir-draganov-za-poslednia-si-mach-nai-tezkata-greshka-i-cenata-da-badesh-sadia~241236.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/tumb1~1.og.png"
+    },
+    {
+      "title": "Нова схема и гол от младок не стигнаха на Милан в контрола с Падова 02 Окт | 17:30",
+      "url": "https://dsport.bg/nova-shema-i-gol-ot-mladok-ne-stignaha-na-milan~241238.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298222301.og.jpg"
     },
     {
       "title": "УС на БФВ прие календар за новия сезон и тестови промени в правилата 02 Окт | 17:21",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/929944.og.jpg"
-    },
-    {
-      "title": "Ливърпул гласи раздяла с разочаровалия Вирц 02 Окт | 15:15",
-      "url": "https://dsport.bg/livarpul-glasi-razdala-s-razocharovalia-virc~241228.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294948499.og.jpg"
-    },
-    {
-      "title": "Официално: Лео Меси стана бос на още един испански клуб 02 Окт | 15:06",
-      "url": "https://dsport.bg/oficialno-leo-mesi-stana-bos-na-oste-edin-ispanski-klub~241230.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297466421.og.jpg"
-    },
-    {
-      "title": "Облачно време и силен вятър посрещнаха националите в Исландия (ВИДЕО) 02 Окт | 14:51",
-      "url": "https://dsport.bg/oblachno-vreme-i-silen-vatar-posrestnaha-nacionalite-v-islandia-video~241229.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1035099.og.jpg"
     }
   ]
 }
