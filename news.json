@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:35:09.422536+00:00",
+  "updated": "2026-10-03T09:48:07.150890+00:00",
   "articles": [
     {
       "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
@@ -142,6 +142,27 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
     },
     {
+      "title": "Емил Велев: Левски е силен и отново ще е шампион (ВИДЕО) 03 Окт | 12:33",
+      "url": "https://dsport.bg/emil-velev-levski-e-silen-i-otnovo-ste-e-shampion-video~241289.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2025-07-16_12-28-08-621-1-2.og.jpg"
+    },
+    {
+      "title": "Ветераните на Левски играха в мач с благотворителна кауза 03 Окт | 12:27",
+      "url": "https://dsport.bg/veteranite-na-levski-igraha-v-mach-s-blagotvoritelna-kauza~241288.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/31.08-7-1~1.og.jpg"
+    },
+    {
+      "title": "Георги Костадинов с актуална информация за възстановяването на Бурас (ВИДЕО) 03 Окт | 12:16",
+      "url": "https://dsport.bg/georgi-kostadinov-s-aktualna-informacia-za-vazstanovavaneto-na-buras-video~241287.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2026-07-07_22-48-39-931-1~2.og.jpg"
+    },
+    {
       "title": "Макс Верстапен с първи полпозишън за годината 03 Окт | 12:06",
       "url": "https://dsport.bg/maks-verstapen-s-parvi-polpozishan-za-godinata~241286.html",
       "source": "Dsport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2283646998.og.jpg"
-    },
-    {
-      "title": "Ключовият свидетел срещу Манчестър Сити остана без защита 03 Окт | 10:33",
-      "url": "https://dsport.bg/kluchoviat-svidetel-srestu-manchestar-siti-ostana-bez-zastita~241279.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/830pp6n.og.jpg"
-    },
-    {
-      "title": "Бурята около Кристиано Роналдо продължава 03 Окт | 10:22",
-      "url": "https://dsport.bg/burata-okolo-kristiano-ronaldo-prodalzava~241278.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297062867.og.jpg"
-    },
-    {
-      "title": "Феновете на Ботев Пловдив изкупиха над 10 000 билета за домакинството на Славия 03 Окт | 10:14",
-      "url": "https://dsport.bg/fenovete-na-botev-plovdiv-izkupiha-nad-10-000-bileta-za-domakinstvoto-na-slavia~241277.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/aceab37b-8466-4d40-a116-0673c14ecc7e~1.og.jfif"
     }
   ]
 }
