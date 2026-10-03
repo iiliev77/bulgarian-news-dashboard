@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:00:23.271070+00:00",
+  "updated": "2026-10-03T08:16:40.295732+00:00",
   "articles": [
     {
       "title": "АТВ се удари във фонтан в Горна Оряховица, шофьорът бил с почти 2 промила алкохол",
@@ -9,11 +9,11 @@
       "image": "https://m.netinfo.bg/media/images/51347/51347612/991-ratio-pet-motocikleta-i-edno-atv.jpg"
     },
     {
-      "title": "На официална церемония: Гърция предаде тленните останки на цар Самуил на България",
-      "url": "https://dariknews.bg/novini/bylgariia/na-oficialna-ceremoniia-gyrciia-predade-tlennite-ostanki-na-car-samuil-na-bylgariia-2468101",
+      "title": "Гърция предаде тленните останки на цар Самуил на България",
+      "url": "https://dariknews.bg/novini/bylgariia/gyrciia-predade-tlennite-ostanki-na-car-samuil-na-bylgariia-2468101",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390773/991-ratio-radev-i-micotakis.jpg"
+      "image": "https://m.netinfo.bg/media/images/51390/51390799/991-ratio-bylgariia-gyrciia-tlenni-ostanki-car-samuil.jpg"
     },
     {
       "title": "Повлиян от радикални групировки: вторият пилот от Flydubai със забрана за летене от Оман",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/48666/48666140/991-ratio-lov.jpg"
     },
     {
+      "title": "Кукурея за Златната топка: Ако гласувах, щях да избера себе си 03 Окт | 10:55",
+      "url": "https://dsport.bg/kukurea-za-zlatnata-topka-ako-glasuvah-stah-da-izbera-sebe-si~241281.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297501043.og.jpg"
+    },
+    {
+      "title": "Витиня ужили Кристиано Роналдо 03 Окт | 10:44",
+      "url": "https://dsport.bg/vitina-uzili-kristiano-ronaldo~241280.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2283646998.og.jpg"
+    },
+    {
       "title": "Ключовият свидетел срещу Манчестър Сити остана без защита 03 Окт | 10:33",
       "url": "https://dsport.bg/kluchoviat-svidetel-srestu-manchestar-siti-ostana-bez-zastita~241279.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2231416194.og.jpg"
-    },
-    {
-      "title": "Дипломатически щит: шефът на Манчестър Сити защитен с имунитет на фона на огромния скандал 03 Окт | 09:05",
-      "url": "https://dsport.bg/diplomaticheski-stit-shefat-na-manchestar-siti-zastiten-s-imunitet-na-fona-na-ogromnia-skandal~241270.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296336079.og.jpg"
-    },
-    {
-      "title": "Облекчение в Барселона: Рафиня се размина с тежка контузия и е на линия за Хетафе 03 Окт | 08:52",
-      "url": "https://dsport.bg/oblekchenie-v-barselona-rafina-se-razmina-s-tezka-kontuzia-i-e-na-linia-za-hetafe~241269.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2293818332~1.og.jpg"
     }
   ]
 }
