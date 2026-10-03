@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:02:46.970939+00:00",
+  "updated": "2026-10-03T09:20:40.622118+00:00",
   "articles": [
     {
       "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
     },
     {
+      "title": "Макс Верстапен с първи полпозишън за годината 03 Окт | 12:06",
+      "url": "https://dsport.bg/maks-verstapen-s-parvi-polpozishan-za-godinata~241286.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298354311.og.jpg"
+    },
+    {
+      "title": "Сезонът във Формула 1 ще завърши по график 03 Окт | 11:45",
+      "url": "https://dsport.bg/sezonat-vav-formula-1-ste-zavarshi-po-grafik~241285.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2173713629-1-2-2~1.og.jpg"
+    },
+    {
       "title": "Ибрахимович с остра атака към Кристиано Роналдо: Дори лъвовете знаят кога ловът е приключил 03 Окт | 11:35",
       "url": "https://dsport.bg/ibrahimovich-s-ostra-ataka-kam-kristiano-ronaldo-dori-lavovete-znaat-koga-lovat-e-prikluchil~241284.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/aceab37b-8466-4d40-a116-0673c14ecc7e~1.og.jfif"
-    },
-    {
-      "title": "Алкарас се класира за четвъртфиналите в Токио 03 Окт | 10:05",
-      "url": "https://dsport.bg/alkaras-se-klasira-za-chetvartfinalite-v-tokio~241276.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298081613.og.jpg"
-    },
-    {
-      "title": "Божидар Саръбоюков завършва годината като номер 3 в света 03 Окт | 09:54",
-      "url": "https://dsport.bg/bozidar-saraboukov-zavarshva-godinata-kato-nomer-3-v-sveta~241275.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1005004-2.og.jpg"
     }
   ]
 }
