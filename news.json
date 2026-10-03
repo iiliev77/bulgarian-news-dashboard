@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:48:07.150890+00:00",
+  "updated": "2026-10-03T09:57:28.831409+00:00",
   "articles": [
     {
       "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
     },
     {
+      "title": "Вашингтон стартира новия сезон в НХЛ с победа 03 Окт | 12:45",
+      "url": "https://dsport.bg/vashington-startira-novia-sezon-v-nhl-s-pobeda~241291.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298314184.og.jpg"
+    },
+    {
+      "title": "Станислав Ангелов за националния отбор: Дано новият треньор донесе някакви промени (ВИДЕО) 03 Окт | 12:39",
+      "url": "https://dsport.bg/stanislav-angelov-za-nacionalnia-otbor-dano-noviat-trenor-donese-nakakvi-promeni-video~241290.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/img_9864~1.og.jpg"
+    },
+    {
       "title": "Емил Велев: Левски е силен и отново ще е шампион (ВИДЕО) 03 Окт | 12:33",
       "url": "https://dsport.bg/emil-velev-levski-e-silen-i-otnovo-ste-e-shampion-video~241289.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2250413724~1.og.jpg"
-    },
-    {
-      "title": "Кукурея за Златната топка: Ако гласувах, щях да избера себе си 03 Окт | 10:55",
-      "url": "https://dsport.bg/kukurea-za-zlatnata-topka-ako-glasuvah-stah-da-izbera-sebe-si~241281.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297501043.og.jpg"
-    },
-    {
-      "title": "Витиня ужили Кристиано Роналдо 03 Окт | 10:44",
-      "url": "https://dsport.bg/vitina-uzili-kristiano-ronaldo~241280.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2283646998.og.jpg"
     }
   ]
 }
