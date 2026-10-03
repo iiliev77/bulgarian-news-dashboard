@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-03T08:50:38.212090+00:00",
+  "updated": "2026-10-03T09:02:46.970939+00:00",
   "articles": [
+    {
+      "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
+      "url": "https://dariknews.bg/novini/bylgariia/pozharyt-v-tec-brikel-v-gylybovo-e-potushen-napylno-2468103",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390814/991-ratio-pozhar-stara-zagora.jpg"
+    },
     {
       "title": "АТВ се удари във фонтан в Горна Оряховица, шофьорът бил с почти 2 промила алкохол",
       "url": "https://dariknews.bg/novini/bylgariia/atv-se-udari-vyv-fontan-v-gorna-oriahovica-shofioryt-bil-s-pochti-2-promila-alkohol-2468102",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
     },
     {
-      "title": "Откриват ловния сезон със засилени мерки за безопасност",
-      "url": "https://dariknews.bg/novini/bylgariia/otkrivat-lovniia-sezon-sys-zasileni-merki-za-bezopasnost-2468028",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48666/48666140/991-ratio-lov.jpg"
+      "title": "Ибрахимович с остра атака към Кристиано Роналдо: Дори лъвовете знаят кога ловът е приключил 03 Окт | 11:35",
+      "url": "https://dsport.bg/ibrahimovich-s-ostra-ataka-kam-kristiano-ronaldo-dori-lavovete-znaat-koga-lovat-e-prikluchil~241284.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-893701524.og.jpg"
     },
     {
       "title": "Филипе Коутиньо с мечтан дебют, вдъхнови Сантос за обрат срещу Сао Пауло 03 Окт | 11:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1005004-2.og.jpg"
-    },
-    {
-      "title": "Аржентина няма да може да оттегли номер 10 в чест на Меси 03 Окт | 09:43",
-      "url": "https://dsport.bg/arzentina-nama-da-moze-da-ottegli-nomer-10-v-chest-na-mesi~241274.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2286971049-1.og.jpg"
     }
   ]
 }
