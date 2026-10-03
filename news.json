@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-03T05:52:45.796401+00:00",
+  "updated": "2026-10-03T06:07:20.788621+00:00",
   "articles": [
+    {
+      "title": "Проф. Палангурски: Няма ДНК анализ на тленните останки, за да се потвърди дали са на цар Самуил",
+      "url": "https://dariknews.bg/novini/bylgariia/prof.-palangurski-niama-dnk-analiz-na-tlennite-ostanki-za-da-se-potvyrdi-dali-sa-na-car-samuil-2468098",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Кола се вряза в пешеходци в Австралия - има ранени, сред тях и деца",
       "url": "https://dariknews.bg/novini/sviat/kola-se-vriaza-v-peshehodci-v-avstraliia-ima-raneni-sred-tiah-i-deca-2468097",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51349/51349317/991-ratio-ebola.jpg"
     },
     {
-      "title": "Студено утро и слана: Жълт код за 9 области",
-      "url": "https://dariknews.bg/novini/bylgariia/studeno-utro-i-slana-zhylt-kod-za-9-oblasti-2468048",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39748/39748323/991-ratio-slana.jpg"
+      "title": "Облекчение в Барселона: Рафиня се размина с тежка контузия и е на линия за Хетафе 03 Окт | 08:52",
+      "url": "https://dsport.bg/oblekchenie-v-barselona-rafina-se-razmina-s-tezka-kontuzia-i-e-na-linia-za-hetafe~241269.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2293818332~1.og.jpg"
+    },
+    {
+      "title": "Финансовият скандал в Манчестър Сити: продължават ли „фиктивните“ сделки и след 2018 г.? 03 Окт | 08:40",
+      "url": "https://dsport.bg/finansoviat-skandal-v-manchestar-siti-prodalzavat-li-fiktivnite-sdelki-i-sled-2018-g~241268.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2289184391-1.og.jpg"
     },
     {
       "title": "Нов скандал с Манчестър Сити: обвинения за укрити данъци за милиони по договора на Манчини 03 Окт | 08:24",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1368771963-2~2.og.jpg"
-    },
-    {
-      "title": "Итуралде Гонсалес: Реал няма доказателства срещу Барселона, използва случая „Негрейра“ за натиск 02 Окт | 22:27",
-      "url": "https://dsport.bg/ituralde-gonsales-real-nama-dokazatelstva-srestu-barselona-izpolzva-sluchaa-negreira-za-natisk~241257.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1359227340.og.jpg"
-    },
-    {
-      "title": "Артуро Видал защити Роналдо и нападна Жорже Жезус: Треньорът прави огромна грешка 02 Окт | 22:11",
-      "url": "https://dsport.bg/arturo-vidal-zastiti-ronaldo-i-napadna-zorze-zezus-trenorat-pravi-ogromna-greshka~241256.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1296917008.og.jpg"
     }
   ]
 }
