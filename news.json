@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:16:40.295732+00:00",
+  "updated": "2026-10-03T08:32:54.967687+00:00",
   "articles": [
     {
       "title": "АТВ се удари във фонтан в Горна Оряховица, шофьорът бил с почти 2 промила алкохол",
@@ -9,11 +9,11 @@
       "image": "https://m.netinfo.bg/media/images/51347/51347612/991-ratio-pet-motocikleta-i-edno-atv.jpg"
     },
     {
-      "title": "Гърция предаде тленните останки на цар Самуил на България",
-      "url": "https://dariknews.bg/novini/bylgariia/gyrciia-predade-tlennite-ostanki-na-car-samuil-na-bylgariia-2468101",
+      "title": "Паметен момент: Гърция предаде тленните останки на цар Самуил на България",
+      "url": "https://dariknews.bg/novini/bylgariia/pameten-moment-gyrciia-predade-tlennite-ostanki-na-car-samuil-na-bylgariia-2468101",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390799/991-ratio-bylgariia-gyrciia-tlenni-ostanki-car-samuil.jpg"
+      "image": "https://m.netinfo.bg/media/images/51390/51390805/991-ratio-tlenni-ostanki-car-samuil.jpg"
     },
     {
       "title": "Повлиян от радикални групировки: вторият пилот от Flydubai със забрана за летене от Оман",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/48666/48666140/991-ratio-lov.jpg"
     },
     {
+      "title": "Голямото съжаление на Лионел Меси: Казвам на децата си да учат, аз си пропилях времето 03 Окт | 11:09",
+      "url": "https://dsport.bg/golamoto-sazalenie-na-lionel-mesi-kazvam-na-decata-si-da-uchat-az-si-propilah-vremeto~241282.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2250413724~1.og.jpg"
+    },
+    {
       "title": "Кукурея за Златната топка: Ако гласувах, щях да избера себе си 03 Окт | 10:55",
       "url": "https://dsport.bg/kukurea-za-zlatnata-topka-ako-glasuvah-stah-da-izbera-sebe-si~241281.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297715950.og.jpg"
-    },
-    {
-      "title": "Шампиони без промоция: „болната система“, която разтърси германския футбол 03 Окт | 09:18",
-      "url": "https://dsport.bg/shampioni-bez-promocia-bolnata-sistema-koato-raztarsi-germanskia-futbol~241271.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2231416194.og.jpg"
     }
   ]
 }
