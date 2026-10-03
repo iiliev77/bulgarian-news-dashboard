@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-03T02:58:33.009948+00:00",
+  "updated": "2026-10-03T03:20:01.473705+00:00",
   "articles": [
+    {
+      "title": "Затварят пътни участъци през октомври в София, променят маршрути на автобуси",
+      "url": "https://dariknews.bg/regioni/sofiia/zatvariat-pytni-uchastyci-prez-oktomvri-v-sofiia-promeniat-marshruti-na-avtobusi-2468030",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390321/991-ratio-avtobus-na-gradskiia-transport-v-sofiia.jpg"
+    },
+    {
+      "title": "Над 4000 души са починали от ебола при най-тежката досега епидемия в ДР Конго",
+      "url": "https://dariknews.bg/novini/sviat/nad-4000-dushi-sa-pochinali-ot-ebola-pri-naj-tezhkata-dosega-epidemiia-v-dr-kongo-2468086",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51349/51349317/991-ratio-ebola.jpg"
+    },
+    {
+      "title": "Студено утро и слънчев ден: Жълт код за слана в 9 области",
+      "url": "https://dariknews.bg/novini/bylgariia/studeno-utro-i-slynchev-den-zhylt-kod-za-slana-v-9-oblasti-2468048",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39748/39748323/991-ratio-slana.jpg"
+    },
     {
       "title": "След повече от 1000 години: България посреща тленните останки на цар Самуил",
       "url": "https://dariknews.bg/novini/bylgariia/sled-poveche-ot-1000-godini-bylgariia-posreshta-tlennite-ostanki-na-car-samuil-2468038",
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51386/51386516/991-ratio-kryvodariavane.jpg"
-    },
-    {
-      "title": "Изслушват кандидатите за членове на ВСС от парламентарната квота на 2 ноември",
-      "url": "https://dariknews.bg/novini/bylgariia/izslushvat-kandidatite-za-chlenove-na-vss-ot-parlamentarnata-kvota-na-2-noemvri-2468072",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
-    },
-    {
-      "title": "В Ловешко откриха автомобил, обявен за откраднат във Великобритания",
-      "url": "https://dariknews.bg/regioni/lovech/v-loveshko-otkriha-avtomobil-obiaven-za-otkradnat-vyv-velikobritaniia-2468071",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Фон дер Лайен посъветва Мицкоски да търси диалог с България",
-      "url": "https://dariknews.bg/novini/bylgariia/fon-der-lajen-posyvetva-mickoski-da-tyrsi-dialog-s-bylgariia-2468068",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390433/991-ratio-fon-der-lajen-i-mickoski.jpg"
     },
     {
       "title": "Северна Ирландия разби Украйна и оглави групата, Унгария надви Грузия (ВИДЕО) 02 Окт | 23:58",
