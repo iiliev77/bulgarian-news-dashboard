@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-03T04:02:14.995613+00:00",
+  "updated": "2026-10-03T04:20:21.753195+00:00",
   "articles": [
+    {
+      "title": "Националният етнографски музей с безплатен вход през уикендите",
+      "url": "https://dariknews.bg/regioni/sofiia/nacionalniiat-etnografski-muzej-s-bezplaten-vhod-prez-uikendite-2468033",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390329/991-ratio-nacionalen-etnografski-muzej.jpg"
+    },
+    {
+      "title": "Защо някои хора се чувстват отпочинали след само четири часа сън",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-niakoi-hora-se-chuvstvat-otpochinali-sled-samo-chetiri-chasa-syn-2468011",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48536/48536721/991-ratio-sybuzhdane.jpg"
+    },
+    {
+      "title": "Вкусът на детството: Тези пухкави бухти ще ви върнат години назад още с първата хапка",
+      "url": "https://dariknews.bg/novini/liubopitno/vkusyt-na-detstvoto-tezi-puhkavi-buhti-shte-vi-vyrnat-godini-nazad-oshte-s-pyrvata-hapka-2467655",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388765/991-ratio-buhti-buhtichki.jpg"
+    },
+    {
+      "title": "Празник в Рупите за 115-ата годишнина от рождението на баба Ванга",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/praznik-v-rupite-za-115-ata-godishnina-ot-rozhdenieto-na-baba-vanga-2467933",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389932/991-ratio-rupite-vanga.jpg"
+    },
     {
       "title": "Двудневен празник на баклавата събира любители и майстори в Малиново",
       "url": "https://dariknews.bg/novini/liubopitno/dvudneven-praznik-na-baklavata-sybira-liubiteli-i-majstori-v-malinovo-2468010",
@@ -58,8 +86,8 @@
       "image": "https://m.netinfo.bg/media/images/51349/51349317/991-ratio-ebola.jpg"
     },
     {
-      "title": "Студено утро и слънчев ден: Жълт код за слана в 9 области",
-      "url": "https://dariknews.bg/novini/bylgariia/studeno-utro-i-slynchev-den-zhylt-kod-za-slana-v-9-oblasti-2468048",
+      "title": "Студено утро и слана: Жълт код за 9 области",
+      "url": "https://dariknews.bg/novini/bylgariia/studeno-utro-i-slana-zhylt-kod-za-9-oblasti-2468048",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/39748/39748323/991-ratio-slana.jpg"
@@ -112,34 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50852/50852453/991-ratio-svetiia-sinod.jpg"
-    },
-    {
-      "title": "Три катастрофи затрудняват движението по АМ „Тракия“ към Бургас",
-      "url": "https://dariknews.bg/novini/bylgariia/tri-katastrofi-zatrudniavat-dvizhenieto-po-am-trakiia-kym-burgas-2468083",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51194/51194347/991-ratio-magistrala-trakiia.jpg"
-    },
-    {
-      "title": "„Беше извънземен. Беше недостижим. Вчера разбрах, че беше просто човек“: Децата на Илиян Филипов с емоционални думи за баща си",
-      "url": "https://dariknews.bg/regioni/plovdiv/beshe-izvynzemen.-beshe-nedostizhim.-vchera-razbrah-che-beshe-prosto-chovek-decata-na-iliian-filipov-s-emocionalni-dumi-za-bashta-si-2468082",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390495/991-ratio-iliian-filipov.jpg"
-    },
-    {
-      "title": "Почина 20-годишният Мирослав – първият двойно трансплантиран пациент у нас",
-      "url": "https://dariknews.bg/novini/obshtestvo/pochina-20-godishniiat-miroslav-pyrviiat-dvojno-transplantiran-pacient-u-nas-2468081",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390492/991-ratio-miroslav-gelin.jpg"
-    },
-    {
-      "title": "ЕС даде 2,9 млрд. евро на Украйна за държавната администрация",
-      "url": "https://dariknews.bg/novini/sviat/es-dade-29-mlrd.-evro-na-ukrajna-za-dyrzhavnata-administraciia-2468080",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49164/49164334/991-ratio-es-ukrajna.jpg"
     },
     {
       "title": "Северна Ирландия разби Украйна и оглави групата, Унгария надви Грузия (ВИДЕО) 02 Окт | 23:58",
