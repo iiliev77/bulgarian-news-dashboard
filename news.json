@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-03T14:33:22.701800+00:00",
+  "updated": "2026-10-03T18:37:05.371063+00:00",
   "articles": [
+    {
+      "title": "Екзитполове: Партията на премиера Кулбергс води на изборите в Латвия",
+      "url": "https://dariknews.bg/novini/sviat/ekzitpolove-partiiata-na-premiera-kulbergs-vodi-na-izborite-v-latviia-2468111",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391244/991-ratio-izbori-latviia.jpg"
+    },
+    {
+      "title": "Доц. Неделчева: Предметите, дадени на Гърция за костите на цар Самуил, не са отписани от НИМ",
+      "url": "https://dariknews.bg/novini/bylgariia/doc.-nedelcheva-predmetite-dadeni-na-gyrciia-za-kostite-na-car-samuil-ne-sa-otpisani-ot-nim-2468110",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Протест срещу жилищната криза в Испания събра 70 000 души в Мадрид",
+      "url": "https://dariknews.bg/novini/sviat/protest-sreshtu-zhilishtnata-kriza-v-ispaniia-sybra-70-000-dushi-v-madrid-2468109",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391143/991-ratio-ispaniia.jpg"
+    },
+    {
+      "title": "Близо 2 кг хероин откриха при спецакция в къща край Сандански",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/blizo-2-kg-heroin-otkriha-pri-specakciia-v-kyshta-kraj-sandanski-2468108",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50794/50794227/991-ratio-heroin.jpg"
+    },
     {
       "title": "Русия призова дипломати да напуснат Киев преди нови удари",
       "url": "https://dariknews.bg/novini/sviat/rusiia-prizova-diplomati-da-napusnat-kiev-predi-novi-udari-2468107",
@@ -9,11 +37,11 @@
       "image": "https://m.netinfo.bg/media/images/50968/50968793/991-ratio-ruski-dron.jpg"
     },
     {
-      "title": "Тежка катастрофа блокира АМ „Тракия“ преди Ямбол, въздушна линейка пристигна на място",
-      "url": "https://dariknews.bg/regioni/yambol/tezhka-katastrofa-blokira-am-trakiia-predi-iambol-vyzdushna-linejka-pristigna-na-miasto-2468106",
+      "title": "Жертва и двама ранени при катастрофа на АМ „Тракия“, магистралата е затворена (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/yambol/zhertva-i-dvama-raneni-pri-katastrofa-na-am-trakiia-magistralata-e-zatvorena-snimki-2468106",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Положиха тленните останки на цар Самуил в саркофага в „Света София“",
@@ -114,32 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390753/991-ratio-gaza.jpg"
     },
     {
-      "title": "Жена почина от чума в Сибир, предполага се изтичане от счупена епруветка",
-      "url": "https://dariknews.bg/novini/sviat/zhena-pochina-ot-chuma-v-sibir-predpolaga-se-iztichane-ot-schupena-epruvetka-2468093",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51322/51322804/991-ratio-laboratoriia-test-bolnica.jpg"
+      "title": "Битката за върха в групата на България се завърза – Естония удари Люксембург 03 Окт | 21:31",
+      "url": "https://dsport.bg/bitkata-za-varha-v-grupata-na-balgaria-se-zavarza-estonia-udari-luksemburg~241327.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1229670366.og.jpg"
     },
     {
-      "title": "Националният етнографски музей с безплатен вход през уикендите",
-      "url": "https://dariknews.bg/regioni/sofiia/nacionalniiat-etnografski-muzej-s-bezplaten-vhod-prez-uikendite-2468033",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390329/991-ratio-nacionalen-etnografski-muzej.jpg"
+      "title": "Рибарски: Тежка загуба, много хубаво трябва да си поставим акцентите (ВИДЕО) 03 Окт | 21:21",
+      "url": "https://dsport.bg/ribarski-tezka-zaguba-mnogo-hubavo-trabva-da-si-postavim-akcentite~241326.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1036023~1.og.jpg"
     },
     {
-      "title": "Защо някои хора се чувстват отпочинали след само четири часа сън",
-      "url": "https://dariknews.bg/novini/liubopitno/zashto-niakoi-hora-se-chuvstvat-otpochinali-sled-samo-chetiri-chasa-syn-2468011",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48536/48536721/991-ratio-sybuzhdane.jpg"
+      "title": "Макс Ебонг вкара на Сан Марино при разгром на Беларус 03 Окт | 21:17",
+      "url": "https://dsport.bg/maks-ebong-vkara-na-san-marino-pri-razgrom-na-belarus~241325.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1744645395~1.og.jpg"
     },
     {
-      "title": "Вкусът на детството: Тези пухкави бухти ще ви върнат години назад още с първата хапка",
-      "url": "https://dariknews.bg/novini/liubopitno/vkusyt-na-detstvoto-tezi-puhkavi-buhti-shte-vi-vyrnat-godini-nazad-oshte-s-pyrvata-hapka-2467655",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388765/991-ratio-buhti-buhtichki.jpg"
+      "title": "Краев: Положението ни е трагично, а може да стане катастрофално 03 Окт | 21:12",
+      "url": "https://dsport.bg/kraev-polozenieto-ni-e-tragichno-a-moze-da-stane-katastrofalno~241324.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1036111~1.og.jpg"
+    },
+    {
+      "title": "Атанас Илиев след 0:3 в Рейкявик: Видях себераздаване 03 Окт | 21:04",
+      "url": "https://dsport.bg/atanas-iliev-sled-0-3-v-reikavik-vidah-seberazdavane~241323.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1036059.og.jpg"
+    },
+    {
+      "title": "Англия съдра от бой Хърватия насред Риека 03 Окт | 21:01",
+      "url": "https://dsport.bg/anglia-sadra-ot-boi-harvatia-nasred-rieka~241322.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298402662.og.jpg"
+    },
+    {
+      "title": "„Лудата дойде“ наистина: Исландия вкара България в още по-дълбока яма 03 Окт | 20:53",
+      "url": "https://dsport.bg/na-zivo-islandia-balgaria-sastavi~241309.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1036041.og.jpg"
+    },
+    {
+      "title": "Русия не показа милост към клети африканци в Урал 03 Окт | 20:39",
+      "url": "https://dsport.bg/rusia-ne-pokaza-milost-kam-kleti-afrikanci-v-ural~241321.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2205543480-1-.og.jpg"
+    },
+    {
+      "title": "Бруно Фернандеш обясни какво е казал на Кристиано за оттеглянето му от Португалия 03 Окт | 20:15",
+      "url": "https://dsport.bg/bruno-fernandesh-obasni-kakvo-e-kazal-na-kristiano-za-otteglaneto-mu-ot-portugalia~241320.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2284673541.og.jpg"
+    },
+    {
+      "title": "Бразилия напълни кошницата на Индия в Колката 03 Окт | 19:42",
+      "url": "https://dsport.bg/brazilia-napalni-koshnicata-na-india-v-kolkata~241319.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297624495.og.jpg"
     }
   ]
 }
