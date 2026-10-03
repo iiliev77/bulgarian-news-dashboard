@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-03T06:59:02.988997+00:00",
+  "updated": "2026-10-03T07:16:39.695479+00:00",
   "articles": [
     {
-      "title": "Вторият пилот от Flydubai е бил със забрана за летене от властите в Оман",
-      "url": "https://dariknews.bg/novini/sviat/vtoriiat-pilot-ot-flydubai-e-bil-sys-zabrana-za-letene-ot-vlastite-v-oman-2468100",
+      "title": "Премиерът Радев и водената от него делегация пристигнаха в Гърция за тленните останки на цар Самуил",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-radev-i-vodenata-ot-nego-delegaciia-pristignaha-v-gyrciia-za-tlennite-ostanki-na-car-samuil-2468101",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51108/51108991/991-ratio-bylgariia-gyrciia.jpg"
+    },
+    {
+      "title": "Повлиян от радикални групировки: вторият пилот от Flydubai със забрана за летене от Оман",
+      "url": "https://dariknews.bg/novini/sviat/povliian-ot-radikalni-grupirovki-vtoriiat-pilot-ot-flydubai-sys-zabrana-za-letene-ot-oman-2468100",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51289/51289969/991-ratio-smetki-tok.jpg"
     },
     {
-      "title": "Учени от ЕС: Малко над половината от територията на Европа е преживяла „много силен“ топлинен стрес",
-      "url": "https://dariknews.bg/novini/liubopitno/ucheni-ot-es-malko-nad-polovinata-ot-teritoriiata-na-evropa-e-prezhiviala-mnogo-silen-toplinen-stres-2468050",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51150/51150507/991-ratio-goliama-zhega.jpg"
+      "title": "Аржентина няма да може да оттегли номер 10 в чест на Меси 03 Окт | 09:43",
+      "url": "https://dsport.bg/arzentina-nama-da-moze-da-ottegli-nomer-10-v-chest-na-mesi~241274.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2286971049-1.og.jpg"
+    },
+    {
+      "title": "Левандовски счупи рекорд на Кристиано Роналдо и отправи послание 03 Окт | 09:30",
+      "url": "https://dsport.bg/levandovski-schupi-rekord-na-kristiano-ronaldo-i-otpravi-poslanie~241273.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297715950.og.jpg"
     },
     {
       "title": "Шампиони без промоция: „болната система“, която разтърси германския футбол 03 Окт | 09:18",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_4~180.og.jpg"
-    },
-    {
-      "title": "Полша посрами Румъния - 6:0 и хеттрик на Левандовски (ВИДЕО) 02 Окт | 23:42",
-      "url": "https://dsport.bg/polsha-posrami-rumania-6-0-i-hettrik-na-levandovski~241261.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297726870.og.jpg"
-    },
-    {
-      "title": "Донарума блестя, а Италия оцеля срещу Франция (ВИДЕО) 02 Окт | 23:40",
-      "url": "https://dsport.bg/donaruma-blesta-a-italia-ocela-srestu-francia~241259.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298286610.og.jpg"
     }
   ]
 }
