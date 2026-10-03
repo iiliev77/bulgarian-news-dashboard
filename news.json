@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:32:54.967687+00:00",
+  "updated": "2026-10-03T08:50:38.212090+00:00",
   "articles": [
     {
       "title": "АТВ се удари във фонтан в Горна Оряховица, шофьорът бил с почти 2 промила алкохол",
@@ -13,7 +13,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/pameten-moment-gyrciia-predade-tlennite-ostanki-na-car-samuil-na-bylgariia-2468101",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390805/991-ratio-tlenni-ostanki-car-samuil.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Повлиян от радикални групировки: вторият пилот от Flydubai със забрана за летене от Оман",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/48666/48666140/991-ratio-lov.jpg"
     },
     {
+      "title": "Филипе Коутиньо с мечтан дебют, вдъхнови Сантос за обрат срещу Сао Пауло 03 Окт | 11:20",
+      "url": "https://dsport.bg/filipe-koutino-s-mechtan-debut-vdahnovi-santos-za-obrat-srestu-sao-paulo~241283.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-09-14-200119~1.og.png"
+    },
+    {
       "title": "Голямото съжаление на Лионел Меси: Казвам на децата си да учат, аз си пропилях времето 03 Окт | 11:09",
       "url": "https://dsport.bg/golamoto-sazalenie-na-lionel-mesi-kazvam-na-decata-si-da-uchat-az-si-propilah-vremeto~241282.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2286971049-1.og.jpg"
-    },
-    {
-      "title": "Левандовски счупи рекорд на Кристиано Роналдо и отправи послание 03 Окт | 09:30",
-      "url": "https://dsport.bg/levandovski-schupi-rekord-na-kristiano-ronaldo-i-otpravi-poslanie~241273.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297715950.og.jpg"
     }
   ]
 }
