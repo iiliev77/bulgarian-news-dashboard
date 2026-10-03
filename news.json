@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T10:08:41.602238+00:00",
+  "updated": "2026-10-03T10:22:55.250959+00:00",
   "articles": [
     {
       "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
     },
     {
+      "title": "Документ от 2015 г. заплашва защитната стратегия на Манчестър Сити по делото за финансови нарушения 03 Окт | 12:56",
+      "url": "https://dsport.bg/dokument-ot-2015-g-zaplashva-zastitnata-strategia-na-manchestar-siti-po-deloto-za-finansovi-narushenia~241292.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/mancht.og.jpg"
+    },
+    {
       "title": "Вашингтон стартира новия сезон в НХЛ с победа 03 Окт | 12:45",
       "url": "https://dsport.bg/vashington-startira-novia-sezon-v-nhl-s-pobeda~241291.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-09-14-200119~1.og.png"
-    },
-    {
-      "title": "Голямото съжаление на Лионел Меси: Казвам на децата си да учат, аз си пропилях времето 03 Окт | 11:09",
-      "url": "https://dsport.bg/golamoto-sazalenie-na-lionel-mesi-kazvam-na-decata-si-da-uchat-az-si-propilah-vremeto~241282.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2250413724~1.og.jpg"
     }
   ]
 }
