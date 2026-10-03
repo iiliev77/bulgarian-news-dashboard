@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-03T05:13:26.162002+00:00",
+  "updated": "2026-10-03T05:37:49.757876+00:00",
   "articles": [
+    {
+      "title": "Кола се вряза в пешеходци в Австралия - има ранени, сред тях и деца",
+      "url": "https://dariknews.bg/novini/sviat/kola-se-vriaza-v-peshehodci-v-avstraliia-ima-raneni-sred-tiah-i-deca-2468097",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51254/51254740/991-ratio-avstraliia-policiia.jpg"
+    },
     {
       "title": "Живот в битки: историята на цар Самуил и неговото време",
       "url": "https://dariknews.bg/novini/obshtestvo/zhivot-v-bitki-istoriiata-na-car-samuil-i-negovoto-vreme-2468096",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/39748/39748323/991-ratio-slana.jpg"
     },
     {
-      "title": "След повече от 1000 години: България посреща тленните останки на цар Самуил",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-poveche-ot-1000-godini-bylgariia-posreshta-tlennite-ostanki-na-car-samuil-2468038",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390337/991-ratio-istoricheski-den.jpg"
+      "title": "Нов скандал с Манчестър Сити: обвинения за укрити данъци за милиони по договора на Манчини 03 Окт | 08:24",
+      "url": "https://dsport.bg/nov-skandal-s-manchestar-siti-obvinenia-za-ukriti-danaci-za-milioni-po-dogovora-na-manchini~241266.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2287608151~1.og.jpg"
+    },
+    {
+      "title": "Меси вече е в играта: новият собственик на Елденсе отпразнува разгромна победа 03 Окт | 08:05",
+      "url": "https://dsport.bg/mesi-veche-e-v-igrata-noviat-sobstvenik-na-eldense-otpraznuva-razgromna-pobeda~241265.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1841708156-1.og.jpg"
     },
     {
       "title": "Северна Ирландия разби Украйна и оглави групата, Унгария надви Грузия (ВИДЕО) 02 Окт | 23:58",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1296917008.og.jpg"
-    },
-    {
-      "title": "Левски започна с чиста победа на турнира във Флорина 02 Окт | 22:03",
-      "url": "https://dsport.bg/levski-zapochna-s-chista-pobeda-na-turnira-vav-florina~241255.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/4466.og.jpg"
-    },
-    {
-      "title": "Специален ден за Текпетей: майка му посети Лудогорец за първи път 02 Окт | 21:41",
-      "url": "https://dsport.bg/specialen-den-za-tekpetei-maika-mu-poseti-ludogorec-za-parvi-pat~241254.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_1~233.og.jpg"
     }
   ]
 }
