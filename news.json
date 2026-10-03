@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-03T11:08:39.256395+00:00",
+  "updated": "2026-10-03T14:33:22.701800+00:00",
   "articles": [
+    {
+      "title": "Русия призова дипломати да напуснат Киев преди нови удари",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-prizova-diplomati-da-napusnat-kiev-predi-novi-udari-2468107",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50968/50968793/991-ratio-ruski-dron.jpg"
+    },
+    {
+      "title": "Тежка катастрофа блокира АМ „Тракия“ преди Ямбол, въздушна линейка пристигна на място",
+      "url": "https://dariknews.bg/regioni/yambol/tezhka-katastrofa-blokira-am-trakiia-predi-iambol-vyzdushna-linejka-pristigna-na-miasto-2468106",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Положиха тленните останки на цар Самуил в саркофага в „Света София“",
+      "url": "https://dariknews.bg/novini/bylgariia/polozhiha-tlennite-ostanki-na-car-samuil-v-sarkofaga-v-sveta-sofiia-2468105",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390950/991-ratio-samuil.jpg"
+    },
     {
       "title": "Почина Анатолий Кашпировски – феноменът, който хипнотизираше милиони пред телевизора",
       "url": "https://dariknews.bg/novini/sviat/pochina-anatolij-kashpirovski-fenomenyt-kojto-hipnotizirashe-milioni-pred-televizora-2468104",
@@ -119,97 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388765/991-ratio-buhti-buhtichki.jpg"
-    },
-    {
-      "title": "Празник в Рупите за 115-ата годишнина от рождението на баба Ванга",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/praznik-v-rupite-za-115-ata-godishnina-ot-rozhdenieto-na-baba-vanga-2467933",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389932/991-ratio-rupite-vanga.jpg"
-    },
-    {
-      "title": "Двудневен празник на баклавата събира любители и майстори в Малиново",
-      "url": "https://dariknews.bg/novini/liubopitno/dvudneven-praznik-na-baklavata-sybira-liubiteli-i-majstori-v-malinovo-2468010",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390286/991-ratio-baklava.jpg"
-    },
-    {
-      "title": "България и още 16 държави от ЕС се обявиха против орязването на бюджета за земеделие",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-oshte-16-dyrzhavi-ot-es-se-obiaviha-protiv-oriazvaneto-na-biudzheta-za-zemedelie-2468091",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
-    },
-    {
-      "title": "Клубовете от Висшата лига настояват за безпрецедентно тежко наказание на Манчестър Сити 03 Окт | 13:36",
-      "url": "https://dsport.bg/klubovete-ot-visshata-liga-nastoavat-za-bezprecedentno-tezko-nakazanie-na-manchestar-siti~241296.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276575909~1.og.jpg"
-    },
-    {
-      "title": "Английски национал пледира „невинен“ по обвинение в нападение 03 Окт | 13:26",
-      "url": "https://dsport.bg/angliiski-nacional-pledira-nevinen-po-obvinenie-v-napadenie~241295.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2088840734-1.og.jpg"
-    },
-    {
-      "title": "Роналдиньо с трогателна изповед за детството: Топката беше най-добрият ми приятел 03 Окт | 13:16",
-      "url": "https://dsport.bg/ronaldino-s-trogatelna-izpoved-za-detstvoto-topkata-beshe-nai-dobriat-mi-priatel~241294.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2282419890~1.og.jpg"
-    },
-    {
-      "title": "Ханзи Флик подготвя революция в състава на Барселона 03 Окт | 13:05",
-      "url": "https://dsport.bg/hanzi-flik-podgotva-revolucia-v-sastava-na-barselona~241293.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296388029.og.jpg"
-    },
-    {
-      "title": "Документ от 2015 г. заплашва защитната стратегия на Манчестър Сити по делото за финансови нарушения 03 Окт | 12:56",
-      "url": "https://dsport.bg/dokument-ot-2015-g-zaplashva-zastitnata-strategia-na-manchestar-siti-po-deloto-za-finansovi-narushenia~241292.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/mancht.og.jpg"
-    },
-    {
-      "title": "Вашингтон стартира новия сезон в НХЛ с победа 03 Окт | 12:45",
-      "url": "https://dsport.bg/vashington-startira-novia-sezon-v-nhl-s-pobeda~241291.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298314184.og.jpg"
-    },
-    {
-      "title": "Станислав Ангелов за националния отбор: Дано новият треньор донесе някакви промени (ВИДЕО) 03 Окт | 12:39",
-      "url": "https://dsport.bg/stanislav-angelov-za-nacionalnia-otbor-dano-noviat-trenor-donese-nakakvi-promeni-video~241290.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/img_9864~1.og.jpg"
-    },
-    {
-      "title": "Емил Велев: Левски е силен и отново ще е шампион (ВИДЕО) 03 Окт | 12:33",
-      "url": "https://dsport.bg/emil-velev-levski-e-silen-i-otnovo-ste-e-shampion-video~241289.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2025-07-16_12-28-08-621-1-2.og.jpg"
-    },
-    {
-      "title": "Ветераните на Левски играха в мач с благотворителна кауза 03 Окт | 12:27",
-      "url": "https://dsport.bg/veteranite-na-levski-igraha-v-mach-s-blagotvoritelna-kauza~241288.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/31.08-7-1~1.og.jpg"
-    },
-    {
-      "title": "Георги Костадинов с актуална информация за възстановяването на Бурас (ВИДЕО) 03 Окт | 12:16",
-      "url": "https://dsport.bg/georgi-kostadinov-s-aktualna-informacia-za-vazstanovavaneto-na-buras-video~241287.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2026-07-07_22-48-39-931-1~2.og.jpg"
     }
   ]
 }
