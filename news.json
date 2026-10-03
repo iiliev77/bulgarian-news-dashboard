@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-03T10:22:55.250959+00:00",
+  "updated": "2026-10-03T10:39:23.968868+00:00",
   "articles": [
+    {
+      "title": "Почина Анатолий Кашпировски – феноменът, който хипнотизираше милиони пред телевизора",
+      "url": "https://dariknews.bg/novini/sviat/pochina-anatolij-kashpirovski-fenomenyt-kojto-hipnotizirashe-milioni-pred-televizora-2468104",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51000/51000744/991-ratio-svesht.jpg"
+    },
     {
       "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
       "url": "https://dariknews.bg/novini/bylgariia/pozharyt-v-tec-brikel-v-gylybovo-e-potushen-napylno-2468103",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
     },
     {
-      "title": "Историк: Цар Самуил е бил нисък на ръст, но за историците е като гигант",
-      "url": "https://dariknews.bg/novini/obshtestvo/istorik-car-samuil-e-bil-nisyk-na-ryst-no-za-istoricite-e-kato-gigant-2468053",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390147/991-ratio-car-samuil.jpg"
+      "title": "Роналдиньо с трогателна изповед за детството: Топката беше най-добрият ми приятел 03 Окт | 13:16",
+      "url": "https://dsport.bg/ronaldino-s-trogatelna-izpoved-za-detstvoto-topkata-beshe-nai-dobriat-mi-priatel~241294.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2282419890~1.og.jpg"
+    },
+    {
+      "title": "Ханзи Флик подготвя революция в състава на Барселона 03 Окт | 13:05",
+      "url": "https://dsport.bg/hanzi-flik-podgotva-revolucia-v-sastava-na-barselona~241293.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296388029.og.jpg"
     },
     {
       "title": "Документ от 2015 г. заплашва защитната стратегия на Манчестър Сити по делото за финансови нарушения 03 Окт | 12:56",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2173713629-1-2-2~1.og.jpg"
-    },
-    {
-      "title": "Ибрахимович с остра атака към Кристиано Роналдо: Дори лъвовете знаят кога ловът е приключил 03 Окт | 11:35",
-      "url": "https://dsport.bg/ibrahimovich-s-ostra-ataka-kam-kristiano-ronaldo-dori-lavovete-znaat-koga-lovat-e-prikluchil~241284.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-893701524.og.jpg"
-    },
-    {
-      "title": "Филипе Коутиньо с мечтан дебют, вдъхнови Сантос за обрат срещу Сао Пауло 03 Окт | 11:20",
-      "url": "https://dsport.bg/filipe-koutino-s-mechtan-debut-vdahnovi-santos-za-obrat-srestu-sao-paulo~241283.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-09-14-200119~1.og.png"
     }
   ]
 }
