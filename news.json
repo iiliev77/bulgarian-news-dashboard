@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-03T07:35:22.823680+00:00",
+  "updated": "2026-10-03T07:50:12.920247+00:00",
   "articles": [
     {
-      "title": "Премиерът Радев и водената от него делегация пристигнаха в Гърция за тленните останки на цар Самуил",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-radev-i-vodenata-ot-nego-delegaciia-pristignaha-v-gyrciia-za-tlennite-ostanki-na-car-samuil-2468101",
+      "title": "АТВ се удари във фонтан в Горна Оряховица, шофьорът бил с почти 2 промила алкохол",
+      "url": "https://dariknews.bg/novini/bylgariia/atv-se-udari-vyv-fontan-v-gorna-oriahovica-shofioryt-bil-s-pochti-2-promila-alkohol-2468102",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51108/51108991/991-ratio-bylgariia-gyrciia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51347/51347612/991-ratio-pet-motocikleta-i-edno-atv.jpg"
+    },
+    {
+      "title": "На официална церемония: Гърция предаде тленните останки на цар Самуил на България",
+      "url": "https://dariknews.bg/novini/bylgariia/na-oficialna-ceremoniia-gyrciia-predade-tlennite-ostanki-na-car-samuil-na-bylgariia-2468101",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390773/991-ratio-radev-i-micotakis.jpg"
     },
     {
       "title": "Повлиян от радикални групировки: вторият пилот от Flydubai със забрана за летене от Оман",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/48666/48666140/991-ratio-lov.jpg"
     },
     {
-      "title": "Кешбек, точки, отстъпки: Как да извадите максимума от всяка покупка",
-      "url": "https://dariknews.bg/novini/bylgariia/keshbek-tochki-otstypki-kak-da-izvadite-maksimuma-ot-vsiaka-pokupka-2468046",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51289/51289969/991-ratio-smetki-tok.jpg"
+      "title": "Бурята около Кристиано Роналдо продължава 03 Окт | 10:22",
+      "url": "https://dsport.bg/burata-okolo-kristiano-ronaldo-prodalzava~241278.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297062867.og.jpg"
     },
     {
       "title": "Феновете на Ботев Пловдив изкупиха над 10 000 билета за домакинството на Славия 03 Окт | 10:14",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2289184391-1.og.jpg"
-    },
-    {
-      "title": "Нов скандал с Манчестър Сити: обвинения за укрити данъци за милиони по договора на Манчини 03 Окт | 08:24",
-      "url": "https://dsport.bg/nov-skandal-s-manchestar-siti-obvinenia-za-ukriti-danaci-za-milioni-po-dogovora-na-manchini~241266.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2287608151~1.og.jpg"
     }
   ]
 }
