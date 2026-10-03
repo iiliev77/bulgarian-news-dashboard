@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-03T10:39:23.968868+00:00",
+  "updated": "2026-10-03T11:08:39.256395+00:00",
   "articles": [
     {
       "title": "Почина Анатолий Кашпировски – феноменът, който хипнотизираше милиони пред телевизора",
       "url": "https://dariknews.bg/novini/sviat/pochina-anatolij-kashpirovski-fenomenyt-kojto-hipnotizirashe-milioni-pred-televizora-2468104",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000744/991-ratio-svesht.jpg"
+      "image": "https://m.netinfo.bg/media/images/51390/51390894/991-ratio-kashpirovski.jpg"
     },
     {
       "title": "Пожарът в ТЕЦ „Брикел“ в Гълъбово е потушен напълно",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
     },
     {
+      "title": "Клубовете от Висшата лига настояват за безпрецедентно тежко наказание на Манчестър Сити 03 Окт | 13:36",
+      "url": "https://dsport.bg/klubovete-ot-visshata-liga-nastoavat-za-bezprecedentno-tezko-nakazanie-na-manchestar-siti~241296.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2276575909~1.og.jpg"
+    },
+    {
+      "title": "Английски национал пледира „невинен“ по обвинение в нападение 03 Окт | 13:26",
+      "url": "https://dsport.bg/angliiski-nacional-pledira-nevinen-po-obvinenie-v-napadenie~241295.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2088840734-1.og.jpg"
+    },
+    {
       "title": "Роналдиньо с трогателна изповед за детството: Топката беше най-добрият ми приятел 03 Окт | 13:16",
       "url": "https://dsport.bg/ronaldino-s-trogatelna-izpoved-za-detstvoto-topkata-beshe-nai-dobriat-mi-priatel~241294.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-07-07_22-48-39-931-1~2.og.jpg"
-    },
-    {
-      "title": "Макс Верстапен с първи полпозишън за годината 03 Окт | 12:06",
-      "url": "https://dsport.bg/maks-verstapen-s-parvi-polpozishan-za-godinata~241286.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298354311.og.jpg"
-    },
-    {
-      "title": "Сезонът във Формула 1 ще завърши по график 03 Окт | 11:45",
-      "url": "https://dsport.bg/sezonat-vav-formula-1-ste-zavarshi-po-grafik~241285.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2173713629-1-2-2~1.og.jpg"
     }
   ]
 }
