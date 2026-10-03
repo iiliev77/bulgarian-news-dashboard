@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-03T06:30:26.928235+00:00",
+  "updated": "2026-10-03T06:59:02.988997+00:00",
   "articles": [
+    {
+      "title": "Вторият пилот от Flydubai е бил със забрана за летене от властите в Оман",
+      "url": "https://dariknews.bg/novini/sviat/vtoriiat-pilot-ot-flydubai-e-bil-sys-zabrana-za-letene-ot-vlastite-v-oman-2468100",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
+    },
+    {
+      "title": "Отстраниха авария с изтичане на газ на гарата в Карлово",
+      "url": "https://dariknews.bg/novini/bylgariia/otstraniha-avariia-s-iztichane-na-gaz-na-garata-v-karlovo-2468099",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51169/51169880/991-ratio-derajliral-vlak.jpg"
+    },
     {
       "title": "Проф. Палангурски: Няма ДНК анализ на тленните останки, за да се потвърди дали са на цар Самуил",
       "url": "https://dariknews.bg/novini/bylgariia/prof.-palangurski-niama-dnk-analiz-na-tlennite-ostanki-za-da-se-potvyrdi-dali-sa-na-car-samuil-2468098",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51150/51150507/991-ratio-goliama-zhega.jpg"
     },
     {
-      "title": "Затварят пътни участъци през октомври в София, променят маршрути на автобуси",
-      "url": "https://dariknews.bg/regioni/sofiia/zatvariat-pytni-uchastyci-prez-oktomvri-v-sofiia-promeniat-marshruti-na-avtobusi-2468030",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390321/991-ratio-avtobus-na-gradskiia-transport-v-sofiia.jpg"
-    },
-    {
-      "title": "Над 4000 души са починали от ебола при най-тежката досега епидемия в ДР Конго",
-      "url": "https://dariknews.bg/novini/sviat/nad-4000-dushi-sa-pochinali-ot-ebola-pri-naj-tezhkata-dosega-epidemiia-v-dr-kongo-2468086",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51349/51349317/991-ratio-ebola.jpg"
+      "title": "Шампиони без промоция: „болната система“, която разтърси германския футбол 03 Окт | 09:18",
+      "url": "https://dsport.bg/shampioni-bez-promocia-bolnata-sistema-koato-raztarsi-germanskia-futbol~241271.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2231416194.og.jpg"
     },
     {
       "title": "Дипломатически щит: шефът на Манчестър Сити защитен с имунитет на фона на огромния скандал 03 Окт | 09:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298286610.og.jpg"
-    },
-    {
-      "title": "Де Бройне поведе Белгия към класика срещу Турция, Лукаку също се разписа 02 Окт | 23:39",
-      "url": "https://dsport.bg/de-broine-povede-belgia-kam-klasika-srestu-turcia-lukaku-sasto-se-razpisa~241260.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297140361.og.jpg"
     }
   ]
 }
