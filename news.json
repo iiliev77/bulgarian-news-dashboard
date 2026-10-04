@@ -1,6 +1,111 @@
 {
-  "updated": "2026-10-04T11:19:54.305978+00:00",
+  "updated": "2026-10-04T18:02:38.683427+00:00",
   "articles": [
+    {
+      "title": "Приключи гласуването в мнозинството от секциите на общите избори в Босна и Херцеговина",
+      "url": "https://dariknews.bg/novini/sviat/prikliuchi-glasuvaneto-v-mnozinstvoto-ot-sekciite-na-obshtite-izbori-v-bosna-i-hercegovina-2468148",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
+    },
+    {
+      "title": "Мерц обяви нов помощен пакет за Украйна на стойност над 1,3 милиарда евро",
+      "url": "https://dariknews.bg/novini/sviat/merc-obiavi-nov-pomoshten-paket-za-ukrajna-na-stojnost-nad-13-miliarda-evro-2468147",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391523/991-ratio-germanskiiat-kancler-fridrih-merc-i-ukrainskiiat-prezident-volodimir-zelenski-v.jpg"
+    },
+    {
+      "title": "Поклонението пред Илиян Филипов ще бъде на 7 октомври",
+      "url": "https://dariknews.bg/novini/bylgariia/poklonenieto-pred-iliian-filipov-shte-byde-na-7-oktomvri-2468144",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390495/991-ratio-iliian-filipov.jpg"
+    },
+    {
+      "title": "Близките на жена в мозъчна смърт дадоха шанс за живот на трима души от Румъния",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/blizkite-na-zhena-v-mozychna-smyrt-dadoha-shans-za-zhivot-na-trima-dushi-ot-rumyniia-2468142",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50717/50717238/991-ratio-donor-donorska-situaciia.jpg"
+    },
+    {
+      "title": "Първият грипен вирус A(H3N2) за сезона е регистриран",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrviiat-gripen-virus-ah3n2-za-sezona-e-registriran-2468141",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51017/51017480/991-ratio-grip-bolni.jpg"
+    },
+    {
+      "title": "Частично бедствено положение в община Ивайловград заради голям горски пожар, „Кугър“ помага в гасенето",
+      "url": "https://dariknews.bg/regioni/haskovo/chastichno-bedstveno-polozhenie-v-obshtina-ivajlovgrad-zaradi-goliam-gorski-pozhar-kugyr-pomaga-v-gaseneto-2468140",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32817/32817601/991-ratio-helikopter-kugyr.jpg"
+    },
+    {
+      "title": "Втори пожар възникна на сметището край Кърджали за дни",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/vtori-pozhar-vyznikna-na-smetishteto-kraj-kyrdzhali-za-dni-2468137",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352229/991-ratio-suhi-trevi-pozhar.jpg"
+    },
+    {
+      "title": "5 октомври е неучебен ден за учениците в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/5-oktomvri-e-neucheben-den-za-uchenicite-v-stara-zagora-2468134",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51190/51190813/991-ratio-neucheben-den.jpg"
+    },
+    {
+      "title": "Ударен от дрон край Одеса: Изоставен кораб дрейфува към България (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/udaren-ot-dron-kraj-odesa-izostaven-korab-drejfuva-kym-bylgariia-snimki-2468136",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Черен ден на пътя: Трима мотористи загинаха при тежки катастрофи",
+      "url": "https://dariknews.bg/novini/bylgariia/cheren-den-na-pytia-trima-motoristi-zaginaha-pri-tezhki-katastrofi-2468135",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51148/51148269/991-ratio-motor-motorist-katastrofa.jpg"
+    },
+    {
+      "title": "Моторист загина при катастрофа в София",
+      "url": "https://dariknews.bg/regioni/sofiia/motorist-zagina-pri-katastrofa-v-sofiia-2468132",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39760/39760992/991-ratio-katastrofa-s-motorist-dzherman.jpg"
+    },
+    {
+      "title": "„Ето това е тайната“: 102-годишната Олимпиада разкри как се стига до дълголетие",
+      "url": "https://dariknews.bg/novini/bylgariia/eto-tova-e-tajnata-102-godishnata-olimpiada-razkri-kak-se-stiga-do-dylgoletie-2468131",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Две силни земетресения разтърсиха Южна Турция",
+      "url": "https://dariknews.bg/novini/sviat/dve-silni-zemetreseniia-raztyrsiha-iuzhna-turciia-2468130",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
+    },
+    {
+      "title": "Оставиха в ареста задържания за убийството на бизнесмена Илиян Филипов",
+      "url": "https://dariknews.bg/regioni/plovdiv/ostaviha-v-aresta-zadyrzhaniia-za-ubijstvoto-na-biznesmena-iliian-filipov-2468129",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Международната операция: Разкриха контрабанда на наркотици, оръжия и фалшиви стоки, както и трафик на мигранти",
+      "url": "https://dariknews.bg/novini/bylgariia/mezhdunarodnata-operaciia-razkriha-kontrabanda-na-narkotici-oryzhiia-i-falshivi-stoki-kakto-i-trafik-na-migranti-2468128",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391462/991-ratio-mitnici.jpg"
+    },
     {
       "title": "Минимална заплата до 672,80 евро и увеличение на майчинството: Какво предвижда социалното министерство",
       "url": "https://dariknews.bg/novini/bylgariia/minimalna-zaplata-do-67280-evro-i-uvelichenie-na-majchinstvoto-kakvo-predvizhda-socialnoto-ministerstvo-2468127",
@@ -20,7 +125,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/borisov-koj-drug-e-napravil-neshto-v-bylgariia-osven-bojko-i-gerb-2468125",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375737/991-ratio-bojko-borisov.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Юлиян Янков - Картофа е задържан от властите в Гърция",
@@ -37,179 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51323/51323941/991-ratio-gylyb-donev.jpg"
     },
     {
-      "title": "Дънди пред Мон Дьо: Може би съм готов да стана баща, прокрадват се вече такива мисли",
-      "url": "https://dariknews.bg/novini/liubopitno/dyndi-pred-mon-dio-mozhe-bi-sym-gotov-da-stana-bashta-prokradvat-se-veche-takiva-misli-2468122",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391409/991-ratio-mon-dio.jpg"
-    },
-    {
-      "title": "Вучич обяви, че ако спечели парламентарните избори в Сърбия, правителството ще е само с 12 министри",
-      "url": "https://dariknews.bg/novini/sviat/vuchich-obiavi-che-ako-specheli-parlamentarnite-izbori-v-syrbiia-pravitelstvoto-shte-e-samo-s-12-ministri-2468121",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388338/991-ratio-aleksandyr-vuchich.jpg"
-    },
-    {
-      "title": "Руска атака с дронове предизвика тревога след пристигането на Мерц в Киев",
-      "url": "https://dariknews.bg/novini/sviat/ruska-ataka-s-dronove-predizvika-trevoga-sled-pristiganeto-na-merc-v-kiev-2468120",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51304/51304089/991-ratio-volodimir-zelenski-i-fridrih-merc.jpg"
-    },
-    {
-      "title": "Цените на едро: Зелената салата и доматите поскъпват рязко, олиото и картофите поевтиняват",
-      "url": "https://dariknews.bg/novini/bylgariia/cenite-na-edro-zelenata-salata-i-domatite-poskypvat-riazko-olioto-i-kartofite-poevtiniavat-2468119",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51268/51268713/991-ratio-magazin-ceni.jpg"
-    },
-    {
-      "title": "Първа оставка след неуспешното изпълнение на смъртната присъда на Криста Пайк",
-      "url": "https://dariknews.bg/novini/sviat/pyrva-ostavka-sled-neuspeshnoto-izpylnenie-na-smyrtnata-prisyda-na-krista-pajk-2468118",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45622/45622035/991-ratio-smyrtna-prisyda-inzhekciia-smyrtonosna-inzhekciia.jpg"
-    },
-    {
-      "title": "Рецепта: Тайната на хрупкавите кисели краставички без грам захар",
-      "url": "https://dariknews.bg/novini/liubopitno/recepta-tajnata-na-hrupkavite-kiseli-krastavichki-bez-gram-zahar-2467955",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50955/50955445/991-ratio-kiseli-krastavichki-kisela-krastavichka.jpg"
-    },
-    {
-      "title": "Медицински самолет с 6 души на борда изчезна на път от Бермудските острови за Бостън",
-      "url": "https://dariknews.bg/novini/sviat/medicinski-samolet-s-6-dushi-na-borda-izchezna-na-pyt-ot-bermudskite-ostrovi-za-bostyn-2468117",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391383/991-ratio-iliustrativna-snimka-helikopter-na-bregovata-ohrana-na-sasht.jpg"
-    },
-    {
-      "title": "Външните планети може да бъдат изхвърлени от Слънчевата система много по-рано от очакваното",
-      "url": "https://dariknews.bg/novini/liubopitno/vynshnite-planeti-mozhe-da-bydat-izhvyrleni-ot-slynchevata-sistema-mnogo-po-rano-ot-ochakvanoto-2468087",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45734/45734984/991-ratio-planeti-slyncheva-sistema-kosmos.jpg"
-    },
-    {
-      "title": "Сладката тайна на есента: Топ ползи за здравето от крушите",
-      "url": "https://dariknews.bg/novini/liubopitno/sladkata-tajna-na-esenta-top-polzi-za-zdraveto-ot-krushite-2467657",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50882/50882659/991-ratio-krusha-krushi.jpg"
-    },
-    {
-      "title": "За първи път в историята: Седем лазера „пробиват“ Космоса с гледка към звездите",
-      "url": "https://dariknews.bg/novini/liubopitno/za-pyrvi-pyt-v-istoriiata-sedem-lazera-probivat-kosmosa-s-gledka-kym-zvezdite-2467950",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390008/991-ratio-kosmos.jpg"
-    },
-    {
-      "title": "Софийският зоопарк с богата програма за Световния ден за защита на животните",
-      "url": "https://dariknews.bg/regioni/sofiia/sofijskiiat-zoopark-s-bogata-programa-za-svetovniia-den-za-zashtita-na-zhivotnite-2468036",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390342/991-ratio-sofijskiiat-zoopark.jpg"
-    },
-    {
-      "title": "Рафинерията на „Лукойл“ в България може да е част от сделка, обсъждана от САЩ и Русия",
-      "url": "https://dariknews.bg/novini/bylgariia/rafineriiata-na-lukojl-v-bylgariia-mozhe-da-e-chast-ot-sdelka-obsyzhdana-ot-sasht-i-rusiia-2468116",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51205/51205196/991-ratio-lukojl.jpg"
-    },
-    {
-      "title": "Нова ера за железопътния транспорт: Европа ускорява стандартизацията заради Китай",
-      "url": "https://dariknews.bg/novini/sviat/nova-era-za-zhelezopytniia-transport-evropa-uskoriava-standartizaciiata-zaradi-kitaj-2468115",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51307/51307952/991-ratio-italiia-vlak.jpg"
-    },
-    {
-      "title": "Слънчева неделя с температури до 25°",
-      "url": "https://dariknews.bg/novini/bylgariia/slyncheva-nedelia-s-temperaturi-do-25-2468113",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391281/991-ratio-esen.jpg"
-    },
-    {
-      "title": "Две огнища на шарка по овце и кози са установени в Кюстендилско",
-      "url": "https://dariknews.bg/regioni/kiustendil/dve-ognishta-na-sharka-po-ovce-i-kozi-sa-ustanoveni-v-kiustendilsko-2468114",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо с ново скандално решение, не иска да се сдобрява с Жезус 04 Окт | 14:08",
-      "url": "https://dsport.bg/kristiano-ronaldo-s-novo-skandalno-reshenie-ne-iska-da-se-sdobrava-s-zezus~241358.html",
+      "title": "Австрия измъкна точка срещу Косово 04 Окт | 20:59",
+      "url": "https://dsport.bg/avstria-izmakna-tochka-srestu-kosovo~241397.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297435066~1.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298552467.og.jpg"
     },
     {
-      "title": "Жоао Феликс иска завръщане в Барселона, но има проблем 04 Окт | 14:05",
-      "url": "https://dsport.bg/igrachat-na-sezona-zoao-feliks-iska-zavrastane-v-evropa~241355.html",
+      "title": "Пет българки започнаха с победи в квалификациите на турнир в Бургас 04 Окт | 20:41",
+      "url": "https://dsport.bg/pet-balgarki-zapochnaha-s-pobedi-v-kvalifikaciite-na-turnir-v-burgas~241396.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297576807.og.jpg"
+      "image": "https://dsport.bg/media/384/burgas_jeni_nedelq.og.jpeg"
     },
     {
-      "title": "Луис де ла Фуенте с гръмко изказване за Ламин Ямал: Той се превръща в легенда 04 Окт | 13:59",
-      "url": "https://dsport.bg/luis-de-la-fuente-s-gramko-izkazvane-za-lamin-amal-toi-se-prevrasta-v-legenda~241357.html",
+      "title": "Министърът на икономиката на Португалия коментира скандала около Кристиано 04 Окт | 20:23",
+      "url": "https://dsport.bg/ministarat-na-ikonomikata-na-portugalia-komentira-skandala-okolo-kristiano~241394.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298421814.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2297064782~2.og.jpg"
     },
     {
-      "title": "Милан влиза в люта битка с Рома за подписа на Ендрик 04 Окт | 13:51",
-      "url": "https://dsport.bg/milan-vliza-v-luta-bitka-s-roma-za-podpisa-na-endrik~241356.html",
+      "title": "Нестеров започна с победа в квалификациите на Чалънджър в Испания 04 Окт | 20:07",
+      "url": "https://dsport.bg/nesterov-zapochna-s-pobeda-v-kvalifikaciite-na-chalandzar-v-ispania~241393.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2249990909~1.og.jpg"
+      "image": "https://dsport.bg/media/384/nesterov-8-1-0-4-1-1-2-1-1-1-2-1-1-1-1.og.jpg"
     },
     {
-      "title": "Тв водеща и бг волейболист официално потвърдиха тяхната връзка 04 Окт | 13:33",
-      "url": "https://dsport.bg/tv-vodesta-i-bg-voleibolist-oficialno-potvardiha-tahnata-vrazka~241354.html",
+      "title": "Бразилски гранд в тежка криза: съд забрани спонсора на клуба заради съдържание за възрастни 04 Окт | 19:51",
+      "url": "https://dsport.bg/brazilski-grand-v-tezka-kriza-sad-zabrani-sponsora-na-kluba-zaradi-sadarzanie-za-vazrastni~241392.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/karin_alex.l.og.jpg"
+      "image": "https://dsport.bg/media/384/tians.og.jpg"
     },
     {
-      "title": "Макс Верстапен с лекция на „Сепанг“, буря забави драматичната надпревара 04 Окт | 13:20",
-      "url": "https://dsport.bg/maks-verstapen-s-lekcia-na-sepang-bura-predshestva-i-zabavi-sastezanieto~241352.html",
+      "title": "Пловдивски съдии едвам отърваха боя в Смолян след дузпа за Несебър в 90-ата минута (ВИДЕО) 04 Окт | 19:37",
+      "url": "https://dsport.bg/plovdivski-sadii-edvam-otarvaha-boa-v-smolan-sled-duzpa-za-nesebar-v-90-ata-minuta-video~241391.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298485807.og.jpg"
+      "image": "https://dsport.bg/media/384/kupata125.og.jpg"
     },
     {
-      "title": "Ювентус готви революция 04 Окт | 13:10",
-      "url": "https://dsport.bg/uventus-gotvi-revolucia~241353.html",
+      "title": "Везенков и Милър-Макинтайър поведоха Олимпиакос срещу Ираклис 04 Окт | 19:34",
+      "url": "https://dsport.bg/vezenkov-i-milar-makintaiar-povedoha-olimpiakos-srestu-iraklis~241388.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2295798507.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2260807843-1.og.jpg"
     },
     {
-      "title": "Латвиец ще ни свири в Люксембург 04 Окт | 12:40",
-      "url": "https://dsport.bg/latviec-ste-ni-sviri-v-luksemburg~241351.html",
+      "title": "Ново напрежение около Неймар 04 Окт | 19:31",
+      "url": "https://dsport.bg/novo-naprezenie-okolo-neimar~241389.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2291426046.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2287004042~1.og.jpg"
     },
     {
-      "title": "Легендарен румънец бил предлаган на Лудогорец 04 Окт | 12:20",
-      "url": "https://dsport.bg/legendaren-rumanec-bil-predlagan-na-ludogorec~241350.html",
+      "title": "Всички двойки в 1/16-финалите на Купата 04 Окт | 19:11",
+      "url": "https://dsport.bg/vsichki-dvoiki-v-1-16-finalite-na-kupata~241386.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2201199896.og.jpg"
+      "image": "https://dsport.bg/media/384/1035403.og.jpg"
     },
     {
-      "title": "Натрапник на терена: куче прекъсна мач от Лига на нациите (ВИДЕО) 04 Окт | 11:56",
-      "url": "https://dsport.bg/kuche-prekasna-mach-shotlandia-severna-makedonia-liga-na-naciite~241349.html",
+      "title": "Лудогорец разби Черно море в контрола 04 Окт | 19:03",
+      "url": "https://dsport.bg/ludogorec-razbi-cherno-more-v-kontrola~241387.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-1330-~1.og.png"
+      "image": "https://dsport.bg/media/384/ludogorets_moreto.og.jpg"
     }
   ]
 }
