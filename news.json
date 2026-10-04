@@ -1,6 +1,62 @@
 {
-  "updated": "2026-10-04T05:57:17.173303+00:00",
+  "updated": "2026-10-04T11:19:54.305978+00:00",
   "articles": [
+    {
+      "title": "Минимална заплата до 672,80 евро и увеличение на майчинството: Какво предвижда социалното министерство",
+      "url": "https://dariknews.bg/novini/bylgariia/minimalna-zaplata-do-67280-evro-i-uvelichenie-na-majchinstvoto-kakvo-predvizhda-socialnoto-ministerstvo-2468127",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51269/51269385/991-ratio-zaplata.jpg"
+    },
+    {
+      "title": "Проливни дъждове и наводнения в Каталуния: Двама души загинаха, а един е в неизвестност",
+      "url": "https://dariknews.bg/novini/sviat/prolivni-dyzhdove-i-navodneniia-v-kataluniia-dvama-dushi-zaginaha-a-edin-e-v-neizvestnost-2468126",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51204/51204825/991-ratio-navodnenie.jpg"
+    },
+    {
+      "title": "Борисов: Кой друг е направил нещо в България, освен Бойко и ГЕРБ",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-koj-drug-e-napravil-neshto-v-bylgariia-osven-bojko-i-gerb-2468125",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375737/991-ratio-bojko-borisov.jpg"
+    },
+    {
+      "title": "Юлиян Янков - Картофа е задържан от властите в Гърция",
+      "url": "https://dariknews.bg/novini/sviat/iuliian-iankov-kartofa-e-zadyrzhan-ot-vlastite-v-gyrciia-2468124",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Гълъб Донев: Еврото като валута не е виновно, виновно е правителството, което не успя да овладее спекулата",
+      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-evroto-kato-valuta-ne-e-vinovno-vinovno-e-pravitelstvoto-koeto-ne-uspia-da-ovladee-spekulata-2468123",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51323/51323941/991-ratio-gylyb-donev.jpg"
+    },
+    {
+      "title": "Дънди пред Мон Дьо: Може би съм готов да стана баща, прокрадват се вече такива мисли",
+      "url": "https://dariknews.bg/novini/liubopitno/dyndi-pred-mon-dio-mozhe-bi-sym-gotov-da-stana-bashta-prokradvat-se-veche-takiva-misli-2468122",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391409/991-ratio-mon-dio.jpg"
+    },
+    {
+      "title": "Вучич обяви, че ако спечели парламентарните избори в Сърбия, правителството ще е само с 12 министри",
+      "url": "https://dariknews.bg/novini/sviat/vuchich-obiavi-che-ako-specheli-parlamentarnite-izbori-v-syrbiia-pravitelstvoto-shte-e-samo-s-12-ministri-2468121",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388338/991-ratio-aleksandyr-vuchich.jpg"
+    },
+    {
+      "title": "Руска атака с дронове предизвика тревога след пристигането на Мерц в Киев",
+      "url": "https://dariknews.bg/novini/sviat/ruska-ataka-s-dronove-predizvika-trevoga-sled-pristiganeto-na-merc-v-kiev-2468120",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51304/51304089/991-ratio-volodimir-zelenski-i-fridrih-merc.jpg"
+    },
     {
       "title": "Цените на едро: Зелената салата и доматите поскъпват рязко, олиото и картофите поевтиняват",
       "url": "https://dariknews.bg/novini/bylgariia/cenite-na-edro-zelenata-salata-i-domatite-poskypvat-riazko-olioto-i-kartofite-poevtiniavat-2468119",
@@ -86,130 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
     },
     {
-      "title": "Запорожката АЕЦ е на аварийно електрозахранване след обстрел",
-      "url": "https://dariknews.bg/novini/sviat/zaporozhkata-aec-e-na-avarijno-elektrozahranvane-sled-obstrel-2468112",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49897/49897067/991-ratio-zaporozhkata-aec.jpg"
-    },
-    {
-      "title": "Екзитполове: Партията на премиера Кулбергс води на изборите в Латвия",
-      "url": "https://dariknews.bg/novini/sviat/ekzitpolove-partiiata-na-premiera-kulbergs-vodi-na-izborite-v-latviia-2468111",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391244/991-ratio-izbori-latviia.jpg"
-    },
-    {
-      "title": "Доц. Неделчева: Предметите, дадени на Гърция за костите на цар Самуил, не са отписани от НИМ",
-      "url": "https://dariknews.bg/novini/bylgariia/doc.-nedelcheva-predmetite-dadeni-na-gyrciia-za-kostite-na-car-samuil-ne-sa-otpisani-ot-nim-2468110",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Протест срещу жилищната криза в Испания събра 70 000 души в Мадрид",
-      "url": "https://dariknews.bg/novini/sviat/protest-sreshtu-zhilishtnata-kriza-v-ispaniia-sybra-70-000-dushi-v-madrid-2468109",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391143/991-ratio-ispaniia.jpg"
-    },
-    {
-      "title": "Близо 2 кг хероин откриха при спецакция в къща край Сандански",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/blizo-2-kg-heroin-otkriha-pri-specakciia-v-kyshta-kraj-sandanski-2468108",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50794/50794227/991-ratio-heroin.jpg"
-    },
-    {
-      "title": "Русия призова дипломати да напуснат Киев преди нови удари",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-prizova-diplomati-da-napusnat-kiev-predi-novi-udari-2468107",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50968/50968793/991-ratio-ruski-dron.jpg"
-    },
-    {
-      "title": "Жертва и двама ранени при катастрофа на АМ „Тракия“ (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/yambol/zhertva-i-dvama-raneni-pri-katastrofa-na-am-trakiia-snimki-2468106",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Положиха тленните останки на цар Самуил в саркофага в „Света София“",
-      "url": "https://dariknews.bg/novini/bylgariia/polozhiha-tlennite-ostanki-na-car-samuil-v-sarkofaga-v-sveta-sofiia-2468105",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390950/991-ratio-samuil.jpg"
-    },
-    {
-      "title": "Пато начерта грандиозна цел за общия си клуб с Бостанджиев 04 Окт | 08:38",
-      "url": "https://dsport.bg/pato-nacherta-grandiozna-cel-za-obstia-si-klub-s-bostandziev~241341.html",
+      "title": "Кристиано Роналдо с ново скандално решение, не иска да се сдобрява с Жезус 04 Окт | 14:08",
+      "url": "https://dsport.bg/kristiano-ronaldo-s-novo-skandalno-reshenie-ne-iska-da-se-sdobrava-s-zezus~241358.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/fotojet-84-.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2297435066~1.og.jpg"
     },
     {
-      "title": "Аржентина заби седмица на Буркина Фасо 04 Окт | 08:12",
-      "url": "https://dsport.bg/arzentina-zabi-sedmica-na-burkina-faso~241339.html",
+      "title": "Жоао Феликс иска завръщане в Барселона, но има проблем 04 Окт | 14:05",
+      "url": "https://dsport.bg/igrachat-na-sezona-zoao-feliks-iska-zavrastane-v-evropa~241355.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298461898.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2297576807.og.jpg"
     },
     {
-      "title": "Швейцария е с 3 от 3, Шотландия победи в Скопие 03 Окт | 23:57",
-      "url": "https://dsport.bg/shveicaria-e-s-3-ot-3-shotlandia-pobedi-v-skopie~241338.html",
+      "title": "Луис де ла Фуенте с гръмко изказване за Ламин Ямал: Той се превръща в легенда 04 Окт | 13:59",
+      "url": "https://dsport.bg/luis-de-la-fuente-s-gramko-izkazvane-za-lamin-amal-toi-se-prevrasta-v-legenda~241357.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297871610.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298421814.og.jpg"
     },
     {
-      "title": "Испания мина и през Чехия, за да остане безгрешен в Лигата на нациите 03 Окт | 23:45",
-      "url": "https://dsport.bg/ispania-mina-i-prez-chehia-za-da-ostane-bezgreshen-v-ligata-na-naciite~241337.html",
+      "title": "Милан влиза в люта битка с Рома за подписа на Ендрик 04 Окт | 13:51",
+      "url": "https://dsport.bg/milan-vliza-v-luta-bitka-s-roma-za-podpisa-na-endrik~241356.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298421807.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2249990909~1.og.jpg"
     },
     {
-      "title": "Съкрушеният Билич: Мъчно ми е за децата, които дойдоха, поемам цялата отговорност 03 Окт | 23:33",
-      "url": "https://dsport.bg/sakrusheniat-bilich-machno-mi-e-za-decata-koito-doidoha-poemam-calata-otgovornost~241336.html",
+      "title": "Тв водеща и бг волейболист официално потвърдиха тяхната връзка 04 Окт | 13:33",
+      "url": "https://dsport.bg/tv-vodesta-i-bg-voleibolist-oficialno-potvardiha-tahnata-vrazka~241354.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1761590355-1-.og.jpg"
+      "image": "https://dsport.bg/media/384/karin_alex.l.og.jpg"
     },
     {
-      "title": "Подкрепата на Миле Китич не бе достатъчна за Рилецо на старта в Адриатическата лига 03 Окт | 23:19",
-      "url": "https://dsport.bg/podkrepata-na-mile-kitich-ne-be-dostatachna-za-rileco-na-starta-v-adriaticheskata-liga~241335.html",
+      "title": "Макс Верстапен с лекция на „Сепанг“, буря забави драматичната надпревара 04 Окт | 13:20",
+      "url": "https://dsport.bg/maks-verstapen-s-lekcia-na-sepang-bura-predshestva-i-zabavi-sastezanieto~241352.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/03.10-1~1.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298485807.og.jpg"
     },
     {
-      "title": "Селекционерът на Исландия за България: Това не е същият отбор, с който съм израснал 03 Окт | 23:03",
-      "url": "https://dsport.bg/selekcionerat-na-islandia-za-balgaria-tova-ne-e-sastiat-otbor-s-koito-sam-izrasnal~241334.html",
+      "title": "Ювентус готви революция 04 Окт | 13:10",
+      "url": "https://dsport.bg/uventus-gotvi-revolucia~241353.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2218949651.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2295798507.og.jpg"
     },
     {
-      "title": "Тухел след 7:0: Много, много впечатляващо, през цялото време играхме смирено 03 Окт | 22:51",
-      "url": "https://dsport.bg/tuhel-sled-7-0-mnogo-mnogo-vpechatlavasto-prez-caloto-vreme-igrahme-smireno~241333.html",
+      "title": "Латвиец ще ни свири в Люксембург 04 Окт | 12:40",
+      "url": "https://dsport.bg/latviec-ste-ni-sviri-v-luksemburg~241351.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298415341.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2291426046.og.jpg"
     },
     {
-      "title": "Митов: Става прекалено много, трябва да си поговорим искрено, от нас зависи (ВИДЕО) 03 Окт | 22:27",
-      "url": "https://dsport.bg/mitov-stava-prekaleno-mnogo-trabva-da-si-pogovorim-iskreno-ot-nas-zavisi-video~241332.html",
+      "title": "Легендарен румънец бил предлаган на Лудогорец 04 Окт | 12:20",
+      "url": "https://dsport.bg/legendaren-rumanec-bil-predlagan-na-ludogorec~241350.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/879145.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2201199896.og.jpg"
     },
     {
-      "title": "Жезус: Кристиано е символ на Португалия, но ще говорим след мача с Норвегия 03 Окт | 22:13",
-      "url": "https://dsport.bg/zezus-kristiano-e-simvol-na-portugalia-no-ste-govorim-sled-macha-s-norvegia~241331.html",
+      "title": "Натрапник на терена: куче прекъсна мач от Лига на нациите (ВИДЕО) 04 Окт | 11:56",
+      "url": "https://dsport.bg/kuche-prekasna-mach-shotlandia-severna-makedonia-liga-na-naciite~241349.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297061781~1.og.jpg"
+      "image": "https://dsport.bg/media/384/screenshot-1330-~1.og.png"
     }
   ]
 }
