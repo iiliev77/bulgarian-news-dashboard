@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-04T18:02:38.683427+00:00",
+  "updated": "2026-10-04T21:12:06.670870+00:00",
   "articles": [
+    {
+      "title": "Няма изненади в резултатите от гласуването на общите избори в Босна и Херцеговина",
+      "url": "https://dariknews.bg/novini/sviat/niama-iznenadi-v-rezultatite-ot-glasuvaneto-na-obshtite-izbori-v-bosna-i-hercegovina-2468151",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50952/50952515/991-ratio-izbori.jpg"
+    },
+    {
+      "title": "Нетаняху нареди проверка на сигурността за полетите към Израел",
+      "url": "https://dariknews.bg/novini/sviat/netaniahu-naredi-proverka-na-sigurnostta-za-poletite-kym-izrael-2468150",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51350/51350748/991-ratio-beniamin-netaniahu.jpg"
+    },
+    {
+      "title": "Кой притежава Луната?",
+      "url": "https://dariknews.bg/novini/liubopitno/koj-pritezhava-lunata-2468149",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50797/50797526/991-ratio-rozova-luna.jpg"
+    },
     {
       "title": "Приключи гласуването в мнозинството от секциите на общите избори в Босна и Херцеговина",
       "url": "https://dariknews.bg/novini/sviat/prikliuchi-glasuvaneto-v-mnozinstvoto-ot-sekciite-na-obshtite-izbori-v-bosna-i-hercegovina-2468148",
@@ -30,11 +51,11 @@
       "image": "https://m.netinfo.bg/media/images/50717/50717238/991-ratio-donor-donorska-situaciia.jpg"
     },
     {
-      "title": "Първият грипен вирус A(H3N2) за сезона е регистриран",
-      "url": "https://dariknews.bg/novini/bylgariia/pyrviiat-gripen-virus-ah3n2-za-sezona-e-registriran-2468141",
+      "title": "Първият грипен вирус A(H3N2) за сезона е регистриран у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrviiat-gripen-virus-ah3n2-za-sezona-e-registriran-u-nas-2468141",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51017/51017480/991-ratio-grip-bolni.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Частично бедствено положение в община Ивайловград заради голям горски пожар, „Кугър“ помага в гасенето",
@@ -121,95 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51204/51204825/991-ratio-navodnenie.jpg"
     },
     {
-      "title": "Борисов: Кой друг е направил нещо в България, освен Бойко и ГЕРБ",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-koj-drug-e-napravil-neshto-v-bylgariia-osven-bojko-i-gerb-2468125",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Юлиян Янков - Картофа е задържан от властите в Гърция",
-      "url": "https://dariknews.bg/novini/sviat/iuliian-iankov-kartofa-e-zadyrzhan-ot-vlastite-v-gyrciia-2468124",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Гълъб Донев: Еврото като валута не е виновно, виновно е правителството, което не успя да овладее спекулата",
-      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-evroto-kato-valuta-ne-e-vinovno-vinovno-e-pravitelstvoto-koeto-ne-uspia-da-ovladee-spekulata-2468123",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51323/51323941/991-ratio-gylyb-donev.jpg"
-    },
-    {
-      "title": "Австрия измъкна точка срещу Косово 04 Окт | 20:59",
-      "url": "https://dsport.bg/avstria-izmakna-tochka-srestu-kosovo~241397.html",
+      "title": "Израел спъна Ирландия в Сърбия 05 Окт | 00:10",
+      "url": "https://dsport.bg/izrael-spana-irlandia-v-sarbia~241410.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298552467.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298583802.og.jpg"
     },
     {
-      "title": "Пет българки започнаха с победи в квалификациите на турнир в Бургас 04 Окт | 20:41",
-      "url": "https://dsport.bg/pet-balgarki-zapochnaha-s-pobedi-v-kvalifikaciite-na-turnir-v-burgas~241396.html",
+      "title": "Липсата на Роналдо не се усети, Португалия е на 1/4-финал в Лигата на нациите 04 Окт | 23:50",
+      "url": "https://dsport.bg/lipsata-na-ronaldo-ne-se-useti-portugalia-e-na-1-4-final-v-ligata-na-naciite~241409.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/burgas_jeni_nedelq.og.jpeg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298582887.og.jpg"
     },
     {
-      "title": "Министърът на икономиката на Португалия коментира скандала около Кристиано 04 Окт | 20:23",
-      "url": "https://dsport.bg/ministarat-na-ikonomikata-na-portugalia-komentira-skandala-okolo-kristiano~241394.html",
+      "title": "Гърция продължава да впечатлява, отново спря Германия 04 Окт | 23:41",
+      "url": "https://dsport.bg/garcia-prodalzava-da-vpechatlava-otnovo-spra-germania~241407.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297064782~2.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298579721.og.jpg"
     },
     {
-      "title": "Нестеров започна с победа в квалификациите на Чалънджър в Испания 04 Окт | 20:07",
-      "url": "https://dsport.bg/nesterov-zapochna-s-pobeda-v-kvalifikaciite-na-chalandzar-v-ispania~241393.html",
+      "title": "Нидерландия се затрудни със Сърбия в Айндховен 04 Окт | 23:38",
+      "url": "https://dsport.bg/niderlandia-se-zatrudni-sas-sarbia-v-aindhoven~241406.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/nesterov-8-1-0-4-1-1-2-1-1-1-2-1-1-1-1.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298573375.og.jpg"
     },
     {
-      "title": "Бразилски гранд в тежка криза: съд забрани спонсора на клуба заради съдържание за възрастни 04 Окт | 19:51",
-      "url": "https://dsport.bg/brazilski-grand-v-tezka-kriza-sad-zabrani-sponsora-na-kluba-zaradi-sadarzanie-za-vazrastni~241392.html",
+      "title": "Малайзия преговоря за постоянно завръщане във Формула 1 04 Окт | 23:28",
+      "url": "https://dsport.bg/malaizia-pregovora-za-postoanno-zavrastane-vav-formula-1~241408.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/tians.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298518379.og.jpg"
     },
     {
-      "title": "Пловдивски съдии едвам отърваха боя в Смолян след дузпа за Несебър в 90-ата минута (ВИДЕО) 04 Окт | 19:37",
-      "url": "https://dsport.bg/plovdivski-sadii-edvam-otarvaha-boa-v-smolan-sled-duzpa-za-nesebar-v-90-ata-minuta-video~241391.html",
+      "title": "Манчини потвърди, че ще има промени и защити Монтела 04 Окт | 23:13",
+      "url": "https://dsport.bg/manchini-potvardi-che-ste-ima-promeni-i-zastiti-montela~241405.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/kupata125.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2297600895.og.jpg"
     },
     {
-      "title": "Везенков и Милър-Макинтайър поведоха Олимпиакос срещу Ираклис 04 Окт | 19:34",
-      "url": "https://dsport.bg/vezenkov-i-milar-makintaiar-povedoha-olimpiakos-srestu-iraklis~241388.html",
+      "title": "Григор до Винъс Уилямс и Ума Търман на ревю на Lacoste 04 Окт | 22:58",
+      "url": "https://dsport.bg/grigor-do-vinas-uilams-i-uma-tarman-na-revu-na-lacoste~241404.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2260807843-1.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298503597.og.jpg"
     },
     {
-      "title": "Ново напрежение около Неймар 04 Окт | 19:31",
-      "url": "https://dsport.bg/novo-naprezenie-okolo-neimar~241389.html",
+      "title": "Почина емблематична фигура в българската лека атлетика 04 Окт | 22:39",
+      "url": "https://dsport.bg/pochina-emblematichna-figura-v-balgarskata-leka-atletika~241403.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2287004042~1.og.jpg"
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-04-223255.og.png"
     },
     {
-      "title": "Всички двойки в 1/16-финалите на Купата 04 Окт | 19:11",
-      "url": "https://dsport.bg/vsichki-dvoiki-v-1-16-finalite-na-kupata~241386.html",
+      "title": "Зидан сравни Франция с Реал Мадрид 04 Окт | 22:25",
+      "url": "https://dsport.bg/zidan-sravni-francia-s-real-madrid~241402.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/1035403.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2297740597.og.jpg"
     },
     {
-      "title": "Лудогорец разби Черно море в контрола 04 Окт | 19:03",
-      "url": "https://dsport.bg/ludogorec-razbi-cherno-more-v-kontrola~241387.html",
+      "title": "7:0! Барселона унижи Реал Мадрид за пореден път в Ел Класико 04 Окт | 22:03",
+      "url": "https://dsport.bg/7-0-barselona-unizi-real-madrid-za-poreden-pat-v-el-klasiko~241401.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/ludogorets_moreto.og.jpg"
+      "image": "https://dsport.bg/media/384/gettyimages-2298557192.og.jpg"
     }
   ]
 }
