@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-05T04:49:36.983673+00:00",
+  "updated": "2026-10-05T05:16:08.546662+00:00",
   "articles": [
+    {
+      "title": "Авария остави голяма част от Добрич без вода",
+      "url": "https://dariknews.bg/regioni/dobrich/avariia-ostavi-goliama-chast-ot-dobrich-bez-voda-2468159",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51170/51170062/991-ratio-voda-cheshma.jpg"
+    },
+    {
+      "title": "Започват имунизациите срещу грип при деца с назална ваксина",
+      "url": "https://dariknews.bg/novini/bylgariia/zapochvat-imunizaciite-sreshtu-grip-pri-deca-s-nazalna-vaksina-2468157",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "ФБР арестува калифорнийка за шпионаж в полза на Китай",
+      "url": "https://dariknews.bg/novini/sviat/fbr-arestuva-kalifornijka-za-shpionazh-v-polza-na-kitaj-2468158",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
+    },
+    {
+      "title": "Пожарът в Източните Родопи продължава да се разраства, стигна до Гърция",
+      "url": "https://dariknews.bg/regioni/haskovo/pozharyt-v-iztochnite-rodopi-prodylzhava-da-se-razrastva-stigna-do-gyrciia-2468156",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Ето кой светец честваме днес",
       "url": "https://dariknews.bg/novini/obshtestvo/eto-koj-svetec-chestvame-dnes-2468155",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50797/50797526/991-ratio-rozova-luna.jpg"
     },
     {
-      "title": "Приключи гласуването в мнозинството от секциите на общите избори в Босна и Херцеговина",
-      "url": "https://dariknews.bg/novini/sviat/prikliuchi-glasuvaneto-v-mnozinstvoto-ot-sekciite-na-obshtite-izbori-v-bosna-i-hercegovina-2468148",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
-    },
-    {
-      "title": "Мерц обяви нов помощен пакет за Украйна на стойност над 1,3 милиарда евро",
-      "url": "https://dariknews.bg/novini/sviat/merc-obiavi-nov-pomoshten-paket-za-ukrajna-na-stojnost-nad-13-miliarda-evro-2468147",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391523/991-ratio-germanskiiat-kancler-fridrih-merc-i-ukrainskiiat-prezident-volodimir-zelenski-v.jpg"
-    },
-    {
-      "title": "Поклонението пред Илиян Филипов ще бъде на 7 октомври",
-      "url": "https://dariknews.bg/novini/bylgariia/poklonenieto-pred-iliian-filipov-shte-byde-na-7-oktomvri-2468144",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390495/991-ratio-iliian-filipov.jpg"
-    },
-    {
-      "title": "Близките на жена в мозъчна смърт дадоха шанс за живот на трима души от Румъния",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/blizkite-na-zhena-v-mozychna-smyrt-dadoha-shans-za-zhivot-na-trima-dushi-ot-rumyniia-2468142",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50717/50717238/991-ratio-donor-donorska-situaciia.jpg"
+      "title": "Жорже Жезус с протегната ръка към Кристиано Роналдо 05 Окт | 08:03",
+      "url": "https://dsport.bg/zorze-zezus-s-protegnata-raka-kam-kristiano-ronaldo~241411.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296969773.og.jpg"
     },
     {
       "title": "Израел спъна Ирландия в Сърбия 05 Окт | 00:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297740597.og.jpg"
-    },
-    {
-      "title": "7:0! Барселона унижи Реал Мадрид за пореден път в Ел Класико 04 Окт | 22:03",
-      "url": "https://dsport.bg/7-0-barselona-unizi-real-madrid-za-poreden-pat-v-el-klasiko~241401.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298557192.og.jpg"
     }
   ]
 }
