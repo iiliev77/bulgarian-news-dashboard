@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-05T13:29:41.675211+00:00",
+  "updated": "2026-10-05T13:49:32.323316+00:00",
   "articles": [
+    {
+      "title": "F-16 и Су-25 със зрелищно шоу над „Безмер“: Авиобазата празнува 75 г. история (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/yambol/f-16-i-su-25-sys-zrelishtno-shou-nad-bezmer-aviobazata-praznuva-75-g.-istoriia-snimki-2468245",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391914/991-ratio-bezmer-praznik-samoleti.jpg"
+    },
+    {
+      "title": "„Избори 360°“: ЦИК създаде мобилно приложение за по-лесно гласуване",
+      "url": "https://dariknews.bg/novini/bylgariia/izbori-360-cik-syzdade-mobilno-prilozhenie-za-po-lesno-glasuvane-2468242",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391906/991-ratio-izbori-za-prezident.jpg"
+    },
+    {
+      "title": "Модернизират пристанища във Варна и Бургас и жп връзка за милиарди от Европа",
+      "url": "https://dariknews.bg/novini/bylgariia/modernizirat-pristanishta-vyv-varna-i-burgas-i-zhp-vryzka-za-miliardi-ot-evropa-2468244",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51339/51339114/991-ratio-georgi-peev.jpg"
+    },
     {
       "title": "Откриха пропофол при Мазонакис – анестетикът, свързан със смъртта на Майкъл Джексън",
       "url": "https://dariknews.bg/novini/sviat/otkriha-propofol-pri-mazonakis-anestetikyt-svyrzan-sys-smyrtta-na-majkyl-dzheksyn-2468241",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51218/51218952/991-ratio-dmitrij-peskov.jpg"
     },
     {
-      "title": "МВР: Сигналите за бомби са изпратени от чужбина",
-      "url": "https://dariknews.bg/novini/bylgariia/mvr-signalite-za-bombi-sa-izprateni-ot-chuzhbina-2468222",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51239/51239925/991-ratio-myzh-sianka-kompiutyr.jpg"
-    },
-    {
-      "title": "500 евро глоба и без книжка: Заснеха шофьор да кара в насрещното на АМ „Европа“ (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/sofiia/500-evro-globa-i-bez-knizhka-zasneha-shofior-da-kara-v-nasreshtnoto-na-am-evropa-video-2468224",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "На протест: Служители на ИАРА в Бургас се обявиха срещу предвижданото обединяване с Агенцията по горите (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/na-protest-sluzhiteli-na-iara-v-burgas-se-obiaviha-sreshtu-predvizhdanoto-obediniavane-s-agenciiata-po-gorite-snimki-2468223",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391777/991-ratio-protest-burgas-iara.jpg"
+      "title": "Какво ще прави Христо Янев в ЦСКА? 05 Окт | 16:38",
+      "url": "https://dsport.bg/kakvo-ste-pravi-hristo-anev-v-cska~241453.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1025017.og.jpg"
     },
     {
       "title": "Валентин Илиев разкри как ЦСКА избра Гиздол: Не можем да вземем който и да е треньор (ВИДЕО) 05 Окт | 16:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/htzfxhzwmaa-owh.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив разпродаде „Колежа“ в чест на Илиян Филипов 05 Окт | 14:28",
-      "url": "https://dsport.bg/botev-plovdiv-razprodade-koleza-v-chest-na-ilian-filipov~241444.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute.og.png"
     }
   ]
 }
