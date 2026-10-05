@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T11:53:03.746294+00:00",
+  "updated": "2026-10-05T12:03:00.399570+00:00",
   "articles": [
+    {
+      "title": "Приказната красота на Родопите: Две нови защитени територии може да бъдат обявени в Смолянско",
+      "url": "https://dariknews.bg/regioni/Smolyan/prikaznata-krasota-na-rodopite-dve-novi-zashtiteni-teritorii-mozhe-da-bydat-obiaveni-v-smoliansko-2468230",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51360/51360730/991-ratio-kanionyt-na-vodopadite.jpg"
+    },
     {
       "title": "„Златен“ елек: Митничари откриха близо килограм накити на Капитан Андреево",
       "url": "https://dariknews.bg/novini/zlaten-elek-mitnichari-otkriha-blizo-kilogram-nakiti-na-kapitan-andreevo-2468227",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391714/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Атракция в Перник: Гигантски „ловци на духове“ се появиха в центъра на града (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/pernik/atrakciia-v-pernik-gigantski-lovci-na-duhove-se-poiaviha-v-centyra-na-grada-snimki-2468210",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391715/991-ratio-pernik-grafit-surva-kukeri.jpg"
+      "title": "На живо: ЦСКА представя Маркус Гиздол 05 Окт | 15:00",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-cska-predstava-markus-gizdol~241443.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/cska-gisdol-announcement-in-the-mist.og.png"
+    },
+    {
+      "title": "Левски и ЦСКА играят в един ден за Sesame Купа на България 05 Окт | 14:55",
+      "url": "https://dsport.bg/levski-i-cska-igraat-v-edin-den-za-sesame-kupa-na-balgaria~241446.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/jz02ugqbbb4sh4zciebaxiakfywief-metamtawmda1mzg2os5wbmc-.og.png"
     },
     {
       "title": "Нова полемика в Реал Мадрид: защитник заснет с телефон зад волана 05 Окт | 14:50",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute.og.png"
-    },
-    {
-      "title": "Очаквайте на живо: ЦСКА представя Маркус Гиздол 05 Окт | 14:20",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-cska-predstava-markus-gizdol~241443.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/cska-gisdol-announcement-in-the-mist.og.png"
     },
     {
       "title": "БФ Борба сезира прокуратурата за Весела Лечева и Белчо Горанов заради казуса с БОК 05 Окт | 14:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298569847.og.jpg"
-    },
-    {
-      "title": "Казусът „Свилар“: може да играе за Сърбия, но не иска; иска за Белгия, но не може 05 Окт | 12:38",
-      "url": "https://dsport.bg/kazusat-svilar-moze-da-igrae-za-sarbia-no-ne-iska-iska-za-belgia-no-ne-moze~241436.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2290632609.og.jpg"
     }
   ]
 }
