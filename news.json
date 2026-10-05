@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T18:11:42.891235+00:00",
+  "updated": "2026-10-05T18:33:59.720505+00:00",
   "articles": [
+    {
+      "title": "Бившата говорителка на Белия дом Карълайн Левит влиза в ефира на Fox News",
+      "url": "https://dariknews.bg/novini/sviat/bivshata-govoritelka-na-beliia-dom-karylajn-levit-vliza-v-efira-na-fox-news-2468261",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392144/991-ratio-karylajn-levit.jpg"
+    },
     {
       "title": "„Свежо сирене“ се оказа от обезмаслено мляко, БАБХ с предписания към производители (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/svezho-sirene-se-okaza-ot-obezmasleno-mliako-babh-s-predpisaniia-kym-proizvoditeli-video-2468260",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50628/50628885/991-ratio-mesten-vot.jpg"
     },
     {
-      "title": "Германия дава над 1,3 млрд. евро за украинската отбрана и енергетика",
-      "url": "https://dariknews.bg/novini/sviat/germaniia-dava-nad-13-mlrd.-evro-za-ukrainskata-otbrana-i-energetika-2468237",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47923/47923934/991-ratio-germaniia-flag.jpg"
+      "title": "Изненади в календарите на Формула 2 и 3 за 2027 г. 05 Окт | 21:30",
+      "url": "https://dsport.bg/iznenadi-v-kalendarite-na-formula-2-i-3-za-2027-g~241476.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297057842.og.jpg"
+    },
+    {
+      "title": "Питас и Кипър с нова победа в Лигата на нациите 05 Окт | 21:09",
+      "url": "https://dsport.bg/pitas-i-kipar-s-nova-pobeda-v-ligata-na-naciite~241475.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2240942101.og.jpg"
     },
     {
       "title": "Люксембург без звездата си срещу България 05 Окт | 20:55",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037080.og.jpg"
-    },
-    {
-      "title": "Емил Ценов: Ако вземем няколко мача с добра игра, ще излезем от дупката (ВИДЕО) 05 Окт | 19:05",
-      "url": "https://dsport.bg/emil-cenov-ako-vzemem-nakolko-macha-s-dobra-igra-ste-izlezem-ot-dupkata-video~241465.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037139.og.jpg"
-    },
-    {
-      "title": "Рибарски: Отборът губи облик заради текучеството, искам момчетата да са спокойни (ВИДЕО) 05 Окт | 18:49",
-      "url": "https://dsport.bg/ribarski-otborat-gubi-oblik-zaradi-tekuchestvoto-iskam-momchetata-da-sa-spokoini-video~241464.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037141.og.jpg"
     }
   ]
 }
