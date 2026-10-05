@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T15:39:31.990972+00:00",
+  "updated": "2026-10-05T15:55:09.559493+00:00",
   "articles": [
+    {
+      "title": "Почина музикантът Ицо Петрофф",
+      "url": "https://dariknews.bg/novini/bylgariia/pochina-muzikantyt-ico-petroff-2468255",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392093/991-ratio-ico-petroff.jpg"
+    },
     {
       "title": "Хеликоптер „Кугър“ се включи в гасенето на пожар в област Ямбол",
       "url": "https://dariknews.bg/regioni/yambol/helikopter-kugyr-se-vkliuchi-v-gaseneto-na-pozhar-v-oblast-iambol-2468254",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391810/991-ratio-nov-studentski-kampus.jpg"
     },
     {
-      "title": "Шофьор с 1,51 промила пъхна подкуп от 300 евро в бронежилетка на полицай край София",
-      "url": "https://dariknews.bg/regioni/sofiia/shofior-s-151-promila-pyhna-podkup-ot-300-evro-v-bronezhiletka-na-policaj-kraj-sofiia-2468233",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391806/991-ratio-podkup.jpg"
+      "title": "Рибарски: Отборът губи облик заради текучеството, искам момчетата да са спокойни (ВИДЕО) 05 Окт | 18:49",
+      "url": "https://dsport.bg/ribarski-otborat-gubi-oblik-zaradi-tekuchestvoto-iskam-momchetata-da-sa-spokoini-video~241464.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037141.og.jpg"
+    },
+    {
+      "title": "БОК отвърна на Станка Златева: Нов опит да бъде продължена срамната сага 05 Окт | 18:40",
+      "url": "https://dsport.bg/bok-otvarna-na-stanka-zlateva-nov-opit-da-bade-prodalzena-sramnata-saga~241463.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/viber_image_2026-10-05_18-36-45-111.og.jpg"
     },
     {
       "title": "Несебър след екшъна в Смолян: Това не е футбол! (ВИДЕО) 05 Окт | 18:25",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1036924.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 05.10.2026 г. 05 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-05-10-2026-g~241455.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-10-05-170112.og.png"
-    },
-    {
-      "title": "Какво ще прави Христо Янев в ЦСКА? 05 Окт | 16:38",
-      "url": "https://dsport.bg/kakvo-ste-pravi-hristo-anev-v-cska~241453.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1025017.og.jpg"
     }
   ]
 }
