@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T14:03:32.949977+00:00",
+  "updated": "2026-10-05T14:26:19.277203+00:00",
   "articles": [
+    {
+      "title": "Петима българи, пет медала: Забележителен успех на олимпиадата по астрономия във Виетнам",
+      "url": "https://dariknews.bg/novini/bylgariia/petima-bylgari-pet-medala-zabelezhitelen-uspeh-na-olimpiadata-po-astronomiia-vyv-vietnam-2468248",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391941/991-ratio-bylgarski-uchenici-specheliha-pet-medala-ot-mezhdunarodna-olimpiada-po-astronomiia.jpg"
+    },
+    {
+      "title": "България дари на Постоянния арбитражен съд в Хага дъбова катедра (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-dari-na-postoianniia-arbitrazhen-syd-v-haga-dybova-katedra-snimki-2468247",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391940/991-ratio-bylgariia-dari-na-postoianniia-arbitrazhen-syd-v-haga-dybova-katedra.jpg"
+    },
     {
       "title": "F-16 и Су-25 със зрелищно шоу над „Безмер“: Авиобазата празнува 75 г. история (СНИМКИ)",
       "url": "https://dariknews.bg/regioni/yambol/f-16-i-su-25-sys-zrelishtno-shou-nad-bezmer-aviobazata-praznuva-75-g.-istoriia-snimki-2468245",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51052/51052538/991-ratio-voda-kuche-vana.jpg"
     },
     {
-      "title": "Разходите за собствено жилище в България са нараснали с 11,7% за година",
-      "url": "https://dariknews.bg/novini/bylgariia/razhodite-za-sobstveno-zhilishte-v-bylgariia-sa-narasnali-s-117-za-godina-2468226",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50780/50780548/991-ratio-imot-kyshta-zhilishte.jpg"
-    },
-    {
-      "title": "Кремъл мълчи за възможно петролно споразумение САЩ-Русия",
-      "url": "https://dariknews.bg/novini/sviat/kremyl-mylchi-za-vyzmozhno-petrolno-sporazumenie-sasht-rusiia-2468225",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51218/51218952/991-ratio-dmitrij-peskov.jpg"
+      "title": "Медведев удари фен в главата и Джокович е на финал (ВИДЕО) 05 Окт | 17:13",
+      "url": "https://dsport.bg/medvedev-udari-fen-v-glavata-i-dzokovich-e-na-final~241456.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298693102.og.jpg"
     },
     {
       "title": "Тити Папазов оглави българския баскетбол 05 Окт | 17:00",
@@ -147,6 +154,13 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1036924.og.jpg"
+    },
+    {
+      "title": "Спортното шоу на Дарик радио - 05.10.2026 г. 05 Окт | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-05-10-2026-g~241455.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-05-170112.og.png"
     },
     {
       "title": "Какво ще прави Христо Янев в ЦСКА? 05 Окт | 16:38",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037070.og.jpg"
-    },
-    {
-      "title": "ЦСКА ще посрещне Монако на стадион „Васил Левски“ 05 Окт | 15:06",
-      "url": "https://dsport.bg/cska-ste-posrestne-monako-na-stadion-vasil-levski~241447.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/18.05-1-1-1.og.jpg"
-    },
-    {
-      "title": "Левски и ЦСКА играят в един ден за Sesame Купа на България 05 Окт | 14:55",
-      "url": "https://dsport.bg/levski-i-cska-igraat-v-edin-den-za-sesame-kupa-na-balgaria~241446.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/jz02ugqbbb4sh4zciebaxiakfywief-metamtawmda1mzg2os5wbmc-.og.png"
     }
   ]
 }
