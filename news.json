@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T15:00:31.108591+00:00",
+  "updated": "2026-10-05T15:19:51.460496+00:00",
   "articles": [
+    {
+      "title": "Хеликоптер „Кугър“ се включи в гасенето на пожар в област Ямбол",
+      "url": "https://dariknews.bg/regioni/yambol/helikopter-kugyr-se-vkliuchi-v-gaseneto-na-pozhar-v-oblast-iambol-2468254",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32817/32817601/991-ratio-helikopter-kugyr.jpg"
+    },
     {
       "title": "Футболист почина по време на мач в Чипровци",
       "url": "https://dariknews.bg/regioni/montana/futbolist-pochina-po-vreme-na-mach-v-chiprovci-2468252",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391806/991-ratio-podkup.jpg"
     },
     {
-      "title": "Трагичен инцидент: 15-годишен ученик загуби ръката си при протестите във Франция",
-      "url": "https://dariknews.bg/novini/sviat/tragichen-incident-15-godishen-uchenik-zagubi-rykata-si-pri-protestite-vyv-franciia-2468232",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+      "title": "Европа зове Локо Пловдив! Сребърните медалисти на Локомотив излизат срещу 12-кратен шампион в исторически мач. 05 Окт | 18:14",
+      "url": "https://dsport.bg/evropa-zove-loko-plovdiv-srebarnite-medalisti-na-lokomotiv-izlizat-srestu-12-kraten-shampion-v-istoricheski-mach~241460.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/832898643_1627909758968701_3745472592721545481_n.og.jfif"
+    },
+    {
+      "title": "БФС отдалечи двата мача на ЦСКА в Несебър 05 Окт | 18:10",
+      "url": "https://dsport.bg/bfs-otdalechi-dvata-macha-na-cska-v-nesebar~241459.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/empty-stadium-at-sunset.og.png"
     },
     {
       "title": "Трагедия на футболен мач у нас: 44-годишен играч почина на терена 05 Окт | 17:53",
@@ -153,7 +167,7 @@
       "url": "https://dsport.bg/titi-papazov-ne-moga-da-upravlavam-sam-i-nama-da-upravlavam-sam~241457.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/05.10-1~1.og.jpg"
+      "image": "https://dsport.bg/media/384/1037136.og.jpg"
     },
     {
       "title": "Медведев удари фен в главата и Джокович е на финал (ВИДЕО) 05 Окт | 17:13",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037104.og.jpg"
-    },
-    {
-      "title": "Гиздол: При първите контакти с ЦСКА усетих нещо специално, помня емблематичните вечери в Европа (ВИДЕО) 05 Окт | 16:07",
-      "url": "https://dsport.bg/gizdol-pri-parvite-kontakti-s-cska-usetih-nesto-specialno-pomna-emblematichnite-vecheri-v-evropa-video~241450.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037088.og.jpg"
-    },
-    {
-      "title": "Защо ЦСКА подписа с Гиздол само до края на сезона? 05 Окт | 16:00",
-      "url": "https://dsport.bg/zasto-cska-podpisa-s-gizdol-samo-do-kraa-na-sezona~241449.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037121.og.jpg"
     }
   ]
 }
