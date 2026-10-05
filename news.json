@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:57:56.464215+00:00",
+  "updated": "2026-10-05T17:10:43.329079+00:00",
   "articles": [
     {
       "title": "МВнР: Българските студенти в чужбина ще могат да стажуват в посолства",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51024/51024221/991-ratio-fentanil.jpg"
     },
     {
+      "title": "Блага вест в националния отбор 05 Окт | 20:00",
+      "url": "https://dsport.bg/blaga-vest-v-nacionalnia-otbor~241469.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/05.10-3~1.og.jpg"
+    },
+    {
       "title": "Ботев Пловдив с екип в памет на Илиян Филипов 05 Окт | 19:48",
       "url": "https://dsport.bg/botev-plovdiv-s-ekip-v-pamet-na-ilian-filipov~241468.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/832898643_1627909758968701_3745472592721545481_n.og.jfif"
-    },
-    {
-      "title": "БФС отдалечи двата мача на ЦСКА в Несебър 05 Окт | 18:10",
-      "url": "https://dsport.bg/bfs-otdalechi-dvata-macha-na-cska-v-nesebar~241459.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/empty-stadium-at-sunset.og.png"
     }
   ]
 }
