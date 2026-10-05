@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-05T10:11:21.673628+00:00",
+  "updated": "2026-10-05T10:30:42.498605+00:00",
   "articles": [
+    {
+      "title": "България задържа талантите си: 15 млади умове избраха да учат и развиват у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-zadyrzha-talantite-si-15-mladi-umove-izbraha-da-uchat-i-razvivat-u-nas-2468215",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391746/991-ratio-insait.jpg"
+    },
+    {
+      "title": "Здравният министър обясни защо се бавят грипните ваксини и кога ще бъдат доставени",
+      "url": "https://dariknews.bg/novini/bylgariia/zdravniiat-ministyr-obiasni-zashto-se-baviat-gripnite-vaksini-i-koga-shte-bydat-dostaveni-2468214",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51374/51374133/991-ratio-katia-ivkova.jpg"
+    },
+    {
+      "title": "Обвиниха мъж за държане на фалшиви евробанкноти за над 25 000 евро",
+      "url": "https://dariknews.bg/novini/bylgariia/obviniha-myzh-za-dyrzhane-na-falshivi-evrobanknoti-za-nad-25-000-evro-2468213",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51299/51299979/991-ratio-evro.jpg"
+    },
     {
       "title": "На прицел: Мъж стреля с пушка по група младежи, вдигали шум пред блок",
       "url": "https://dariknews.bg/regioni/razgrad/na-pricel-myzh-strelia-s-pushka-po-grupa-mladezhi-vdigali-shum-pred-blok-2468212",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50249/50249793/991-ratio-zaporozhkata-aec.jpg"
     },
     {
-      "title": "МВнР предлага увеличение с 20% на таксата за виза за дългосрочно пребиваване в страната",
-      "url": "https://dariknews.bg/novini/bylgariia/mvnr-predlaga-uvelichenie-s-20-na-taksata-za-viza-za-dylgosrochno-prebivavane-v-stranata-2468191",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51300/51300058/991-ratio-evro-evro-pari.jpg"
-    },
-    {
-      "title": "Пилотът терорист планирал атаката преди да започне работа във Flydubai",
-      "url": "https://dariknews.bg/novini/sviat/pilotyt-terorist-planiral-atakata-predi-da-zapochne-rabota-vyv-flydubai-2468192",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389407/991-ratio-samolet.jpg"
-    },
-    {
-      "title": "Спряха 23 кучета на „Калотина“: Били без чипове и здравни сертификати",
-      "url": "https://dariknews.bg/novini/bylgariia/spriaha-23-kucheta-na-kalotina-bili-bez-chipove-i-zdravni-sertifikati-2468193",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51092/51092378/991-ratio-kucheta.jpg"
+      "title": "Левски информира феновете си как може да посетят гостуването на НЕК 05 Окт | 13:14",
+      "url": "https://dsport.bg/levski-informira-fenovete-si-kak-moze-da-posetat-gostuvaneto-na-nek~241439.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/837143127_1553260160158772_2561579339703104331_n.og.jpg"
     },
     {
       "title": "Челси е фаворит за подписа на английски национал 05 Окт | 13:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2265456863~1.og.jpg"
-    },
-    {
-      "title": "Пълният триумф на Деко: как новите попълнения преобразиха Барселона? 05 Окт | 11:35",
-      "url": "https://dsport.bg/palniat-triumf-na-deko-kak-novite-popalnenia-preobraziha-barselona~241429.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2295946448.og.jpg"
     }
   ]
 }
