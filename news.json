@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-05T12:27:34.028665+00:00",
+  "updated": "2026-10-05T12:50:29.476518+00:00",
   "articles": [
+    {
+      "title": "Германия дава над 1,3 млрд. евро за украинската отбрана и енергетика",
+      "url": "https://dariknews.bg/novini/sviat/germaniia-dava-nad-13-mlrd.-evro-za-ukrainskata-otbrana-i-energetika-2468237",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47923/47923934/991-ratio-germaniia-flag.jpg"
+    },
+    {
+      "title": "Жълт код за ниски минимални температури и слана в почти цялата страна във вторник",
+      "url": "https://dariknews.bg/novini/bylgariia/zhylt-kod-za-niski-minimalni-temperaturi-i-slana-v-pochti-cialata-strana-vyv-vtornik-2468235",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "114 години от Освобождението на Горна Джумая: Честит празник, Благоевград (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/114-godini-ot-osvobozhdenieto-na-gorna-dzhumaia-chestit-praznik-blagoevgrad-snimki-2468236",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391834/991-ratio-blagoevgrad-chestvaniia-osvobozhdenie-gorna-dzhumaia.jpg"
+    },
     {
       "title": "Откриха нов студентски кампус към общежитията на два университета в „Студентски град“ (СНИМКИ)",
       "url": "https://dariknews.bg/regioni/sofiia/otkriha-nov-studentski-kampus-kym-obshtezhitiiata-na-dva-universiteta-v-studentski-grad-snimki-2468234",
@@ -121,29 +142,8 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
     },
     {
-      "title": "България задържа талантите си: 15 млади умове избраха да учат и развиват у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-zadyrzha-talantite-si-15-mladi-umove-izbraha-da-uchat-i-razvivat-u-nas-2468215",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391746/991-ratio-insait.jpg"
-    },
-    {
-      "title": "Мотоциклетист без книжка и с над 3 промила алкохол се заби в стълб",
-      "url": "https://dariknews.bg/regioni/sofiia/motocikletist-bez-knizhka-i-s-nad-3-promila-alkohol-se-zabi-v-stylb-2468216",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51164/51164744/991-ratio-motor.jpg"
-    },
-    {
-      "title": "Здравният министър обясни защо се бавят грипните ваксини и кога ще бъдат доставени",
-      "url": "https://dariknews.bg/novini/bylgariia/zdravniiat-ministyr-obiasni-zashto-se-baviat-gripnite-vaksini-i-koga-shte-bydat-dostaveni-2468214",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391749/991-ratio-katia-ivkova.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА представя Маркус Гиздол 05 Окт | 15:20",
-      "url": "https://dsport.bg/ochakvaite-na-zivo-cska-predstava-markus-gizdol~241443.html",
+      "title": "Гиздол: Не мога да променя всичко за ден или седмица 05 Окт | 15:45",
+      "url": "https://dsport.bg/gizdol-ne-moga-da-promena-vsichko-za-den-ili-sedmica~241443.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037070.og.jpg"
