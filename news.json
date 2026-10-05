@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:42:47.221669+00:00",
+  "updated": "2026-10-05T17:56:35.069551+00:00",
   "articles": [
     {
       "title": "МВнР: Българските студенти в чужбина ще могат да стажуват в посолства",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51024/51024221/991-ratio-fentanil.jpg"
     },
     {
+      "title": "„Армията“ отвори врати – ЦСКА представи Гиздол в своя дом (ВИДЕО) 05 Окт | 20:42",
+      "url": "https://dsport.bg/armiata-otvori-vrati-cska-predstavi-gizdol-v-svoa-dom-video~241472.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/komentarno-alpha-8-.og.jpg"
+    },
+    {
       "title": "Куп контузени в Локо Пловдив преди железничарското дерби 05 Окт | 20:18",
       "url": "https://dsport.bg/kup-kontuzeni-v-loko-plovdiv-predi-zeleznicharskoto-derbi~241471.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-10-05_18-36-45-111.og.jpg"
-    },
-    {
-      "title": "Несебър след екшъна в Смолян: Това не е футбол! (ВИДЕО) 05 Окт | 18:25",
-      "url": "https://dsport.bg/nesebar-sled-ekshana-v-smolan-tova-ne-e-futbol-video~241462.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/yellow-and-green-clash-near-goal.og.png"
     }
   ]
 }
