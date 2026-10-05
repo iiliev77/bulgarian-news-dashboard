@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T09:56:46.669457+00:00",
+  "updated": "2026-10-05T10:11:21.673628+00:00",
   "articles": [
+    {
+      "title": "На прицел: Мъж стреля с пушка по група младежи, вдигали шум пред блок",
+      "url": "https://dariknews.bg/regioni/razgrad/na-pricel-myzh-strelia-s-pushka-po-grupa-mladezhi-vdigali-shum-pred-blok-2468212",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51371/51371134/991-ratio-myzh-pushka.jpg"
+    },
+    {
+      "title": "Земетресение разтърси Румъния",
+      "url": "https://dariknews.bg/novini/bylgariia/zemetresenie-raztyrsi-rumyniia-2468211",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51095/51095888/991-ratio-zemetresenie.jpg"
+    },
     {
       "title": "Нова епична битка за територия очаква племената в “Игри на волята” тази вечер",
       "url": "https://dariknews.bg/novini/liubopitno/nova-epichna-bitka-za-teritoriia-ochakva-plemenata-v-igri-na-voliata-tazi-vecher-2468209",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51092/51092378/991-ratio-kucheta.jpg"
     },
     {
-      "title": "На тези, които ни учат да вярваме в себе си: Честит Международен ден на учителя",
-      "url": "https://dariknews.bg/novini/bylgariia/na-tezi-koito-ni-uchat-da-viarvame-v-sebe-si-chestit-mezhdunaroden-den-na-uchitelia-2468190",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391641/991-ratio-uchitel-uchilishte-deca.jpg"
-    },
-    {
-      "title": "Девет пъти повече оръжия на границата: Митниците задържаха и тонове наркотици",
-      "url": "https://dariknews.bg/novini/bylgariia/devet-pyti-poveche-oryzhiia-na-granicata-mitnicite-zadyrzhaha-i-tonove-narkotici-2468189",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391637/991-ratio-agenciia-mitnici.jpg"
+      "title": "Челси е фаворит за подписа на английски национал 05 Окт | 13:04",
+      "url": "https://dsport.bg/chelsi-e-favorit-za-podpisa-na-angliiski-nacional~241438.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298649754.og.jpg"
     },
     {
       "title": "Юрген Клоп под обстрел 05 Окт | 12:53",
@@ -149,7 +156,7 @@
       "image": "https://dsport.bg/media/384/gettyimages-2298569847.og.jpg"
     },
     {
-      "title": "Казусът „Свилар“: mоже да играе за Сърбия, но не иска; иска за Белгия, но не може 05 Окт | 12:38",
+      "title": "Казусът „Свилар“: може да играе за Сърбия, но не иска; иска за Белгия, но не може 05 Окт | 12:38",
       "url": "https://dsport.bg/kazusat-svilar-moze-da-igrae-za-sarbia-no-ne-iska-iska-za-belgia-no-ne-moze~241436.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2295946448.og.jpg"
-    },
-    {
-      "title": "Президентът на Португалската футболна федерация отвори широко вратата за завръщане на Кристиано Роналдо 05 Окт | 11:22",
-      "url": "https://dsport.bg/prezidentat-na-portugalskata-futbolna-federacia-otvori-shiroko-vratata-za-zavrastane-na-kristiano-ronaldo~241428.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297061965~1.og.jpg"
     }
   ]
 }
