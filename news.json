@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T14:44:39.589692+00:00",
+  "updated": "2026-10-05T15:00:31.108591+00:00",
   "articles": [
+    {
+      "title": "Футболист почина по време на мач в Чипровци",
+      "url": "https://dariknews.bg/regioni/montana/futbolist-pochina-po-vreme-na-mach-v-chiprovci-2468252",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45868/45868222/991-ratio-futbol-nachalen-udar-topka.jpg"
+    },
+    {
+      "title": "България и още 16 страни от ЕС настояват да се запази финансирането за кохезия и земеделие",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-oshte-16-strani-ot-es-nastoiavat-da-se-zapazi-finansiraneto-za-koheziia-i-zemedelie-2468251",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51193/51193880/991-ratio-es-zemedelie.jpg"
+    },
     {
       "title": "Кораб потъна след пожар в Черно море: Двама загинаха, 11 оцеляха",
       "url": "https://dariknews.bg/novini/sviat/korab-potyna-sled-pozhar-v-cherno-more-dvama-zaginaha-11-oceliaha-2468250",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
     },
     {
-      "title": "Отиде си Злати Иванов - един от най-добрите треньори в историята на българската атлетика",
-      "url": "https://dariknews.bg/novini/bylgariia/otide-si-zlati-ivanov-edin-ot-naj-dobrite-treniori-v-istoriiata-na-bylgarskata-atletika-2468231",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000742/991-ratio-svesht.jpg"
+      "title": "Трагедия на футболен мач у нас: 44-годишен играч почина на терена 05 Окт | 17:53",
+      "url": "https://dsport.bg/tragedia-na-futbolen-mach-u-nas-44-godishen-igrach-pochina-na-terena~241458.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/football-crest-and-emergency-pitch-scene.og.png"
     },
     {
-      "title": "Приказната красота на Родопите: Две нови защитени територии може да бъдат обявени в Смолянско",
-      "url": "https://dariknews.bg/regioni/Smolyan/prikaznata-krasota-na-rodopite-dve-novi-zashtiteni-teritorii-mozhe-da-bydat-obiaveni-v-smoliansko-2468230",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51360/51360730/991-ratio-kanionyt-na-vodopadite.jpg"
+      "title": "Тити Папазов: Не мога да управлявам сам и няма да управлявам сам 05 Окт | 17:43",
+      "url": "https://dsport.bg/titi-papazov-ne-moga-da-upravlavam-sam-i-nama-da-upravlavam-sam~241457.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/05.10-1~1.og.jpg"
     },
     {
       "title": "Медведев удари фен в главата и Джокович е на финал (ВИДЕО) 05 Окт | 17:13",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037121.og.jpg"
-    },
-    {
-      "title": "Вальо Илиев: Какво значение има откъде гледам мачовете? (ВИДЕО) 05 Окт | 15:51",
-      "url": "https://dsport.bg/valo-iliev-kakvo-znachenie-ima-otkade-gledam-machovete-video~241448.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037108.og.jpg"
-    },
-    {
-      "title": "Гиздол: Не мога да променя всичко за ден или седмица (ВИДЕО) 05 Окт | 15:45",
-      "url": "https://dsport.bg/gizdol-ne-moga-da-promena-vsichko-za-den-ili-sedmica~241443.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037070.og.jpg"
     }
   ]
 }
