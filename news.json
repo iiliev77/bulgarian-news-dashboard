@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T11:37:04.170507+00:00",
+  "updated": "2026-10-05T11:53:03.746294+00:00",
   "articles": [
+    {
+      "title": "„Златен“ елек: Митничари откриха близо килограм накити на Капитан Андреево",
+      "url": "https://dariknews.bg/novini/zlaten-elek-mitnichari-otkriha-blizo-kilogram-nakiti-na-kapitan-andreevo-2468227",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391797/991-ratio-zlato-elek.jpg"
+    },
+    {
+      "title": "Къде няма да има вода в София",
+      "url": "https://dariknews.bg/regioni/sofiia/kyde-niama-da-ima-voda-v-sofiia-2468228",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51052/51052538/991-ratio-voda-kuche-vana.jpg"
+    },
     {
       "title": "Разходите за собствено жилище в България са нараснали с 11,7% за година",
       "url": "https://dariknews.bg/novini/bylgariia/razhodite-za-sobstveno-zhilishte-v-bylgariia-sa-narasnali-s-117-za-godina-2468226",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391715/991-ratio-pernik-grafit-surva-kukeri.jpg"
     },
     {
-      "title": "Данъкът, който раздели власт, БНБ и банки: Кой ще плати цената на „свръхпечалбите“",
-      "url": "https://dariknews.bg/novini/bylgariia/danykyt-kojto-razdeli-vlast-bnb-i-banki-koj-shte-plati-cenata-na-svryhpechalbite-2468207",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
-    },
-    {
-      "title": "Мартин Йегер: Има риск Германия да се окаже в насилствен конфликт с Русия",
-      "url": "https://dariknews.bg/novini/sviat/martin-jeger-ima-risk-germaniia-da-se-okazhe-v-nasilstven-konflikt-s-rusiia-2468205",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391704/991-ratio-martin-jeger.jpg"
+      "title": "Нова полемика в Реал Мадрид: защитник заснет с телефон зад волана 05 Окт | 14:50",
+      "url": "https://dsport.bg/nova-polemika-v-real-madrid-zastitnik-zasnet-s-telefon-zad-volana~241445.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/htzfxhzwmaa-owh.og.jpg"
     },
     {
       "title": "Ботев Пловдив разпродаде „Колежа“ в чест на Илиян Филипов 05 Окт | 14:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2290632609.og.jpg"
-    },
-    {
-      "title": "Ига Швьонтек постигна обрат, за да се класира за четвъртия кръг в Пекин 05 Окт | 12:27",
-      "url": "https://dsport.bg/iga-shvontek-postigna-obrat-za-da-se-klasira-za-chetvartia-krag-v-pekin~241435.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298641215.og.jpg"
     }
   ]
 }
