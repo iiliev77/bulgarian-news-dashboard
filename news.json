@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-05T07:19:52.727897+00:00",
+  "updated": "2026-10-05T07:39:42.894238+00:00",
   "articles": [
+    {
+      "title": "Испанският премиер Санчес свика предсрочни парламентарни избори",
+      "url": "https://dariknews.bg/novini/sviat/ispanskiiat-premier-sanches-svika-predsrochni-parlamentarni-izbori-2468179",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51252/51252990/991-ratio-pedro-sanches.jpg"
+    },
+    {
+      "title": "Откриха стотици кашони с лекарства с изтекъл срок при акция в Костинброд",
+      "url": "https://dariknews.bg/regioni/sofiia/otkriha-stotici-kashoni-s-lekarstva-s-iztekyl-srok-pri-akciia-v-kostinbrod-2468180",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391617/991-ratio-lekarstva-kashoni.jpg"
+    },
+    {
+      "title": "Кметът Терзиев: 200 междублокови пространства с нов облик в София (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/kmetyt-terziev-200-mezhdublokovi-prostranstva-s-nov-oblik-v-sofiia-snimki-2468177",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391610/991-ratio-parking.jpg"
+    },
+    {
+      "title": "Нов бутон улеснява връщането на онлайн покупки до 14 дни",
+      "url": "https://dariknews.bg/novini/bylgariia/nov-buton-ulesniava-vryshtaneto-na-onlajn-pokupki-do-14-dni-2468176",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Рим затяга контрола върху голф количките: Десетки глоби и отнети шофьорски книжки",
+      "url": "https://dariknews.bg/novini/sviat/rim-zatiaga-kontrola-vyrhu-golf-kolichkite-desetki-globi-i-otneti-shofiorski-knizhki-2468178",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391613/991-ratio-golf-kolichki.jpg"
+    },
     {
       "title": "Институтът за пътна безопасност: Шефът на „Автомагистрали“ подаде оставка",
       "url": "https://dariknews.bg/novini/bylgariia/institutyt-za-pytna-bezopasnost-shefyt-na-avtomagistrali-podade-ostavka-2468175",
@@ -107,39 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50117/50117086/991-ratio-pamporovo.jpg"
     },
     {
-      "title": "Авария остави голяма част от Добрич без вода",
-      "url": "https://dariknews.bg/regioni/dobrich/avariia-ostavi-goliama-chast-ot-dobrich-bez-voda-2468159",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51170/51170062/991-ratio-voda-cheshma.jpg"
-    },
-    {
-      "title": "Бразилия отива на балотаж: Лула срещу Болсонаро в битка за бъдещето на страната",
-      "url": "https://dariknews.bg/novini/sviat/braziliia-otiva-na-balotazh-lula-sreshtu-bolsonaro-v-bitka-za-bydeshteto-na-stranata-2468160",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
-    },
-    {
-      "title": "Започват имунизациите срещу грип при деца с назална ваксина",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochvat-imunizaciite-sreshtu-grip-pri-deca-s-nazalna-vaksina-2468157",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "ФБР арестува калифорнийка за шпионаж в полза на Китай",
-      "url": "https://dariknews.bg/novini/sviat/fbr-arestuva-kalifornijka-za-shpionazh-v-polza-na-kitaj-2468158",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
-    },
-    {
-      "title": "Пожарът край Горно Луково засегна около 3000 декара, частичното бедствено положение остава",
-      "url": "https://dariknews.bg/regioni/haskovo/pozharyt-kraj-gorno-lukovo-zasegna-okolo-3000-dekara-chastichnoto-bedstveno-polozhenie-ostava-2468156",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Надпреварата за таланти: как 15-годишни деца се превърнаха в стока за милиони на футболния пазар? 05 Окт | 10:24",
+      "url": "https://dsport.bg/nadprevarata-za-talanti-kak-15-godishni-deca-se-prevarnaha-v-stoka-za-milioni-na-futbolnia-pazar~241423.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2272526328.og.jpg"
     },
     {
       "title": "Кристиан Макун се завръща предсрочно в Левски от лагера на Венецуела 05 Окт | 10:06",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2267253021.og.jpg"
-    },
-    {
-      "title": "Пеп Гуардиола изненада всички - появи се на модно ревю в Париж 05 Окт | 08:13",
-      "url": "https://dsport.bg/pep-guardiola-iznenada-vsichki-poavi-se-na-modno-revu-v-pariz~241412.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2267868564.og.jpg"
     }
   ]
 }
