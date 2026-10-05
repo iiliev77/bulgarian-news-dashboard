@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-05T09:41:14.275899+00:00",
+  "updated": "2026-10-05T09:56:46.669457+00:00",
   "articles": [
+    {
+      "title": "Нова епична битка за територия очаква племената в “Игри на волята” тази вечер",
+      "url": "https://dariknews.bg/novini/liubopitno/nova-epichna-bitka-za-teritoriia-ochakva-plemenata-v-igri-na-voliata-tazi-vecher-2468209",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391714/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Атракция в Перник: Гигантски „ловци на духове“ се появиха в центъра на града (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/pernik/atrakciia-v-pernik-gigantski-lovci-na-duhove-se-poiaviha-v-centyra-na-grada-snimki-2468210",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391715/991-ratio-pernik-grafit-surva-kukeri.jpg"
+    },
+    {
+      "title": "Данъкът, който раздели власт, БНБ и банки: Кой ще плати цената на „свръхпечалбите“",
+      "url": "https://dariknews.bg/novini/bylgariia/danykyt-kojto-razdeli-vlast-bnb-i-banki-koj-shte-plati-cenata-na-svryhpechalbite-2468207",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
+    },
     {
       "title": "Мартин Йегер: Има риск Германия да се окаже в насилствен конфликт с Русия",
       "url": "https://dariknews.bg/novini/sviat/martin-jeger-ima-risk-germaniia-da-se-okazhe-v-nasilstven-konflikt-s-rusiia-2468205",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391637/991-ratio-agenciia-mitnici.jpg"
     },
     {
-      "title": "Как да предпазим децата от грип: Педиатър посочи най-важните мерки",
-      "url": "https://dariknews.bg/novini/bylgariia/kak-da-predpazim-decata-ot-grip-pediatyr-posochi-naj-vazhnite-merki-2468186",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51234/51234919/991-ratio-grip.jpg"
+      "title": "Юрген Клоп под обстрел 05 Окт | 12:53",
+      "url": "https://dsport.bg/urgen-klop-pod-obstrel~241437.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298569847.og.jpg"
     },
     {
-      "title": "Големият пожар край Харманли: 79-годишен мъж е предизвикал огъня, след като изхвърлил пепел от печката",
-      "url": "https://dariknews.bg/regioni/haskovo/golemiiat-pozhar-kraj-harmanli-79-godishen-myzh-e-predizvikal-ogynia-sled-kato-izhvyrlil-pepel-ot-pechkata-2468188",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
-    },
-    {
-      "title": "Жена е в тежко състояние след удар от товарен автомобил в Димитровград",
-      "url": "https://dariknews.bg/regioni/haskovo/zhena-e-v-tezhko-systoianie-sled-udar-ot-tovaren-avtomobilv-dimitrovgrad-2468185",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036836/991-ratio-linejka.jpg"
+      "title": "Казусът „Свилар“: mоже да играе за Сърбия, но не иска; иска за Белгия, но не може 05 Окт | 12:38",
+      "url": "https://dsport.bg/kazusat-svilar-moze-da-igrae-za-sarbia-no-ne-iska-iska-za-belgia-no-ne-moze~241436.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2290632609.og.jpg"
     },
     {
       "title": "Ига Швьонтек постигна обрат, за да се класира за четвъртия кръг в Пекин 05 Окт | 12:27",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297061965~1.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид подновява интереса си към звезда на Ювентус 05 Окт | 11:10",
-      "url": "https://dsport.bg/real-madrid-podnovava-interesa-si-kam-zvezda-na-uventus~241427.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2257736047~2.og.jpg"
-    },
-    {
-      "title": "Вегас Голдън Найтс победи Ванкувър Канъкс като гост в НХЛ 05 Окт | 10:55",
-      "url": "https://dsport.bg/vegas-goldan-naits-pobedi-vankuvar-kanaks-kato-gost-v-nhl~241426.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297903286.og.jpg"
     }
   ]
 }
