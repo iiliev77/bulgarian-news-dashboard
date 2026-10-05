@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T08:28:35.683382+00:00",
+  "updated": "2026-10-05T08:46:55.202073+00:00",
   "articles": [
+    {
+      "title": "Откриха мотоциклет, обявен за международно издирване от властите в Испания",
+      "url": "https://dariknews.bg/regioni/tyrgovishte/otkriha-motociklet-obiaven-za-mezhdunarodno-izdirvane-ot-vlastite-v-ispaniia-2468195",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39151/39151514/991-ratio-motor-motociklet.jpg"
+    },
+    {
+      "title": "Русия: Украйна е ударила две съоръжения в Запорожката АЕЦ",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-ukrajna-e-udarila-dve-syoryzheniia-v-zaporozhkata-aec-2468194",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50249/50249793/991-ratio-zaporozhkata-aec.jpg"
+    },
     {
       "title": "МВнР предлага увеличение с 20% на таксата за виза за дългосрочно пребиваване в страната",
       "url": "https://dariknews.bg/novini/bylgariia/mvnr-predlaga-uvelichenie-s-20-na-taksata-za-viza-za-dylgosrochno-prebivavane-v-stranata-2468191",
@@ -14,6 +28,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389407/991-ratio-samolet.jpg"
+    },
+    {
+      "title": "Спряха 23 кучета на „Калотина“: Били без чипове и здравни сертификати",
+      "url": "https://dariknews.bg/novini/bylgariia/spriaha-23-kucheta-na-kalotina-bili-bez-chipove-i-zdravni-sertifikati-2468193",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51092/51092378/991-ratio-kucheta.jpg"
     },
     {
       "title": "На тези, които ни учат да вярваме в себе си: Честит Международен ден на учителя",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51297/51297070/991-ratio-api-sandanski-pyt.jpg"
     },
     {
-      "title": "Разследват мистериозна смърт на куче от породата „Джак Ръсел“ край гробищен парк",
-      "url": "https://dariknews.bg/regioni/pernik/razsledvat-misteriozna-smyrt-na-kuche-ot-porodata-dzhak-rysel-kraj-grobishten-park-2468174",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45863/45863763/991-ratio-dzhak-rysel-terier.jpg"
+      "title": "Пълният триумф на Деко: как новите попълнения преобразиха Барселона? 05 Окт | 11:35",
+      "url": "https://dsport.bg/palniat-triumf-na-deko-kak-novite-popalnenia-preobraziha-barselona~241429.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2295946448.og.jpg"
     },
     {
-      "title": "Опустошителният порой в Крит: Жертва и огромни щети",
-      "url": "https://dariknews.bg/novini/sviat/opustoshitelniiat-poroj-v-krit-zhertva-i-ogromni-shteti-2468173",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51259/51259668/991-ratio-botushi-dyzhd.jpg"
-    },
-    {
-      "title": "Шофьорка с положителна проба за алкохол блъсна и уби крава в Старозагорско",
-      "url": "https://dariknews.bg/regioni/stara-zagora/shofiorka-s-polozhitelna-proba-za-alkohol-blysna-i-ubi-krava-v-starozagorsko-2468172",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43277/43277263/991-ratio-krava.jpg"
+      "title": "Президентът на Португалската футболна федерация отвори широко вратата за завръщане на Кристиано Роналдо 05 Окт | 11:22",
+      "url": "https://dsport.bg/prezidentat-na-portugalskata-futbolna-federacia-otvori-shiroko-vratata-za-zavrastane-na-kristiano-ronaldo~241428.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297061965~1.og.jpg"
     },
     {
       "title": "Реал Мадрид подновява интереса си към звезда на Ювентус 05 Окт | 11:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2294210466.og.jpg"
-    },
-    {
-      "title": "ОАЕ заплаши Великобритания: Ще изтеглим милиарди заради Манчестър Сити 05 Окт | 09:26",
-      "url": "https://dsport.bg/oae-zaplashi-velikobritania-ste-izteglim-miliardi-zaradi-manchestar-siti~241419.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2292489160~1.og.jpg"
-    },
-    {
-      "title": "Тревога в Манчестър Сити, Ерлинг Холанд виси за дербито с Ливърпул 05 Окт | 09:14",
-      "url": "https://dsport.bg/trevoga-v-manchestar-siti-erling-holand-visi-za-derbito-s-livarpul~241418.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298250341.og.jpg"
     }
   ]
 }
