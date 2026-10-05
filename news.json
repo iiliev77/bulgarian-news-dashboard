@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T16:43:34.552648+00:00",
+  "updated": "2026-10-05T16:57:56.464215+00:00",
   "articles": [
+    {
+      "title": "МВнР: Българските студенти в чужбина ще могат да стажуват в посолства",
+      "url": "https://dariknews.bg/novini/bylgariia/mvnr-bylgarskite-studenti-v-chuzhbina-shte-mogat-da-stazhuvat-v-posolstva-2468258",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39957/39957519/991-ratio-student.jpg"
+    },
     {
       "title": "Конфискуваха 10,1 млн. евро от активите на „криптокралицата“ Ружа Игнатова",
       "url": "https://dariknews.bg/novini/sviat/konfiskuvaha-101-mln.-evro-ot-aktivite-na-kriptokralicata-ruzha-ignatova-2468257",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51024/51024221/991-ratio-fentanil.jpg"
     },
     {
-      "title": "Жълт код за ниски минимални температури и слана в почти цялата страна във вторник",
-      "url": "https://dariknews.bg/novini/bylgariia/zhylt-kod-za-niski-minimalni-temperaturi-i-slana-v-pochti-cialata-strana-vyv-vtornik-2468235",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Ботев Пловдив с екип в памет на Илиян Филипов 05 Окт | 19:48",
+      "url": "https://dsport.bg/botev-plovdiv-s-ekip-v-pamet-na-ilian-filipov~241468.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/05.10-2~1.og.jpg"
     },
     {
       "title": "Испански футболист катастрофира пиян и избяга (ВИДЕО) 05 Окт | 19:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/empty-stadium-at-sunset.og.png"
-    },
-    {
-      "title": "Трагедия на футболен мач у нас: 44-годишен играч почина на терена 05 Окт | 17:53",
-      "url": "https://dsport.bg/tragedia-na-futbolen-mach-u-nas-44-godishen-igrach-pochina-na-terena~241458.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/football-crest-and-emergency-pitch-scene.og.png"
     }
   ]
 }
