@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-05T12:03:00.399570+00:00",
+  "updated": "2026-10-05T12:27:34.028665+00:00",
   "articles": [
+    {
+      "title": "Откриха нов студентски кампус към общежитията на два университета в „Студентски град“ (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/otkriha-nov-studentski-kampus-kym-obshtezhitiiata-na-dva-universiteta-v-studentski-grad-snimki-2468234",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391810/991-ratio-nov-studentski-kampus.jpg"
+    },
+    {
+      "title": "Шофьор с 1,51 промила пъхна подкуп от 300 евро в бронежилетка на полицай край София",
+      "url": "https://dariknews.bg/regioni/sofiia/shofior-s-151-promila-pyhna-podkup-ot-300-evro-v-bronezhiletka-na-policaj-kraj-sofiia-2468233",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391806/991-ratio-podkup.jpg"
+    },
+    {
+      "title": "Трагичен инцидент: 15-годишен ученик загуби ръката си при протестите във Франция",
+      "url": "https://dariknews.bg/novini/sviat/tragichen-incident-15-godishen-uchenik-zagubi-rykata-si-pri-protestite-vyv-franciia-2468232",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+    },
+    {
+      "title": "Отиде си Злати Иванов - един от най-добрите треньори в историята на българската атлетика",
+      "url": "https://dariknews.bg/novini/bylgariia/otide-si-zlati-ivanov-edin-ot-naj-dobrite-treniori-v-istoriiata-na-bylgarskata-atletika-2468231",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51000/51000742/991-ratio-svesht.jpg"
+    },
     {
       "title": "Приказната красота на Родопите: Две нови защитени територии може да бъдат обявени в Смолянско",
       "url": "https://dariknews.bg/regioni/Smolyan/prikaznata-krasota-na-rodopite-dve-novi-zashtiteni-teritorii-mozhe-da-bydat-obiaveni-v-smoliansko-2468230",
@@ -114,39 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391749/991-ratio-katia-ivkova.jpg"
     },
     {
-      "title": "Обвиниха мъж за държане на фалшиви евробанкноти за над 25 000 евро",
-      "url": "https://dariknews.bg/novini/bylgariia/obviniha-myzh-za-dyrzhane-na-falshivi-evrobanknoti-za-nad-25-000-evro-2468213",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51299/51299979/991-ratio-evro.jpg"
-    },
-    {
-      "title": "На прицел: Мъж стреля с пушка по група младежи, вдигали шум пред блок",
-      "url": "https://dariknews.bg/regioni/razgrad/na-pricel-myzh-strelia-s-pushka-po-grupa-mladezhi-vdigali-shum-pred-blok-2468212",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51371/51371134/991-ratio-myzh-pushka.jpg"
-    },
-    {
-      "title": "Земетресение разтърси Румъния",
-      "url": "https://dariknews.bg/novini/bylgariia/zemetresenie-raztyrsi-rumyniia-2468211",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51095/51095888/991-ratio-zemetresenie.jpg"
-    },
-    {
-      "title": "Нова епична битка за територия очаква племената в “Игри на волята” тази вечер",
-      "url": "https://dariknews.bg/novini/liubopitno/nova-epichna-bitka-za-teritoriia-ochakva-plemenata-v-igri-na-voliata-tazi-vecher-2468209",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391714/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА представя Маркус Гиздол 05 Окт | 15:00",
+      "title": "На живо: ЦСКА представя Маркус Гиздол 05 Окт | 15:20",
       "url": "https://dsport.bg/ochakvaite-na-zivo-cska-predstava-markus-gizdol~241443.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/384/cska-gisdol-announcement-in-the-mist.og.png"
+      "image": "https://dsport.bg/media/384/1037070.og.jpg"
+    },
+    {
+      "title": "ЦСКА ще посрещне Монако на стадион \"Васил Левски\" 05 Окт | 15:06",
+      "url": "https://dsport.bg/cska-ste-posrestne-monako-na-stadion-vasil-levski~241447.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/18.05-1-1-1.og.jpg"
     },
     {
       "title": "Левски и ЦСКА играят в един ден за Sesame Купа на България 05 Окт | 14:55",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298649754.og.jpg"
-    },
-    {
-      "title": "Юрген Клоп под обстрел 05 Окт | 12:53",
-      "url": "https://dsport.bg/urgen-klop-pod-obstrel~241437.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298569847.og.jpg"
     }
   ]
 }
