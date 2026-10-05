@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-05T08:46:55.202073+00:00",
+  "updated": "2026-10-05T09:01:33.485390+00:00",
   "articles": [
+    {
+      "title": "Гръцката полиция разби банда за кражби на луксозни коли в Атина",
+      "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razbi-banda-za-krazhbi-na-luksozni-koli-v-atina-2468198",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50504/50504337/991-ratio-policiia-gyrciia.jpg"
+    },
+    {
+      "title": "Незаконно клане и изхвърляне на животински отпадъци разкриха край Сливен (СНИМКА)",
+      "url": "https://dariknews.bg/regioni/sliven/nezakonno-klane-i-izhvyrliane-na-zhivotinski-otpadyci-razkriha-kraj-sliven-snimka-2468197",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391680/991-ratio-nezakonno-klane.jpg"
+    },
+    {
+      "title": "Заплахи, обиди и счупен прозорец: Задържаха 22-годишен мъж в село Баба Тонка",
+      "url": "https://dariknews.bg/regioni/tyrgovishte/zaplahi-obidi-i-schupen-prozorec-zadyrzhaha-22-godishen-myzh-v-selo-baba-tonka-2468196",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44959/44959785/991-ratio-policiia-rusiia-ruski-policaj-palka.jpg"
+    },
     {
       "title": "Откриха мотоциклет, обявен за международно издирване от властите в Испания",
       "url": "https://dariknews.bg/regioni/tyrgovishte/otkriha-motociklet-obiaven-za-mezhdunarodno-izdirvane-ot-vlastite-v-ispaniia-2468195",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391610/991-ratio-parking.jpg"
     },
     {
-      "title": "Нов бутон улеснява връщането на онлайн покупки до 14 дни",
-      "url": "https://dariknews.bg/novini/bylgariia/nov-buton-ulesniava-vryshtaneto-na-onlajn-pokupki-do-14-dni-2468176",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Рим затяга контрола върху голф количките: Десетки глоби и отнети шофьорски книжки",
-      "url": "https://dariknews.bg/novini/sviat/rim-zatiaga-kontrola-vyrhu-golf-kolichkite-desetki-globi-i-otneti-shofiorski-knizhki-2468178",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391613/991-ratio-golf-kolichki.jpg"
-    },
-    {
-      "title": "Институтът за пътна безопасност: Шефът на „Автомагистрали“ подаде оставка",
-      "url": "https://dariknews.bg/novini/bylgariia/institutyt-za-pytna-bezopasnost-shefyt-na-avtomagistrali-podade-ostavka-2468175",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51297/51297070/991-ratio-api-sandanski-pyt.jpg"
+      "title": "Златан Ибрахимович с изненадващ избор - постави Ламин Ямал пред Мбапе 05 Окт | 11:47",
+      "url": "https://dsport.bg/zlatan-ibrahimovich-s-iznenadvast-izbor-postavi-lamin-amal-pred-mbape~241430.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2265456863~1.og.jpg"
     },
     {
       "title": "Пълният триумф на Деко: как новите попълнения преобразиха Барселона? 05 Окт | 11:35",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2293561225-1.og.jpg"
-    },
-    {
-      "title": "И Моуриньо не е в състояние да контролира Мбапе 05 Окт | 09:46",
-      "url": "https://dsport.bg/i-mourino-ne-e-v-sastoanie-da-kontrolira-mbape~241420.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294210466.og.jpg"
     }
   ]
 }
