@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-05T09:22:25.811677+00:00",
+  "updated": "2026-10-05T09:41:14.275899+00:00",
   "articles": [
+    {
+      "title": "Мартин Йегер: Има риск Германия да се окаже в насилствен конфликт с Русия",
+      "url": "https://dariknews.bg/novini/sviat/martin-jeger-ima-risk-germaniia-da-se-okazhe-v-nasilstven-konflikt-s-rusiia-2468205",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391704/991-ratio-martin-jeger.jpg"
+    },
+    {
+      "title": "Домашно насилие във Вършец: Мъж заплаши сестра си с убийство, след като ѝ спря тока",
+      "url": "https://dariknews.bg/regioni/montana/domashno-nasilie-vyv-vyrshec-myzh-zaplashi-sestra-si-s-ubijstvo-sled-kato-spria-toka-2468206",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272908/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Как да гласувате на изборите без валидни документи?",
+      "url": "https://dariknews.bg/regioni/sofiia/kak-da-glasuvate-na-izborite-bez-validni-dokumenti-2468203",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
+    },
+    {
+      "title": "Авария остави без вода села край София",
+      "url": "https://dariknews.bg/regioni/sofiia/avariia-ostavi-bez-voda-sela-kraj-sofiia-2468204",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51212/51212737/991-ratio-voda-cheshma-mivka.jpg"
+    },
     {
       "title": "Те не са бездомни по избор: Послание за любов към животните тръгна от Централна гара в София (СНИМКИ)",
       "url": "https://dariknews.bg/regioni/sofiia/te-ne-sa-bezdomni-po-izbor-poslanie-za-liubov-kym-zhivotnite-trygna-ot-centralna-gara-v-sofiia-snimki-2468202",
@@ -114,32 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51036/51036836/991-ratio-linejka.jpg"
     },
     {
-      "title": "Нова вълна от бомбени заплахи в страната: Евакуирани са служители в няколко града (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/razgrad/nova-vylna-ot-bombeni-zaplahi-v-stranata-evakuirani-sa-sluzhiteli-v-niakolko-grada-snimki-2468184",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391658/991-ratio-signal-za-bolmba-lovech.jpg"
+      "title": "Ига Швьонтек постигна обрат, за да се класира за четвъртия кръг в Пекин 05 Окт | 12:27",
+      "url": "https://dsport.bg/iga-shvontek-postigna-obrat-za-da-se-klasira-za-chetvartia-krag-v-pekin~241435.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298641215.og.jpg"
     },
     {
-      "title": "Заловиха шофьор с над 3 промила алкохол във Видинско",
-      "url": "https://dariknews.bg/regioni/vidin/zaloviha-shofior-s-nad-3-promila-alkohol-vyv-vidinsko-2468182",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51179/51179875/991-ratio-promila-alkohol.jpg"
+      "title": "„Отиваме да се борим!“: Филип Филипов готви топ селекция след бруталния жребий за BSC BETVAM на Световното! 05 Окт | 12:17",
+      "url": "https://dsport.bg/otivame-da-se-borim-filip-filipov-gotvi-top-selekcia-sled-brutalnia-zrebii-za-bsc-betvam-na-svetovnoto~241434.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/802393812_2903126036721726_6045333515962012141_n~1.og.jpg"
     },
     {
-      "title": "Внимание, шофьори: Ограничават движението по АМ „Тракия“",
-      "url": "https://dariknews.bg/regioni/sofiia/vnimanie-shofiori-ogranichavat-dvizhenieto-po-am-trakiia-2468183",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391622/991-ratio-remont-asfalt.jpg"
-    },
-    {
-      "title": "Браншът алармира: Близо 400 овощари още не са получили субсидиите си",
-      "url": "https://dariknews.bg/novini/bylgariia/branshyt-alarmira-blizo-400-ovoshtari-oshte-ne-sa-poluchili-subsidiite-si-2468181",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43207/43207057/991-ratio-kiustendil-chereshi-policiia.jpg"
+      "title": "Епичен сблъсък на легенди! България срещу Германия в CS 1.6 шоумач 05 Окт | 12:10",
+      "url": "https://dsport.bg/epichen-sblasak-na-legendi-balgaria-srestu-germania-v-cs-1-6-shoumach~241433.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/age-27-2.og.jpg"
     },
     {
       "title": "Иниеста за Ламин Ямал: Това, което прави, не е нормално 05 Окт | 12:07",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297903286.og.jpg"
-    },
-    {
-      "title": "Григор Димитров с минимално отстъпление в световната ранглистата 05 Окт | 10:42",
-      "url": "https://dsport.bg/grigor-dimitrov-s-minimalno-otstaplenie-v-svetovnata-ranglistata~241425.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2290490622~2.og.jpg"
-    },
-    {
-      "title": "Елизара Янева постигна ново рекордно класиране в световната ранглиста по тенис при жените 05 Окт | 10:32",
-      "url": "https://dsport.bg/elizara-aneva-postigna-novo-rekordno-klasirane-v-svetovnata-ranglista-po-tenis-pri-zenite~241424.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/elizara_-3-1-1.og.jpg"
-    },
-    {
-      "title": "Надпреварата за таланти: как 15-годишни деца се превърнаха в стока за милиони на футболния пазар? 05 Окт | 10:24",
-      "url": "https://dsport.bg/nadprevarata-za-talanti-kak-15-godishni-deca-se-prevarnaha-v-stoka-za-milioni-na-futbolnia-pazar~241423.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2272526328.og.jpg"
     }
   ]
 }
