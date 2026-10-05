@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T18:33:59.720505+00:00",
+  "updated": "2026-10-05T18:54:32.814227+00:00",
   "articles": [
+    {
+      "title": "Картечници с изкуствен интелект свалят руски дронове край Киев",
+      "url": "https://dariknews.bg/novini/sviat/kartechnici-s-izkustven-intelekt-svaliat-ruski-dronove-kraj-kiev-2468262",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392163/991-ratio-ukrainski-voennosluzhesht-se-podgotvia-da-otblysne-ruska-ataka-s-dronove.jpg"
+    },
     {
       "title": "Бившата говорителка на Белия дом Карълайн Левит влиза в ефира на Fox News",
       "url": "https://dariknews.bg/novini/sviat/bivshata-govoritelka-na-beliia-dom-karylajn-levit-vliza-v-efira-na-fox-news-2468261",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391629/991-ratio-huawei-watch.jpg"
     },
     {
-      "title": "Агенция „Мяра“, ако изборите бяха днес: Йотова и Вълчев с 46,9% подкрепа, Гюров и Кандев – 25,3%",
-      "url": "https://dariknews.bg/novini/bylgariia/agenciia-miara-ako-izborite-biaha-dnes-iotova-i-vylchev-s-469-podkrepa-giurov-i-kandev-253-2468239",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50628/50628885/991-ratio-mesten-vot.jpg"
+      "title": "Всички националки на България за „Били Джийн Кинг Къп“ ще участват на турнир в Бургас 05 Окт | 21:42",
+      "url": "https://dsport.bg/vsichki-nacionalki-na-balgaria-za-bili-dziin-king-kap-ste-uchastvat-na-turnir-v-burgas~241477.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/05.10-5.og.jpg"
     },
     {
       "title": "Изненади в календарите на Формула 2 и 3 за 2027 г. 05 Окт | 21:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/nighttime-collision-aftermath-on-a-city-street.og.png"
-    },
-    {
-      "title": "ЦСКА приветства Гиздол на „Армията“ (ВИДЕО) 05 Окт | 19:21",
-      "url": "https://dsport.bg/cska-privetstva-gizdol-na-armiata-video~241466.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037080.og.jpg"
     }
   ]
 }
