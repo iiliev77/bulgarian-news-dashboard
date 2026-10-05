@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T10:30:42.498605+00:00",
+  "updated": "2026-10-05T10:48:40.610201+00:00",
   "articles": [
+    {
+      "title": "Стотици френски училища остават затворени заради ученически протести",
+      "url": "https://dariknews.bg/novini/sviat/stotici-frenski-uchilishta-ostavat-zatvoreni-zaradi-uchenicheski-protesti-2468218",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391754/991-ratio-franciia-uchilishta.jpg"
+    },
+    {
+      "title": "Скандалът с помилването на „Петричкия Ескобар“ се разраства: ДБ иска изслушване на службите в НС",
+      "url": "https://dariknews.bg/novini/bylgariia/skandalyt-s-pomilvaneto-na-petrichkiia-eskobar-se-razrastva-db-iska-izslushvane-na-sluzhbite-v-ns-2468217",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
+    },
     {
       "title": "България задържа талантите си: 15 млади умове избраха да учат и развиват у нас",
       "url": "https://dariknews.bg/novini/bylgariia/bylgariia-zadyrzha-talantite-si-15-mladi-umove-izbraha-da-uchat-i-razvivat-u-nas-2468215",
@@ -9,11 +23,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391746/991-ratio-insait.jpg"
     },
     {
+      "title": "Мотоциклетист без книжка и с над 3 промила алкохол се заби в стълб",
+      "url": "https://dariknews.bg/regioni/sofiia/motocikletist-bez-knizhka-i-s-nad-3-promila-alkohol-se-zabi-v-stylb-2468216",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51164/51164744/991-ratio-motor.jpg"
+    },
+    {
       "title": "Здравният министър обясни защо се бавят грипните ваксини и кога ще бъдат доставени",
       "url": "https://dariknews.bg/novini/bylgariia/zdravniiat-ministyr-obiasni-zashto-se-baviat-gripnite-vaksini-i-koga-shte-bydat-dostaveni-2468214",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51374/51374133/991-ratio-katia-ivkova.jpg"
+      "image": "https://m.netinfo.bg/media/images/51391/51391749/991-ratio-katia-ivkova.jpg"
     },
     {
       "title": "Обвиниха мъж за държане на фалшиви евробанкноти за над 25 000 евро",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391680/991-ratio-nezakonno-klane.jpg"
     },
     {
-      "title": "Заплахи, обиди и счупен прозорец: Задържаха 22-годишен мъж в село Баба Тонка",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/zaplahi-obidi-i-schupen-prozorec-zadyrzhaha-22-godishen-myzh-v-selo-baba-tonka-2468196",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44959/44959785/991-ratio-policiia-rusiia-ruski-policaj-palka.jpg"
+      "title": "Нов разгром и край за Билич в Хърватия? Подава оставка при загуба с 5 гола от Испания 05 Окт | 13:47",
+      "url": "https://dsport.bg/nov-razgrom-i-krai-za-bilich-v-harvatia-podava-ostavka-pri-zaguba-s-5-gola-ot-ispania~241441.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298402046.og.jpg"
     },
     {
-      "title": "Откриха мотоциклет, обявен за международно издирване от властите в Испания",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/otkriha-motociklet-obiaven-za-mezhdunarodno-izdirvane-ot-vlastite-v-ispaniia-2468195",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39151/39151514/991-ratio-motor-motociklet.jpg"
-    },
-    {
-      "title": "Русия: Украйна е ударила две съоръжения в Запорожката АЕЦ",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-ukrajna-e-udarila-dve-syoryzheniia-v-zaporozhkata-aec-2468194",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50249/50249793/991-ratio-zaporozhkata-aec.jpg"
+      "title": "Нов скандал: израелски футболист обвинен, че е наплюл член от щаба на Ирландия 05 Окт | 13:32",
+      "url": "https://dsport.bg/nov-skandal-izraelski-futbolist-obvinen-che-e-naplul-chlen-ot-staba-na-irlandia~241440.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298583926.og.jpg"
     },
     {
       "title": "Левски информира феновете си как може да посетят гостуването на НЕК 05 Окт | 13:14",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2286791272.og.jpg"
-    },
-    {
-      "title": "Новите звезди на Аржентина - талантите, които отвориха дилема пред Скалони 05 Окт | 11:56",
-      "url": "https://dsport.bg/novite-zvezdi-na-arzentina-talantite-koito-otvoriha-dilema-pred-skaloni~241431.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/pibes.og.png"
-    },
-    {
-      "title": "Златан Ибрахимович с изненадващ избор - постави Ламин Ямал пред Мбапе 05 Окт | 11:47",
-      "url": "https://dsport.bg/zlatan-ibrahimovich-s-iznenadvast-izbor-postavi-lamin-amal-pred-mbape~241430.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2265456863~1.og.jpg"
     }
   ]
 }
