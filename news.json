@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T16:25:52.203068+00:00",
+  "updated": "2026-10-05T16:43:34.552648+00:00",
   "articles": [
+    {
+      "title": "Конфискуваха 10,1 млн. евро от активите на „криптокралицата“ Ружа Игнатова",
+      "url": "https://dariknews.bg/novini/sviat/konfiskuvaha-101-mln.-evro-ot-aktivite-na-kriptokralicata-ruzha-ignatova-2468257",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Вторият пенсионен стълб: 50% от кандидатствалите са избрали динамичния подфонд",
       "url": "https://dariknews.bg/novini/bylgariia/vtoriiat-pensionen-stylb-50-ot-kandidatstvalite-sa-izbrali-dinamichniia-podfond-2468256",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "114 години от Освобождението на Горна Джумая: Честит празник, Благоевград (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/114-godini-ot-osvobozhdenieto-na-gorna-dzhumaia-chestit-praznik-blagoevgrad-snimki-2468236",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391834/991-ratio-blagoevgrad-chestvaniia-osvobozhdenie-gorna-dzhumaia.jpg"
+      "title": "Испански футболист катастрофира пиян и избяга (ВИДЕО) 05 Окт | 19:40",
+      "url": "https://dsport.bg/ispanski-futbolist-katastrofira-pian-i-izbaga-video~241467.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/nighttime-collision-aftermath-on-a-city-street.og.png"
     },
     {
       "title": "ЦСКА приветства Гиздол на „Армията“ (ВИДЕО) 05 Окт | 19:21",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/football-crest-and-emergency-pitch-scene.og.png"
-    },
-    {
-      "title": "Тити Папазов: Не мога да управлявам сам и няма да управлявам сам 05 Окт | 17:43",
-      "url": "https://dsport.bg/titi-papazov-ne-moga-da-upravlavam-sam-i-nama-da-upravlavam-sam~241457.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037136.og.jpg"
     }
   ]
 }
