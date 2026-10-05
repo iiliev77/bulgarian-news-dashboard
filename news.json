@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:19:51.460496+00:00",
+  "updated": "2026-10-05T15:39:31.990972+00:00",
   "articles": [
     {
       "title": "Хеликоптер „Кугър“ се включи в гасенето на пожар в област Ямбол",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391806/991-ratio-podkup.jpg"
     },
     {
+      "title": "Несебър след екшъна в Смолян: Това не е футбол! (ВИДЕО) 05 Окт | 18:25",
+      "url": "https://dsport.bg/nesebar-sled-ekshana-v-smolan-tova-ne-e-futbol-video~241462.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/yellow-and-green-clash-near-goal.og.png"
+    },
+    {
+      "title": "Виляреал гостува в града на Надал, аматьори очакват Атлетик Билбао за Купата на краля 05 Окт | 18:19",
+      "url": "https://dsport.bg/vilareal-gostuva-v-grada-na-nadal-amatori-ochakvat-atletik-bilbao-za-kupata-na-krala~241461.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2144487502~1.og.jpg"
+    },
+    {
       "title": "Европа зове Локо Пловдив! Сребърните медалисти на Локомотив излизат срещу 12-кратен шампион в исторически мач. 05 Окт | 18:14",
       "url": "https://dsport.bg/evropa-zove-loko-plovdiv-srebarnite-medalisti-na-lokomotiv-izlizat-srestu-12-kraten-shampion-v-istoricheski-mach~241460.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1025017.og.jpg"
-    },
-    {
-      "title": "Валентин Илиев разкри как ЦСКА избра Гиздол: Не можем да вземем който и да е треньор (ВИДЕО) 05 Окт | 16:26",
-      "url": "https://dsport.bg/valentin-iliev-razkri-kak-cska-izbra-gizdol-ne-mozem-da-vzemem-koito-i-da-e-trenor-video~241452.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037087.og.jpg"
-    },
-    {
-      "title": "Гиздол: Знам колко е хубаво да станеш шампион, надявам се да го изпитам и с ЦСКА (ВИДЕО) 05 Окт | 16:17",
-      "url": "https://dsport.bg/gizdol-znam-kolko-e-hubavo-da-stanesh-shampion-nadavam-se-da-go-izpitam-i-s-cska~241451.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037104.og.jpg"
     }
   ]
 }
