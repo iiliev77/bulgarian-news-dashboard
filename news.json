@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-05T09:01:33.485390+00:00",
+  "updated": "2026-10-05T09:22:25.811677+00:00",
   "articles": [
+    {
+      "title": "Те не са бездомни по избор: Послание за любов към животните тръгна от Централна гара в София (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/te-ne-sa-bezdomni-po-izbor-poslanie-za-liubov-kym-zhivotnite-trygna-ot-centralna-gara-v-sofiia-snimki-2468202",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391691/991-ratio-zhivotni-chetiri-lapi-gara.jpg"
+    },
+    {
+      "title": "Шофьор без книжка загина след удар в бетонна ограда в Ловешко",
+      "url": "https://dariknews.bg/regioni/lovech/shofior-bez-knizhka-zagina-sled-udar-v-betonna-ograda-v-loveshko-2468200",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
+    },
     {
       "title": "Гръцката полиция разби банда за кражби на луксозни коли в Атина",
       "url": "https://dariknews.bg/novini/sviat/gryckata-policiia-razbi-banda-za-krazhbi-na-luksozni-koli-v-atina-2468198",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50504/50504337/991-ratio-policiia-gyrciia.jpg"
+    },
+    {
+      "title": "Огнен уикенд в Смолянско: Седем пожара, пострадал мъж и унищожена къща",
+      "url": "https://dariknews.bg/regioni/Smolyan/ognen-uikend-v-smoliansko-sedem-pozhara-postradal-myzh-i-unishtozhena-kyshta-2468199",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51143/51143310/991-ratio-sasht-pozharna.jpg"
     },
     {
       "title": "Незаконно клане и изхвърляне на животински отпадъци разкриха край Сливен (СНИМКА)",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/43207/43207057/991-ratio-kiustendil-chereshi-policiia.jpg"
     },
     {
-      "title": "Испанският премиер Санчес свика предсрочни парламентарни избори",
-      "url": "https://dariknews.bg/novini/sviat/ispanskiiat-premier-sanches-svika-predsrochni-parlamentarni-izbori-2468179",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51252/51252990/991-ratio-pedro-sanches.jpg"
+      "title": "Иниеста за Ламин Ямал: Това, което прави, не е нормално 05 Окт | 12:07",
+      "url": "https://dsport.bg/iniesta-za-lamin-amal-tova-koeto-pravi-ne-e-normalno~241432.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2286791272.og.jpg"
     },
     {
-      "title": "Откриха стотици кашони с лекарства с изтекъл срок при акция в Костинброд",
-      "url": "https://dariknews.bg/regioni/sofiia/otkriha-stotici-kashoni-s-lekarstva-s-iztekyl-srok-pri-akciia-v-kostinbrod-2468180",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391617/991-ratio-lekarstva-kashoni.jpg"
-    },
-    {
-      "title": "Кметът Терзиев: 200 междублокови пространства с нов облик в София (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/kmetyt-terziev-200-mezhdublokovi-prostranstva-s-nov-oblik-v-sofiia-snimki-2468177",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391610/991-ratio-parking.jpg"
+      "title": "Новите звезди на Аржентина - талантите, които отвориха дилема пред Скалони 05 Окт | 11:56",
+      "url": "https://dsport.bg/novite-zvezdi-na-arzentina-talantite-koito-otvoriha-dilema-pred-skaloni~241431.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/pibes.og.png"
     },
     {
       "title": "Златан Ибрахимович с изненадващ избор - постави Ламин Ямал пред Мбапе 05 Окт | 11:47",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2272526328.og.jpg"
-    },
-    {
-      "title": "Кристиан Макун се завръща предсрочно в Левски от лагера на Венецуела 05 Окт | 10:06",
-      "url": "https://dsport.bg/kristian-makun-se-zavrasta-predsrochno-v-levski-ot-lagera-na-venecuela~241422.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1014177~2.og.jpg"
-    },
-    {
-      "title": "Алкарас научи първия си съперник на Мастърсa в Шанхай, Зверев и Джокович са в една половина на схемата 05 Окт | 09:54",
-      "url": "https://dsport.bg/alkaras-nauchi-parvia-si-sapernik-na-mastarsa-v-shanhai-zverev-i-dzokovich-sa-v-edna-polovina-na-shemata~241421.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2293561225-1.og.jpg"
     }
   ]
 }
