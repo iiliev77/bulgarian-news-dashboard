@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:27:10.387890+00:00",
+  "updated": "2026-10-05T17:42:47.221669+00:00",
   "articles": [
     {
       "title": "МВнР: Българските студенти в чужбина ще могат да стажуват в посолства",
@@ -30,11 +30,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392093/991-ratio-ico-petroff.jpg"
     },
     {
-      "title": "Хеликоптер „Кугър“ се включи в гасенето на пожар в област Ямбол",
-      "url": "https://dariknews.bg/regioni/yambol/helikopter-kugyr-se-vkliuchi-v-gaseneto-na-pozhar-v-oblast-iambol-2468254",
+      "title": "Пожарът край Ямбол обхвана 400 декара, гасенето продължава през нощта",
+      "url": "https://dariknews.bg/regioni/yambol/pozharyt-kraj-iambol-obhvana-400-dekara-gaseneto-prodylzhava-prez-noshtta-2468254",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32817/32817601/991-ratio-helikopter-kugyr.jpg"
+      "image": "https://m.netinfo.bg/media/images/51392/51392137/991-ratio-pozhar-kraj-iambol.jpg"
     },
     {
       "title": "Футболист почина по време на мач в Чипровци",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51024/51024221/991-ratio-fentanil.jpg"
     },
     {
+      "title": "Куп контузени в Локо Пловдив преди железничарското дерби 05 Окт | 20:18",
+      "url": "https://dsport.bg/kup-kontuzeni-v-loko-plovdiv-predi-zeleznicharskoto-derbi~241471.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/05.10-4~1.og.jpg"
+    },
+    {
       "title": "Пробив в преговорите: Хари Кейн и Байерн се разбраха за нов договор 05 Окт | 20:11",
       "url": "https://dsport.bg/probiv-v-pregovorite-hari-kein-i-baiern-se-razbraha-za-nov-dogovor~241470.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/yellow-and-green-clash-near-goal.og.png"
-    },
-    {
-      "title": "Виляреал гостува в града на Надал, аматьори очакват Атлетик Билбао за Купата на краля 05 Окт | 18:19",
-      "url": "https://dsport.bg/vilareal-gostuva-v-grada-na-nadal-amatori-ochakvat-atletik-bilbao-za-kupata-na-krala~241461.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2144487502~1.og.jpg"
     }
   ]
 }
