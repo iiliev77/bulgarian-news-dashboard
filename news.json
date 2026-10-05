@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-05T13:06:34.332767+00:00",
+  "updated": "2026-10-05T13:29:41.675211+00:00",
   "articles": [
+    {
+      "title": "Откриха пропофол при Мазонакис – анестетикът, свързан със смъртта на Майкъл Джексън",
+      "url": "https://dariknews.bg/novini/sviat/otkriha-propofol-pri-mazonakis-anestetikyt-svyrzan-sys-smyrtta-na-majkyl-dzheksyn-2468241",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51162/51162644/991-ratio-iorgos-mazonakis.jpg"
+    },
+    {
+      "title": "УМБАЛ-Бургас с нова апаратура за педиатрични грижи за над 1,1 млн. евро (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/burgas/umbal-burgas-s-nova-aparatura-za-pediatrichni-grizhi-za-nad-11-mln.-evro-snimki-2468240",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391903/991-ratio-katia-ivkova-burgas.jpg"
+    },
     {
       "title": "HUAWEI Watch GT 7 Pro: Смартчасовникът, който следи здравето ви от офиса до ски пистата",
       "url": "https://dariknews.bg/novini/tehnologii/huawei-watch-gt-7-pro-smartchasovnikyt-kojto-sledi-zdraveto-vi-ot-ofisa-do-ski-pistata-2468187",
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391777/991-ratio-protest-burgas-iara.jpg"
     },
     {
-      "title": "ЕК осигурява още 130 млн. евро за защита от дронове",
-      "url": "https://dariknews.bg/novini/sviat/ek-osiguriava-oshte-130-mln.-evro-za-zashtita-ot-dronove-2468220",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
+      "title": "Валентин Илиев разкри как ЦСКА избра Гиздол: Не можем да вземем който и да е треньор (ВИДЕО) 05 Окт | 16:26",
+      "url": "https://dsport.bg/valentin-iliev-razkri-kak-cska-izbra-gizdol-ne-mozem-da-vzemem-koito-i-da-e-trenor-video~241452.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037087.og.jpg"
     },
     {
-      "title": "Шишков: Шефът на „Автомагистрали“ е подал оставка по лични причини, не заради мантинелите",
-      "url": "https://dariknews.bg/novini/bylgariia/shishkov-shefyt-na-avtomagistrali-e-podal-ostavka-po-lichni-prichini-ne-zaradi-mantinelite-2468219",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51378/51378054/991-ratio-ivan-shishkov.jpg"
+      "title": "Гиздол: Знам колко е хубаво да станеш шампион, надявам се да го изпитам и с ЦСКА (ВИДЕО) 05 Окт | 16:17",
+      "url": "https://dsport.bg/gizdol-znam-kolko-e-hubavo-da-stanesh-shampion-nadavam-se-da-go-izpitam-i-s-cska~241451.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037104.og.jpg"
+    },
+    {
+      "title": "Гиздол: При първите контакти с ЦСКА усетих нещо специално, помня емблематичните вечери в Европа (ВИДЕО) 05 Окт | 16:07",
+      "url": "https://dsport.bg/gizdol-pri-parvite-kontakti-s-cska-usetih-nesto-specialno-pomna-emblematichnite-vecheri-v-evropa-video~241450.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037088.og.jpg"
     },
     {
       "title": "Защо ЦСКА подписа с Гиздол само до края на сезона? 05 Окт | 16:00",
@@ -156,14 +177,14 @@
       "image": "https://dsport.bg/media/384/1037108.og.jpg"
     },
     {
-      "title": "Гиздол: Не мога да променя всичко за ден или седмица 05 Окт | 15:45",
+      "title": "Гиздол: Не мога да променя всичко за ден или седмица (ВИДЕО) 05 Окт | 15:45",
       "url": "https://dsport.bg/gizdol-ne-moga-da-promena-vsichko-za-den-ili-sedmica~241443.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037070.og.jpg"
     },
     {
-      "title": "ЦСКА ще посрещне Монако на стадион \"Васил Левски\" 05 Окт | 15:06",
+      "title": "ЦСКА ще посрещне Монако на стадион „Васил Левски“ 05 Окт | 15:06",
       "url": "https://dsport.bg/cska-ste-posrestne-monako-na-stadion-vasil-levski~241447.html",
       "source": "Dsport",
       "section": "sport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute.og.png"
-    },
-    {
-      "title": "БФ Борба сезира прокуратурата за Весела Лечева и Белчо Горанов заради казуса с БОК 05 Окт | 14:05",
-      "url": "https://dsport.bg/bf-borba-sezira-prokuraturata-za-vesela-lecheva-i-belcho-goranov-zaradi-kazusa-s-bok~241442.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2026-10-05_14-03-16-671.og.jpg"
-    },
-    {
-      "title": "Нов разгром и край за Билич в Хърватия? Подава оставка при загуба с 5 гола от Испания 05 Окт | 13:47",
-      "url": "https://dsport.bg/nov-razgrom-i-krai-za-bilich-v-harvatia-podava-ostavka-pri-zaguba-s-5-gola-ot-ispania~241441.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298402046.og.jpg"
-    },
-    {
-      "title": "Нов скандал: израелски футболист обвинен, че е наплюл член от щаба на Ирландия 05 Окт | 13:32",
-      "url": "https://dsport.bg/nov-skandal-izraelski-futbolist-obvinen-che-e-naplul-chlen-ot-staba-na-irlandia~241440.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298583926.og.jpg"
     }
   ]
 }
