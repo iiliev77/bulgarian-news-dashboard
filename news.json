@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-05T11:18:03.256443+00:00",
+  "updated": "2026-10-05T11:37:04.170507+00:00",
   "articles": [
+    {
+      "title": "Разходите за собствено жилище в България са нараснали с 11,7% за година",
+      "url": "https://dariknews.bg/novini/bylgariia/razhodite-za-sobstveno-zhilishte-v-bylgariia-sa-narasnali-s-117-za-godina-2468226",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50780/50780548/991-ratio-imot-kyshta-zhilishte.jpg"
+    },
     {
       "title": "Кремъл мълчи за възможно петролно споразумение САЩ-Русия",
       "url": "https://dariknews.bg/novini/sviat/kremyl-mylchi-za-vyzmozhno-petrolno-sporazumenie-sasht-rusiia-2468225",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391704/991-ratio-martin-jeger.jpg"
     },
     {
-      "title": "Домашно насилие във Вършец: Мъж заплаши сестра си с убийство, след като ѝ спря тока",
-      "url": "https://dariknews.bg/regioni/montana/domashno-nasilie-vyv-vyrshec-myzh-zaplashi-sestra-si-s-ubijstvo-sled-kato-spria-toka-2468206",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272908/991-ratio-domashno-nasilie.jpg"
+      "title": "Ботев Пловдив разпродаде „Колежа“ в чест на Илиян Филипов 05 Окт | 14:28",
+      "url": "https://dsport.bg/botev-plovdiv-razprodade-koleza-v-chest-na-ilian-filipov~241444.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute.og.png"
+    },
+    {
+      "title": "Очаквайте на живо: ЦСКА представя Маркус Гиздол 05 Окт | 14:20",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-cska-predstava-markus-gizdol~241443.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/cska-gisdol-announcement-in-the-mist.og.png"
     },
     {
       "title": "БФ Борба сезира прокуратурата за Весела Лечева и Белчо Горанов заради казуса с БОК 05 Окт | 14:05",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298641215.og.jpg"
-    },
-    {
-      "title": "„Отиваме да се борим!“: Филип Филипов готви топ селекция след бруталния жребий за BSC BETVAM на Световното! 05 Окт | 12:17",
-      "url": "https://dsport.bg/otivame-da-se-borim-filip-filipov-gotvi-top-selekcia-sled-brutalnia-zrebii-za-bsc-betvam-na-svetovnoto~241434.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/802393812_2903126036721726_6045333515962012141_n~1.og.jpg"
-    },
-    {
-      "title": "Епичен сблъсък на легенди! България срещу Германия в CS 1.6 шоумач 05 Окт | 12:10",
-      "url": "https://dsport.bg/epichen-sblasak-na-legendi-balgaria-srestu-germania-v-cs-1-6-shoumach~241433.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/age-27-2.og.jpg"
     }
   ]
 }
