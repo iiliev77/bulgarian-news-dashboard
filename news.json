@@ -1,12 +1,40 @@
 {
-  "updated": "2026-10-05T05:16:08.546662+00:00",
+  "updated": "2026-10-05T05:37:58.285492+00:00",
   "articles": [
+    {
+      "title": "Учени: Нарът може да помогне срещу трудна за лечение сърдечна болест",
+      "url": "https://dariknews.bg/novini/liubopitno/ucheni-naryt-mozhe-da-pomogne-sreshtu-trudna-za-lechenie-syrdechna-bolest-2468163",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50210/50210322/991-ratio-nar.jpg"
+    },
+    {
+      "title": "Джихадисти убиха близо 30 жители на село в Нигерия",
+      "url": "https://dariknews.bg/novini/sviat/dzhihadisti-ubiha-blizo-30-zhiteli-na-selo-v-nigeriia-2468162",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391577/991-ratio-nigeriia.jpg"
+    },
+    {
+      "title": "Летният сезон в Пампорово приключи със спад на нощувките, но ръст на туристите в зоните за активности",
+      "url": "https://dariknews.bg/regioni/Smolyan/letniiat-sezon-v-pamporovo-prikliuchi-sys-spad-na-noshtuvkite-no-ryst-na-turistite-v-zonite-za-aktivnosti-2468161",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50117/50117086/991-ratio-pamporovo.jpg"
+    },
     {
       "title": "Авария остави голяма част от Добрич без вода",
       "url": "https://dariknews.bg/regioni/dobrich/avariia-ostavi-goliama-chast-ot-dobrich-bez-voda-2468159",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51170/51170062/991-ratio-voda-cheshma.jpg"
+    },
+    {
+      "title": "Бразилия отива на балотаж: Лула срещу Болсонаро в битка за бъдещето на страната",
+      "url": "https://dariknews.bg/novini/sviat/braziliia-otiva-na-balotazh-lula-sreshtu-bolsonaro-v-bitka-za-bydeshteto-na-stranata-2468160",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
     },
     {
       "title": "Започват имунизациите срещу грип при деца с назална ваксина",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50713/50713390/991-ratio-pejo-peev.jpg"
     },
     {
-      "title": "Жълт код за слана е в сила в 11 области в понеделник (КАРТА)",
-      "url": "https://dariknews.bg/novini/bylgariia/zhylt-kod-za-slana-e-v-sila-v-11-oblasti-v-ponedelnik-karta-2468146",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Няма изненади в резултатите от гласуването на общите избори в Босна и Херцеговина",
-      "url": "https://dariknews.bg/novini/sviat/niama-iznenadi-v-rezultatite-ot-glasuvaneto-na-obshtite-izbori-v-bosna-i-hercegovina-2468151",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50952/50952515/991-ratio-izbori.jpg"
-    },
-    {
-      "title": "Нетаняху нареди проверка на сигурността за полетите към Израел",
-      "url": "https://dariknews.bg/novini/sviat/netaniahu-naredi-proverka-na-sigurnostta-za-poletite-kym-izrael-2468150",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51350/51350748/991-ratio-beniamin-netaniahu.jpg"
-    },
-    {
-      "title": "Кой притежава Луната?",
-      "url": "https://dariknews.bg/novini/liubopitno/koj-pritezhava-lunata-2468149",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50797/50797526/991-ratio-rozova-luna.jpg"
+      "title": "Пеп Гуардиола изненада всички - появи се на модно ревю в Париж 05 Окт | 08:13",
+      "url": "https://dsport.bg/pep-guardiola-iznenada-vsichki-poavi-se-na-modno-revu-v-pariz~241412.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2267868564.og.jpg"
     },
     {
       "title": "Жорже Жезус с протегната ръка към Кристиано Роналдо 05 Окт | 08:03",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-10-04-223255.og.png"
-    },
-    {
-      "title": "Зидан сравни Франция с Реал Мадрид 04 Окт | 22:25",
-      "url": "https://dsport.bg/zidan-sravni-francia-s-real-madrid~241402.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297740597.og.jpg"
     }
   ]
 }
