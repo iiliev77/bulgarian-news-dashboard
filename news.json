@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:41:50.156273+00:00",
+  "updated": "2026-10-06T15:56:23.199808+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Почина актрисата Нина Дамянова",
+      "url": "https://dariknews.bg/novini/bylgariia/pochina-aktrisata-nina-damianova-2468371",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392509/991-ratio-nina-damianova.jpg"
     },
     {
       "title": "Нов арест във Великобритания по разследването за тероризъм край „Феърфорд“",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392460/991-ratio-frenskata-atomna-podvodnica-vizhilan.jpg"
     },
     {
-      "title": "Отложиха делото за побоя над полицейския шеф в Русе: Подсъдим и трима адвокати не се явиха",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/otlozhiha-deloto-za-poboia-nad-policejskiia-shef-v-ruse-podsydim-i-trima-advokati-ne-se-iaviha-2468352",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51182/51182197/991-ratio-nikolaj-kozhuharov.jpg"
+      "title": "Нов шанс за леката атлетика в Плевен 06 Окт | 18:51",
+      "url": "https://dsport.bg/nov-shans-za-lekata-atletika-v-pleven~241559.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/06.10-9.og.jpg"
     },
     {
       "title": "Евролигата отхвърли първото предложение на НБА 06 Окт | 18:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/06.10-4~1.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Петев за националния отбор: Държави, които побеждавахме, вече са с три-четири крачки пред нас (ВИДЕО) 06 Окт | 16:39",
-      "url": "https://dsport.bg/petev-za-nacionalnia-otbor-darzavi-koito-pobezdavahme-veche-sa-s-tri-chetiri-krachki-pred-nas-video~241535.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/473560-1-2-2.og.jpg"
     }
   ]
 }
