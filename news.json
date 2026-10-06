@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:24:20.270144+00:00",
+  "updated": "2026-10-06T09:40:12.231404+00:00",
   "articles": [
     {
       "title": "Атака с дронове в български води, Румен Радев - абсолютно недопустима атака",
@@ -7,6 +7,41 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Война на дронове: Русия или Украйна удари корабите в Черно море",
+      "url": "https://dariknews.bg/novini/sviat/vojna-na-dronove-rusiia-ili-ukrajna-udari-korabite-v-cherno-more-2468323",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51169/51169938/991-ratio-dronove-raketi.jpg"
+    },
+    {
+      "title": "Затвориха кухни в Пазарджик, приготвящи стотици порции дневно за ученици",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/zatvoriha-kuhni-v-pazardzhik-prigotviashti-stotici-porcii-dnevno-za-uchenici-2468324",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392352/991-ratio-stol.jpg"
+    },
+    {
+      "title": "Фискалният съвет предупреждава за дългова спирала, лихвен натиск и риск от рецесия",
+      "url": "https://dariknews.bg/novini/bylgariia/fiskalniiat-syvet-preduprezhdava-za-dylgova-spirala-lihven-natisk-i-risk-ot-recesiia-2468321",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51180/51180898/991-ratio-evro-lev-bylgariia.jpg"
+    },
+    {
+      "title": "Къде няма да има вода в София",
+      "url": "https://dariknews.bg/regioni/sofiia/kyde-niama-da-ima-voda-v-sofiia-2468320",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51051/51051528/991-ratio-voda-kuche.jpg"
+    },
+    {
+      "title": "Черно море: От бойно поле до рискова зона за търговското корабоплаване",
+      "url": "https://dariknews.bg/novini/sviat/cherno-more-ot-bojno-pole-do-riskova-zona-za-tyrgovskoto-koraboplavane-2468322",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51286/51286297/991-ratio-cherno-more.jpg"
     },
     {
       "title": "Възрастен мъж стреля с пушка на улица в Сливен",
@@ -107,39 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51363/51363756/991-ratio-donald-trymp.jpg"
     },
     {
-      "title": "15-годишен тийнейджър с положителна проба за алкохол подкара кола и се заби в стълб",
-      "url": "https://dariknews.bg/regioni/stara-zagora/15-godishen-tijnejdzhyr-s-polozhitelna-proba-za-alkohol-podkara-kola-i-se-zabi-v-stylb-2468304",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51240/51240400/991-ratio-shofior-mlad-shofior.jpg"
+      "title": "Гръмна огромен скандал свързан с Мондиал 2026 06 Окт | 12:14",
+      "url": "https://dsport.bg/gramna-ogromen-skandal-svarzan-s-mondial-2026~241516.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2283166447.og.jpg"
     },
     {
-      "title": "Иззеха близо 1000 вейпа и пълнители с канабис от производствена база в Костинброд",
-      "url": "https://dariknews.bg/regioni/sofiia/izzeha-blizo-1000-vejpa-i-pylniteli-s-kanabis-ot-proizvodstvena-baza-v-kostinbrod-2468305",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392310/991-ratio-vejpove.jpg"
-    },
-    {
-      "title": "Бивш зам.-министър на отбраната: Войната се ожесточава, навлиза в български и румънски води (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/bivsh-zam.-ministyr-na-otbranata-vojnata-se-ozhestochava-navliza-v-bylgarski-i-rumynski-vodi-video-2468301",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "След смъртта на руска изследователка: Какво е белодробна чума и колко е опасна",
-      "url": "https://dariknews.bg/novini/sviat/sled-smyrtta-na-ruska-izsledovatelka-kakvo-e-belodrobna-chuma-i-kolko-e-opasna-2468303",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47187/47187177/991-ratio-chuma.jpg"
-    },
-    {
-      "title": "Единият потъна, другият пламна: Кои са двата кораба, атакувани с дронове край България?",
-      "url": "https://dariknews.bg/novini/bylgariia/ediniiat-potyna-drugiiat-plamna-koi-sa-dvata-koraba-atakuvani-s-dronove-kraj-bylgariia-2468300",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384396/991-ratio-ukrainski-boen-dron.jpg"
+      "title": "Диоманде излита: стойността на звездата на Реал Мадрид скочи до 120 млн. евро 06 Окт | 12:06",
+      "url": "https://dsport.bg/diomande-izlita-stoinostta-na-zvezdata-na-real-madrid-skochi-do-120-mln-evro~241515.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294928120.og.jpg"
     },
     {
       "title": "Край на сезона за Яник Синер 06 Окт | 11:56",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/mrsasa1.og.jpg"
-    },
-    {
-      "title": "Кой ще зимува на върха? Спечели ръчен часовник с dsport и Бетвам! 06 Окт | 10:47",
-      "url": "https://dsport.bg/koi-ste-zimuva-na-varha-specheli-rachen-chasovnik-s-dsport-i-betvam~241507.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/giveaway-with-roulette-watch-and-sports-car.og.png"
-    },
-    {
-      "title": "Важна седмица за Рафиня 06 Окт | 10:41",
-      "url": "https://dsport.bg/vazna-sedmica-za-rafina~241506.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294351300.og.jpg"
     }
   ]
 }
