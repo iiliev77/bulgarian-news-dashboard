@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:05:09.838343+00:00",
+  "updated": "2026-10-06T14:24:38.818654+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "След сигнали за неизплатени ренти: Счетоводителка е обвинена за присвояване на близо 190 000 лева",
+      "url": "https://dariknews.bg/regioni/dobrich/sled-signali-za-neizplateni-renti-schetovoditelka-e-obvinena-za-prisvoiavane-na-blizo-190-000-leva-2468363",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38300/38300232/991-ratio-dokumenti-dokument.jpg"
     },
     {
       "title": "Русия е поразила един от мостовете над река Днепър в Киев (ВИДЕО)",
@@ -23,18 +30,18 @@
       "image": "https://m.netinfo.bg/media/images/51024/51024221/991-ratio-fentanil.jpg"
     },
     {
+      "title": "Тежко е състоянието на един от пострадалите моряци при атаката с дронове в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/tezhko-e-systoianieto-na-edin-ot-postradalite-moriaci-pri-atakata-s-dronove-v-cherno-more-2468362",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
+    },
+    {
       "title": "Трима мъже са задържани непосредствено след сделки с наркотични вещества в столицата",
       "url": "https://dariknews.bg/regioni/sofiia/trima-myzhe-sa-zadyrzhani-neposredstveno-sled-sdelki-s-narkotichni-veshtestva-v-stolicata-2468359",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392467/991-ratio-narkotici.jpg"
-    },
-    {
-      "title": "Тежко е състоянието на един от пострадалите моряци при атаката в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/tezhko-e-systoianieto-na-edin-ot-postradalite-moriaci-pri-atakata-v-cherno-more-2468362",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
       "title": "Пожарната в Стара Загора грейна с нов облик след ремонт за над 206 000 евро (СНИМКИ)",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
     },
     {
-      "title": "Затвор за двама мъже, душили с колан таксиметров шофьор, докато го ограбвали",
-      "url": "https://dariknews.bg/regioni/sofiia/zatvor-za-dvama-myzhe-dushili-s-kolan-taksimetrov-shofior-dokato-go-ograbvali-2468343",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51038/51038849/991-ratio-taksi.jpg"
+      "title": "Полицията в Италия наказа куп фенове заради масово сбиване в Торино 06 Окт | 17:17",
+      "url": "https://dsport.bg/policiata-v-italia-nakaza-kup-fenove-zaradi-masovo-sbivane-v-torino~241551.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2289605142.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик радио - 06.10.2026 г. 06 Окт | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/06.10-2~1.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Ивайло Петев за новото предизвикателство в Турция: Напомня ми за Лудогорец от преди 15 години (ВИДЕО) 06 Окт | 15:22",
-      "url": "https://dsport.bg/ivailo-petev-za-novoto-predizvikatelstvo-v-turcia-napomna-mi-za-ludogorec-ot-predi-15-godini~241534.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_5~160.og.jpg"
     }
   ]
 }
