@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:54:47.093510+00:00",
+  "updated": "2026-10-06T10:05:54.334494+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -23,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/51169/51169938/991-ratio-dronove-raketi.jpg"
     },
     {
-      "title": "След атаката с дронове: Откараха ранените моряци в болница във Варна (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/varna/sled-atakata-s-dronove-otkaraha-ranenite-moriaci-v-bolnica-vyv-varna-snimki-2468325",
+      "title": "След атаката с дронове: Откараха ранените моряци в болници във Варна (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/varna/sled-atakata-s-dronove-otkaraha-ranenite-moriaci-v-bolnici-vyv-varna-snimki-2468325",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51249/51249900/991-ratio-policiia-sireni.jpg"
     },
     {
+      "title": "Зверев ще завърши 2026 година като номер 1 06 Окт | 12:54",
+      "url": "https://dsport.bg/zverev-ste-zavarshi-2026-godina-kato-nomer-1~241520.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298524820.og.jpg"
+    },
+    {
       "title": "Разделение във Висшата лига: какво наказание очаква Манчестър Сити след шокиращата присъда? 06 Окт | 12:42",
       "url": "https://dsport.bg/razdelenie-vav-visshata-liga-kakvo-nakazanie-ochakva-manchestar-siti-sled-shokirastata-prisada~241519.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297302113.og.jpg"
-    },
-    {
-      "title": "Напрежение в Манчестър Сити: Енцо Мареска събира отбора за ключов разговор 06 Окт | 11:10",
-      "url": "https://dsport.bg/naprezenie-v-manchestar-siti-enco-mareska-sabira-otbora-za-kluchov-razgovor~241510.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296222774.og.jpg"
     }
   ]
 }
