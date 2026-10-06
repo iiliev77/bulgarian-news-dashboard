@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:05:54.334494+00:00",
+  "updated": "2026-10-06T10:24:04.156555+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Майкъл Дъглас проговори за раздялата с Катрин Зита-Джоунс: Бракът е трудна работа",
+      "url": "https://dariknews.bg/novini/liubopitno/majkyl-dyglas-progovori-za-razdialata-s-katrin-zita-dzhouns-brakyt-e-trudna-rabota-2468327",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47925/47925645/991-ratio-majkyl-dyglas-i-katrin-zita-dzhouns.jpg"
+    },
+    {
+      "title": "Фатална катастрофа в Пазарджишко: 20-годишна шофьорка блъсна и уби пешеходка",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/fatalna-katastrofa-v-pazardzhishko-20-godishna-shofiorka-blysna-i-ubi-peshehodka-2468328",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
     },
     {
       "title": "Световните агенции: Дронове удариха два търговски кораба край България",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/47752/47752575/991-ratio-kanada-flag.jpg"
     },
     {
-      "title": "Задържаха шофьор с 3.5 промила алкохол в Смолян",
-      "url": "https://dariknews.bg/regioni/Smolyan/zadyrzhaha-shofior-s-3.5-promila-alkohol-v-smolian-2468314",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51213/51213053/991-ratio-piian-shofior.jpg"
+      "title": "Пирес събира футболно съзвездие на юбилеен мач в Метц 06 Окт | 13:21",
+      "url": "https://dsport.bg/pires-sabira-futbolno-sazvezdie-na-ubileen-mach-v-metc~241522.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2238584858.og.jpg"
     },
     {
-      "title": "Срутена стена затисна мъж при опит за кражба в Монтанско",
-      "url": "https://dariknews.bg/regioni/montana/srutena-stena-zatisna-myzh-pri-opit-za-krazhba-v-montansko-2468308",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51249/51249900/991-ratio-policiia-sireni.jpg"
+      "title": "Кои световни шампиони ще пропуснат последния танц на Меси с Аржентина? 06 Окт | 13:06",
+      "url": "https://dsport.bg/koi-svetovni-shampioni-ste-propusnat-poslednia-tanc-na-mesi-s-arzentina~241521.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1450096665.og.jpg"
     },
     {
       "title": "Зверев ще завърши 2026 година като номер 1 06 Окт | 12:54",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/575858~1.og.jpg"
-    },
-    {
-      "title": "Радослав Росенов се записа на стената на европейската боксова слава на България 06 Окт | 11:30",
-      "url": "https://dsport.bg/radoslav-rosenov-se-zapisa-na-stenata-na-evropeiskata-boksova-slava-na-balgaria~241512.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1029696~1.og.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо с ултиматум към Португалия 06 Окт | 11:20",
-      "url": "https://dsport.bg/kristiano-ronaldo-s-ultimatum-kam-portugalia~241511.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297302113.og.jpg"
     }
   ]
 }
