@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:44:42.330073+00:00",
+  "updated": "2026-10-06T13:00:29.969906+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Министър Петрова: Сигурността на Черно море е неразделна от сигурността на Европа",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-sigurnostta-na-cherno-more-e-nerazdelna-ot-sigurnostta-na-evropa-2468351",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356691/991-ratio-velislava-petrova.jpg"
+    },
+    {
+      "title": "След схемата за източване на НЗОК: стартират масови проверки във всички 28 области у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-shemata-za-iztochvane-na-nzok-startirat-masovi-proverki-vyv-vsichki-28-oblasti-u-nas-2468350",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392453/991-ratio-katia-ivkova.jpg"
     },
     {
       "title": "Мъж е в критично състояние след падане с АТВ, откаран е с медицински хеликоптер до УМБАЛ-Бургас",
@@ -86,8 +100,8 @@
       "image": "https://m.netinfo.bg/media/images/50742/50742865/991-ratio-policiia-mvr-kat-patrulka.jpg"
     },
     {
-      "title": "Схема за милиони: Как са отчитани фиктивни хоспитализации в Пловдив",
-      "url": "https://dariknews.bg/regioni/plovdiv/shema-za-milioni-kak-sa-otchitani-fiktivni-hospitalizacii-v-plovdiv-2468337",
+      "title": "12 млн. евро от НЗОК и 24 000 пътеки: Как е действала схемата с фиктивни пациенти в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/12-mln.-evro-ot-nzok-i-24-000-pyteki-kak-e-dejstvala-shemata-s-fiktivni-pacienti-v-plovdiv-2468337",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
     },
     {
-      "title": "Инициативата „Месец на онлайн безопасността“ кани учители от цялата страна да проведат тематични занимания с учениците си",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/iniciativata-mesec-na-onlajn-bezopasnostta-kani-uchiteli-ot-cialata-strana-da-provedat-tematichni-zanimaniia-s-uchenicite-si-2468246",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391927/991-ratio-yettel.jpg"
-    },
-    {
-      "title": "Радев: Не мога да кажа от коя страна са дроновете – или са руски, или украински",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-ne-moga-da-kazha-ot-koia-strana-sa-dronovete-ili-sa-ruski-ili-ukrainski-2468331",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351091/991-ratio-rumen-radev-sreshta-nato.jpg"
+      "title": "Започна реновиране на терена в Горна Оряховица (ВИДЕО) 06 Окт | 15:46",
+      "url": "https://dsport.bg/zapochna-renovirane-na-terena-v-gorna-orahovica-video~241545.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/837618.og.jpg"
     },
     {
       "title": "Телевизията на Реал Мадрид скри унизителната загуба в женското Ел Класико 06 Окт | 15:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298248433.og.jpg"
-    },
-    {
-      "title": "Нов интерес от Англия към Ендрик 06 Окт | 14:41",
-      "url": "https://dsport.bg/nov-interes-ot-anglia-kam-endrik~241532.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2295476055.og.jpg"
     }
   ]
 }
