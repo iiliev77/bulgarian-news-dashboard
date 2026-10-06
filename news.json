@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T11:22:34.194020+00:00",
+  "updated": "2026-10-06T11:37:01.233760+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "12 млн. евро източени от НЗОК за хиляди хоспитализации: 10 медици са задържани в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/12-mln.-evro-iztocheni-ot-nzok-za-hiliadi-hospitalizacii-10-medici-sa-zadyrzhani-v-plovdiv-2468337",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338461/991-ratio-nzok.jpg"
     },
     {
       "title": "„Възраждане“: Призоваваме Радев да забрани експорта на оръжие за Украйна, както и финансовата помощ за Киев",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51286/51286297/991-ratio-cherno-more.jpg"
     },
     {
-      "title": "Възрастен мъж стреля с пушка на улица в Сливен",
-      "url": "https://dariknews.bg/regioni/sliven/vyzrasten-myzh-strelia-spushka-na-ulica-v-sliven-2468319",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51371/51371134/991-ratio-myzh-pushka.jpg"
+      "title": "Добри новини за Ханзи Флик, Френки де Йонг възобнови тренировки 06 Окт | 14:23",
+      "url": "https://dsport.bg/dobri-novini-za-hanzi-flik-frenki-de-iong-vazobnovi-trenirovki~241531.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2291171971.og.jpg"
     },
     {
       "title": "Лудогорец пуска билетите за мача Арда 06 Окт | 14:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1450096665.og.jpg"
-    },
-    {
-      "title": "Зверев ще завърши 2026 година като номер 1 06 Окт | 12:54",
-      "url": "https://dsport.bg/zverev-ste-zavarshi-2026-godina-kato-nomer-1~241520.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298524820.og.jpg"
     }
   ]
 }
