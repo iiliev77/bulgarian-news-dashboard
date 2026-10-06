@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:55:08.997972+00:00",
+  "updated": "2026-10-06T15:09:00.448054+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -14,6 +14,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
+    },
+    {
+      "title": "Съдът остави в ареста Ивайло Колев, сочен за ръководна фигура в „Кръв и чест“",
+      "url": "https://dariknews.bg/novini/bylgariia/sydyt-ostavi-v-aresta-ivajlo-kolev-sochen-za-rykovodna-figura-v-kryv-i-chest-2468366",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392497/991-ratio-kryv-i-chest.jpg"
     },
     {
       "title": "Деца от Попово върнаха изгубен портфейл и получиха грамоти за постъпката си",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50834/50834806/991-ratio-reka-dunav-vidin-korab-korab-reka-dunav.jpg"
     },
     {
-      "title": "ВиК извършва реконструкция на довеждащия водопровод за Ловеч",
-      "url": "https://dariknews.bg/regioni/lovech/vik-izvyrshva-rekonstrukciia-na-dovezhdashtiia-vodoprovod-za-lovech-2468346",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50722/50722394/991-ratio-voda-bez-voda-cheshma.jpg"
+      "title": "BETVAM и VAMBOS обединяват сили в името на аматьорския спорт 06 Окт | 18:06",
+      "url": "https://dsport.bg/betvam-i-vambos-obedinavat-sili-v-imeto-na-amatorskia-sport~241555.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gemini_generated_image_6fgxwa6fgxwa6fgx.og.jpg"
+    },
+    {
+      "title": "Ас на Левски отново тренира 06 Окт | 17:54",
+      "url": "https://dsport.bg/as-na-levski-otnovo-trenira~241554.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/06.10-6.og.jpg"
     },
     {
       "title": "В Испания гърмят: Мбапе иска да си ходи 06 Окт | 17:40",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/lionel-messi.og.jpg"
-    },
-    {
-      "title": "Непобедим! Джокович отново триумфира в Пекин 06 Окт | 16:00",
-      "url": "https://dsport.bg/nepobedim-dzokovich-otnovo-triumfira-v-pekin~241546.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298879714.og.jpg"
-    },
-    {
-      "title": "Започна реновиране на терена в Горна Оряховица (ВИДЕО) 06 Окт | 15:46",
-      "url": "https://dsport.bg/zapochna-renovirane-na-terena-v-gorna-orahovica-video~241545.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/837618.og.jpg"
     }
   ]
 }
