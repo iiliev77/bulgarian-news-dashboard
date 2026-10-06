@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T11:05:15.910514+00:00",
+  "updated": "2026-10-06T11:22:34.194020+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,34 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "„Възраждане“: Призоваваме Радев да забрани експорта на оръжие за Украйна, както и финансовата помощ за Киев",
+      "url": "https://dariknews.bg/novini/bylgariia/vyzrazhdane-prizovavame-radev-da-zabrani-eksporta-na-oryzhie-za-ukrajna-kakto-i-finansovata-pomosht-za-kiev-2468336",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51224/51224068/991-ratio-concho-ganev.jpg"
+    },
+    {
+      "title": "Незаконна сеч: Конфискувани кубици дървесина и превозни средства в София",
+      "url": "https://dariknews.bg/regioni/sofiia/nezakonna-sech-konfiskuvani-kubici-dyrvesina-i-prevozni-sredstva-v-sofiia-2468335",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50273/50273249/991-ratio-shema-dyrva.jpg"
+    },
+    {
+      "title": "Теглят номерата на машините за гласуване за президентските избори",
+      "url": "https://dariknews.bg/novini/bylgariia/tegliat-nomerata-na-mashinite-za-glasuvane-za-prezidentskite-izbori-2468333",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51298/51298355/991-ratio-mashina-glasuvane-izbori.jpg"
+    },
+    {
+      "title": "Зеленски: Русия атакува търговски кораби в Черно море",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-rusiia-atakuva-tyrgovski-korabi-v-cherno-more-2468334",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388042/991-ratio-volodimir-zelenski.jpg"
     },
     {
       "title": "Задържаха дилър на хероин край Сандански",
@@ -23,8 +51,8 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391927/991-ratio-yettel.jpg"
     },
     {
-      "title": "Радев: Няма как да бъдат задействани член 4 и 5 по договора на НАТО, има и по-тежки атаки",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-niama-kak-da-bydat-zadejstvani-chlen-4-i-5-po-dogovora-na-nato-ima-i-po-tezhki-ataki-2468331",
+      "title": "Радев: Не мога да кажа от коя страна са дроновете – или са руски, или украински",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-ne-moga-da-kazha-ot-koia-strana-sa-dronovete-ili-sa-ruski-ili-ukrainski-2468331",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51351/51351091/991-ratio-rumen-radev-sreshta-nato.jpg"
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51371/51371134/991-ratio-myzh-pushka.jpg"
     },
     {
-      "title": "Почиствала градината си и паднала в дере: Спасиха 87-годишна жена в Девин",
-      "url": "https://dariknews.bg/regioni/Smolyan/pochistvala-gradinata-si-i-padnala-v-dere-spasiha-87-godishna-zhena-v-devin-2468317",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392334/991-ratio-balchik-obshtestvo-koza.jpg"
+      "title": "Лудогорец пуска билетите за мача Арда 06 Окт | 14:16",
+      "url": "https://dsport.bg/ludogorec-puska-biletite-za-macha-arda~241530.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/06.10-1~1.og.jpg"
     },
     {
-      "title": "Какво е изключителната икономическа зона и какви права има България в нея",
-      "url": "https://dariknews.bg/novini/bylgariia/kakvo-e-izkliuchitelnata-ikonomicheska-zona-i-kakvi-prava-ima-bylgariia-v-neia-2468315",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Нови сигнали за бомби в страната",
-      "url": "https://dariknews.bg/regioni/lovech/novi-signali-za-bombi-v-stranata-2468316",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391661/991-ratio-signal-za-bolmba-lovech.jpg"
-    },
-    {
-      "title": "Малко италианско градче разкрива тайните на дълголетието",
-      "url": "https://dariknews.bg/novini/liubopitno/malko-italiansko-gradche-razkriva-tajnite-na-dylgoletieto-2468318",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47978/47978802/991-ratio-stoletnici.jpg"
+      "title": "Карлос Алкарас защити титлата в Токио 06 Окт | 14:09",
+      "url": "https://dsport.bg/karlos-alkaras-zastiti-titlata-v-tokio~241529.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298857996.og.jpg"
     },
     {
       "title": "В Левски са на нокти за Кристиан Димитров 06 Окт | 13:59",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298524820.og.jpg"
-    },
-    {
-      "title": "Разделение във Висшата лига: какво наказание очаква Манчестър Сити след шокиращата присъда? 06 Окт | 12:42",
-      "url": "https://dsport.bg/razdelenie-vav-visshata-liga-kakvo-nakazanie-ochakva-manchestar-siti-sled-shokirastata-prisada~241519.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/cftra.og.jpg"
-    },
-    {
-      "title": "Ботев Пд продаде 1000 билета за правостоящи за мача срещу Славия 06 Окт | 12:33",
-      "url": "https://dsport.bg/botev-pd-prodade-1000-bileta-za-pravostoasti-za-macha-srestu-slavia~241518.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute~1.og.png"
     }
   ]
 }
