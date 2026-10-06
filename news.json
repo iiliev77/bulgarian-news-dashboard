@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:22:23.665640+00:00",
+  "updated": "2026-10-06T08:38:35.149797+00:00",
   "articles": [
     {
       "title": "Атака с дронове в български води",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Срутена стена затисна мъж при опит за кражба в Монтанско",
+      "url": "https://dariknews.bg/regioni/montana/srutena-stena-zatisna-myzh-pri-opit-za-krazhba-v-montansko-2468308",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51249/51249900/991-ratio-policiia-sireni.jpg"
     },
     {
       "title": "Откриха снаряд в имот в Кюстендил",
@@ -65,8 +72,8 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Василев: Имаме уверението на другите политически сили за извънредно заседание на НС заради „Петричкия Ескобар“",
-      "url": "https://dariknews.bg/novini/bylgariia/vasilev-imame-uverenieto-na-drugite-politicheski-sili-za-izvynredno-zasedanie-na-ns-zaradi-petrichkiia-eskobar-2468299",
+      "title": "ПП и ДБ искат извънредно заседание на НС заради „Петричкия Ескобар“",
+      "url": "https://dariknews.bg/novini/bylgariia/pp-i-db-iskat-izvynredno-zasedanie-na-ns-zaradi-petrichkiia-eskobar-2468299",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
-      "title": "Навикът да ядем късно вечер: Как влияе на организма",
-      "url": "https://dariknews.bg/novini/liubopitno/navikyt-da-iadem-kysno-vecher-kak-vliiae-na-organizma-2468289",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/38561/38561937/991-ratio-hranene.jpg"
+      "title": "Напрежение в Манчестър Сити: Енцо Мареска събира отбора за ключов разговор 06 Окт | 11:10",
+      "url": "https://dsport.bg/naprezenie-v-manchestar-siti-enco-mareska-sabira-otbora-za-kluchov-razgovor~241510.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296222774.og.jpg"
     },
     {
       "title": "„Мач за Мач“: Няма светлина за националите, УБИХА Илиян Филипов, ЦСКА и Гиздол стъпиха на АРМИЯТА 06 Окт | 11:00",
@@ -147,6 +154,13 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/761fbf9b-7a4a-4656-aa8a-9d94eb3296ff.og.jpg"
+    },
+    {
+      "title": "Дезире Дуе - невероятният талисман на Франция и ПСЖ, който никога не губи, когато бележи 06 Окт | 10:59",
+      "url": "https://dsport.bg/dezire-due-neveroatniat-talisman-na-francia-i-psz-koito-nikoga-ne-gubi-kogato-belezi~241509.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297916864.og.jpg"
     },
     {
       "title": "Грандиозна почит за Меси в Росарио часове преди последния му мач за Аржентина 06 Окт | 10:51",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/cuatr.og.jpg"
-    },
-    {
-      "title": "Емоционалният пост на Меси ден преди сбогуването му с Аржентина: Ще ми липсват тези моменти 06 Окт | 09:53",
-      "url": "https://dsport.bg/emocionalniat-post-na-mesi-den-predi-sboguvaneto-mu-s-arzentina-ste-mi-lipsvat-tezi-momenti~241501.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/lionel-messi_w2.og.jpg"
-    },
-    {
-      "title": "Опитното зайче 06 Окт | 09:41",
-      "url": "https://dsport.bg/opitnoto-zaiche~241500.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1036006~2.og.jpg"
     }
   ]
 }
