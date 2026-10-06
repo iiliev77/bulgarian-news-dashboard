@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:24:04.156555+00:00",
+  "updated": "2026-10-06T10:39:16.146222+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Тревога в Русия: Съобщават за втора жертва на чумата, властите отричат",
+      "url": "https://dariknews.bg/novini/sviat/trevoga-v-rusiia-syobshtavat-za-vtora-zhertva-na-chumata-vlastite-otrichat-2468330",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43639/43639595/991-ratio-bubonna-chuma.jpg"
+    },
+    {
+      "title": "Басейнова дирекция-Варна започна извънредна проверка при нос Калиакра, Бяла и Созопол",
+      "url": "https://dariknews.bg/regioni/varna/basejnova-direkciia-varna-zapochna-izvynredna-proverka-pri-nos-kaliakra-biala-i-sozopol-2468329",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392380/991-ratio-moriaci-raneni-cherno-more.jpg"
     },
     {
       "title": "Майкъл Дъглас проговори за раздялата с Катрин Зита-Джоунс: Бракът е трудна работа",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50959/50959646/991-ratio-taksi.jpg"
     },
     {
-      "title": "С грижа за майките: Велико Търново инсталира специална пейка за кърмене",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/s-grizha-za-majkite-veliko-tyrnovo-instalira-specialna-pejka-za-kyrmene-2468309",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332796/991-ratio-majka-i-bebe.jpg"
-    },
-    {
-      "title": "Сепаратистите спечелиха изборите в Квебек, но останаха без мнозинство",
-      "url": "https://dariknews.bg/novini/sviat/separatistite-specheliha-izborite-v-kvebek-no-ostanaha-bez-mnozinstvo-2468310",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47752/47752575/991-ratio-kanada-flag.jpg"
+      "title": "Монументал e готов за последното шоу на Лионел Меси с националния отбор на Аржентина 06 Окт | 13:28",
+      "url": "https://dsport.bg/monumental-e-gotov-za-poslednoto-shou-na-lionel-mesi-s-nacionalnia-otbor-na-arzentina~241523.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/messiriver.og.jpg"
     },
     {
       "title": "Пирес събира футболно съзвездие на юбилеен мач в Метц 06 Окт | 13:21",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2285791205.og.jpg"
-    },
-    {
-      "title": "Локомотив София обяви цена от 10 евро за билетите за домакинските мачове на отбора до края на сезона 06 Окт | 11:40",
-      "url": "https://dsport.bg/lokomotiv-sofia-obavi-cena-ot-10-evro-za-biletite-za-domakinskite-machove-na-otbora-do-kraa-na-sezona~241513.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/575858~1.og.jpg"
     }
   ]
 }
