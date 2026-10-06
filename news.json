@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:12:31.639234+00:00",
+  "updated": "2026-10-06T20:30:21.318973+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Брокерката Пламена Денчева беше елиминирана от „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/brokerkata-plamena-dencheva-beshe-eliminirana-ot-igri-na-voliata-2468382",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392628/991-ratio-f.jpg"
+    },
+    {
+      "title": "„Моля ви, моля ви - защитете се“: Зеленски призова украинците да се подготвят за предстоящ руски масиран удар",
+      "url": "https://dariknews.bg/novini/sviat/molia-vi-molia-vi-zashtitete-se-zelenski-prizova-ukraincite-da-se-podgotviat-za-predstoiasht-ruski-masiran-udar-2468381",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51322/51322807/991-ratio-pushek-pozhar-aec.jpg"
     },
     {
       "title": "Русия: Танкер се запали в Черно море близо до руския град Сочи",
@@ -128,21 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
-      "title": "Трима мъже са задържани непосредствено след сделки с наркотични вещества в столицата",
-      "url": "https://dariknews.bg/regioni/sofiia/trima-myzhe-sa-zadyrzhani-neposredstveno-sled-sdelki-s-narkotichni-veshtestva-v-stolicata-2468359",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392467/991-ratio-narkotici.jpg"
+      "title": "Нова звезда на Италия се контузи, Наполи го губи за няколко седмици 06 Окт | 23:24",
+      "url": "https://dsport.bg/antonio-vergara-napoli-kontuzia-nacionalen-otbor-italia~241574.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298922396.og.jpg"
     },
     {
-      "title": "Пожарната в Стара Загора грейна с нов облик след ремонт за над 206 000 евро (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/pozharnata-v-stara-zagora-grejna-s-nov-oblik-sled-remont-za-nad-206-000-evro-snimki-2468357",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392462/991-ratio-pozharna-stara-zagora.jpg"
-    },
-    {
-      "title": "На живо: България удвои срещу Люксембург, Атанас Илиев със страхотен гол 06 Окт | 23:11",
+      "title": "На живо: България води на Люксембург, натиск на домакините 06 Окт | 23:22",
       "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037371.og.jpg"
-    },
-    {
-      "title": "Норвежката футболна федерация подаде жалба до ФИФА 06 Окт | 21:18",
-      "url": "https://dsport.bg/norvezkata-futbolna-federacia-podade-zalba-do-fifa~241566.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1838814766-1-1-1-1~2.og.jpg"
     }
   ]
 }
