@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:14:36.413812+00:00",
+  "updated": "2026-10-06T18:34:36.603874+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
     },
     {
+      "title": "Тъжен и нервен край за България U21 в квалификациите 06 Окт | 21:25",
+      "url": "https://dsport.bg/tazen-i-nerven-krai-za-balgaria-u21-v-kvalifikaciite~241567.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037371.og.jpg"
+    },
+    {
+      "title": "Норвежката футболна федерация подаде жалба до ФИФА 06 Окт | 21:18",
+      "url": "https://dsport.bg/norvezkata-futbolna-federacia-podade-zalba-do-fifa~241566.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1838814766-1-1-1-1~2.og.jpg"
+    },
+    {
       "title": "Кирил Десподов отново тренира с ПАОК 06 Окт | 21:04",
       "url": "https://dsport.bg/kiril-despodov-otnovo-trenira-s-paok~241565.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2265144794-1-.og.jpg"
-    },
-    {
-      "title": "Иван Иванов тръгна убедително на турнир в Италия 06 Окт | 19:02",
-      "url": "https://dsport.bg/ivan-ivanov-tragna-ubeditelno-na-turnir-v-italia~241558.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/838540-1-1.og.jpg"
-    },
-    {
-      "title": "Нов шанс за леката атлетика в Плевен 06 Окт | 18:51",
-      "url": "https://dsport.bg/nov-shans-za-lekata-atletika-v-pleven~241559.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/06.10-9.og.jpg"
     }
   ]
 }
