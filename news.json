@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:53:01.179948+00:00",
+  "updated": "2026-10-06T14:05:09.838343+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -9,11 +9,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Русия е поразила един от мостовете над река Днепър в Киев (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-e-porazila-edin-ot-mostovete-nad-reka-dnepyr-v-kiev-video-2468360",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392470/991-ratio-most-ukrajna.jpg"
+    },
+    {
+      "title": "Задържаха дилър във Варна с над 1 кг фентанил (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/varna/zadyrzhaha-dilyr-vyv-varna-s-nad-1-kg-fentanil-snimki-2468361",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51024/51024221/991-ratio-fentanil.jpg"
+    },
+    {
       "title": "Трима мъже са задържани непосредствено след сделки с наркотични вещества в столицата",
       "url": "https://dariknews.bg/regioni/sofiia/trima-myzhe-sa-zadyrzhani-neposredstveno-sled-sdelki-s-narkotichni-veshtestva-v-stolicata-2468359",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392467/991-ratio-narkotici.jpg"
+    },
+    {
+      "title": "Тежко е състоянието на един от пострадалите моряци при атаката в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/tezhko-e-systoianieto-na-edin-ot-postradalite-moriaci-pri-atakata-v-cherno-more-2468362",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
       "title": "Пожарната в Стара Загора грейна с нов облик след ремонт за над 206 000 евро (СНИМКИ)",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51038/51038849/991-ratio-taksi.jpg"
     },
     {
-      "title": "Пожар на голям фронт избухна край Болярово, в гасенето се включи хеликоптер „Кугър“",
-      "url": "https://dariknews.bg/regioni/yambol/pozhar-na-goliam-front-izbuhna-kraj-boliarovo-v-gaseneto-se-vkliuchi-helikopter-kugyr-2468342",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50869/50869352/991-ratio-pozhar-pozhar-gora.jpg"
+      "title": "Спортното шоу на Дарик радио - 06.10.2026 г. 06 Окт | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-06-10-2026-g~241550.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-06-170145.og.png"
     },
     {
-      "title": "Президентът Йотова свиква Консултативния съвет за национална сигурност",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-iotova-svikva-konsultativniia-syvet-za-nacionalna-sigurnost-2468341",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
-    },
-    {
-      "title": "Моряк от единия атакуван кораб: Мисля, че руснаците ни пуснаха подводна бомба, защото возехме украински товар",
-      "url": "https://dariknews.bg/novini/bylgariia/moriak-ot-ediniia-atakuvan-korab-mislia-che-rusnacite-ni-pusnaha-podvodna-bomba-zashtoto-vozehme-ukrainski-tovar-2468340",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Кискинов влезе в основната схема на турнир в Италия, Иван Иванов също участва 06 Окт | 16:58",
+      "url": "https://dsport.bg/kiskinov-vleze-v-osnovnata-shema-na-turnir-v-italia-ivan-ivanov-sasto-uchastva~241549.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/06.10-4~1.og.jpg"
     },
     {
       "title": "Ексклузивно Петев за националния отбор: Държави, които побеждавахме, вече са с три-четири крачки пред нас (ВИДЕО) 06 Окт | 16:39",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_5~160.og.jpg"
-    },
-    {
-      "title": "Световен шампион с унищожителна критика към Роналдо: Егото му го изяжда, всичко е съсипано 06 Окт | 15:19",
-      "url": "https://dsport.bg/svetoven-shampion-s-unistozitelna-kritika-kam-ronaldo-egoto-mu-go-izazda-vsichko-e-sasipano~241542.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297435062-1.og.jpg"
-    },
-    {
-      "title": "Лионел Меси става герой на Disney в нов анимационен сериал 06 Окт | 15:12",
-      "url": "https://dsport.bg/lionel-mesi-stava-geroi-na-disney-v-nov-animacionen-serial~241541.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297589131.og.jpg"
     }
   ]
 }
