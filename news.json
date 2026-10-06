@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-06T11:51:41.876249+00:00",
+  "updated": "2026-10-06T12:01:48.775149+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
-      "url": "https://dariknews.bg/novini/bylgariia/ataka-s-dronove-v-cherno-more-teche-mashtabna-spasitelna-akciia-2468282",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-potvyrdi-atakuvani-sa-dva-tyrgovski-koraba-ekipazhyt-na-ediniia-e-v-neizvestnost-video-2468284",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Президентът Йотова свиква Консултативния съвет за национална сигурност",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-iotova-svikva-konsultativniia-syvet-za-nacionalna-sigurnost-2468341",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
     },
     {
       "title": "Моряк от единия атакуван кораб: Мисля, че руснаците ни пуснаха подводна бомба, защото возехме украински товар",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Затвориха кухни в Пазарджик, приготвящи стотици порции дневно за ученици",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/zatvoriha-kuhni-v-pazardzhik-prigotviashti-stotici-porcii-dnevno-za-uchenici-2468324",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392352/991-ratio-stol.jpg"
+      "title": "Джордж Ръсел пред наказание в Сингапур 06 Окт | 14:58",
+      "url": "https://dsport.bg/dzordz-rasel-pred-nakazanie-v-singapur~241538.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298530891.og.jpg"
+    },
+    {
+      "title": "Николас Отаменди се сбогува с Аржентина: Огромна част от живота ми приключи 06 Окт | 14:52",
+      "url": "https://dsport.bg/nikolas-otamendi-se-sboguva-s-arzentina-ogromna-chast-ot-zivota-mi-prikluchi~241536.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2162063132~1.og.jpg"
     },
     {
       "title": "Спечели злато, отърва казармата, но се наложи да се извинява, защото разпали скандал 06 Окт | 14:44",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297608565.og.jpg"
-    },
-    {
-      "title": "Дани Карвахал може да остане в Мадрид 06 Окт | 13:43",
-      "url": "https://dsport.bg/dani-karvahal-moze-da-ostane-v-madrid~241524.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2278001639.og.jpg"
-    },
-    {
-      "title": "Монументал e готов за последното шоу на Лионел Меси с националния отбор на Аржентина 06 Окт | 13:28",
-      "url": "https://dsport.bg/monumental-e-gotov-za-poslednoto-shou-na-lionel-mesi-s-nacionalnia-otbor-na-arzentina~241523.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/messiriver.og.jpg"
     }
   ]
 }
