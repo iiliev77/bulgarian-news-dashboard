@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:19:03.192602+00:00",
+  "updated": "2026-10-06T19:34:56.897286+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -13,7 +13,7 @@
       "url": "https://dariknews.bg/novini/sviat/zelenski-ruska-kombinirana-ataka-e-porazila-dvata-koraba-v-cherno-more-kraj-bylgariia-2468378",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51318/51318166/991-ratio-zelenski.jpg"
+      "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
     },
     {
       "title": "Руски олигарх заяви, че синът на Тръмп му е върнал дарените за сватбата му средства",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51215/51215460/991-ratio-patrulen-korab.jpg"
     },
     {
+      "title": "Хари Кейн изравни Питър Шилтън 06 Окт | 22:26",
+      "url": "https://dsport.bg/hari-kein-izravni-pitar-shiltan~241570.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298929046.og.jpg"
+    },
+    {
+      "title": "На живо: България удвои срещу Люксембруг, Атанас Илиев със страхотен гол 06 Окт | 22:20",
+      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037435.og.jpg"
+    },
+    {
       "title": "Обрат: Кристиано няма да се оттегля от националния отбор 06 Окт | 22:15",
       "url": "https://dsport.bg/obrat-kristiano-nama-da-se-ottegla-ot-nacionalnia-otbor~241572.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297064782-2.og.jpg"
-    },
-    {
-      "title": "На живо: България поведе на Люксембруг с гол на Балов 06 Окт | 22:04",
-      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037435.og.jpg"
     },
     {
       "title": "Кристиано Роналдо наруши мълчанието - разкри истината за скандала с Жорже Жезус 06 Окт | 21:51",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298294289.og.jpg"
-    },
-    {
-      "title": "Левски изненада Хулио Веласкес (ВИДЕО) 06 Окт | 20:03",
-      "url": "https://dsport.bg/levski-iznenada-hulio-velaskes-video~241562.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-10-06-195350.og.png"
     }
   ]
 }
