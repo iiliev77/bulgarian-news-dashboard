@@ -1,19 +1,33 @@
 {
-  "updated": "2026-10-06T09:40:12.231404+00:00",
+  "updated": "2026-10-06T09:54:47.093510+00:00",
   "articles": [
     {
-      "title": "Атака с дронове в български води, Румен Радев - абсолютно недопустима атака",
+      "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
       "url": "https://dariknews.bg/novini/bylgariia/ataka-s-dronove-v-cherno-more-teche-mashtabna-spasitelna-akciia-2468282",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Война на дронове: Русия или Украйна удари корабите в Черно море",
-      "url": "https://dariknews.bg/novini/sviat/vojna-na-dronove-rusiia-ili-ukrajna-udari-korabite-v-cherno-more-2468323",
+      "title": "Световните агенции: Дронове удариха два търговски кораба край България",
+      "url": "https://dariknews.bg/novini/sviat/svetovnite-agencii-dronove-udariha-dva-tyrgovski-koraba-kraj-bylgariia-2468326",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49762/49762468/991-ratio-korab-cherno-more.jpg"
+    },
+    {
+      "title": "Революцията на дроновете: Кой стои зад ударите в Черно море",
+      "url": "https://dariknews.bg/novini/sviat/revoliuciiata-na-dronovete-koj-stoi-zad-udarite-v-cherno-more-2468323",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51169/51169938/991-ratio-dronove-raketi.jpg"
+    },
+    {
+      "title": "След атаката с дронове: Откараха ранените моряци в болница във Варна (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/varna/sled-atakata-s-dronove-otkaraha-ranenite-moriaci-v-bolnica-vyv-varna-snimki-2468325",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Затвориха кухни в Пазарджик, приготвящи стотици порции дневно за ученици",
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51249/51249900/991-ratio-policiia-sireni.jpg"
     },
     {
-      "title": "Откриха снаряд в имот в Кюстендил",
-      "url": "https://dariknews.bg/regioni/kiustendil/otkriha-snariad-v-imot-v-kiustendil-2468307",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+      "title": "Разделение във Висшата лига: какво наказание очаква Манчестър Сити след шокиращата присъда? 06 Окт | 12:42",
+      "url": "https://dsport.bg/razdelenie-vav-visshata-liga-kakvo-nakazanie-ochakva-manchestar-siti-sled-shokirastata-prisada~241519.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/cftra.og.jpg"
     },
     {
-      "title": "Тръмп: САЩ са готови да помогнат на Русия заради случая на белодробна чума",
-      "url": "https://dariknews.bg/novini/sviat/trymp-sasht-sa-gotovi-da-pomognat-na-rusiia-zaradi-sluchaia-na-belodrobna-chuma-2468306",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51363/51363756/991-ratio-donald-trymp.jpg"
+      "title": "Ботев Пд продаде 1000 билета за правостоящи за мача срещу Славия 06 Окт | 12:33",
+      "url": "https://dsport.bg/botev-pd-prodade-1000-bileta-za-pravostoasti-za-macha-srestu-slavia~241518.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute~1.og.png"
+    },
+    {
+      "title": "От сълзите до величието: трънливият път на Лионел Меси с Аржентина 06 Окт | 12:23",
+      "url": "https://dsport.bg/ot-salzite-do-velichieto-tranliviat-pat-na-lionel-mesi-s-arzentina~241517.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1450127078.og.jpg"
     },
     {
       "title": "Гръмна огромен скандал свързан с Мондиал 2026 06 Окт | 12:14",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296222774.og.jpg"
-    },
-    {
-      "title": "„Мач за Мач“: Няма светлина за националите, УБИХА Илиян Филипов, ЦСКА и Гиздол стъпиха на АРМИЯТА 06 Окт | 11:00",
-      "url": "https://dsport.bg/mach-za-mach-nama-svetlina-za-nacionalite-ubiha-ilian-filipov-cska-i-gizdol-stapiha-na-armiata~241488.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/761fbf9b-7a4a-4656-aa8a-9d94eb3296ff.og.jpg"
-    },
-    {
-      "title": "Дезире Дуе - невероятният талисман на Франция и ПСЖ, който никога не губи, когато бележи 06 Окт | 10:59",
-      "url": "https://dsport.bg/dezire-due-neveroatniat-talisman-na-francia-i-psz-koito-nikoga-ne-gubi-kogato-belezi~241509.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297916864.og.jpg"
-    },
-    {
-      "title": "Грандиозна почит за Меси в Росарио часове преди последния му мач за Аржентина 06 Окт | 10:51",
-      "url": "https://dsport.bg/grandiozna-pochit-za-mesi-v-rosario-chasove-predi-poslednia-mu-mach-za-arzentina~241508.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/mrsasa1.og.jpg"
     }
   ]
 }
