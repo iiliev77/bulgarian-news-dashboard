@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-06T05:23:54.267372+00:00",
+  "updated": "2026-10-06T05:38:31.680820+00:00",
   "articles": [
+    {
+      "title": "Ваксините срещу грип може да стигнат до аптечната мрежа чак през януари (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/vaksinite-sreshtu-grip-mozhe-da-stignat-do-aptechnata-mrezha-chak-prez-ianuari-video-2468276",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Продължава борбата с големия пожар край Горно Луково, огънят остава активен на гръцка територия (ВИДЕО)",
       "url": "https://dariknews.bg/regioni/haskovo/prodylzhava-borbata-s-golemiia-pozhar-kraj-gorno-lukovo-ogyniat-ostava-aktiven-na-grycka-teritoriia-video-2468275",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392163/991-ratio-ukrainski-voennosluzhesht-se-podgotvia-da-otblysne-ruska-ataka-s-dronove.jpg"
     },
     {
-      "title": "Бившата говорителка на Белия дом Карълайн Левит влиза в ефира на Fox News",
-      "url": "https://dariknews.bg/novini/sviat/bivshata-govoritelka-na-beliia-dom-karylajn-levit-vliza-v-efira-na-fox-news-2468261",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392144/991-ratio-karylajn-levit.jpg"
+      "title": "Флорентино Перес е на ръба: разгромът от Барса може да закрие женския отбор на Реал Мадрид 06 Окт | 08:10",
+      "url": "https://dsport.bg/florentino-peres-e-na-raba-razgromat-ot-barsa-moze-da-zakrie-zenskia-otbor-na-real-madrid~241489.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298074131.og.jpg"
     },
     {
       "title": "Саудитска Арабия се отказа от уникален стадион за 2 млрд. паунда за Мондиал 2034 06 Окт | 08:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298094983.og.jpg"
-    },
-    {
-      "title": "Обявиха финалистите за „Golden Boy“ – Висшата лига доминира, но фаворитът е от Испания 05 Окт | 22:17",
-      "url": "https://dsport.bg/obaviha-finalistite-za-golden-boy-visshata-liga-dominira-no-favoritat-e-ot-ispania~241479.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2193899124~1.og.jpg"
     }
   ]
 }
