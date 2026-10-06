@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:39:29.038230+00:00",
+  "updated": "2026-10-06T14:55:08.997972+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -9,8 +9,15 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Шестокласници от Попово върнаха изгубен портфейл и получиха грамоти за постъпката си",
-      "url": "https://dariknews.bg/novini/obshtestvo/shestoklasnici-ot-popovo-vyrnaha-izguben-portfejl-i-poluchiha-gramoti-za-postypkata-si-2468364",
+      "title": "ЕК предлага промени в процеса на приемане на нови държави в ЕС",
+      "url": "https://dariknews.bg/novini/sviat/ek-predlaga-promeni-v-procesa-na-priemane-na-novi-dyrzhavi-v-es-2468365",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
+    },
+    {
+      "title": "Деца от Попово върнаха изгубен портфейл и получиха грамоти за постъпката си",
+      "url": "https://dariknews.bg/novini/obshtestvo/deca-ot-popovo-vyrnaha-izguben-portfejl-i-poluchiha-gramoti-za-postypkata-si-2468364",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392493/991-ratio-shestoklasnici-ot-popovo-vyrnaha-izguben-portfejl-i-poluchiha-gramoti-za.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50722/50722394/991-ratio-voda-bez-voda-cheshma.jpg"
     },
     {
-      "title": "Липсват стоки на промоция, лъжат с произхода: КЗП глоби три търговски вериги заради нелоялни практики",
-      "url": "https://dariknews.bg/novini/bylgariia/lipsvat-stoki-na-promociia-lyzhat-s-proizhoda-kzp-globi-tri-tyrgovski-verigi-zaradi-neloialni-praktiki-2468345",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51030/51030160/991-ratio-supermarket.jpg"
+      "title": "В Испания гърмят: Мбапе иска да си ходи 06 Окт | 17:40",
+      "url": "https://dsport.bg/v-ispania-garmat-mbape-iska-da-si-hodi~241553.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296303035.og.jpg"
     },
     {
       "title": "Александър Василев продължава напред в Бургас 06 Окт | 17:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/837618.og.jpg"
-    },
-    {
-      "title": "Телевизията на Реал Мадрид скри унизителната загуба в женското Ел Класико 06 Окт | 15:28",
-      "url": "https://dsport.bg/televiziata-na-real-madrid-skri-unizitelnata-zaguba-v-zenskoto-el-klasiko~241544.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298647106.og.jpg"
     }
   ]
 }
