@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:10:17.260661+00:00",
+  "updated": "2026-10-06T16:29:53.201295+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392460/991-ratio-frenskata-atomna-podvodnica-vizhilan.jpg"
     },
     {
+      "title": "УЕФА следи внимателно случая около Манчестър Сити 06 Окт | 19:26",
+      "url": "https://dsport.bg/uefa-sledi-vnimatelno-sluchaa-okolo-manchestar-siti~241560.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-452334308-1-1-2-1-1~1.og.jpg"
+    },
+    {
+      "title": "Италиански хаос: сегашният президент Малаго е назначен за извънреден комисар на федерацията 06 Окт | 19:15",
+      "url": "https://dsport.bg/kakva-italianska-barkotia-prezidentat-na-federaciata-ste-e-vremenno-izpalnavast-dlaznostta~241557.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2265144794-1-.og.jpg"
+    },
+    {
       "title": "Иван Иванов тръгна убедително на турнир в Италия 06 Окт | 19:02",
       "url": "https://dsport.bg/ivan-ivanov-tragna-ubeditelno-na-turnir-v-italia~241558.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/06.10-5~1.og.jpg"
-    },
-    {
-      "title": "Полицията в Италия наказа куп фенове заради масово сбиване в Торино 06 Окт | 17:17",
-      "url": "https://dsport.bg/policiata-v-italia-nakaza-kup-fenove-zaradi-masovo-sbivane-v-torino~241551.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2289605142.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 06.10.2026 г. 06 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-06-10-2026-g~241550.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot-2026-10-06-170145.og.png"
     }
   ]
 }
