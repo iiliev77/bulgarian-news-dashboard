@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:01:07.947561+00:00",
+  "updated": "2026-10-06T17:16:49.632707+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -30,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392503/991-ratio-policejski-sluzhiteli-ohraniavat-pistata-vyv-voennovyzdushnata-baza-feyrford.jpg"
     },
     {
-      "title": "„Blue Bridge 2026“: България и Румъния тренираха охрана на въздушното пространство",
-      "url": "https://dariknews.bg/novini/bylgariia/blue-bridge-2026-bylgariia-i-rumyniia-treniraha-ohrana-na-vyzdushnoto-prostranstvo-2468370",
+      "title": "„Blue Bridge 2026“: България и Румъния тренираха охрана на въздушното пространство (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/blue-bridge-2026-bylgariia-i-rumyniia-treniraha-ohrana-na-vyzdushnoto-prostranstvo-snimkivideo-2468370",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392505/991-ratio-bylgarskite-i-rumynskite-vvs-provedoha-syvmestna-letatelna-trenirovka.jpg"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51297/51297336/991-ratio-morbili.jpg"
     },
     {
+      "title": "Левски изненада Хулио Веласкес (ВИДЕО) 06 Окт | 20:03",
+      "url": "https://dsport.bg/levski-iznenada-hulio-velaskes-video~241562.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-06-195350.og.png"
+    },
+    {
       "title": "Правилото 50+1 оцелява в Бундеслигата, но поставя бъдещето на 4 клуба под въпрос 06 Окт | 19:58",
       "url": "https://dsport.bg/50-1-ostava-v-bundesligata~241561.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gemini_generated_image_6fgxwa6fgxwa6fgx.og.jpg"
-    },
-    {
-      "title": "Ас на Левски отново тренира 06 Окт | 17:54",
-      "url": "https://dsport.bg/as-na-levski-otnovo-trenira~241554.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/06.10-6.og.jpg"
     }
   ]
 }
