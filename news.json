@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:24:52.790280+00:00",
+  "updated": "2026-10-06T21:38:45.074342+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
+      "title": "Неймар с послание към Меси преди края с Аржентина 07 Окт | 00:26",
+      "url": "https://dsport.bg/neymar-poslanie-mesi-kray-argentina~241584.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1328070442.og.jpg"
+    },
+    {
       "title": "Естония и Исландия не се победиха 07 Окт | 00:24",
       "url": "https://dsport.bg/estonia-i-islandia-ne-se-pobediha~241579.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037435.og.jpg"
-    },
-    {
-      "title": "Нова звезда на Италия се контузи, Наполи го губи за няколко седмици 06 Окт | 23:24",
-      "url": "https://dsport.bg/antonio-vergara-napoli-kontuzia-nacionalen-otbor-italia~241574.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298922396.og.jpg"
     }
   ]
 }
