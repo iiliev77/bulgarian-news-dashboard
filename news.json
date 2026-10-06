@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:26:38.378535+00:00",
+  "updated": "2026-10-06T15:41:50.156273+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -14,6 +14,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392503/991-ratio-policejski-sluzhiteli-ohraniavat-pistata-vyv-voennovyzdushnata-baza-feyrford.jpg"
+    },
+    {
+      "title": "„Blue Bridge 2026“: България и Румъния тренираха охрана на въздушното пространство",
+      "url": "https://dariknews.bg/novini/bylgariia/blue-bridge-2026-bylgariia-i-rumyniia-treniraha-ohrana-na-vyzdushnoto-prostranstvo-2468370",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392505/991-ratio-bylgarskite-i-rumynskite-vvs-provedoha-syvmestna-letatelna-trenirovka.jpg"
     },
     {
       "title": "УМБАЛ Бургас спешно търси кръводарители с кръвни групи B- и 0-",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51182/51182197/991-ratio-nikolaj-kozhuharov.jpg"
     },
     {
-      "title": "Министър Петрова: Сигурността на Черно море е неразделна от сигурността на Европа",
-      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-sigurnostta-na-cherno-more-e-nerazdelna-ot-sigurnostta-na-evropa-2468351",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Евролигата отхвърли първото предложение на НБА 06 Окт | 18:31",
+      "url": "https://dsport.bg/evroligata-othvarli-parvoto-predlozenie-na-nba~241556.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2216468649-1-1.og.jpg"
     },
     {
       "title": "Ивайло Петев създаде школа със 120 деца в Ловеч, за да не умре съвсем футболът там 06 Окт | 18:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/473560-1-2-2.og.jpg"
-    },
-    {
-      "title": "Бивш капитан на ЦСКА акостира в Русе 06 Окт | 16:26",
-      "url": "https://dsport.bg/bivsh-kapitan-na-cska-akostira-v-ruse~241548.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/06.10-3~1.og.jpg"
     }
   ]
 }
