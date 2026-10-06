@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:38:45.074342+00:00",
+  "updated": "2026-10-06T21:50:59.859589+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
+      "title": "Швейцария прегази Северна Македония за 4/4 в Лигата на нациите 07 Окт | 00:38",
+      "url": "https://dsport.bg/shveicaria-pregazi-severna-makedonia-za-4-4-v-ligata-na-naciite~241585.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298947410.og.jpg"
+    },
+    {
+      "title": "Андриан Краев: В първите два мача излизахме без план, без тактика (ВИДЕО) 07 Окт | 00:36",
+      "url": "https://dsport.bg/andrian-kraev-v-parvite-dva-macha-izlizahme-bez-plan-bez-taktika~241586.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037426~1.og.jpg"
+    },
+    {
       "title": "Неймар с послание към Меси преди края с Аржентина 07 Окт | 00:26",
       "url": "https://dsport.bg/neymar-poslanie-mesi-kray-argentina~241584.html",
       "source": "Dsport",
@@ -177,7 +191,7 @@
       "image": "https://dsport.bg/media/384/1037733~1.og.jpg"
     },
     {
-      "title": "Груев: Днес се видя, че можем, много съм горд да водя отбора като капитан 06 Окт | 23:55",
+      "title": "Груев: Днес се видя, че можем, много съм горд да водя отбора като капитан (ВИДЕО) 06 Окт | 23:55",
       "url": "https://dsport.bg/gruev-dnes-se-vida-che-mozem-mnogo-sam-gord-da-voda-otbora-kato-kapitan~241580.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/658939693_18332189917247270_4326958240839798697_n~1.og.jpg"
-    },
-    {
-      "title": "Англия с рецитал срещу Чехия, паметна вечер за Хари Кейн 06 Окт | 23:40",
-      "url": "https://dsport.bg/anglia-pobedi-chehia-hari-kein-dva-gola~241577.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298334154.og.jpg"
-    },
-    {
-      "title": "„Боговете сигурно са полудели“: България си отмъсти на Люксембург за първи успех в Лигата на нациите 06 Окт | 23:36",
-      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037435.og.jpg"
     }
   ]
 }
