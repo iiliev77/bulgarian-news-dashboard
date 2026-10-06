@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:59:00.224072+00:00",
+  "updated": "2026-10-06T18:14:36.413812+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
     },
     {
+      "title": "Кирил Десподов отново тренира с ПАОК 06 Окт | 21:04",
+      "url": "https://dsport.bg/kiril-despodov-otnovo-trenira-s-paok~241565.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-06-210426.og.png"
+    },
+    {
       "title": "Уругвай разби Индия в контрола 06 Окт | 20:49",
       "url": "https://dsport.bg/urugvai-razbi-india~241564.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/06.10-9.og.jpg"
-    },
-    {
-      "title": "Евролигата отхвърли първото предложение на НБА 06 Окт | 18:31",
-      "url": "https://dsport.bg/evroligata-othvarli-parvoto-predlozenie-na-nba~241556.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2216468649-1-1.og.jpg"
     }
   ]
 }
