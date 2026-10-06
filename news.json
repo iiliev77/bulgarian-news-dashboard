@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-06T05:06:36.165348+00:00",
+  "updated": "2026-10-06T05:23:54.267372+00:00",
   "articles": [
     {
-      "title": "Акцията в Пловдив: От Здравната каса са били източени близо 4 млн. евро, а схемата е действала от 4 години (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/plovdiv/akciiata-v-plovdiv-ot-zdravnata-kasa-sa-bili-iztocheni-blizo-4-mln.-evro-a-shemata-e-dejstvala-ot-4-godini-video-2468273",
+      "title": "Продължава борбата с големия пожар край Горно Луково, огънят остава активен на гръцка територия (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/haskovo/prodylzhava-borbata-s-golemiia-pozhar-kraj-gorno-lukovo-ogyniat-ostava-aktiven-na-grycka-teritoriia-video-2468275",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Преди вота: МВР проверява стотици обекти, няма сериозна активност по купуване на гласове",
+      "url": "https://dariknews.bg/novini/predi-vota-mvr-proveriava-stotici-obekti-niama-seriozna-aktivnost-po-kupuvane-na-glasove-2468274",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51304/51304795/991-ratio-akciia-smolian-kupuvane-na-glasove.jpg"
+    },
+    {
+      "title": "Акцията в Пловдив: От Здравната каса са били източени близо 4 млн. евро, а схемата е действала от 4 г. (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/plovdiv/akciiata-v-plovdiv-ot-zdravnata-kasa-sa-bili-iztocheni-blizo-4-mln.-evro-a-shemata-e-dejstvala-ot-4-g.-video-2468273",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392144/991-ratio-karylajn-levit.jpg"
     },
     {
-      "title": "„Свежо сирене“ се оказа от обезмаслено мляко, БАБХ с предписания към производители (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/svezho-sirene-se-okaza-ot-obezmasleno-mliako-babh-s-predpisaniia-kym-proizvoditeli-video-2468260",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "МВнР: Българските студенти в чужбина ще могат да стажуват в посолства",
-      "url": "https://dariknews.bg/novini/bylgariia/mvnr-bylgarskite-studenti-v-chuzhbina-shte-mogat-da-stazhuvat-v-posolstva-2468258",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39957/39957519/991-ratio-student.jpg"
+      "title": "Саудитска Арабия се отказа от уникален стадион за 2 млрд. паунда за Мондиал 2034 06 Окт | 08:04",
+      "url": "https://dsport.bg/sauditska-arabia-se-otkaza-ot-unikalen-stadion-za-2-mlrd-paunda-za-mondial-2034~241490.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/plansst.og.jpg"
     },
     {
       "title": "„Мач за Мач“: Няма светлина за националите, УБИХА Илиян Филипов, ЦСКА и Гиздол стъпиха на АРМИЯТА 06 Окт | 08:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2193899124~1.og.jpg"
-    },
-    {
-      "title": "Нестеров влезе в основната фаза на турнир в Испания 05 Окт | 22:01",
-      "url": "https://dsport.bg/nesterov-vleze-v-osnovnata-faza-na-turnir-v-ispania~241478.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/01.08-1-1~1.og.jpg"
     }
   ]
 }
