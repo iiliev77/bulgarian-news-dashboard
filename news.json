@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:34:44.367812+00:00",
+  "updated": "2026-10-06T23:47:23.544631+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,7 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
-      "title": "На живо: Последният танц - Лионел Меси се сбогува завинаги с Аржентина 07 Окт | 02:14",
+      "title": "Меси в сълзи в автобуса на Аржентина преди последния си мач (ВИДЕО) 07 Окт | 02:40",
+      "url": "https://dsport.bg/mesi-v-salzi-v-avtobusa-na-arzentina-predi-poslednia-si-mach-video~241588.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/messi1.og.jpeg"
+    },
+    {
+      "title": "На живо: Последният танц - Лионел Меси се сбогува завинаги с Аржентина 07 Окт | 02:34",
       "url": "https://dsport.bg/na-zivo-posledniat-tanc-lionel-mesi-se-sboguva-zavinagi-s-arzentina~241587.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037422~1.og.jpg"
-    },
-    {
-      "title": "Испания с късен обрат над Хърватия, Мерино герой 06 Окт | 23:55",
-      "url": "https://dsport.bg/ispania-obrat-harvatia-liga-na-naciite-merino~241576.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298340773.og.jpg"
     }
   ]
 }
