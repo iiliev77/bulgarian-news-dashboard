@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:29:53.201295+00:00",
+  "updated": "2026-10-06T16:47:56.755391+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Черно море под по-строго наблюдение: България засилва защитата",
+      "url": "https://dariknews.bg/novini/bylgariia/cherno-more-pod-po-strogo-nabliudenie-bylgariia-zasilva-zashtitata-2468372",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
     },
     {
       "title": "Почина актрисата Нина Дамянова",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51297/51297336/991-ratio-morbili.jpg"
     },
     {
-      "title": "Франция изпробва модернизирана ядрена ракета на фона на напрежението с Русия",
-      "url": "https://dariknews.bg/novini/sviat/franciia-izprobva-modernizirana-iadrena-raketa-na-fona-na-naprezhenieto-s-rusiia-2468353",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392460/991-ratio-frenskata-atomna-podvodnica-vizhilan.jpg"
+      "title": "Ексклузивно Петев: Лудогорец сам си е виновен за титлата, Левски показва голямо израстване 06 Окт | 19:42",
+      "url": "https://dsport.bg/petev-ludogorec-sam-si-e-vinoven-za-titlata-levski-pokazva-golamo-izrastvane~241540.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/9459685-1-1-1-1-1.og.jpg"
     },
     {
       "title": "УЕФА следи внимателно случая около Манчестър Сити 06 Окт | 19:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296303035.og.jpg"
-    },
-    {
-      "title": "Александър Василев продължава напред в Бургас 06 Окт | 17:28",
-      "url": "https://dsport.bg/aleksandar-vasilev-prodalzava-napred-v-burgas~241552.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/06.10-5~1.og.jpg"
     }
   ]
 }
