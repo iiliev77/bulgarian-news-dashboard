@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:21:00.685777+00:00",
+  "updated": "2026-10-06T07:37:12.546495+00:00",
   "articles": [
     {
       "title": "Извънредно Атака с дронове в Черно море",
@@ -7,6 +7,34 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "„Тренд“: Очакваната активност сочи сигурен балотаж на президентските избори",
+      "url": "https://dariknews.bg/novini/bylgariia/trend-ochakvanata-aktivnost-sochi-siguren-balotazh-na-prezidentskite-izbori-2468295",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46376/46376001/991-ratio-vot-izbori.jpg"
+    },
+    {
+      "title": "Нападение с нож в истанбулско училище, ранени са петима ученици",
+      "url": "https://dariknews.bg/novini/sviat/napadenie-s-nozh-v-istanbulsko-uchilishte-raneni-sa-petima-uchenici-2468293",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45830/45830433/991-ratio-napadenie-nozh.jpg"
+    },
+    {
+      "title": "Василев: Въпреки удвоения бюджет на Българската армия - нямаме адекватна защита на българските граждани",
+      "url": "https://dariknews.bg/novini/bylgariia/vasilev-vypreki-udvoeniia-biudzhet-na-bylgarskata-armiia-niamame-adekvatna-zashtita-na-bylgarskite-grazhdani-2468294",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361386/991-ratio-asen-vasilev.jpg"
+    },
+    {
+      "title": "Шишков: „За срам или не“, София е била игнорирана при споразуменията за общински проекти",
+      "url": "https://dariknews.bg/novini/bylgariia/shishkov-za-sram-ili-ne-sofiia-e-bila-ignorirana-pri-sporazumeniiata-za-obshtinski-proekti-2468292",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51378/51378054/991-ratio-ivan-shishkov.jpg"
     },
     {
       "title": "Денталните прегледи вече са в електронното здравно досие",
@@ -65,6 +93,13 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
     },
     {
+      "title": "Атака с дронове в български води: Тече мащабна спасителна акция",
+      "url": "https://dariknews.bg/novini/bylgariia/ataka-s-dronove-v-bylgarski-vodi-teche-mashtabna-spasitelna-akciia-2468282",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
       "title": "Тръмп разрешава на всеки американец да купува дизелово гориво, освободено данъци",
       "url": "https://dariknews.bg/novini/sviat/trymp-razreshava-na-vseki-amerikanec-da-kupuva-dizelovo-gorivo-osvobodeno-danyci-2468280",
       "source": "DarikNews",
@@ -107,39 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Силяновска: България казва, че въпросът е с ЕС, а Фон дер Лайен призовава за двустранен диалог",
-      "url": "https://dariknews.bg/novini/sviat/silianovska-bylgariia-kazva-che-vyprosyt-e-s-es-a-fon-der-lajen-prizovava-za-dvustranen-dialog-2468272",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51305/51305961/991-ratio-silianovska.jpg"
-    },
-    {
-      "title": "Емоционална победа изпрати Ураганите в Резиденцията на „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/emocionalna-pobeda-izprati-uraganite-v-rezidenciiata-na-igri-na-voliata-2468271",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392211/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Пожар пламна в 3 къщи в софийския квартал „Факултета”",
-      "url": "https://dariknews.bg/regioni/sofiia/pozhar-plamna-v-3-kyshti-v-sofijskiia-kvartal-fakulteta-2468270",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Почина британският писател и бивш политик Джефри Арчър",
-      "url": "https://dariknews.bg/novini/sviat/pochina-britanskiiat-pisatel-i-bivsh-politik-dzhefri-archyr-2468269",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392203/991-ratio-jeffrey-archer.jpg"
-    },
-    {
-      "title": "Защо всички се нуждаем от телесни мазнини",
-      "url": "https://dariknews.bg/novini/liubopitno/zashto-vsichki-se-nuzhdaem-ot-telesni-maznini-2468208",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49479/49479977/991-ratio-taliia.jpg"
+      "title": "AS: Гуардиола се чувства виновен 06 Окт | 10:10",
+      "url": "https://dsport.bg/as-guardiola-se-chuvstva-vinoven~241503.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2278002773.og.jpg"
     },
     {
       "title": "Емоционален жест: съотборниците на Меси го изпратиха с фланелка, пълна с послания за сбогом 06 Окт | 10:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298647788.og.jpg"
-    },
-    {
-      "title": "Арда Гюлер подписва нов договор с Реал Мадрид 06 Окт | 08:31",
-      "url": "https://dsport.bg/arda-guler-podpisva-nov-dogovor-s-real-madrid~241493.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296416039.og.jpg"
     }
   ]
 }
