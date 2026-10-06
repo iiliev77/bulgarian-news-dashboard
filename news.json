@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:31:51.459276+00:00",
+  "updated": "2026-10-06T17:47:34.912974+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -9,11 +9,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Вълна от бурни реакции: Белият дом защити Тръмп за думите му за Иран и два американски града",
+      "url": "https://dariknews.bg/novini/sviat/vylna-ot-burni-reakcii-beliiat-dom-zashtiti-trymp-za-dumite-mu-za-iran-i-dva-amerikanski-grada-2468373",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
+    },
+    {
       "title": "Адмирал Ефтимов за атаката: Удар по въздух и море и само 3 минути за реакция на екипажа на потъналия кораб",
       "url": "https://dariknews.bg/novini/bylgariia/admiral-eftimov-za-atakata-udar-po-vyzduh-i-more-i-samo-3-minuti-za-reakciia-na-ekipazha-na-potynaliia-korab-2468372",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Почина актрисата Нина Дамянова",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
     },
     {
-      "title": "В щата Ню Йорк обявиха извънредно положение заради епидемия от морбили",
-      "url": "https://dariknews.bg/novini/sviat/v-shtata-niu-iork-obiaviha-izvynredno-polozhenie-zaradi-epidemiia-ot-morbili-2468355",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51297/51297336/991-ratio-morbili.jpg"
+      "title": "На живо: Люксембург - България, Кристиан Димитров на пейката (Състави) 06 Окт | 20:44",
+      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/finali-ekt-30-.og.png"
     },
     {
       "title": "Левски изненада Хулио Веласкес (ВИДЕО) 06 Окт | 20:03",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot_1~234.og.jpg"
-    },
-    {
-      "title": "BETVAM и VAMBOS обединяват сили в името на аматьорския спорт 06 Окт | 18:06",
-      "url": "https://dsport.bg/betvam-i-vambos-obedinavat-sili-v-imeto-na-amatorskia-sport~241555.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gemini_generated_image_6fgxwa6fgxwa6fgx.og.jpg"
     }
   ]
 }
