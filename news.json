@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:36:57.721175+00:00",
+  "updated": "2026-10-06T13:53:01.179948+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -9,11 +9,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Пожарната в Стара Загора грейна с нов облик след ремонт за над 206 000 евро",
-      "url": "https://dariknews.bg/regioni/stara-zagora/pozharnata-v-stara-zagora-grejna-s-nov-oblik-sled-remont-za-nad-206-000-evro-2468357",
+      "title": "Трима мъже са задържани непосредствено след сделки с наркотични вещества в столицата",
+      "url": "https://dariknews.bg/regioni/sofiia/trima-myzhe-sa-zadyrzhani-neposredstveno-sled-sdelki-s-narkotichni-veshtestva-v-stolicata-2468359",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392467/991-ratio-narkotici.jpg"
+    },
+    {
+      "title": "Пожарната в Стара Загора грейна с нов облик след ремонт за над 206 000 евро (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/stara-zagora/pozharnata-v-stara-zagora-grejna-s-nov-oblik-sled-remont-za-nad-206-000-evro-snimki-2468357",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392462/991-ratio-pozharna-stara-zagora.jpg"
+    },
+    {
+      "title": "Два нови патрулни кораба за ВМС: МО подчерта важността на бързото придобиване",
+      "url": "https://dariknews.bg/novini/bylgariia/dva-novi-patrulni-koraba-za-vms-mo-podcherta-vazhnostta-na-byrzoto-pridobivane-2468358",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51215/51215460/991-ratio-patrulen-korab.jpg"
     },
     {
       "title": "Европейски лидери изразиха тревога и солидарност с България след атаките по кораби в Черно море",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Съдбоносен сблъсък за двама от Обречените в „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/sydbonosen-sblysyk-za-dvama-ot-obrechenite-v-igri-na-voliata-2468339",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392415/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Мъж отива на съд за опит за подкуп на полицаи в София",
-      "url": "https://dariknews.bg/regioni/sofiia/myzh-otiva-na-syd-za-opit-za-podkup-na-policai-v-sofiia-2468338",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50742/50742865/991-ratio-policiia-mvr-kat-patrulka.jpg"
+      "title": "Ексклузивно Петев за националния отбор: Държави, които побеждавахме, вече са с три-четири крачки пред нас (ВИДЕО) 06 Окт | 16:39",
+      "url": "https://dsport.bg/petev-za-nacionalnia-otbor-darzavi-koito-pobezdavahme-veche-sa-s-tri-chetiri-krachki-pred-nas-video~241535.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/473560-1-2-2.og.jpg"
     },
     {
       "title": "Бивш капитан на ЦСКА акостира в Русе 06 Окт | 16:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297589131.og.jpg"
-    },
-    {
-      "title": "Пиърс Морган разкрива нови подробности за конфликта между Кристиано Роналдо и селекционера на Португалия 06 Окт | 15:00",
-      "url": "https://dsport.bg/piars-morgan-razkriva-novi-podrobnosti-za-konflikta-mezdu-kristiano-ronaldo-i-selekcionera-na-portugalia~241539.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276580511-1~1.og.jpg"
     }
   ]
 }
