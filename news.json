@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:34:36.603874+00:00",
+  "updated": "2026-10-06T18:53:16.931446+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,6 +142,27 @@
       "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
     },
     {
+      "title": "На живо: Люксембург - България 06 Окт | 21:44",
+      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/finali-ekt-30-.og.png"
+    },
+    {
+      "title": "Балкан се подсили с американски център 06 Окт | 21:43",
+      "url": "https://dsport.bg/balkan-se-podsili-s-amerikanski-centar~241568.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-06-214246.og.png"
+    },
+    {
+      "title": "Тодор Янчев: Ядрото неминуемо става опция на А отбора 06 Окт | 21:35",
+      "url": "https://dsport.bg/todor-anchev-adroto-neminuemo-stava-opcia-na-a-otbora~241569.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037382.og.jpg"
+    },
+    {
       "title": "Тъжен и нервен край за България U21 в квалификациите 06 Окт | 21:25",
       "url": "https://dsport.bg/tazen-i-nerven-krai-za-balgaria-u21-v-kvalifikaciite~241567.html",
       "source": "Dsport",
@@ -170,13 +191,6 @@
       "image": "https://dsport.bg/media/384/gettyimages-2298294289.og.jpg"
     },
     {
-      "title": "На живо: Люксембург - България, Кристиан Димитров на пейката (Състави) 06 Окт | 20:44",
-      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/finali-ekt-30-.og.png"
-    },
-    {
       "title": "Левски изненада Хулио Веласкес (ВИДЕО) 06 Окт | 20:03",
       "url": "https://dsport.bg/levski-iznenada-hulio-velaskes-video~241562.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/9459685-1-1-1-1-1.og.jpg"
-    },
-    {
-      "title": "УЕФА следи внимателно случая около Манчестър Сити 06 Окт | 19:26",
-      "url": "https://dsport.bg/uefa-sledi-vnimatelno-sluchaa-okolo-manchestar-siti~241560.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-452334308-1-1-2-1-1~1.og.jpg"
-    },
-    {
-      "title": "Италиански хаос: сегашният президент Малаго е назначен за извънреден комисар на федерацията 06 Окт | 19:15",
-      "url": "https://dsport.bg/kakva-italianska-barkotia-prezidentat-na-federaciata-ste-e-vremenno-izpalnavast-dlaznostta~241557.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2265144794-1-.og.jpg"
     }
   ]
 }
