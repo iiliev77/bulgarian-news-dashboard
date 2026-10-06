@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-06T06:24:40.657132+00:00",
+  "updated": "2026-10-06T06:46:28.234838+00:00",
   "articles": [
     {
-      "title": "Атака с дронове в Черно море: Наш ферибот спаси моряци от два кораба",
-      "url": "https://dariknews.bg/novini/bylgariia/ataka-s-dronove-v-cherno-more-nash-feribot-spasi-moriaci-ot-dva-koraba-2468282",
+      "title": "Премиерът свиква среща с институциите заради инцидента в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-svikva-sreshta-s-instituciite-zaradi-incidenta-v-cherno-more-2468284",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51371/51371055/991-ratio-rumen-radev.jpg"
+    },
+    {
+      "title": "Франция гори: Ученическите протести прераснаха в национална криза",
+      "url": "https://dariknews.bg/novini/sviat/franciia-gori-uchenicheskite-protesti-prerasnaha-v-nacionalna-kriza-2468285",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+    },
+    {
+      "title": "Атака с дронове в Черно море: Тече мащабна спасителна акция",
+      "url": "https://dariknews.bg/novini/bylgariia/ataka-s-dronove-v-cherno-more-teche-mashtabna-spasitelna-akciia-2468282",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/43572/43572327/991-ratio-feribot.jpg"
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391798/991-ratio-avtobus-plovdiv.jpg"
     },
     {
-      "title": "САЩ обмислят създаването на американска военна база в Литва",
-      "url": "https://dariknews.bg/novini/sviat/sasht-obmisliat-syzdavaneto-na-amerikanska-voenna-baza-v-litva-2468268",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51296/51296859/991-ratio-trymp.jpg"
+      "title": "Далас Старс с петзвездно представление срещу Сан Хосе Шаркс 06 Окт | 09:30",
+      "url": "https://dsport.bg/dalas-stars-s-petzvezdno-predstavlenie-srestu-san-hose-sharks~241499.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298786886.og.jpg"
     },
     {
-      "title": "Евакуираха летището в Щутгарт заради полицейска операция",
-      "url": "https://dariknews.bg/novini/sviat/evakuiraha-letishteto-v-shtutgart-zaradi-policejska-operaciia-2468267",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
+      "title": "Кои са най-скъпоплатените национални треньори в света? 06 Окт | 09:21",
+      "url": "https://dsport.bg/koi-sa-nai-skapoplatenite-nacionalni-trenori-v-sveta~241498.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297069177~2.og.jpg"
     },
     {
       "title": "Александър Овечкин слага край на кариерата си в НХЛ 06 Окт | 09:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/plansst.og.jpg"
-    },
-    {
-      "title": "„Мач за Мач“: Няма светлина за националите, УБИХА Илиян Филипов, ЦСКА и Гиздол стъпиха на АРМИЯТА 06 Окт | 08:00",
-      "url": "https://dsport.bg/mach-za-mach-nama-svetlina-za-nacionalite-ubiha-ilian-filipov-cska-i-gizdol-stapiha-na-armiata~241488.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/761fbf9b-7a4a-4656-aa8a-9d94eb3296ff.og.jpg"
-    },
-    {
-      "title": "Гьокереш блесна в Букурещ, за да остави Швеция на върха, а Румъния – на дъното 05 Окт | 23:55",
-      "url": "https://dsport.bg/gokeresh-blesna-v-bukurest-za-da-ostavi-shvecia-na-varha-a-rumania-na-danoto~241487.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2297094542.og.jpg"
     }
   ]
 }
