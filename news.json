@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:54:25.544347+00:00",
+  "updated": "2026-10-06T11:05:15.910514+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Задържаха дилър на хероин край Сандански",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/zadyrzhaha-dilyr-na-heroin-kraj-sandanski-2468332",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
     },
     {
       "title": "Инициативата „Месец на онлайн безопасността“ кани учители от цялата страна да проведат тематични занимания с учениците си",
@@ -20,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/radev-niama-kak-da-bydat-zadejstvani-chlen-4-i-5-po-dogovora-na-nato-ima-i-po-tezhki-ataki-2468331",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51383/51383290/991-ratio-rumen-radev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51351/51351091/991-ratio-rumen-radev-sreshta-nato.jpg"
     },
     {
       "title": "Тревога в Русия: Съобщават за втора жертва на чумата, властите отричат",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/47978/47978802/991-ratio-stoletnici.jpg"
     },
     {
-      "title": "Заради полетите и мантинелите: ДПС отново вика Демерджиев в НС, искат изслушване и на Донев и Шишков",
-      "url": "https://dariknews.bg/novini/bylgariia/zaradi-poletite-i-mantinelite-dps-otnovo-vika-demerdzhiev-v-ns-iskat-izslushvane-i-na-donev-i-shishkov-2468312",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51355/51355235/991-ratio-demerdzhiev-peevski.jpg"
+      "title": "В Левски са на нокти за Кристиан Димитров 06 Окт | 13:59",
+      "url": "https://dsport.bg/v-levski-sa-na-nokti-za-kristian-dimitrov~241528.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/999637~1.og.jpg"
+    },
+    {
+      "title": "Тотална некадърност доведе българските щанги до фалит 25 дни преди Световното 06 Окт | 13:56",
+      "url": "https://dsport.bg/totalna-nekadarnost-dovede-balgarskite-stangi-do-falit-25-dni-predi-svetovnoto~241527.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/770228~1.og.jpg"
+    },
+    {
+      "title": "ЛеБрон Джеймс започва 24-ия си сезон с хронични проблеми и нова ера 06 Окт | 13:49",
+      "url": "https://dsport.bg/lebron-dzeims-zapochva-24-ia-si-sezon-s-hronichni-problemi-i-nova-era~241525.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297608565.og.jpg"
     },
     {
       "title": "Дани Карвахал може да остане в Мадрид 06 Окт | 13:43",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/dusk-football-stadium-tribute~1.og.png"
-    },
-    {
-      "title": "От сълзите до величието: трънливият път на Лионел Меси с Аржентина 06 Окт | 12:23",
-      "url": "https://dsport.bg/ot-salzite-do-velichieto-tranliviat-pat-na-lionel-mesi-s-arzentina~241517.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1450127078.og.jpg"
-    },
-    {
-      "title": "Гръмна огромен скандал свързан с Мондиал 2026 06 Окт | 12:14",
-      "url": "https://dsport.bg/gramna-ogromen-skandal-svarzan-s-mondial-2026~241516.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2283166447.og.jpg"
-    },
-    {
-      "title": "Диоманде излита: стойността на звездата на Реал Мадрид скочи до 120 млн. евро 06 Окт | 12:06",
-      "url": "https://dsport.bg/diomande-izlita-stoinostta-na-zvezdata-na-real-madrid-skochi-do-120-mln-evro~241515.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294928120.og.jpg"
     }
   ]
 }
