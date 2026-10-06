@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-06T05:38:31.680820+00:00",
+  "updated": "2026-10-06T05:52:29.352492+00:00",
   "articles": [
+    {
+      "title": "Тръмп одобри екзекуция чрез разстрел на извършител на масово убийство във военна база в Тексас",
+      "url": "https://dariknews.bg/novini/sviat/trymp-odobri-ekzekuciia-chrez-razstrel-na-izvyrshitel-na-masovo-ubijstvo-vyv-voenna-baza-v-teksas-2468278",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
+    },
     {
       "title": "Ваксините срещу грип може да стигнат до аптечната мрежа чак през януари (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/vaksinite-sreshtu-grip-mozhe-da-stignat-do-aptechnata-mrezha-chak-prez-ianuari-video-2468276",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392187/991-ratio-masud-pezeshkian.jpg"
     },
     {
-      "title": "Картечници с изкуствен интелект свалят руски дронове край Киев",
-      "url": "https://dariknews.bg/novini/sviat/kartechnici-s-izkustven-intelekt-svaliat-ruski-dronove-kraj-kiev-2468262",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392163/991-ratio-ukrainski-voennosluzhesht-se-podgotvia-da-otblysne-ruska-ataka-s-dronove.jpg"
+      "title": "Родопа Смолян скочи на БФС след скандалния мач с Несебър: Очакваната промяна не може да бъде само на думи 06 Окт | 08:21",
+      "url": "https://dsport.bg/rodopa-smolan-skochi-na-bfs-sled-skandalnia-mach-s-nesebar-ochakvanata-promana-ne-moze-da-bade-samo-na-dumi~241492.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/refer1.og.jpeg"
     },
     {
       "title": "Флорентино Перес е на ръба: разгромът от Барса може да закрие женския отбор на Реал Мадрид 06 Окт | 08:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2294943755.og.jpg"
-    },
-    {
-      "title": "Тухел: Кейн е модел за подражание, няма по-подходящ да подобри рекорда на Шилтън 05 Окт | 22:33",
-      "url": "https://dsport.bg/tuhel-kein-e-model-za-podrazanie-nama-po-podhodast-da-podobri-rekorda-na-shiltan~241480.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298094983.og.jpg"
     }
   ]
 }
