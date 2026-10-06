@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-06T04:55:26.837230+00:00",
+  "updated": "2026-10-06T05:06:36.165348+00:00",
   "articles": [
+    {
+      "title": "Акцията в Пловдив: От Здравната каса са били източени близо 4 млн. евро, а схемата е действала от 4 години (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/plovdiv/akciiata-v-plovdiv-ot-zdravnata-kasa-sa-bili-iztocheni-blizo-4-mln.-evro-a-shemata-e-dejstvala-ot-4-godini-video-2468273",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Силяновска: България казва, че въпросът е с ЕС, а Фон дер Лайен призовава за двустранен диалог",
+      "url": "https://dariknews.bg/novini/sviat/silianovska-bylgariia-kazva-che-vyprosyt-e-s-es-a-fon-der-lajen-prizovava-za-dvustranen-dialog-2468272",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51305/51305961/991-ratio-silianovska.jpg"
+    },
     {
       "title": "Емоционална победа изпрати Ураганите в Резиденцията на „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/emocionalna-pobeda-izprati-uraganite-v-rezidenciiata-na-igri-na-voliata-2468271",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/39957/39957519/991-ratio-student.jpg"
     },
     {
-      "title": "Конфискуваха 10,1 млн. евро от активите на „криптокралицата“ Ружа Игнатова",
-      "url": "https://dariknews.bg/novini/sviat/konfiskuvaha-101-mln.-evro-ot-aktivite-na-kriptokralicata-ruzha-ignatova-2468257",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Вторият пенсионен стълб: 50% от кандидатствалите са избрали динамичния подфонд",
-      "url": "https://dariknews.bg/novini/bylgariia/vtoriiat-pensionen-stylb-50-ot-kandidatstvalite-sa-izbrali-dinamichniia-podfond-2468256",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "„Мач за Мач“: Няма светлина за националите, УБИХА Илиян Филипов, ЦСКА и Гиздол стъпиха на АРМИЯТА 06 Окт | 08:00",
+      "url": "https://dsport.bg/mach-za-mach-nama-svetlina-za-nacionalite-ubiha-ilian-filipov-cska-i-gizdol-stapiha-na-armiata~241488.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/761fbf9b-7a4a-4656-aa8a-9d94eb3296ff.og.jpg"
     },
     {
       "title": "Гьокереш блесна в Букурещ, за да остави Швеция на върха, а Румъния – на дъното 05 Окт | 23:55",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/01.08-1-1~1.og.jpg"
-    },
-    {
-      "title": "Всички националки на България за „Били Джийн Кинг Къп“ ще участват на турнир в Бургас 05 Окт | 21:42",
-      "url": "https://dsport.bg/vsichki-nacionalki-na-balgaria-za-bili-dziin-king-kap-ste-uchastvat-na-turnir-v-burgas~241477.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/05.10-5.og.jpg"
     }
   ]
 }
