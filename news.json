@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-06T03:07:54.983959+00:00",
+  "updated": "2026-10-06T03:24:25.418193+00:00",
   "articles": [
+    {
+      "title": "София организира есенно почистване на четири езера в Южния парк",
+      "url": "https://dariknews.bg/regioni/sofiia/sofiia-organizira-esenno-pochistvane-na-chetiri-ezera-v-iuzhniia-park-2468259",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392133/991-ratio-bokluk-ezero.jpg"
+    },
+    {
+      "title": "Фройд, Малевич и Ботичели в изпита по български: Какво се променя за десетокласниците",
+      "url": "https://dariknews.bg/novini/bylgariia/frojd-malevich-i-boticheli-v-izpita-po-bylgarski-kakvo-se-promenia-za-desetoklasnicite-2468265",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51108/51108783/991-ratio-matura-izpit.jpg"
+    },
     {
       "title": "Нова платформа дава на учителите над 100 урока по STEM и изкуствен интелект",
       "url": "https://dariknews.bg/novini/bylgariia/nova-platforma-dava-na-uchitelite-nad-100-uroka-po-stem-i-izkustven-intelekt-2468263",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51193/51193880/991-ratio-es-zemedelie.jpg"
-    },
-    {
-      "title": "Кораб потъна след пожар в Черно море: Двама загинаха, 11 оцеляха",
-      "url": "https://dariknews.bg/novini/sviat/korab-potyna-sled-pozhar-v-cherno-more-dvama-zaginaha-11-oceliaha-2468250",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51340/51340015/991-ratio-voenen-korab.jpg"
-    },
-    {
-      "title": "Петима българи, пет медала: Забележителен успех на олимпиадата по астрономия във Виетнам",
-      "url": "https://dariknews.bg/novini/bylgariia/petima-bylgari-pet-medala-zabelezhitelen-uspeh-na-olimpiadata-po-astronomiia-vyv-vietnam-2468248",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391941/991-ratio-bylgarski-uchenici-specheliha-pet-medala-ot-mezhdunarodna-olimpiada-po-astronomiia.jpg"
     },
     {
       "title": "Гьокереш блесна в Букурещ, за да остави Швеция на върха, а Румъния – на дъното 05 Окт | 23:55",
