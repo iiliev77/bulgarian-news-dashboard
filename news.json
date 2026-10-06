@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:02:48.883694+00:00",
+  "updated": "2026-10-06T19:19:03.192602+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Зеленски: Руска комбинирана атака е поразила двата кораба в Черно море край България",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-ruska-kombinirana-ataka-e-porazila-dvata-koraba-v-cherno-more-kraj-bylgariia-2468378",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51318/51318166/991-ratio-zelenski.jpg"
+    },
+    {
+      "title": "Руски олигарх заяви, че синът на Тръмп му е върнал дарените за сватбата му средства",
+      "url": "https://dariknews.bg/novini/sviat/ruski-oligarh-zaiavi-che-sinyt-na-trymp-mu-e-vyrnal-darenite-za-svatbata-mu-sredstva-2468377",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51363/51363756/991-ratio-donald-trymp.jpg"
     },
     {
       "title": "Вълна от бурни реакции: Белият дом защити Тръмп за думите му за Иран и два американски града",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51215/51215460/991-ratio-patrulen-korab.jpg"
     },
     {
-      "title": "Европейски лидери изразиха тревога и солидарност с България след атаките по кораби в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/evropejski-lideri-izraziha-trevoga-i-solidarnost-s-bylgariia-sled-atakite-po-korabi-v-cherno-more-2468356",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43265/43265563/991-ratio-es-bylgariia.jpg"
+      "title": "Обрат: Кристиано няма да се оттегля от националния отбор 06 Окт | 22:15",
+      "url": "https://dsport.bg/obrat-kristiano-nama-da-se-ottegla-ot-nacionalnia-otbor~241572.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2297064782-2.og.jpg"
     },
     {
-      "title": "48 пешеходци са санкционирани за неправилно пресичане в област Търговище",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/48-peshehodci-sa-sankcionirani-za-nepravilno-presichane-v-oblast-tyrgovishte-2468354",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/38374/38374493/991-ratio-peshehodna-pyteka.jpg"
+      "title": "На живо: България поведе на Люксембруг с гол на Балов 06 Окт | 22:04",
+      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037435.og.jpg"
     },
     {
       "title": "Кристиано Роналдо наруши мълчанието - разкри истината за скандала с Жорже Жезус 06 Окт | 21:51",
@@ -147,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296986163.og.jpg"
-    },
-    {
-      "title": "На живо: Люксембург - България 06 Окт | 21:44",
-      "url": "https://dsport.bg/na-zivo-luksemburg-balgaria-kristian-dimitrov-na-peikata-sastavi~241563.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/finali-ekt-30-.og.png"
     },
     {
       "title": "Балкан се подсили с американски център 06 Окт | 21:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/screenshot-2026-10-06-195350.og.png"
-    },
-    {
-      "title": "Правилото 50+1 оцелява в Бундеслигата, но поставя бъдещето на 4 клуба под въпрос 06 Окт | 19:58",
-      "url": "https://dsport.bg/50-1-ostava-v-bundesligata~241561.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2276759180.og.jpg"
     }
   ]
 }
