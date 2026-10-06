@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-06T06:01:48.173068+00:00",
+  "updated": "2026-10-06T06:24:40.657132+00:00",
   "articles": [
+    {
+      "title": "Атака с дронове в Черно море: Наш ферибот спаси моряци от два кораба",
+      "url": "https://dariknews.bg/novini/bylgariia/ataka-s-dronove-v-cherno-more-nash-feribot-spasi-moriaci-ot-dva-koraba-2468282",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43572/43572327/991-ratio-feribot.jpg"
+    },
+    {
+      "title": "Тръмп разрешава на всеки американец да купува дизелово гориво, освободено данъци",
+      "url": "https://dariknews.bg/novini/sviat/trymp-razreshava-na-vseki-amerikanec-da-kupuva-dizelovo-gorivo-osvobodeno-danyci-2468280",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51365/51365505/991-ratio-donald-trymp.jpg"
+    },
     {
       "title": "Тръмп одобри екзекуция чрез разстрел на извършител на масово убийство във военна база в Тексас",
       "url": "https://dariknews.bg/novini/sviat/trymp-odobri-ekzekuciia-chrez-razstrel-na-izvyrshitel-na-masovo-ubijstvo-vyv-voenna-baza-v-teksas-2468278",
@@ -128,18 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
     },
     {
-      "title": "Военен самолет с 32 души на борда се разби в Нигерия",
-      "url": "https://dariknews.bg/novini/sviat/voenen-samolet-s-32-dushi-na-borda-se-razbi-v-nigeriia-2468266",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51391/51391577/991-ratio-nigeriia.jpg"
+      "title": "Александър Овечкин слага край на кариерата си в НХЛ 06 Окт | 09:10",
+      "url": "https://dsport.bg/aleksandar-ovechkin-slaga-krai-na-karierata-si-v-nhl~241497.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298314359.og.jpg"
     },
     {
-      "title": "Президентът на Иран: Преговорите със САЩ нямат смисъл",
-      "url": "https://dariknews.bg/novini/sviat/prezidentyt-na-iran-pregovorite-sys-sasht-niamat-smisyl-2468264",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392187/991-ratio-masud-pezeshkian.jpg"
+      "title": "Уилиан с шокиращи разкрития: Направих огромна грешка, като напуснах Челси заради Арсенал 06 Окт | 08:59",
+      "url": "https://dsport.bg/uilian-s-shokirasti-razkritia-napravih-ogromna-greshka-kato-napusnah-chelsi-zaradi-arsenal~241496.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1304531214.og.jpg"
+    },
+    {
+      "title": "Валтери Ботас сменя болида с колело, пътува 350 км до Сингапур 06 Окт | 08:50",
+      "url": "https://dsport.bg/valteri-botas-smena-bolida-s-kolelo-patuva-350-km-do-singapur~241495.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298324050.og.jpg"
+    },
+    {
+      "title": "Дани Олмо с трогателен жест към Хърватия, дарява част от заплатата си на Вуковар 06 Окт | 08:42",
+      "url": "https://dsport.bg/dani-olmo-s-trogatelen-zest-kam-harvatia-darava-chast-ot-zaplatata-si-na-vukovar~241494.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298647788.og.jpg"
     },
     {
       "title": "Арда Гюлер подписва нов договор с Реал Мадрид 06 Окт | 08:31",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297094542.og.jpg"
-    },
-    {
-      "title": "Италия повтори упражнението от Бурса в Болоня и остави Турция капо 05 Окт | 23:43",
-      "url": "https://dsport.bg/italia-povtori-upraznenieto-ot-bursa-v-bolona-i-ostavi-turcia-kapo~241486.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298750922.og.jpg"
-    },
-    {
-      "title": "Гологлавият петел кукурига в Париж! Резервите на Зидан унищожиха Белгия 05 Окт | 23:37",
-      "url": "https://dsport.bg/gologlaviat-petel-kukuriga-v-pariz-rezervite-na-zidan-unistoziha-belgia~241485.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298754189.og.jpg"
-    },
-    {
-      "title": "Де Ла Фуенте: Ямал изпитва напрежение, защото е в състоянието на гения 05 Окт | 23:19",
-      "url": "https://dsport.bg/de-la-fuente-amal-izpitva-naprezenie-zastoto-e-v-sastoanieto-na-genia~241484.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2157697989.og.jpg"
-    },
-    {
-      "title": "Отиде си легенда на българската лека атлетика 05 Окт | 23:05",
-      "url": "https://dsport.bg/otide-si-legenda-na-balgarskata-leka-atletika~241483.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/05.10-7.og.jpg"
     }
   ]
 }
