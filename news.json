@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-07T05:27:17.873163+00:00",
+  "updated": "2026-10-07T05:43:20.115584+00:00",
   "articles": [
     {
-      "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-potvyrdi-atakuvani-sa-dva-tyrgovski-koraba-ekipazhyt-na-ediniia-e-v-neizvestnost-video-2468284",
+      "title": "Меси затвори една велика страница: Гол и сълзи в последния му мач за Аржентина (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/mesi-zatvori-edna-velika-stranica-gol-i-sylzi-v-posledniia-mu-mach-za-arzhentina-videosnimki-2468388",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Започва процедура за избор на и.ф. главен прокурор",
@@ -20,7 +20,7 @@
       "url": "https://dariknews.bg/novini/sviat/trymp-i-putin-imat-nasrochen-razgovor-za-da-obsydiat-eventualniia-sluchaj-na-chuma-v-rusiia-2468386",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51073/51073048/991-ratio-putin-i-trymp.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Чехия няма да участва на „Евровизия“ в Бургас",
@@ -83,7 +83,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/ksns-pri-prezidenta-zaradi-atakite-s-dronove-obsyzhdat-riskovete-za-morskata-sigurnost-2468374",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51334/51334673/991-ratio-iliiana-iotova-zapochva-konsultacii-s-partiite-za-nov-systav-na.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Брокерката Пламена Денчева беше елиминирана от „Игри на волята“",
@@ -140,6 +140,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392509/991-ratio-nina-damianova.jpg"
+    },
+    {
+      "title": "208 мача, 126 гола и куп рекорди: какво оставя Меси след края с Аржентина 07 Окт | 08:26",
+      "url": "https://dsport.bg/208-macha-126-gola-i-kup-rekordi-kakvo-ostava-mesi-sled-kraa-s-arzentina~241595.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298981279.og.jpg"
     },
     {
       "title": "Голдън Стейт разгроми Лейкърс, Бруклин надви Шарлът в предсезонни мачове 07 Окт | 08:22",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037426~1.og.jpg"
-    },
-    {
-      "title": "Неймар с послание към Меси преди края с Аржентина 07 Окт | 00:26",
-      "url": "https://dsport.bg/neymar-poslanie-mesi-kray-argentina~241584.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1328070442.og.jpg"
     }
   ]
 }
