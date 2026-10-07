@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T14:22:56.478704+00:00",
+  "updated": "2026-10-07T14:39:19.959579+00:00",
   "articles": [
+    {
+      "title": "МОН ще променя учебните програми: Първо ще се изготвят концепции по предмети",
+      "url": "https://dariknews.bg/novini/bylgariia/mon-shte-promenia-uchebnite-programi-pyrvo-shte-se-izgotviat-koncepcii-po-predmeti-2468467",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51258/51258091/991-ratio-ventilacionni-sistemi-uchilishte.jpg"
+    },
+    {
+      "title": "Посолството на Русия за атакуваните в български води кораби: Не са сред целите, поразени от руската армия",
+      "url": "https://dariknews.bg/novini/bylgariia/posolstvoto-na-rusiia-za-atakuvanite-v-bylgarski-vodi-korabi-ne-sa-sred-celite-porazeni-ot-ruskata-armiia-2468466",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
+    },
     {
       "title": "Ново нападение с нож в училище в Истанбул: Ученик рани двама съученици",
       "url": "https://dariknews.bg/novini/sviat/novo-napadenie-s-nozh-v-uchilishte-v-istanbul-uchenik-rani-dvama-syuchenici-2468464",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Парламентът отхвърли предложението за минимални нива на заплащане за медиците",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-othvyrli-predlozhenieto-za-minimalni-niva-na-zaplashtane-za-medicite-2468444",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/33822/33822100/991-ratio-lekar-bolnica.jpg"
-    },
-    {
-      "title": "Откриха починал мъж в гараж в пазарджишко село",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/otkriha-pochinal-myzh-v-garazh-v-pazardzhishko-selo-2468443",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51082/51082382/991-ratio-policiia-lenta.jpg"
+      "title": "Тодор Янчев: Отдолу идва силно поколение, колективът отново ще е №1 (ВИДЕО) 07 Окт | 17:25",
+      "url": "https://dsport.bg/todor-anchev-otdolu-idva-silno-pokolenie-kolektivat-otnovo-ste-e-1-video~241646.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/857160-1~1.og.jpg"
     },
     {
       "title": "Първи кадри с Маркус Гиздол от тренировка на ЦСКА (ВИДЕО) 07 Окт | 17:11",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037836.og.jpg"
-    },
-    {
-      "title": "Южна Африка иска да приеме първите Олимпийски игри в Африка 07 Окт | 15:07",
-      "url": "https://dsport.bg/uzna-afrika-iska-da-prieme-parvite-olimpiiski-igri-v-afrika~241636.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2165879286.og.jpg"
     }
   ]
 }
