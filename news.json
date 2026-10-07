@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T12:34:55.736874+00:00",
+  "updated": "2026-10-07T12:58:23.135389+00:00",
   "articles": [
+    {
+      "title": "Заплетена битка за неприкосновеност противопоставя Канарите, Ураганите и Вулканите в “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/zapletena-bitka-za-neprikosnovenost-protivopostavia-kanarite-uraganite-i-vulkanite-v-igri-na-voliata-2468448",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393022/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "За първи път: АЕЦ „Козлодуй“ намалява мощността и на 6-и блок",
       "url": "https://dariknews.bg/novini/bylgariia/za-pyrvi-pyt-aec-kozloduj-namaliava-moshtnostta-i-na-6-i-blok-2468447",
@@ -16,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390985/991-ratio-car-samuil-tlenni-ostanki.jpg"
     },
     {
-      "title": "Автобус с пътници катастрофира в Старозагорско, има пострадали (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/avtobus-s-pytnici-katastrofira-v-starozagorsko-ima-postradali-snimkivideo-2468445",
+      "title": "Автобус с работници катастрофира в Старозагорско, шофьорът е с положителна проба за алкохол (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/stara-zagora/avtobus-s-rabotnici-katastrofira-v-starozagorsko-shofioryt-e-s-polozhitelna-proba-za-alkohol-snimkivideo-2468445",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51393/51393024/991-ratio-pavel-bania-avtobus-katastrofa.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Започват действия за отразяване в кадастралната карта на Боянското блато",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochvat-dejstviia-za-otraziavane-v-kadastralnata-karta-na-boianskoto-blato-2468426",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50572/50572058/991-ratio-boiansko-blato-boianskoto.jpg"
+      "title": "Теодор Салпаров се срещна с Весела Лечева и благодари на БОК за подкрепата 07 Окт | 15:43",
+      "url": "https://dsport.bg/teodor-salparov-se-srestna-s-vesela-lecheva-i-blagodari-na-bok-za-podkrepata~241639.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/img_7795-1-.og.jpg"
     },
     {
       "title": "Футболист на Ливърпул бе включен в списък с „врагове на Украйна“ 07 Окт | 15:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2277882812.og.jpg"
-    },
-    {
-      "title": "За първи път в България: Flash Jack ексклузивно в Palms Bet 07 Окт | 14:17",
-      "url": "https://dsport.bg/za-parvi-pat-v-balgaria-flash-jack-ekskluzivno-v-palms-bet~241629.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/flash_jack_.og.jpg"
     }
   ]
 }
