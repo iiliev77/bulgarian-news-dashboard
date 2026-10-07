@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:31:01.407917+00:00",
+  "updated": "2026-10-07T17:48:10.570210+00:00",
   "articles": [
     {
       "title": "Какво реши КСНС за сигурността на България",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
+      "title": "В Германия: Байерн подготвя грандиозна оферта за футболист на Барса 07 Окт | 20:47",
+      "url": "https://dsport.bg/v-germania-baiern-podgotva-grandiozna-oferta-za-futbolist-na-barsa~241656.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2286232658~1.og.jpg"
+    },
+    {
+      "title": "Сабах пусна билетите за Барселона на сензационна цена 07 Окт | 20:31",
+      "url": "https://dsport.bg/sabah-pusna-biletite-za-barselona-na-senzacionna-cena~241658.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296121473.og.jpg"
+    },
+    {
       "title": "Свитолина се разправи с американка и стигна четвъртфиналите в Пекин 07 Окт | 20:15",
       "url": "https://dsport.bg/svitolina-se-razpravi-s-amerikanka-i-stigna-chetvartfinalite-v-pekin~241652.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2275448629.og.jpg"
-    },
-    {
-      "title": "Рио Фърдинанд отново защити Роналдо след атаките към португалеца 07 Окт | 18:10",
-      "url": "https://dsport.bg/rio-ferdinand-otnovo-zastiti-ronaldo-sled-atakite-kam-portugaleca~241649.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2148603023~1.og.jpg"
-    },
-    {
-      "title": "Ковач се оплака от дългата пауза: Натоварването за играчите беше огромно 07 Окт | 17:55",
-      "url": "https://dsport.bg/kovach-se-oplaka-ot-dalgata-pauza-natovarvaneto-za-igrachite-beshe-ogromno~241648.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2202666386-1-2-1-1-1-1.og.jpg"
     }
   ]
 }
