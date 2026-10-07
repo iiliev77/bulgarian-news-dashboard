@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:22:43.663733+00:00",
+  "updated": "2026-10-07T18:43:35.981923+00:00",
   "articles": [
     {
       "title": "Какво реши КСНС за сигурността на България",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Тръмп: Не смятаме, че смъртта на лаборантка в Русия е свързана с биологично оръжие",
+      "url": "https://dariknews.bg/novini/sviat/trymp-ne-smiatame-che-smyrtta-na-laborantka-v-rusiia-e-svyrzana-s-biologichno-oryzhie-2468473",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
     },
     {
       "title": "САЩ предлагат такса от 70 000 долара за чуждестранни студенти за практика",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
     },
     {
-      "title": "Голям горски пожар избухна край село Побит камък, влязъл в България от Сърбия",
-      "url": "https://dariknews.bg/regioni/kiustendil/goliam-gorski-pozhar-izbuhna-kraj-selo-pobit-kamyk-vliazyl-v-bylgariia-ot-syrbiia-2468453",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+      "title": "Роналдо към Меси: Написа история, която ще остане завинаги 07 Окт | 21:30",
+      "url": "https://dsport.bg/ronaldo-kam-mesi-napisa-istoria-koato-ste-ostane-zavinagi~241663.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-698415070.og.jpg"
     },
     {
       "title": "Емоционален Меси: Невъзможно ми е да изразя всичко, което чувствам - ще ми липсвате 07 Окт | 21:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1024200~1.og.jpg"
-    },
-    {
-      "title": "За мъжеството, освобождаването и раздаването в националния отбор (ВИДЕО) 07 Окт | 19:00",
-      "url": "https://dsport.bg/za-mazestvoto-osvobozdavaneto-i-razdavaneto-v-nacionalnia-otbor-video~241653.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/komentarno-alpha-22-.og.png"
     }
   ]
 }
