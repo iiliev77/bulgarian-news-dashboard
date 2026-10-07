@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-07T14:03:16.505931+00:00",
+  "updated": "2026-10-07T14:22:56.478704+00:00",
   "articles": [
+    {
+      "title": "Ново нападение с нож в училище в Истанбул: Ученик рани двама съученици",
+      "url": "https://dariknews.bg/novini/sviat/novo-napadenie-s-nozh-v-uchilishte-v-istanbul-uchenik-rani-dvama-syuchenici-2468464",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50530/50530155/991-ratio-policiia-turciia.jpg"
+    },
+    {
+      "title": "Катастрофа с пострадали затруднява движението на пътя Благоевград-Симитли",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/katastrofa-s-postradali-zatrudniava-dvizhenieto-na-pytia-blagoevgrad-simitli-2468463",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
+    },
+    {
+      "title": "Създадоха пет териториални дирекции на ДАНС",
+      "url": "https://dariknews.bg/novini/bylgariia/syzdadoha-pet-teritorialni-direkcii-na-dans-2468462",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49673/49673066/991-ratio-dans-sgrada.jpg"
+    },
     {
       "title": "Правителството одобри придобиването на още пет нови зенитно-ракетни комплекси по линия на SAFE",
       "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-odobri-pridobivaneto-na-oshte-pet-novi-zenitno-raketni-kompleksi-po-liniia-na-safe-2468461",
@@ -104,7 +125,7 @@
       "url": "https://dariknews.bg/regioni/stara-zagora/avtobus-s-rabotnici-katastrofira-v-starozagorsko-shofioryt-e-s-polozhitelna-proba-za-alkohol-snimkivideo-2468445",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393024/991-ratio-pavel-bania-avtobus-katastrofa.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Парламентът отхвърли предложението за минимални нива на заплащане за медиците",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51082/51082382/991-ratio-policiia-lenta.jpg"
     },
     {
-      "title": "Повдигнаха обвинение на мъж, хвърлил тесла без дръжка по възрастна жена в Долни Богров",
-      "url": "https://dariknews.bg/regioni/sofiia/povdignaha-obvinenie-na-myzh-hvyrlil-tesla-bez-dryzhka-po-vyzrastna-zhena-v-dolni-bogrov-2468441",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157465/991-ratio-arest.jpg"
-    },
-    {
-      "title": "Съвместни обучения: МВР и Граничният патрул на САЩ задълбочават сътрудничеството",
-      "url": "https://dariknews.bg/novini/bylgariia/syvmestni-obucheniia-mvr-i-granichniiat-patrul-na-sasht-zadylbochavat-sytrudnichestvoto-2468440",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392992/991-ratio-liubomir-nikolov-razgovaria-s-rosario-vaskez.jpg"
-    },
-    {
-      "title": "Кремъл: ЕС е обсебен от идеята за милитаризация",
-      "url": "https://dariknews.bg/novini/sviat/kremyl-es-e-obseben-ot-ideiata-za-militarizaciia-2468439",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51008/51008332/991-ratio-peskov.jpg"
+      "title": "Първи кадри с Маркус Гиздол от тренировка на ЦСКА (ВИДЕО) 07 Окт | 17:11",
+      "url": "https://dsport.bg/parvi-kadri-s-markus-gizdol-ot-trenirovka-na-cska-video~241645.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037104~1.og.jpg"
     },
     {
       "title": "Гледайте Спортното шоу на Дарик - 07.10.2026 07 Окт | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2165879286.og.jpg"
-    },
-    {
-      "title": "Тодор Ангелов: Промяната е твърде наложителна и не мога да стоя настрани 07 Окт | 14:50",
-      "url": "https://dsport.bg/todor-angelov-promanata-e-tvarde-nalozitelna-i-ne-moga-da-stoa-nastrani~241633.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2026-10-07_14-22-03-942.og.jpg"
     }
   ]
 }
