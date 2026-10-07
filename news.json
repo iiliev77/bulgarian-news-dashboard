@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-07T07:58:53.356504+00:00",
+  "updated": "2026-10-07T08:15:22.617169+00:00",
   "articles": [
+    {
+      "title": "Кола помете 74-годишна жена на пешеходна пътека в Благоевград",
+      "url": "https://dariknews.bg/novini/bylgariia/kola-pomete-74-godishna-zhena-na-peshehodna-pyteka-v-blagoevgrad-2468408",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51284/51284496/991-ratio-peshehodna-pyteka.jpg"
+    },
+    {
+      "title": "Тежка катастрофа между джип и ТИР във Врачанско, има пострадал",
+      "url": "https://dariknews.bg/regioni/vraca/tezhka-katastrofa-mezhdu-dzhip-i-tir-vyv-vrachansko-ima-postradal-2468407",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
+    },
+    {
+      "title": "Германски вестник: Георги Господинов е сред фаворитите за Нобеловата награда за литература",
+      "url": "https://dariknews.bg/novini/bylgariia/germanski-vestnik-georgi-gospodinov-e-sred-favoritite-za-nobelovata-nagrada-za-literatura-2468406",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392838/991-ratio-georgi-gospodinov.jpg"
+    },
+    {
+      "title": "Кения с първи смъртен случай от ебола (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/keniia-s-pyrvi-smyrten-sluchaj-ot-ebola-video-2468405",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51331/51331026/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
+    },
+    {
+      "title": "OpenAI избра български учен за разработването на нова AI технология",
+      "url": "https://dariknews.bg/novini/bylgariia/openai-izbra-bylgarski-uchen-za-razrabotvaneto-na-nova-ai-tehnologiia-2468404",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51130/51130027/991-ratio-izkustven-intelekt.jpg"
+    },
     {
       "title": "Тръмп: Никой не знае кой управлява Иран",
       "url": "https://dariknews.bg/novini/sviat/trymp-nikoj-ne-znae-koj-upravliava-iran-2468403",
@@ -107,39 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Тръмп и Путин имат насрочен разговор, за да обсъдят евентуалния случай на чума в Русия",
-      "url": "https://dariknews.bg/novini/sviat/trymp-i-putin-imat-nasrochen-razgovor-za-da-obsydiat-eventualniia-sluchaj-na-chuma-v-rusiia-2468386",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Нов напрежение около Мбапе: летял до Париж, а Моуриньо го привикал за разговор 07 Окт | 11:11",
+      "url": "https://dsport.bg/nov-naprezenie-okolo-mbape-letal-do-pariz-a-mourino-go-privikal-za-razgovor~241611.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2295238228-1.og.jpg"
     },
     {
-      "title": "Чехия няма да участва на „Евровизия“ в Бургас",
-      "url": "https://dariknews.bg/novini/sviat/chehiia-niama-da-uchastva-na-evroviziia-v-burgas-2468385",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51368/51368411/991-ratio-burgas-evroviziia.jpg"
-    },
-    {
-      "title": "Държавният секретар на САЩ пристигна в Атина, проведе се антивоенен протест против посещението му",
-      "url": "https://dariknews.bg/novini/sviat/dyrzhavniiat-sekretar-na-sasht-pristigna-v-atina-provede-se-antivoenen-protest-protiv-poseshtenieto-mu-2468384",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392789/991-ratio-gyrciia.jpg"
-    },
-    {
-      "title": "„Възстановяването ѝ е безпрецедентно“: Криста Пайк, оцеляла след след две смъртоносни инжекции, е в съзнание",
-      "url": "https://dariknews.bg/novini/sviat/vyzstanoviavaneto-e-bezprecedentno-krista-pajk-oceliala-sled-sled-dve-smyrtonosni-inzhekcii-e-v-syznanie-2468383",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392708/991-ratio-krista-pajk.jpg"
-    },
-    {
-      "title": "САЩ и Иран: Дипломация или ескалация на ръба",
-      "url": "https://dariknews.bg/novini/sviat/sasht-i-iran-diplomaciia-ili-eskalaciia-na-ryba-2468201",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51128/51128063/991-ratio-sasht-iran.jpg"
+      "title": "Скандал на сбогуването с Меси: „Монументал“ освирка президента на аржентинската федерация след рекламно дрон шоу (ВИДЕО) 07 Окт | 10:54",
+      "url": "https://dsport.bg/skandal-na-sboguvaneto-s-mesi-monumental-osvirka-prezidenta-na-arzentinskata-federacia-sled-reklamno-dron-shou-video~241610.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298380471.og.jpg"
     },
     {
       "title": "Скалони за Меси: Никога не съм си представял, че ще тренирам най-добрия футболист в историята 07 Окт | 10:50",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298534525~1.og.jpg"
-    },
-    {
-      "title": "От \"чужденец\" до национален идол: как Аржентина се научи да обича Меси 07 Окт | 09:35",
-      "url": "https://dsport.bg/ot-chuzdenec-do-nacionalen-idol-kak-arzentina-se-nauchi-da-obicha-mesi~241600.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298976087.og.jpg"
-    },
-    {
-      "title": "Жълт и червен картон за Меси след последния му мач (ВИДЕО) 07 Окт | 09:13",
-      "url": "https://dsport.bg/zalt-i-cherven-karton-za-mesi-sled-poslednia-mu-mach-video~241599.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/screenshot_2~205.og.jpg"
     }
   ]
 }
