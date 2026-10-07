@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T15:36:47.193913+00:00",
+  "updated": "2026-10-07T15:56:42.799248+00:00",
   "articles": [
     {
       "title": "На живо: Какво реши КСНС за сигурността на България",
@@ -9,18 +9,25 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Радев: Не може да кажа, че има непосредствена заплаха за националната ни сигурност, но има рискове",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-ne-mozhe-da-kazha-che-ima-neposredstvena-zaplaha-za-nacionalnata-ni-sigurnost-no-ima-riskove-2468468",
+      "title": "Стан Милър, СЕО на United Group, участва в дискусия за дигиталното бъдеще на Европа",
+      "url": "https://dariknews.bg/novini/obshtestvo/stan-milyr-seo-na-united-group-uchastva-v-diskusiia-za-digitalnoto-bydeshte-na-evropa-2468469",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51371/51371055/991-ratio-rumen-radev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51393/51393106/991-ratio-stan-milyr.jpg"
+    },
+    {
+      "title": "Радев: Комуникация с украинските служби какви са дроновете - не е имало, какво е казал Зеленски, си е за негова сметка",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-komunikaciia-s-ukrainskite-sluzhbi-kakvi-sa-dronovete-ne-e-imalo-kakvo-e-kazal-zelenski-si-e-za-negova-smetka-2468468",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Има ли опасност за България: Посланията на партиите след КСНС",
       "url": "https://dariknews.bg/novini/bylgariia/ima-li-opasnost-za-bylgariia-poslaniiata-na-partiite-sled-ksns-2468415",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "МОН ще променя учебните програми: Първо ще се изготвят концепции по предмети",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50119/50119331/991-ratio-neft.jpg"
     },
     {
-      "title": "Заплетена битка за неприкосновеност противопоставя Канарите, Ураганите и Вулканите в “Игри на волята”",
-      "url": "https://dariknews.bg/novini/liubopitno/zapletena-bitka-za-neprikosnovenost-protivopostavia-kanarite-uraganite-i-vulkanite-v-igri-na-voliata-2468448",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393022/991-ratio-igri-na-voliata.jpg"
+      "title": "Еду Гаспар отвори нова бразилска врата - каква е връзката с Левски? 07 Окт | 18:45",
+      "url": "https://dsport.bg/edu-gaspar-otvori-nova-brazilska-vrata-kakva-e-vrazkata-s-levski~241651.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1028432.og.jpg"
     },
     {
       "title": "Капитан на клуб от Ла Лига прекара нощта в ареста 07 Окт | 18:27",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/kisimov_ofenbah_3-2-~1.og.jpg"
-    },
-    {
-      "title": "Националният отбор по футбол вече заема 90-о място в ранглистата на ФИФА 07 Окт | 16:25",
-      "url": "https://dsport.bg/nacionalniat-otbor-po-futbol-veche-zaema-90-o-masto-v-ranglistata-na-fifa~241641.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037407.og.jpg"
     }
   ]
 }
