@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-07T05:57:07.426070+00:00",
+  "updated": "2026-10-07T06:11:06.499722+00:00",
   "articles": [
     {
-      "title": "Вицеадмирал Николов: Операцията по издирване на моряци от първия кораб е прекратена и няма да се поднови",
-      "url": "https://dariknews.bg/novini/bylgariia/viceadmiral-nikolov-operaciiata-po-izdirvane-na-moriaci-ot-pyrviia-korab-e-prekratena-i-niama-da-se-podnovi-2468389",
+      "title": "Без следа от екипажа: Прекратиха операцията по издирване на моряци от първия кораб",
+      "url": "https://dariknews.bg/novini/bylgariia/bez-sleda-ot-ekipazha-prekratiha-operaciiata-po-izdirvane-na-moriaci-ot-pyrviia-korab-2468389",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Гатузо разкри за заболяване, сложило преждевременен край на кариерата му 07 Окт | 08:58",
+      "url": "https://dsport.bg/gatuzo-razkri-za-zabolavane-slozilo-prezdevremenen-krai-na-karierata-mu~241598.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1409584494-1-2-1~1.og.jpg"
+    },
+    {
       "title": "В сянката на Меси: Отаменди също каза сбогом на Аржентина 07 Окт | 08:48",
       "url": "https://dsport.bg/v-sankata-na-mesi-otamendi-sasto-kaza-sbogom-na-arzentina~241597.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298964447~1.og.jpg"
-    },
-    {
-      "title": "Меси в сълзи в автобуса на Аржентина преди последния си мач (ВИДЕО) 07 Окт | 02:40",
-      "url": "https://dsport.bg/mesi-v-salzi-v-avtobusa-na-arzentina-predi-poslednia-si-mach-video~241588.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/messi1.og.jpeg"
     }
   ]
 }
