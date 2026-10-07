@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T15:56:42.799248+00:00",
+  "updated": "2026-10-07T16:12:20.032881+00:00",
   "articles": [
     {
       "title": "На живо: Какво реши КСНС за сигурността на България",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/50119/50119331/991-ratio-neft.jpg"
     },
     {
+      "title": "За мъжеството, освобождаването и раздаването в националния отбор (ВИДЕО) 07 Окт | 19:00",
+      "url": "https://dsport.bg/za-mazestvoto-osvobozdavaneto-i-razdavaneto-v-nacionalnia-otbor-video~241653.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/komentarno-alpha-22-.og.png"
+    },
+    {
       "title": "Еду Гаспар отвори нова бразилска врата - каква е връзката с Левски? 07 Окт | 18:45",
       "url": "https://dsport.bg/edu-gaspar-otvori-nova-brazilska-vrata-kakva-e-vrazkata-s-levski~241651.html",
       "source": "Dsport",
@@ -156,7 +163,7 @@
       "image": "https://dsport.bg/media/384/gettyimages-2275448629.og.jpg"
     },
     {
-      "title": "Рио Фердинанд отново защити Роналдо след атаките към португалеца 07 Окт | 18:10",
+      "title": "Рио Фърдинанд отново защити Роналдо след атаките към португалеца 07 Окт | 18:10",
       "url": "https://dsport.bg/rio-ferdinand-otnovo-zastiti-ronaldo-sled-atakite-kam-portugaleca~241649.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296971370~2.og.jpg"
-    },
-    {
-      "title": "Димитър Кисимов постигна трета поредна победа на турнир за мъже в Италия 07 Окт | 16:38",
-      "url": "https://dsport.bg/dimitar-kisimov-postigna-treta-poredna-pobeda-na-turnir-za-maze-v-italia~241642.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/kisimov_ofenbah_3-2-~1.og.jpg"
     }
   ]
 }
