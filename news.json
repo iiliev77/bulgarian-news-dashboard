@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T09:03:16.634082+00:00",
+  "updated": "2026-10-07T09:22:27.838216+00:00",
   "articles": [
+    {
+      "title": "Важно за софиянци между 9 и 11 октомври: Промени в градския транспорт заради Маратон София 2026",
+      "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-mezhdu-9-i-11-oktomvri-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392881/991-ratio-maraton-sofiia.jpg"
+    },
     {
       "title": "Средният осигурителен доход за август е 1056,31 евро",
       "url": "https://dariknews.bg/novini/bylgariia/sredniiat-osiguritelen-dohod-za-avgust-e-105631-evro-2468419",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392830/991-ratio-veta.jpg"
     },
     {
-      "title": "Измамници подменят банкови сметки по имейл: Щетите за институции и фирми стигат стотици хиляди евро",
-      "url": "https://dariknews.bg/regioni/razgrad/izmamnici-podmeniat-bankovi-smetki-po-imejl-shtetite-za-institucii-i-firmi-stigat-stotici-hiliadi-evro-2468400",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50466/50466246/991-ratio-kompiutyr.jpg"
+      "title": "Президентът на Аржентина за Меси: Най-добрият на всички времена, с голяма разлика 07 Окт | 12:15",
+      "url": "https://dsport.bg/prezidentat-na-arzentina-za-mesi-nai-dobriat-na-vsichki-vremena-s-golama-razlika~241615.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298980220.og.jpg"
     },
     {
       "title": "Какаду надви кенгуру, коала и ибис в битката за Бризбейн 2032 07 Окт | 11:41",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1472371211-1~1.og.jpg"
-    },
-    {
-      "title": "Байерн набеляза Тарик Мухаремович, Лийдс го оценява на над 70 милиона евро 07 Окт | 10:22",
-      "url": "https://dsport.bg/baiern-nabelaza-tarik-muharemovich-liids-go-ocenava-na-nad-70-miliona-evro~241605.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296580201.og.jpg"
     }
   ]
 }
