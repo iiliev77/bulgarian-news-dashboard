@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T16:33:02.037518+00:00",
+  "updated": "2026-10-07T16:51:33.064748+00:00",
   "articles": [
     {
       "title": "Какво реши КСНС за сигурността на България",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Заради пожар и силно задимяване: Ограничиха движението по пътя София - Русе край Плевен",
+      "url": "https://dariknews.bg/regioni/pleven/zaradi-pozhar-i-silno-zadimiavane-ogranichiha-dvizhenieto-po-pytia-sofiia-ruse-kraj-pleven-2468470",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196670/640-420-pozharna.jpg"
     },
     {
       "title": "Стан Милър, СЕО на United Group, участва в дискусия за дигиталното бъдеще на Европа",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51009/51009029/991-ratio-brak-liubov-dvojka-svatba.jpg"
     },
     {
-      "title": "Комисията по енергетика не подкрепи промени, даващи на МС да поиска изключение за внос на нефт от Русия",
-      "url": "https://dariknews.bg/novini/bylgariia/komisiiata-po-energetika-ne-podkrepi-promeni-davashti-na-ms-da-poiska-izkliuchenie-za-vnos-na-neft-ot-rusiia-2468450",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50119/50119331/991-ratio-neft.jpg"
+      "title": "Кой всъщност печели Купата на Африка? Скандалният финал влиза в съда 07 Окт | 19:46",
+      "url": "https://dsport.bg/koi-vsastnost-pecheli-kupata-na-afrika-skandalniat-final-vliza-v-sada~241655.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2256426487.og.jpg"
     },
     {
       "title": "Бербатов стана лице на новата ретро колекция на Манчестър Юнайтед 07 Окт | 19:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/857160-1~1.og.jpg"
-    },
-    {
-      "title": "Първи кадри с Маркус Гиздол от тренировка на ЦСКА (ВИДЕО) 07 Окт | 17:11",
-      "url": "https://dsport.bg/parvi-kadri-s-markus-gizdol-ot-trenirovka-na-cska-video~241645.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037104~1.og.jpg"
     }
   ]
 }
