@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T05:43:20.115584+00:00",
+  "updated": "2026-10-07T05:57:07.426070+00:00",
   "articles": [
+    {
+      "title": "Вицеадмирал Николов: Операцията по издирване на моряци от първия кораб е прекратена и няма да се поднови",
+      "url": "https://dariknews.bg/novini/bylgariia/viceadmiral-nikolov-operaciiata-po-izdirvane-na-moriaci-ot-pyrviia-korab-e-prekratena-i-niama-da-se-podnovi-2468389",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
+    },
     {
       "title": "Меси затвори една велика страница: Гол и сълзи в последния му мач за Аржентина (ВИДЕО/СНИМКИ)",
       "url": "https://dariknews.bg/novini/sviat/mesi-zatvori-edna-velika-stranica-gol-i-sylzi-v-posledniia-mu-mach-za-arzhentina-videosnimki-2468388",
@@ -135,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Почина актрисата Нина Дамянова",
-      "url": "https://dariknews.bg/novini/bylgariia/pochina-aktrisata-nina-damianova-2468371",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392509/991-ratio-nina-damianova.jpg"
+      "title": "В сянката на Меси: Отаменди също каза сбогом на Аржентина 07 Окт | 08:48",
+      "url": "https://dsport.bg/v-sankata-na-mesi-otamendi-sasto-kaza-sbogom-na-arzentina~241597.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298972132.og.jpg"
+    },
+    {
+      "title": "Неймар към Меси: Не само Аржентина ти благодари, целият свят ти благодари 07 Окт | 08:39",
+      "url": "https://dsport.bg/neimar-kam-mesi-ne-samo-arzentina-ti-blagodari-celiat-svat-ti-blagodari~241596.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1454162261.og.jpg"
     },
     {
       "title": "208 мача, 126 гола и куп рекорди: какво оставя Меси след края с Аржентина 07 Окт | 08:26",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/messi1.og.jpeg"
-    },
-    {
-      "title": "Швейцария прегази Северна Македония за 4/4 в Лигата на нациите 07 Окт | 00:38",
-      "url": "https://dsport.bg/shveicaria-pregazi-severna-makedonia-za-4-4-v-ligata-na-naciite~241585.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298947410.og.jpg"
-    },
-    {
-      "title": "Андриан Краев: В първите два мача излизахме без план, без тактика (ВИДЕО) 07 Окт | 00:36",
-      "url": "https://dsport.bg/andrian-kraev-v-parvite-dva-macha-izlizahme-bez-plan-bez-taktika~241586.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037426~1.og.jpg"
     }
   ]
 }
