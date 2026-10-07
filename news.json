@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T20:13:17.265073+00:00",
+  "updated": "2026-10-07T20:31:10.642382+00:00",
   "articles": [
+    {
+      "title": "Матей и Константинели от Вулканите са първите номинирани в „Игри на волята“ тази седмица",
+      "url": "https://dariknews.bg/novini/liubopitno/matej-i-konstantineli-ot-vulkanite-sa-pyrvite-nominirani-v-igri-na-voliata-tazi-sedmica-2468479",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393139/991-ratio-igri.jpg"
+    },
     {
       "title": "Ердоган и Путин обсъдиха сигурността на корабоплаването в Черно море",
       "url": "https://dariknews.bg/novini/sviat/erdogan-i-putin-obsydiha-sigurnostta-na-koraboplavaneto-v-cherno-more-2468478",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51188/51188434/991-ratio-bashta-bebe.jpg"
     },
     {
-      "title": "Над 200 000 души са разселени в Йемен заради военните действия между правителството и хутите",
-      "url": "https://dariknews.bg/novini/sviat/nad-200-000-dushi-sa-razseleni-v-jemen-zaradi-voennite-dejstviia-mezhdu-pravitelstvoto-i-hutite-2468456",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51132/51132324/991-ratio-huti.jpg"
+      "title": "Инфантино вече има конкурент за президентския пост във ФИФА 07 Окт | 23:15",
+      "url": "https://dsport.bg/infantino-veche-ima-konkurent-za-prezidentskia-post-vav-fifa~241667.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-610622062.og.jpg"
     },
     {
       "title": "От 15 часа в работен ден: Нефтохимик получи отказ от БФС за мача с ЦСКА 1948 07 Окт | 23:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2296121473.og.jpg"
-    },
-    {
-      "title": "Свитолина се разправи с американка и стигна четвъртфиналите в Пекин 07 Окт | 20:15",
-      "url": "https://dsport.bg/svitolina-se-razpravi-s-amerikanka-i-stigna-chetvartfinalite-v-pekin~241652.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2299064697.og.jpg"
     }
   ]
 }
