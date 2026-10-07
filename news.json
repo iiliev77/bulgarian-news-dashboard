@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T00:15:14.957869+00:00",
+  "updated": "2026-10-07T00:43:44.512627+00:00",
   "articles": [
     {
       "title": "Атакуваха с дронове товарни кораби в български води, Румен Радев - абсолютно недопустимо",
@@ -142,7 +142,21 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392422/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
     },
     {
-      "title": "На живо: Последният танц - Лионел Меси се сбогува завинаги с Аржентина 07 Окт | 03:05",
+      "title": "Лионел Меси получи безпрецедентна почит 07 Окт | 03:30",
+      "url": "https://dsport.bg/lionel-mesi-poluchi-bezprecedentna-pochit~241591.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298964897.og.jpg"
+    },
+    {
+      "title": "Лионел Меси с най-високо отличие: стана „Доктор хонорис кауза“ на Университета в Буенос Айрес 07 Окт | 03:19",
+      "url": "https://dsport.bg/lionel-mesi-s-nai-visoko-otlichie-stana-doktor-honoris-kauza-na-universiteta-v-buenos-aires~241590.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/carba16.og.jpg"
+    },
+    {
+      "title": "На живо: Последният танц - Лионел Меси се сбогува завинаги с Аржентина 07 Окт | 03:17",
       "url": "https://dsport.bg/na-zivo-posledniat-tanc-lionel-mesi-se-sboguva-zavinagi-s-arzentina~241587.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037571~1.og.jpg"
-    },
-    {
-      "title": "Атанас Илиев: Исках да отпразнуваме заедно този хубав гол 07 Окт | 00:07",
-      "url": "https://dsport.bg/atanas-iliev-iskah-da-otpraznuvame-zaedno-tozi-hubav-gol~241582.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037636~1.og.jpg"
-    },
-    {
-      "title": "Рибарски: Една победа няма да значи нищо, ако отборът няма облик 07 Окт | 00:01",
-      "url": "https://dsport.bg/ribarski-edna-pobeda-nama-da-znachi-nisto-ako-otborat-nama-oblik~241581.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037733~1.og.jpg"
     }
   ]
 }
