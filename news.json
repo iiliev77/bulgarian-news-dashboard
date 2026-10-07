@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-07T16:12:20.032881+00:00",
+  "updated": "2026-10-07T16:33:02.037518+00:00",
   "articles": [
     {
-      "title": "На живо: Какво реши КСНС за сигурността на България",
+      "title": "Какво реши КСНС за сигурността на България",
       "url": "https://dariknews.bg/novini/bylgariia/zapochna-ksns-pri-prezidenta-zaradi-atakite-s-dronove-obsyzhdat-riskovete-za-morskata-sigurnost-2468374",
       "source": "DarikNews",
       "section": "news",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50119/50119331/991-ratio-neft.jpg"
     },
     {
+      "title": "Бербатов стана лице на новата ретро колекция на Манчестър Юнайтед 07 Окт | 19:28",
+      "url": "https://dsport.bg/berbatov-stana-lice-na-novata-retro-kolekcia-na-manchestar-unaited~241654.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1935532864~2.og.jpg"
+    },
+    {
+      "title": "Министърът на спорта: Щангистите са обезпечени финансово за Световното 07 Окт | 19:16",
+      "url": "https://dsport.bg/ministarat-na-sporta-stangistite-sa-obezpecheni-finansovo-za-svetovnoto~241657.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1024200~1.og.jpg"
+    },
+    {
       "title": "За мъжеството, освобождаването и раздаването в националния отбор (ВИДЕО) 07 Окт | 19:00",
       "url": "https://dsport.bg/za-mazestvoto-osvobozdavaneto-i-razdavaneto-v-nacionalnia-otbor-video~241653.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1037104~1.og.jpg"
-    },
-    {
-      "title": "Гледайте Спортното шоу на Дарик - 07.10.2026 07 Окт | 17:00",
-      "url": "https://dsport.bg/gledaite-sportnoto-shou-na-darik-07-10-2026~241644.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/dfdgsgf.og.png"
-    },
-    {
-      "title": "Жорже Жезус коментира изявлението на Кристиано Роналдо 07 Окт | 16:50",
-      "url": "https://dsport.bg/zorze-zezus-komentira-izavlenieto-na-kristiano-ronaldo~241643.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2296971370~2.og.jpg"
     }
   ]
 }
