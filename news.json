@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T10:41:29.354645+00:00",
+  "updated": "2026-10-07T10:56:28.756833+00:00",
   "articles": [
+    {
+      "title": "ЕС предоставя спътникови данни на България след атаките с дронове в Черно море",
+      "url": "https://dariknews.bg/novini/sviat/es-predostavia-spytnikovi-danni-na-bylgariia-sled-atakite-s-dronove-v-cherno-more-2468435",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
+    },
+    {
+      "title": "Отстраниха от длъжност кмет в Плевенско с обвинения за измами и документни престъпления",
+      "url": "https://dariknews.bg/regioni/pleven/otstraniha-ot-dlyzhnost-kmet-v-plevensko-s-obvineniia-za-izmami-i-dokumentni-prestypleniia-2468433",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50232/50232731/991-ratio-dokument.jpg"
+    },
     {
       "title": "Пожар избухна в склад с опасни материали в Белград",
       "url": "https://dariknews.bg/novini/sviat/pozhar-izbuhna-v-sklad-s-opasni-materiali-v-belgrad-2468432",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392866/991-ratio-akciia-dupnica-kiustendil.jpg"
     },
     {
-      "title": "Регистрираха втори грипен вирус за сезона у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/registriraha-vtori-gripen-virus-za-sezona-u-nas-2468413",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50766/50766020/991-ratio-grip.jpg"
-    },
-    {
-      "title": "Операцията в Черно море: Подробности за дроновете и действията на ВМС след инцидента с двата кораба",
-      "url": "https://dariknews.bg/regioni/varna/operaciiata-v-cherno-more-podrobnosti-za-dronovete-i-dejstviiata-na-vms-sled-incidenta-s-dvata-koraba-2468411",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Шакира с ново искане към Пике 07 Окт | 13:55",
+      "url": "https://dsport.bg/shakira-s-novo-iskane-kam-pike~241627.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-180702000.og.jpg"
     },
     {
       "title": "Формула 1 е близо до завръщане в Африка 07 Окт | 13:35",
@@ -149,7 +156,7 @@
       "image": "https://dsport.bg/media/384/gettyimages-2294327400.og.jpg"
     },
     {
-      "title": "Никой от националите на Португалия не е харесализявлението на Роналдо 07 Окт | 13:33",
+      "title": "Никой от националите на Португалия не е харесал изявлението на Роналдо 07 Окт | 13:33",
       "url": "https://dsport.bg/nikoi-ot-nacionalite-na-portugalia-ne-e-haresalizavlenieto-na-ronaldo~241626.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298054401~1.og.jpg"
-    },
-    {
-      "title": "Обрат с Карвахал: трансферът му в Хетафе пропадна в последния момент 07 Окт | 12:32",
-      "url": "https://dsport.bg/obrat-s-karvahal-transferat-mu-v-hetafe-propadna-v-poslednia-moment~241616.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2277881103~1.og.jpg"
     }
   ]
 }
