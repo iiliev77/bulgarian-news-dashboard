@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-07T13:16:23.600398+00:00",
+  "updated": "2026-10-07T13:36:17.805205+00:00",
   "articles": [
+    {
+      "title": "Над 200 000 души са разселени в Йемен заради военните действия между правителството и хутите",
+      "url": "https://dariknews.bg/novini/sviat/nad-200-000-dushi-sa-razseleni-v-jemen-zaradi-voennite-dejstviia-mezhdu-pravitelstvoto-i-hutite-2468456",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51132/51132324/991-ratio-huti.jpg"
+    },
+    {
+      "title": "Пореден ден на сигнали за бомби в страната",
+      "url": "https://dariknews.bg/regioni/stara-zagora/poreden-den-na-signali-za-bombi-v-stranata-2468455",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+    },
+    {
+      "title": "Правната комисия определи датите за изслушване на кандидатите за ВСС",
+      "url": "https://dariknews.bg/novini/bylgariia/pravnata-komisiia-opredeli-datite-za-izslushvane-na-kandidatite-za-vss-2468454",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+    },
     {
       "title": "Голям горски пожар избухна край село Побит камък, влязъл в България от Сърбия",
       "url": "https://dariknews.bg/regioni/kiustendil/goliam-gorski-pozhar-izbuhna-kraj-selo-pobit-kamyk-vliazyl-v-bylgariia-ot-syrbiia-2468453",
@@ -9,11 +30,11 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
-      "title": "Съмнителен багаж около фонтана пред президентството - какво се случва в центъра на София",
-      "url": "https://dariknews.bg/novini/bylgariia/symnitelen-bagazh-okolo-fontana-pred-prezidentstvoto-kakvo-se-sluchva-v-centyra-na-sofiia-2468451",
+      "title": "Съмнителен багаж около фонтана пред президентството в София вдигна службите на крак (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/symnitelen-bagazh-okolo-fontana-pred-prezidentstvoto-v-sofiia-vdigna-sluzhbite-na-krak-snimkivideo-2468451",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393045/991-ratio-symnitelen-bazhat-prezidentstvo.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Подписвала вместо младоженците: Задържаха служителка на Община Ямбол за измама с фиктивни граждански бракове",
@@ -93,8 +114,8 @@
       "image": "https://m.netinfo.bg/media/images/51008/51008332/991-ratio-peskov.jpg"
     },
     {
-      "title": "Шефът на Клиниката по равматология в УМБАЛ „Свети Георги“ в Пловдив е направила самопризнания (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/shefyt-na-klinikata-po-ravmatologiia-v-umbal-sveti-georgi-v-plovdiv-e-napravila-samopriznaniia-snimki-2468438",
+      "title": "Шефът на Клиниката по ревматология в УМБАЛ „Свети Георги“ в Пловдив е направила самопризнания (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/shefyt-na-klinikata-po-revmatologiia-v-umbal-sveti-georgi-v-plovdiv-e-napravila-samopriznaniia-snimki-2468438",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392998/991-ratio-iztochvane-nzok-plovdiv.jpg"
@@ -121,25 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Отстраниха от длъжност кмет в Плевенско с обвинения за измами и документни престъпления",
-      "url": "https://dariknews.bg/regioni/pleven/otstraniha-ot-dlyzhnost-kmet-v-plevensko-s-obvineniia-za-izmami-i-dokumentni-prestypleniia-2468433",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50232/50232731/991-ratio-dokument.jpg"
-    },
-    {
-      "title": "Пожар избухна в склад с опасни материали в Белград",
-      "url": "https://dariknews.bg/novini/sviat/pozhar-izbuhna-v-sklad-s-opasni-materiali-v-belgrad-2468432",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50948/50948408/991-ratio-pozhar-ogyn-pozharna-pozharnikari.jpg"
-    },
-    {
-      "title": "България за втори път поема командването на Противоминната група в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-za-vtori-pyt-poema-komandvaneto-na-protivominnata-grupa-v-cherno-more-2468431",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392978/991-ratio-na-morskata-gara-vyv-varna-se-provezhda-oficialnata-ceremoniia-po.jpg"
+      "title": "Националният отбор по футбол вече заема 90-о място в ранглистата на ФИФА 07 Окт | 16:25",
+      "url": "https://dsport.bg/nacionalniat-otbor-po-futbol-veche-zaema-90-o-masto-v-ranglistata-na-fifa~241641.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/1037407.og.jpg"
     },
     {
       "title": "Ралф Шумахер смята, че Цолов ще замени Лоусън в Рейсинг Булс 07 Окт | 16:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1012952~1.og.jpg"
-    },
-    {
-      "title": "Рибарски: Вярвам, че е близо времето България отново да се върне там, където ѝ е мястото (ВИДЕО) 07 Окт | 14:27",
-      "url": "https://dsport.bg/ribarski-edna-pobeda-ne-znachi-nisto-ako-balgaria-nama-oblik-video~241631.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1036023-1.og.jpg"
     }
   ]
 }
