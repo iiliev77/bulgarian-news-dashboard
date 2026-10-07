@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-07T08:15:22.617169+00:00",
+  "updated": "2026-10-07T08:35:42.413162+00:00",
   "articles": [
+    {
+      "title": "Регистрираха втори грипен вирус за сезона у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/registriraha-vtori-gripen-virus-za-sezona-u-nas-2468413",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50766/50766020/991-ratio-grip.jpg"
+    },
+    {
+      "title": "Операцията в Черно море: Подробности за дроновете и действията на ВМС след инцидента с двата кораба",
+      "url": "https://dariknews.bg/regioni/varna/operaciiata-v-cherno-more-podrobnosti-za-dronovete-i-dejstviiata-na-vms-sled-incidenta-s-dvata-koraba-2468411",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Димитър Димитров е новият началник на „Пътна полиция“ в Стара Загора",
+      "url": "https://dariknews.bg/novini/bylgariia/dimityr-dimitrov-e-noviiat-nachalnik-na-pytna-policiia-v-stara-zagora-2468412",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392861/991-ratio-odmvr-stara-zagora.jpg"
+    },
+    {
+      "title": "Къде е щастието? И защо толкова често го търсим на грешното място?",
+      "url": "https://dariknews.bg/novini/liubopitno/kyde-e-shtastieto-i-zashto-tolkova-chesto-go-tyrsim-na-greshnoto-miasto-2468409",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392842/991-ratio-kalina-zhuleva.jpg"
+    },
+    {
+      "title": "ПБ в декларация: Амбицията на България не може да бъде повече хора да получават минимална заплата",
+      "url": "https://dariknews.bg/novini/bylgariia/pb-v-deklaraciia-ambiciiata-na-bylgariia-ne-mozhe-da-byde-poveche-hora-da-poluchavat-minimalna-zaplata-2468410",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51269/51269385/991-ratio-zaplata.jpg"
+    },
     {
       "title": "Кола помете 74-годишна жена на пешеходна пътека в Благоевград",
       "url": "https://dariknews.bg/novini/bylgariia/kola-pomete-74-godishna-zhena-na-peshehodna-pyteka-v-blagoevgrad-2468408",
@@ -107,42 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Сигнали за остеомиелит след БЦЖ ваксинация в Хърватия: Има ли проблем с качеството на ваксината",
-      "url": "https://dariknews.bg/novini/bylgariia/signali-za-osteomielit-sled-bczh-vaksinaciia-v-hyrvatiia-ima-li-problem-s-kachestvoto-na-vaksinata-2468391",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/42756/42756288/991-ratio-vaksina-dete-bebe.jpg"
+      "title": "„Изтече“ ли класирането за „Златната топка“? Сирил Хануна постави Ямал пред Кейн и Родри 07 Окт | 11:30",
+      "url": "https://dsport.bg/izteche-li-klasiraneto-za-zlatnata-topka-siril-hanuna-postavi-amal-pred-kein-i-rodri~241612.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294365346~1.og.jpg"
     },
     {
-      "title": "Брокерът Пламена от „Игри на волята“ за цените на имотите: Балонът няма да се спука (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/brokeryt-plamena-ot-igri-na-voliata-za-cenite-na-imotite-balonyt-niama-da-se-spuka-video-2468390",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Без следа от екипажа: Прекратиха операцията по издирване на моряци от първия кораб",
-      "url": "https://dariknews.bg/novini/bylgariia/bez-sleda-ot-ekipazha-prekratiha-operaciiata-po-izdirvane-na-moriaci-ot-pyrviia-korab-2468389",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Меси затвори една велика страница: Гол и сълзи в последния му мач за Аржентина (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/mesi-zatvori-edna-velika-stranica-gol-i-sylzi-v-posledniia-mu-mach-za-arzhentina-videosnimki-2468388",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Започва процедура за избор на и.ф. главен прокурор",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochva-procedura-za-izbor-na-i.f.-glaven-prokuror-2468387",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Нов напрежение около Мбапе: летял до Париж, а Моуриньо го привикал за разговор 07 Окт | 11:11",
+      "title": "Ново напрежение около Мбапе: летял до Париж, а Моуриньо го привикал за разговор 07 Окт | 11:11",
       "url": "https://dsport.bg/nov-naprezenie-okolo-mbape-letal-do-pariz-a-mourino-go-privikal-za-razgovor~241611.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1450141112-2-1.og.jpg"
-    },
-    {
-      "title": "Синер отвори вратата за Джокович към Торино, сърбинът вече държи съдбата си в свои ръце 07 Окт | 09:48",
-      "url": "https://dsport.bg/siner-otvori-vratata-za-dzokovich-kam-torino-sarbinat-veche-darzi-sadbata-si-v-svoi-race~241601.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298534525~1.og.jpg"
     }
   ]
 }
