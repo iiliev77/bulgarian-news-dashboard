@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-07T10:07:19.007551+00:00",
+  "updated": "2026-10-07T10:25:58.590262+00:00",
   "articles": [
     {
-      "title": "Поклон пред Илиян Филипов: Легенди, футболисти и фенове го изпратиха в последния му земен път (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/plovdiv/poklon-pred-iliian-filipov-legendi-futbolisti-i-fenove-go-izpratiha-v-posledniia-mu-zemen-pyt-snimki-2468427",
+      "title": "Туристически кораб се удари в историческа вила на Босфора в Истанбул",
+      "url": "https://dariknews.bg/novini/sviat/turisticheski-korab-se-udari-v-istoricheska-vila-na-bosfora-v-istanbul-2468430",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390495/991-ratio-iliian-filipov.jpg"
+      "image": "https://m.netinfo.bg/media/images/48540/48540037/991-ratio-losho-vreme-istanbul.jpg"
+    },
+    {
+      "title": "Ивкова: Съмненията за остеомиелит след БЦЖ ваксина са за партида от 2021 г.",
+      "url": "https://dariknews.bg/novini/bylgariia/ivkova-symneniiata-za-osteomielit-sled-bczh-vaksina-sa-za-partida-ot-2021-g-2468429",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385805/991-ratio-katia-ivkova.jpg"
+    },
+    {
+      "title": "ЕК отпуска още над един милиард евро на Украйна за ракети и дронове",
+      "url": "https://dariknews.bg/novini/sviat/ek-otpuska-oshte-nad-edin-miliard-evro-na-ukrajna-za-raketi-i-dronove-2468428",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51122/51122223/991-ratio-ek.jpg"
+    },
+    {
+      "title": "Поклон пред Илиян Филипов: Легенди, футболисти и фенове го изпратиха в последния му земен път (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/plovdiv/poklon-pred-iliian-filipov-legendi-futbolisti-i-fenove-go-izpratiha-v-posledniia-mu-zemen-pyt-snimkivideo-2468427",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Започват действия за отразяване в кадастралната карта на Боянското блато",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392842/991-ratio-kalina-zhuleva.jpg"
     },
     {
-      "title": "ПБ в декларация: Амбицията на България не може да бъде повече хора да получават минимална заплата",
-      "url": "https://dariknews.bg/novini/bylgariia/pb-v-deklaraciia-ambiciiata-na-bylgariia-ne-mozhe-da-byde-poveche-hora-da-poluchavat-minimalna-zaplata-2468410",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51269/51269385/991-ratio-zaplata.jpg"
+      "title": "Левски получи 1400 билета за гостуването на „Тича“ 07 Окт | 13:23",
+      "url": "https://dsport.bg/levski-poluchi-1400-bileta-za-gostuvaneto-na-ticha~241623.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot-2026-10-07-131624.og.png"
     },
     {
-      "title": "Кола помете 74-годишна жена на пешеходна пътека в Благоевград",
-      "url": "https://dariknews.bg/novini/bylgariia/kola-pomete-74-godishna-zhena-na-peshehodna-pyteka-v-blagoevgrad-2468408",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51284/51284496/991-ratio-peshehodna-pyteka.jpg"
-    },
-    {
-      "title": "Тежка катастрофа между джип и ТИР във Врачанско, има пострадал",
-      "url": "https://dariknews.bg/regioni/vraca/tezhka-katastrofa-mezhdu-dzhip-i-tir-vyv-vrachansko-ima-postradal-2468407",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
+      "title": "Реал и Барселона в битка за 15-годишен талант на Айнтрахт 07 Окт | 13:06",
+      "url": "https://dsport.bg/real-i-barselona-v-bitka-za-15-godishen-talant-na-aintraht~241622.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/screenshot_2~206.og.jpg"
     },
     {
       "title": "Ясен е съдията за първото Ел Класико 07 Окт | 13:04",
@@ -147,6 +161,13 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2275505793.og.jpg"
+    },
+    {
+      "title": "Пловдив се сбогува с Илиян Филипов, над 2000 души го изпратиха в последния му път 07 Окт | 13:00",
+      "url": "https://dsport.bg/plovdiv-se-sboguva-s-ilian-filipov-nad-2000-dushi-go-izpratiha-v-poslednia-mu-pat~241621.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/33~6.og.jpg"
     },
     {
       "title": "Швьонтек продължава напред в Пекин, Гоф е аут 07 Окт | 12:46",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-10-07_11-06-41-374.og.jpg"
-    },
-    {
-      "title": "„Изтече“ ли класирането за „Златната топка“? Сирил Хануна постави Ямал пред Кейн и Родри 07 Окт | 11:30",
-      "url": "https://dsport.bg/izteche-li-klasiraneto-za-zlatnata-topka-siril-hanuna-postavi-amal-pred-kein-i-rodri~241612.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294365346~1.og.jpg"
-    },
-    {
-      "title": "Ново напрежение около Мбапе: летял до Париж, а Моуриньо го привикал за разговор 07 Окт | 11:11",
-      "url": "https://dsport.bg/nov-naprezenie-okolo-mbape-letal-do-pariz-a-mourino-go-privikal-za-razgovor~241611.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2295238228-1.og.jpg"
-    },
-    {
-      "title": "Скандал на сбогуването с Меси: „Монументал“ освирка президента на аржентинската федерация след рекламно дрон шоу (ВИДЕО) 07 Окт | 10:54",
-      "url": "https://dsport.bg/skandal-na-sboguvaneto-s-mesi-monumental-osvirka-prezidenta-na-arzentinskata-federacia-sled-reklamno-dron-shou-video~241610.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298380471.og.jpg"
     }
   ]
 }
