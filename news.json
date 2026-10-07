@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T09:22:27.838216+00:00",
+  "updated": "2026-10-07T09:39:32.644209+00:00",
   "articles": [
+    {
+      "title": "Демерджиев съобщи за тревожна манипулация на резултати от клинични изследвания на медикаменти",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-syobshti-za-trevozhna-manipulaciia-na-rezultati-ot-klinichni-izsledvaniia-na-medikamenti-2468422",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/42888/42888291/991-ratio-falshivi-medikamenti.jpg"
+    },
+    {
+      "title": "Реликварий с образа на Богородица от епохата на цар Самуил откриха на Перперикон",
+      "url": "https://dariknews.bg/novini/bylgariia/relikvarij-s-obraza-na-bogorodica-ot-epohata-na-car-samuil-otkriha-na-perperikon-2468423",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392888/991-ratio-profesor-nikolaj-ovcharov.jpg"
+    },
     {
       "title": "Важно за софиянци между 9 и 11 октомври: Промени в градския транспорт заради Маратон София 2026",
       "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-mezhdu-9-i-11-oktomvri-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51351/51351505/991-ratio-trymp.jpg"
     },
     {
-      "title": "Три досъдебни производства се водят за сеч в общински имоти в Смолян",
-      "url": "https://dariknews.bg/regioni/Smolyan/tri-dosydebni-proizvodstva-se-vodiat-za-sech-v-obshtinski-imoti-v-smolian-2468402",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45973/45973500/991-ratio-dyrva-sech-borova-gora.jpg"
-    },
-    {
-      "title": "Нова Зеландия спаси най-голямото насекомо в света",
-      "url": "https://dariknews.bg/novini/liubopitno/nova-zelandiia-spasi-naj-goliamoto-nasekomo-v-sveta-2468401",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392830/991-ratio-veta.jpg"
+      "title": "Обрат с Карвахал: трансферът му в Хетафе пропадна в последния момент 07 Окт | 12:32",
+      "url": "https://dsport.bg/obrat-s-karvahal-transferat-mu-v-hetafe-propadna-v-poslednia-moment~241616.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2277881103~1.og.jpg"
     },
     {
       "title": "Президентът на Аржентина за Меси: Най-добрият на всички времена, с голяма разлика 07 Окт | 12:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2229454539~1.og.jpg"
-    },
-    {
-      "title": "Жорже Жезус отговори на Роналдо: Не съм чел изявлението му, гледах мача на Португалия U21 07 Окт | 10:29",
-      "url": "https://dsport.bg/zorze-zezus-otgovori-na-ronaldo-ne-sam-chel-izavlenieto-mu-gledah-macha-na-portugalia-u21~241606.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1472371211-1~1.og.jpg"
     }
   ]
 }
