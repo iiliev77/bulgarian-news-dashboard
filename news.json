@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T06:54:28.530420+00:00",
+  "updated": "2026-10-07T07:07:33.839630+00:00",
   "articles": [
+    {
+      "title": "Радев призова: КСНС да не се превръща в сцена за предизборни демагогии, необходимо е хладнокръвие",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-prizova-ksns-da-ne-se-prevryshta-v-scena-za-predizborni-demagogii-neobhodimo-e-hladnokryvie-2468392",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361221/991-ratio-rumen-radev.jpg"
+    },
+    {
+      "title": "Пеевски: Впечатлен съм от Йотова, премиерът ѝ забрани да свика КСНС, но тя реши и го направи",
+      "url": "https://dariknews.bg/novini/bylgariia/peevski-vpechatlen-sym-ot-iotova-premieryt-zabrani-da-svika-ksns-no-tia-reshi-i-go-napravi-2468393",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
+    },
     {
       "title": "Сигнали за остеомиелит след БЦЖ ваксинация в Хърватия: Има ли проблем с качеството на ваксината",
       "url": "https://dariknews.bg/novini/bylgariia/signali-za-osteomielit-sled-bczh-vaksinaciia-v-hyrvatiia-ima-li-problem-s-kachestvoto-na-vaksinata-2468391",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51122/51122329/991-ratio-tanker-pozhar.jpg"
     },
     {
-      "title": "Зеленски: Руска комбинирана атака е поразила двата кораба във водите на България",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-ruska-kombinirana-ataka-e-porazila-dvata-koraba-vyv-vodite-na-bylgariia-2468378",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
-    },
-    {
-      "title": "Руски олигарх заяви, че синът на Тръмп му е върнал дарените за сватбата му пари",
-      "url": "https://dariknews.bg/novini/sviat/ruski-oligarh-zaiavi-che-sinyt-na-trymp-mu-e-vyrnal-darenite-za-svatbata-mu-pari-2468377",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51363/51363756/991-ratio-donald-trymp.jpg"
+      "title": "Трима световни шампиони липсваха от сбогуването с Меси и предизвикаха въпроси в Аржентина 07 Окт | 09:58",
+      "url": "https://dsport.bg/trima-svetovni-shampioni-lipsvaha-ot-sboguvaneto-s-mesi-i-predizvikaha-vaprosi-v-arzentina~241602.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1450141112-2-1.og.jpg"
     },
     {
       "title": "Синер отвори вратата за Джокович към Торино, сърбинът вече държи съдбата си в свои ръце 07 Окт | 09:48",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298982125.og.jpg"
-    },
-    {
-      "title": "Краят на един еон! Буенос Айрес и Монументал станаха сцена на последното танго на Лионел Меси 07 Окт | 04:25",
-      "url": "https://dsport.bg/na-zivo-posledniat-tanc-lionel-mesi-se-sboguva-zavinagi-s-arzentina~241587.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298974157.og.jpg"
     }
   ]
 }
