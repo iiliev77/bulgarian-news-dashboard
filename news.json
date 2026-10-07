@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-07T09:39:32.644209+00:00",
+  "updated": "2026-10-07T09:55:01.576191+00:00",
   "articles": [
     {
-      "title": "Демерджиев съобщи за тревожна манипулация на резултати от клинични изследвания на медикаменти",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-syobshti-za-trevozhna-manipulaciia-na-rezultati-ot-klinichni-izsledvaniia-na-medikamenti-2468422",
+      "title": "Спипаха контрабандни цигари в товар с медни стружки на „Капитан Андреево“ (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/haskovo/spipaha-kontrabandni-cigari-v-tovar-s-medni-struzhki-na-kapitan-andreevo-snimkivideo-2468424",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/42888/42888291/991-ratio-falshivi-medikamenti.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Три години след атаката на „Хамас“: Светът не си е взел поука",
+      "url": "https://dariknews.bg/novini/sviat/tri-godini-sled-atakata-na-hamas-svetyt-ne-si-e-vzel-pouka-2468425",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50647/50647257/991-ratio-izrael-flag.jpg"
+    },
+    {
+      "title": "Демерджиев: За цели области фалшивите ТЕЛК решенията са се превърнали в начин на препитание",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-za-celi-oblasti-falshivite-telk-resheniiata-sa-se-prevyrnali-v-nachin-na-prepitanie-2468422",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/36031/36031785/991-ratio-telk-reshenie.jpg"
     },
     {
       "title": "Реликварий с образа на Богородица от епохата на цар Самуил откриха на Перперикон",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51331/51331026/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
     },
     {
-      "title": "OpenAI избра български учен за разработването на нова AI технология",
-      "url": "https://dariknews.bg/novini/bylgariia/openai-izbra-bylgarski-uchen-za-razrabotvaneto-na-nova-ai-tehnologiia-2468404",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51130/51130027/991-ratio-izkustven-intelekt.jpg"
+      "title": "Швьонтек продължава напред в Пекин, Гоф е аут 07 Окт | 12:46",
+      "url": "https://dsport.bg/shvontek-prodalzava-napred-v-pekin-gof-e-aut~241618.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2299009202.og.jpg"
     },
     {
-      "title": "Тръмп: Никой не знае кой управлява Иран",
-      "url": "https://dariknews.bg/novini/sviat/trymp-nikoj-ne-znae-koj-upravliava-iran-2468403",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351505/991-ratio-trymp.jpg"
+      "title": "Манчестър Сити е бил обект на данъчно разследване още от 2018 година 07 Окт | 12:41",
+      "url": "https://dsport.bg/manchestar-siti-e-bil-obekt-na-danachno-razsledvane-oste-ot-2018-godina~241619.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298054401~1.og.jpg"
     },
     {
       "title": "Обрат с Карвахал: трансферът му в Хетафе пропадна в последния момент 07 Окт | 12:32",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298966790~1.og.jpg"
-    },
-    {
-      "title": "В Турция взеха решение за Монтела след четири поредни загуби 07 Окт | 10:45",
-      "url": "https://dsport.bg/v-turcia-vzeha-reshenie-za-montela-sled-chetiri-poredni-zagubi~241608.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2283183179~1.og.jpg"
-    },
-    {
-      "title": "Де Минор с тревога преди Шанхай, чака изследвания след травмата от финала с Джокович 07 Окт | 10:41",
-      "url": "https://dsport.bg/de-minor-s-trevoga-predi-shanhai-chaka-izsledvania-sled-travmata-ot-finala-s-dzokovich~241607.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2229454539~1.og.jpg"
     }
   ]
 }
