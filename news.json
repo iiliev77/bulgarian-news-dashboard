@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T19:58:53.827146+00:00",
+  "updated": "2026-10-07T20:13:17.265073+00:00",
   "articles": [
+    {
+      "title": "Ердоган и Путин обсъдиха сигурността на корабоплаването в Черно море",
+      "url": "https://dariknews.bg/novini/sviat/erdogan-i-putin-obsydiha-sigurnostta-na-koraboplavaneto-v-cherno-more-2468478",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50174/50174692/991-ratio-vladimir-putin-i-redzhep-tajip-erdogan.jpg"
+    },
     {
       "title": "Почина 87-годишната испанка, станала символ на протестите заради скъпите наеми",
       "url": "https://dariknews.bg/novini/sviat/pochina-87-godishnata-ispanka-stanala-simvol-na-protestite-zaradi-skypite-naemi-2468476",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51132/51132324/991-ratio-huti.jpg"
     },
     {
-      "title": "Пореден ден на сигнали за бомби в страната",
-      "url": "https://dariknews.bg/regioni/stara-zagora/poreden-den-na-signali-za-bombi-v-stranata-2468455",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+      "title": "От 15 часа в работен ден: Нефтохимик получи отказ от БФС за мача с ЦСКА 1948 07 Окт | 23:00",
+      "url": "https://dsport.bg/ot-15-chasa-v-raboten-den-neftohimik-poluchi-otkaz-ot-bfs-za-macha-s-cska-1948~241666.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/833852897_1490237132943746_5333494270225645057_n.og.jfif"
     },
     {
       "title": "Български национал влезе в престижен Топ 10 07 Окт | 22:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2299064697.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Димитър Чанков: В ЦСКА искаме да дадем шанс на момчетата от школата! Който ни подцени – ще страда! (ВИДЕО) 07 Окт | 20:00",
-      "url": "https://dsport.bg/dimitar-chankov-v-cska-iskame-da-dadem-shans-na-momchetata-ot-shkolata-koito-ni-podceni-ste-strada-video~241659.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/5daeade4-0407-420c-b7fe-586ed3cf76fa.og.jfif"
     }
   ]
 }
