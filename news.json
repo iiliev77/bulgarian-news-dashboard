@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-07T11:55:51.578965+00:00",
+  "updated": "2026-10-07T12:10:21.463716+00:00",
   "articles": [
+    {
+      "title": "Автобус с пътници катастрофира в Старозагорско, има пострадали",
+      "url": "https://dariknews.bg/regioni/stara-zagora/avtobus-s-pytnici-katastrofira-v-starozagorsko-ima-postradali-2468445",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Парламентът отхвърли предложението за минимални нива на заплащане за медиците",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-othvyrli-predlozhenieto-za-minimalni-niva-na-zaplashtane-za-medicite-2468444",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/33822/33822100/991-ratio-lekar-bolnica.jpg"
+    },
+    {
+      "title": "Откриха починал мъж в гараж в пазарджишко село",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/otkriha-pochinal-myzh-v-garazh-v-pazardzhishko-selo-2468443",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51082/51082382/991-ratio-policiia-lenta.jpg"
+    },
     {
       "title": "Повдигнаха обвинение на мъж, хвърлил тесла без дръжка по възрастна жена в Долни Богров",
       "url": "https://dariknews.bg/regioni/sofiia/povdignaha-obvinenie-na-myzh-hvyrlil-tesla-bez-dryzhka-po-vyzrastna-zhena-v-dolni-bogrov-2468441",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50647/50647257/991-ratio-izrael-flag.jpg"
     },
     {
-      "title": "Демерджиев: За цели области фалшивите ТЕЛК решенията са се превърнали в начин на препитание",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-za-celi-oblasti-falshivite-telk-resheniiata-sa-se-prevyrnali-v-nachin-na-prepitanie-2468422",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Реликварий с образа на Богородица от епохата на цар Самуил откриха на Перперикон",
-      "url": "https://dariknews.bg/novini/bylgariia/relikvarij-s-obraza-na-bogorodica-ot-epohata-na-car-samuil-otkriha-na-perperikon-2468423",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392888/991-ratio-profesor-nikolaj-ovcharov.jpg"
-    },
-    {
-      "title": "Важно за софиянци между 9 и 11 октомври: Промени в градския транспорт заради Маратон София 2026",
-      "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-mezhdu-9-i-11-oktomvri-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392881/991-ratio-maraton-sofiia.jpg"
+      "title": "Южна Африка иска да приеме първите Олимпийски игри в Африка 07 Окт | 15:07",
+      "url": "https://dsport.bg/uzna-afrika-iska-da-prieme-parvite-olimpiiski-igri-v-afrika~241636.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2165879286.og.jpg"
     },
     {
       "title": "Тодор Ангелов: Промяната е твърде наложителна и не мога да стоя настрани 07 Окт | 14:50",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-180702000.og.jpg"
-    },
-    {
-      "title": "Формула 1 е близо до завръщане в Африка 07 Окт | 13:35",
-      "url": "https://dsport.bg/formula-1-e-blizo-do-zavrastane-v-afrika~241625.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294327400.og.jpg"
     }
   ]
 }
