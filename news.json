@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-07T12:58:23.135389+00:00",
+  "updated": "2026-10-07T13:16:23.600398+00:00",
   "articles": [
+    {
+      "title": "Голям горски пожар избухна край село Побит камък, влязъл в България от Сърбия",
+      "url": "https://dariknews.bg/regioni/kiustendil/goliam-gorski-pozhar-izbuhna-kraj-selo-pobit-kamyk-vliazyl-v-bylgariia-ot-syrbiia-2468453",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+    },
+    {
+      "title": "Съмнителен багаж около фонтана пред президентството - какво се случва в центъра на София",
+      "url": "https://dariknews.bg/novini/bylgariia/symnitelen-bagazh-okolo-fontana-pred-prezidentstvoto-kakvo-se-sluchva-v-centyra-na-sofiia-2468451",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393045/991-ratio-symnitelen-bazhat-prezidentstvo.jpg"
+    },
+    {
+      "title": "Подписвала вместо младоженците: Задържаха служителка на Община Ямбол за измама с фиктивни граждански бракове",
+      "url": "https://dariknews.bg/regioni/yambol/podpisvala-vmesto-mladozhencite-zadyrzhaha-sluzhitelka-na-obshtina-iambol-za-izmama-s-fiktivni-grazhdanski-brakove-2468449",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51009/51009029/991-ratio-brak-liubov-dvojka-svatba.jpg"
+    },
+    {
+      "title": "Комисията по енергетика не подкрепи промени, даващи на МС да поиска изключение за внос на нефт от Русия",
+      "url": "https://dariknews.bg/novini/bylgariia/komisiiata-po-energetika-ne-podkrepi-promeni-davashti-na-ms-da-poiska-izkliuchenie-za-vnos-na-neft-ot-rusiia-2468450",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50119/50119331/991-ratio-neft.jpg"
+    },
     {
       "title": "Заплетена битка за неприкосновеност противопоставя Канарите, Ураганите и Вулканите в “Игри на волята”",
       "url": "https://dariknews.bg/novini/liubopitno/zapletena-bitka-za-neprikosnovenost-protivopostavia-kanarite-uraganite-i-vulkanite-v-igri-na-voliata-2468448",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392978/991-ratio-na-morskata-gara-vyv-varna-se-provezhda-oficialnata-ceremoniia-po.jpg"
     },
     {
-      "title": "Туристически кораб се удари в историческа вила на Босфора в Истанбул (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/turisticheski-korab-se-udari-v-istoricheska-vila-na-bosfora-v-istanbul-video-2468430",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48540/48540037/991-ratio-losho-vreme-istanbul.jpg"
-    },
-    {
-      "title": "Ивкова: Съмненията за остеомиелит след БЦЖ ваксина са за партида от 2021 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/ivkova-symneniiata-za-osteomielit-sled-bczh-vaksina-sa-za-partida-ot-2021-g-2468429",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385805/991-ratio-katia-ivkova.jpg"
-    },
-    {
-      "title": "ЕК отпуска още над един милиард евро на Украйна за ракети и дронове",
-      "url": "https://dariknews.bg/novini/sviat/ek-otpuska-oshte-nad-edin-miliard-evro-na-ukrajna-za-raketi-i-dronove-2468428",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51122/51122223/991-ratio-ek.jpg"
-    },
-    {
-      "title": "Поклон пред Илиян Филипов: Легенди, футболисти и фенове го изпратиха в последния му земен път (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/plovdiv/poklon-pred-iliian-filipov-legendi-futbolisti-i-fenove-go-izpratiha-v-posledniia-mu-zemen-pyt-snimkivideo-2468427",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Ралф Шумахер смята, че Цолов ще замени Лоусън в Рейсинг Булс 07 Окт | 16:10",
+      "url": "https://dsport.bg/ralf-shumaher-smata-che-colov-ste-zameni-lousan-v-reising-buls~241640.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/colov-lousan.og.png"
     },
     {
       "title": "Теодор Салпаров се срещна с Весела Лечева и благодари на БОК за подкрепата 07 Окт | 15:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/1036023-1.og.jpg"
-    },
-    {
-      "title": "Педро сложи край на кариерата си на 39 години 07 Окт | 14:21",
-      "url": "https://dsport.bg/pedro-slozi-krai-na-karierata-si-na-39-godini~241630.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2277882812.og.jpg"
     }
   ]
 }
