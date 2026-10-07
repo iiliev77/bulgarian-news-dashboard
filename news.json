@@ -1,12 +1,40 @@
 {
-  "updated": "2026-10-07T07:07:33.839630+00:00",
+  "updated": "2026-10-07T07:27:41.757279+00:00",
   "articles": [
+    {
+      "title": "Огнище на шарка по овцете и козите в Пловдивско",
+      "url": "https://dariknews.bg/regioni/plovdiv/ognishte-na-sharka-po-ovcete-i-kozite-v-plovdivsko-2468398",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51286/51286293/991-ratio-ovce-ovci.jpg"
+    },
+    {
+      "title": "Поставят капани за мечки в девинското село Гьоврен",
+      "url": "https://dariknews.bg/regioni/Smolyan/postaviat-kapani-za-mechki-v-devinskoto-selo-giovren-2468396",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50609/50609633/991-ratio-mechka-rumyniia.jpg"
+    },
+    {
+      "title": "НС отхвърли предложения за изслушване, сред които атаката срещу кораби в Черно море и полетите на Пеевски",
+      "url": "https://dariknews.bg/novini/bylgariia/ns-othvyrli-predlozheniia-za-izslushvane-sred-koito-atakata-sreshtu-korabi-v-cherno-more-i-poletite-na-peevski-2468397",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
+    },
+    {
+      "title": "Кремъл крие данни за инцидента с чума, САЩ настояват за отговори",
+      "url": "https://dariknews.bg/novini/sviat/kremyl-krie-danni-za-incidenta-s-chuma-sasht-nastoiavat-za-otgovori-2468399",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43639/43639595/991-ratio-bubonna-chuma.jpg"
+    },
     {
       "title": "Радев призова: КСНС да не се превръща в сцена за предизборни демагогии, необходимо е хладнокръвие",
       "url": "https://dariknews.bg/novini/bylgariia/radev-prizova-ksns-da-ne-se-prevryshta-v-scena-za-predizborni-demagogii-neobhodimo-e-hladnokryvie-2468392",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361221/991-ratio-rumen-radev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51351/51351578/991-ratio-rumen-radev.jpg"
     },
     {
       "title": "Пеевски: Впечатлен съм от Йотова, премиерът ѝ забрани да свика КСНС, но тя реши и го направи",
@@ -114,32 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "КСНС при президента заради атаките с дронове: Обсъждат рисковете за морската сигурност",
-      "url": "https://dariknews.bg/novini/bylgariia/ksns-pri-prezidenta-zaradi-atakite-s-dronove-obsyzhdat-riskovete-za-morskata-sigurnost-2468374",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Байерн набеляза Тарик Мухаремович, Лийдс го оценява на над 70 милиона евро 07 Окт | 10:22",
+      "url": "https://dsport.bg/baiern-nabelaza-tarik-muharemovich-liids-go-ocenava-na-nad-70-miliona-evro~241605.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296580201.og.jpg"
     },
     {
-      "title": "Брокерката Пламена Денчева беше елиминирана от „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/brokerkata-plamena-dencheva-beshe-eliminirana-ot-igri-na-voliata-2468382",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392628/991-ratio-f.jpg"
-    },
-    {
-      "title": "„Моля ви, моля ви - защитете се“: Зеленски призова украинците да се подготвят за предстоящ руски масиран удар",
-      "url": "https://dariknews.bg/novini/sviat/molia-vi-molia-vi-zashtitete-se-zelenski-prizova-ukraincite-da-se-podgotviat-za-predstoiasht-ruski-masiran-udar-2468381",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51322/51322807/991-ratio-pushek-pozhar-aec.jpg"
-    },
-    {
-      "title": "Русия: Танкер се запали в Черно море близо до руския град Сочи",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-tanker-se-zapali-v-cherno-more-blizo-do-ruskiia-grad-sochi-2468379",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51122/51122329/991-ratio-tanker-pozhar.jpg"
+      "title": "Футболист на ЦСКА направи дузпата за последния гол на Меси за Аржентина (ВИДЕО) 07 Окт | 10:07",
+      "url": "https://dsport.bg/futbolist-na-cska-napravi-duzpata-za-poslednia-gol-na-mesi-za-arzentina-video~241603.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298964684~1.og.jpg"
     },
     {
       "title": "Трима световни шампиони липсваха от сбогуването с Меси и предизвикаха въпроси в Аржентина 07 Окт | 09:58",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298981279.og.jpg"
-    },
-    {
-      "title": "Голдън Стейт разгроми Лейкърс, Бруклин надви Шарлът в предсезонни мачове 07 Окт | 08:22",
-      "url": "https://dsport.bg/nba-predsezonni-machove-golden-state-brooklyn-pobedi~241594.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298990400.og.jpg"
-    },
-    {
-      "title": "Последното слово на Меси за Аржентина: Не искам този момент да свършва (ВИДЕО) 07 Окт | 08:01",
-      "url": "https://dsport.bg/poslednoto-slovo-na-mesi-za-arzentina-ne-iskam-tozi-moment-da-svarshva~241593.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298982125.og.jpg"
     }
   ]
 }
