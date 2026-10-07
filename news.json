@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T14:39:19.959579+00:00",
+  "updated": "2026-10-07T14:54:31.477310+00:00",
   "articles": [
+    {
+      "title": "Има ли опасност за България: Посланията на партиите след КСНС",
+      "url": "https://dariknews.bg/novini/bylgariia/ima-li-opasnost-za-bylgariia-poslaniiata-na-partiite-sled-ksns-2468415",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51253/51253304/991-ratio-prezidentstvoto.jpg"
+    },
     {
       "title": "МОН ще променя учебните програми: Първо ще се изготвят концепции по предмети",
       "url": "https://dariknews.bg/novini/bylgariia/mon-shte-promenia-uchebnite-programi-pyrvo-shte-se-izgotviat-koncepcii-po-predmeti-2468467",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390985/991-ratio-car-samuil-tlenni-ostanki.jpg"
     },
     {
-      "title": "Автобус с работници катастрофира в Старозагорско, шофьорът е с положителна проба за алкохол (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/avtobus-s-rabotnici-katastrofira-v-starozagorsko-shofioryt-e-s-polozhitelna-proba-za-alkohol-snimkivideo-2468445",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Модрич: Меси направи нещо невероятно с националния отбор 07 Окт | 17:40",
+      "url": "https://dsport.bg/modrich-mesi-napravi-nesto-neveroatno-s-nacionalnia-otbor~241647.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-1448876711~2.og.jpg"
     },
     {
       "title": "Тодор Янчев: Отдолу идва силно поколение, колективът отново ще е №1 (ВИДЕО) 07 Окт | 17:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2297151979.og.jpg"
-    },
-    {
-      "title": "България WU19 започна със загуба европейските квалификации 07 Окт | 15:13",
-      "url": "https://dsport.bg/balgaria-wu19-zapochna-sas-zaguba-evropeiskite-kvalifikacii~241637.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1037836.og.jpg"
     }
   ]
 }
