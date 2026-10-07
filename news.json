@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T09:55:01.576191+00:00",
+  "updated": "2026-10-07T10:07:19.007551+00:00",
   "articles": [
+    {
+      "title": "Поклон пред Илиян Филипов: Легенди, футболисти и фенове го изпратиха в последния му земен път (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/plovdiv/poklon-pred-iliian-filipov-legendi-futbolisti-i-fenove-go-izpratiha-v-posledniia-mu-zemen-pyt-snimki-2468427",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390495/991-ratio-iliian-filipov.jpg"
+    },
+    {
+      "title": "Започват действия за отразяване в кадастралната карта на Боянското блато",
+      "url": "https://dariknews.bg/novini/bylgariia/zapochvat-dejstviia-za-otraziavane-v-kadastralnata-karta-na-boianskoto-blato-2468426",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50572/50572058/991-ratio-boiansko-blato-boianskoto.jpg"
+    },
     {
       "title": "Спипаха контрабандни цигари в товар с медни стружки на „Капитан Андреево“ (СНИМКИ/ВИДЕО)",
       "url": "https://dariknews.bg/regioni/haskovo/spipaha-kontrabandni-cigari-v-tovar-s-medni-struzhki-na-kapitan-andreevo-snimkivideo-2468424",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
     },
     {
-      "title": "Георги Господинов е сред фаворитите за Нобеловата награда за литература",
-      "url": "https://dariknews.bg/novini/bylgariia/georgi-gospodinov-e-sred-favoritite-za-nobelovata-nagrada-za-literatura-2468406",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392838/991-ratio-georgi-gospodinov.jpg"
-    },
-    {
-      "title": "Кения с първи смъртен случай от ебола (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/keniia-s-pyrvi-smyrten-sluchaj-ot-ebola-video-2468405",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331026/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
+      "title": "Ясен е съдията за първото Ел Класико 07 Окт | 13:04",
+      "url": "https://dsport.bg/asen-e-sadiata-za-parvoto-el-klasiko~241620.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2275505793.og.jpg"
     },
     {
       "title": "Швьонтек продължава напред в Пекин, Гоф е аут 07 Окт | 12:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298380471.og.jpg"
-    },
-    {
-      "title": "Скалони за Меси: Никога не съм си представял, че ще тренирам най-добрия футболист в историята 07 Окт | 10:50",
-      "url": "https://dsport.bg/skaloni-za-mesi-nikoga-ne-sam-si-predstaval-che-ste-treniram-nai-dobria-futbolist-v-istoriata~241609.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298966790~1.og.jpg"
     }
   ]
 }
