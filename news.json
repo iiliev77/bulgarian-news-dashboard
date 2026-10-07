@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T16:51:33.064748+00:00",
+  "updated": "2026-10-07T17:12:04.373619+00:00",
   "articles": [
     {
       "title": "Какво реши КСНС за сигурността на България",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Франция спира използването на шокови гранати срещу протестиращи ученици",
+      "url": "https://dariknews.bg/novini/sviat/franciia-spira-izpolzvaneto-na-shokovi-granati-sreshtu-protestirashti-uchenici-2468471",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
     },
     {
       "title": "Заради пожар и силно задимяване: Ограничиха движението по пътя София - Русе край Плевен",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Подписвала вместо младоженците: Задържаха служителка на Община Ямбол за измама с фиктивни граждански бракове",
-      "url": "https://dariknews.bg/regioni/yambol/podpisvala-vmesto-mladozhencite-zadyrzhaha-sluzhitelka-na-obshtina-iambol-za-izmama-s-fiktivni-grazhdanski-brakove-2468449",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51009/51009029/991-ratio-brak-liubov-dvojka-svatba.jpg"
+      "title": "Ексклузивно Димитър Чанков: В ЦСКА искаме да дадем шанс на момчетата от школата! Който ни подцени – ще страда! (ВИДЕО) 07 Окт | 20:00",
+      "url": "https://dsport.bg/dimitar-chankov-v-cska-iskame-da-dadem-shans-na-momchetata-ot-shkolata-koito-ni-podceni-ste-strada-video~241659.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/5daeade4-0407-420c-b7fe-586ed3cf76fa.og.jfif"
     },
     {
       "title": "Кой всъщност печели Купата на Африка? Скандалният финал влиза в съда 07 Окт | 19:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1448876711~2.og.jpg"
-    },
-    {
-      "title": "Тодор Янчев: Отдолу идва силно поколение, колективът отново ще е №1 (ВИДЕО) 07 Окт | 17:25",
-      "url": "https://dsport.bg/todor-anchev-otdolu-idva-silno-pokolenie-kolektivat-otnovo-ste-e-1-video~241646.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/857160-1~1.og.jpg"
     }
   ]
 }
