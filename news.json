@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:12:04.373619+00:00",
+  "updated": "2026-10-07T17:31:01.407917+00:00",
   "articles": [
     {
       "title": "Какво реши КСНС за сигурността на България",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "САЩ предлагат такса от 70 000 долара за чуждестранни студенти за практика",
+      "url": "https://dariknews.bg/novini/sviat/sasht-predlagat-taksa-ot-70-000-dolara-za-chuzhdestranni-studenti-za-praktika-2468472",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50351/50351964/991-ratio-dolari.jpg"
     },
     {
       "title": "Франция спира използването на шокови гранати срещу протестиращи ученици",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
-      "title": "Съмнителен багаж около фонтана пред президентството в София вдигна службите на крак (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/symnitelen-bagazh-okolo-fontana-pred-prezidentstvoto-v-sofiia-vdigna-sluzhbite-na-krak-snimkivideo-2468451",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Свитолина се разправи с американка и стигна четвъртфиналите в Пекин 07 Окт | 20:15",
+      "url": "https://dsport.bg/svitolina-se-razpravi-s-amerikanka-i-stigna-chetvartfinalite-v-pekin~241652.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2299064697.og.jpg"
     },
     {
       "title": "Ексклузивно Димитър Чанков: В ЦСКА искаме да дадем шанс на момчетата от школата! Който ни подцени – ще страда! (ВИДЕО) 07 Окт | 20:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2202666386-1-2-1-1-1-1.og.jpg"
-    },
-    {
-      "title": "Модрич: Меси направи нещо невероятно с националния отбор 07 Окт | 17:40",
-      "url": "https://dsport.bg/modrich-mesi-napravi-nesto-neveroatno-s-nacionalnia-otbor~241647.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1448876711~2.og.jpg"
     }
   ]
 }
