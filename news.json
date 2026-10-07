@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-07T13:36:17.805205+00:00",
+  "updated": "2026-10-07T13:52:51.864286+00:00",
   "articles": [
+    {
+      "title": "Отпускът по бащинство остава 15 дни: Комисията отхвърли промяната",
+      "url": "https://dariknews.bg/novini/bylgariia/otpuskyt-po-bashtinstvo-ostava-15-dni-komisiiata-othvyrli-promianata-2468457",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51188/51188434/991-ratio-bashta-bebe.jpg"
+    },
     {
       "title": "Над 200 000 души са разселени в Йемен заради военните действия между правителството и хутите",
       "url": "https://dariknews.bg/novini/sviat/nad-200-000-dushi-sa-razseleni-v-jemen-zaradi-voennite-dejstviia-mezhdu-pravitelstvoto-i-hutite-2468456",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
     },
     {
-      "title": "Нова загадка по делото „Бургазлиев“: Кой е контролирал изправността на АТВ-то преди жестоката катастрофа?",
-      "url": "https://dariknews.bg/novini/bylgariia/nova-zagadka-po-deloto-burgazliev-koj-e-kontroliral-izpravnostta-na-atv-to-predi-zhestokata-katastrofa-2468436",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Жорже Жезус коментира изявлението на Кристиано Роналдо 07 Окт | 16:50",
+      "url": "https://dsport.bg/zorze-zezus-komentira-izavlenieto-na-kristiano-ronaldo~241643.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2296971370~2.og.jpg"
+    },
+    {
+      "title": "Димитър Кисимов постигна трета поредна победа на турнир за мъже в Италия 07 Окт | 16:38",
+      "url": "https://dsport.bg/dimitar-kisimov-postigna-treta-poredna-pobeda-na-turnir-za-maze-v-italia~241642.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/kisimov_ofenbah_3-2-~1.og.jpg"
     },
     {
       "title": "Националният отбор по футбол вече заема 90-о място в ранглистата на ФИФА 07 Окт | 16:25",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2217083446.og.jpg"
-    },
-    {
-      "title": "Давид Силва се завърна във футбола на 40 години и подписа с клуб, който вероятно не сте чували 07 Окт | 14:43",
-      "url": "https://dsport.bg/david-silva-se-zavarna-vav-futbola-na-40-godini-i-podpisa-s-klub-koito-veroatno-ne-ste-chuvali~241634.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-1148656886~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА надъха феновете за мача с Монако, обяви кога билетите ще са в продажба 07 Окт | 14:32",
-      "url": "https://dsport.bg/cska-nadaha-fenovete-za-macha-s-monako-obavi-koga-biletite-ste-sa-v-prodazba~241632.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/1012952~1.og.jpg"
     }
   ]
 }
