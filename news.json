@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-08T15:17:48.828483+00:00",
+  "updated": "2026-10-08T15:38:22.228783+00:00",
   "articles": [
+    {
+      "title": "Предлагат наднорменото тегло и затлъстяването при децата да станат диспансерна диагноза",
+      "url": "https://dariknews.bg/novini/obshtestvo/predlagat-nadnormenoto-teglo-i-zatlystiavaneto-pri-decata-da-stanat-dispanserna-diagnoza-2468578",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48015/48015724/991-ratio-zatlystiavane.jpg"
+    },
+    {
+      "title": "Президентът: Разделението в КСНС беше само по една точка – как да приключи войната в Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-razdelenieto-v-ksns-beshe-samo-po-edna-tochka-kak-da-prikliuchi-vojnata-v-ukrajna-2468579",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Адвокатът на Ива Михайлова: Тя се нуждае от лечение, което РС Македония не може да ѝ осигури",
       "url": "https://dariknews.bg/novini/bylgariia/advokatyt-na-iva-mihajlova-tia-se-nuzhdae-ot-lechenie-koeto-rs-makedoniia-ne-mozhe-da-osiguri-2468577",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51053/51053403/991-ratio-konstitucionen-syd.jpg"
     },
     {
-      "title": "Трагедия в Карловско: Възрастна жена загина при челен сблъсък, четирима са ранени",
-      "url": "https://dariknews.bg/regioni/plovdiv/tragediia-v-karlovsko-vyzrastna-zhena-zagina-pri-chelen-sblysyk-chetirima-sa-raneni-2468553",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
-    },
-    {
-      "title": "Ще спрат ли новите мерки на правителството протестите на френските гимназисти (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/shte-sprat-li-novite-merki-na-pravitelstvoto-protestite-na-frenskite-gimnazisti-video-2468555",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+      "title": "ЦСКА разкри пълния щаб на Маркус Гиздол 08 Окт | 18:29",
+      "url": "https://dsport.bg/cska-razkri-palnia-stab-na-markus-gizdol~241712.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/840664167_2442699236139284_8583778814806138239_n.og.jfif"
     },
     {
       "title": "Берое и Миньор отнесоха 70% от глобите за Купата, трима от Родопа с временно спрени права 08 Окт | 18:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/dfdgsgf~1.og.png"
-    },
-    {
-      "title": "Чеферин ще се кандидатира за четвърти мандат начело на УЕФА 08 Окт | 16:30",
-      "url": "https://dsport.bg/cheferin-ste-se-kandidatira-za-chetvarti-mandat-nachelo-na-uefa~241701.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-621777554-1-1-1-1.og.jpg"
     }
   ]
 }
