@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T11:55:09.782100+00:00",
+  "updated": "2026-10-08T12:08:16.239259+00:00",
   "articles": [
+    {
+      "title": "Напрежение на ГКПП „Кулата“: Пожар предизвика силно задимяване и притеснение сред пътуващите",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/naprezhenie-na-gkpp-kulata-pozhar-predizvika-silno-zadimiavane-i-pritesnenie-sred-pytuvashtite-2468556",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+    },
     {
       "title": "КС отхвърли искането срещу промените за ръководството на ДАТО",
       "url": "https://dariknews.bg/novini/bylgariia/ks-othvyrli-iskaneto-sreshtu-promenite-za-rykovodstvoto-na-dato-2468554",
@@ -16,8 +23,15 @@
       "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
     },
     {
-      "title": "Демерджиев: Правим няколко разследвания, касаещи различен тип източване на Здравната каса",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-pravim-niakolko-razsledvaniia-kasaeshti-razlichen-tip-iztochvane-na-zdravnata-kasa-2468552",
+      "title": "Ранени гимназисти и масови протести: Недоволството във Франция продължава",
+      "url": "https://dariknews.bg/novini/sviat/raneni-gimnazisti-i-masovi-protesti-nedovolstvoto-vyv-franciia-prodylzhava-2468555",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+    },
+    {
+      "title": "Демерджиев: Скъпи лекарства са изнасяни в чужбина вместо да стигнат до пациентите",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-skypi-lekarstva-sa-iznasiani-v-chuzhbina-vmesto-da-stignat-do-pacientite-2468552",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50717/50717685/991-ratio-lekarstva.jpg"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385673/991-ratio-cigari-pernik.jpg"
     },
     {
-      "title": "„Галъп“: Йотова с 44,9% подкрепа, Гюров с 24,8% – очертава се балотаж",
-      "url": "https://dariknews.bg/novini/bylgariia/galyp-iotova-s-449-podkrepa-giurov-s-248-ochertava-se-balotazh-2468536",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43511/43511728/991-ratio-prezidentstvo-sgrada.jpg"
-    },
-    {
-      "title": "Делян Пеевски: Демерджиев е лъжец",
-      "url": "https://dariknews.bg/novini/bylgariia/delian-peevski-demerdzhiev-e-lyzhec-2468535",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
+      "title": "Определиха програмата за 15-ия и 16-ия кръг, стана ясна и датата за Левски – Лудогорец 08 Окт | 14:57",
+      "url": "https://dsport.bg/opredeliha-programata-za-15-ia-i-16-ia-krag-stana-asna-i-datata-za-levski-ludogorec~241695.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/975635.og.jpg"
     },
     {
       "title": "Йордан Александров получи квота за Световното по спортна гимнастика 08 Окт | 14:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2275486835~2.og.jpg"
-    },
-    {
-      "title": "Меси си спомни за починалия си баща 08 Окт | 12:18",
-      "url": "https://dsport.bg/mesi-si-spomni-za-pochinalia-si-basta~241684.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298422964.og.jpg"
     }
   ]
 }
