@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-08T11:06:04.231824+00:00",
+  "updated": "2026-10-08T11:24:48.336251+00:00",
   "articles": [
     {
-      "title": "Георги Костадинов е новият началник на РУ-Казанлък",
-      "url": "https://dariknews.bg/regioni/burgas/georgi-kostadinov-e-noviiat-nachalnik-na-ru-kazanlyk-2468546",
+      "title": "Ан Карсън е носителят на Нобеловата награда за литература за 2026 г.",
+      "url": "https://dariknews.bg/novini/liubopitno/an-karsyn-e-nositeliat-na-nobelovata-nagrada-za-literatura-za-2026-g-2468548",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393355/991-ratio-georgi-kostadinov.jpg"
+      "image": "https://m.netinfo.bg/media/images/50937/50937314/991-ratio-nobelova-nagrada.jpg"
+    },
+    {
+      "title": "15-годишен нападна и рани двама души в училище в Полша",
+      "url": "https://dariknews.bg/novini/sviat/15-godishen-napadna-i-rani-dvama-dushi-v-uchilishte-v-polsha-2468547",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393358/991-ratio-polsha.jpg"
     },
     {
       "title": "Как бактериите си помагат да заразяват тялото и да оцеляват",
@@ -14,6 +21,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50428/50428179/991-ratio-bakterii.jpg"
+    },
+    {
+      "title": "Георги Костадинов е новият началник на РУ-Казанлък",
+      "url": "https://dariknews.bg/regioni/stara-zagora/georgi-kostadinov-e-noviiat-nachalnik-na-ru-kazanlyk-2468546",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393355/991-ratio-georgi-kostadinov.jpg"
     },
     {
       "title": "Небесен спектакъл: Пикът на метеорния поток Дракониди ще бъде тази нощ",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
     },
     {
-      "title": "Най-малко 12 души загинаха след руски удар по автобус в укранския град Краматорск",
-      "url": "https://dariknews.bg/novini/sviat/naj-malko-12-dushi-zaginaha-sled-ruski-udar-po-avtobus-v-ukranskiia-grad-kramatorsk-2468527",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51110/51110851/991-ratio-ukrajna.jpg"
-    },
-    {
-      "title": "Липсващи данни за ваксини спъват приема в детска градина: Омбудсманът се намеси",
-      "url": "https://dariknews.bg/novini/bylgariia/lipsvashti-danni-za-vaksini-spyvat-priema-v-detska-gradina-ombudsmanyt-se-namesi-2468528",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
+      "title": "Арсенал бетонира Артета и е на път да направи същото с Райс 08 Окт | 14:15",
+      "url": "https://dsport.bg/arsenal-betonira-arteta-i-e-na-pat-da-napravi-sastoto-s-rais~241692.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2274697810-1.og.jpg"
     },
     {
       "title": "Оттатък Дунава: бивш треньор на ЦСКА може да поеме България 08 Окт | 14:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/913482-2.og.jpg"
-    },
-    {
-      "title": "Енцо Фернандес към Меси: Просто искам да си щастлив, наследството ти ще остане вечно 08 Окт | 11:23",
-      "url": "https://dsport.bg/enco-fernandes-kam-mesi-prosto-iskam-da-si-stastliv-nasledstvoto-ti-ste-ostane-vechno~241681.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2286279612.og.jpg"
     }
   ]
 }
