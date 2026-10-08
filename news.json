@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-08T09:10:22.921839+00:00",
+  "updated": "2026-10-08T09:29:12.918236+00:00",
   "articles": [
+    {
+      "title": "Задава се въглеродна такса: Как ще се отразят новите цени на джоба ни?",
+      "url": "https://dariknews.bg/novini/sviat/zadava-se-vyglerodna-taksa-kak-shte-se-otraziat-novite-ceni-na-dzhoba-ni-2468530",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51299/51299369/991-ratio-skypi-goriva.jpg"
+    },
+    {
+      "title": "НС регламентира достъпа до технически документи на Държавния резерв",
+      "url": "https://dariknews.bg/novini/bylgariia/ns-reglamentira-dostypa-do-tehnicheski-dokumenti-na-dyrzhavniia-rezerv-2468529",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
+    },
+    {
+      "title": "Липсващи данни за ваксини спъват приема в детска градина: Омбудсманът се намеси",
+      "url": "https://dariknews.bg/novini/bylgariia/lipsvashti-danni-za-vaksini-spyvat-priema-v-detska-gradina-ombudsmanyt-se-namesi-2468528",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
+    },
+    {
+      "title": "Най-малко 12 души загинаха след руски удар по автобус в укранския град Краматорск",
+      "url": "https://dariknews.bg/novini/sviat/naj-malko-12-dushi-zaginaha-sled-ruski-udar-po-avtobus-v-ukranskiia-grad-kramatorsk-2468527",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51110/51110851/991-ratio-ukrajna.jpg"
+    },
+    {
+      "title": "Промени при започване на работа: Предлагат личните лекари да извършват задължителните медицински прегледи",
+      "url": "https://dariknews.bg/novini/bylgariia/promeni-pri-zapochvane-na-rabota-predlagat-lichnite-lekari-da-izvyrshvat-zadylzhitelnite-medicinski-pregledi-2468526",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389930/991-ratio-laptop-lekar.jpg"
+    },
     {
       "title": "Костадинов срещу Йотова: Няма постигнато съгласие на КСНС",
       "url": "https://dariknews.bg/novini/bylgariia/kostadinov-sreshtu-iotova-niama-postignato-syglasie-na-ksns-2468524",
@@ -107,39 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51376/51376314/991-ratio-iva-mihajlova.jpg"
     },
     {
-      "title": "Откраднаха 4240 евро от автомобил в стопански двор в село Златуша",
-      "url": "https://dariknews.bg/regioni/sofiia/otkradnaha-4240-evro-ot-avtomobil-v-stopanski-dvor-v-selo-zlatusha-2468510",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51299/51299979/991-ratio-evro.jpg"
-    },
-    {
-      "title": "Министър Петрова категорична - ако се докаже руска атака срещу корабите, вика Митрофанова",
-      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-kategorichna-ako-se-dokazhe-ruska-ataka-sreshtu-korabite-vika-mitrofanova-2468509",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45833/45833525/991-ratio-syrbiia-bylgariia.jpg"
-    },
-    {
-      "title": "Рухна седеметажна сграда в Истанбул: Има хора под развалините (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/ruhna-sedemetazhna-sgrada-v-istanbul-ima-hora-pod-razvalinite-video-2468507",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50790/50790336/991-ratio-linejka-turciia.jpg"
-    },
-    {
-      "title": "Спипаха неидентифицирани археологически обекти във Велико Търново",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/spipaha-neidentificirani-arheologicheski-obekti-vyv-veliko-tyrnovo-2468508",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272855/991-ratio-starinni-moneti.jpg"
-    },
-    {
-      "title": "Спират топлата вода в части от два столични квартала: Вижте кога и къде",
-      "url": "https://dariknews.bg/regioni/sofiia/spirat-toplata-voda-v-chasti-ot-dva-stolichni-kvartala-vizhte-koga-i-kyde-2468506",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157498/991-ratio-voda-kuche-topla-voda.jpg"
+      "title": "Меси си спомни за починалия си баща 08 Окт | 12:18",
+      "url": "https://dsport.bg/mesi-si-spomni-za-pochinalia-si-basta~241684.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298422964.og.jpg"
     },
     {
       "title": "Защо големите риби в Англия отхвърлиха Олисе? 08 Окт | 11:57",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298979838.og.jpg"
-    },
-    {
-      "title": "Борусия Дортмунд подготвя нов договор за един от асовете си 08 Окт | 09:19",
-      "url": "https://dsport.bg/borusia-dortmund-podgotva-nov-dogovor-za-edin-ot-asovete-si~241674.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2294302233.og.jpg"
     }
   ]
 }
