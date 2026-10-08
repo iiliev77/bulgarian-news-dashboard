@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-08T04:54:42.044139+00:00",
+  "updated": "2026-10-08T05:05:41.009651+00:00",
   "articles": [
+    {
+      "title": "Възрастен шофьор пострада в Хасково, прилошало му зад волана",
+      "url": "https://dariknews.bg/regioni/haskovo/vyzrasten-shofior-postrada-v-haskovo-priloshalo-mu-zad-volana-2468485",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Най-голямата колония пингвини в света е намаляла с 63% заради климатичните промени",
+      "url": "https://dariknews.bg/novini/sviat/naj-goliamata-koloniia-pingvini-v-sveta-e-namaliala-s-63-zaradi-klimatichnite-promeni-2468484",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51277/51277688/991-ratio-imperatorski-pingvin.jpg"
+    },
     {
       "title": "Нов опит за изслушване на министър Демерджиев: Мантинелите и полетите на Пеевски отново на дневен ред в НС",
       "url": "https://dariknews.bg/novini/bylgariia/nov-opit-za-izslushvane-na-ministyr-demerdzhiev-mantinelite-i-poletite-na-peevski-otnovo-na-dneven-red-v-ns-2468483",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50351/50351964/991-ratio-dolari.jpg"
-    },
-    {
-      "title": "Франция спира използването на шокови гранати срещу протестиращи ученици",
-      "url": "https://dariknews.bg/novini/sviat/franciia-spira-izpolzvaneto-na-shokovi-granati-sreshtu-protestirashti-uchenici-2468471",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
-    },
-    {
-      "title": "Заради пожар и силно задимяване: Ограничиха движението по пътя София - Русе край Плевен",
-      "url": "https://dariknews.bg/regioni/pleven/zaradi-pozhar-i-silno-zadimiavane-ogranichiha-dvizhenieto-po-pytia-sofiia-ruse-kraj-pleven-2468470",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51196/51196670/640-420-pozharna.jpg"
     },
     {
       "title": "Португалия крила 83 дни важно решение от човека зад разследването срещу Манчестър Сити 07 Окт | 23:54",
