@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-08T13:53:29.872347+00:00",
+  "updated": "2026-10-08T14:05:13.686187+00:00",
   "articles": [
+    {
+      "title": "Бури и проливни дъждове нанесоха щети в цяла Италия",
+      "url": "https://dariknews.bg/novini/sviat/buri-i-prolivni-dyzhdove-nanesoha-shteti-v-ciala-italiia-2468574",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50854/50854273/991-ratio-buria-dyzhd-grymotevici.jpg"
+    },
+    {
+      "title": "Сирия поиска независимо разследване на потъването на кораба \"Алфа Уатан\"",
+      "url": "https://dariknews.bg/novini/sviat/siriia-poiska-nezavisimo-razsledvane-na-potyvaneto-na-koraba-alfa-uatan-2468572",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393459/991-ratio-korab.jpg"
+    },
+    {
+      "title": "Демерджиев: Наблюдава се връзка между постъпването на бомбените заплахи с политически събития у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-nabliudava-se-vryzka-mezhdu-postypvaneto-na-bombenite-zaplahi-s-politicheski-sybitiia-u-nas-2468573",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46823/46823374/991-ratio-bomba.jpg"
+    },
     {
       "title": "Защо Къванч Татлъту закри профилите си в Екс и Инстаграм с 5 милиона последователи",
       "url": "https://dariknews.bg/novini/liubopitno/zashto-kyvanch-tatlytu-zakri-profilite-si-v-eks-i-instagram-s-5-miliona-posledovateli-2468570",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Други оръжия и съмнения за още престъпления: Нови подробности за убийството в Пловдив",
-      "url": "https://dariknews.bg/regioni/plovdiv/drugi-oryzhiia-i-symneniia-za-oshte-prestypleniia-novi-podrobnosti-za-ubijstvoto-v-plovdiv-2468549",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389371/991-ratio-ubijstvo-plovdiv.jpg"
-    },
-    {
-      "title": "Ан Карсън е носителят на Нобеловата награда за литература за 2026 г.",
-      "url": "https://dariknews.bg/novini/liubopitno/an-karsyn-e-nositeliat-na-nobelovata-nagrada-za-literatura-za-2026-g-2468548",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "15-годишен нападна и рани двама души в училище в Полша",
-      "url": "https://dariknews.bg/novini/sviat/15-godishen-napadna-i-rani-dvama-dushi-v-uchilishte-v-polsha-2468547",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393358/991-ratio-polsha.jpg"
+      "title": "Гледайте Спортното шоу на Дарик - 8.10.2026 08 Окт | 17:00",
+      "url": "https://dsport.bg/gledaite-sportnoto-shou-na-darik-8-10-2026~241703.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/dfdgsgf~2.og.png"
     },
     {
       "title": "Левски пусна интересен артикул в продажба 08 Окт | 16:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/yordan-1~2.og.jpg"
-    },
-    {
-      "title": "Италиански нападател окачи бутонките 08 Окт | 14:28",
-      "url": "https://dsport.bg/italianski-napadatel-okachi-butonkite~241693.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2250215085.og.jpg"
     }
   ]
 }
