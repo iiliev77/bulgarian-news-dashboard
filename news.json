@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T18:02:41.898140+00:00",
+  "updated": "2026-10-08T18:23:55.270453+00:00",
   "articles": [
+    {
+      "title": "Тръмп: САЩ няма да предприемат атака срещу Иран преди междинните избори другия месец",
+      "url": "https://dariknews.bg/novini/sviat/trymp-sasht-niama-da-predpriemat-ataka-sreshtu-iran-predi-mezhdinnite-izbori-drugiia-mesec-2468583",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352873/991-ratio-trymp.jpg"
+    },
     {
       "title": "Десетки хиляди млади хора отново излязоха протестираха в Париж, нов призив за демонстрации на 13 октомври",
       "url": "https://dariknews.bg/novini/sviat/desetki-hiliadi-mladi-hora-otnovo-izliazoha-protestiraha-v-parizh-nov-priziv-za-demonstracii-na-13-oktomvri-2468582",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393442/991-ratio-akciia-varna.jpg"
     },
     {
-      "title": "Муцунски потвърди: РСМ е готова да допусне български лекари, които да се запознаят със състоянието на Ива Михайлова",
-      "url": "https://dariknews.bg/novini/sviat/mucunski-potvyrdi-rsm-e-gotova-da-dopusne-bylgarski-lekari-koito-da-se-zapoznaiat-sys-systoianieto-na-iva-mihajlova-2468558",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Давид Силва наистина се връща във футбола, но... 08 Окт | 21:11",
+      "url": "https://dsport.bg/david-silva-naistina-se-vrasta-vav-futbola-no~241719.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/huhekksxsaa_vwo.og.jpg"
     },
     {
       "title": "14-годишен може да счупи исторически рекорд в Ла Лига 08 Окт | 20:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/836753232_1103130708980366_7496562817916008412_n.og.jpg"
-    },
-    {
-      "title": "Ботев Пд пусна билетите за Купата на Елита, по желание на Илиян Филипов пропуските са по 5 евро 08 Окт | 18:00",
-      "url": "https://dsport.bg/botev-plovdiv-pusna-biletite-za-kupata-na-elita-po-zelanie-na-ilian-filipov-propuskite-sa-po-5-evro~241705.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/biletibotev.og.jpg"
     }
   ]
 }
