@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T09:46:56.059231+00:00",
+  "updated": "2026-10-08T10:02:18.523896+00:00",
   "articles": [
+    {
+      "title": "„Галъп“: Йотова с 44,9% подкрепа, Гюров с 24,8% – очертава се балотаж",
+      "url": "https://dariknews.bg/novini/bylgariia/galyp-iotova-s-449-podkrepa-giurov-s-248-ochertava-se-balotazh-2468536",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43511/43511728/991-ratio-prezidentstvo-sgrada.jpg"
+    },
     {
       "title": "Делян Пеевски: Демерджиев е лъжец",
       "url": "https://dariknews.bg/novini/bylgariia/delian-peevski-demerdzhiev-e-lyzhec-2468535",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
     },
     {
-      "title": "Борисов: Службите докладват за превоз на хора и войска с втория кораб",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-sluzhbite-dokladvat-za-prevoz-na-hora-i-vojska-s-vtoriia-korab-2468515",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51381/51381815/991-ratio-bojko-borisov.jpg"
+      "title": "В Испания гърмят: отново бой в Реал Мадрид 08 Окт | 12:44",
+      "url": "https://dsport.bg/v-ispania-garmat-otnovo-boi-v-real-madrid~241685.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2275486835~2.og.jpg"
     },
     {
       "title": "Меси си спомни за починалия си баща 08 Окт | 12:18",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/elizara-6-0-1-2.og.jpg"
-    },
-    {
-      "title": "Любимата на Меси: Обичаме те, винаги сме с теб 08 Окт | 09:32",
-      "url": "https://dsport.bg/lubimata-na-mesi-obichame-te-vinagi-sme-s-teb~241675.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298979838.og.jpg"
     }
   ]
 }
