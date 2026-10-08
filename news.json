@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T18:23:55.270453+00:00",
+  "updated": "2026-10-08T18:44:37.912824+00:00",
   "articles": [
+    {
+      "title": "Екипажът на „Кугър“ разказва за спасителната мисия след атаките с дронове в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/ekipazhyt-na-kugyr-razkazva-za-spasitelnata-misiia-sled-atakite-s-dronove-v-cherno-more-2468584",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392431/991-ratio-moriaci-ataka-dronove-cherno-more-varna.jpg"
+    },
     {
       "title": "Тръмп: САЩ няма да предприемат атака срещу Иран преди междинните избори другия месец",
       "url": "https://dariknews.bg/novini/sviat/trymp-sasht-niama-da-predpriemat-ataka-sreshtu-iran-predi-mezhdinnite-izbori-drugiia-mesec-2468583",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50663/50663450/991-ratio-vik-burgas-akciia.jpg"
     },
     {
-      "title": "Акция във Варна: Полиция изведе шефа на общинското предприятие „Паркинги и синя зона“ (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/varna/akciia-vyv-varna-policiia-izvede-shefa-na-obshtinskoto-predpriiatie-parkingi-i-sinia-zona-snimki-2468561",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393442/991-ratio-akciia-varna.jpg"
+      "title": "Талант на Арсенал с тройно влизане в Гинес още преди да навърши 17 08 Окт | 21:34",
+      "url": "https://dsport.bg/talant-na-arsenal-s-troino-vlizane-v-gines-oste-predi-da-navarshi-17~241720.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295558796.og.jpg"
     },
     {
       "title": "Давид Силва наистина се връща във футбола, но... 08 Окт | 21:11",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/840664167_2442699236139284_8583778814806138239_n.og.jfif"
-    },
-    {
-      "title": "Берое и Миньор отнесоха 70% от глобите за Купата, трима от Родопа с временно спрени права 08 Окт | 18:15",
-      "url": "https://dsport.bg/beroe-i-minor-otnesoha-70-ot-globite-za-kupata-trima-ot-rodopa-s-vremenno-spreni-prava~241710.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/836753232_1103130708980366_7496562817916008412_n.og.jpg"
     }
   ]
 }
