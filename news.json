@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:38:22.228783+00:00",
+  "updated": "2026-10-08T15:56:36.702011+00:00",
   "articles": [
     {
       "title": "Предлагат наднорменото тегло и затлъстяването при децата да станат диспансерна диагноза",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51053/51053403/991-ratio-konstitucionen-syd.jpg"
     },
     {
+      "title": "Световната гимнастика актуализира правилото за руските и беларуски спортисти без знаме и химн 08 Окт | 18:46",
+      "url": "https://dsport.bg/svetovnata-gimnastika-aktualizira-praviloto-za-ruskite-i-belaruski-sportisti-bez-zname-i-himn~241711.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2282602021~1.og.jpg"
+    },
+    {
       "title": "ЦСКА разкри пълния щаб на Маркус Гиздол 08 Окт | 18:29",
       "url": "https://dsport.bg/cska-razkri-palnia-stab-na-markus-gizdol~241712.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/dfdgsgf~2.og.png"
-    },
-    {
-      "title": "Левски пусна интересен артикул в продажба 08 Окт | 16:37",
-      "url": "https://dsport.bg/levski-pusna-interesen-artikul-v-prodazba~241702.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/dfdgsgf~1.og.png"
     }
   ]
 }
