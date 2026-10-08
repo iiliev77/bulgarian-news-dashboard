@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-08T06:31:20.833917+00:00",
+  "updated": "2026-10-08T06:55:41.781208+00:00",
   "articles": [
+    {
+      "title": "Първи кадри от спасителната операция в Черно море: Как български ферибот спаси 18 моряци (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrvi-kadri-ot-spasitelnata-operaciia-v-cherno-more-kak-bylgarski-feribot-spasi-18-moriaci-video-2468496",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51286/51286297/991-ratio-cherno-more.jpg"
+    },
+    {
+      "title": "Избраха проф. Геновева Златева за декан на МУ-София",
+      "url": "https://dariknews.bg/regioni/sofiia/izbraha-prof.-genoveva-zlateva-za-dekan-na-mu-sofiia-2468494",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50736/50736447/991-ratio-lekar-bolnica.jpg"
+    },
+    {
+      "title": "Четирима души загинаха при тежка катастрофа в германската провинция Бранденбург",
+      "url": "https://dariknews.bg/novini/sviat/chetirima-dushi-zaginaha-pri-tezhka-katastrofa-v-germanskata-provinciia-brandenburg-2468493",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46211/46211388/991-ratio-policiia-germaniia.jpg"
+    },
+    {
+      "title": "ГЕРБ предлага хърватски модел за сваляне на цените на горивата",
+      "url": "https://dariknews.bg/novini/bylgariia/gerb-predlaga-hyrvatski-model-za-svaliane-na-cenite-na-gorivata-2468495",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51220/51220787/991-ratio-zhecho-stankov.jpg"
+    },
     {
       "title": "Ивайло Мирчев: Свидетел твърди, че атаката в Черно море е с руски дрон",
       "url": "https://dariknews.bg/novini/bylgariia/ivajlo-mirchev-svidetel-tvyrdi-che-atakata-v-cherno-more-e-s-ruski-dron-2468492",
@@ -13,7 +41,7 @@
       "url": "https://dariknews.bg/novini/sviat/pochina-margaret-hamiltyn-zhenata-zad-softuera-pomognal-na-apolo-da-kacne-na-lunata-2468491",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000742/991-ratio-svesht.jpg"
+      "image": "https://m.netinfo.bg/media/images/51393/51393221/991-ratio-margaret-hamiltyn.jpg"
     },
     {
       "title": "Медицинският университет в Пловдив: Няма основание за отстраняване на декана",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/31852/31852022/991-ratio-pyrzhola.jpg"
     },
     {
-      "title": "МОН представя Рейтинговата система на висшите училища за 2026 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/mon-predstavia-rejtingovata-sistema-na-visshite-uchilishta-za-2026-g-2468458",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47377/47377129/991-ratio-sofijski-universitet.jpg"
-    },
-    {
-      "title": "Проф. Христова: Пълният имунен отговор след ваксинация се изгражда за две седмици",
-      "url": "https://dariknews.bg/novini/bylgariia/prof.-hristova-pylniiat-imunen-otgovor-sled-vaksinaciia-se-izgrazhda-za-dve-sedmici-2468395",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Есен ли е, или лято? Температурите стигат до 30° на места в България",
-      "url": "https://dariknews.bg/novini/bylgariia/esen-li-e-ili-liato-temperaturite-stigat-do-30-na-mesta-v-bylgariia-2468475",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50969/50969539/991-ratio-esen.jpg"
-    },
-    {
-      "title": "Временно ограничават движението на АМ „Тракия“ заради смяна на тол камери",
-      "url": "https://dariknews.bg/novini/bylgariia/vremenno-ogranichavat-dvizhenieto-na-am-trakiia-zaradi-smiana-na-tol-kameri-2468465",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51142/51142949/991-ratio-tol-kameri-tol-kamera.jpg"
+      "title": "Любимата на Меси: Обичаме те, винаги сме с теб 08 Окт | 09:32",
+      "url": "https://dsport.bg/lubimata-na-mesi-obichame-te-vinagi-sme-s-teb~241675.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298979838.og.jpg"
     },
     {
       "title": "Борусия Дортмунд подготвя нов договор за един от асовете си 08 Окт | 09:19",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/833852897_1490237132943746_5333494270225645057_n.og.jfif"
-    },
-    {
-      "title": "Български национал влезе в престижен Топ 10 07 Окт | 22:32",
-      "url": "https://dsport.bg/balgarski-nacional-vleze-v-prestizen-top-10~241665.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/rosen-b.og.jpg"
     }
   ]
 }
