@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-08T08:02:06.556824+00:00",
+  "updated": "2026-10-08T08:22:11.972976+00:00",
   "articles": [
+    {
+      "title": "Борисов призова Йотова да разсекрети част от стенограмата от КСНС (НА ЖИВО)",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-prizova-iotova-da-razsekreti-chast-ot-stenogramata-ot-ksns-na-zhivo-2468515",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51381/51381815/991-ratio-bojko-borisov.jpg"
+    },
+    {
+      "title": "Заловиха голямо количество марихуана, четирима души са обвинени",
+      "url": "https://dariknews.bg/novini/bylgariia/zaloviha-goliamo-kolichestvo-marihuana-chetirima-dushi-sa-obvineni-2468514",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51383/51383178/991-ratio-marihuana-kanabis.jpg"
+    },
+    {
+      "title": "ДПС алармираха за случай на насилие срещу момче след скандал със сина на областния директор на МВР в Кърджали",
+      "url": "https://dariknews.bg/novini/bylgariia/dps-alarmiraha-za-sluchaj-na-nasilie-sreshtu-momche-sled-skandal-sys-sina-na-oblastniia-direktor-na-mvr-v-kyrdzhali-2468513",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384649/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Къде са конете?: Животни само на хартия - разкриха измамна схема за източване на пари",
+      "url": "https://dariknews.bg/regioni/vraca/kyde-sa-konete-zhivotni-samo-na-hartiia-razkriha-izmamna-shema-za-iztochvane-na-pari-2468516",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50884/50884953/991-ratio-kone.jpg"
+    },
     {
       "title": "От Мелник до Мусала: Изпитания на 2925 метра височина в „Свобода на колела“",
       "url": "https://dariknews.bg/novini/liubopitno/ot-melnik-do-musala-izpitaniia-na-2925-metra-visochina-v-svoboda-na-kolela-2468512",
@@ -23,8 +51,8 @@
       "image": "https://m.netinfo.bg/media/images/51299/51299979/991-ratio-evro.jpg"
     },
     {
-      "title": "Министър Петрова категорична - ако се докаже руска атака срещу корабите, ще извика посланик Митрофанова",
-      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-kategorichna-ako-se-dokazhe-ruska-ataka-sreshtu-korabite-shte-izvika-poslanik-mitrofanova-2468509",
+      "title": "Министър Петрова категорична - ако се докаже руска атака срещу корабите, вика Митрофанова",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-kategorichna-ako-se-dokazhe-ruska-ataka-sreshtu-korabite-vika-mitrofanova-2468509",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/45833/45833525/991-ratio-syrbiia-bylgariia.jpg"
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Първи кадри от спасителната операция в Черно море: Как български ферибот спаси 18 моряци (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/pyrvi-kadri-ot-spasitelnata-operaciia-v-cherno-more-kak-bylgarski-feribot-spasi-18-moriaci-video-2468496",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51286/51286297/991-ratio-cherno-more.jpg"
-    },
-    {
-      "title": "Избраха проф. Геновева Златева за декан на МУ-София",
-      "url": "https://dariknews.bg/regioni/sofiia/izbraha-prof.-genoveva-zlateva-za-dekan-na-mu-sofiia-2468494",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50736/50736447/991-ratio-lekar-bolnica.jpg"
-    },
-    {
-      "title": "ГЕРБ предлага хърватски модел за сваляне на цените на горивата",
-      "url": "https://dariknews.bg/novini/bylgariia/gerb-predlaga-hyrvatski-model-za-svaliane-na-cenite-na-gorivata-2468495",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51220/51220787/991-ratio-zhecho-stankov.jpg"
-    },
-    {
-      "title": "Четирима души загинаха при тежка катастрофа в германската провинция Бранденбург",
-      "url": "https://dariknews.bg/novini/sviat/chetirima-dushi-zaginaha-pri-tezhka-katastrofa-v-germanskata-provinciia-brandenburg-2468493",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46211/46211388/991-ratio-policiia-germaniia.jpg"
+      "title": "Стадионът на Девня е на 90 процента готов (ВИДЕО) 08 Окт | 11:09",
+      "url": "https://dsport.bg/stadionat-na-devna-e-na-90-procenta-gotov-video~241680.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/08.10-5~1.og.jpg"
     },
     {
       "title": "Компани открои целта пред Байерн този сезон 08 Окт | 10:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/08.10-1~2.og.jpg"
-    },
-    {
-      "title": "Щурото детство на Лео Меси 08 Окт | 08:10",
-      "url": "https://dsport.bg/sturoto-detstvo-na-leo-mesi~241670.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298981209.og.jpg"
     }
   ]
 }
