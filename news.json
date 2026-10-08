@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T13:36:21.700615+00:00",
+  "updated": "2026-10-08T13:53:29.872347+00:00",
   "articles": [
+    {
+      "title": "Защо Къванч Татлъту закри профилите си в Екс и Инстаграм с 5 милиона последователи",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-kyvanch-tatlytu-zakri-profilite-si-v-eks-i-instagram-s-5-miliona-posledovateli-2468570",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393452/991-ratio-kyvanch-tatlytu.jpg"
+    },
     {
       "title": "Лято през октомври: 30 градуса измериха в Ловеч",
       "url": "https://dariknews.bg/regioni/lovech/liato-prez-oktomvri-30-gradusa-izmeriha-v-lovech-2468568",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393358/991-ratio-polsha.jpg"
     },
     {
-      "title": "Как бактериите си помагат да заразяват тялото и да оцеляват",
-      "url": "https://dariknews.bg/novini/liubopitno/kak-bakteriite-si-pomagat-da-zaraziavat-tialoto-i-da-oceliavat-2468545",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50428/50428179/991-ratio-bakterii.jpg"
+      "title": "Левски пусна интересен артикул в продажба 08 Окт | 16:37",
+      "url": "https://dsport.bg/levski-pusna-interesen-artikul-v-prodazba~241702.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/dfdgsgf~1.og.png"
     },
     {
       "title": "Чеферин ще се кандидатира за четвърти мандат начело на УЕФА 08 Окт | 16:30",
@@ -147,6 +154,13 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-621777554-1-1-1-1.og.jpg"
+    },
+    {
+      "title": "Линдзи Вон изненадващо попадна в състава на САЩ 08 Окт | 16:15",
+      "url": "https://dsport.bg/lindzi-von-iznenadvasto-popadna-v-sastava-na-sast~241700.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2286542260.og.jpg"
     },
     {
       "title": "Мусиала поднови тренировки и е близо до завръщане 08 Окт | 16:00",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2250215085.og.jpg"
-    },
-    {
-      "title": "Арсенал бетонира Артета и е на път да направи същото с Райс 08 Окт | 14:15",
-      "url": "https://dsport.bg/arsenal-betonira-arteta-i-e-na-pat-da-napravi-sastoto-s-rais~241692.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2274697810-1.og.jpg"
-    },
-    {
-      "title": "Оттатък Дунава: бивш треньор на ЦСКА може да поеме България 08 Окт | 14:00",
-      "url": "https://dsport.bg/ottatak-dunava-bivsh-trenor-na-cska-moze-da-poeme-balgaria~241691.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2158168885~2.og.jpg"
     }
   ]
 }
