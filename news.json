@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T10:39:30.609567+00:00",
+  "updated": "2026-10-08T10:54:40.198517+00:00",
   "articles": [
+    {
+      "title": "Небесен спектакъл: Пикът на метеорния поток Дракониди ще бъде тази нощ",
+      "url": "https://dariknews.bg/novini/liubopitno/nebesen-spektakyl-pikyt-na-meteorniia-potok-drakonidi-shte-byde-tazi-nosht-2468544",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/34540/34540234/991-ratio-meteoren-dyzhd-padashti-zvezdi.jpg"
+    },
     {
       "title": "Дания въвежда закон за защита на лицата и гласовете на хората от дийпфейкове",
       "url": "https://dariknews.bg/novini/sviat/daniia-vyvezhda-zakon-za-zashtita-na-licata-i-glasovete-na-horata-ot-dijpfejkove-2468543",
@@ -9,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/49919/49919256/991-ratio-dijpfejk.jpg"
     },
     {
-      "title": "Блокаж в парламента – няма кворум: Само 119 депутати останаха в пленарната зала",
-      "url": "https://dariknews.bg/novini/bylgariia/blokazh-v-parlamenta-niama-kvorum-samo-119-deputati-ostanaha-v-plenarnata-zala-2468542",
+      "title": "Блокаж в парламента – няма кворум: Заседанието на Народното събрание беше закрито",
+      "url": "https://dariknews.bg/novini/bylgariia/blokazh-v-parlamenta-niama-kvorum-zasedanieto-na-narodnoto-sybranie-beshe-zakrito-2468542",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51272/51272338/991-ratio-deputati-parlament.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51318/51318317/991-ratio-kostadin-kostadinov.jpg"
     },
     {
-      "title": "Хутите атакуваха две летища в Саудитска Арабия, има загинали и ранени",
-      "url": "https://dariknews.bg/novini/sviat/hutite-atakuvaha-dve-letishta-v-sauditska-arabiia-ima-zaginali-i-raneni-2468523",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51132/51132324/991-ratio-huti.jpg"
+      "title": "Иван Иванов се класира за четвъртфиналите на турнир в Италия, Димитър Кисимов отпадна 08 Окт | 13:50",
+      "url": "https://dsport.bg/ivan-ivanov-se-klasira-za-chetvartfinalite-na-turnir-v-italia-dimitar-kisimov-otpadna~241690.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/837843-1-1-1-1-1-1~1.og.jpg"
     },
     {
       "title": "Затварят булевард „Източен“ за Ботев Пд – Славия, пуснаха още билети за правостоящи 08 Окт | 13:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/08.10-5~1.og.jpg"
-    },
-    {
-      "title": "Компани открои целта пред Байерн този сезон 08 Окт | 10:53",
-      "url": "https://dsport.bg/kompani-otkroi-celta-pred-baiern-tozi-sezon~241679.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2274652248~1.og.jpg"
     }
   ]
 }
