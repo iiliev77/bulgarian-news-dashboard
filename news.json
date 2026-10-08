@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T14:26:25.127855+00:00",
+  "updated": "2026-10-08T14:44:45.099668+00:00",
   "articles": [
+    {
+      "title": "Адвокатът на Ива Михайлова: Тя се нуждае от лечение, което РС Македония не може да ѝ осигури",
+      "url": "https://dariknews.bg/novini/bylgariia/advokatyt-na-iva-mihajlova-tia-se-nuzhdae-ot-lechenie-koeto-rs-makedoniia-ne-mozhe-da-osiguri-2468577",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Комисар Васил Вълчев поема ръководството на пожарната в Смолян",
       "url": "https://dariknews.bg/regioni/Smolyan/komisar-vasil-vylchev-poema-rykovodstvoto-na-pozharnata-v-smolian-2468576",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
     },
     {
-      "title": "Демерджиев: Скъпи лекарства са изнасяни в чужбина вместо да стигнат до пациентите",
-      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-skypi-lekarstva-sa-iznasiani-v-chuzhbina-vmesto-da-stignat-do-pacientite-2468552",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50717/50717685/991-ratio-lekarstva.jpg"
+      "title": "Ексклузивно Георги Караманджуков обясни защо Лудогорец отказа новия турнир 08 Окт | 17:40",
+      "url": "https://dsport.bg/georgi-karamandzukov-obasni-zasto-ludogorec-otkaza-novia-turnir~241708.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/viber_image_2026-10-08_17-38-23-048.og.jpg"
+    },
+    {
+      "title": "Обвиненият в убийството на Илиян Филипов - Славчо Мегеров, иска на свобода 08 Окт | 17:33",
+      "url": "https://dsport.bg/obvineniat-v-ubiistvoto-na-ilian-filipov-slavcho-megerov-iska-na-svoboda~241707.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/megera.png-1.og.webp"
+    },
+    {
+      "title": "Ексклузивно Караманджуков: Гледаме само Лудогорец, може да сме си най-големият проблем 08 Окт | 17:30",
+      "url": "https://dsport.bg/karamandzukov-gledame-samo-ludogorec-moze-da-sme-si-nai-golemiat-problem~241706.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1035619.og.jpg"
     },
     {
       "title": "Ексклузивно Тодор Благов: Ще сбъднем мечтата на господин Филипов 08 Окт | 17:14",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/viber_image_2026-09-23_12-22-59-993-1.og.jpg"
-    },
-    {
-      "title": "Мистериозен плик и агент: Разкриха любопитна история зад Златната топка 08 Окт | 15:31",
-      "url": "https://dsport.bg/misteriozen-plik-i-agent-razkriha-lubopitna-istoria-zad-zlatnata-topka~241697.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1765767170~2.og.jpg"
-    },
-    {
-      "title": "Раул Асенсио проговори за двата скандала: Сгреших, това няма да се повтори 08 Окт | 15:15",
-      "url": "https://dsport.bg/raul-asensio-progovori-za-dvata-skandala-sgreshih-tova-nama-da-se-povtori~241696.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2277101514~1.og.jpg"
-    },
-    {
-      "title": "Определиха програмата за 15-ия и 16-ия кръг, стана ясна и датата за Левски – Лудогорец 08 Окт | 14:57",
-      "url": "https://dsport.bg/opredeliha-programata-za-15-ia-i-16-ia-krag-stana-asna-i-datata-za-levski-ludogorec~241695.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/975635.og.jpg"
     }
   ]
 }
