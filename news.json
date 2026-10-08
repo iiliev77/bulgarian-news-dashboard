@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T18:44:37.912824+00:00",
+  "updated": "2026-10-08T19:01:32.951660+00:00",
   "articles": [
+    {
+      "title": "Ива Михайлова: Днес в София Муцунски излъга българското общество и медиите",
+      "url": "https://dariknews.bg/novini/sviat/iva-mihajlova-dnes-v-sofiia-mucunski-izlyga-bylgarskoto-obshtestvo-i-mediite-2468585",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
+    },
     {
       "title": "Екипажът на „Кугър“ разказва за спасителната мисия след атаките с дронове в Черно море",
       "url": "https://dariknews.bg/novini/bylgariia/ekipazhyt-na-kugyr-razkazva-za-spasitelnata-misiia-sled-atakite-s-dronove-v-cherno-more-2468584",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393415/991-ratio-spomeni-s-vkus.jpg"
     },
     {
-      "title": "Прокуратурата иска бившия шеф на ВиК-Бургас Цветан Мирчев да бъде върнат в ареста",
-      "url": "https://dariknews.bg/regioni/burgas/prokuraturata-iska-bivshiia-shef-na-vik-burgas-cvetan-mirchev-da-byde-vyrnat-v-aresta-2468562",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50663/50663450/991-ratio-vik-burgas-akciia.jpg"
+      "title": "ПСЖ оставя две от звездите си извън състава преди сблъсъка с Манчестър Сити 08 Окт | 21:58",
+      "url": "https://dsport.bg/psz-ostava-dve-ot-zvezdite-si-izvan-sastava-predi-sblasaka-s-manchestar-siti~241721.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2294374716.og.jpg"
     },
     {
       "title": "Талант на Арсенал с тройно влизане в Гинес още преди да навърши 17 08 Окт | 21:34",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2282602021~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА разкри пълния щаб на Маркус Гиздол 08 Окт | 18:29",
-      "url": "https://dsport.bg/cska-razkri-palnia-stab-na-markus-gizdol~241712.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/840664167_2442699236139284_8583778814806138239_n.og.jfif"
     }
   ]
 }
