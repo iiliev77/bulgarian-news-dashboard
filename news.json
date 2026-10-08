@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-08T11:40:30.976557+00:00",
+  "updated": "2026-10-08T11:55:09.782100+00:00",
   "articles": [
+    {
+      "title": "КС отхвърли искането срещу промените за ръководството на ДАТО",
+      "url": "https://dariknews.bg/novini/bylgariia/ks-othvyrli-iskaneto-sreshtu-promenite-za-rykovodstvoto-na-dato-2468554",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51053/51053403/991-ratio-konstitucionen-syd.jpg"
+    },
+    {
+      "title": "Трагедия в Карловско: Възрастна жена загина при челен сблъсък, четирима са ранени",
+      "url": "https://dariknews.bg/regioni/plovdiv/tragediia-v-karlovsko-vyzrastna-zhena-zagina-pri-chelen-sblysyk-chetirima-sa-raneni-2468553",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
+    },
+    {
+      "title": "Демерджиев: Правим няколко разследвания, касаещи различен тип източване на Здравната каса",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-pravim-niakolko-razsledvaniia-kasaeshti-razlichen-tip-iztochvane-na-zdravnata-kasa-2468552",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50717/50717685/991-ratio-lekarstva.jpg"
+    },
+    {
+      "title": "Оглед на танкера „Кайрос“ не установи течове или пробойни по корпуса",
+      "url": "https://dariknews.bg/regioni/burgas/ogled-na-tankera-kajros-ne-ustanovi-techove-ili-probojni-po-korpusa-2468551",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Испанецът-гуру на сектата край Калофер е освободен под парична гаранция от 15 хил. евро",
       "url": "https://dariknews.bg/regioni/plovdiv/ispanecyt-guru-na-sektata-kraj-kalofer-e-osvoboden-pod-parichna-garanciia-ot-15-hil.-evro-2468550",
@@ -9,8 +37,8 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Демерджиев: Не е намерено оръжието на убийството в Пловдив",
-      "url": "https://dariknews.bg/regioni/plovdiv/demerdzhiev-ne-e-namereno-oryzhieto-na-ubijstvoto-v-plovdiv-2468549",
+      "title": "Други оръжия и съмнения за още престъпления: Нови подробности за убийството в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/drugi-oryzhiia-i-symneniia-za-oshte-prestypleniia-novi-podrobnosti-za-ubijstvoto-v-plovdiv-2468549",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51389/51389371/991-ratio-ubijstvo-plovdiv.jpg"
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
     },
     {
-      "title": "Костенурка на 194 години може да разкрие тайните на дълголетието",
-      "url": "https://dariknews.bg/novini/liubopitno/kostenurka-na-194-godini-mozhe-da-razkrie-tajnite-na-dylgoletieto-2468534",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50885/50885481/991-ratio-kostenurka.jpg"
-    },
-    {
-      "title": "Проучване: Жените изпитват повече болка от мъжете",
-      "url": "https://dariknews.bg/novini/liubopitno/prouchvane-zhenite-izpitvat-poveche-bolka-ot-myzhete-2468532",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51358/51358071/991-ratio-bolka-uho-zhena.jpg"
-    },
-    {
-      "title": "ПП събра подписите за извънредно заседание на НС заради „Петричкия Ескобар“",
-      "url": "https://dariknews.bg/novini/bylgariia/pp-sybra-podpisite-za-izvynredno-zasedanie-na-ns-zaradi-petrichkiia-eskobar-2468531",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51280/51280658/991-ratio-pp-db.jpg"
-    },
-    {
-      "title": "Задава се въглеродна такса: Как ще се отразят новите цени на джоба ни?",
-      "url": "https://dariknews.bg/novini/sviat/zadava-se-vyglerodna-taksa-kak-shte-se-otraziat-novite-ceni-na-dzhoba-ni-2468530",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51299/51299369/991-ratio-skypi-goriva.jpg"
+      "title": "Йордан Александров получи квота за Световното по спортна гимнастика 08 Окт | 14:43",
+      "url": "https://dsport.bg/iordan-aleksandrov-poluchi-kvota-za-svetovnoto-po-sportna-gimnastika~241694.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/yordan-1~2.og.jpg"
     },
     {
       "title": "Италиански нападател окачи бутонките 08 Окт | 14:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2298422964.og.jpg"
-    },
-    {
-      "title": "Защо големите риби в Англия отхвърлиха Олисе? 08 Окт | 11:57",
-      "url": "https://dsport.bg/zasto-golemite-ribi-v-anglia-othvarliha-olise~241683.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297916519.og.jpg"
     }
   ]
 }
