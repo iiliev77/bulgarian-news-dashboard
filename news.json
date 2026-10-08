@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-08T12:57:09.532703+00:00",
+  "updated": "2026-10-08T13:14:44.405710+00:00",
   "articles": [
     {
-      "title": "Петрова за РСМ: Очакваме да бъдат изпълнени, както конституционните промени, така и всички договорени елементи",
-      "url": "https://dariknews.bg/novini/bylgariia/petrova-za-rsm-ochakvame-da-bydat-izpylneni-kakto-konstitucionnite-promeni-taka-i-vsichki-dogovoreni-elementi-2468564",
+      "title": "Съдът оправда Николай Неделков по дело за клевета",
+      "url": "https://dariknews.bg/regioni/sofiia/sydyt-opravda-nikolaj-nedelkov-po-delo-za-kleveta-2468565",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393427/991-ratio-nikolaj-nedelkov.jpg"
+    },
+    {
+      "title": "Петрова след срещата с Муцунски: За мен основният начин да изградим доверие, е изпълнение на ангажиментите",
+      "url": "https://dariknews.bg/novini/bylgariia/petrova-sled-sreshtata-s-mucunski-za-men-osnovniiat-nachin-da-izgradim-doverie-e-izpylnenie-na-angazhimentite-2468564",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51356/51356223/991-ratio-velislava-petrova.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/34540/34540234/991-ratio-meteoren-dyzhd-padashti-zvezdi.jpg"
     },
     {
-      "title": "Дания въвежда закон за защита на лицата и гласовете на хората от дийпфейкове",
-      "url": "https://dariknews.bg/novini/sviat/daniia-vyvezhda-zakon-za-zashtita-na-licata-i-glasovete-na-horata-ot-dijpfejkove-2468543",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49919/49919256/991-ratio-dijpfejk.jpg"
+      "title": "Мусиала поднови тренировки и е близо до завръщане 08 Окт | 16:00",
+      "url": "https://dsport.bg/musiala-podnovi-trenirovki-i-e-blizo-do-zavrastane~241698.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2280527482~1.og.jpg"
     },
     {
       "title": "Само двама контузени и много въпросителни пред Хулио Веласкес 08 Окт | 15:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/837843-1-1-1-1-1-1~1.og.jpg"
-    },
-    {
-      "title": "Затварят булевард „Източен“ за Ботев Пд – Славия, пуснаха още билети за правостоящи 08 Окт | 13:38",
-      "url": "https://dsport.bg/zatvarat-bulevard-iztochen-za-botev-pd-slavia-pusnaha-oste-bileti-za-pravostoasti~241689.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/08.10-6.og.jpg"
     }
   ]
 }
