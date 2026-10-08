@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-08T12:33:23.957540+00:00",
+  "updated": "2026-10-08T12:57:09.532703+00:00",
   "articles": [
+    {
+      "title": "Петрова за РСМ: Очакваме да бъдат изпълнени, както конституционните промени, така и всички договорени елементи",
+      "url": "https://dariknews.bg/novini/bylgariia/petrova-za-rsm-ochakvame-da-bydat-izpylneni-kakto-konstitucionnite-promeni-taka-i-vsichki-dogovoreni-elementi-2468564",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356223/991-ratio-velislava-petrova.jpg"
+    },
+    {
+      "title": "Любов и братски пакости в „Спомени с вкус“",
+      "url": "https://dariknews.bg/novini/liubopitno/liubov-i-bratski-pakosti-v-spomeni-s-vkus-2468563",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393415/991-ratio-spomeni-s-vkus.jpg"
+    },
+    {
+      "title": "Прокуратурата иска бившия шеф на ВиК-Бургас Цветан Мирчев да бъде върнат в ареста",
+      "url": "https://dariknews.bg/regioni/burgas/prokuraturata-iska-bivshiia-shef-na-vik-burgas-cvetan-mirchev-da-byde-vyrnat-v-aresta-2468562",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50663/50663450/991-ratio-vik-burgas-akciia.jpg"
+    },
+    {
+      "title": "Акция във Варна: Полиция изведе шефа на общинското предприятие „Паркинги и синя зона“",
+      "url": "https://dariknews.bg/regioni/varna/akciia-vyv-varna-policiia-izvede-shefa-na-obshtinskoto-predpriiatie-parkingi-i-sinia-zona-2468561",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+    },
     {
       "title": "Муцунски потвърди: РСМ е готова да допусне български лекари, които да се запознаят със състоянието на Ива Михайлова",
       "url": "https://dariknews.bg/novini/sviat/mucunski-potvyrdi-rsm-e-gotova-da-dopusne-bylgarski-lekari-koito-da-se-zapoznaiat-sys-systoianieto-na-iva-mihajlova-2468558",
@@ -37,8 +65,8 @@
       "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
     },
     {
-      "title": "Ранени гимназисти и масови протести: Недоволството във Франция продължава",
-      "url": "https://dariknews.bg/novini/sviat/raneni-gimnazisti-i-masovi-protesti-nedovolstvoto-vyv-franciia-prodylzhava-2468555",
+      "title": "Ще спрат ли новите мерки на правителството протестите на френските гимназисти (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/shte-sprat-li-novite-merki-na-pravitelstvoto-protestite-na-frenskite-gimnazisti-video-2468555",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/49919/49919256/991-ratio-dijpfejk.jpg"
     },
     {
-      "title": "Блокаж в парламента – няма кворум: Заседанието на Народното събрание беше закрито",
-      "url": "https://dariknews.bg/novini/bylgariia/blokazh-v-parlamenta-niama-kvorum-zasedanieto-na-narodnoto-sybranie-beshe-zakrito-2468542",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272338/991-ratio-deputati-parlament.jpg"
-    },
-    {
-      "title": "Жена почина, след като строителна машина я затисна при ремонт на улица в Пазарджик",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/zhena-pochina-sled-kato-stroitelna-mashina-ia-zatisna-pri-remont-na-ulica-v-pazardzhik-2468541",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
-    },
-    {
-      "title": "Всеки пети работещ в България е в компания под чуждестранен контрол",
-      "url": "https://dariknews.bg/novini/bylgariia/vseki-peti-rabotesht-v-bylgariia-e-v-kompaniia-pod-chuzhdestranen-kontrol-2468540",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51143/51143578/991-ratio-rabota-ofis.jpg"
-    },
-    {
-      "title": "Криско търси своята дуетна половинка сред осем загадъчни участници в „Пееш или лъжеш“",
-      "url": "https://dariknews.bg/novini/liubopitno/krisko-tyrsi-svoiata-duetna-polovinka-sred-osem-zagadychni-uchastnici-v-peesh-ili-lyzhesh-2468539",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393328/991-ratio-peesh-ili-lyzhesh.jpg"
+      "title": "Само двама контузени и много въпросителни пред Хулио Веласкес 08 Окт | 15:45",
+      "url": "https://dsport.bg/samo-dvama-kontuzeni-i-mnogo-vaprositelni-pred-hulio-velaskes~241699.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/viber_image_2026-09-23_12-22-59-993-1.og.jpg"
     },
     {
       "title": "Мистериозен плик и агент: Разкриха любопитна история зад Златната топка 08 Окт | 15:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/08.10-6.og.jpg"
-    },
-    {
-      "title": "Асен Митков: Дано тези след нас надградят с колектив и резултати 08 Окт | 13:30",
-      "url": "https://dsport.bg/asen-mitkov-dano-tezi-sled-nas-nadgradat-s-kolektiv-i-rezultati~241688.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1036491.og.jpg"
     }
   ]
 }
