@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T16:30:49.999243+00:00",
+  "updated": "2026-10-08T16:50:59.251351+00:00",
   "articles": [
+    {
+      "title": "Мадуро и съпругата му са обвинени и за предполагаеми изтезания",
+      "url": "https://dariknews.bg/novini/sviat/maduro-i-syprugata-mu-sa-obvineni-i-za-predpolagaemi-iztezaniia-2468581",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51380/51380784/991-ratio-maduro.jpg"
+    },
     {
       "title": "Премиерът се срещна с европейския комисар по разширяването Марта Кос, какво си казаха",
       "url": "https://dariknews.bg/novini/bylgariia/premieryt-se-sreshtna-s-evropejskiia-komisar-po-razshiriavaneto-marta-kos-kakvo-si-kazaha-2468580",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50834/50834806/991-ratio-reka-dunav-vidin-korab-korab-reka-dunav.jpg"
     },
     {
-      "title": "Напрежение на ГКПП „Кулата“: Пожар предизвика силно задимяване и притеснение сред пътуващите",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/naprezhenie-na-gkpp-kulata-pozhar-predizvika-silno-zadimiavane-i-pritesnenie-sred-pytuvashtite-2468556",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
+      "title": "Тони Кроос се готви за треньорска кариера, вече е предприел първите стъпки 08 Окт | 19:39",
+      "url": "https://dsport.bg/toni-kroos-se-gotvi-za-trenorska-kariera-veche-e-predpriel-parvite-stapki~241715.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2272272908.og.jpg"
     },
     {
       "title": "Пирин смени собствеността си, ветеран на клуба пое акциите 08 Окт | 19:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/megera.png-1.og.webp"
-    },
-    {
-      "title": "Ексклузивно Караманджуков: Гледаме само Лудогорец, може да сме си най-големият проблем 08 Окт | 17:30",
-      "url": "https://dsport.bg/karamandzukov-gledame-samo-ludogorec-moze-da-sme-si-nai-golemiat-problem~241706.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1035619.og.jpg"
     }
   ]
 }
