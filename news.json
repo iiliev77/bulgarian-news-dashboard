@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-08T11:24:48.336251+00:00",
+  "updated": "2026-10-08T11:40:30.976557+00:00",
   "articles": [
+    {
+      "title": "Испанецът-гуру на сектата край Калофер е освободен под парична гаранция от 15 хил. евро",
+      "url": "https://dariknews.bg/regioni/plovdiv/ispanecyt-guru-na-sektata-kraj-kalofer-e-osvoboden-pod-parichna-garanciia-ot-15-hil.-evro-2468550",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Демерджиев: Не е намерено оръжието на убийството в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/demerdzhiev-ne-e-namereno-oryzhieto-na-ubijstvoto-v-plovdiv-2468549",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389371/991-ratio-ubijstvo-plovdiv.jpg"
+    },
     {
       "title": "Ан Карсън е носителят на Нобеловата награда за литература за 2026 г.",
       "url": "https://dariknews.bg/novini/liubopitno/an-karsyn-e-nositeliat-na-nobelovata-nagrada-za-literatura-za-2026-g-2468548",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50937/50937314/991-ratio-nobelova-nagrada.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "15-годишен нападна и рани двама души в училище в Полша",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51299/51299369/991-ratio-skypi-goriva.jpg"
     },
     {
-      "title": "България очаква данни за произхода на дроновете в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-ochakva-danni-za-proizhoda-na-dronovete-v-cherno-more-2468533",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393307/991-ratio-sofiia-hayarr-regency-konferenciia-na-ministerski-ravnishte-korifor-8.jpg"
-    },
-    {
-      "title": "НС регламентира достъпа до технически документи на Държавния резерв",
-      "url": "https://dariknews.bg/novini/bylgariia/ns-reglamentira-dostypa-do-tehnicheski-dokumenti-na-dyrzhavniia-rezerv-2468529",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
+      "title": "Италиански нападател окачи бутонките 08 Окт | 14:28",
+      "url": "https://dsport.bg/italianski-napadatel-okachi-butonkite~241693.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2250215085.og.jpg"
     },
     {
       "title": "Арсенал бетонира Артета и е на път да направи същото с Райс 08 Окт | 14:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297916519.og.jpg"
-    },
-    {
-      "title": "Гребенчарски и Митрев свирят във Втора лига 08 Окт | 11:38",
-      "url": "https://dsport.bg/grebencharski-i-mitrev-svirat-vav-vtora-liga~241682.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/913482-2.og.jpg"
     }
   ]
 }
