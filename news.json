@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T05:54:20.803702+00:00",
+  "updated": "2026-10-08T06:06:08.706355+00:00",
   "articles": [
+    {
+      "title": "Външното ни министерство предупреждава за нарушения на транспорта в Белгия заради стачки",
+      "url": "https://dariknews.bg/novini/bylgariia/vynshnoto-ni-ministerstvo-preduprezhdava-za-narusheniia-na-transporta-v-belgiia-zaradi-stachki-2468489",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51123/51123975/991-ratio-mvnr.jpg"
+    },
     {
       "title": "Никола Цолов влиза във Формула 1 до края на този месец?",
       "url": "https://dariknews.bg/novini/liubopitno/nikola-colov-vliza-vyv-formula-1-do-kraia-na-tozi-mesec-2468487",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50174/50174692/991-ratio-vladimir-putin-i-redzhep-tajip-erdogan.jpg"
     },
     {
-      "title": "Почина 87-годишната испанка, станала символ на протестите заради скъпите наеми",
-      "url": "https://dariknews.bg/novini/sviat/pochina-87-godishnata-ispanka-stanala-simvol-na-protestite-zaradi-skypite-naemi-2468476",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393137/991-ratio-marikarmen.jpg"
+      "title": "Спортинг Лисабон пречупи Рилецо в продължение 08 Окт | 09:00",
+      "url": "https://dsport.bg/sporting-lisabon-prechupi-rileco-v-prodalzenie~241673.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/08.10-3.og.jpg"
     },
     {
       "title": "Локо Пловдив загуби в дебюта си за ФИБА Къп 08 Окт | 08:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/viber_image_2026-10-07_22-05-21-550.og.png"
-    },
-    {
-      "title": "Ударите на „Вируса ФИФА“: 60 контузени в топ 5 първенствата 07 Окт | 21:50",
-      "url": "https://dsport.bg/udarite-na-virusa-fifa-60-kontuzeni-v-top-5-parvenstvata~241661.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/global-football-icons_-a-gritty-club-clash.og.png"
     }
   ]
 }
