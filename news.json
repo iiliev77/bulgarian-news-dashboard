@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-08T07:10:16.536892+00:00",
+  "updated": "2026-10-08T07:30:37.390759+00:00",
   "articles": [
+    {
+      "title": "Срещата с Тимчо Муцунски: Министър Петрова ще постави въпроса за Ива Михайлова и очаква диалог",
+      "url": "https://dariknews.bg/novini/bylgariia/sreshtata-s-timcho-mucunski-ministyr-petrova-shte-postavi-vyprosa-za-iva-mihajlova-i-ochakva-dialog-2468501",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356691/991-ratio-velislava-petrova.jpg"
+    },
+    {
+      "title": "Шофьор блъсна 9-годишно дете на пешеходна пътека в Горна Оряховица",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/shofior-blysna-9-godishno-dete-na-peshehodna-pyteka-v-gorna-oriahovica-2468502",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Прокуратурата проверява мантинели на АМ „Хемус“ заради съмнения за нарушения",
+      "url": "https://dariknews.bg/regioni/sofiia/prokuraturata-proveriava-mantineli-na-am-hemus-zaradi-symneniia-za-narusheniia-2468500",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51344/51344339/991-ratio-hemus.jpg"
+    },
     {
       "title": "Дянков: Данък върху свръхпечалбите на банките може да донесе над 1 млрд. евро на България",
       "url": "https://dariknews.bg/novini/bylgariia/diankov-danyk-vyrhu-svryhpechalbite-na-bankite-mozhe-da-donese-nad-1-mlrd.-evro-na-bylgariia-2468498",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51373/51373723/991-ratio-ivan-demerdzhiev.jpg"
     },
     {
-      "title": "Освирквания и протести посрещнаха Тръмп на предизборна проява в Тексас",
-      "url": "https://dariknews.bg/novini/sviat/osvirkvaniia-i-protesti-posreshtnaha-trymp-na-predizborna-proiava-v-teksas-2468482",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393150/991-ratio-protestirashti-rech-trymp.jpg"
-    },
-    {
-      "title": "Нови разкрития около неуспешната екзекуция на осъдената на смърт заради убийство Криста Пайк",
-      "url": "https://dariknews.bg/novini/sviat/novi-razkritiia-okolo-neuspeshnata-ekzekuciia-na-osydenata-na-smyrt-zaradi-ubijstvo-krista-pajk-2468481",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392708/991-ratio-krista-pajk.jpg"
-    },
-    {
-      "title": "Транспортната и енергийната свързаност по Коридор 8 обсъждат на конференция в София",
-      "url": "https://dariknews.bg/novini/bylgariia/transportnata-i-energijnata-svyrzanost-po-koridor-8-obsyzhdat-na-konferenciia-v-sofiia-2468480",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47117/47117921/991-ratio-biznes.jpg"
+      "title": "ЦСКА пусна билетите за Монако: Завръщаме се там, където принадлежим 08 Окт | 10:10",
+      "url": "https://dsport.bg/cska-pusna-biletite-za-monako-zavrastame-se-tam-kadeto-prinadlezim~241677.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/08.10-4~1.og.jpg"
     },
     {
       "title": "Янева, Денчева и Енчева продължават напред на турнира в Бургас 08 Окт | 09:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-1223541308.og.jpg"
-    },
-    {
-      "title": "Инфантино вече има конкурент за президентския пост във ФИФА 07 Окт | 23:15",
-      "url": "https://dsport.bg/infantino-veche-ima-konkurent-za-prezidentskia-post-vav-fifa~241667.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-610622062.og.jpg"
     }
   ]
 }
