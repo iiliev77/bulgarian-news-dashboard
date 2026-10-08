@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-08T06:06:08.706355+00:00",
+  "updated": "2026-10-08T06:31:20.833917+00:00",
   "articles": [
+    {
+      "title": "Ивайло Мирчев: Свидетел твърди, че атаката в Черно море е с руски дрон",
+      "url": "https://dariknews.bg/novini/bylgariia/ivajlo-mirchev-svidetel-tvyrdi-che-atakata-v-cherno-more-e-s-ruski-dron-2468492",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Почина Маргарет Хамилтън — жената зад софтуера, помогнал на „Аполо“ да кацне на Луната“",
+      "url": "https://dariknews.bg/novini/sviat/pochina-margaret-hamiltyn-zhenata-zad-softuera-pomognal-na-apolo-da-kacne-na-lunata-2468491",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51000/51000742/991-ratio-svesht.jpg"
+    },
+    {
+      "title": "Медицинският университет в Пловдив: Няма основание за отстраняване на декана",
+      "url": "https://dariknews.bg/regioni/plovdiv/medicinskiiat-universitet-v-plovdiv-niama-osnovanie-za-otstraniavane-na-dekana-2468490",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393192/991-ratio-medicinskiiat-fakultet-kym-medicinskiia-universitet-v-plovdiv.jpg"
+    },
     {
       "title": "Външното ни министерство предупреждава за нарушения на транспорта в Белгия заради стачки",
       "url": "https://dariknews.bg/novini/bylgariia/vynshnoto-ni-ministerstvo-preduprezhdava-za-narusheniia-na-transporta-v-belgiia-zaradi-stachki-2468489",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51142/51142949/991-ratio-tol-kameri-tol-kamera.jpg"
     },
     {
-      "title": "Легенди от Родопите: Крепостта на Момчил юнак крие история на близо 700 години (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/Smolyan/legendi-ot-rodopite-krepostta-na-momchil-iunak-krie-istoriia-na-blizo-700-godini-snimki-2468281",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392261/991-ratio-momchilovata-krepost-rodopite.jpg"
-    },
-    {
-      "title": "Матей и Константинели от Вулканите са първите номинирани в „Игри на волята“ тази седмица",
-      "url": "https://dariknews.bg/novini/liubopitno/matej-i-konstantineli-ot-vulkanite-sa-pyrvite-nominirani-v-igri-na-voliata-tazi-sedmica-2468479",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393139/991-ratio-igri.jpg"
-    },
-    {
-      "title": "Ердоган и Путин обсъдиха сигурността на корабоплаването в Черно море",
-      "url": "https://dariknews.bg/novini/sviat/erdogan-i-putin-obsydiha-sigurnostta-na-koraboplavaneto-v-cherno-more-2468478",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50174/50174692/991-ratio-vladimir-putin-i-redzhep-tajip-erdogan.jpg"
+      "title": "Борусия Дортмунд подготвя нов договор за един от асовете си 08 Окт | 09:19",
+      "url": "https://dsport.bg/borusia-dortmund-podgotva-nov-dogovor-za-edin-ot-asovete-si~241674.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2294302233.og.jpg"
     },
     {
       "title": "Спортинг Лисабон пречупи Рилецо в продължение 08 Окт | 09:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/rosen-b.og.jpg"
-    },
-    {
-      "title": "ЦСКА: Тревата на нашето бижу се подготвя за големите мачове! (ВИДЕО) 07 Окт | 22:08",
-      "url": "https://dsport.bg/cska-trevata-na-nasheto-bizu-se-podgotva-za-golemite-machove-video~241664.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/viber_image_2026-10-07_22-05-21-550.og.png"
     }
   ]
 }
