@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-08T08:56:36.881974+00:00",
+  "updated": "2026-10-08T09:10:22.921839+00:00",
   "articles": [
+    {
+      "title": "Костадинов срещу Йотова: Няма постигнато съгласие на КСНС",
+      "url": "https://dariknews.bg/novini/bylgariia/kostadinov-sreshtu-iotova-niama-postignato-syglasie-na-ksns-2468524",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51318/51318317/991-ratio-kostadin-kostadinov.jpg"
+    },
     {
       "title": "Хутите атакуваха две летища в Саудитска Арабия, има загинали и ранени",
       "url": "https://dariknews.bg/novini/sviat/hutite-atakuvaha-dve-letishta-v-sauditska-arabiia-ima-zaginali-i-raneni-2468523",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51132/51132324/991-ratio-huti.jpg"
+    },
+    {
+      "title": "Терзиев с важни решения за София: Смени в екипа и нов тласък за метрото (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/terziev-s-vazhni-resheniia-za-sofiia-smeni-v-ekipa-i-nov-tlasyk-za-metroto-snimki-2468525",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393283/991-ratio-vasil-terziev-metro-proverka.jpg"
     },
     {
       "title": "Велосипедист е в тежко състояние след удар от кола в Костинброд",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51157/51157498/991-ratio-voda-kuche-topla-voda.jpg"
     },
     {
-      "title": "Двама души са с опасност за живота след челен сблъсък между кола и камион край Симитли",
-      "url": "https://dariknews.bg/regioni/pernik/dvama-dushi-sa-s-opasnost-za-zhivota-sled-chelen-sblysyk-mezhdu-kola-i-kamion-kraj-simitli-2468505",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
-    },
-    {
-      "title": "Простреляха мъж с газов пистолет след скандал във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/prostreliaha-myzh-s-gazov-pistolet-sled-skandal-vyv-velikotyrnovsko-2468504",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50887/50887995/991-ratio-pistolet.jpg"
+      "title": "Защо големите риби в Англия отхвърлиха Олисе? 08 Окт | 11:57",
+      "url": "https://dsport.bg/zasto-golemite-ribi-v-anglia-othvarliha-olise~241683.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297916519.og.jpg"
     },
     {
       "title": "Гребенчарски и Митрев свирят във Втора лига 08 Окт | 11:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2294302233.og.jpg"
-    },
-    {
-      "title": "Спортинг Лисабон пречупи Рилецо в продължение 08 Окт | 09:00",
-      "url": "https://dsport.bg/sporting-lisabon-prechupi-rileco-v-prodalzenie~241673.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/08.10-3.og.jpg"
     }
   ]
 }
