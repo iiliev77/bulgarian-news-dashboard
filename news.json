@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:00:20.876036+00:00",
+  "updated": "2026-10-08T15:17:48.828483+00:00",
   "articles": [
     {
       "title": "Адвокатът на Ива Михайлова: Тя се нуждае от лечение, което РС Македония не може да ѝ осигури",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
     },
     {
+      "title": "Берое и Миньор отнесоха 70% от глобите за Купата, трима от Родопа с временно спрени права 08 Окт | 18:15",
+      "url": "https://dsport.bg/beroe-i-minor-otnesoha-70-ot-globite-za-kupata-trima-ot-rodopa-s-vremenno-spreni-prava~241710.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/836753232_1103130708980366_7496562817916008412_n.og.jpg"
+    },
+    {
+      "title": "Ботев Пд пусна билетите за Купата на Елита, по желание на Илиян Филипов пропуските са по 5 евро 08 Окт | 18:00",
+      "url": "https://dsport.bg/botev-plovdiv-pusna-biletite-za-kupata-na-elita-po-zelanie-na-ilian-filipov-propuskite-sa-po-5-evro~241705.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/biletibotev.og.jpg"
+    },
+    {
       "title": "Иван Демерджиев: Не е намерено оръжието, с което е убит Илиян Филипов 08 Окт | 17:44",
       "url": "https://dsport.bg/ivan-demerdziev-ne-e-namereno-orazieto-s-koeto-e-ubit-ilian-filipov~241709.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-621777554-1-1-1-1.og.jpg"
-    },
-    {
-      "title": "Линдзи Вон изненадващо попадна в състава на САЩ 08 Окт | 16:15",
-      "url": "https://dsport.bg/lindzi-von-iznenadvasto-popadna-v-sastava-na-sast~241700.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2286542260.og.jpg"
-    },
-    {
-      "title": "Мусиала поднови тренировки и е близо до завръщане 08 Окт | 16:00",
-      "url": "https://dsport.bg/musiala-podnovi-trenirovki-i-e-blizo-do-zavrastane~241698.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2280527482~1.og.jpg"
     }
   ]
 }
