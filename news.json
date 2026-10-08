@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T20:23:41.214475+00:00",
+  "updated": "2026-10-08T20:40:39.485816+00:00",
   "articles": [
     {
       "title": "При проверка на огнестрелни оръжия: Служител на местната администрация в Германия бе убит, а друг – ранен",
@@ -13,7 +13,7 @@
       "url": "https://dariknews.bg/novini/sviat/iva-mihajlova-dnes-v-sofiia-mucunski-izlyga-bylgarskoto-obshtestvo-i-mediite-2468585",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Екипажът на „Кугър“ разказва за спасителната мисия след атаките с дронове в Черно море",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51356/51356223/991-ratio-velislava-petrova.jpg"
     },
     {
+      "title": "Нов скандал със залози във Висшата лига 08 Окт | 23:24",
+      "url": "https://dsport.bg/nov-skandal-sas-zalozi-vav-visshata-liga~241725.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1563394431.og.jpg"
+    },
+    {
       "title": "Холанд наруши мълчанието след тежкия удар по Манчестър Сити 08 Окт | 23:01",
       "url": "https://dsport.bg/holand-narushi-malchanieto-sled-tezkia-udar-po-manchestar-siti~241724.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299104087.og.jpg"
-    },
-    {
-      "title": "Тони Кроос се готви за треньорска кариера, вече е предприел първите стъпки 08 Окт | 19:39",
-      "url": "https://dsport.bg/toni-kroos-se-gotvi-za-trenorska-kariera-veche-e-predpriel-parvite-stapki~241715.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2272272908.og.jpg"
     }
   ]
 }
