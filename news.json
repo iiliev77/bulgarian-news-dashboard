@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T19:19:45.326780+00:00",
+  "updated": "2026-10-08T19:36:38.382799+00:00",
   "articles": [
+    {
+      "title": "При проверка на огнестрелни оръжия: Служител на местната администрация в Германия бе убит, а друг – ранен",
+      "url": "https://dariknews.bg/novini/sviat/pri-proverka-na-ognestrelni-oryzhiia-sluzhitel-na-mestnata-administraciia-v-germaniia-be-ubit-a-drug-ranen-2468587",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51003/51003658/991-ratio-policiia-germaniia.jpg"
+    },
     {
       "title": "Ива Михайлова: Днес в София Муцунски излъга българското общество и медиите",
       "url": "https://dariknews.bg/novini/sviat/iva-mihajlova-dnes-v-sofiia-mucunski-izlyga-bylgarskoto-obshtestvo-i-mediite-2468585",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51356/51356223/991-ratio-velislava-petrova.jpg"
     },
     {
-      "title": "Любов и братски пакости в „Спомени с вкус“",
-      "url": "https://dariknews.bg/novini/liubopitno/liubov-i-bratski-pakosti-v-spomeni-s-vkus-2468563",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393415/991-ratio-spomeni-s-vkus.jpg"
+      "title": "Барселона преподписа с поредния си голям талант 08 Окт | 22:22",
+      "url": "https://dsport.bg/barselona-prepodpisa-s-porednia-si-golam-talant~241722.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2289729604.og.jpg"
     },
     {
       "title": "ПСЖ оставя две от звездите си извън състава преди сблъсъка с Манчестър Сити 08 Окт | 21:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1024692~1.og.jpg"
-    },
-    {
-      "title": "Световната гимнастика актуализира правилото за руските и беларуски спортисти без знаме и химн 08 Окт | 18:46",
-      "url": "https://dsport.bg/svetovnata-gimnastika-aktualizira-praviloto-za-ruskite-i-belaruski-sportisti-bez-zname-i-himn~241711.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2282602021~1.og.jpg"
     }
   ]
 }
