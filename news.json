@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T08:40:39.704938+00:00",
+  "updated": "2026-10-08T08:56:36.881974+00:00",
   "articles": [
+    {
+      "title": "Хутите атакуваха две летища в Саудитска Арабия, има загинали и ранени",
+      "url": "https://dariknews.bg/novini/sviat/hutite-atakuvaha-dve-letishta-v-sauditska-arabiia-ima-zaginali-i-raneni-2468523",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51132/51132324/991-ratio-huti.jpg"
+    },
     {
       "title": "Велосипедист е в тежко състояние след удар от кола в Костинброд",
       "url": "https://dariknews.bg/regioni/sofiia/velosipedist-e-v-tezhko-systoianie-sled-udar-ot-kola-v-kostinbrod-2468521",
@@ -9,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/51119/51119509/991-ratio-kolelo-incident.jpg"
     },
     {
-      "title": "„Черната смърт“ отново на фокус: Уроците от миналото за съвременни пандемии",
-      "url": "https://dariknews.bg/novini/liubopitno/chernata-smyrt-otnovo-na-fokus-urocite-ot-minaloto-za-syvremenni-pandemii-2468522",
+      "title": "„Черната смърт“ отново на фокус: Уроците от миналото за съвременните пандемии",
+      "url": "https://dariknews.bg/novini/sviat/chernata-smyrt-otnovo-na-fokus-urocite-ot-minaloto-za-syvremennite-pandemii-2468522",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51393/51393277/991-ratio-chuma.jpg"
@@ -44,8 +51,8 @@
       "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
     },
     {
-      "title": "Борисов: Докато „Балкански поток“ работи, президентът Путин няма да удари България (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-dokato-balkanski-potok-raboti-prezidentyt-putin-niama-da-udari-bylgariia-na-zhivo-2468515",
+      "title": "Борисов: Службите докладват за превоз на хора и войска с втория кораб",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-sluzhbite-dokladvat-za-prevoz-na-hora-i-vojska-s-vtoriia-korab-2468515",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51381/51381815/991-ratio-bojko-borisov.jpg"
@@ -55,7 +62,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/razbiha-narkosdelka-v-sofiia-spipaha-nad-9-kg-marihuana-ima-chetirima-obviniaemi-2468514",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51383/51383178/991-ratio-marihuana-kanabis.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "ДПС алармираха за случай на насилие срещу момче след скандал със сина на областния директор на МВР в Кърджали",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50887/50887995/991-ratio-pistolet.jpg"
     },
     {
-      "title": "Шофьор блъсна 9-годишно дете на пешеходна пътека в Горна Оряховица",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/shofior-blysna-9-godishno-dete-na-peshehodna-pyteka-v-gorna-oriahovica-2468502",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+      "title": "Гребенчарски и Митрев свирят във Втора лига 08 Окт | 11:38",
+      "url": "https://dsport.bg/grebencharski-i-mitrev-svirat-vav-vtora-liga~241682.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/913482-2.og.jpg"
     },
     {
       "title": "Енцо Фернандес към Меси: Просто искам да си щастлив, наследството ти ще остане вечно 08 Окт | 11:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/08.10-3.og.jpg"
-    },
-    {
-      "title": "Локо Пловдив загуби в дебюта си за ФИБА Къп 08 Окт | 08:45",
-      "url": "https://dsport.bg/loko-plovdiv-zagubi-v-debuta-si-za-fiba-kap~241672.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/08.10-2~1.og.jpg"
     }
   ]
 }
