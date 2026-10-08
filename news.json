@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-08T14:05:13.686187+00:00",
+  "updated": "2026-10-08T14:26:25.127855+00:00",
   "articles": [
+    {
+      "title": "Комисар Васил Вълчев поема ръководството на пожарната в Смолян",
+      "url": "https://dariknews.bg/regioni/Smolyan/komisar-vasil-vylchev-poema-rykovodstvoto-na-pozharnata-v-smolian-2468576",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393553/991-ratio-komisar-vasil-vylchev-pozharna-smolian.jpg"
+    },
+    {
+      "title": "Един убит, трима ранени при нападение срещу военни в Иран",
+      "url": "https://dariknews.bg/novini/sviat/edin-ubit-trima-raneni-pri-napadenie-sreshtu-voenni-v-iran-2468575",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44592/44592293/991-ratio-iran-flag.jpg"
+    },
     {
       "title": "Бури и проливни дъждове нанесоха щети в цяла Италия",
       "url": "https://dariknews.bg/novini/sviat/buri-i-prolivni-dyzhdove-nanesoha-shteti-v-ciala-italiia-2468574",
@@ -9,7 +23,7 @@
       "image": "https://m.netinfo.bg/media/images/50854/50854273/991-ratio-buria-dyzhd-grymotevici.jpg"
     },
     {
-      "title": "Сирия поиска независимо разследване на потъването на кораба \"Алфа Уатан\"",
+      "title": "Сирия поиска независимо разследване на потъването на кораба „Алфа Уатан“",
       "url": "https://dariknews.bg/novini/sviat/siriia-poiska-nezavisimo-razsledvane-na-potyvaneto-na-koraba-alfa-uatan-2468572",
       "source": "DarikNews",
       "section": "news",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50717/50717685/991-ratio-lekarstva.jpg"
     },
     {
-      "title": "Оглед на танкера „Кайрос“ не установи течове или пробойни по корпуса",
-      "url": "https://dariknews.bg/regioni/burgas/ogled-na-tankera-kajros-ne-ustanovi-techove-ili-probojni-po-korpusa-2468551",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Испанецът-гуру на сектата край Калофер е освободен под парична гаранция от 15 хил. евро",
-      "url": "https://dariknews.bg/regioni/plovdiv/ispanecyt-guru-na-sektata-kraj-kalofer-e-osvoboden-pod-parichna-garanciia-ot-15-hil.-evro-2468550",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Ексклузивно Тодор Благов: Ще сбъднем мечтата на господин Филипов 08 Окт | 17:14",
+      "url": "https://dsport.bg/blagov~241704.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/834122945_18435302527198951_7998195865349191305_n~1.og.jpg"
     },
     {
       "title": "Гледайте Спортното шоу на Дарик - 8.10.2026 08 Окт | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/975635.og.jpg"
-    },
-    {
-      "title": "Йордан Александров получи квота за Световното по спортна гимнастика 08 Окт | 14:43",
-      "url": "https://dsport.bg/iordan-aleksandrov-poluchi-kvota-za-svetovnoto-po-sportna-gimnastika~241694.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/yordan-1~2.og.jpg"
     }
   ]
 }
