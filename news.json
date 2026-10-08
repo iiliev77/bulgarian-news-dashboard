@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-08T10:02:18.523896+00:00",
+  "updated": "2026-10-08T10:22:28.282117+00:00",
   "articles": [
+    {
+      "title": "Криско търси своята дуетна половинка сред осем загадъчни участници в „Пееш или лъжеш“",
+      "url": "https://dariknews.bg/novini/liubopitno/krisko-tyrsi-svoiata-duetna-polovinka-sred-osem-zagadychni-uchastnici-v-peesh-ili-lyzhesh-2468539",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393328/991-ratio-peesh-ili-lyzhesh.jpg"
+    },
+    {
+      "title": "Пребиха мъж в парк в София",
+      "url": "https://dariknews.bg/regioni/sofiia/prebiha-myzh-v-park-v-sofiia-2468538",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
+    },
+    {
+      "title": "Близо 9 млн. нелегални цигари задържаха на „Кулата“",
+      "url": "https://dariknews.bg/novini/blizo-9-mln.-nelegalni-cigari-zadyrzhaha-na-kulata-2468537",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385673/991-ratio-cigari-pernik.jpg"
+    },
     {
       "title": "„Галъп“: Йотова с 44,9% подкрепа, Гюров с 24,8% – очертава се балотаж",
       "url": "https://dariknews.bg/novini/bylgariia/galyp-iotova-s-449-podkrepa-giurov-s-248-ochertava-se-balotazh-2468536",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51351/51351800/991-ratio-trolej-trolejbus-tramvaj.jpg"
     },
     {
-      "title": "Милошев: Паметникът на Шипка е най-сложният обект за реконструкция в България",
-      "url": "https://dariknews.bg/novini/bylgariia/miloshev-pametnikyt-na-shipka-e-naj-slozhniiat-obekt-za-rekonstrukciia-v-bylgariia-2468518",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393268/991-ratio-sofiia-bnb-izlozhba-bylgariia-v-kartini-i-sezoni.jpg"
-    },
-    {
-      "title": "Париж: Великобритания винаги е добре дошла обратно в ЕС",
-      "url": "https://dariknews.bg/novini/sviat/parizh-velikobritaniia-vinagi-e-dobre-doshla-obratno-v-es-2468517",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393267/991-ratio-rolan-leskiur.jpg"
-    },
-    {
-      "title": "Мъж загина при тежката катастрофа във Врачанско",
-      "url": "https://dariknews.bg/regioni/vraca/myzh-zaginapri-tezhkata-katastrofa-vyv-vrachansko-2468519",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51072/51072441/991-ratio-katastrofa-kola.jpg"
+      "title": "Мирослав Гочев подкрепи Тодор Ангелов в борбата срещу Станка Златева 08 Окт | 13:12",
+      "url": "https://dsport.bg/miroslav-gochev-podkrepi-todor-angelov-v-borbata-srestu-stanka-zlateva~241687.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1037910.og.jpg"
     },
     {
       "title": "В Испания гърмят: отново бой в Реал Мадрид 08 Окт | 12:44",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/08.10-4~1.og.jpg"
-    },
-    {
-      "title": "Янева, Денчева и Енчева продължават напред на турнира в Бургас 08 Окт | 09:54",
-      "url": "https://dsport.bg/aneva-dencheva-i-encheva-prodalzavat-napred-na-turnira-v-burgas~241676.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/elizara-6-0-1-2.og.jpg"
     }
   ]
 }
