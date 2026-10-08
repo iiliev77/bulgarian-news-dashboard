@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-08T10:54:40.198517+00:00",
+  "updated": "2026-10-08T11:06:04.231824+00:00",
   "articles": [
+    {
+      "title": "Георги Костадинов е новият началник на РУ-Казанлък",
+      "url": "https://dariknews.bg/regioni/burgas/georgi-kostadinov-e-noviiat-nachalnik-na-ru-kazanlyk-2468546",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393355/991-ratio-georgi-kostadinov.jpg"
+    },
+    {
+      "title": "Как бактериите си помагат да заразяват тялото и да оцеляват",
+      "url": "https://dariknews.bg/novini/liubopitno/kak-bakteriite-si-pomagat-da-zaraziavat-tialoto-i-da-oceliavat-2468545",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50428/50428179/991-ratio-bakterii.jpg"
+    },
     {
       "title": "Небесен спектакъл: Пикът на метеорния поток Дракониди ще бъде тази нощ",
       "url": "https://dariknews.bg/novini/liubopitno/nebesen-spektakyl-pikyt-na-meteorniia-potok-drakonidi-shte-byde-tazi-nosht-2468544",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
     },
     {
-      "title": "Промени при започване на работа: Предлагат личните лекари да извършват задължителните медицински прегледи",
-      "url": "https://dariknews.bg/novini/bylgariia/promeni-pri-zapochvane-na-rabota-predlagat-lichnite-lekari-da-izvyrshvat-zadylzhitelnite-medicinski-pregledi-2468526",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389930/991-ratio-laptop-lekar.jpg"
-    },
-    {
-      "title": "Костадинов срещу Йотова: Няма постигнато съгласие на КСНС",
-      "url": "https://dariknews.bg/novini/bylgariia/kostadinov-sreshtu-iotova-niama-postignato-syglasie-na-ksns-2468524",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51318/51318317/991-ratio-kostadin-kostadinov.jpg"
+      "title": "Оттатък Дунава: бивш треньор на ЦСКА може да поеме България 08 Окт | 14:00",
+      "url": "https://dsport.bg/ottatak-dunava-bivsh-trenor-na-cska-moze-da-poeme-balgaria~241691.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2158168885~2.og.jpg"
     },
     {
       "title": "Иван Иванов се класира за четвъртфиналите на турнир в Италия, Димитър Кисимов отпадна 08 Окт | 13:50",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2286279612.og.jpg"
-    },
-    {
-      "title": "Стадионът на Девня е на 90 процента готов (ВИДЕО) 08 Окт | 11:09",
-      "url": "https://dsport.bg/stadionat-na-devna-e-na-90-procenta-gotov-video~241680.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/08.10-5~1.og.jpg"
     }
   ]
 }
