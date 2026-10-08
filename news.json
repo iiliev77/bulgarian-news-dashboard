@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-08T13:14:44.405710+00:00",
+  "updated": "2026-10-08T13:36:21.700615+00:00",
   "articles": [
+    {
+      "title": "Лято през октомври: 30 градуса измериха в Ловеч",
+      "url": "https://dariknews.bg/regioni/lovech/liato-prez-oktomvri-30-gradusa-izmeriha-v-lovech-2468568",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51282/51282359/991-ratio-zhena-slynce.jpg"
+    },
+    {
+      "title": "Полският премиер Туск осъди „култа към насилието“ след атаките с хладно оръжие в две училища",
+      "url": "https://dariknews.bg/novini/sviat/polskiiat-premier-tusk-osydi-kulta-kym-nasilieto-sled-atakite-s-hladno-oryzhie-v-dve-uchilishta-2468566",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38533/38533150/991-ratio-donald-tusk.jpg"
+    },
     {
       "title": "Съдът оправда Николай Неделков по дело за клевета",
       "url": "https://dariknews.bg/regioni/sofiia/sydyt-opravda-nikolaj-nedelkov-po-delo-za-kleveta-2468565",
@@ -30,11 +44,11 @@
       "image": "https://m.netinfo.bg/media/images/50663/50663450/991-ratio-vik-burgas-akciia.jpg"
     },
     {
-      "title": "Акция във Варна: Полиция изведе шефа на общинското предприятие „Паркинги и синя зона“",
-      "url": "https://dariknews.bg/regioni/varna/akciia-vyv-varna-policiia-izvede-shefa-na-obshtinskoto-predpriiatie-parkingi-i-sinia-zona-2468561",
+      "title": "Акция във Варна: Полиция изведе шефа на общинското предприятие „Паркинги и синя зона“ (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/varna/akciia-vyv-varna-policiia-izvede-shefa-na-obshtinskoto-predpriiatie-parkingi-i-sinia-zona-snimki-2468561",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51393/51393442/991-ratio-akciia-varna.jpg"
     },
     {
       "title": "Муцунски потвърди: РСМ е готова да допусне български лекари, които да се запознаят със състоянието на Ива Михайлова",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50428/50428179/991-ratio-bakterii.jpg"
     },
     {
-      "title": "Георги Костадинов е новият началник на РУ-Казанлък",
-      "url": "https://dariknews.bg/regioni/stara-zagora/georgi-kostadinov-e-noviiat-nachalnik-na-ru-kazanlyk-2468546",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393355/991-ratio-georgi-kostadinov.jpg"
-    },
-    {
-      "title": "Небесен спектакъл: Пикът на метеорния поток Дракониди ще бъде тази нощ",
-      "url": "https://dariknews.bg/novini/liubopitno/nebesen-spektakyl-pikyt-na-meteorniia-potok-drakonidi-shte-byde-tazi-nosht-2468544",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34540/34540234/991-ratio-meteoren-dyzhd-padashti-zvezdi.jpg"
+      "title": "Чеферин ще се кандидатира за четвърти мандат начело на УЕФА 08 Окт | 16:30",
+      "url": "https://dsport.bg/cheferin-ste-se-kandidatira-za-chetvarti-mandat-nachelo-na-uefa~241701.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-621777554-1-1-1-1.og.jpg"
     },
     {
       "title": "Мусиала поднови тренировки и е близо до завръщане 08 Окт | 16:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2158168885~2.og.jpg"
-    },
-    {
-      "title": "Иван Иванов се класира за четвъртфиналите на турнир в Италия, Димитър Кисимов отпадна 08 Окт | 13:50",
-      "url": "https://dsport.bg/ivan-ivanov-se-klasira-za-chetvartfinalite-na-turnir-v-italia-dimitar-kisimov-otpadna~241690.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/837843-1-1-1-1-1-1~1.og.jpg"
     }
   ]
 }
