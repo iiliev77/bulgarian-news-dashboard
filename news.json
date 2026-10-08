@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-08T05:24:00.115845+00:00",
+  "updated": "2026-10-08T05:39:15.090955+00:00",
   "articles": [
+    {
+      "title": "Никола Цолов влиза във Формула 1 до края на този месец?",
+      "url": "https://dariknews.bg/novini/liubopitno/nikola-colov-vliza-vyv-formula-1-do-kraia-na-tozi-mesec-2468487",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51386/51386129/991-ratio-nikola-colov.jpg"
+    },
+    {
+      "title": "Какво се знае за случая с чума в Русия - има ли риск от разпространение",
+      "url": "https://dariknews.bg/novini/bylgariia/kakvo-se-znae-za-sluchaia-s-chuma-v-rusiia-ima-li-risk-ot-razprostranenie-2468488",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Две земетресения разтърсиха Източна Япония",
       "url": "https://dariknews.bg/novini/sviat/dve-zemetreseniia-raztyrsiha-iztochna-iaponiia-2468486",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393137/991-ratio-marikarmen.jpg"
     },
     {
-      "title": "Стоянов: Подводен дрон ще обследва мястото на потъналия кораб със сирийски екипаж",
-      "url": "https://dariknews.bg/novini/bylgariia/stoianov-podvoden-dron-shte-obsledva-miastoto-na-potynaliia-korab-sys-sirijski-ekipazh-2468474",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Тръмп: Не смятаме, че смъртта на лаборантка в Русия е свързана с биологично оръжие",
-      "url": "https://dariknews.bg/novini/sviat/trymp-ne-smiatame-che-smyrtta-na-laborantka-v-rusiia-e-svyrzana-s-biologichno-oryzhie-2468473",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
+      "title": "Балкан с тежко поражение в исторически мач от Еврокъп 08 Окт | 08:25",
+      "url": "https://dsport.bg/balkan-s-tezko-porazenie-v-istoricheski-mach-ot-evrokap~241671.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/08.10-1~2.og.jpg"
     },
     {
       "title": "Щурото детство на Лео Меси 08 Окт | 08:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-698415070.og.jpg"
-    },
-    {
-      "title": "Емоционален Меси: Невъзможно ми е да изразя всичко, което чувствам - ще ми липсвате 07 Окт | 21:20",
-      "url": "https://dsport.bg/emocionalen-mesi-nevazmozno-mi-e-da-izraza-vsichko-koeto-chuvstvam-ste-mi-lipsvate~241662.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2298974173~1.og.jpg"
     }
   ]
 }
