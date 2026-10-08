@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T16:09:16.970146+00:00",
+  "updated": "2026-10-08T16:30:49.999243+00:00",
   "articles": [
+    {
+      "title": "Премиерът се срещна с европейския комисар по разширяването Марта Кос, какво си казаха",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-se-sreshtna-s-evropejskiia-komisar-po-razshiriavaneto-marta-kos-kakvo-si-kazaha-2468580",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393577/991-ratio-radev.jpg"
+    },
     {
       "title": "Предлагат наднорменото тегло и затлъстяването при децата да станат диспансерна диагноза",
       "url": "https://dariknews.bg/novini/obshtestvo/predlagat-nadnormenoto-teglo-i-zatlystiavaneto-pri-decata-da-stanat-dispanserna-diagnoza-2468578",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50863/50863762/991-ratio-pozhar-gora-pozharna.jpg"
     },
     {
-      "title": "Трагедия в Карловско: Възрастна жена загина при челен сблъсък, четирима са ранени",
-      "url": "https://dariknews.bg/regioni/plovdiv/tragediia-v-karlovsko-vyzrastna-zhena-zagina-pri-chelen-sblysyk-chetirima-sa-raneni-2468553",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51118/51118237/991-ratio-kola-katastrofa-iliustrativna.jpg"
+      "title": "Пирин смени собствеността си, ветеран на клуба пое акциите 08 Окт | 19:20",
+      "url": "https://dsport.bg/pirin-smeni-sobstvenostta-si-veteran-na-kluba-poe-akciite~241714.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1011990.og.jpg"
     },
     {
       "title": "Тити Папазов пред Ники Кънчев след избирането му за президент на БФБ (ВИДЕО) 08 Окт | 19:02",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1035619.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Тодор Благов: Ще сбъднем мечтата на господин Филипов 08 Окт | 17:14",
-      "url": "https://dsport.bg/blagov~241704.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/834122945_18435302527198951_7998195865349191305_n~1.og.jpg"
     }
   ]
 }
