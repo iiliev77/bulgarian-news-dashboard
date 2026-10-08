@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-08T05:05:41.009651+00:00",
+  "updated": "2026-10-08T05:24:00.115845+00:00",
   "articles": [
+    {
+      "title": "Две земетресения разтърсиха Източна Япония",
+      "url": "https://dariknews.bg/novini/sviat/dve-zemetreseniia-raztyrsiha-iztochna-iaponiia-2468486",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+    },
     {
       "title": "Възрастен шофьор пострада в Хасково, прилошало му зад волана",
       "url": "https://dariknews.bg/regioni/haskovo/vyzrasten-shofior-postrada-v-haskovo-priloshalo-mu-zad-volana-2468485",
@@ -79,8 +86,8 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Есента ни изненада: Температурите стигат 30°",
-      "url": "https://dariknews.bg/novini/bylgariia/esenta-ni-iznenada-temperaturite-stigat-30-2468475",
+      "title": "Есен ли е, или лято? Температурите стигат до 30° на места в България",
+      "url": "https://dariknews.bg/novini/bylgariia/esen-li-e-ili-liato-temperaturite-stigat-do-30-na-mesta-v-bylgariia-2468475",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50969/50969539/991-ratio-esen.jpg"
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
     },
     {
-      "title": "САЩ предлагат такса от 70 000 долара за чуждестранни студенти за практика",
-      "url": "https://dariknews.bg/novini/sviat/sasht-predlagat-taksa-ot-70-000-dolara-za-chuzhdestranni-studenti-za-praktika-2468472",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50351/50351964/991-ratio-dolari.jpg"
+      "title": "Щурото детство на Лео Меси 08 Окт | 08:10",
+      "url": "https://dsport.bg/sturoto-detstvo-na-leo-mesi~241670.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/384/gettyimages-2298981209.og.jpg"
     },
     {
       "title": "Португалия крила 83 дни важно решение от човека зад разследването срещу Манчестър Сити 07 Окт | 23:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/384/gettyimages-2298974173~1.og.jpg"
-    },
-    {
-      "title": "Обрат за съдията на Ел Класико: Ернандес Ернандес не е вариант 07 Окт | 21:05",
-      "url": "https://dsport.bg/obrat-za-sadiata-na-el-klasiko-ernandes-ernandes-ne-e-variant~241660.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/384/gettyimages-2275505882.og.jpg"
     }
   ]
 }
