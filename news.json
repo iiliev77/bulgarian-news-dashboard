@@ -1,12 +1,47 @@
 {
-  "updated": "2026-10-08T09:29:12.918236+00:00",
+  "updated": "2026-10-08T09:46:56.059231+00:00",
   "articles": [
+    {
+      "title": "Делян Пеевски: Демерджиев е лъжец",
+      "url": "https://dariknews.bg/novini/bylgariia/delian-peevski-demerdzhiev-e-lyzhec-2468535",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384133/991-ratio-delian-peevski.jpg"
+    },
+    {
+      "title": "Костенурка на 194 години може да разкрие тайните на дълголетието",
+      "url": "https://dariknews.bg/novini/liubopitno/kostenurka-na-194-godini-mozhe-da-razkrie-tajnite-na-dylgoletieto-2468534",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50885/50885481/991-ratio-kostenurka.jpg"
+    },
+    {
+      "title": "Проучване: Жените изпитват повече болка от мъжете",
+      "url": "https://dariknews.bg/novini/liubopitno/prouchvane-zhenite-izpitvat-poveche-bolka-ot-myzhete-2468532",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51358/51358071/991-ratio-bolka-uho-zhena.jpg"
+    },
+    {
+      "title": "ПП събра подписите за извънредно заседание на НС заради „Петричкия Ескобар“",
+      "url": "https://dariknews.bg/novini/bylgariia/pp-sybra-podpisite-za-izvynredno-zasedanie-na-ns-zaradi-petrichkiia-eskobar-2468531",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51280/51280658/991-ratio-pp-db.jpg"
+    },
     {
       "title": "Задава се въглеродна такса: Как ще се отразят новите цени на джоба ни?",
       "url": "https://dariknews.bg/novini/sviat/zadava-se-vyglerodna-taksa-kak-shte-se-otraziat-novite-ceni-na-dzhoba-ni-2468530",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51299/51299369/991-ratio-skypi-goriva.jpg"
+    },
+    {
+      "title": "България очаква данни за произхода на дроновете в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-ochakva-danni-za-proizhoda-na-dronovete-v-cherno-more-2468533",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393307/991-ratio-sofiia-hayarr-regency-konferenciia-na-ministerski-ravnishte-korifor-8.jpg"
     },
     {
       "title": "НС регламентира достъпа до технически документи на Държавния резерв",
@@ -16,18 +51,18 @@
       "image": "https://m.netinfo.bg/media/images/51216/51216227/991-ratio-deputati-ns.jpg"
     },
     {
-      "title": "Липсващи данни за ваксини спъват приема в детска градина: Омбудсманът се намеси",
-      "url": "https://dariknews.bg/novini/bylgariia/lipsvashti-danni-za-vaksini-spyvat-priema-v-detska-gradina-ombudsmanyt-se-namesi-2468528",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
-    },
-    {
       "title": "Най-малко 12 души загинаха след руски удар по автобус в укранския град Краматорск",
       "url": "https://dariknews.bg/novini/sviat/naj-malko-12-dushi-zaginaha-sled-ruski-udar-po-avtobus-v-ukranskiia-grad-kramatorsk-2468527",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51110/51110851/991-ratio-ukrajna.jpg"
+    },
+    {
+      "title": "Липсващи данни за ваксини спъват приема в детска градина: Омбудсманът се намеси",
+      "url": "https://dariknews.bg/novini/bylgariia/lipsvashti-danni-za-vaksini-spyvat-priema-v-detska-gradina-ombudsmanyt-se-namesi-2468528",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
     },
     {
       "title": "Промени при започване на работа: Предлагат личните лекари да извършват задължителните медицински прегледи",
@@ -105,41 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51381/51381815/991-ratio-bojko-borisov.jpg"
-    },
-    {
-      "title": "Разбиха наркосделка в София: Спипаха над 9 кг марихуана, има четирима обвиняеми",
-      "url": "https://dariknews.bg/novini/bylgariia/razbiha-narkosdelka-v-sofiia-spipaha-nad-9-kg-marihuana-ima-chetirima-obviniaemi-2468514",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "ДПС алармираха за случай на насилие срещу момче след скандал със сина на областния директор на МВР в Кърджали",
-      "url": "https://dariknews.bg/novini/bylgariia/dps-alarmiraha-za-sluchaj-na-nasilie-sreshtu-momche-sled-skandal-sys-sina-na-oblastniia-direktor-na-mvr-v-kyrdzhali-2468513",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384649/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Къде са конете?: Животни само на хартия - разкриха измамна схема за източване на пари",
-      "url": "https://dariknews.bg/regioni/vraca/kyde-sa-konete-zhivotni-samo-na-hartiia-razkriha-izmamna-shema-za-iztochvane-na-pari-2468516",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50884/50884953/991-ratio-kone.jpg"
-    },
-    {
-      "title": "От Мелник до Мусала: Изпитания на 2925 метра височина в „Свобода на колела“",
-      "url": "https://dariknews.bg/novini/liubopitno/ot-melnik-do-musala-izpitaniia-na-2925-metra-visochina-v-svoboda-na-kolela-2468512",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393257/991-ratio-svoboda-na-kolela.jpg"
-    },
-    {
-      "title": "След месеци на тревога: Положителен обрат по случая с Ива Михайлова в Северна Македония",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-meseci-na-trevoga-polozhitelen-obrat-po-sluchaia-s-iva-mihajlova-v-severna-makedoniia-2468511",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51376/51376314/991-ratio-iva-mihajlova.jpg"
     },
     {
       "title": "Меси си спомни за починалия си баща 08 Окт | 12:18",
