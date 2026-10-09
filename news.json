@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T11:30:30.894235+00:00",
+  "updated": "2026-10-09T11:46:39.746699+00:00",
   "articles": [
+    {
+      "title": "„Прогресивна България“ внася нови предложения за потребителския кредит",
+      "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-vnasia-novi-predlozheniia-za-potrebitelskiia-kredit-2468659",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345628/991-ratio-konstantin-prodanov-stefan-belchev.jpg"
+    },
     {
       "title": "Астрономи засякоха радиоимпулс, възникнал преди повече от 10 милиарда години",
       "url": "https://dariknews.bg/novini/liubopitno/astronomi-zasiakoha-radioimpuls-vyzniknal-predi-poveche-ot-10-miliarda-godini-2468657",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/47684/47684105/991-ratio-majkyl-dzheksyn.jpg"
     },
     {
-      "title": "ГДБОП спря незаконна услуга с над 19 000 телевизионни програми",
-      "url": "https://dariknews.bg/novini/bylgariia/gdbop-spria-nezakonna-usluga-s-nad-19-000-televizionni-programi-2468635",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393726/991-ratio-laptop.jpg"
+      "title": "Бивш футболист на Ювентус е сред фаворитите за спортен директор на Милан 09 Окт | 14:40",
+      "url": "https://dsport.bg/bivsh-futbolist-na-uventus-e-sred-favoritite-za-sporten-direktor-na-milan~241761.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1060274958.og.jpg"
+    },
+    {
+      "title": "Икарди празнува развода с Уанда, съдът охвърли абсурдния иск на блондинката 09 Окт | 14:30",
+      "url": "https://dsport.bg/mauro-ikardi-razvod-uanda-nara-sad-othvarli-isk-izdrajka~241760.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2275960200.og.jpg"
     },
     {
       "title": "Спартак Плевен срещу Левски след близо 25 години - ясни са цените на билетите 09 Окт | 14:18",
@@ -189,20 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/mixcollage-09-oct-2026-01-18-pm-1516.og.jpg"
-    },
-    {
-      "title": "Ръсел най-бърз в единствената тренировка в Сингапур, но ще стартира от дъното 09 Окт | 13:01",
-      "url": "https://dsport.bg/rasel-nai-barz-v-edinstvenata-trenirovka-v-singapur-no-ste-startira-ot-danoto~241751.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2283714622~2.og.jpg"
-    },
-    {
-      "title": "Ексклузивно Ташо Ташев за бъдещето на Локомотив: Има преговори с нов собственик, но още няма нищо черно на бяло - сега трябва да се обединим 09 Окт | 12:32",
-      "url": "https://dsport.bg/tasho-tashev-za-badesteto-na-lokomotiv-ima-pregovori-s-nov-sobstvenik-no-oste-nama-nisto-cherno-na-balo-sega-trabva-da-se-obedinim~241750.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1b762fef-a0f0-4083-9c1c-4436aba202b5-1-773x380-1~1.og.jpg"
     }
   ]
 }
