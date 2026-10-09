@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:53:56.042324+00:00",
+  "updated": "2026-10-09T15:06:01.039058+00:00",
   "articles": [
     {
       "title": "Голям пожар във вилната зона край Изворище, огънят е близо до къщите на хората (СНИМКИ)",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51264/51264341/991-ratio-tramvaj.jpg"
     },
     {
+      "title": "От механичните автомати до смартфона: как се промени една цяла индустрия 09 Окт | 17:57",
+      "url": "https://dsport.bg/ot-mehanichnite-avtomati-do-smartfona-kak-se-promeni-edna-cala-industria~241776.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/platena3.og.jpg"
+    },
+    {
       "title": "Мареска с твърда позиция: Бих поел Манчестър Сити дори и след 114-те обвинения 09 Окт | 17:52",
       "url": "https://dsport.bg/enco-mareska-zashtiti-manchester-siti-obvinenia-vissha-liga~241762.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2286394895.og.jpg"
-    },
-    {
-      "title": "Марек срещу Берое на живо: Къде да гледате мача от MrBit Втора лига 09 Окт | 16:15",
-      "url": "https://dsport.bg/marek-srestu-beroe-na-zivo-kade-da-gledate-macha-ot-mrbit-vtora-liga~241686.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/900h600.og.jpg"
     }
   ]
 }
