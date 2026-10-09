@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:35:51.453542+00:00",
+  "updated": "2026-10-09T20:51:29.639132+00:00",
   "articles": [
     {
       "title": "Тръмп след разговор с Путин: Русия се съгласи да достави над 300 000 т дизелово гориво за САЩ и световния пазар",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
+      "title": "Атлетико пусна стреличка към Реал Мадрид заради бързото възстановяване на Валверде 09 Окт | 23:48",
+      "url": "https://dsport.bg/atletiko-pusna-strelichka-kam-real-madrid-zaradi-barzoto-vazstanovavane-na-valverde~241802.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-955077470-1.og.jpg"
+    },
+    {
+      "title": "Борусия Дортмунд изпусна аванс от 2:0 в последните минути 09 Окт | 23:34",
+      "url": "https://dsport.bg/borusia-dortmund-izpusna-avans-ot-2-0-v-poslednite-minuti~241801.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299432509.og.jpg"
+    },
+    {
       "title": "Олимпиакос се разправи с Анадолу Ефес 09 Окт | 23:10",
       "url": "https://dsport.bg/olimpiakos-se-razpravi-s-anadolu-efes~241800.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2230669053~1.og.jpg"
-    },
-    {
-      "title": "Бордалас засипа Барселона с похвали преди сблъсъка с Флик 09 Окт | 21:28",
-      "url": "https://dsport.bg/bordalas-zasipa-barselona-s-pohvali-predi-sblasaka-s-flik~241792.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2196038626~1.og.jpg"
-    },
-    {
-      "title": "УЕФА удари Сърбия с глоба и ограничения за феновете 09 Окт | 21:12",
-      "url": "https://dsport.bg/uefa-udari-sarbia-s-globa-i-ogranichenia-za-fenovete~241795.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299041524.og.jpg"
     }
   ]
 }
