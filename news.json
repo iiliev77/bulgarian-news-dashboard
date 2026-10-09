@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T05:10:35.965550+00:00",
+  "updated": "2026-10-09T05:28:36.379654+00:00",
   "articles": [
+    {
+      "title": "ЦИК показва как се гласува машинно на метростанция „НДК“",
+      "url": "https://dariknews.bg/novini/bylgariia/cik-pokazva-kak-se-glasuva-mashinno-na-metrostanciia-ndk-2468593",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51298/51298355/991-ratio-mashina-glasuvane-izbori.jpg"
+    },
     {
       "title": "Днес ще обявят лауреата на Нобеловата награда за мир за 2026 г.",
       "url": "https://dariknews.bg/novini/sviat/dnes-shte-obiaviat-laureata-na-nobelovata-nagrada-za-mir-za-2026-g-2468592",
@@ -23,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393620/991-ratio-vlak-turciia.jpg"
     },
     {
-      "title": "Черна нощ на пътя край Плевен: Четирима загинаха, един се бори за живота си",
-      "url": "https://dariknews.bg/regioni/pleven/cherna-nosht-na-pytia-kraj-pleven-chetirima-zaginaha-edin-se-bori-za-zhivota-si-2468589",
+      "title": "Черна нощ на пътя край Плевен: Четирима младежи загинаха при челен сблъсък",
+      "url": "https://dariknews.bg/regioni/pleven/cherna-nosht-na-pytia-kraj-pleven-chetirima-mladezhi-zaginaha-pri-chelen-sblysyk-2468589",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
@@ -135,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Адвокатът на Ива Михайлова: Тя се нуждае от лечение, което РС Македония не може да ѝ осигури",
-      "url": "https://dariknews.bg/novini/bylgariia/advokatyt-na-iva-mihajlova-tia-se-nuzhdae-ot-lechenie-koeto-rs-makedoniia-ne-mozhe-da-osiguri-2468577",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "ЛеБрон Джеймс ходи на тренировки с хеликоптер за 12 000 долара – и не плаща сметката 09 Окт | 08:17",
+      "url": "https://dsport.bg/lebron-dzeims-hodi-na-trenirovki-s-helikopter-za-12-000-dolara-i-ne-plasta-smetkata~241730.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299299832.og.jpg"
+    },
+    {
+      "title": "Майката на Роналдо: Плаках, той не трябваше да си тръгва по този начин 09 Окт | 08:13",
+      "url": "https://dsport.bg/maikata-na-ronaldo-plakah-toi-ne-trabvashe-da-si-tragva-po-tozi-nachin~241729.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1150370173.og.jpg"
     },
     {
       "title": "Неймар се завърна с два гола за пет минути и спаси Сантос срещу лидера Фламенго (ВИДЕО) 09 Окт | 07:56",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2295558796.og.jpg"
-    },
-    {
-      "title": "Давид Силва наистина се връща във футбола, но... 08 Окт | 21:11",
-      "url": "https://dsport.bg/david-silva-naistina-se-vrasta-vav-futbola-no~241719.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/huhekksxsaa_vwo.og.jpg"
-    },
-    {
-      "title": "14-годишен може да счупи исторически рекорд в Ла Лига 08 Окт | 20:38",
-      "url": "https://dsport.bg/14-godishen-moze-da-schupi-istoricheski-rekord-v-la-liga~241718.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2292586173~1.og.jpg"
     }
   ]
 }
