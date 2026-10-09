@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T19:53:35.264468+00:00",
+  "updated": "2026-10-09T20:02:01.363240+00:00",
   "articles": [
+    {
+      "title": "Тръмп след разговор с Путин: Русия се съгласи да достави над 300 000 т дизелово гориво за САЩ и световния пазар",
+      "url": "https://dariknews.bg/novini/sviat/trymp-sled-razgovor-s-putin-rusiia-se-syglasi-da-dostavi-nad-300-000-t-dizelovo-gorivo-za-sasht-i-svetovniia-pazar-2468696",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352873/991-ratio-trymp.jpg"
+    },
     {
       "title": "Силно земетресение разтърси Панама",
       "url": "https://dariknews.bg/novini/sviat/silno-zemetresenie-raztyrsi-panama-2468695",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Иран: Диалог със САЩ само без натиск и заплахи",
-      "url": "https://dariknews.bg/novini/sviat/iran-dialog-sys-sasht-samo-bez-natisk-i-zaplahi-2468674",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51300/51300658/991-ratio-prezidentyt-na-iran-masud-pezeshkian.jpg"
+      "title": "Кристиано Роналдо се завърна към клубните ангажименти с гол 09 Окт | 22:54",
+      "url": "https://dsport.bg/kristiano-ronaldo-se-zavarna-kam-klubnite-angazimenti-s-gol~241799.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298800168.og.jpg"
     },
     {
       "title": "Шави Симонс с неочакван ход по време на възстановяването си 09 Окт | 22:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2288622519~1.og.jpg"
-    },
-    {
-      "title": "Билетите за боксовия сблъсък между Фюри и Джошуа се разпродадоха за час 09 Окт | 20:47",
-      "url": "https://dsport.bg/biletite-za-boksovia-sblasak-mezdu-furi-i-dzoshua-se-razprodadoha-za-chas~241789.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297932860.og.jpg"
     }
   ]
 }
