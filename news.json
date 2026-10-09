@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T04:57:10.384428+00:00",
+  "updated": "2026-10-09T05:10:35.965550+00:00",
   "articles": [
+    {
+      "title": "Днес ще обявят лауреата на Нобеловата награда за мир за 2026 г.",
+      "url": "https://dariknews.bg/novini/sviat/dnes-shte-obiaviat-laureata-na-nobelovata-nagrada-za-mir-za-2026-g-2468592",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393622/991-ratio-nobel.jpg"
+    },
+    {
+      "title": "България се топи, София расте: Евростат отчете рекордни демографски различия",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-se-topi-sofiia-raste-evrostat-otchete-rekordni-demografski-razlichiia-2468591",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51243/51243023/991-ratio-hora.jpg"
+    },
     {
       "title": "Турция открива високоскоростна жп линия до българската граница",
       "url": "https://dariknews.bg/novini/sviat/turciia-otkriva-visokoskorostna-zhp-liniia-do-bylgarskata-granica-2468590",
@@ -128,18 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Комисар Васил Вълчев поема ръководството на пожарната в Смолян",
-      "url": "https://dariknews.bg/regioni/Smolyan/komisar-vasil-vylchev-poema-rykovodstvoto-na-pozharnata-v-smolian-2468576",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393553/991-ratio-komisar-vasil-vylchev-pozharna-smolian.jpg"
-    },
-    {
-      "title": "Един убит, трима ранени при нападение срещу военни в Иран",
-      "url": "https://dariknews.bg/novini/sviat/edin-ubit-trima-raneni-pri-napadenie-sreshtu-voenni-v-iran-2468575",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44592/44592293/991-ratio-iran-flag.jpg"
+      "title": "Неймар се завърна с два гола за пет минути и спаси Сантос срещу лидера Фламенго (ВИДЕО) 09 Окт | 07:56",
+      "url": "https://dsport.bg/neimar-se-zavarna-s-dva-gola-za-pet-minuti-i-spasi-santos-srestu-lidera-flamengo-video~241727.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298660592.og.jpg"
     },
     {
       "title": "Манчестър Юнайтед прави всичко,да задържи бижуто си, Реал Мадрид и Барселона чакат на опашката 08 Окт | 23:48",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2292586173~1.og.jpg"
-    },
-    {
-      "title": "Левски и ЦСКА почти неразделни в календара през следващите два месеца 08 Окт | 20:15",
-      "url": "https://dsport.bg/levski-i-cska-pochti-nerazdelni-v-kalendara-prez-sledvastite-dva-meseca~241717.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1023934.og.jpg"
     }
   ]
 }
