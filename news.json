@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:57:37.124269+00:00",
+  "updated": "2026-10-09T16:11:58.183451+00:00",
   "articles": [
     {
       "title": "МОСВ: Няма замърсяване на морската вода по българското Черноморие след инцидента с двата кораба",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393836/991-ratio-igri-na-voliata.jpg"
     },
     {
+      "title": "Официално: Самолетчето отлетя уволнен от Турция 09 Окт | 19:03",
+      "url": "https://dsport.bg/oficialno-samoletcheto-otleta-uvolnen-ot-turcia~241783.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299027899.og.jpg"
+    },
+    {
+      "title": "БФС обяви програма за срещите от XVI, XVII и XVIII кръг на Mr Bit Втора Лига 09 Окт | 19:00",
+      "url": "https://dsport.bg/bfs-obavi-programa-za-srestite-ot-xvi-xvii-i-xviii-krag-na-mr-bit-vtora-liga~241781.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/0c4f~1.og.webp"
+    },
+    {
       "title": "Валверде се възстанови за седмици от травма, която го заплашваше с месеци извън игра 09 Окт | 18:42",
       "url": "https://dsport.bg/valverde-se-vazstanovi-za-sedmici-ot-travma-koato-go-zaplashvashe-s-meseci-izvan-igra~241779.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1028279.og.jpg"
-    },
-    {
-      "title": "Пламен Андреев: Идват страхотни вратари, готови да изядат тревата за България 09 Окт | 17:14",
-      "url": "https://dsport.bg/plamen-andreev-idvat-strahotni-vratari-gotovi-da-izadat-trevata-za-balgaria~241773.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1036216.og.jpg"
-    },
-    {
-      "title": "Левски разпродаде билетите за Черно море 09 Окт | 17:11",
-      "url": "https://dsport.bg/levski-razprodade-biletite-za-cherno-more~241772.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/966174-1-2.og.jpg"
     }
   ]
 }
