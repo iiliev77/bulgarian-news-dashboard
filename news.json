@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-09T09:55:43.828991+00:00",
+  "updated": "2026-10-09T10:08:16.193760+00:00",
   "articles": [
+    {
+      "title": "Убийство на жена в Пловдив, има задържан",
+      "url": "https://dariknews.bg/regioni/plovdiv/ubijstvo-na-zhena-v-plovdiv-ima-zadyrzhan-2468648",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51170/51170583/991-ratio-policejska-lenta.jpg"
+    },
+    {
+      "title": "Откраднаха 30 000 бутилки вино за 5 млн. евро от италианска винарна",
+      "url": "https://dariknews.bg/novini/sviat/otkradnaha-30-000-butilki-vino-za-5-mln.-evro-ot-italianska-vinarna-2468647",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45566/45566725/991-ratio-vino-izba-butilki-butilka.jpg"
+    },
     {
       "title": "5 са вече жертвите от рухналата сграда в Истанбул, архитектът е арестуван",
       "url": "https://dariknews.bg/novini/sviat/5-sa-veche-zhertvite-ot-ruhnalata-sgrada-v-istanbul-arhitektyt-e-arestuvan-2468645",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50781/50781887/991-ratio-razrushena-sgrada.jpg"
+    },
+    {
+      "title": "Ще има ли крематориум край Харманли? Ивкова разкри докъде е стигнала процедурата",
+      "url": "https://dariknews.bg/novini/bylgariia/shte-ima-li-krematorium-kraj-harmanli-ivkova-razkri-dokyde-e-stignala-procedurata-2468646",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392453/991-ratio-katia-ivkova.jpg"
     },
     {
       "title": "Катастрофа затруднява движението по пътя Смолян-Девин (СНИМКИ)",
@@ -41,7 +62,7 @@
       "url": "https://dariknews.bg/regioni/blagoevgrad/rezultatyt-ot-cialata-operaciia-e-bezprecedenten-za-bylgariia-mitnichari-hvanaha-obshto-25-miliona-kysa-s-cigari-2468640",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379221/991-ratio-kontrabandni-cigari.jpg"
+      "image": "https://m.netinfo.bg/media/images/51393/51393756/991-ratio-mitnici.jpg"
     },
     {
       "title": "Обявиха носителя на Нобеловата награда за мир за 2026 г.",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51072/51072251/991-ratio-deputati-ns.jpg"
     },
     {
-      "title": "Пеевски: Нощем Демерджиев мисли за мен вместо за съпругата си",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-noshtem-demerdzhiev-misli-za-men-vmesto-za-syprugata-si-2468626",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Задържаха криминално проявени непълнолетни с наркотици в Разград",
-      "url": "https://dariknews.bg/regioni/razgrad/zadyrzhaha-kriminalno-proiaveni-nepylnoletni-s-narkotici-v-razgrad-2468625",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51047/51047144/991-ratio-arestuvan-mladezh.jpg"
-    },
-    {
-      "title": "Yettel отбеляза 25-годишнината си чрез разказ за историята на свързаността",
-      "url": "https://dariknews.bg/novini/tehnologii/yettel-otbeliaza-25-godishninata-si-chrez-razkaz-za-istoriiata-na-svyrzanostta-2468623",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393704/991-ratio-yettel.jpg"
+      "title": "Ръсел най-бърз в единствената тренировка в Сингапур, но ще стартира от дъното 09 Окт | 13:01",
+      "url": "https://dsport.bg/rasel-nai-barz-v-edinstvenata-trenirovka-v-singapur-no-ste-startira-ot-danoto~241751.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2283714622~2.og.jpg"
     },
     {
       "title": "Ексклузивно Ташо Ташев за бъдещето на Локомотив: Има преговори с нов собственик, но още няма нищо черно на бяло - сега трябва да се обединим 09 Окт | 12:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1002809.og.jpg"
-    },
-    {
-      "title": "Дърво смаза колата на футболист, той се размина на косъм от трагедия 09 Окт | 10:28",
-      "url": "https://dsport.bg/darvo-smaza-kolata-na-futbolist-toi-se-razmina-na-kosam-ot-tragedia~241741.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot_2~207.og.jpg"
     }
   ]
 }
