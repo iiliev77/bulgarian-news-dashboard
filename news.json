@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-09T13:57:20.523747+00:00",
+  "updated": "2026-10-09T14:12:29.994165+00:00",
   "articles": [
+    {
+      "title": "Нов мигрантски поток към Гърция: Над 200 души са открити в района на остров Крит",
+      "url": "https://dariknews.bg/novini/sviat/nov-migrantski-potok-kym-gyrciia-nad-200-dushi-sa-otkriti-v-rajona-na-ostrov-krit-2468681",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51324/51324194/991-ratio-migranti.jpg"
+    },
+    {
+      "title": "Радев за срещата с шефа на кабинета на Зеленски: Крайно време е да се даде път на диалога и дипломацията",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-za-sreshtata-s-shefa-na-kabineta-na-zelenski-krajno-vreme-e-da-se-dade-pyt-na-dialoga-i-diplomaciiata-2468680",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
+    },
+    {
+      "title": "МФ отговори на ГЕРБ: Министерството няма механизъм, с който да манипулира данни и дати",
+      "url": "https://dariknews.bg/novini/bylgariia/mf-otgovori-na-gerb-ministerstvoto-niama-mehanizym-s-kojto-da-manipulira-danni-i-dati-2468679",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50778/50778390/991-ratio-ministerstvo-na-finansite.jpg"
+    },
     {
       "title": "Обвиниха Мадуро и съпругата му и в нарушаване на човешките права",
       "url": "https://dariknews.bg/novini/sviat/obviniha-maduro-i-syprugata-mu-i-v-narushavane-na-choveshkite-prava-2468678",
@@ -76,7 +97,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/zdravnite-vlasti-biiat-trevoga-nezakonni-lekarstva-i-peptidi-zalivat-internet-video-2468669",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50717/50717686/991-ratio-lekarstva.jpg"
+      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
       "title": "ПП събра подписи за правна комисия, която да разгледа законопроект за публичност на указите за помилване",
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50894/50894866/991-ratio-apteka-aptekar.jpg"
     },
     {
-      "title": "Катастрофа между две коли в Чепинското дефиле, движението е затруднено",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/katastrofa-mezhdu-dve-koli-v-chepinskoto-defile-dvizhenieto-e-zatrudneno-2468660",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393821/991-ratio-katastrofa-v-chepinskoto-defile.jpg"
-    },
-    {
-      "title": "Обстоен оглед на единия от атакуваните в Черно море кораби: Какво откриха военните",
-      "url": "https://dariknews.bg/novini/bylgariia/obstoen-ogled-na-ediniia-ot-atakuvanite-v-cherno-more-korabi-kakvo-otkriha-voennite-2468661",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
-    },
-    {
-      "title": "„Прогресивна България“ предлага по-строги правила за отпускане на потребителски кредити",
-      "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-predlaga-po-strogi-pravila-za-otpuskane-na-potrebitelski-krediti-2468659",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Спортното шоу на Дарик радио - 09.10.2026 г. 09 Окт | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-09-10-2026-g~241771.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-1334-.og.png"
     },
     {
       "title": "Георги Иванов и Андрей Петров участваха в срещата на висшите ръководители на УЕФА 09 Окт | 16:51",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1060274958.og.jpg"
-    },
-    {
-      "title": "Икарди празнува развода с Уанда, съдът охвърли абсурдния иск на блондинката 09 Окт | 14:30",
-      "url": "https://dsport.bg/mauro-ikardi-razvod-uanda-nara-sad-othvarli-isk-izdrajka~241760.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2275960200.og.jpg"
     }
   ]
 }
