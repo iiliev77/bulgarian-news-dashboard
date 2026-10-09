@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T10:45:28.800401+00:00",
+  "updated": "2026-10-09T10:59:34.239836+00:00",
   "articles": [
+    {
+      "title": "Битката за поста главен прокурор: Правосъдният министър поиска списък с потенциални кандидати",
+      "url": "https://dariknews.bg/novini/bylgariia/bitkata-za-posta-glaven-prokuror-pravosydniiat-ministyr-poiska-spisyk-s-potencialni-kandidati-2468654",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
+    },
+    {
+      "title": "Арестуваха шефа на руската мрежа „Рибар“ в Черна гора",
+      "url": "https://dariknews.bg/novini/sviat/arestuvaha-shefa-na-ruskata-mrezha-ribar-v-cherna-gora-2468652",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
+    },
     {
       "title": "Шишков: Освен откраднат асфалт, имаме и „слепи тунели“",
       "url": "https://dariknews.bg/novini/bylgariia/shishkov-osven-otkradnat-asfalt-imame-i-slepi-tuneli-2468651",
@@ -51,8 +65,8 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392453/991-ratio-katia-ivkova.jpg"
     },
     {
-      "title": "Катастрофа затруднява движението по пътя Смолян-Девин (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/Smolyan/katastrofa-zatrudniava-dvizhenieto-po-pytia-smolian-devin-snimki-2468642",
+      "title": "Катастрофа затруднява движението по пътя Смолян-Девин (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/Smolyan/katastrofa-zatrudniava-dvizhenieto-po-pytia-smolian-devin-snimkivideo-2468642",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51393/51393738/991-ratio-katastrofa-kraj-smolian.jpg"
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51300/51300441/991-ratio-velikden-meso-trapeza-masa.jpg"
     },
     {
-      "title": "„Тайните на Струма“ в „Темата на NOVA”",
-      "url": "https://dariknews.bg/novini/obshtestvo/tajnite-na-struma-v-temata-na-nova-2468631",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393714/991-ratio-ivan-kynchev.jpg"
+      "title": "Евертън отново на тезгяха, собствениците търсят купувач 09 Окт | 13:57",
+      "url": "https://dsport.bg/everton-otnovo-se-prodava-friedkin-group-tarsi-nov-kupuvach~241755.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2293787892.og.jpg"
     },
     {
-      "title": "България с категорична позиция за Северна Македония: Няма да предоговаряме условията за ЕС",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-s-kategorichna-poziciia-za-severna-makedoniia-niama-da-predogovariame-usloviiata-za-es-2468630",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51374/51374928/991-ratio-velislava-petrova.jpg"
+      "title": "Ендрик може да смени Реал Мадрид с Милан през януари 09 Окт | 13:55",
+      "url": "https://dsport.bg/endrik-moze-da-smeni-real-madrid-s-milan-prez-anuari~241756.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2267412315~1.og.jpg"
+    },
+    {
+      "title": "Моуриньо защити Мбапе и се обърна към феновете на Реал: Надявам се „Бернабеу“ да бъде справедлив 09 Окт | 13:46",
+      "url": "https://dsport.bg/mourino-zastiti-mbape-i-se-obarna-kam-fenovete-na-real-nadavam-se-bernabeu-da-bade-spravedliv~241754.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2293552044~2.og.jpg"
     },
     {
       "title": "Болоня намери решение след тежка контузия и привлече бивш защитник на Интер 09 Окт | 13:27",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297047017~1.og.jpg"
-    },
-    {
-      "title": "Барселона върза един от големите си таланти с договор до 2030 година 09 Окт | 11:45",
-      "url": "https://dsport.bg/barselona-varza-edin-ot-golemite-si-talanti-s-dogovor-do-2030-godina~241746.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295065828.og.jpg"
-    },
-    {
-      "title": "Монталиани се отказва от битката с Инфантино за президентския пост във ФИФА 09 Окт | 11:14",
-      "url": "https://dsport.bg/montaliani-se-otkazva-ot-bitkata-s-infantino-za-prezidentskia-post-vav-fifa~241745.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2282659016-1-1~2.og.jpg"
-    },
-    {
-      "title": "Гранит Джака с огромна глоба за фалшив COVID сертификат 09 Окт | 11:07",
-      "url": "https://dsport.bg/granit-dzaka-s-ogromna-globa-za-falshiv-covid-sertifikat~241744.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2285699239~1.og.jpg"
     }
   ]
 }
