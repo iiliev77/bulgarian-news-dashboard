@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T10:28:12.765433+00:00",
+  "updated": "2026-10-09T10:45:28.800401+00:00",
   "articles": [
+    {
+      "title": "Шишков: Освен откраднат асфалт, имаме и „слепи тунели“",
+      "url": "https://dariknews.bg/novini/bylgariia/shishkov-osven-otkradnat-asfalt-imame-i-slepi-tuneli-2468651",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51378/51378054/991-ratio-ivan-shishkov.jpg"
+    },
     {
       "title": "Хитлер Мусолини се очертава като победител на кметските избори в Перу",
       "url": "https://dariknews.bg/novini/sviat/hitler-musolini-se-ochertava-kato-pobeditel-na-kmetskite-izbori-v-peru-2468650",
@@ -13,7 +20,7 @@
       "url": "https://dariknews.bg/regioni/plovdiv/ubijstvo-na-zhena-v-plovdiv-ima-zadyrzhan-2468648",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51170/51170583/991-ratio-policejska-lenta.jpg"
+      "image": "https://m.netinfo.bg/media/images/51393/51393775/991-ratio-plovdiv.jpg"
     },
     {
       "title": "ГДБОП с нов удар срещу наркотрафика: Спипаха 12 кг кокаин на границата с Турция (СНИМКИ/ВИДЕО)",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51374/51374928/991-ratio-velislava-petrova.jpg"
     },
     {
-      "title": "Измама през TikTok: Жена плати почти 260 евро за пратка с „печалба“, получила носни кърпи и гайки",
-      "url": "https://dariknews.bg/novini/bylgariia/izmama-prez-tiktok-zhena-plati-pochti-260-evro-za-pratka-s-pechalba-poluchila-nosni-kyrpi-i-gajki-2468629",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50981/50981894/991-ratio-tiktok.jpg"
+      "title": "Болоня намери решение след тежка контузия и привлече бивш защитник на Интер 09 Окт | 13:27",
+      "url": "https://dsport.bg/bolona-nameri-reshenie-sled-tezka-kontuzia-i-privleche-bivsh-zastitnik-na-inter~241753.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1829975753~1.og.jpg"
     },
     {
       "title": "Гей сага около колумбийски национал 09 Окт | 13:18",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2285699239~1.og.jpg"
-    },
-    {
-      "title": "От доброволец до световен шампион: историята на Сара Адам, която промени американското ръгби 09 Окт | 10:46",
-      "url": "https://dsport.bg/ot-dobrovolec-do-svetoven-shampion-istoriata-na-sara-adam-koato-promeni-amerikanskoto-ragbi~241743.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot_3~188.og.jpg"
     }
   ]
 }
