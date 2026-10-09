@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:51:29.639132+00:00",
+  "updated": "2026-10-09T21:02:31.606643+00:00",
   "articles": [
     {
       "title": "Тръмп след разговор с Путин: Русия се съгласи да достави над 300 000 т дизелово гориво за САЩ и световния пазар",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
+      "title": "Ланс се завърна към победите с драматичен успех над Лион 09 Окт | 23:58",
+      "url": "https://dsport.bg/lans-se-zavarna-kam-pobedite-s-dramatichen-uspeh-nad-lion~241803.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/lens.og.jpg"
+    },
+    {
       "title": "Атлетико пусна стреличка към Реал Мадрид заради бързото възстановяване на Валверде 09 Окт | 23:48",
       "url": "https://dsport.bg/atletiko-pusna-strelichka-kam-real-madrid-zaradi-barzoto-vazstanovavane-na-valverde~241802.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038284.og.jpg"
-    },
-    {
-      "title": "Манчестър Юнайтед без трима срещу Тотнъм 09 Окт | 21:45",
-      "url": "https://dsport.bg/manchestar-unaited-bez-trima-srestu-totnam~241793.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2230669053~1.og.jpg"
     }
   ]
 }
