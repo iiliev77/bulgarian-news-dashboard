@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:34:40.756208+00:00",
+  "updated": "2026-10-09T14:53:56.042324+00:00",
   "articles": [
     {
       "title": "Голям пожар във вилната зона край Изворище, огънят е близо до къщите на хората (СНИМКИ)",
@@ -16,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/51324/51324194/991-ratio-migranti.jpg"
     },
     {
-      "title": "Радев за срещата с шефа на кабинета на Зеленски: Крайно време е да се даде път на диалога и дипломацията",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-za-sreshtata-s-shefa-na-kabineta-na-zelenski-krajno-vreme-e-da-se-dade-pyt-na-dialoga-i-diplomaciiata-2468680",
+      "title": "Радев за срещата с Кирило Буданов: Има предпоставки да сочим една страна за дроновете, но няма доказателства",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-za-sreshtata-s-kirilo-budanov-ima-predpostavki-da-sochim-edna-strana-za-dronovete-no-niama-dokazatelstva-2468680",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51264/51264341/991-ratio-tramvaj.jpg"
     },
     {
+      "title": "Мареска с твърда позиция: Бих поел Манчестър Сити дори и след 114-те обвинения 09 Окт | 17:52",
+      "url": "https://dsport.bg/enco-mareska-zashtiti-manchester-siti-obvinenia-vissha-liga~241762.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2296222609.og.jpg"
+    },
+    {
+      "title": "Добра и лоша новина за Ханзи Флик 09 Окт | 17:39",
+      "url": "https://dsport.bg/dobra-i-losha-novina-za-hanzi-flik~241775.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295051340.og.jpg"
+    },
+    {
       "title": "Младото острие на Ботев Пловдив ще отсъства за месец 09 Окт | 17:23",
       "url": "https://dsport.bg/mladoto-ostrie-na-botev-plovdiv-ste-otsastva-za-mesec~241774.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/900h600.og.jpg"
-    },
-    {
-      "title": "Изпълкомът на БФС заседава в понеделник 09 Окт | 15:49",
-      "url": "https://dsport.bg/izpalkomat-na-bfs-zasedava-v-ponedelnik~241766.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/942040~1.og.jpg"
-    },
-    {
-      "title": "Веласкес за Гиздол и Йовичевич: Истината е, че въобще не ме интересува (ВИДЕО) 09 Окт | 15:28",
-      "url": "https://dsport.bg/velaskes-za-gizdol-i-iovichevich-istinata-e-che-vaobste-ne-me-interesuva-video~241765.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/fotojet-87-.og.jpg"
     }
   ]
 }
