@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-09T08:10:28.797567+00:00",
+  "updated": "2026-10-09T08:30:43.328973+00:00",
   "articles": [
+    {
+      "title": "Подхождат ли си Иван и Александра от “Игри на волята”? Братът близнак Ивайло проговори!",
+      "url": "https://dariknews.bg/novini/liubopitno/podhozhdat-li-si-ivan-i-aleksandra-ot-igri-na-voliata-bratyt-bliznak-ivajlo-progovori-2468627",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "България излиза от Международната банка за икономическо сътрудничество и си връща капитала",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-izliza-ot-mezhdunarodnata-banka-za-ikonomichesko-sytrudnichestvo-i-si-vryshta-kapitala-2468624",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51072/51072251/991-ratio-deputati-ns.jpg"
+    },
+    {
+      "title": "Пеевски: Нощем Демерджиев мисли за мен вместо за съпругата си",
+      "url": "https://dariknews.bg/novini/bylgariia/peevski-noshtem-demerdzhiev-misli-za-men-vmesto-za-syprugata-si-2468626",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Задържаха криминално проявени непълнолетни с наркотици в Разград",
+      "url": "https://dariknews.bg/regioni/razgrad/zadyrzhaha-kriminalno-proiaveni-nepylnoletni-s-narkotici-v-razgrad-2468625",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51047/51047144/991-ratio-arestuvan-mladezh.jpg"
+    },
+    {
+      "title": "Yettel отбеляза 25-годишнината си чрез разказ за историята на свързаността",
+      "url": "https://dariknews.bg/novini/tehnologii/yettel-otbeliaza-25-godishninata-si-chrez-razkaz-za-istoriiata-na-svyrzanostta-2468623",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393704/991-ratio-yettel.jpg"
+    },
+    {
+      "title": "Министър Абровски: Няма тревога за зърното по Черноморието",
+      "url": "https://dariknews.bg/regioni/plovdiv/ministyr-abrovski-niama-trevoga-za-zyrnoto-po-chernomorieto-2468622",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51371/51371116/991-ratio-ministyr-abrovski.jpg"
+    },
     {
       "title": "Фрегатата „Верни“ се е отправила към района в Черно море, където кораби бяха атакувани с дронове",
       "url": "https://dariknews.bg/novini/bylgariia/fregatata-verni-se-e-otpravila-kym-rajona-v-cherno-more-kydeto-korabi-biaha-atakuvani-s-dronove-2468620",
@@ -48,7 +90,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-bombenite-zaplahi-zachestiha-sled-izslushvaniiata-mi-za-poletite-na-peevski-2468615",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389721/991-ratio-ivan-demerdzhiev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "12 години затвор за личния лекар, обвинен за смъртта на Марадона",
@@ -100,46 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/45343/45343957/991-ratio-policiia-sasht-lenta.jpg"
     },
     {
-      "title": "В Чехия се произвеждат местни и сенатски избори – първо изпитание за премиера Бабиш",
-      "url": "https://dariknews.bg/novini/sviat/v-chehiia-se-proizvezhdat-mestni-i-senatski-izbori-pyrvo-izpitanie-za-premiera-babish-2468604",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50344/50344752/991-ratio-andrej-babish.jpg"
-    },
-    {
-      "title": "Мъж е с опасност за живота след сбиване в Софийско",
-      "url": "https://dariknews.bg/regioni/sofiia/myzh-e-s-opasnost-za-zhivota-sled-sbivane-v-sofijsko-2468603",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50657/50657595/991-ratio-poboj-sbivane-iumruk-nozh-agresiia-nasilie.jpg"
-    },
-    {
-      "title": "Шефът на кабинета на Зеленски е бил на неофициално посещение у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/shefyt-na-kabineta-na-zelenski-e-bil-na-neoficialno-poseshtenie-u-nas-2468606",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331232/991-ratio-nachalnikyt-na-kancelariiata-na-ukrainskiia-prezident-kirilo-budanov.jpg"
-    },
-    {
-      "title": "НОИ с важно предупреждение към част от пенсионерите: Подайте декларация до 31 декември",
-      "url": "https://dariknews.bg/novini/bylgariia/noi-s-vazhno-preduprezhdenie-kym-chast-ot-pensionerite-podajte-deklaraciia-do-31-dekemvri-2468605",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51245/51245998/991-ratio-evro-vyzrasten-chovek-pensioner.jpg"
-    },
-    {
-      "title": "Среднощна гонка в Шумен: Глобиха двама млади шофьори с по над 1500 евро",
-      "url": "https://dariknews.bg/regioni/shumen/srednoshtna-gonka-v-shumen-globiha-dvama-mladi-shofiori-s-po-nad-1500-evro-2468602",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331016/991-ratio-gonka.jpg"
-    },
-    {
-      "title": "Спасиха коте, заклещено между стени на сгради в Силистра",
-      "url": "https://dariknews.bg/regioni/silistra/spasiha-kotezakleshteno-mezhdu-steni-na-sgradi-v-silistra-2468601",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51337/51337902/991-ratio-kotka.jpg"
+      "title": "Монталиани се отказва от битката с Инфантино за президентския пост във ФИФА 09 Окт | 11:14",
+      "url": "https://dsport.bg/montaliani-se-otkazva-ot-bitkata-s-infantino-za-prezidentskia-post-vav-fifa~241745.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2282659016-1-1~2.og.jpg"
     },
     {
       "title": "Гранит Джака с огромна глоба за фалшив COVID сертификат 09 Окт | 11:07",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2276438270.og.jpg"
-    },
-    {
-      "title": "Ямал се разсмя на подигравка с Винисиус по време на рап битка 09 Окт | 09:05",
-      "url": "https://dsport.bg/amal-se-razsma-na-podigravka-s-vinisius-po-vreme-na-rap-bitka~241734.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2243625505.og.jpg"
     }
   ]
 }
