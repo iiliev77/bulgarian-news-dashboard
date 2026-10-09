@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T10:59:34.239836+00:00",
+  "updated": "2026-10-09T11:14:25.649571+00:00",
   "articles": [
+    {
+      "title": "За месец и половина: 160 сигнала за екологични проблеми в Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/za-mesec-i-polovina-160-signala-za-ekologichni-problemi-v-plovdiv-2468655",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393802/991-ratio-goriasht-bokluk.jpg"
+    },
     {
       "title": "Битката за поста главен прокурор: Правосъдният министър поиска списък с потенциални кандидати",
       "url": "https://dariknews.bg/novini/bylgariia/bitkata-za-posta-glaven-prokuror-pravosydniiat-ministyr-poiska-spisyk-s-potencialni-kandidati-2468654",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/36752/36752087/991-ratio-sofijski-gradski-syd.jpg"
     },
     {
-      "title": "Всеки шести българин не може да си позволи месо: Къде сме в класацията на ЕС",
-      "url": "https://dariknews.bg/novini/bylgariia/vseki-shesti-bylgarin-ne-mozhe-da-si-pozvoli-meso-kyde-sme-v-klasaciiata-na-es-2468636",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51300/51300441/991-ratio-velikden-meso-trapeza-masa.jpg"
+      "title": "Рафиня тренира отделно и почти сигурно пропуска мача с Хетафе 09 Окт | 14:04",
+      "url": "https://dsport.bg/rafina-trenira-otdelno-i-pochti-sigurno-propuska-macha-s-hetafe~241757.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2293818332-1.og.jpg"
     },
     {
       "title": "Евертън отново на тезгяха, собствениците търсят купувач 09 Окт | 13:57",
@@ -196,20 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/602663-2-2-2.og.jpg"
-    },
-    {
-      "title": "Тенисист изригна на корта – удари мрежата и хвърли ракета към публиката (ВИДЕО) 09 Окт | 12:18",
-      "url": "https://dsport.bg/tenisist-izrigna-na-korta-udari-mrezata-i-hvarli-raketa-kam-publikata-video~241748.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2290943157.og.jpg"
-    },
-    {
-      "title": "Холанд може да се озове в Испания, Барселона и Реал Мадрид следят ситуацията му 09 Окт | 12:04",
-      "url": "https://dsport.bg/haaland-moze-da-se-ozove-v-ispania-barselona-i-real-madrid-sledat-situaciata-mu~241747.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297047017~1.og.jpg"
     }
   ]
 }
