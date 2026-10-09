@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-09T10:08:16.193760+00:00",
+  "updated": "2026-10-09T10:28:12.765433+00:00",
   "articles": [
+    {
+      "title": "Хитлер Мусолини се очертава като победител на кметските избори в Перу",
+      "url": "https://dariknews.bg/novini/sviat/hitler-musolini-se-ochertava-kato-pobeditel-na-kmetskite-izbori-v-peru-2468650",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39391/39391037/991-ratio-peru.jpg"
+    },
     {
       "title": "Убийство на жена в Пловдив, има задържан",
       "url": "https://dariknews.bg/regioni/plovdiv/ubijstvo-na-zhena-v-plovdiv-ima-zadyrzhan-2468648",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51170/51170583/991-ratio-policejska-lenta.jpg"
+    },
+    {
+      "title": "ГДБОП с нов удар срещу наркотрафика: Спипаха 12 кг кокаин на границата с Турция (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/haskovo/gdbop-s-nov-udar-sreshtu-narkotrafika-spipaha-12-kg-kokain-na-granicata-s-turciia-snimkivideo-2468649",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Откраднаха 30 000 бутилки вино за 5 млн. евро от италианска винарна",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50981/50981894/991-ratio-tiktok.jpg"
     },
     {
-      "title": "Подхождат ли си Иван и Александра от “Игри на волята”? Братът близнак Ивайло проговори!",
-      "url": "https://dariknews.bg/novini/liubopitno/podhozhdat-li-si-ivan-i-aleksandra-ot-igri-na-voliata-bratyt-bliznak-ivajlo-progovori-2468627",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "България излиза от Международната банка за икономическо сътрудничество и си връща капитала",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-izliza-ot-mezhdunarodnata-banka-za-ikonomichesko-sytrudnichestvo-i-si-vryshta-kapitala-2468624",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51072/51072251/991-ratio-deputati-ns.jpg"
+      "title": "Гей сага около колумбийски национал 09 Окт | 13:18",
+      "url": "https://dsport.bg/gei-afera-okolo-kolumbiiski-nacional~241752.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/mixcollage-09-oct-2026-01-18-pm-1516.og.jpg"
     },
     {
       "title": "Ръсел най-бърз в единствената тренировка в Сингапур, но ще стартира от дъното 09 Окт | 13:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot_3~188.og.jpg"
-    },
-    {
-      "title": "Лудогорец следи капитана на Университатя Крайова 09 Окт | 10:35",
-      "url": "https://dsport.bg/ludogorec-sledi-kapitana-na-universitata-kraiova~241742.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1002809.og.jpg"
     }
   ]
 }
