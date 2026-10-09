@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T16:48:33.608598+00:00",
+  "updated": "2026-10-09T17:02:21.761263+00:00",
   "articles": [
+    {
+      "title": "След жестоката катастрофа с 4 жертви: Община Плевен изнесе данни за пътя",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-zhestokata-katastrofa-s-4-zhertvi-obshtina-pleven-iznese-danni-za-pytia-2468687",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393657/991-ratio-tezhka-katastrofa-kraj-pleven.jpg"
+    },
     {
       "title": "Двойно торнадо връхлетя Сицилия, 11 души са ранени",
       "url": "https://dariknews.bg/novini/sviat/dvojno-tornado-vryhletia-siciliia-11-dushi-sa-raneni-2468686",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
-      "title": "ПП събра подписи за правна комисия, която да разгледа законопроект за публичност на указите за помилване",
-      "url": "https://dariknews.bg/novini/bylgariia/pp-sybra-podpisi-za-pravna-komisiia-koiato-da-razgleda-zakonoproekt-za-publichnost-na-ukazite-za-pomilvane-2468667",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393844/991-ratio-ns.jpg"
+      "title": "Ръководителят на италианските съдии ще се обяснява пред Дилета Леота 09 Окт | 19:58",
+      "url": "https://dsport.bg/djanluka-roki-analizator-dazn-dileta-leota~241782.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2235845792-1-.og.jpg"
     },
     {
       "title": "Клубът и феновете на Локо Пловдив обединиха усилия за нов автобус 09 Окт | 19:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/mixcollage-09-oct-2026-06-21-pm-5502.og.jpg"
-    },
-    {
-      "title": "Макс Верстапен спечели спринтовата квалификация за Гран при на Сингапур 09 Окт | 18:10",
-      "url": "https://dsport.bg/maks-verstapen-specheli-sprintovata-kvalifikacia-za-gran-pri-na-singapur~241777.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299388117.og.jpg"
     }
   ]
 }
