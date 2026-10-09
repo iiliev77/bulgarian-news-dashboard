@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-09T13:40:51.096054+00:00",
+  "updated": "2026-10-09T13:57:20.523747+00:00",
   "articles": [
+    {
+      "title": "Обвиниха Мадуро и съпругата му и в нарушаване на човешките права",
+      "url": "https://dariknews.bg/novini/sviat/obviniha-maduro-i-syprugata-mu-i-v-narushavane-na-choveshkite-prava-2468678",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51245/51245121/991-ratio-maduro.jpg"
+    },
+    {
+      "title": "Километрично задръстване на бул. „Цариградско шосе“ в посока Пловдив заради катастрофа",
+      "url": "https://dariknews.bg/regioni/sofiia/kilometrichno-zadrystvane-na-bul.-carigradsko-shose-v-posoka-plovdiv-zaradi-katastrofa-2468677",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393873/991-ratio-sofiia.jpg"
+    },
     {
       "title": "Снаряд порази кораб край ОАЕ, близо до Ормузкия проток",
       "url": "https://dariknews.bg/novini/sviat/snariad-porazi-korab-kraj-oae-blizo-do-ormuzkiia-protok-2468675",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51298/51298477/991-ratio-korab.jpg"
+    },
+    {
+      "title": "Зрелищна катастрофа в Бургас: Шофьор загина, след като се вряза в ограда на къща (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/burgas/zrelishtna-katastrofa-v-burgas-shofior-zagina-sled-kato-se-vriaza-v-ograda-na-kyshta-snimkivideo-2468676",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Иран: Диалог със САЩ само без натиск и заплахи",
@@ -121,25 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Астрономи засякоха радиоимпулс, възникнал преди повече от 10 милиарда години",
-      "url": "https://dariknews.bg/novini/liubopitno/astronomi-zasiakoha-radioimpuls-vyzniknal-predi-poveche-ot-10-miliarda-godini-2468657",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50136/50136096/991-ratio-kosmos.jpg"
+      "title": "Георги Иванов и Андрей Петров участваха в срещата на висшите ръководители на УЕФА 09 Окт | 16:51",
+      "url": "https://dsport.bg/georgi-ivanov-i-andrei-petrov-uchastvaha-v-srestata-na-visshite-rakovoditeli-na-uefa~241770.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/image_1791549561_21439.og.jpeg"
     },
     {
-      "title": "Трагедията със загиналите младежи: След сблъсъка скоростомерът на едната кола е блокирал на 139 км/ч.",
-      "url": "https://dariknews.bg/regioni/pleven/tragediiata-sys-zaginalite-mladezhi-sled-sblysyka-skorostomeryt-na-ednata-kola-e-blokiral-na-139-kmch-2468658",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393664/991-ratio-tezhka-katastrofa-kraj-pleven.jpg"
-    },
-    {
-      "title": "За месец и половина: 160 сигнала за екологични проблеми в Пловдив",
-      "url": "https://dariknews.bg/regioni/plovdiv/za-mesec-i-polovina-160-signala-za-ekologichni-problemi-v-plovdiv-2468655",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393802/991-ratio-goriasht-bokluk.jpg"
+      "title": "Локомотив Пловдив с позиция за тревожното състояние на клуба 09 Окт | 16:46",
+      "url": "https://dsport.bg/lokomotiv-plovdiv-s-pozicia-za-trevoznoto-sastoanie-na-kluba~241769.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/830670318_2945174762525278_1115807909744682863_n.og.jpg"
     },
     {
       "title": "Шефът на Рейсинг Булс открехна вратата на Никола Цолов към Формула 1 09 Окт | 16:16",
@@ -196,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2275960200.og.jpg"
-    },
-    {
-      "title": "Спартак Плевен срещу Левски след близо 25 години - ясни са цените на билетите 09 Окт | 14:18",
-      "url": "https://dsport.bg/spartak-pleven-srestu-levski-sled-blizo-25-godini-asni-sa-cenite-na-biletite~241759.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/532085-1.og.jpg"
     }
   ]
 }
