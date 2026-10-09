@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-09T12:18:05.232377+00:00",
+  "updated": "2026-10-09T12:42:23.693076+00:00",
   "articles": [
+    {
+      "title": "Русия нанесе значителни щети на енергетиката на Украйна",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-znachitelni-shteti-na-energetikata-na-ukrajna-2468668",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
+    },
+    {
+      "title": "Здравното министерство с разяснения за търговията с неразрешени лекарства и пептиди (НА ЖИВО)",
+      "url": "https://dariknews.bg/novini/bylgariia/zdravnoto-ministerstvo-s-raziasneniia-za-tyrgoviiata-s-nerazresheni-lekarstva-i-peptidi-na-zhivo-2468669",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50717/50717686/991-ratio-lekarstva.jpg"
+    },
+    {
+      "title": "ПП събра подписи за правна комисия, която да разгледа законопроект за публичност на указите за помилване",
+      "url": "https://dariknews.bg/novini/bylgariia/pp-sybra-podpisi-za-pravna-komisiia-koiato-da-razgleda-zakonoproekt-za-publichnost-na-ukazite-za-pomilvane-2468667",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393844/991-ratio-ns.jpg"
+    },
+    {
+      "title": "АПИ налага тежки санкции за забавен ремонт на пътя Мъдрец-Гълъбово",
+      "url": "https://dariknews.bg/regioni/stara-zagora/api-nalaga-tezhki-sankcii-za-zabaven-remont-na-pytia-mydrec-gylybovo-2468666",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51126/51126271/991-ratio-pyt-v-remont.jpg"
+    },
+    {
+      "title": "Четирима номинирани се борят за оставането си в “Игри на волята” тази вечер",
+      "url": "https://dariknews.bg/novini/liubopitno/chetirima-nominirani-se-boriat-za-ostavaneto-si-v-igri-na-voliata-tazi-vecher-2468664",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393836/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Нови разкрития по делото срещу бившия шеф на ВиК – Бургас Цветан Мирчев",
+      "url": "https://dariknews.bg/novini/bylgariia/novi-razkritiia-po-deloto-sreshtu-bivshiia-shef-na-vik-burgas-cvetan-mirchev-2468665",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393834/991-ratio-cvetan-mirchev-vik-burgas.jpg"
+    },
     {
       "title": "Прокуратурата предаде на съд ватман за смъртта на пешеходка в София",
       "url": "https://dariknews.bg/regioni/sofiia/prokuraturata-predade-na-syd-vatman-za-smyrtta-na-peshehodka-v-sofiia-2468663",
@@ -34,7 +76,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-predlaga-po-strogi-pravila-za-otpuskane-na-potrebitelski-krediti-2468659",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345628/991-ratio-konstantin-prodanov-stefan-belchev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Астрономи засякоха радиоимпулс, възникнал преди повече от 10 милиарда години",
@@ -100,46 +142,18 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Откраднаха 30 000 бутилки вино за 5 млн. евро от италианска винарна",
-      "url": "https://dariknews.bg/novini/sviat/otkradnaha-30-000-butilki-vino-za-5-mln.-evro-ot-italianska-vinarna-2468647",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45566/45566725/991-ratio-vino-izba-butilki-butilka.jpg"
+      "title": "Веласкес за Гиздол и Йовичевич: Истината е, че въобще не ме интересува (ВИДЕО) 09 Окт | 15:28",
+      "url": "https://dsport.bg/velaskes-za-gizdol-i-iovichevich-istinata-e-che-vaobste-ne-me-interesuva-video~241765.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/fotojet-87-.og.jpg"
     },
     {
-      "title": "5 са вече жертвите от рухналата сграда в Истанбул, архитектът е арестуван",
-      "url": "https://dariknews.bg/novini/sviat/5-sa-veche-zhertvite-ot-ruhnalata-sgrada-v-istanbul-arhitektyt-e-arestuvan-2468645",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50781/50781887/991-ratio-razrushena-sgrada.jpg"
-    },
-    {
-      "title": "Ще има ли крематориум край Харманли? Ивкова разкри докъде е стигнала процедурата",
-      "url": "https://dariknews.bg/novini/bylgariia/shte-ima-li-krematorium-kraj-harmanli-ivkova-razkri-dokyde-e-stignala-procedurata-2468646",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392453/991-ratio-katia-ivkova.jpg"
-    },
-    {
-      "title": "Катастрофа затруднява движението по пътя Смолян-Девин (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/Smolyan/katastrofa-zatrudniava-dvizhenieto-po-pytia-smolian-devin-snimkivideo-2468642",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393738/991-ratio-katastrofa-kraj-smolian.jpg"
-    },
-    {
-      "title": "БНБ пуска златна колекционерска монета „Св. Иван Рилски“",
-      "url": "https://dariknews.bg/novini/bylgariia/bnb-puska-zlatna-kolekcionerska-moneta-sv.-ivan-rilski-2468644",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272636/991-ratio-bnb.jpg"
-    },
-    {
-      "title": "Отново сигнали за бомби в страната",
-      "url": "https://dariknews.bg/regioni/stara-zagora/otnovo-signali-za-bombi-v-stranata-2468641",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35305/35305176/991-ratio-policiia-proverki-kat-shumen.jpg"
+      "title": "Хулио Веласкес: Паузата ни дойде доста добре, дано остана дълго време тук (ВИДЕО) 09 Окт | 15:01",
+      "url": "https://dsport.bg/hulio-velaskes-pauzata-ni-doide-dosta-dobre-dano-ostana-dalgo-vreme-tuk~241764.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1016964.og.jpg"
     },
     {
       "title": "Изненада в Шанхай: Джокович е аут още на старта 09 Окт | 14:54",
@@ -189,20 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2267412315~1.og.jpg"
-    },
-    {
-      "title": "Моуриньо защити Мбапе и се обърна към феновете на Реал: Надявам се „Бернабеу“ да бъде справедлив 09 Окт | 13:46",
-      "url": "https://dsport.bg/mourino-zastiti-mbape-i-se-obarna-kam-fenovete-na-real-nadavam-se-bernabeu-da-bade-spravedliv~241754.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293552044~2.og.jpg"
-    },
-    {
-      "title": "Болоня намери решение след тежка контузия и привлече бивш защитник на Интер 09 Окт | 13:27",
-      "url": "https://dsport.bg/bolona-nameri-reshenie-sled-tezka-kontuzia-i-privleche-bivsh-zastitnik-na-inter~241753.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1829975753~1.og.jpg"
     }
   ]
 }
