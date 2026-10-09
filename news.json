@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T19:41:13.554523+00:00",
+  "updated": "2026-10-09T19:53:35.264468+00:00",
   "articles": [
+    {
+      "title": "Силно земетресение разтърси Панама",
+      "url": "https://dariknews.bg/novini/sviat/silno-zemetresenie-raztyrsi-panama-2468695",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
+    },
     {
       "title": "Русия нанесе удари по три товарни кораба в и около три украински пристанища на Черно море",
       "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-udari-po-tri-tovarni-koraba-v-i-okolo-tri-ukrainski-pristanishta-na-cherno-more-2468693",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51300/51300658/991-ratio-prezidentyt-na-iran-masud-pezeshkian.jpg"
     },
     {
-      "title": "Криста Пайк оцеля след неуспешна екзекуция, семейството на жертвата се чувства предадено",
-      "url": "https://dariknews.bg/novini/sviat/krista-pajk-ocelia-sled-neuspeshna-ekzekuciia-semejstvoto-na-zhertvata-se-chuvstva-predadeno-2468672",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392708/991-ratio-krista-pajk.jpg"
+      "title": "Шави Симонс с неочакван ход по време на възстановяването си 09 Окт | 22:45",
+      "url": "https://dsport.bg/shavi-simons-s-neochakvan-hod-po-vreme-na-vazstanovavaneto-si~241798.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2252868431~1.og.jpg"
     },
     {
       "title": "Челси и Байерн следят ситуацията около бранител на Барселона 09 Окт | 22:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297932860.og.jpg"
-    },
-    {
-      "title": "Ювентус обвърза Нико Гонсалес с дългосрочен договор 09 Окт | 20:32",
-      "url": "https://dsport.bg/uventus-obvarza-niko-gonsales-s-dalgosrochen-dogovor~241785.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2190448916~1.og.jpg"
     }
   ]
 }
