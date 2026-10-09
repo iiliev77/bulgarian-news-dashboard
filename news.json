@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T13:01:59.360953+00:00",
+  "updated": "2026-10-09T13:23:07.949538+00:00",
   "articles": [
+    {
+      "title": "Иран: Диалог със САЩ само без натиск и заплахи",
+      "url": "https://dariknews.bg/novini/sviat/iran-dialog-sys-sasht-samo-bez-natisk-i-zaplahi-2468674",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51300/51300658/991-ratio-prezidentyt-na-iran-masud-pezeshkian.jpg"
+    },
     {
       "title": "Криста Пайк оцеля след неуспешна екзекуция, семейството на жертвата се чувства предадено",
       "url": "https://dariknews.bg/novini/sviat/krista-pajk-ocelia-sled-neuspeshna-ekzekuciia-semejstvoto-na-zhertvata-se-chuvstva-predadeno-2468672",
@@ -30,18 +37,18 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393852/991-ratio-gylyb-donev.jpg"
     },
     {
-      "title": "Здравното министерство с разяснения за търговията с неразрешени лекарства и пептиди (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/zdravnoto-ministerstvo-s-raziasneniia-za-tyrgoviiata-s-nerazresheni-lekarstva-i-peptidi-na-zhivo-2468669",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50717/50717686/991-ratio-lekarstva.jpg"
-    },
-    {
       "title": "Русия нанесе значителни щети на енергетиката на Украйна",
       "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-znachitelni-shteti-na-energetikata-na-ukrajna-2468668",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
+    },
+    {
+      "title": "Здравните власти бият тревога: Незаконни лекарства и опасни пептиди заливат интернет",
+      "url": "https://dariknews.bg/novini/bylgariia/zdravnite-vlasti-biiat-trevoga-nezakonni-lekarstva-i-opasni-peptidi-zalivat-internet-2468669",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50717/50717686/991-ratio-lekarstva.jpg"
     },
     {
       "title": "ПП събра подписи за правна комисия, която да разгледа законопроект за публичност на указите за помилване",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
     },
     {
-      "title": "Арестуваха шефа на руската мрежа „Рибар“ в Черна гора",
-      "url": "https://dariknews.bg/novini/sviat/arestuvaha-shefa-na-ruskata-mrezha-ribar-v-cherna-gora-2468652",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
+      "title": "Шефът на Рейсинг Булс открехна вратата на Никола Цолов към Формула 1 09 Окт | 16:16",
+      "url": "https://dsport.bg/shefat-na-reising-buls-otkrehna-vratata-na-nikola-colov-kam-formula-1~241768.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2286394895.og.jpg"
+    },
+    {
+      "title": "Марек срещу Берое на живо: Къде да гледате мача от MrBit Втора лига 09 Окт | 16:15",
+      "url": "https://dsport.bg/marek-srestu-beroe-na-zivo-kade-da-gledate-macha-ot-mrbit-vtora-liga~241686.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/900h600.og.jpg"
     },
     {
       "title": "Изпълкомът на БФС заседава в понеделник 09 Окт | 15:49",
@@ -189,20 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/532085-1.og.jpg"
-    },
-    {
-      "title": "Рафиня тренира отделно и почти сигурно пропуска мача с Хетафе 09 Окт | 14:04",
-      "url": "https://dsport.bg/rafina-trenira-otdelno-i-pochti-sigurno-propuska-macha-s-hetafe~241757.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293818332-1.og.jpg"
-    },
-    {
-      "title": "Евертън отново на тезгяха, собствениците търсят купувач 09 Окт | 13:57",
-      "url": "https://dsport.bg/everton-otnovo-se-prodava-friedkin-group-tarsi-nov-kupuvach~241755.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293787892.og.jpg"
     }
   ]
 }
