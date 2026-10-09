@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-09T12:42:23.693076+00:00",
+  "updated": "2026-10-09T13:01:59.360953+00:00",
   "articles": [
     {
-      "title": "Русия нанесе значителни щети на енергетиката на Украйна",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-znachitelni-shteti-na-energetikata-na-ukrajna-2468668",
+      "title": "Криста Пайк оцеля след неуспешна екзекуция, семейството на жертвата се чувства предадено",
+      "url": "https://dariknews.bg/novini/sviat/krista-pajk-ocelia-sled-neuspeshna-ekzekuciia-semejstvoto-na-zhertvata-se-chuvstva-predadeno-2468672",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
+      "image": "https://m.netinfo.bg/media/images/51392/51392708/991-ratio-krista-pajk.jpg"
+    },
+    {
+      "title": "Поредно отвличане на мъж от служители на фирма за бързи кредити",
+      "url": "https://dariknews.bg/regioni/montana/poredno-otvlichane-na-myzh-ot-sluzhiteli-na-firma-za-byrzi-krediti-2468671",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50991/50991534/991-ratio-otvlichane-otvlechen-myzh.jpg"
+    },
+    {
+      "title": "Русе счупи температурен рекорд за октомври с над 30 градуса",
+      "url": "https://dariknews.bg/regioni/ruse/ruse-schupi-temperaturen-rekord-za-oktomvri-s-nad-30-gradusa-2468670",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/37624/37624368/991-ratio-ruse.jpg"
+    },
+    {
+      "title": "Гълъб Донев участва в заседанията на Еврогрупата и на ЕКОФИН в Люксембург",
+      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-uchastva-v-zasedaniiata-na-evrogrupata-i-na-ekofin-v-liuksemburg-2468673",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393852/991-ratio-gylyb-donev.jpg"
     },
     {
       "title": "Здравното министерство с разяснения за търговията с неразрешени лекарства и пептиди (НА ЖИВО)",
@@ -14,6 +35,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50717/50717686/991-ratio-lekarstva.jpg"
+    },
+    {
+      "title": "Русия нанесе значителни щети на енергетиката на Украйна",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-znachitelni-shteti-na-energetikata-na-ukrajna-2468668",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
     },
     {
       "title": "ПП събра подписи за правна комисия, която да разгледа законопроект за публичност на указите за помилване",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
     },
     {
-      "title": "Шишков: Освен откраднат асфалт, имаме и „слепи тунели“",
-      "url": "https://dariknews.bg/novini/bylgariia/shishkov-osven-otkradnat-asfalt-imame-i-slepi-tuneli-2468651",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51378/51378054/991-ratio-ivan-shishkov.jpg"
-    },
-    {
-      "title": "Хитлер Мусолини се очертава като победител на кметските избори в Перу",
-      "url": "https://dariknews.bg/novini/sviat/hitler-musolini-se-ochertava-kato-pobeditel-na-kmetskite-izbori-v-peru-2468650",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39391/39391037/991-ratio-peru.jpg"
-    },
-    {
-      "title": "Убийство на жена в Пловдив, има задържан",
-      "url": "https://dariknews.bg/regioni/plovdiv/ubijstvo-na-zhena-v-plovdiv-ima-zadyrzhan-2468648",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393775/991-ratio-plovdiv.jpg"
-    },
-    {
-      "title": "ГДБОП с нов удар срещу наркотрафика: Спипаха 12 кг кокаин на границата с Турция (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/haskovo/gdbop-s-nov-udar-sreshtu-narkotrafika-spipaha-12-kg-kokain-na-granicata-s-turciia-snimkivideo-2468649",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Изпълкомът на БФС заседава в понеделник 09 Окт | 15:49",
+      "url": "https://dsport.bg/izpalkomat-na-bfs-zasedava-v-ponedelnik~241766.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/942040~1.og.jpg"
     },
     {
       "title": "Веласкес за Гиздол и Йовичевич: Истината е, че въобще не ме интересува (ВИДЕО) 09 Окт | 15:28",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2293787892.og.jpg"
-    },
-    {
-      "title": "Ендрик може да смени Реал Мадрид с Милан през януари 09 Окт | 13:55",
-      "url": "https://dsport.bg/endrik-moze-da-smeni-real-madrid-s-milan-prez-anuari~241756.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2267412315~1.og.jpg"
     }
   ]
 }
