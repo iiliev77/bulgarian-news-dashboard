@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T15:24:09.127517+00:00",
+  "updated": "2026-10-09T15:41:11.099387+00:00",
   "articles": [
+    {
+      "title": "МОСВ: Няма замърсяване на морската вода по българското Черноморие след инцидента с двата кораба",
+      "url": "https://dariknews.bg/novini/bylgariia/mosv-niama-zamyrsiavane-na-morskata-voda-po-bylgarskoto-chernomorie-sled-incidenta-s-dvata-koraba-2468684",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50885/50885811/991-ratio-cherno-more.jpg"
+    },
     {
       "title": "МОН: 26 октомври ще бъде неучебен, но присъствен ден за всички ученици",
       "url": "https://dariknews.bg/novini/bylgariia/mon-26-oktomvri-shte-byde-neucheben-no-prisystven-den-za-vsichki-uchenici-2468683",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393836/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Нови разкрития по делото срещу бившия шеф на ВиК – Бургас Цветан Мирчев",
-      "url": "https://dariknews.bg/novini/bylgariia/novi-razkritiia-po-deloto-sreshtu-bivshiia-shef-na-vik-burgas-cvetan-mirchev-2468665",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393834/991-ratio-cvetan-mirchev-vik-burgas.jpg"
+      "title": "Георги Русев: И Гуардиола да поеме България, ако не спазваме изискванията, няма да се получат нещата 09 Окт | 18:24",
+      "url": "https://dsport.bg/georgi-rusev-i-guardiola-da-poeme-balgaria-ako-ne-spazvame-iziskvaniata-nama-da-se-poluchat-nestata~241778.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/mixcollage-09-oct-2026-06-21-pm-5502.og.jpg"
     },
     {
       "title": "Макс Верстапен спечели спринтовата квалификация за Гран при на Сингапур 09 Окт | 18:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/image_1791549561_21439.og.jpeg"
-    },
-    {
-      "title": "Локомотив Пловдив с позиция за тревожното състояние на клуба 09 Окт | 16:46",
-      "url": "https://dsport.bg/lokomotiv-plovdiv-s-pozicia-za-trevoznoto-sastoanie-na-kluba~241769.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/830670318_2945174762525278_1115807909744682863_n.og.jpg"
     }
   ]
 }
