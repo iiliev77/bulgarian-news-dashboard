@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T11:46:39.746699+00:00",
+  "updated": "2026-10-09T11:59:34.848285+00:00",
   "articles": [
+    {
+      "title": "Катастрофа между две коли в Чепинското дефиле, движението е затруднено",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/katastrofa-mezhdu-dve-koli-v-chepinskoto-defile-dvizhenieto-e-zatrudneno-2468660",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393821/991-ratio-katastrofa-v-chepinskoto-defile.jpg"
+    },
+    {
+      "title": "Военнослужещи: Не са открити следи от дронове при огледа на обгорелия кораб в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/voennosluzheshti-ne-sa-otkriti-sledi-ot-dronove-pri-ogleda-na-obgoreliia-korab-v-cherno-more-2468661",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
+    },
     {
       "title": "„Прогресивна България“ внася нови предложения за потребителския кредит",
       "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-vnasia-novi-predlozheniia-za-potrebitelskiia-kredit-2468659",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393756/991-ratio-mitnici.jpg"
     },
     {
-      "title": "Обявиха носителя на Нобеловата награда за мир за 2026 г.",
-      "url": "https://dariknews.bg/novini/sviat/obiaviha-nositelia-na-nobelovata-nagrada-za-mir-za-2026-g-2468638",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393732/991-ratio-nobel.jpg"
-    },
-    {
-      "title": "Емблематичното червено яке на Майкъл Джексън от „Thriller“ отива на търг в Абу Даби",
-      "url": "https://dariknews.bg/novini/liubopitno/emblematichnoto-cherveno-iake-na-majkyl-dzheksyn-ot-thriller-otiva-na-tyrg-v-abu-dabi-2468634",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47684/47684105/991-ratio-majkyl-dzheksyn.jpg"
+      "title": "Изненада в Шанхай: Джокович е аут още на старта 09 Окт | 14:54",
+      "url": "https://dsport.bg/ne-e-pekin-a-shanhai-dzokovich-otpadna-oste-na-starta~241763.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299204238.og.jpg"
     },
     {
       "title": "Бивш футболист на Ювентус е сред фаворитите за спортен директор на Милан 09 Окт | 14:40",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1829975753~1.og.jpg"
-    },
-    {
-      "title": "Гей сага около колумбийски национал 09 Окт | 13:18",
-      "url": "https://dsport.bg/gei-afera-okolo-kolumbiiski-nacional~241752.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/mixcollage-09-oct-2026-01-18-pm-1516.og.jpg"
     }
   ]
 }
