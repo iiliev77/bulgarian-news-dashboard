@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T14:12:29.994165+00:00",
+  "updated": "2026-10-09T14:34:40.756208+00:00",
   "articles": [
+    {
+      "title": "Голям пожар във вилната зона край Изворище, огънят е близо до къщите на хората (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/goliam-pozhar-vyv-vilnata-zona-kraj-izvorishte-ogyniat-e-blizo-do-kyshtite-na-horata-snimki-2468682",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
     {
       "title": "Нов мигрантски поток към Гърция: Над 200 души са открити в района на остров Крит",
       "url": "https://dariknews.bg/novini/sviat/nov-migrantski-potok-kym-gyrciia-nad-200-dushi-sa-otkriti-v-rajona-na-ostrov-krit-2468681",
@@ -13,7 +20,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/radev-za-sreshtata-s-shefa-na-kabineta-na-zelenski-krajno-vreme-e-da-se-dade-pyt-na-dialoga-i-diplomaciiata-2468680",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379667/991-ratio-rumen-radev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "МФ отговори на ГЕРБ: Министерството няма механизъм, с който да манипулира данни и дати",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51264/51264341/991-ratio-tramvaj.jpg"
     },
     {
-      "title": "Над 1 млн. евро неоснователно получени суми установи НЗОК в 21 аптеки у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/nad-1-mln.-evro-neosnovatelno-polucheni-sumi-ustanovi-nzok-v-21-apteki-u-nas-2468662",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50894/50894866/991-ratio-apteka-aptekar.jpg"
+      "title": "Младото острие на Ботев Пловдив ще отсъства за месец 09 Окт | 17:23",
+      "url": "https://dsport.bg/mladoto-ostrie-na-botev-plovdiv-ste-otsastva-za-mesec~241774.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1028279.og.jpg"
+    },
+    {
+      "title": "Пламен Андреев: Идват страхотни вратари, готови да изядат тревата за България 09 Окт | 17:14",
+      "url": "https://dsport.bg/plamen-andreev-idvat-strahotni-vratari-gotovi-da-izadat-trevata-za-balgaria~241773.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1036216.og.jpg"
+    },
+    {
+      "title": "Левски разпродаде билетите за Черно море 09 Окт | 17:11",
+      "url": "https://dsport.bg/levski-razprodade-biletite-za-cherno-more~241772.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/966174-1-2.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик радио - 09.10.2026 г. 09 Окт | 17:00",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/fotojet-87-.og.jpg"
-    },
-    {
-      "title": "Хулио Веласкес: Паузата ни дойде доста добре, дано остана дълго време тук (ВИДЕО) 09 Окт | 15:01",
-      "url": "https://dsport.bg/hulio-velaskes-pauzata-ni-doide-dosta-dobre-dano-ostana-dalgo-vreme-tuk~241764.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1016964.og.jpg"
-    },
-    {
-      "title": "Изненада в Шанхай: Джокович е аут още на старта 09 Окт | 14:54",
-      "url": "https://dsport.bg/ne-e-pekin-a-shanhai-dzokovich-otpadna-oste-na-starta~241763.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299204238.og.jpg"
-    },
-    {
-      "title": "Бивш футболист на Ювентус е сред фаворитите за спортен директор на Милан 09 Окт | 14:40",
-      "url": "https://dsport.bg/bivsh-futbolist-na-uventus-e-sred-favoritite-za-sporten-direktor-na-milan~241761.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1060274958.og.jpg"
     }
   ]
 }
