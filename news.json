@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T18:01:36.576978+00:00",
+  "updated": "2026-10-09T18:21:35.997429+00:00",
   "articles": [
+    {
+      "title": "САЩ наложиха широкообхватни санкции срещу Международния наказателен съд",
+      "url": "https://dariknews.bg/novini/sviat/sasht-nalozhiha-shirokoobhvatni-sankcii-sreshtu-mezhdunarodniia-nakazatelen-syd-2468690",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51239/51239117/991-ratio-marko-rubio.jpg"
+    },
     {
       "title": "След убийството на жена в Пловдив: Задържан е 14-годишният ѝ син",
       "url": "https://dariknews.bg/novini/bylgariia/sled-ubijstvoto-na-zhena-v-plovdiv-zadyrzhan-e-14-godishniiat-sin-2468689",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/37624/37624368/991-ratio-ruse.jpg"
     },
     {
-      "title": "Гълъб Донев участва в заседанията на Еврогрупата и на ЕКОФИН в Люксембург",
-      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-uchastva-v-zasedaniiata-na-evrogrupata-i-na-ekofin-v-liuksemburg-2468673",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393852/991-ratio-gylyb-donev.jpg"
+      "title": "УЕФА удари Сърбия с глоба и ограничения за феновете 09 Окт | 21:12",
+      "url": "https://dsport.bg/uefa-udari-sarbia-s-globa-i-ogranichenia-za-fenovete~241795.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299041524.og.jpg"
     },
     {
       "title": "Артета отказа да говори за Сити, но отсече: Висшата лига е най-добрата 09 Окт | 21:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/834647087_1426178492269024_4128119427708839685_n.og.jpg"
-    },
-    {
-      "title": "Официално: Самолетчето отлетя уволнен от Турция 09 Окт | 19:03",
-      "url": "https://dsport.bg/oficialno-samoletcheto-otleta-uvolnen-ot-turcia~241783.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299027899.og.jpg"
     }
   ]
 }
