@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T11:14:25.649571+00:00",
+  "updated": "2026-10-09T11:30:30.894235+00:00",
   "articles": [
+    {
+      "title": "Астрономи засякоха радиоимпулс, възникнал преди повече от 10 милиарда години",
+      "url": "https://dariknews.bg/novini/liubopitno/astronomi-zasiakoha-radioimpuls-vyzniknal-predi-poveche-ot-10-miliarda-godini-2468657",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50136/50136096/991-ratio-kosmos.jpg"
+    },
+    {
+      "title": "Трагедията със загиналите младежи: След сблъсъка скоростомерът на едната кола е блокирал на 139 км/ч.",
+      "url": "https://dariknews.bg/regioni/pleven/tragediiata-sys-zaginalite-mladezhi-sled-sblysyka-skorostomeryt-na-ednata-kola-e-blokiral-na-139-kmch-2468658",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393664/991-ratio-tezhka-katastrofa-kraj-pleven.jpg"
+    },
     {
       "title": "За месец и половина: 160 сигнала за екологични проблеми в Пловдив",
       "url": "https://dariknews.bg/regioni/plovdiv/za-mesec-i-polovina-160-signala-za-ekologichni-problemi-v-plovdiv-2468655",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393726/991-ratio-laptop.jpg"
     },
     {
-      "title": "Арести в Хърватия за престъпления срещу околната среда",
-      "url": "https://dariknews.bg/novini/sviat/aresti-v-hyrvatiia-za-prestypleniia-sreshtu-okolnata-sreda-2468632",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51076/51076590/991-ratio-beleznici-zadyrzhan.jpg"
-    },
-    {
-      "title": "Внесоха обвинителен акт срещу магистрат, шофирал с 2,47 промила алкохол",
-      "url": "https://dariknews.bg/novini/bylgariia/vnesoha-obvinitelen-akt-sreshtu-magistrat-shofiral-s-247-promila-alkohol-2468633",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/36752/36752087/991-ratio-sofijski-gradski-syd.jpg"
+      "title": "Спартак Плевен срещу Левски след близо 25 години - ясни са цените на билетите 09 Окт | 14:18",
+      "url": "https://dsport.bg/spartak-pleven-srestu-levski-sled-blizo-25-godini-asni-sa-cenite-na-biletite~241759.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/532085-1.og.jpg"
     },
     {
       "title": "Рафиня тренира отделно и почти сигурно пропуска мача с Хетафе 09 Окт | 14:04",
@@ -196,13 +203,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1b762fef-a0f0-4083-9c1c-4436aba202b5-1-773x380-1~1.og.jpg"
-    },
-    {
-      "title": "Ексклузивно От Локомотив Пловдив: Нека няма съмнение – Крушарски вече го няма и няма финансиране от него 09 Окт | 12:30",
-      "url": "https://dsport.bg/ot-lokomotiv-plovdiv-neka-nama-samnenie-krusharski-veche-go-nama-i-nama-finansirane-ot-nego~241749.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/602663-2-2-2.og.jpg"
     }
   ]
 }
