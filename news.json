@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-09T18:41:35.400732+00:00",
+  "updated": "2026-10-09T18:57:34.918885+00:00",
   "articles": [
     {
-      "title": "Двама братя, известни с прякорите Гого и Тото, са задържани при акция срещу наркотиците в „Драгалевци“",
-      "url": "https://dariknews.bg/novini/bylgariia/dvama-bratia-izvestni-s-priakorite-gogo-i-toto-sa-zadyrzhani-pri-akciia-sreshtu-narkoticite-v-dragalevci-2468691",
+      "title": "Акция срещу наркотиците в „Драгалевци“: Задържаха двама братя, известни като Гого и Тото",
+      "url": "https://dariknews.bg/novini/bylgariia/akciia-sreshtu-narkoticite-v-dragalevci-zadyrzhaha-dvama-bratia-izvestni-kato-gogo-i-toto-2468691",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51250/51250862/991-ratio-policiia-arest.jpg"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50991/50991534/991-ratio-otvlichane-otvlechen-myzh.jpg"
     },
     {
+      "title": "Фратрия пропусна да се качи на върха след загуба от Етър 09 Окт | 21:52",
+      "url": "https://dsport.bg/etar-udari-fratria-na-ivailo~241797.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038284.og.jpg"
+    },
+    {
+      "title": "Манчестър Юнайтед без трима срещу Тотнъм 09 Окт | 21:45",
+      "url": "https://dsport.bg/manchestar-unaited-bez-trima-srestu-totnam~241793.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2230669053~1.og.jpg"
+    },
+    {
       "title": "Бордалас засипа Барселона с похвали преди сблъсъка с Флик 09 Окт | 21:28",
       "url": "https://dsport.bg/bordalas-zasipa-barselona-s-pohvali-predi-sblasaka-s-flik~241792.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/841386617_1420109743643094_1275026755903222297_n.og.jpg"
-    },
-    {
-      "title": "Левски на втория етап от есенния маратон 09 Окт | 19:40",
-      "url": "https://dsport.bg/levski-na-vtoria-etap-ot-esennia-maraton~241786.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/komentarno-alpha-10-~2.og.png"
-    },
-    {
-      "title": "Шакира завъртя главата на гигант от NBA? 09 Окт | 19:38",
-      "url": "https://dsport.bg/shakira-zavarta-glavata-na-gigant-ot-nba~241767.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1543387213~2.og.jpg"
     }
   ]
 }
