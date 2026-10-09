@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-09T09:02:39.583343+00:00",
+  "updated": "2026-10-09T09:22:02.572681+00:00",
   "articles": [
+    {
+      "title": "Отново сигнали за бомби в страната",
+      "url": "https://dariknews.bg/regioni/stara-zagora/otnovo-signali-za-bombi-v-stranata-2468641",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35305/35305176/991-ratio-policiia-proverki-kat-shumen.jpg"
+    },
+    {
+      "title": "Локализиран е големият пожар край ивайловградското село Горно Луково",
+      "url": "https://dariknews.bg/regioni/haskovo/lokaliziran-e-golemiiat-pozhar-kraj-ivajlovgradskoto-selo-gorno-lukovo-2468639",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "„Резултатът от цялата операция е безпрецедентен за България“: Митничари хванаха общо 25 милиона къса с цигари",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/rezultatyt-ot-cialata-operaciia-e-bezprecedenten-za-bylgariia-mitnichari-hvanaha-obshto-25-miliona-kysa-s-cigari-2468640",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379221/991-ratio-kontrabandni-cigari.jpg"
+    },
+    {
+      "title": "Обявиха носителя на Нобеловата награда за мир за 2026 г.",
+      "url": "https://dariknews.bg/novini/sviat/obiaviha-nositelia-na-nobelovata-nagrada-za-mir-za-2026-g-2468638",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393732/991-ratio-nobel.jpg"
+    },
     {
       "title": "Емблематичното червено яке на Майкъл Джексън от „Thriller“ отива на търг в Абу Даби",
       "url": "https://dariknews.bg/novini/liubopitno/emblematichnoto-cherveno-iake-na-majkyl-dzheksyn-ot-thriller-otiva-na-tyrg-v-abu-dabi-2468634",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50090/50090283/991-ratio-triygylnik-katastrofa.jpg"
     },
     {
-      "title": "Плевен обяви Ден на траур след трагедията със загиналите младежи",
-      "url": "https://dariknews.bg/regioni/pleven/pleven-obiavi-den-na-traur-sled-tragediiata-sys-zaginalite-mladezhi-2468618",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
+      "title": "Тенисист изригна на корта – удари мрежата и хвърли ракета към публиката (ВИДЕО) 09 Окт | 12:18",
+      "url": "https://dsport.bg/tenisist-izrigna-na-korta-udari-mrezata-i-hvarli-raketa-kam-publikata-video~241748.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2290943157.og.jpg"
     },
     {
-      "title": "Ураганът Isaias приближава крайбрежието на САЩ, властите подготвят евакуации",
-      "url": "https://dariknews.bg/novini/sviat/uraganyt-isaias-priblizhava-krajbrezhieto-na-sasht-vlastite-podgotviat-evakuacii-2468621",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
-    },
-    {
-      "title": "Задържаха трима мъже за побой над младеж в Разлог",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/zadyrzhaha-trima-myzheza-poboj-nad-mladezh-v-razlog-2468617",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51108/51108316/991-ratio-boj-momcheta-poboj-huligani.jpg"
-    },
-    {
-      "title": "Пожар обхвана около 200 дка сухи треви и храсти в Благоевградско",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/pozhar-obhvana-okolo-200-dka-suhi-trevi-i-hrasti-v-blagoevgradsko-2468616",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50869/50869352/991-ratio-pozhar-pozhar-gora.jpg"
+      "title": "Холанд може да се озове в Испания, Барселона и Реал Мадрид следят ситуацията му 09 Окт | 12:04",
+      "url": "https://dsport.bg/haaland-moze-da-se-ozove-v-ispania-barselona-i-real-madrid-sledat-situaciata-mu~241747.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297047017~1.og.jpg"
     },
     {
       "title": "Барселона върза един от големите си таланти с договор до 2030 година 09 Окт | 11:45",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2281748853~1.og.jpg"
-    },
-    {
-      "title": "Хуркач се закани на Джокович преди старта в Шанхай: Време е най-после да го победя 09 Окт | 09:50",
-      "url": "https://dsport.bg/hurkach-se-zakani-na-dzokovich-predi-starta-v-shanhai-vreme-e-nai-posle-da-go-pobeda~241738.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1796871973.og.jpg"
-    },
-    {
-      "title": "12 поредни титли и 113 мача без загуба: невероятната серия на Джохор Дарул Та’зим и Луис Гарсия 09 Окт | 09:37",
-      "url": "https://dsport.bg/12-poredni-titli-i-113-macha-bez-zaguba-neveroatnata-seria-na-dzohor-darul-ta-zim-i-luis-garsia~241736.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot_1~236.og.jpg"
     }
   ]
 }
