@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:18:32.095858+00:00",
+  "updated": "2026-10-09T17:34:40.784674+00:00",
   "articles": [
     {
       "title": "Шефът на сектор „Издирване“ в СДВР Емил Стоянов: Ружа Игнатова е жива",
@@ -27,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/katastrofa-mezhdu-simitli-i-kresna-5-dushi-sa-raneni-2468685",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "МОСВ: Няма замърсяване на морската вода по българското Черноморие след инцидента с двата кораба",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
     },
     {
+      "title": "Ювентус обвърза Нико Гонсалес с дългосрочен договор 09 Окт | 20:32",
+      "url": "https://dsport.bg/uventus-obvarza-niko-gonsales-s-dalgosrochen-dogovor~241785.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2190448916~1.og.jpg"
+    },
+    {
       "title": "Флик: Ламин Ямал ще бъде най-добрият футболист в света, ако вече не е 09 Окт | 20:15",
       "url": "https://dsport.bg/flik-lamin-amal-ste-bade-nai-dobriat-futbolist-v-sveta-ako-veche-ne-e~241787.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2266621217~1.og.jpg"
-    },
-    {
-      "title": "Стилиян Петров в атака: Футболът ни страда от плевели, от години те задушават хубавата трева 09 Окт | 18:41",
-      "url": "https://dsport.bg/stilian-petrov-v-ataka-futbolat-ni-strada-ot-pleveli-ot-godini-te-zadushavat-hubavata-treva~241780.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/983659.og.jpg"
     }
   ]
 }
