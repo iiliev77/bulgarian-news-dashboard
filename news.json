@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:41:11.099387+00:00",
+  "updated": "2026-10-09T15:57:37.124269+00:00",
   "articles": [
     {
       "title": "МОСВ: Няма замърсяване на морската вода по българското Черноморие след инцидента с двата кораба",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393836/991-ratio-igri-na-voliata.jpg"
     },
     {
+      "title": "Валверде се възстанови за седмици от травма, която го заплашваше с месеци извън игра 09 Окт | 18:42",
+      "url": "https://dsport.bg/valverde-se-vazstanovi-za-sedmici-ot-travma-koato-go-zaplashvashe-s-meseci-izvan-igra~241779.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2266621217~1.og.jpg"
+    },
+    {
+      "title": "Стилиян Петров в атака: Футболът ни страда от плевели, от години те задушават хубавата трева 09 Окт | 18:41",
+      "url": "https://dsport.bg/stilian-petrov-v-ataka-futbolat-ni-strada-ot-pleveli-ot-godini-te-zadushavat-hubavata-treva~241780.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/983659.og.jpg"
+    },
+    {
       "title": "Георги Русев: И Гуардиола да поеме България, ако не спазваме изискванията, няма да се получат нещата 09 Окт | 18:24",
       "url": "https://dsport.bg/georgi-rusev-i-guardiola-da-poeme-balgaria-ako-ne-spazvame-iziskvaniata-nama-da-se-poluchat-nestata~241778.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/966174-1-2.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 09.10.2026 г. 09 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-09-10-2026-g~241771.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-1334-.og.png"
-    },
-    {
-      "title": "Георги Иванов и Андрей Петров участваха в срещата на висшите ръководители на УЕФА 09 Окт | 16:51",
-      "url": "https://dsport.bg/georgi-ivanov-i-andrei-petrov-uchastvaha-v-srestata-na-visshite-rakovoditeli-na-uefa~241770.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/image_1791549561_21439.og.jpeg"
     }
   ]
 }
