@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T15:06:01.039058+00:00",
+  "updated": "2026-10-09T15:24:09.127517+00:00",
   "articles": [
+    {
+      "title": "МОН: 26 октомври ще бъде неучебен, но присъствен ден за всички ученици",
+      "url": "https://dariknews.bg/novini/bylgariia/mon-26-oktomvri-shte-byde-neucheben-no-prisystven-den-za-vsichki-uchenici-2468683",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379432/991-ratio-uchenici.jpg"
+    },
     {
       "title": "Голям пожар във вилната зона край Изворище, огънят е близо до къщите на хората (СНИМКИ)",
       "url": "https://dariknews.bg/novini/bylgariia/goliam-pozhar-vyv-vilnata-zona-kraj-izvorishte-ogyniat-e-blizo-do-kyshtite-na-horata-snimki-2468682",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393834/991-ratio-cvetan-mirchev-vik-burgas.jpg"
     },
     {
-      "title": "Прокуратурата предаде на съд ватман за смъртта на пешеходка в София",
-      "url": "https://dariknews.bg/regioni/sofiia/prokuraturata-predade-na-syd-vatman-za-smyrtta-na-peshehodka-v-sofiia-2468663",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264341/991-ratio-tramvaj.jpg"
+      "title": "Макс Верстапен спечели спринтовата квалификация за Гран при на Сингапур 09 Окт | 18:10",
+      "url": "https://dsport.bg/maks-verstapen-specheli-sprintovata-kvalifikacia-za-gran-pri-na-singapur~241777.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299388117.og.jpg"
     },
     {
       "title": "От механичните автомати до смартфона: как се промени една цяла индустрия 09 Окт | 17:57",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/830670318_2945174762525278_1115807909744682863_n.og.jpg"
-    },
-    {
-      "title": "Шефът на Рейсинг Булс открехна вратата на Никола Цолов към Формула 1 09 Окт | 16:16",
-      "url": "https://dsport.bg/shefat-na-reising-buls-otkrehna-vratata-na-nikola-colov-kam-formula-1~241768.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2286394895.og.jpg"
     }
   ]
 }
