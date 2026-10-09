@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-09T08:30:43.328973+00:00",
+  "updated": "2026-10-09T08:49:53.446382+00:00",
   "articles": [
+    {
+      "title": "„Тайните на Струма“ в „Темата на NOVA”",
+      "url": "https://dariknews.bg/novini/obshtestvo/tajnite-na-struma-v-temata-na-nova-2468631",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393714/991-ratio-ivan-kynchev.jpg"
+    },
+    {
+      "title": "Измама през TikTok: Жена плати почти 260 евро за пратка с „печалба“",
+      "url": "https://dariknews.bg/novini/bylgariia/izmama-prez-tiktok-zhena-plati-pochti-260-evro-za-pratka-s-pechalba-2468629",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50981/50981894/991-ratio-tiktok.jpg"
+    },
+    {
+      "title": "България с категорична позиция за Северна Македония: Няма да предоговаряме условията за ЕС",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-s-kategorichna-poziciia-za-severna-makedoniia-niama-da-predogovariame-usloviiata-za-es-2468630",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51374/51374928/991-ratio-velislava-petrova.jpg"
+    },
     {
       "title": "Подхождат ли си Иван и Александра от “Игри на волята”? Братът близнак Ивайло проговори!",
       "url": "https://dariknews.bg/novini/liubopitno/podhozhdat-li-si-ivan-i-aleksandra-ot-igri-na-voliata-bratyt-bliznak-ivajlo-progovori-2468627",
@@ -65,8 +86,8 @@
       "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
     },
     {
-      "title": "Ураганът Исайъс приближава крайбрежието на САЩ, властите подготвят евакуации",
-      "url": "https://dariknews.bg/novini/sviat/uraganyt-isajys-priblizhava-krajbrezhieto-na-sasht-vlastite-podgotviat-evakuacii-2468621",
+      "title": "Ураганът Isaias приближава крайбрежието на САЩ, властите подготвят евакуации",
+      "url": "https://dariknews.bg/novini/sviat/uraganyt-isaias-priblizhava-krajbrezhieto-na-sasht-vlastite-podgotviat-evakuacii-2468621",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51386/51386796/991-ratio-perperikon.jpg"
     },
     {
-      "title": "ГЕРБ сезира ЕК за предполагаеми манипулации с бюджетния дефицит",
-      "url": "https://dariknews.bg/novini/bylgariia/gerb-sezira-ek-za-predpolagaemi-manipulacii-s-biudzhetniia-deficit-2468610",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51123/51123003/991-ratio-temenuzhka-petkova.jpg"
-    },
-    {
-      "title": "Шофьор на камион с 1,33 промила алкохол предизвика катастрофа край Пирдоп",
-      "url": "https://dariknews.bg/regioni/sofiia/shofior-na-kamion-s-133-promila-alkohol-predizvika-katastrofa-kraj-pirdop-2468607",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51196/51196037/991-ratio-piian-shofior.jpg"
-    },
-    {
-      "title": "Агент на имиграционните служби простреля мъж в Бронкс, петгодишно дете е било в автомобила",
-      "url": "https://dariknews.bg/novini/sviat/agent-na-imigracionnite-sluzhbi-prostrelia-myzh-v-bronks-petgodishno-dete-e-bilo-v-avtomobila-2468608",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45343/45343957/991-ratio-policiia-sasht-lenta.jpg"
+      "title": "Барселона върза един от големите си таланти с договор до 2030 година 09 Окт | 11:45",
+      "url": "https://dsport.bg/barselona-varza-edin-ot-golemite-si-talanti-s-dogovor-do-2030-godina~241746.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295065828.og.jpg"
     },
     {
       "title": "Монталиани се отказва от битката с Инфантино за президентския пост във ФИФА 09 Окт | 11:14",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot_1~236.og.jpg"
-    },
-    {
-      "title": "Манчестър Юнайтед може да изпусне 16-годишно чудо за „жълти стотинки“ 09 Окт | 09:09",
-      "url": "https://dsport.bg/manchestar-unaited-moze-da-izpusne-16-godishno-chudo-za-zalti-stotinki~241735.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2276438270.og.jpg"
     }
   ]
 }
