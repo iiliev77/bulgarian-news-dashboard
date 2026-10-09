@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T17:02:21.761263+00:00",
+  "updated": "2026-10-09T17:18:32.095858+00:00",
   "articles": [
+    {
+      "title": "Шефът на сектор „Издирване“ в СДВР Емил Стоянов: Ружа Игнатова е жива",
+      "url": "https://dariknews.bg/novini/obshtestvo/shefyt-na-sektor-izdirvane-v-sdvr-emil-stoianov-ruzha-ignatova-e-zhiva-2468688",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393909/991-ratio-emil-stoianov.jpg"
+    },
     {
       "title": "След жестоката катастрофа с 4 жертви: Община Плевен изнесе данни за пътя",
       "url": "https://dariknews.bg/novini/bylgariia/sled-zhestokata-katastrofa-s-4-zhertvi-obshtina-pleven-iznese-danni-za-pytia-2468687",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
     },
     {
-      "title": "Здравните власти бият тревога: Незаконни лекарства и пептиди заливат интернет (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/zdravnite-vlasti-biiat-trevoga-nezakonni-lekarstva-i-peptidi-zalivat-internet-video-2468669",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
+      "title": "Флик: Ламин Ямал ще бъде най-добрият футболист в света, ако вече не е 09 Окт | 20:15",
+      "url": "https://dsport.bg/flik-lamin-amal-ste-bade-nai-dobriat-futbolist-v-sveta-ako-veche-ne-e~241787.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2292450775-1.og.jpg"
     },
     {
       "title": "Ръководителят на италианските съдии ще се обяснява пред Дилета Леота 09 Окт | 19:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/983659.og.jpg"
-    },
-    {
-      "title": "Георги Русев: И Гуардиола да поеме България, ако не спазваме изискванията, няма да се получат нещата 09 Окт | 18:24",
-      "url": "https://dsport.bg/georgi-rusev-i-guardiola-da-poeme-balgaria-ako-ne-spazvame-iziskvaniata-nama-da-se-poluchat-nestata~241778.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/mixcollage-09-oct-2026-06-21-pm-5502.og.jpg"
     }
   ]
 }
