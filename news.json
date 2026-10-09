@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:02:01.363240+00:00",
+  "updated": "2026-10-09T20:18:43.128145+00:00",
   "articles": [
     {
       "title": "Тръмп след разговор с Путин: Русия се съгласи да достави над 300 000 т дизелово гориво за САЩ и световния пазар",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
+      "title": "Олимпиакос се разправи с Анадолу Ефес 09 Окт | 23:10",
+      "url": "https://dsport.bg/olimpiakos-se-razpravi-s-anadolu-efes~241800.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2273058685-1-1.og.jpg"
+    },
+    {
       "title": "Кристиано Роналдо се завърна към клубните ангажименти с гол 09 Окт | 22:54",
       "url": "https://dsport.bg/kristiano-ronaldo-se-zavarna-kam-klubnite-angazimenti-s-gol~241799.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299041524.og.jpg"
-    },
-    {
-      "title": "Артета отказа да говори за Сити, но отсече: Висшата лига е най-добрата 09 Окт | 21:00",
-      "url": "https://dsport.bg/arteta-otkaza-da-govori-za-siti-no-otseche-visshata-liga-e-nai-dobrata~241790.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2288622519~1.og.jpg"
     }
   ]
 }
