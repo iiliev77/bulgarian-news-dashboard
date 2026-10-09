@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T18:21:35.997429+00:00",
+  "updated": "2026-10-09T18:41:35.400732+00:00",
   "articles": [
+    {
+      "title": "Двама братя, известни с прякорите Гого и Тото, са задържани при акция срещу наркотиците в „Драгалевци“",
+      "url": "https://dariknews.bg/novini/bylgariia/dvama-bratia-izvestni-s-priakorite-gogo-i-toto-sa-zadyrzhani-pri-akciia-sreshtu-narkoticite-v-dragalevci-2468691",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51250/51250862/991-ratio-policiia-arest.jpg"
+    },
     {
       "title": "САЩ наложиха широкообхватни санкции срещу Международния наказателен съд",
       "url": "https://dariknews.bg/novini/sviat/sasht-nalozhiha-shirokoobhvatni-sankcii-sreshtu-mezhdunarodniia-nakazatelen-syd-2468690",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50991/50991534/991-ratio-otvlichane-otvlechen-myzh.jpg"
     },
     {
-      "title": "Русе счупи температурен рекорд за октомври с над 30 градуса",
-      "url": "https://dariknews.bg/regioni/ruse/ruse-schupi-temperaturen-rekord-za-oktomvri-s-nad-30-gradusa-2468670",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/37624/37624368/991-ratio-ruse.jpg"
+      "title": "Бордалас засипа Барселона с похвали преди сблъсъка с Флик 09 Окт | 21:28",
+      "url": "https://dsport.bg/bordalas-zasipa-barselona-s-pohvali-predi-sblasaka-s-flik~241792.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2196038626~1.og.jpg"
     },
     {
       "title": "УЕФА удари Сърбия с глоба и ограничения за феновете 09 Окт | 21:12",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1543387213~2.og.jpg"
-    },
-    {
-      "title": "Янтра Габрово сложи край на лошата си серия с успех над Вихрен 09 Окт | 19:23",
-      "url": "https://dsport.bg/antra-gabrovo-slozi-krai-na-loshata-si-seria-s-uspeh-nad-vihren~241784.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/834647087_1426178492269024_4128119427708839685_n.og.jpg"
     }
   ]
 }
