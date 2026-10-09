@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T17:34:40.784674+00:00",
+  "updated": "2026-10-09T17:50:26.113140+00:00",
   "articles": [
+    {
+      "title": "След убийството на жена в Пловдив: Задържан е 14-годишният ѝ син",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-ubijstvoto-na-zhena-v-plovdiv-zadyrzhan-e-14-godishniiat-sin-2468689",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Шефът на сектор „Издирване“ в СДВР Емил Стоянов: Ружа Игнатова е жива",
       "url": "https://dariknews.bg/novini/obshtestvo/shefyt-na-sektor-izdirvane-v-sdvr-emil-stoianov-ruzha-ignatova-e-zhiva-2468688",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393852/991-ratio-gylyb-donev.jpg"
     },
     {
-      "title": "Русия нанесе значителни щети на енергетиката на Украйна",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-znachitelni-shteti-na-energetikata-na-ukrajna-2468668",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
+      "title": "Билетите за боксовия сблъсък между Фюри и Джошуа се разпродадоха за час 09 Окт | 20:47",
+      "url": "https://dsport.bg/biletite-za-boksovia-sblasak-mezdu-furi-i-dzoshua-se-razprodadoha-za-chas~241789.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297932860.og.jpg"
     },
     {
       "title": "Ювентус обвърза Нико Гонсалес с дългосрочен договор 09 Окт | 20:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/0c4f~1.og.webp"
-    },
-    {
-      "title": "Валверде се възстанови за седмици от травма, която го заплашваше с месеци извън игра 09 Окт | 18:42",
-      "url": "https://dsport.bg/valverde-se-vazstanovi-za-sedmici-ot-travma-koato-go-zaplashvashe-s-meseci-izvan-igra~241779.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2266621217~1.og.jpg"
     }
   ]
 }
