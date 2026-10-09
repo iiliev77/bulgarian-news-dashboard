@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T05:59:43.567537+00:00",
+  "updated": "2026-10-09T06:20:38.121859+00:00",
   "articles": [
+    {
+      "title": "Бившият германски канцлер Шрьодер посети Путин за рождения му ден",
+      "url": "https://dariknews.bg/novini/sviat/bivshiiat-germanski-kancler-shrioder-poseti-putin-za-rozhdeniia-mu-den-2468597",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51173/51173510/991-ratio-vladimir-putin.jpg"
+    },
+    {
+      "title": "От 140 до 48 000 лв. за преместване на кухня: Клиенти разказват за заплахи от хамалска фирма",
+      "url": "https://dariknews.bg/novini/bylgariia/ot-140-do-48-000-lv.-za-premestvane-na-kuhnia-klienti-razkazvat-za-zaplahi-ot-hamalska-firma-2468596",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Река Дунав е с критично ниски нива, спадът продължава",
       "url": "https://dariknews.bg/novini/bylgariia/reka-dunav-e-s-kritichno-niski-niva-spadyt-prodylzhava-2468594",
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51391/51391754/991-ratio-franciia-uchilishta.jpg"
     },
     {
-      "title": "Мадуро и съпругата му са обвинени и за предполагаеми изтезания",
-      "url": "https://dariknews.bg/novini/sviat/maduro-i-syprugata-mu-sa-obvineni-i-za-predpolagaemi-iztezaniia-2468581",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51380/51380784/991-ratio-maduro.jpg"
+      "title": "Манчестър Юнайтед може да изпусне 16-годишно чудо за „жълти стотинки“ 09 Окт | 09:09",
+      "url": "https://dsport.bg/manchestar-unaited-moze-da-izpusne-16-godishno-chudo-za-zalti-stotinki~241735.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2276438270.og.jpg"
     },
     {
-      "title": "Премиерът се срещна с европейския комисар по разширяването Марта Кос, какво си казаха",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-se-sreshtna-s-evropejskiia-komisar-po-razshiriavaneto-marta-kos-kakvo-si-kazaha-2468580",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393577/991-ratio-radev.jpg"
+      "title": "Ямал се разсмя на подигравка с Винисиус по време на рап битка 09 Окт | 09:05",
+      "url": "https://dsport.bg/amal-se-razsma-na-podigravka-s-vinisius-po-vreme-na-rap-bitka~241734.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2243625505.og.jpg"
+    },
+    {
+      "title": "Меси се върна в Интер Маями след емоционалното сбогуване с Аржентина 09 Окт | 09:00",
+      "url": "https://dsport.bg/mesi-se-varna-v-inter-maami-sled-emocionalnoto-sboguvane-s-arzentina~241733.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297460976~1.og.jpg"
     },
     {
       "title": "ЛеБрон дебютира за Филаделфия с 10 точки, но 76ърс загуби от Бруклин (ВИДЕО) 09 Окт | 08:23",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297131363.og.jpg"
-    },
-    {
-      "title": "Цяла Африка застана зад Инфантино преди изборите за президент на ФИФА 08 Окт | 22:43",
-      "url": "https://dsport.bg/cala-afrika-zastana-zad-infantino-predi-izborite-za-prezident-na-fifa~241723.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293665156.og.jpg"
-    },
-    {
-      "title": "Барселона преподписа с поредния си голям талант 08 Окт | 22:22",
-      "url": "https://dsport.bg/barselona-prepodpisa-s-porednia-si-golam-talant~241722.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2289729604.og.jpg"
-    },
-    {
-      "title": "ПСЖ оставя две от звездите си извън състава преди сблъсъка с Манчестър Сити 08 Окт | 21:58",
-      "url": "https://dsport.bg/psz-ostava-dve-ot-zvezdite-si-izvan-sastava-predi-sblasaka-s-manchestar-siti~241721.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2294374716.og.jpg"
     }
   ]
 }
