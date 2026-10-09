@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T16:11:58.183451+00:00",
+  "updated": "2026-10-09T16:30:29.327380+00:00",
   "articles": [
+    {
+      "title": "Двойно торнадо връхлетя Сицилия, 11 души са ранени",
+      "url": "https://dariknews.bg/novini/sviat/dvojno-tornado-vryhletia-siciliia-11-dushi-sa-raneni-2468686",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51246/51246676/991-ratio-tornado.jpg"
+    },
+    {
+      "title": "Катастрофа между Симитли и Кресна, 5 души са ранени",
+      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-mezhdu-simitli-i-kresna-5-dushi-sa-raneni-2468685",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
     {
       "title": "МОСВ: Няма замърсяване на морската вода по българското Черноморие след инцидента с двата кораба",
       "url": "https://dariknews.bg/novini/bylgariia/mosv-niama-zamyrsiavane-na-morskata-voda-po-bylgarskoto-chernomorie-sled-incidenta-s-dvata-koraba-2468684",
@@ -16,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/51379/51379432/991-ratio-uchenici.jpg"
     },
     {
-      "title": "Голям пожар във вилната зона край Изворище, огънят е близо до къщите на хората (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/goliam-pozhar-vyv-vilnata-zona-kraj-izvorishte-ogyniat-e-blizo-do-kyshtite-na-horata-snimki-2468682",
+      "title": "Локализираха пожара в землищата на три села край Бургас, няма пострадали хора (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/lokaliziraha-pozhara-v-zemlishtata-na-tri-sela-kraj-burgas-niama-postradali-hora-snimki-2468682",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393844/991-ratio-ns.jpg"
     },
     {
-      "title": "АПИ налага тежки санкции за забавен ремонт на пътя Мъдрец-Гълъбово",
-      "url": "https://dariknews.bg/regioni/stara-zagora/api-nalaga-tezhki-sankcii-za-zabaven-remont-na-pytia-mydrec-gylybovo-2468666",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51126/51126271/991-ratio-pyt-v-remont.jpg"
-    },
-    {
-      "title": "Четирима номинирани се борят за оставането си в “Игри на волята” тази вечер",
-      "url": "https://dariknews.bg/novini/liubopitno/chetirima-nominirani-se-boriat-za-ostavaneto-si-v-igri-na-voliata-tazi-vecher-2468664",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393836/991-ratio-igri-na-voliata.jpg"
+      "title": "Янтра Габрово сложи край на лошата си серия с успех над Вихрен 09 Окт | 19:23",
+      "url": "https://dsport.bg/antra-gabrovo-slozi-krai-na-loshata-si-seria-s-uspeh-nad-vihren~241784.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/834647087_1426178492269024_4128119427708839685_n.og.jpg"
     },
     {
       "title": "Официално: Самолетчето отлетя уволнен от Турция 09 Окт | 19:03",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2295051340.og.jpg"
-    },
-    {
-      "title": "Младото острие на Ботев Пловдив ще отсъства за месец 09 Окт | 17:23",
-      "url": "https://dsport.bg/mladoto-ostrie-na-botev-plovdiv-ste-otsastva-za-mesec~241774.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1028279.og.jpg"
     }
   ]
 }
