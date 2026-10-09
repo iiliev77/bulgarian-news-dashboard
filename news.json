@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-09T05:28:36.379654+00:00",
+  "updated": "2026-10-09T05:45:34.141611+00:00",
   "articles": [
+    {
+      "title": "Река Дунав е с критично ниски нива, спадът продължава",
+      "url": "https://dariknews.bg/novini/bylgariia/reka-dunav-e-s-kritichno-niski-niva-spadyt-prodylzhava-2468594",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51367/51367263/991-ratio-reka-dunav-nivo.jpg"
+    },
+    {
+      "title": "Посред бял ден и пред очите на деца: Жесток побой в столичен парк (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/sofiia/posred-bial-den-i-pred-ochite-na-deca-zhestok-poboj-v-stolichen-park-video-2468595",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "ЦИК показва как се гласува машинно на метростанция „НДК“",
       "url": "https://dariknews.bg/novini/bylgariia/cik-pokazva-kak-se-glasuva-mashinno-na-metrostanciia-ndk-2468593",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393577/991-ratio-radev.jpg"
     },
     {
-      "title": "Предлагат наднорменото тегло и затлъстяването при децата да станат диспансерна диагноза",
-      "url": "https://dariknews.bg/novini/obshtestvo/predlagat-nadnormenoto-teglo-i-zatlystiavaneto-pri-decata-da-stanat-dispanserna-diagnoza-2468578",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48015/48015724/991-ratio-zatlystiavane.jpg"
-    },
-    {
-      "title": "Президентът: Разделението в КСНС беше само по една точка – как да приключи войната в Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-razdelenieto-v-ksns-beshe-samo-po-edna-tochka-kak-da-prikliuchi-vojnata-v-ukrajna-2468579",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "ЛеБрон дебютира за Филаделфия с 10 точки, но 76ърс загуби от Бруклин (ВИДЕО) 09 Окт | 08:23",
+      "url": "https://dsport.bg/lebron-debutira-za-filadelfia-s-10-tochki-no-76ars-zagubi-ot-bruklin-video~241731.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299301401.og.jpg"
     },
     {
       "title": "ЛеБрон Джеймс ходи на тренировки с хеликоптер за 12 000 долара – и не плаща сметката 09 Окт | 08:17",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2294374716.og.jpg"
-    },
-    {
-      "title": "Талант на Арсенал с тройно влизане в Гинес още преди да навърши 17 08 Окт | 21:34",
-      "url": "https://dsport.bg/talant-na-arsenal-s-troino-vlizane-v-gines-oste-predi-da-navarshi-17~241720.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295558796.og.jpg"
     }
   ]
 }
