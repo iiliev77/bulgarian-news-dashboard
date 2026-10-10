@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T16:12:33.758417+00:00",
+  "updated": "2026-10-10T16:27:56.459201+00:00",
   "articles": [
+    {
+      "title": "„Лукойл Нефтохим Бургас“: Няма риск от недостиг на дизел, докато рафинерията работи",
+      "url": "https://dariknews.bg/novini/bylgariia/lukojl-neftohim-burgas-niama-risk-ot-nedostig-na-dizel-dokato-rafineriiata-raboti-2468722",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51259/51259291/991-ratio-lukojl.jpg"
+    },
     {
       "title": "МВнР с предупреждение за българите в САЩ заради тропическата буря „Рейчъл“",
       "url": "https://dariknews.bg/novini/sviat/mvnr-s-preduprezhdenie-za-bylgarite-v-sasht-zaradi-tropicheskata-buria-rejchyl-2468721",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392881/991-ratio-maraton-sofiia.jpg"
     },
     {
-      "title": "Здравното министерство: Всеки шести българин живее с психично разстройство",
-      "url": "https://dariknews.bg/novini/bylgariia/zdravnoto-ministerstvo-vseki-shesti-bylgarin-zhivee-s-psihichno-razstrojstvo-2468703",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50242/50242813/991-ratio-depresiia.jpg"
+      "title": "Атлетико Мадрид пречупи 10 баски с голове на новите 10 Окт | 19:18",
+      "url": "https://dsport.bg/atletiko-madrid-prechupi-10-baski-s-golove-na-novite~241878.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299538686.og.jpg"
+    },
+    {
+      "title": "БФС за скандално проявил се юноша: Ще бъдат взети най-крути мерки! 10 Окт | 19:18",
+      "url": "https://dsport.bg/bfs-za-skandalno-proavil-se-unosha-ste-badat-vzeti-nai-kruti-merki~241877.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/529741-1-1-2-1~1.og.jpg"
     },
     {
       "title": "ЦСКА: Утре отново сме в Бистрица, готови да продължим серията (ВИДЕО) 10 Окт | 19:06",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/844839621_1073787045474261_3487613977603703233_n.og.jpg"
-    },
-    {
-      "title": "Байер Леверкузен надстреля Майнц в луд мач, Елверсберг на Лукас Петков загуби 10 Окт | 18:28",
-      "url": "https://dsport.bg/bayer-leverkusen-pobedi-maints-golov-trilar~241869.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299526061.og.jpg"
-    },
-    {
-      "title": "Пирин най-сетне взе точка във Втора лига, Марек удари Берое в зрелище 10 Окт | 18:13",
-      "url": "https://dsport.bg/pirin-nai-setne-vze-tochka-vav-vtora-liga-marek-udari-beroe-v-zreliste~241866.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/842421947_1985930762074214_8153222595703929789_n.og.jpg"
     }
   ]
 }
