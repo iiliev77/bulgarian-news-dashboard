@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T10:45:37.511507+00:00",
+  "updated": "2026-10-10T10:56:50.521370+00:00",
   "articles": [
+    {
+      "title": "Френска военна техника преминава през страната за учение",
+      "url": "https://dariknews.bg/novini/bylgariia/frenska-voenna-tehnika-preminava-prez-stranata-za-uchenie-2468712",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49584/49584242/991-ratio-voenna-tehnika.jpg"
+    },
     {
       "title": "Екшън и зрелищни изпитания в звездната надпревара в “Игри на волята” тази вечер",
       "url": "https://dariknews.bg/novini/liubopitno/ekshyn-i-zrelishtni-izpitaniia-v-zvezdnata-nadprevara-v-igri-na-voliata-tazi-vecher-2468711",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387340/991-ratio-50-evro.jpg"
     },
     {
-      "title": "Гръцките власти хванаха наркотици, разпределени в пакети със снимки на Тръмп, Пабло Ескобар и Нетаняху",
-      "url": "https://dariknews.bg/novini/sviat/gryckite-vlasti-hvanaha-narkotici-razpredeleni-v-paketi-sys-snimki-na-trymp-pablo-eskobar-i-netaniahu-2468698",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51304/51304912/991-ratio-kokain-narkotici.jpg"
+      "title": "На живо: Ботев Враца - Спартак Варна (Състави) 10 Окт | 13:54",
+      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-10t135409.999.og.png"
     },
     {
       "title": "$200 милиона не са достатъчни 10 Окт | 13:36",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2292192474.og.jpg"
-    },
-    {
-      "title": "Арсен Венгер може да се изправи срещу Джани Инфантино в битката за президентския пост на ФИФА 10 Окт | 11:50",
-      "url": "https://dsport.bg/arsen-venger-moze-da-se-izpravi-srestu-dzani-infantino-v-bitkata-za-prezidentskia-post-na-fifa~241826.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1402503863-1-1~1.og.jpg"
     }
   ]
 }
