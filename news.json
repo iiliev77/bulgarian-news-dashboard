@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T18:27:35.119614+00:00",
+  "updated": "2026-10-10T18:46:06.160197+00:00",
   "articles": [
     {
       "title": "Раду и Пелипенко надвиха Рълев и Иванина във впечатляваща звездна битка на Арената в „Игри на волята“",
@@ -37,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388325/991-ratio-katastrofa.jpg"
     },
     {
-      "title": "Челен сблъсък край Съдиево взе две жертви, пътят за Айтос е затворен",
-      "url": "https://dariknews.bg/novini/chelen-sblysyk-kraj-sydievo-vze-dve-zhertvi-pytiat-za-ajtos-e-zatvoren-2468719",
+      "title": "Двама души загинаха при челен сблъсък край Айтос",
+      "url": "https://dariknews.bg/novini/dvama-dushi-zaginaha-pri-chelen-sblysyk-kraj-ajtos-2468719",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51394/51394331/991-ratio-katastrofa.jpg"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
+      "title": "Новите от Висшата лига вдъхновиха Барса да продължи наказателната акция 10 Окт | 21:31",
+      "url": "https://dsport.bg/novite-ot-visshata-liga-vdahnoviha-barsa-da-prodalzi-nakazatelnata-akcia~241888.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299553116.og.jpg"
+    },
+    {
+      "title": "Късна развръзка на „Олд Трафорд“: Манчестър Юнайтед изпусна Тотнъм с човек повече 10 Окт | 21:27",
+      "url": "https://dsport.bg/totnam-na-danoto-manchestar-unaited-go-zakotvi-s-pobeda-v-nerven-mach~241886.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299551992.og.jpg"
+    },
+    {
       "title": "„Биковете“ стъпкаха безжалостно „орлите“ в Източна Германия 10 Окт | 21:24",
       "url": "https://dsport.bg/bikovete-stapkaha-bezzalostno-orlite-v-iztochna-germania~241887.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/10.10-4~1.og.jpg"
-    },
-    {
-      "title": "Душан Косич: Искаме да оцелеем 10 Окт | 19:47",
-      "url": "https://dsport.bg/dushan-kosich-iskame-da-oceleem~241879.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038526.og.jpg"
-    },
-    {
-      "title": "„Железничарското“ дерби остана без победител 10 Окт | 19:29",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-sofia-lokomotiv-plovdiv-sastavi~241853.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/ak900457.og.jpg"
     }
   ]
 }
