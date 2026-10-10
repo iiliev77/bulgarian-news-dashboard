@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:20:28.229031+00:00",
+  "updated": "2026-10-10T17:34:06.337496+00:00",
   "articles": [
     {
       "title": "Ново нападение с нож в училище във Варшава, трима души са ранени",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394113/991-ratio-matej-kyrkbrajt.jpg"
     },
     {
+      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 20:33",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038562.og.jpg"
+    },
+    {
+      "title": "Любо Пенев недоволства за продълженията: Минимум 12-13 минути по-малко играхме (ВИДЕО) 10 Окт | 20:31",
+      "url": "https://dsport.bg/lubo-penev-nedovolstva-za-prodalzeniata-minimum-12-13-minuti-po-malko-igrahme-video~241882.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/ak900396~1.og.jpg"
+    },
+    {
       "title": "Черноморец вилня в Добрич - изравни лидерите и закотви Добрдужа в дъното 10 Окт | 20:14",
       "url": "https://dsport.bg/chernomorec-vilna-v-dobrich-izravni-liderite-i-zakotvi-dobrduza-v-danoto~241881.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/839181192_28788602737417171_3975089640893584412_n.og.jfif"
-    },
-    {
-      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 20:10",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038562.og.jpg"
     },
     {
       "title": "Българските клубове и феновете на Ботев Пд отдадоха почит на Илиян Филипов на „Колежа“ 10 Окт | 19:48",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299534487.og.jpg"
-    },
-    {
-      "title": "Шокиращи сцени на юношески мач: вратар ритна съдия в главата (ВИДЕО) 10 Окт | 18:56",
-      "url": "https://dsport.bg/shokirasti-sceni-na-unosheski-mach-vratar-ritna-sadia-v-glavata-video~241874.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-1338-.og.png"
     }
   ]
 }
