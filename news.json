@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T17:05:57.417872+00:00",
+  "updated": "2026-10-10T17:20:28.229031+00:00",
   "articles": [
+    {
+      "title": "Ново нападение с нож в училище във Варшава, трима души са ранени",
+      "url": "https://dariknews.bg/novini/sviat/novo-napadenie-s-nozh-v-uchilishte-vyv-varshava-trima-dushi-sa-raneni-2468723",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51110/51110240/991-ratio-nozh.jpg"
+    },
     {
       "title": "„Лукойл Нефтохим Бургас“: Няма риск от недостиг на дизел, докато рафинерията работи",
       "url": "https://dariknews.bg/novini/bylgariia/lukojl-neftohim-burgas-niama-risk-ot-nedostig-na-dizel-dokato-rafineriiata-raboti-2468722",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394113/991-ratio-matej-kyrkbrajt.jpg"
     },
     {
-      "title": "Важно за софиянци: Промени в градския транспорт заради Маратон София 2026",
-      "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392881/991-ratio-maraton-sofiia.jpg"
+      "title": "Черноморец вилня в Добрич - изравни лидерите и закотви Добрдужа в дъното 10 Окт | 20:14",
+      "url": "https://dsport.bg/chernomorec-vilna-v-dobrich-izravni-liderite-i-zakotvi-dobrduza-v-danoto~241881.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/839181192_28788602737417171_3975089640893584412_n.og.jfif"
+    },
+    {
+      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 20:10",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038562.og.jpg"
     },
     {
       "title": "Българските клубове и феновете на Ботев Пд отдадоха почит на Илиян Филипов на „Колежа“ 10 Окт | 19:48",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot-1338-.og.png"
-    },
-    {
-      "title": "На живо: Ботев Пловдив – Славия (Състави) 10 Окт | 18:53",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-13-.og.jpg"
-    },
-    {
-      "title": "Славия поднесе венец в памет на Илиян Филипов 10 Окт | 18:41",
-      "url": "https://dsport.bg/slavia-podnese-venec-v-pamet-na-ilian-filipov~241872.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/842367029_1587620360073290_3363283941027377897_n.og.jpg"
     }
   ]
 }
