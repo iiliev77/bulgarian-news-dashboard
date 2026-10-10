@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T05:36:10.992163+00:00",
+  "updated": "2026-10-10T05:49:59.600232+00:00",
   "articles": [
+    {
+      "title": "Студентът Матей Къркбрайт отпадна от “Игри на волята” (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/studentyt-matej-kyrkbrajt-otpadna-ot-igri-na-voliata-snimki-2468704",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394113/991-ratio-matej-kyrkbrajt.jpg"
+    },
     {
       "title": "Важно за софиянци: Промени в градския транспорт заради Маратон София 2026",
       "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393909/991-ratio-emil-stoianov.jpg"
     },
     {
-      "title": "След жестоката катастрофа с 4 жертви: Община Плевен изнесе данни за пътя",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-zhestokata-katastrofa-s-4-zhertvi-obshtina-pleven-iznese-danni-za-pytia-2468687",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393657/991-ratio-tezhka-katastrofa-kraj-pleven.jpg"
+      "title": "Делото „Марадона“: прокуратурата поиска 12 години затвор за личния лекар на футболната легенда 10 Окт | 08:35",
+      "url": "https://dsport.bg/deloto-maradona-prokuraturata-poiska-12-godini-zatvor-za-lichnia-lekar-na-futbolnata-legenda~241807.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-455154666~1.og.jpg"
+    },
+    {
+      "title": "Дейвид Бекъм се завръща в Netflix с ново шоу след феноменалния успех на първия му сериал 10 Окт | 08:25",
+      "url": "https://dsport.bg/deivid-bekam-se-zavrasta-v-netflix-s-novo-shou-sled-fenomenalnia-uspeh-na-parvia-mu-serial~241806.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2198246747-2.og.jpg"
     },
     {
       "title": "Краят на една ера? Манчестър Сити е изправен пред мрачно бъдеще, ако собствениците от ОАЕ бъдат прогонени 10 Окт | 08:14",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2252868431~1.og.jpg"
-    },
-    {
-      "title": "Челси и Байерн следят ситуацията около бранител на Барселона 09 Окт | 22:30",
-      "url": "https://dsport.bg/chelsi-i-baiern-sledat-situaciata-okolo-branitel-na-barselona~241796.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2212147540-1~2.og.jpg"
-    },
-    {
-      "title": "Италианският футбол ще има нов президент в средата на декември 09 Окт | 22:17",
-      "url": "https://dsport.bg/italianskiat-futbol-ste-ima-nov-prezident-v-sredata-na-dekemvri~241794.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2265144794~1.og.jpg"
     }
   ]
 }
