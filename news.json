@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T14:45:53.398667+00:00",
+  "updated": "2026-10-10T14:56:19.544597+00:00",
   "articles": [
+    {
+      "title": "Челен сблъсък край Съдиево взе две жертви, пътят за Айтос е затворен",
+      "url": "https://dariknews.bg/novini/chelen-sblysyk-kraj-sydievo-vze-dve-zhertvi-pytiat-za-ajtos-e-zatvoren-2468719",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394331/991-ratio-katastrofa.jpg"
+    },
     {
       "title": "Борисов: Срещата с Буданов е била толкова конспиративна, че службите не знаят за нея",
       "url": "https://dariknews.bg/novini/bylgariia/borisov-sreshtata-s-budanov-e-bila-tolkova-konspirativna-che-sluzhbite-ne-znaiat-za-neia-2468718",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Орехите крият истинско богатство: Ето защо е добре да ги хапваме по-често",
-      "url": "https://dariknews.bg/novini/liubopitno/orehite-kriiat-istinsko-bogatstvo-eto-zashto-e-dobre-da-gi-hapvame-po-chesto-2468277",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47714/47714464/991-ratio-orehi.jpg"
+      "title": "ЦСКА II разузна Несебър за първия тим и оглави Mr Bit Втора лига 10 Окт | 17:53",
+      "url": "https://dsport.bg/cska-ii-razuzna-nesebar-za-parvia-tim-i-oglavi-mr-bit-vtora-liga~241865.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1037578.og.jpg"
     },
     {
       "title": "Верстапен тръгва пред Ферари в Сингапур 10 Окт | 17:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038453.og.jpg"
-    },
-    {
-      "title": "Кардинале осигури 50 млн. евро за Милан и готви още инвестиции 10 Окт | 16:44",
-      "url": "https://dsport.bg/kardinale-osiguri-50-mln-evro-za-milan-i-gotvi-oste-investicii~241855.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2289008655~1.og.jpg"
     }
   ]
 }
