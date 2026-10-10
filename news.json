@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:15:14.762675+00:00",
+  "updated": "2026-10-10T14:30:06.169944+00:00",
   "articles": [
     {
       "title": "Борисов: Срещата с Буданов е била толкова конспиративна, че службите не знаят за нея",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/47714/47714464/991-ratio-orehi.jpg"
     },
     {
+      "title": "Ново попълнение: Черно море заздрави защитата за Левски 10 Окт | 17:25",
+      "url": "https://dsport.bg/novo-popalnenie-cherno-more-zazdravi-zastitata-za-levski~241861.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/842555004_1786565922464447_3266893490052144652_n.og.jpg"
+    },
+    {
+      "title": "Тодор Симов: Спартак Варна ни излъга с една контраатака 10 Окт | 17:20",
+      "url": "https://dsport.bg/todor-simov-spartak-varna-ni-izlaga-s-edna-kontraataka~241860.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038406~1.og.jpg"
+    },
+    {
       "title": "Васил Петров: Не бяхме по-добрият отбор, победата е най-хубавото 10 Окт | 17:08",
       "url": "https://dsport.bg/vasil-petrov-ne-bahme-po-dobriat-otbor-pobedata-e-nai-hubavoto~241859.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2294549918~1.og.jpg"
-    },
-    {
-      "title": "Таран наказа бивши работодатели и се зарадва, защото записа рекорд 10 Окт | 15:57",
-      "url": "https://dsport.bg/taran-nakaza-bivshi-rabotodateli-i-se-zaradva-zastoto-zapisa-rekord~241852.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299432315.og.jpg"
-    },
-    {
-      "title": "Протест след 147 дни извън дома: хартиени самолетчета прекратиха мач от Ла Лига (ВИДЕО) 10 Окт | 15:50",
-      "url": "https://dsport.bg/protest-sled-147-dni-izvan-doma-hartieni-samoletcheta-prekasnaha-mach-ot-la-liga-video~241850.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299510320.og.jpg"
     }
   ]
 }
