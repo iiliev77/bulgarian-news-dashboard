@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:52:02.359595+00:00",
+  "updated": "2026-10-10T14:00:47.172999+00:00",
   "articles": [
     {
       "title": "Борисов: Срещата с Буданов е била толкова конспиративна, че службите не знаят за нея",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/47714/47714464/991-ratio-orehi.jpg"
     },
     {
+      "title": "Хърватска легенда поема България? Вече е разговарял с БФС в София 10 Окт | 17:00",
+      "url": "https://dsport.bg/harvatska-legenda-poema-balgaria-veche-e-razgovaral-s-bfs-v-sofia~241857.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2234354335.og.jpg"
+    },
+    {
+      "title": "Спартак Варна не надигра, но победи Ботев Враца 10 Окт | 16:53",
+      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038453.og.jpg"
+    },
+    {
       "title": "Кардинале осигури 50 млн. евро за Милан и готви още инвестиции 10 Окт | 16:44",
       "url": "https://dsport.bg/kardinale-osiguri-50-mln-evro-za-milan-i-gotvi-oste-investicii~241855.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2289008655~1.og.jpg"
-    },
-    {
-      "title": "На живо: Спартак Варна води във Враца 10 Окт | 16:36",
-      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038453.og.jpg"
     },
     {
       "title": "Груев гледа от пейката как Арсенал обръща неговия Лийдс 10 Окт | 16:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/838540-1-1~1.og.jpg"
-    },
-    {
-      "title": "Португалската федерация започна дисциплинарно производство срещу Роналдо 10 Окт | 15:17",
-      "url": "https://dsport.bg/portugalskata-federacia-zapochna-disciplinarno-proizvodstvo-srestu-ronaldo~241847.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297302113~1.og.jpg"
     }
   ]
 }
