@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:56:21.073862+00:00",
+  "updated": "2026-10-10T13:08:20.411327+00:00",
   "articles": [
     {
       "title": "ДАНС залови активисти на крайнодясната групировка The Base",
@@ -142,7 +142,21 @@
       "image": "https://m.netinfo.bg/media/images/50130/50130096/991-ratio-bakterii.jpg"
     },
     {
-      "title": "Протест след 147 дни извън дома: хартиени самолетчета прекъснаха мач от Ла Лига (ВИДЕО) 10 Окт | 15:50",
+      "title": "Рома остана без вратаря си поне за месец 10 Окт | 16:01",
+      "url": "https://dsport.bg/roma-ostana-bez-vratara-si-pone-za-mesec~241851.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2294549918~1.og.jpg"
+    },
+    {
+      "title": "Таран наказа бивши работодатели и се зарадва, защото записа рекорд 10 Окт | 15:57",
+      "url": "https://dsport.bg/taran-nakaza-bivshi-rabotodateli-i-se-zaradva-zastoto-zapisa-rekord~241852.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299432315.og.jpg"
+    },
+    {
+      "title": "Протест след 147 дни извън дома: хартиени самолетчета прекратиха мач от Ла Лига (ВИДЕО) 10 Окт | 15:50",
       "url": "https://dsport.bg/protest-sled-147-dni-izvan-doma-hartieni-samoletcheta-prekasnaha-mach-ot-la-liga-video~241850.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/844977225_1659138808906407_4483434789629575613_n.og.jpg"
-    },
-    {
-      "title": "Ново покритие на „Бернабеу“: Реал Мадрид сложи край на проблемите с тревата 10 Окт | 14:29",
-      "url": "https://dsport.bg/novo-pokritie-na-bernabeu-real-madrid-slozi-krai-na-problemite-s-trevata~241841.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2272423914.og.jpg"
-    },
-    {
-      "title": "НЕК вдига каре за мача с Левски 10 Окт | 14:20",
-      "url": "https://dsport.bg/nek-vdiga-kare-za-macha-s-levski~241840.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295193060.og.jpg"
     }
   ]
 }
