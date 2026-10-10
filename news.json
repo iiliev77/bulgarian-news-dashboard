@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:39:07.806120+00:00",
+  "updated": "2026-10-10T13:52:02.359595+00:00",
   "articles": [
     {
       "title": "Борисов: Срещата с Буданов е била толкова конспиративна, че службите не знаят за нея",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/47714/47714464/991-ratio-orehi.jpg"
     },
     {
-      "title": "На живо: Спартак Варна поведе във Враца 10 Окт | 16:36",
+      "title": "Кардинале осигури 50 млн. евро за Милан и готви още инвестиции 10 Окт | 16:44",
+      "url": "https://dsport.bg/kardinale-osiguri-50-mln-evro-za-milan-i-gotvi-oste-investicii~241855.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2289008655~1.og.jpg"
+    },
+    {
+      "title": "На живо: Спартак Варна води във Враца 10 Окт | 16:36",
       "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1038400.og.jpg"
+      "image": "https://dsport.bg/media/385/1038453.og.jpg"
     },
     {
       "title": "Груев гледа от пейката как Арсенал обръща неговия Лийдс 10 Окт | 16:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297302113~1.og.jpg"
-    },
-    {
-      "title": "Разгром! Девойките на България вкараха 10 на Армения 10 Окт | 15:06",
-      "url": "https://dsport.bg/razgrom-devoikite-na-balgaria-vkaraha-10-na-armenia~241845.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038299.og.jpg"
     }
   ]
 }
