@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:59:23.086747+00:00",
+  "updated": "2026-10-10T16:12:33.758417+00:00",
   "articles": [
     {
       "title": "МВнР с предупреждение за българите в САЩ заради тропическата буря „Рейчъл“",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50242/50242813/991-ratio-depresiia.jpg"
     },
     {
+      "title": "ЦСКА: Утре отново сме в Бистрица, готови да продължим серията (ВИДЕО) 10 Окт | 19:06",
+      "url": "https://dsport.bg/cska-utre-otnovo-sme-v-bistrica-gotovi-da-prodalzim-seriata~241876.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/974103.og.jpg"
+    },
+    {
+      "title": "На живо: Локомотив София изравни на Локомотив Пловдив 10 Окт | 19:03",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-sofia-lokomotiv-plovdiv-sastavi~241853.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/ak900457.og.jpg"
+    },
+    {
       "title": "Челси схруска „черешките“ и ги изплю до зоната на изпадащите 10 Окт | 18:56",
       "url": "https://dsport.bg/chelsi-shruska-chereshkite-i-gi-izplu-do-zonata-na-izpadastite~241875.html",
       "source": "Dsport",
@@ -177,13 +191,6 @@
       "image": "https://dsport.bg/media/385/gettyimages-2299530593.og.jpg"
     },
     {
-      "title": "На живо: Локомотив София изравни на Локомотив Пловдив 10 Окт | 18:38",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-sofia-lokomotiv-plovdiv-sastavi~241853.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/ak900457.og.jpg"
-    },
-    {
       "title": "0:0 на почивката, 5:6 в края! Невиждан голов спектакъл счупи исторически рекорд в Швеция 10 Окт | 18:30",
       "url": "https://dsport.bg/0-0-na-pochivkata-5-6-v-kraa-nevizdan-golov-spektakal-schupi-istoricheski-rekord-v-shvecia~241870.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/842421947_1985930762074214_8153222595703929789_n.og.jpg"
-    },
-    {
-      "title": "Хайдук обърна Динамо Загреб в голямото дерби и излезе начело в Хърватия 10 Окт | 18:11",
-      "url": "https://dsport.bg/haiduk-obarna-dinamo-zagreb-v-golamoto-derbi-i-izleze-nachelo-v-harvatia~241868.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/842555002_1848073953291246_5463416802145306478_n.og.jpg"
     }
   ]
 }
