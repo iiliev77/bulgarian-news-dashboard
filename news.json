@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T06:42:55.319920+00:00",
+  "updated": "2026-10-10T06:59:29.596778+00:00",
   "articles": [
+    {
+      "title": "„Ню Йорк пост“: Тод Боули иска да купи международните активи на „Лукойл“, включително рафинерията в България",
+      "url": "https://dariknews.bg/novini/sviat/niu-iork-post-tod-bouli-iska-da-kupi-mezhdunarodnite-aktivi-na-lukojl-vkliuchitelno-rafineriiata-v-bylgariia-2468706",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51371/51371715/991-ratio-lukojl.jpg"
+    },
     {
       "title": "Политически реакции у нас след сделката за доставки на дизел между САЩ и Русия",
       "url": "https://dariknews.bg/novini/bylgariia/politicheski-reakcii-u-nas-sled-sdelkata-za-dostavki-na-dizel-mezhdu-sasht-i-rusiia-2468705",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51239/51239117/991-ratio-marko-rubio.jpg"
     },
     {
-      "title": "След убийството на жена в Пловдив: Задържан е 14-годишният ѝ син",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-ubijstvoto-na-zhena-v-plovdiv-zadyrzhan-e-14-godishniiat-sin-2468689",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Грандиозен проект за стадион за близо 500 млн. евро и влакче на ужасите 10 Окт | 09:36",
+      "url": "https://dsport.bg/grandiozen-proekt-za-stadion-za-blizo-500-mln-evro-i-vlakche-na-uzasite~241813.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/sions.og.jpg"
     },
     {
       "title": "Двукратен MVP на НБА стана акционер в Атлетико Мадрид 10 Окт | 09:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2298444827.og.jpg"
-    },
-    {
-      "title": "Ланс се завърна към победите с драматичен успех над Лион 09 Окт | 23:58",
-      "url": "https://dsport.bg/lans-se-zavarna-kam-pobedite-s-dramatichen-uspeh-nad-lion~241803.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/lens.og.jpg"
     }
   ]
 }
