@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T18:09:39.898440+00:00",
+  "updated": "2026-10-10T18:27:35.119614+00:00",
   "articles": [
+    {
+      "title": "Раду и Пелипенко надвиха Рълев и Иванина във впечатляваща звездна битка на Арената в „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/radu-i-pelipenko-nadviha-rylev-i-ivanina-vyv-vpechatliavashta-zvezdna-bitka-na-arenata-v-igri-na-voliata-2468724",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394502/991-ratio-i.jpg"
+    },
     {
       "title": "Ново нападение с нож в училище във Варшава, трима души са ранени",
       "url": "https://dariknews.bg/novini/sviat/novo-napadenie-s-nozh-v-uchilishte-vyv-varshava-trima-dushi-sa-raneni-2468723",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
-      "title": "Студентът Матей Къркбрайт отпадна от “Игри на волята” (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/liubopitno/studentyt-matej-kyrkbrajt-otpadna-ot-igri-na-voliata-snimki-2468704",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394113/991-ratio-matej-kyrkbrajt.jpg"
+      "title": "„Биковете“ стъпкаха безжалостно „орлите“ в Източна Германия 10 Окт | 21:24",
+      "url": "https://dsport.bg/bikovete-stapkaha-bezzalostno-orlite-v-iztochna-germania~241887.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299546568.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив поведе на Славия 10 Окт | 21:19",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038579.og.jpg"
     },
     {
       "title": "Черно море приема Левски без петима 10 Окт | 21:04",
@@ -147,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1026649.og.jpg"
-    },
-    {
-      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 21:01",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038562.og.jpg"
     },
     {
       "title": "Интер разкъса Парма за минути 10 Окт | 20:53",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/ak900457.og.jpg"
-    },
-    {
-      "title": "Атлетико Мадрид пречупи 10 баски с голове на новите 10 Окт | 19:18",
-      "url": "https://dsport.bg/atletiko-madrid-prechupi-10-baski-s-golove-na-novite~241878.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299538686.og.jpg"
     }
   ]
 }
