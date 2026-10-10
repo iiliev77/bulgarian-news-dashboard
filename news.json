@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:47:00.041771+00:00",
+  "updated": "2026-10-10T17:57:05.569238+00:00",
   "articles": [
     {
       "title": "Ново нападение с нож в училище във Варшава, трима души са ранени",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394113/991-ratio-matej-kyrkbrajt.jpg"
     },
     {
+      "title": "Интер разкъса Парма за минути 10 Окт | 20:53",
+      "url": "https://dsport.bg/inter-razkasa-parma-za-minuti~241884.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299541470.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 20:51",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038562.og.jpg"
+    },
+    {
       "title": "Лил излезе начело във Франция след минимален успех срещу последния 10 Окт | 20:35",
       "url": "https://dsport.bg/lil-izleze-nachelo-vav-francia-sled-minimalen-uspeh-srestu-poslednia~241883.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/husp9kowmaar1ml.og.jpg"
-    },
-    {
-      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 20:33",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038562.og.jpg"
     },
     {
       "title": "Любо Пенев недоволства за продълженията: Минимум 12-13 минути по-малко играхме (ВИДЕО) 10 Окт | 20:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/529741-1-1-2-1~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА: Утре отново сме в Бистрица, готови да продължим серията (ВИДЕО) 10 Окт | 19:06",
-      "url": "https://dsport.bg/cska-utre-otnovo-sme-v-bistrica-gotovi-da-prodalzim-seriata~241876.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/974103.og.jpg"
     }
   ]
 }
