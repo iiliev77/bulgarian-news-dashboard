@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T09:50:55.464215+00:00",
+  "updated": "2026-10-10T10:00:38.630806+00:00",
   "articles": [
+    {
+      "title": "Протест в Ню Йорк, след като имиграционен агент стреля по мъж",
+      "url": "https://dariknews.bg/novini/sviat/protest-v-niu-iork-sled-kato-imigracionen-agent-strelia-po-myzh-2468708",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394205/991-ratio-protestirashti-se-sybraha-po-ulicite-na-niu-iork-sled-kato.jpg"
+    },
     {
       "title": "14-годишният наскоро заживял с майка си: Нови подробности за убийството в Пловдив",
       "url": "https://dariknews.bg/regioni/plovdiv/14-godishniiat-naskoro-zazhivial-s-majka-si-novi-podrobnosti-za-ubijstvoto-v-plovdiv-2468707",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50916/50916807/991-ratio-tovaren-korab.jpg"
     },
     {
-      "title": "Акция срещу наркотиците в „Драгалевци“: Задържаха двама братя, известни като Гого и Тото",
-      "url": "https://dariknews.bg/novini/bylgariia/akciia-sreshtu-narkoticite-v-dragalevci-zadyrzhaha-dvama-bratia-izvestni-kato-gogo-i-toto-2468691",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51250/51250862/991-ratio-policiia-arest.jpg"
+      "title": "Bloomberg: Манчестър Сити е водил тайни преговори с Висшата лига за по-леко наказание 10 Окт | 12:45",
+      "url": "https://dsport.bg/bloomberg-manchestar-siti-e-vodil-taini-pregovori-s-visshata-liga-za-po-leko-nakazanie~241831.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1875502498.og.jpg"
     },
     {
       "title": "Купата на африканските нации може да се завърне към двугодишен цикъл 10 Окт | 12:31",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2267807377.og.jpg"
-    },
-    {
-      "title": "Как \"Spotify Камп Ноу\" ще се превърне в машина за пари? 10 Окт | 10:56",
-      "url": "https://dsport.bg/kak-spotify-kamp-nou-ste-se-prevarne-v-mashina-za-pari~241821.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/barca124.og.jpg"
     }
   ]
 }
