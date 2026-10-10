@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:14:32.766690+00:00",
+  "updated": "2026-10-10T19:28:59.988035+00:00",
   "articles": [
     {
       "title": "Раду и Пелипенко надвиха Рълев и Иванина във впечатляваща звездна битка на Арената в „Игри на волята“",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/smileys/lightbulb.png"
     },
     {
+      "title": "Станислав Генчев: Този мач имаше огромна тежест, бяхме задължени да победим 10 Окт | 22:23",
+      "url": "https://dsport.bg/stanislav-genchev-tozi-mach-imashe-ogromna-tezest-bahme-zadalzeni-da-pobedim~241890.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1028329.og.jpg"
+    },
+    {
+      "title": "В памет на Илиян Филипов - Ботев Пловдив победи Славия пред пълния „Христо Ботев“ 10 Окт | 22:13",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038588.og.jpg"
+    },
+    {
       "title": "Росен Божинов се завърна за Пиза при победа 10 Окт | 22:01",
       "url": "https://dsport.bg/rosen-bozinov-se-zavarna-pri-pobeda-na-piza~241889.html",
       "source": "Dsport",
@@ -170,13 +184,6 @@
       "image": "https://dsport.bg/media/385/gettyimages-2299546568.og.jpg"
     },
     {
-      "title": "На живо: Ботев Пловдив поведе на Славия 10 Окт | 21:19",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038588.og.jpg"
-    },
-    {
       "title": "Черно море приема Левски без петима 10 Окт | 21:04",
       "url": "https://dsport.bg/cherno-more-priema-levski-bez-petima~241885.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/ak900396~1.og.jpg"
-    },
-    {
-      "title": "Черноморец вилня в Добрич - изравни лидерите и закотви Добрдужа в дъното 10 Окт | 20:14",
-      "url": "https://dsport.bg/chernomorec-vilna-v-dobrich-izravni-liderite-i-zakotvi-dobrduza-v-danoto~241881.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/839181192_28788602737417171_3975089640893584412_n.og.jfif"
     }
   ]
 }
