@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T06:00:30.815493+00:00",
+  "updated": "2026-10-10T06:20:29.374374+00:00",
   "articles": [
     {
       "title": "Студентът Матей Къркбрайт отпадна от “Игри на волята” (СНИМКИ)",
@@ -23,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/50242/50242813/991-ratio-depresiia.jpg"
     },
     {
-      "title": "Русия ще доставя дизел на САЩ, Тръмп обещава спад на цените",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-shte-dostavia-dizel-na-sasht-trymp-obeshtava-spad-na-cenite-2468702",
+      "title": "Дизелът в САЩ поевтиня с 5% след споразумението между Тръмп и Путин",
+      "url": "https://dariknews.bg/novini/sviat/dizelyt-v-sasht-poevtinia-s-5-sled-sporazumenieto-mezhdu-trymp-i-putin-2468702",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393909/991-ratio-emil-stoianov.jpg"
     },
     {
+      "title": "Първият голям тест за Чаби Алонсо в Челси 10 Окт | 08:56",
+      "url": "https://dsport.bg/parviat-golam-test-za-chabi-alonso-v-chelsi~241809.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2292704923.og.jpg"
+    },
+    {
+      "title": "Ефенберг: Роналдо не разбира кога да спре, затова Меси винаги ще бъде над него 10 Окт | 08:44",
+      "url": "https://dsport.bg/efenberg-ronaldo-ne-razbira-koga-da-spre-zatova-mesi-vinagi-ste-bade-nad-nego~241808.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2276618770.og.jpg"
+    },
+    {
       "title": "Делото „Марадона“: прокуратурата поиска 12 години затвор за личния лекар на футболната легенда 10 Окт | 08:35",
       "url": "https://dsport.bg/deloto-maradona-prokuraturata-poiska-12-godini-zatvor-za-lichnia-lekar-na-futbolnata-legenda~241807.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2273058685-1-1.og.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо се завърна към клубните ангажименти с гол 09 Окт | 22:54",
-      "url": "https://dsport.bg/kristiano-ronaldo-se-zavarna-kam-klubnite-angazimenti-s-gol~241799.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298800168.og.jpg"
-    },
-    {
-      "title": "Шави Симонс с неочакван ход по време на възстановяването си 09 Окт | 22:45",
-      "url": "https://dsport.bg/shavi-simons-s-neochakvan-hod-po-vreme-na-vazstanovavaneto-si~241798.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2252868431~1.og.jpg"
     }
   ]
 }
