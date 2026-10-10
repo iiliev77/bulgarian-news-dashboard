@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-10T10:00:38.630806+00:00",
+  "updated": "2026-10-10T10:15:36.242365+00:00",
   "articles": [
+    {
+      "title": "Звездна целувка пред прожекторите: Григор Димитров и Ейса Гонсалес на гала вечер в Лондон (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/zvezdna-celuvka-pred-prozhektorite-grigor-dimitrov-i-ejsa-gonsales-na-gala-vecher-v-london-snimki-2468710",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394210/991-ratio-ejza-gonzales-i-grigor-dimitrov.jpg"
+    },
+    {
+      "title": "Президентът Йотова определи като полезна срещата в София с началника на кабинета на Зеленски",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-iotova-opredeli-kato-polezna-sreshtata-v-sofiia-s-nachalnika-na-kabineta-na-zelenski-2468709",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
+    },
     {
       "title": "Протест в Ню Йорк, след като имиграционен агент стреля по мъж",
       "url": "https://dariknews.bg/novini/sviat/protest-v-niu-iork-sled-kato-imigracionen-agent-strelia-po-myzh-2468708",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51352/51352873/991-ratio-trymp.jpg"
     },
     {
-      "title": "Силно земетресение разтърси Панама",
-      "url": "https://dariknews.bg/novini/sviat/silno-zemetresenie-raztyrsi-panama-2468695",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
-    },
-    {
-      "title": "Русия нанесе удари по три товарни кораба в и около три украински пристанища на Черно море",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-nanese-udari-po-tri-tovarni-koraba-v-i-okolo-tri-ukrainski-pristanishta-na-cherno-more-2468693",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50916/50916807/991-ratio-tovaren-korab.jpg"
+      "title": "Кралят и бунтарят 10 Окт | 12:57",
+      "url": "https://dsport.bg/kralat-i-buntarat~241832.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/argtg.og.png"
     },
     {
       "title": "Bloomberg: Манчестър Сити е водил тайни преговори с Висшата лига за по-леко наказание 10 Окт | 12:45",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2198574654~1.og.jpg"
-    },
-    {
-      "title": "Клуб в Германия с необичайна забрана 10 Окт | 11:05",
-      "url": "https://dsport.bg/klub-v-germania-s-neobichaina-zabrana~241822.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2267807377.og.jpg"
     }
   ]
 }
