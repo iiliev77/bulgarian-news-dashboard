@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T20:01:24.073951+00:00",
+  "updated": "2026-10-10T20:17:14.583072+00:00",
   "articles": [
     {
       "title": "Тръмп: Време е Украйна да има нов президент",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51371/51371715/991-ratio-lukojl.jpg"
     },
     {
+      "title": "Пламен Андреев с ключов принос за равенство с Ференцварош 10 Окт | 23:14",
+      "url": "https://dsport.bg/plamen-andreev-s-kluchov-prinos-za-ravenstvo-s-ferencvarosh~241893.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/dsc09794-2-1.og.jpg"
+    },
+    {
       "title": "Шампионът Балкан започна с разгром, ЦСКА вкара 100 и се завърна с успех 10 Окт | 22:47",
       "url": "https://dsport.bg/shampionat-balkan-zapochna-s-razgrom-cska-vkara-100-i-se-zavarna-s-uspeh~241892.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1026649.og.jpg"
-    },
-    {
-      "title": "Интер разкъса Парма за минути 10 Окт | 20:53",
-      "url": "https://dsport.bg/inter-razkasa-parma-za-minuti~241884.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299541470.og.jpg"
     }
   ]
 }
