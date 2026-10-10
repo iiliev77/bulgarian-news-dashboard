@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T11:22:33.632368+00:00",
+  "updated": "2026-10-10T11:36:14.245180+00:00",
   "articles": [
+    {
+      "title": "Турция забрани социалните мрежи за деца под 15 години",
+      "url": "https://dariknews.bg/novini/sviat/turciia-zabrani-socialnite-mrezhi-za-deca-pod-15-godini-2468714",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50852/50852882/991-ratio-dete-smartfon-telefon.jpg"
+    },
     {
       "title": "Започва ремонтът на Дюлинския проход: 42 млн. евро за 31 км път",
       "url": "https://dariknews.bg/regioni/burgas/zapochva-remontyt-na-diulinskiia-prohod-42-mln.-evro-za-31-km-pyt-2468713",
@@ -135,15 +142,15 @@
       "image": "https://m.netinfo.bg/media/images/51278/51278834/991-ratio-samolet.jpg"
     },
     {
-      "title": "Слънчев и топъл есенен уикенд, от понеделник времето рязко се обръща",
-      "url": "https://dariknews.bg/novini/bylgariia/slynchev-i-topyl-esenen-uikend-ot-ponedelnik-vremeto-riazko-se-obryshta-2468694",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Ново покритие на „Бернабеу“: Реал Мадрид сложи край на проблемите с тревата 10 Окт | 14:29",
+      "url": "https://dsport.bg/novo-pokritie-na-bernabeu-real-madrid-slozi-krai-na-problemite-s-trevata~241841.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2272423914.og.jpg"
     },
     {
-      "title": "НЕК вдига квартет за мача с Левски 10 Окт | 14:20",
-      "url": "https://dsport.bg/nek-vdiga-kvartet-za-macha-s-levski~241840.html",
+      "title": "НЕК вдига каре за мача с Левски 10 Окт | 14:20",
+      "url": "https://dsport.bg/nek-vdiga-kare-za-macha-s-levski~241840.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2295193060.og.jpg"
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1875502498.og.jpg"
-    },
-    {
-      "title": "Купата на африканските нации може да се завърне към двугодишен цикъл 10 Окт | 12:31",
-      "url": "https://dsport.bg/kupata-na-afrikanskite-nacii-moze-da-se-zavarne-kam-dvugodishen-cikal~241830.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/adgf.og.jpg"
     }
   ]
 }
