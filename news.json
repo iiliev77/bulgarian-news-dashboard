@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T10:56:50.521370+00:00",
+  "updated": "2026-10-10T11:07:22.640076+00:00",
   "articles": [
+    {
+      "title": "Започва ремонтът на Дюлинския проход: 42 млн. евро за 31 км път",
+      "url": "https://dariknews.bg/regioni/burgas/zapochva-remontyt-na-diulinskiia-prohod-42-mln.-evro-za-31-km-pyt-2468713",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394242/991-ratio-ivan-shishkov.jpg"
+    },
     {
       "title": "Френска военна техника преминава през страната за учение",
       "url": "https://dariknews.bg/novini/bylgariia/frenska-voenna-tehnika-preminava-prez-stranata-za-uchenie-2468712",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Над 400 хиляди души получават еднократна помощ от 50 евро заради скъпите горива",
-      "url": "https://dariknews.bg/novini/bylgariia/nad-400-hiliadi-dushi-poluchavat-ednokratna-pomosht-ot-50-evro-zaradi-skypite-goriva-2468692",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387340/991-ratio-50-evro.jpg"
+      "title": "Коул Палмър остава в Челси с нов договор до 203... 10 Окт | 13:56",
+      "url": "https://dsport.bg/koul-palmar-ostava-v-chelsi-s-nov-dogovor-do-203~241837.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2292702331.og.jpg"
     },
     {
       "title": "На живо: Ботев Враца - Спартак Варна (Състави) 10 Окт | 13:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/wfgr.og.jpg"
-    },
-    {
-      "title": "Тотнъм бяга в Марбея, за да спасява сезона 10 Окт | 11:57",
-      "url": "https://dsport.bg/totnam-baga-v-marbea-za-da-spasava-sezona~241827.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2292192474.og.jpg"
     }
   ]
 }
