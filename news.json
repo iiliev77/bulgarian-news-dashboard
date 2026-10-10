@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:59:23.194394+00:00",
+  "updated": "2026-10-10T12:16:27.012934+00:00",
   "articles": [
     {
       "title": "Кремъл: Путин е приел с разбиране предложения на Тръмп за деескалация на конфликта в Украйна",
@@ -72,8 +72,8 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "„Ню Йорк пост“: Тод Боули иска да купи международните активи на „Лукойл“, включително рафинерията в България",
-      "url": "https://dariknews.bg/novini/sviat/niu-iork-post-tod-bouli-iska-da-kupi-mezhdunarodnite-aktivi-na-lukojl-vkliuchitelno-rafineriiata-v-bylgariia-2468706",
+      "title": "„Ню Йорк пост“: Тод Боули иска да купи рафинериите на „Лукойл“ в България, Румъния и Нидерландия",
+      "url": "https://dariknews.bg/novini/sviat/niu-iork-post-tod-bouli-iska-da-kupi-rafineriite-na-lukojl-v-bylgariia-rumyniia-i-niderlandiia-2468706",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51371/51371715/991-ratio-lukojl.jpg"
@@ -142,6 +142,20 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Разгром! Девойките на България вкараха 10 на Армения 10 Окт | 15:06",
+      "url": "https://dsport.bg/razgrom-devoikite-na-balgaria-vkaraha-10-na-armenia~241845.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038299.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Враца - Спартак Варна 10 Окт | 15:05",
+      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038377.og.jpg"
+    },
+    {
       "title": "Квалификацията в Сингапур ще започне с половин час по-късно 10 Окт | 14:53",
       "url": "https://dsport.bg/kvalifikaciata-v-singapur-ste-zapochne-s-polovin-chas-po-kasno~241844.html",
       "source": "Dsport",
@@ -191,25 +205,11 @@
       "image": "https://dsport.bg/media/385/gettyimages-2292702331.og.jpg"
     },
     {
-      "title": "На живо: Ботев Враца - Спартак Варна (Състави) 10 Окт | 13:54",
-      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-10t135409.999.og.png"
-    },
-    {
       "title": "$200 милиона не са достатъчни 10 Окт | 13:36",
       "url": "https://dsport.bg/200-miliona-ne-sa-dostatachni~241836.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2298976777.og.jpg"
-    },
-    {
-      "title": "Лапорта с остра атака към Реал: Опитват се да омаловажат Барселона 10 Окт | 13:31",
-      "url": "https://dsport.bg/laporta-s-ostra-ataka-kam-real-opitvat-se-da-omalovazat-barselona~241834.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2212505231-2-1-1.og.jpg"
     }
   ]
 }
