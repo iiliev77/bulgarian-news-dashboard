@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:57:05.569238+00:00",
+  "updated": "2026-10-10T18:09:39.898440+00:00",
   "articles": [
     {
       "title": "Ново нападение с нож в училище във Варшава, трима души са ранени",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394113/991-ratio-matej-kyrkbrajt.jpg"
     },
     {
+      "title": "Черно море приема Левски без петима 10 Окт | 21:04",
+      "url": "https://dsport.bg/cherno-more-priema-levski-bez-petima~241885.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1026649.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 21:01",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038562.og.jpg"
+    },
+    {
       "title": "Интер разкъса Парма за минути 10 Окт | 20:53",
       "url": "https://dsport.bg/inter-razkasa-parma-za-minuti~241884.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299541470.og.jpg"
-    },
-    {
-      "title": "На живо: Ботев Пловдив – Славия, бултрасите почетоха Илиян Филипов 10 Окт | 20:51",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038562.og.jpg"
     },
     {
       "title": "Лил излезе начело във Франция след минимален успех срещу последния 10 Окт | 20:35",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299538686.og.jpg"
-    },
-    {
-      "title": "БФС за скандално проявил се юноша: Ще бъдат взети най-крути мерки! 10 Окт | 19:18",
-      "url": "https://dsport.bg/bfs-za-skandalno-proavil-se-unosha-ste-badat-vzeti-nai-kruti-merki~241877.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/529741-1-1-2-1~1.og.jpg"
     }
   ]
 }
