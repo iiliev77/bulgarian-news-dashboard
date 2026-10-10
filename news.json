@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T10:15:36.242365+00:00",
+  "updated": "2026-10-10T10:30:54.679142+00:00",
   "articles": [
+    {
+      "title": "Екшън и зрелищни изпитания в звездната надпревара в “Игри на волята” тази вечер",
+      "url": "https://dariknews.bg/novini/liubopitno/ekshyn-i-zrelishtni-izpitaniia-v-zvezdnata-nadprevara-v-igri-na-voliata-tazi-vecher-2468711",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394223/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Звездна целувка пред прожекторите: Григор Димитров и Ейса Гонсалес на гала вечер в Лондон (СНИМКИ)",
       "url": "https://dariknews.bg/novini/liubopitno/zvezdna-celuvka-pred-prozhektorite-grigor-dimitrov-i-ejsa-gonsales-na-gala-vecher-v-london-snimki-2468710",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51304/51304912/991-ratio-kokain-narkotici.jpg"
     },
     {
-      "title": "Тръмп след разговор с Путин: Русия се съгласи да достави над 300 000 т дизелово гориво за САЩ и световния пазар",
-      "url": "https://dariknews.bg/novini/sviat/trymp-sled-razgovor-s-putin-rusiia-se-syglasi-da-dostavi-nad-300-000-t-dizelovo-gorivo-za-sasht-i-svetovniia-pazar-2468696",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352873/991-ratio-trymp.jpg"
+      "title": "Катастрофа на Ръсел подари победата на Верстапен в спринта в Сингапур 10 Окт | 13:17",
+      "url": "https://dsport.bg/katastrofa-na-rasel-podari-pobedata-na-verstapen-v-sprinta-v-singapur~241833.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299495751.og.jpg"
     },
     {
       "title": "Кралят и бунтарят 10 Окт | 12:57",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1489401913.og.jpg"
-    },
-    {
-      "title": "Краят на кошмара: Деян Кулушевски отново на терена след 500 дни извън игра 10 Окт | 11:14",
-      "url": "https://dsport.bg/kraat-na-koshmara-dean-kulushevski-otnovo-na-terena-sled-500-dni-izvan-igra~241823.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2198574654~1.og.jpg"
     }
   ]
 }
