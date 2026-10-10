@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T15:06:49.380319+00:00",
+  "updated": "2026-10-10T15:22:11.684788+00:00",
   "articles": [
+    {
+      "title": "Катастрофи затрудняват движението по Подбалканския път и край Нова Загора",
+      "url": "https://dariknews.bg/regioni/sliven/katastrofi-zatrudniavat-dvizhenieto-po-podbalkanskiia-pyt-i-kraj-nova-zagora-2468720",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388325/991-ratio-katastrofa.jpg"
+    },
     {
       "title": "Челен сблъсък край Съдиево взе две жертви, пътят за Айтос е затворен",
       "url": "https://dariknews.bg/novini/chelen-sblysyk-kraj-sydievo-vze-dve-zhertvi-pytiat-za-ajtos-e-zatvoren-2468719",
@@ -135,18 +142,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "„Незаличимо петно върху Норвегия“: Нобелът за мир разгневи Тръмп",
-      "url": "https://dariknews.bg/novini/sviat/nezalichimo-petno-vyrhu-norvegiia-nobelyt-za-mir-razgnevi-trymp-2468701",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На живо: Локомотив София изравни на Локомотив Пловдив 10 Окт | 18:04",
+      "title": "На живо: Локомотив София изравни на Локомотив Пловдив 10 Окт | 18:14",
       "url": "https://dsport.bg/na-zivo-lokomotiv-sofia-lokomotiv-plovdiv-sastavi~241853.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-10t161100.535.og.png"
+      "image": "https://dsport.bg/media/385/ak900457.og.jpg"
+    },
+    {
+      "title": "Пирин най-сетне взе точка във Втора лига, Марек удари Берое в зрелище 10 Окт | 18:13",
+      "url": "https://dsport.bg/pirin-nai-setne-vze-tochka-vav-vtora-liga-marek-udari-beroe-v-zreliste~241866.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/842421947_1985930762074214_8153222595703929789_n.og.jpg"
+    },
+    {
+      "title": "Хайдук обърна Динамо Загреб в голямото дерби и излезе начело в Хърватия 10 Окт | 18:11",
+      "url": "https://dsport.bg/haiduk-obarna-dinamo-zagreb-v-golamoto-derbi-i-izleze-nachelo-v-harvatia~241868.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/842555002_1848073953291246_5463416802145306478_n.og.jpg"
+    },
+    {
+      "title": "Дженоа с първа победа в Серия А, Фиорентина падна жертва 10 Окт | 18:08",
+      "url": "https://dsport.bg/dzenoa-s-parva-pobeda-v-seria-a-fiorentina-padna-zertva~241864.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298939126.og.jpg"
     },
     {
       "title": "Похвално: фенове на Добруджа и Черноморец подгряват заедно за мача на „Дружба“ 10 Окт | 18:02",
@@ -156,7 +177,7 @@
       "image": "https://dsport.bg/media/385/10.10-3.og.jpg"
     },
     {
-      "title": "ЦСКА II разузна Несебър за първия тим и оглави Mr Bit Втора лига 10 Окт | 17:53",
+      "title": "ЦСКА II разузна Несебър за първия тим и оглави MrBit Втора лига 10 Окт | 17:53",
       "url": "https://dsport.bg/cska-ii-razuzna-nesebar-za-parvia-tim-i-oglavi-mr-bit-vtora-liga~241865.html",
       "source": "Dsport",
       "section": "sport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/842555004_1786565922464447_3266893490052144652_n.og.jpg"
-    },
-    {
-      "title": "Тодор Симов: Спартак Варна ни излъга с една контраатака 10 Окт | 17:20",
-      "url": "https://dsport.bg/todor-simov-spartak-varna-ni-izlaga-s-edna-kontraataka~241860.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038406~1.og.jpg"
-    },
-    {
-      "title": "Васил Петров: Не бяхме по-добрият отбор, победата е най-хубавото 10 Окт | 17:08",
-      "url": "https://dsport.bg/vasil-petrov-ne-bahme-po-dobriat-otbor-pobedata-e-nai-hubavoto~241859.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038395~1.og.jpg"
-    },
-    {
-      "title": "Хърватска легенда поема България? Вече е разговарял с БФС в София 10 Окт | 17:00",
-      "url": "https://dsport.bg/harvatska-legenda-poema-balgaria-veche-e-razgovaral-s-bfs-v-sofia~241857.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2234354335.og.jpg"
     }
   ]
 }
