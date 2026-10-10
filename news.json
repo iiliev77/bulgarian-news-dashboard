@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:31:10.170778+00:00",
+  "updated": "2026-10-10T07:46:36.567000+00:00",
   "articles": [
     {
       "title": "„Ню Йорк пост“: Тод Боули иска да купи международните активи на „Лукойл“, включително рафинерията в България",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51239/51239117/991-ratio-marko-rubio.jpg"
     },
     {
+      "title": "ФИФА сложи точка на скандал с вратар 10 Окт | 10:26",
+      "url": "https://dsport.bg/fifa-slozi-tochka-na-skandal-s-vratar~241818.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2283036739.og.jpg"
+    },
+    {
+      "title": "Огромен скандал в Азия, национал е арестуван за уреждане на мачове 10 Окт | 10:17",
+      "url": "https://dsport.bg/ogromen-skandal-v-azia-nacional-e-arestuvan-za-urezdane-na-machove~241817.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1245817284.og.jpg"
+    },
+    {
       "title": "Вашингтон нанесе първо поражение на Рейнджърс през сезона в НХЛ 10 Окт | 10:07",
       "url": "https://dsport.bg/vashington-nanese-parvo-porazenie-na-reindzars-prez-sezona-v-nhl~241816.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2292704923.og.jpg"
-    },
-    {
-      "title": "Ефенберг: Роналдо не разбира кога да спре, затова Меси винаги ще бъде над него 10 Окт | 08:44",
-      "url": "https://dsport.bg/efenberg-ronaldo-ne-razbira-koga-da-spre-zatova-mesi-vinagi-ste-bade-nad-nego~241808.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2276618770.og.jpg"
-    },
-    {
-      "title": "Делото „Марадона“: прокуратурата поиска 12 години затвор за личния лекар на футболната легенда 10 Окт | 08:35",
-      "url": "https://dsport.bg/deloto-maradona-prokuraturata-poiska-12-godini-zatvor-za-lichnia-lekar-na-futbolnata-legenda~241807.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-455154666~1.og.jpg"
     }
   ]
 }
