@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T20:32:42.960078+00:00",
+  "updated": "2026-10-10T20:47:06.252772+00:00",
   "articles": [
     {
       "title": "Тръмп: Време е Украйна да има нов президент",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51371/51371715/991-ratio-lukojl.jpg"
     },
     {
+      "title": "Наполи спря високия полет на новака Фрозиноне, Де Бройне с два гола 10 Окт | 23:37",
+      "url": "https://dsport.bg/napoli-spra-visokia-polet-na-novaka-frozinone~241894.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299562343.og.jpg"
+    },
+    {
       "title": "Пламен Андреев с ключов принос за равенство с Ференцварош 10 Окт | 23:14",
       "url": "https://dsport.bg/plamen-andreev-s-kluchov-prinos-za-ravenstvo-s-ferencvarosh~241893.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299546568.og.jpg"
-    },
-    {
-      "title": "Черно море приема Левски без петима 10 Окт | 21:04",
-      "url": "https://dsport.bg/cherno-more-priema-levski-bez-petima~241885.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1026649.og.jpg"
     }
   ]
 }
