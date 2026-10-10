@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:56:19.544597+00:00",
+  "updated": "2026-10-10T15:06:49.380319+00:00",
   "articles": [
     {
       "title": "Челен сблъсък край Съдиево взе две жертви, пътят за Айтос е затворен",
@@ -142,6 +142,20 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "На живо: Локомотив София изравни на Локомотив Пловдив 10 Окт | 18:04",
+      "url": "https://dsport.bg/na-zivo-lokomotiv-sofia-lokomotiv-plovdiv-sastavi~241853.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-10t161100.535.og.png"
+    },
+    {
+      "title": "Похвално: фенове на Добруджа и Черноморец подгряват заедно за мача на „Дружба“ 10 Окт | 18:02",
+      "url": "https://dsport.bg/pohvalno-fenove-na-dobrudza-i-chernomorec-podgravat-zaedno-za-macha-na-druzba~241867.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/10.10-3.og.jpg"
+    },
+    {
       "title": "ЦСКА II разузна Несебър за първия тим и оглави Mr Bit Втора лига 10 Окт | 17:53",
       "url": "https://dsport.bg/cska-ii-razuzna-nesebar-za-parvia-tim-i-oglavi-mr-bit-vtora-liga~241865.html",
       "source": "Dsport",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299523902.og.jpg"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив поведе на Локомотив София 10 Окт | 17:41",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-sofia-lokomotiv-plovdiv-sastavi~241853.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-10t161100.535.og.png"
     },
     {
       "title": "Монтираха вратите на „Българска армия“ 10 Окт | 17:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2234354335.og.jpg"
-    },
-    {
-      "title": "Спартак Варна не надигра, но победи Ботев Враца 10 Окт | 16:53",
-      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038453.og.jpg"
     }
   ]
 }
