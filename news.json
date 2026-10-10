@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-10T05:20:51.378836+00:00",
+  "updated": "2026-10-10T05:36:10.992163+00:00",
   "articles": [
+    {
+      "title": "Важно за софиянци: Промени в градския транспорт заради Маратон София 2026",
+      "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394105/991-ratio-vasil-terziev.jpg"
+    },
+    {
+      "title": "Здравното министерство: Всеки шести българин живее с психично разстройство",
+      "url": "https://dariknews.bg/novini/bylgariia/zdravnoto-ministerstvo-vseki-shesti-bylgarin-zhivee-s-psihichno-razstrojstvo-2468703",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50242/50242813/991-ratio-depresiia.jpg"
+    },
     {
       "title": "Русия ще доставя дизел на САЩ, Тръмп обещава спад на цените",
       "url": "https://dariknews.bg/novini/sviat/rusiia-shte-dostavia-dizel-na-sasht-trymp-obeshtava-spad-na-cenite-2468702",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51393/51393657/991-ratio-tezhka-katastrofa-kraj-pleven.jpg"
     },
     {
-      "title": "Двойно торнадо връхлетя Сицилия, 11 души са ранени",
-      "url": "https://dariknews.bg/novini/sviat/dvojno-tornado-vryhletia-siciliia-11-dushi-sa-raneni-2468686",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51246/51246676/991-ratio-tornado.jpg"
-    },
-    {
-      "title": "Катастрофа между Симитли и Кресна, 5 души са ранени",
-      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-mezhdu-simitli-i-kresna-5-dushi-sa-raneni-2468685",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Краят на една ера? Манчестър Сити е изправен пред мрачно бъдеще, ако собствениците от ОАЕ бъдат прогонени 10 Окт | 08:14",
+      "url": "https://dsport.bg/kraat-na-edna-era-manchestar-siti-e-izpraven-pred-mrachno-badeste-ako-sobstvenicite-ot-oae-badat-progoneni~241805.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2276564070-1-~1.og.jpg"
     },
     {
       "title": "Сутрин домакин, вечер футболист - необикновената история на един защитник 10 Окт | 08:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2265144794~1.og.jpg"
-    },
-    {
-      "title": "Янаки Милев се класира за полуфиналите на „Чалънджър“ в Палермо 09 Окт | 22:10",
-      "url": "https://dsport.bg/anaki-milev-se-klasira-za-polufinalite-na-chalandzar-v-palermo~241791.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/14.09-8-1~1.og.jpg"
     }
   ]
 }
