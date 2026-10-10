@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:57:50.587400+00:00",
+  "updated": "2026-10-10T08:10:29.377103+00:00",
   "articles": [
     {
       "title": "„Ню Йорк пост“: Тод Боули иска да купи международните активи на „Лукойл“, включително рафинерията в България",
@@ -27,7 +27,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-sofiianci-promeni-v-gradskiia-transport-zaradi-maraton-sofiia-2026-2468421",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394105/991-ratio-vasil-terziev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51392/51392881/991-ratio-maraton-sofiia.jpg"
     },
     {
       "title": "Здравното министерство: Всеки шести българин живее с психично разстройство",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51239/51239117/991-ratio-marko-rubio.jpg"
     },
     {
+      "title": "Давид Силва с изненадващ избор за \"Златната топка\" и смела прогноза за Ла Лига 10 Окт | 10:45",
+      "url": "https://dsport.bg/david-silva-s-iznenadvast-izbor-za-zlatnata-topka-i-smela-prognoza-za-la-liga~241820.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2151520794.og.jpg"
+    },
+    {
       "title": "От звезда в Реал Мадрид до 70 бири на ден, а сега евангелски пастор 10 Окт | 10:36",
       "url": "https://dsport.bg/ot-zvezda-v-real-madrid-do-70-biri-na-den-a-sega-evangelski-pastor~241819.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1354869433.og.jpg"
-    },
-    {
-      "title": "Gazzetta dello Sport със специален материал посветен на Александър Николов и Симеон Николов 10 Окт | 09:06",
-      "url": "https://dsport.bg/gazzetta-dello-sport-sas-specialen-material-posveten-na-aleksandar-nikolov-i-simeon-nikolov~241810.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/805860~2.og.jpg"
     }
   ]
 }
