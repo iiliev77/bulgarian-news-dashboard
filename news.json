@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:30:54.679142+00:00",
+  "updated": "2026-10-10T10:45:37.511507+00:00",
   "articles": [
     {
       "title": "Екшън и зрелищни изпитания в звездната надпревара в “Игри на волята” тази вечер",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51304/51304912/991-ratio-kokain-narkotici.jpg"
     },
     {
+      "title": "$200 милиона не са достатъчни 10 Окт | 13:36",
+      "url": "https://dsport.bg/200-miliona-ne-sa-dostatachni~241836.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298976777.og.jpg"
+    },
+    {
+      "title": "Лапорта с остра атака към Реал: Опитват се да омаловажат Барселона 10 Окт | 13:31",
+      "url": "https://dsport.bg/laporta-s-ostra-ataka-kam-real-opitvat-se-da-omalovazat-barselona~241834.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2212505231-2-1-1.og.jpg"
+    },
+    {
       "title": "Катастрофа на Ръсел подари победата на Верстапен в спринта в Сингапур 10 Окт | 13:17",
       "url": "https://dsport.bg/katastrofa-na-rasel-podari-pobedata-na-verstapen-v-sprinta-v-singapur~241833.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1402503863-1-1~1.og.jpg"
-    },
-    {
-      "title": "В Испания: Килиан Мбапе се чувства неоценен в битката за Златната топка 10 Окт | 11:36",
-      "url": "https://dsport.bg/v-ispania-kilian-mbape-se-chuvstva-neocenen-v-bitkata-za-zlatnata-topka~241825.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295055074.og.jpg"
-    },
-    {
-      "title": "Моторист загина при сблъсък с кола, в която е пътувала дъщерята на Луис Енрике 10 Окт | 11:25",
-      "url": "https://dsport.bg/motorist-zagina-pri-sblasak-s-kola-v-koato-e-patuvala-dasterata-na-luis-enrike~241824.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1489401913.og.jpg"
     }
   ]
 }
