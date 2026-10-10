@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-10T13:24:43.976068+00:00",
+  "updated": "2026-10-10T13:39:07.806120+00:00",
   "articles": [
     {
-      "title": "Борисов: Срещата с Буданов е била толкова конспиративна, че службите и президентът не знаят за нея",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-sreshtata-s-budanov-e-bila-tolkova-konspirativna-che-sluzhbite-i-prezidentyt-ne-znaiat-za-neia-2468718",
+      "title": "Борисов: Срещата с Буданов е била толкова конспиративна, че службите не знаят за нея",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-sreshtata-s-budanov-e-bila-tolkova-konspirativna-che-sluzhbite-ne-znaiat-za-neia-2468718",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51273/51273028/991-ratio-bojko-borisov.jpg"
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/47714/47714464/991-ratio-orehi.jpg"
     },
     {
+      "title": "На живо: Спартак Варна поведе във Враца 10 Окт | 16:36",
+      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038400.og.jpg"
+    },
+    {
+      "title": "Груев гледа от пейката как Арсенал обръща неговия Лийдс 10 Окт | 16:31",
+      "url": "https://dsport.bg/gruev-gleda-ot-peikata-kak-arsenal-obrasta-negovia-liids~241856.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299511173.og.jpg"
+    },
+    {
       "title": "С мисъл за феновете – преместиха баскетболен мач в Стара Загора заради двубой за Купата на България 10 Окт | 16:16",
       "url": "https://dsport.bg/s-misal-za-fenovete-premestiha-basketbolen-mach-v-stara-zagora-zaradi-dvuboi-za-kupata-na-balgaria~241854.html",
       "source": "Dsport",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/tambove-sait-2026-10-10t161100.535.og.png"
-    },
-    {
-      "title": "На живо: Спартак Варна поведе във Враца 10 Окт | 16:15",
-      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038374.og.jpg"
     },
     {
       "title": "Рома остана без вратаря си поне за месец 10 Окт | 16:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038299.og.jpg"
-    },
-    {
-      "title": "Квалификацията в Сингапур ще започне с половин час по-късно 10 Окт | 14:53",
-      "url": "https://dsport.bg/kvalifikaciata-v-singapur-ste-zapochne-s-polovin-chas-po-kasno~241844.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299502464.og.jpg"
     }
   ]
 }
