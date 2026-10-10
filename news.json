@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T19:28:59.988035+00:00",
+  "updated": "2026-10-10T19:42:26.301902+00:00",
   "articles": [
+    {
+      "title": "Тръмп: Време е Украйна да има нов президент",
+      "url": "https://dariknews.bg/novini/sviat/trymp-vreme-e-ukrajna-da-ima-nov-prezident-2468725",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51350/51350720/991-ratio-donald-trymp.jpg"
+    },
     {
       "title": "Раду и Пелипенко надвиха Рълев и Иванина във впечатляваща звездна битка на Арената в „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/radu-i-pelipenko-nadviha-rylev-i-ivanina-vyv-vpechatliavashta-zvezdna-bitka-na-arenata-v-igri-na-voliata-2468724",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51371/51371715/991-ratio-lukojl.jpg"
     },
     {
-      "title": "Политически реакции у нас след сделката за доставки на дизел между САЩ и Русия",
-      "url": "https://dariknews.bg/novini/bylgariia/politicheski-reakcii-u-nas-sled-sdelkata-za-dostavki-na-dizel-mezhdu-sasht-i-rusiia-2468705",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
+      "title": "Ратко Достанич: Доста мачове загубихме заради наши грешки 10 Окт | 22:30",
+      "url": "https://dsport.bg/ratko-dostanich-dosta-machove-zagubihme-zaradi-nashi-greshki~241891.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038595~1.og.jpg"
     },
     {
       "title": "Станислав Генчев: Този мач имаше огромна тежест, бяхме задължени да победим 10 Окт | 22:23",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/husp9kowmaar1ml.og.jpg"
-    },
-    {
-      "title": "Любо Пенев недоволства за продълженията: Минимум 12-13 минути по-малко играхме (ВИДЕО) 10 Окт | 20:31",
-      "url": "https://dsport.bg/lubo-penev-nedovolstva-za-prodalzeniata-minimum-12-13-minuti-po-malko-igrahme-video~241882.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/ak900396~1.og.jpg"
     }
   ]
 }
