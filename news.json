@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T12:38:00.206007+00:00",
+  "updated": "2026-10-10T12:56:21.073862+00:00",
   "articles": [
+    {
+      "title": "ДАНС залови активисти на крайнодясната групировка The Base",
+      "url": "https://dariknews.bg/regioni/vraca/dans-zalovi-aktivisti-na-krajnodiasnata-grupirovka-the-base-2468717",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32864/32864636/991-ratio-dans.jpg"
+    },
     {
       "title": "Кремъл: Путин е приел с разбиране предложения на Тръмп за деескалация на конфликта в Украйна",
       "url": "https://dariknews.bg/novini/sviat/kremyl-putin-e-priel-s-razbirane-predlozheniia-na-trymp-za-deeskalaciia-na-konflikta-v-ukrajna-2468716",
@@ -135,14 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/50130/50130096/991-ratio-bakterii.jpg"
     },
     {
-      "title": "„Разходки за необвързани”: По пътя към любовта сред планинските пътеки (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/razhodki-za-neobvyrzani-po-pytia-kym-liubovta-sred-planinskite-pyteki-video-2468653",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Протест след 147 дни извън дома: хартиени самолетчета прекъснаха мач от Ла Лига (ВИДЕО) 10 Окт | 15:50",
+      "url": "https://dsport.bg/protest-sled-147-dni-izvan-doma-hartieni-samoletcheta-prekasnaha-mach-ot-la-liga-video~241850.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299510320.og.jpg"
     },
     {
-      "title": "На живо: Ботев Враца - Спартак Варна, натиск на домакините 10 Окт | 15:28",
+      "title": "На живо: Ботев Враца - Спартак Варна, натиск на домакините 10 Окт | 15:47",
       "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2295193060.og.jpg"
-    },
-    {
-      "title": "Жена начело на ФИФА? 10 Окт | 14:15",
-      "url": "https://dsport.bg/zena-nachelo-na-fifa~241839.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2285716698.og.jpg"
     }
   ]
 }
