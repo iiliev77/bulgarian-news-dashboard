@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:10:53.423950+00:00",
+  "updated": "2026-10-10T21:25:32.364976+00:00",
   "articles": [
     {
       "title": "Тръмп: Време е Украйна да има нов президент",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51371/51371715/991-ratio-lukojl.jpg"
     },
     {
+      "title": "НЕК завъртя равен на Аякс и чака Левски 11 Окт | 00:12",
+      "url": "https://dsport.bg/nek-zavarta-raven-na-aaks-i-chaka-levski~241898.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/hutcu4txwaekenr.og.jpg"
+    },
+    {
       "title": "Дебютен гол измъкна Реал Мадрид от Виляреал, Винисиус изгонен за скубане 10 Окт | 23:59",
       "url": "https://dsport.bg/real-madrid-se-izmakna-suh-srestu-vilareal-vinisius-izgonen~241897.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038588.og.jpg"
-    },
-    {
-      "title": "Росен Божинов се завърна за Пиза при победа 10 Окт | 22:01",
-      "url": "https://dsport.bg/rosen-bozinov-se-zavarna-pri-pobeda-na-piza~241889.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2273477852~1.og.jpg"
     }
   ]
 }
