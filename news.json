@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:16:27.012934+00:00",
+  "updated": "2026-10-10T12:38:00.206007+00:00",
   "articles": [
     {
       "title": "Кремъл: Путин е приел с разбиране предложения на Тръмп за деескалация на конфликта в Украйна",
@@ -142,18 +142,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "На живо: Ботев Враца - Спартак Варна, натиск на домакините 10 Окт | 15:28",
+      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038374.og.jpg"
+    },
+    {
+      "title": "Иван Иванов не успя да се класира за финала в Италия 10 Окт | 15:27",
+      "url": "https://dsport.bg/ivan-ivanov-ne-uspa-da-se-klasira-za-finala-v-italia~241846.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/838540-1-1~1.og.jpg"
+    },
+    {
+      "title": "Португалската федерация започна дисциплинарно производство срещу Роналдо 10 Окт | 15:17",
+      "url": "https://dsport.bg/portugalskata-federacia-zapochna-disciplinarno-proizvodstvo-srestu-ronaldo~241847.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297302113~1.og.jpg"
+    },
+    {
       "title": "Разгром! Девойките на България вкараха 10 на Армения 10 Окт | 15:06",
       "url": "https://dsport.bg/razgrom-devoikite-na-balgaria-vkaraha-10-na-armenia~241845.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038299.og.jpg"
-    },
-    {
-      "title": "На живо: Ботев Враца - Спартак Варна 10 Окт | 15:05",
-      "url": "https://dsport.bg/na-zivo-botev-vraca-spartak-varna-sastavi~241838.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038377.og.jpg"
     },
     {
       "title": "Квалификацията в Сингапур ще започне с половин час по-късно 10 Окт | 14:53",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2285716698.og.jpg"
-    },
-    {
-      "title": "Коул Палмър остава в Челси с нов договор до 203... 10 Окт | 13:56",
-      "url": "https://dsport.bg/koul-palmar-ostava-v-chelsi-s-nov-dogovor-do-203~241837.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2292702331.og.jpg"
-    },
-    {
-      "title": "$200 милиона не са достатъчни 10 Окт | 13:36",
-      "url": "https://dsport.bg/200-miliona-ne-sa-dostatachni~241836.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298976777.og.jpg"
     }
   ]
 }
