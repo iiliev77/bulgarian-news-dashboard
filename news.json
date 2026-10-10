@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T09:04:55.909895+00:00",
+  "updated": "2026-10-10T09:21:49.855450+00:00",
   "articles": [
     {
       "title": "14-годишният наскоро заживял с майка си: Нови подробности за убийството в Пловдив",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51250/51250862/991-ratio-policiia-arest.jpg"
     },
     {
+      "title": "Тотнъм бяга в Марбея, за да спасява сезона 10 Окт | 11:57",
+      "url": "https://dsport.bg/totnam-baga-v-marbea-za-da-spasava-sezona~241827.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2292192474.og.jpg"
+    },
+    {
+      "title": "Арсен Венгер може да се изправи срещу Джани Инфантино в битката за президентския пост на ФИФА 10 Окт | 11:50",
+      "url": "https://dsport.bg/arsen-venger-moze-da-se-izpravi-srestu-dzani-infantino-v-bitkata-za-prezidentskia-post-na-fifa~241826.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1402503863-1-1~1.og.jpg"
+    },
+    {
       "title": "В Испания: Килиан Мбапе се чувства неоценен в битката за Златната топка 10 Окт | 11:36",
       "url": "https://dsport.bg/v-ispania-kilian-mbape-se-chuvstva-neocenen-v-bitkata-za-zlatnata-topka~241825.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2283036739.og.jpg"
-    },
-    {
-      "title": "Огромен скандал в Азия, национал е арестуван за уреждане на мачове 10 Окт | 10:17",
-      "url": "https://dsport.bg/ogromen-skandal-v-azia-nacional-e-arestuvan-za-urezdane-na-machove~241817.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1245817284.og.jpg"
-    },
-    {
-      "title": "Вашингтон нанесе първо поражение на Рейнджърс през сезона в НХЛ 10 Окт | 10:07",
-      "url": "https://dsport.bg/vashington-nanese-parvo-porazenie-na-reindzars-prez-sezona-v-nhl~241816.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298876921.og.jpg"
     }
   ]
 }
