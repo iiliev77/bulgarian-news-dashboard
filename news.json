@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T11:49:41.975748+00:00",
+  "updated": "2026-10-10T11:59:23.194394+00:00",
   "articles": [
+    {
+      "title": "Кремъл: Путин е приел с разбиране предложения на Тръмп за деескалация на конфликта в Украйна",
+      "url": "https://dariknews.bg/novini/sviat/kremyl-putin-e-priel-s-razbirane-predlozheniia-na-trymp-za-deeskalaciia-na-konflikta-v-ukrajna-2468716",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51039/51039727/991-ratio-dmitrij-peskov-i-vladimir-putin.jpg"
+    },
     {
       "title": "„Бойкот на наглите цени“ събра над 50 000 души: Какво разгневи потребителите (ВИДЕО)",
       "url": "https://dariknews.bg/novini/obshtestvo/bojkot-na-naglite-ceni-sybra-nad-50-000-dushi-kakvo-razgnevi-potrebitelite-video-2468715",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Нова платформа ще рекламира Велико Търново като целогодишна туристическа дестинация",
-      "url": "https://dariknews.bg/novini/liubopitno/nova-platforma-shte-reklamira-veliko-tyrnovo-kato-celogodishna-turisticheska-destinaciia-2468560",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50426/50426360/991-ratio-veliko-tyrnovo.jpg"
+      "title": "Квалификацията в Сингапур ще започне с половин час по-късно 10 Окт | 14:53",
+      "url": "https://dsport.bg/kvalifikaciata-v-singapur-ste-zapochne-s-polovin-chas-po-kasno~241844.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299502464.og.jpg"
     },
     {
       "title": "Ювентус вече съжалява за Ник Волтемаде, но е в капана на договора му 10 Окт | 14:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2212505231-2-1-1.og.jpg"
-    },
-    {
-      "title": "Катастрофа на Ръсел подари победата на Верстапен в спринта в Сингапур 10 Окт | 13:17",
-      "url": "https://dsport.bg/katastrofa-na-rasel-podari-pobedata-na-verstapen-v-sprinta-v-singapur~241833.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299495751.og.jpg"
     }
   ]
 }
