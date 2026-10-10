@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:50:01.307768+00:00",
+  "updated": "2026-10-10T15:59:23.086747+00:00",
   "articles": [
     {
       "title": "МВнР с предупреждение за българите в САЩ заради тропическата буря „Рейчъл“",
@@ -142,6 +142,27 @@
       "image": "https://m.netinfo.bg/media/images/50242/50242813/991-ratio-depresiia.jpg"
     },
     {
+      "title": "Челси схруска „черешките“ и ги изплю до зоната на изпадащите 10 Окт | 18:56",
+      "url": "https://dsport.bg/chelsi-shruska-chereshkite-i-gi-izplu-do-zonata-na-izpadastite~241875.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299534487.og.jpg"
+    },
+    {
+      "title": "Шокиращи сцени на юношески мач: вратар ритна съдия в главата (ВИДЕО) 10 Окт | 18:56",
+      "url": "https://dsport.bg/shokirasti-sceni-na-unosheski-mach-vratar-ritna-sadia-v-glavata-video~241874.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-1338-.og.png"
+    },
+    {
+      "title": "На живо: Ботев Пловдив – Славия (Състави) 10 Окт | 18:53",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-13-.og.jpg"
+    },
+    {
       "title": "Славия поднесе венец в памет на Илиян Филипов 10 Окт | 18:41",
       "url": "https://dsport.bg/slavia-podnese-venec-v-pamet-na-ilian-filipov~241872.html",
       "source": "Dsport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/842555002_1848073953291246_5463416802145306478_n.og.jpg"
-    },
-    {
-      "title": "Дженоа с първа победа в Серия А, Фиорентина падна жертва 10 Окт | 18:08",
-      "url": "https://dsport.bg/dzenoa-s-parva-pobeda-v-seria-a-fiorentina-padna-zertva~241864.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298939126.og.jpg"
-    },
-    {
-      "title": "Похвално: фенове на Добруджа и Черноморец подгряват заедно за мача на „Дружба“ 10 Окт | 18:02",
-      "url": "https://dsport.bg/pohvalno-fenove-na-dobrudza-i-chernomorec-podgravat-zaedno-za-macha-na-druzba~241867.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/10.10-3.og.jpg"
-    },
-    {
-      "title": "ЦСКА II разузна Несебър за първия тим и оглави MrBit Втора лига 10 Окт | 17:53",
-      "url": "https://dsport.bg/cska-ii-razuzna-nesebar-za-parvia-tim-i-oglavi-mr-bit-vtora-liga~241865.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1037578.og.jpg"
     }
   ]
 }
