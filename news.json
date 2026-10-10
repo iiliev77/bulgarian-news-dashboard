@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-10T06:20:29.374374+00:00",
+  "updated": "2026-10-10T06:42:55.319920+00:00",
   "articles": [
+    {
+      "title": "Политически реакции у нас след сделката за доставки на дизел между САЩ и Русия",
+      "url": "https://dariknews.bg/novini/bylgariia/politicheski-reakcii-u-nas-sled-sdelkata-za-dostavki-na-dizel-mezhdu-sasht-i-rusiia-2468705",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
+    },
     {
       "title": "Студентът Матей Къркбрайт отпадна от “Игри на волята” (СНИМКИ)",
       "url": "https://dariknews.bg/novini/liubopitno/studentyt-matej-kyrkbrajt-otpadna-ot-igri-na-voliata-snimki-2468704",
@@ -135,11 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Шефът на сектор „Издирване“ в СДВР Емил Стоянов: Ружа Игнатова е жива",
-      "url": "https://dariknews.bg/novini/obshtestvo/shefyt-na-sektor-izdirvane-v-sdvr-emil-stoianov-ruzha-ignatova-e-zhiva-2468688",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393909/991-ratio-emil-stoianov.jpg"
+      "title": "Двукратен MVP на НБА стана акционер в Атлетико Мадрид 10 Окт | 09:25",
+      "url": "https://dsport.bg/dvukraten-mvp-na-nba-stana-akcioner-v-atletiko-madrid~241812.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/atlet.og.jpg"
+    },
+    {
+      "title": "Революция заради наденици, феновете вдигнаха бунт срещу лошия кетъринг 10 Окт | 09:15",
+      "url": "https://dsport.bg/revolucia-zaradi-nadenici-fenovete-vdignaha-bunt-srestu-loshia-ketaring~241811.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1354869433.og.jpg"
+    },
+    {
+      "title": "Gazzetta dello Sport със специален материал посветен на Александър Николов и Симеон Николов 10 Окт | 09:06",
+      "url": "https://dsport.bg/gazzetta-dello-sport-sas-specialen-material-posveten-na-aleksandar-nikolov-i-simeon-nikolov~241810.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/805860~2.og.jpg"
     },
     {
       "title": "Първият голям тест за Чаби Алонсо в Челси 10 Окт | 08:56",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/lens.og.jpg"
-    },
-    {
-      "title": "Атлетико пусна стреличка към Реал Мадрид заради бързото възстановяване на Валверде 09 Окт | 23:48",
-      "url": "https://dsport.bg/atletiko-pusna-strelichka-kam-real-madrid-zaradi-barzoto-vazstanovavane-na-valverde~241802.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-955077470-1.og.jpg"
-    },
-    {
-      "title": "Борусия Дортмунд изпусна аванс от 2:0 в последните минути 09 Окт | 23:34",
-      "url": "https://dsport.bg/borusia-dortmund-izpusna-avans-ot-2-0-v-poslednite-minuti~241801.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299432509.og.jpg"
-    },
-    {
-      "title": "Олимпиакос се разправи с Анадолу Ефес 09 Окт | 23:10",
-      "url": "https://dsport.bg/olimpiakos-se-razpravi-s-anadolu-efes~241800.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2273058685-1-1.og.jpg"
     }
   ]
 }
