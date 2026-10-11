@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:23:11.474123+00:00",
+  "updated": "2026-10-11T16:38:36.060820+00:00",
   "articles": [
     {
       "title": "Нова атака срещу летището в Рияд",
@@ -142,18 +142,39 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Александър Зверев се класира за четвъртия кръг 11 Окт | 19:36",
+      "url": "https://dsport.bg/aleksandar-zverev-se-klasira-za-chetvartia-krag~241964.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299660306.og.jpg"
+    },
+    {
+      "title": "На живо: Ливърпул - Манчестър Сити 11 Окт | 19:35",
+      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299688901.og.jpg"
+    },
+    {
+      "title": "Мубарик: Нуждаехме се от тази победа 11 Окт | 19:33",
+      "url": "https://dsport.bg/mubarik-nuzdaehme-se-ot-tazi-pobeda~241963.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038743~1.og.jpg"
+    },
+    {
+      "title": "Реал Сосиедад оцеля в голов трилър с пет гола и два червени картона 11 Окт | 19:29",
+      "url": "https://dsport.bg/real-sosiedad-ocela-v-golov-trilar-s-pet-gola-i-dva-cherveni-kartona~241962.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299678047.og.jpg"
+    },
+    {
       "title": "Левски премина през Варна в шампионско настроение и запрати Черно море на дъното 11 Окт | 19:22",
       "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038841.og.jpg"
-    },
-    {
-      "title": "На живо: Ливърпул - Манчестър Сити 11 Окт | 19:05",
-      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299688901.og.jpg"
     },
     {
       "title": "Историческа титла в Естония - шампионът с огромна преднина, големият съперник сервира златото 11 Окт | 18:58",
@@ -167,7 +188,7 @@
       "url": "https://dsport.bg/115-anfiild-kategorichen-za-manchestar-siti~241961.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299682347-1-.og.jpg"
+      "image": "https://dsport.bg/media/385/gettyimages-2299680765-1-.og.jpg"
     },
     {
       "title": "На живо: ЦСКА 1948 - ЦСКА (Състави) 11 Окт | 18:47",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot-2026-10-11-183145.og.png"
-    },
-    {
-      "title": "Ница обърна Страсбург с късен гол 11 Окт | 18:18",
-      "url": "https://dsport.bg/nica-obarna-strasburg-s-kasen-gol~241956.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/huw96u_wgaebpef.og.jpg"
-    },
-    {
-      "title": "„Тигрите“ на Якирович и Евертън със зрелищен хикс, Палас обърна Форест 11 Окт | 18:04",
-      "url": "https://dsport.bg/tigrite-na-akirovich-i-evertan-sas-zrelisten-hiks-palas-obarna-forest~241955.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299673105.og.jpg"
-    },
-    {
-      "title": "Лацио удари Монца, защитник даде тон с топовен шут 11 Окт | 17:59",
-      "url": "https://dsport.bg/lacio-s-nova-pobeda-udari-monca~241953.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299669353.og.jpg"
     }
   ]
 }
