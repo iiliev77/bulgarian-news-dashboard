@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:11:37.228788+00:00",
+  "updated": "2026-10-11T15:27:21.146140+00:00",
   "articles": [
     {
       "title": "11 загинали и 27 ранени при тежка катастрофа в Турция",
@@ -142,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394595/991-ratio-dim-se-izdiga-ot-plavashtiia-pod-tajlandski-flag-korab-za.jpg"
     },
     {
-      "title": "На живо: Левски поведе срещу Черно море 11 Окт | 18:11",
+      "title": "Ница обърна Страсбург с късен гол 11 Окт | 18:18",
+      "url": "https://dsport.bg/nica-obarna-strasburg-s-kasen-gol~241956.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/huw96u_wgaebpef.og.jpg"
+    },
+    {
+      "title": "На живо: Левски поведе срещу Черно море 11 Окт | 18:17",
       "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1038728.og.jpg"
+      "image": "https://dsport.bg/media/385/1038745.og.jpg"
     },
     {
       "title": "„Тигрите“ на Якирович и Евертън със зрелищен хикс, Палас обърна Форест 11 Окт | 18:04",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/finali-ekt-34-.og.png"
-    },
-    {
-      "title": "Георги Чиликов: Септември заслужаваше да победи, но това е футболът 11 Окт | 17:13",
-      "url": "https://dsport.bg/georgi-chilikov-septemvri-zasluzavashe-da-pobedi-no-tova-e-futbolat~241947.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038671~1.og.jpg"
     }
   ]
 }
