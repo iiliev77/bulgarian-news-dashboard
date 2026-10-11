@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T10:33:02.944681+00:00",
+  "updated": "2026-10-11T10:48:04.361972+00:00",
   "articles": [
+    {
+      "title": "Смъртоносна атака срещу летището в Рияд, САЩ и ЕС осъдиха ударите (ОБЗОР)",
+      "url": "https://dariknews.bg/novini/sviat/smyrtonosna-ataka-sreshtu-letishteto-v-riiad-sasht-i-es-osydiha-udarite-obzor-2468744",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394658/991-ratio-gyst-stylb-cheren-dim-i-plamyci-se-izdigat-nad-letishteto.jpg"
+    },
     {
       "title": "Пригответе чадърите: Понеделник идва с жълт код за значителни валежи в цялата страна",
       "url": "https://dariknews.bg/novini/bylgariia/prigotvete-chadyrite-ponedelnik-idva-s-zhylt-kod-za-znachitelni-valezhi-v-cialata-strana-2468743",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50818/50818723/991-ratio-kosmos.jpg"
     },
     {
-      "title": "Мицкоски: Радвам се, че диалогът с България започна, очаквам да продължи",
-      "url": "https://dariknews.bg/novini/bylgariia/mickoski-radvam-se-che-dialogyt-s-bylgariia-zapochna-ochakvam-da-prodylzhi-2468728",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036497/991-ratio-mickoski.jpg"
+      "title": "Винисиус не е сам (ВИДЕО) 11 Окт | 13:33",
+      "url": "https://dsport.bg/vinisius-ne-e-sam-video~241919.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299571899.og.jpg"
     },
     {
       "title": "Ако се спази законът - Винисиус пропуска Ел Класико 11 Окт | 13:26",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299549356.og.jpg"
-    },
-    {
-      "title": "Венсан Компани: Такъв е футболът понякога, две грешки ни костваха победата 11 Окт | 10:58",
-      "url": "https://dsport.bg/vensan-kompani-takav-e-futbolat-ponakoga-dve-greshki-ni-kostvaha-pobedata~241909.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299513631.og.jpg"
     }
   ]
 }
