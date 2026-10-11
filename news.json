@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-11T08:01:03.936729+00:00",
+  "updated": "2026-10-11T08:19:23.619424+00:00",
   "articles": [
+    {
+      "title": "Директорът на „Киберпрестъпност”:Бомбените заплахи целят да създадат хаос в обществото (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/direktoryt-na-kiberprestypnostbombenite-zaplahi-celiat-da-syzdadat-haos-v-obshtestvoto-video-2468737",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51321/51321918/991-ratio-bomba.jpg"
+    },
     {
       "title": "Алисия призна: Мислех да се откажа от музиката, но синът ми ме върна към нея (ВИДЕО)",
       "url": "https://dariknews.bg/novini/liubopitno/alisiia-prizna-misleh-da-se-otkazha-ot-muzikata-no-sinyt-mi-me-vyrna-kym-neia-video-2468736",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": ""
     },
     {
       "title": "Коя е Кейти Закария – новата говорителка на Белия дом",
@@ -27,7 +34,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/doc.-kunchev-sutrin-mryznem-sledobed-se-potim-doshlo-e-vremeto-na-respiratornite-virusi-2468733",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": ""
     },
     {
       "title": "САЩ извадиха от строя товарен кораб, опитал да пробие блокадата на Иран",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51259/51259291/991-ratio-lukojl.jpg"
     },
     {
-      "title": "МВнР с предупреждение за българите в САЩ заради тропическата буря „Рейчъл“",
-      "url": "https://dariknews.bg/novini/sviat/mvnr-s-preduprezhdenie-za-bylgarite-v-sasht-zaradi-tropicheskata-buria-rejchyl-2468721",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51153/51153377/991-ratio-liatna-buria.jpg"
+      "title": "Венсан Компани: Такъв е футболът понякога, две грешки ни костваха победата 11 Окт | 10:58",
+      "url": "https://dsport.bg/vensan-kompani-takav-e-futbolat-ponakoga-dve-greshki-ni-kostvaha-pobedata~241909.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299513631.og.jpg"
     },
     {
       "title": "Ботев Пловдив към феновете: Благодарим ви, вие ни дадохте сили да продължи напред 11 Окт | 10:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2298968447.og.jpg"
-    },
-    {
-      "title": "Политически отзвук за ритника в главата на юношески мач, припомниха се Стоичков и Кантона 11 Окт | 08:10",
-      "url": "https://dsport.bg/politicheski-otzvuk-za-ritnika-v-glavata-na-unosheski-mach-pripomniha-se-stoichkov-i-kantona~241899.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/11.10-1.og.jpg"
     }
   ]
 }
