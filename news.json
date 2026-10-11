@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T16:38:36.060820+00:00",
+  "updated": "2026-10-11T16:53:09.735606+00:00",
   "articles": [
+    {
+      "title": "Катастрофа блокира временно движението на камиони по пътя Лом-Монтана",
+      "url": "https://dariknews.bg/regioni/montana/katastrofa-blokira-vremenno-dvizhenieto-na-kamioni-po-pytia-lom-montana-2468753",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
     {
       "title": "Нова атака срещу летището в Рияд",
       "url": "https://dariknews.bg/novini/sviat/nova-ataka-sreshtu-letishteto-v-riiad-2468752",
@@ -135,21 +142,28 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Доц. Кунчев: Сутрин мръзнем, следобед се потим – дошло е времето на респираторните вируси",
-      "url": "https://dariknews.bg/novini/bylgariia/doc.-kunchev-sutrin-mryznem-sledobed-se-potim-doshlo-e-vremeto-na-respiratornite-virusi-2468733",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Илиан Илиев: Нашето първенство тепърва започва, поразклатихме се 11 Окт | 19:46",
+      "url": "https://dsport.bg/ilian-iliev-nasheto-parvenstvo-teparva-zapochva-porazklatihme-se~241966.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038850.og.jpg"
     },
     {
-      "title": "Александър Зверев се класира за четвъртия кръг 11 Окт | 19:36",
-      "url": "https://dsport.bg/aleksandar-zverev-se-klasira-za-chetvartia-krag~241964.html",
+      "title": "Хулио Веласкес: Никога не е лесно да спечелиш на този стадион 11 Окт | 19:42",
+      "url": "https://dsport.bg/hulio-velaskes-nikoga-ne-e-lesno-da-spechelish-na-tozi-stadion~241965.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038738.og.jpg"
+    },
+    {
+      "title": "Александър Зверев се класира за четвъртия кръг в Шанхай 11 Окт | 19:36",
+      "url": "https://dsport.bg/aleksandar-zverev-se-klasira-za-chetvartia-krag-v-shanhai~241964.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299660306.og.jpg"
     },
     {
-      "title": "На живо: Ливърпул - Манчестър Сити 11 Окт | 19:35",
+      "title": "На живо: Ливърпул - Манчестър Сити, мърсисайдци с 10 11 Окт | 19:35",
       "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/tambove-sait-11-.og.jpg"
-    },
-    {
-      "title": "Борусия Мьонхенгладбах продължава да копае дъното в Бундеслигата 11 Окт | 18:37",
-      "url": "https://dsport.bg/borusia-monhengladbah-prodalzava-da-kopae-danoto-v-bundesliga~241957.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299671202.og.jpg"
-    },
-    {
-      "title": "Локомотив Горна Оряховица с официална позиция след скандала на юношески мач 11 Окт | 18:34",
-      "url": "https://dsport.bg/lokomotiv-gorna-orahovica-s-oficialna-pozicia-sled-skandala-na-unosheski-mach~241958.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-2026-10-11-183145.og.png"
     }
   ]
 }
