@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:47:46.874420+00:00",
+  "updated": "2026-10-11T14:59:39.850223+00:00",
   "articles": [
     {
       "title": "Земетресение е регистрирано край Сливен",
@@ -142,11 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "На живо: Черно море - Левски 11 Окт | 17:44",
+      "title": "На живо: Левски поведе срещу Черно море 11 Окт | 17:56",
       "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038708.og.jpg"
+    },
+    {
+      "title": "Ибрахимович с култов коментар за драмата с Винисиус на \"Бернабеу\" 11 Окт | 17:47",
+      "url": "https://dsport.bg/ibrahimovich-s-kultov-komentar-za-dramata-s-vinisius-na-bernabeu~241954.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299571242.og.jpg"
     },
     {
       "title": "След 7-годишна пауза: Зеедорф се върна край тъчлинията 11 Окт | 17:42",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038689~1.og.jpg"
-    },
-    {
-      "title": "Дунав с невероятен обрат в София, Септември изпусна две дузпи и два гола преднина 11 Окт | 16:58",
-      "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038678.og.jpg"
     }
   ]
 }
