@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T09:01:23.428952+00:00",
+  "updated": "2026-10-11T09:18:29.878659+00:00",
   "articles": [
+    {
+      "title": "Тристранният съвет се събира в понеделник: Обсъждат промени в работната заплата",
+      "url": "https://dariknews.bg/novini/bylgariia/tristranniiat-syvet-se-sybira-v-ponedelnik-obsyzhdat-promeni-v-rabotnata-zaplata-2468740",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320509/991-ratio-50-evro.jpg"
+    },
     {
       "title": "14-годишният, обвинен за убийството на майка си в Пловдив, остава в ареста",
       "url": "https://dariknews.bg/regioni/plovdiv/14-godishniiat-obvinen-za-ubijstvoto-na-majka-si-v-plovdiv-ostava-v-aresta-2468739",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51350/51350720/991-ratio-donald-trymp.jpg"
     },
     {
-      "title": "Раду и Пелипенко надвиха Рълев и Иванина във впечатляваща звездна битка на Арената в „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/radu-i-pelipenko-nadviha-rylev-i-ivanina-vyv-vpechatliavashta-zvezdna-bitka-na-arenata-v-igri-na-voliata-2468724",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394502/991-ratio-i.jpg"
+      "title": "Луис Енрике: Резултатът е почти перфектен 11 Окт | 12:05",
+      "url": "https://dsport.bg/luis-enrike-rezultatat-e-pochti-perfekten~241913.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2290042426~1.og.jpg"
     },
     {
       "title": "Янаки Милев отпадна на полуфиналите в Палермо 11 Окт | 11:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299514987.og.jpg"
-    },
-    {
-      "title": "Жозе Моуриньо се скри след победата над Виляреал, за да не изгори 11 Окт | 09:22",
-      "url": "https://dsport.bg/zoze-mourino-se-skri-sled-pobedata-nad-vilareal-za-da-ne-izgori~241903.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299565991.og.jpg"
     }
   ]
 }
