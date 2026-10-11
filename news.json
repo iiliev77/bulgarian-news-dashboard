@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:58:57.790779+00:00",
+  "updated": "2026-10-11T18:14:16.752074+00:00",
   "articles": [
     {
       "title": "Тръмп: Има енергийно примирие между Русия и Украйна, което влиза в сила незабавно",
@@ -142,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394613/991-ratio-kejti-zakariia.jpg"
     },
     {
-      "title": "На живо: ЦСКА направи вихрено първо полувреме с Гиздол начело 11 Окт | 20:49",
+      "title": "На живо: ЦСКА води комфортно в Бистрица 11 Окт | 21:07",
       "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1038952.og.jpg"
+      "image": "https://dsport.bg/media/385/1039036.og.jpg"
+    },
+    {
+      "title": "Здравко Димитров осигури успешен дебют на Петев в Турция (ВИДЕО) 11 Окт | 21:05",
+      "url": "https://dsport.bg/zdravko-dimitrov-osiguri-uspeshen-debut-na-petev-v-turcia-video~241970.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/huxvjyswgaa6fde.og.jpg"
+    },
+    {
+      "title": "Милан поведе, но си тръгна само с точка от Сасуоло 11 Окт | 21:00",
+      "url": "https://dsport.bg/milan-povede-no-si-tragna-samo-s-tochka-ot-sasuolo~241969.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299693849.og.jpg"
     },
     {
       "title": "Нико Пас: Изживях две невероятни седмици с Меси, но сбогуването беше тъжно 11 Окт | 20:45",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038743~1.og.jpg"
-    },
-    {
-      "title": "Реал Сосиедад оцеля в голов трилър с пет гола и два червени картона 11 Окт | 19:29",
-      "url": "https://dsport.bg/real-sosiedad-ocela-v-golov-trilar-s-pet-gola-i-dva-cherveni-kartona~241962.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299678047.og.jpg"
-    },
-    {
-      "title": "Левски премина през Варна в шампионско настроение и запрати Черно море на дъното 11 Окт | 19:22",
-      "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038841.og.jpg"
     }
   ]
 }
