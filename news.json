@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T13:03:49.526517+00:00",
+  "updated": "2026-10-11T13:21:09.204583+00:00",
   "articles": [
     {
       "title": "Полша свиква спешно антитерористично заседание заради заплахи срещу Доналд Туск и министри",
@@ -142,6 +142,27 @@
       "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
     },
     {
+      "title": "На живо: Септември изпусна втора дузпа срещу Дунав 11 Окт | 16:20",
+      "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038685.og.jpg"
+    },
+    {
+      "title": "На живо: Черно море - Левски (Състави) 11 Окт | 16:18",
+      "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-10-~1.og.jpg"
+    },
+    {
+      "title": "Байерн Мюнхен с добри новини - преговорите с Хари Кейн за нов договор вървят отлично 11 Окт | 16:08",
+      "url": "https://dsport.bg/baiern-munhen-s-dobri-novini-pregovorite-s-hari-kein-za-nov-dogovor-varvat-otlichno~241942.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299569708.og.jpg"
+    },
+    {
       "title": "Александър Везенков и Олимпиакос с втора победа за сезона в Гърция 11 Окт | 15:58",
       "url": "https://dsport.bg/aleksandar-vezenkov-i-olimpiakos-s-vtora-pobeda-za-sezona-v-garcia~241940.html",
       "source": "Dsport",
@@ -154,13 +175,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2292320226.og.jpg"
-    },
-    {
-      "title": "На живо: Септември вкара втори гол срещу Дунав Русе след огромна вратарска грешка 11 Окт | 15:51",
-      "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038685.og.jpg"
     },
     {
       "title": "Първата група на Гиздол е без Гбамен 11 Окт | 15:45",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297218298-1.og.jpg"
-    },
-    {
-      "title": "Фенове на Манчестър Юнайтед с неочаквана подкрепа за хакера, разкрил финансовите машинации на Сити 11 Окт | 14:46",
-      "url": "https://dsport.bg/fenove-na-manchestar-unaited-s-neochakvana-podkrepa-za-hakera-razkril-finansovite-mashinacii-na-siti~241930.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299541853.og.jpg"
-    },
-    {
-      "title": "Това ли е най-красивата волейболистка на Босна и Херцеговина? 11 Окт | 14:39",
-      "url": "https://dsport.bg/tova-li-e-nai-krasivata-voleibolistka-na-bosna-i-hercegovina~241929.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-2026-10-11-143228.og.png"
     }
   ]
 }
