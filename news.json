@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T18:52:17.103579+00:00",
+  "updated": "2026-10-11T19:02:52.802804+00:00",
   "articles": [
+    {
+      "title": "Пеканов: Новото предложение за бюджета на ЕС не намалява парите за кохезия и земеделие",
+      "url": "https://dariknews.bg/novini/bylgariia/pekanov-novoto-predlozhenie-za-biudzheta-na-es-ne-namaliava-parite-za-koheziia-i-zemedelie-2468755",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50303/50303397/991-ratio-atanas-pekanov.jpg"
+    },
     {
       "title": "Тръмп: Има енергийно примирие между Русия и Украйна, което влиза в сила незабавно",
       "url": "https://dariknews.bg/novini/sviat/trymp-ima-energijno-primirie-mezhdu-rusiia-i-ukrajna-koeto-vliza-v-sila-nezabavno-2468754",
@@ -135,18 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Коя е Кейти Закария – новата говорителка на Белия дом",
-      "url": "https://dariknews.bg/novini/sviat/koia-e-kejti-zakariia-novata-govoritelka-na-beliia-dom-2468735",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394613/991-ratio-kejti-zakariia.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА посегна към победата с трети гол в Бистрица 11 Окт | 21:46",
+      "title": "Късен снаряд измъкна ЦСКА в Бистрица, дебютът на Гиздол се превърна във влакче на ужасите 11 Окт | 21:55",
       "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1039036.og.jpg"
+      "image": "https://dsport.bg/media/385/1039005.og.jpg"
+    },
+    {
+      "title": "Хулио Веласкес с победа №50 начело на Левски 11 Окт | 21:47",
+      "url": "https://dsport.bg/hulio-velaskes-s-pobeda-50-nachelo-na-levski~241973.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038724~1.og.jpg"
     },
     {
       "title": "Бетис надви Осасуна в зрелищен голов трилър 11 Окт | 21:32",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038850.og.jpg"
-    },
-    {
-      "title": "Хулио Веласкес: Никога не е лесно да спечелиш на този стадион 11 Окт | 19:42",
-      "url": "https://dsport.bg/hulio-velaskes-nikoga-ne-e-lesno-da-spechelish-na-tozi-stadion~241965.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038738.og.jpg"
     }
   ]
 }
