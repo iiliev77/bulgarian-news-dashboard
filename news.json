@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-11T13:21:09.204583+00:00",
+  "updated": "2026-10-11T13:36:40.019842+00:00",
   "articles": [
+    {
+      "title": "Земетресение е регистрирано край Сливен",
+      "url": "https://dariknews.bg/regioni/sliven/zemetresenie-e-registrirano-kraj-sliven-2468750",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+    },
+    {
+      "title": "Октомврийска жега в Русе: Бяха измерени 33,7 градуса на сянка",
+      "url": "https://dariknews.bg/regioni/ruse/oktomvrijska-zhega-v-ruse-biaha-izmereni-337-gradusa-na-sianka-2468749",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51282/51282359/991-ratio-zhena-slynce.jpg"
+    },
     {
       "title": "Полша свиква спешно антитерористично заседание заради заплахи срещу Доналд Туск и министри",
       "url": "https://dariknews.bg/novini/sviat/polsha-svikva-speshno-antiteroristichno-zasedanie-zaradi-zaplahi-sreshtu-donald-tusk-i-ministri-2468748",
@@ -128,28 +142,14 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Иран засилва натиска над жените, отказващи да носят хиджаб",
-      "url": "https://dariknews.bg/novini/sviat/iran-zasilva-natiska-nad-zhenite-otkazvashti-da-nosiat-hidzhab-2468656",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/40986/40986121/991-ratio-iran-zheni.jpg"
-    },
-    {
-      "title": "Кой празнува имен ден на 11 октомври",
-      "url": "https://dariknews.bg/novini/obshtestvo/koj-praznuva-imen-den-na-11-oktomvri-2468730",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
-    },
-    {
-      "title": "На живо: Септември изпусна втора дузпа срещу Дунав 11 Окт | 16:20",
+      "title": "На живо: Дунав намали пасива си срещу Септември 11 Окт | 16:20",
       "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038685.og.jpg"
     },
     {
-      "title": "На живо: Черно море - Левски (Състави) 11 Окт | 16:18",
+      "title": "На живо: Черно море - Левски, Вуцов на пейката (Състави) 11 Окт | 16:18",
       "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
       "source": "Dsport",
       "section": "sport",
