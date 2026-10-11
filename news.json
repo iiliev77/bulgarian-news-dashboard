@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-11T08:19:23.619424+00:00",
+  "updated": "2026-10-11T08:36:25.862860+00:00",
   "articles": [
+    {
+      "title": "14-годишният, обвинен за убийството на майка си в Пловдив, остава в ареста",
+      "url": "https://dariknews.bg/regioni/plovdiv/14-godishniiat-obvinen-za-ubijstvoto-na-majka-si-v-plovdiv-ostava-v-aresta-2468739",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Празник в русенско село завърши трагично: 33-годишен мъж почина след масово сбиване",
+      "url": "https://dariknews.bg/regioni/ruse/praznik-v-rusensko-selo-zavyrshi-tragichno-33-godishen-myzh-pochina-sled-masovo-sbivane-2468738",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
+    },
     {
       "title": "Директорът на „Киберпрестъпност”:Бомбените заплахи целят да създадат хаос в обществото (ВИДЕО)",
       "url": "https://dariknews.bg/novini/bylgariia/direktoryt-na-kiberprestypnostbombenite-zaplahi-celiat-da-syzdadat-haos-v-obshtestvoto-video-2468737",
@@ -13,7 +27,7 @@
       "url": "https://dariknews.bg/novini/liubopitno/alisiia-prizna-misleh-da-se-otkazha-ot-muzikata-no-sinyt-mi-me-vyrna-kym-neia-video-2468736",
       "source": "DarikNews",
       "section": "news",
-      "image": ""
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Коя е Кейти Закария – новата говорителка на Белия дом",
@@ -34,7 +48,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/doc.-kunchev-sutrin-mryznem-sledobed-se-potim-doshlo-e-vremeto-na-respiratornite-virusi-2468733",
       "source": "DarikNews",
       "section": "news",
-      "image": ""
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "САЩ извадиха от строя товарен кораб, опитал да пробие блокадата на Иран",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394502/991-ratio-i.jpg"
     },
     {
-      "title": "Ново нападение с нож в училище във Варшава, трима души са ранени",
-      "url": "https://dariknews.bg/novini/sviat/novo-napadenie-s-nozh-v-uchilishte-vyv-varshava-trima-dushi-sa-raneni-2468723",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51110/51110240/991-ratio-nozh.jpg"
-    },
-    {
-      "title": "„Лукойл Нефтохим Бургас“: Няма риск от недостиг на дизел, докато рафинерията работи",
-      "url": "https://dariknews.bg/novini/bylgariia/lukojl-neftohim-burgas-niama-risk-ot-nedostig-na-dizel-dokato-rafineriiata-raboti-2468722",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51259/51259291/991-ratio-lukojl.jpg"
+      "title": "Киву: Момчетата се трудиха здраво, не знаехме как ще изгеждаме след паузата 11 Окт | 11:18",
+      "url": "https://dsport.bg/kivu-momchetata-se-trudiha-zdravo-ne-znaehme-kak-ste-izgezdame-sled-pauzata~241910.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299549356.og.jpg"
     },
     {
       "title": "Венсан Компани: Такъв е футболът понякога, две грешки ни костваха победата 11 Окт | 10:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1379663682.og.jpg"
-    },
-    {
-      "title": "Нахлуване и бой с полицията след мач в Шотландия (ВИДЕО) 11 Окт | 08:25",
-      "url": "https://dsport.bg/nahluvane-i-boi-s-policiata-sled-mach-v-shotlandia-video~241900.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298968447.og.jpg"
     }
   ]
 }
