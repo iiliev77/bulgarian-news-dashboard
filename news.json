@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-11T15:27:21.146140+00:00",
+  "updated": "2026-10-11T15:42:48.074640+00:00",
   "articles": [
     {
-      "title": "11 загинали и 27 ранени при тежка катастрофа в Турция",
-      "url": "https://dariknews.bg/novini/sviat/11-zaginali-i-27-raneni-pri-tezhka-katastrofa-v-turciia-2468751",
+      "title": "Нова атака срещу летището в Рияд",
+      "url": "https://dariknews.bg/novini/sviat/nova-ataka-sreshtu-letishteto-v-riiad-2468752",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35349/35349940/991-ratio-riiad.jpg"
+    },
+    {
+      "title": "11 загинали и 27 ранени при тежка катастрофа в Турция (СНИМКА)",
+      "url": "https://dariknews.bg/novini/sviat/11-zaginali-i-27-raneni-pri-tezhka-katastrofa-v-turciia-snimka-2468751",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
@@ -135,11 +142,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "САЩ извадиха от строя товарен кораб, опитал да пробие блокадата на Иран",
-      "url": "https://dariknews.bg/novini/sviat/sasht-izvadiha-ot-stroia-tovaren-korab-opital-da-probie-blokadata-na-iran-2468732",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394595/991-ratio-dim-se-izdiga-ot-plavashtiia-pod-tajlandski-flag-korab-za.jpg"
+      "title": "Борусия Мьонхенгладбах продължава да копае дъното в Бундеслигата 11 Окт | 18:37",
+      "url": "https://dsport.bg/borusia-monhengladbah-prodalzava-da-kopae-danoto-v-bundesliga~241957.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299671202.og.jpg"
+    },
+    {
+      "title": "На живо: Левски води срещу Черно море, Сангаре се контузи 11 Окт | 18:36",
+      "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038745.og.jpg"
+    },
+    {
+      "title": "Локомотив Горна Оряховица с официална позиция след скандала на юношески мач 11 Окт | 18:34",
+      "url": "https://dsport.bg/lokomotiv-gorna-orahovica-s-oficialna-pozicia-sled-skandala-na-unosheski-mach~241958.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-11-183145.og.png"
+    },
+    {
+      "title": "На живо: Ливърпул - Манчестър Сити 11 Окт | 18:30",
+      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-34-.og.png"
     },
     {
       "title": "Ница обърна Страсбург с късен гол 11 Окт | 18:18",
@@ -147,13 +175,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/huw96u_wgaebpef.og.jpg"
-    },
-    {
-      "title": "На живо: Левски поведе срещу Черно море 11 Окт | 18:17",
-      "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038745.og.jpg"
     },
     {
       "title": "„Тигрите“ на Якирович и Евертън със зрелищен хикс, Палас обърна Форест 11 Окт | 18:04",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299675917.og.jpg"
-    },
-    {
-      "title": "Бруно Фернандеш с шокиращ антирекорд във Висшата лига 11 Окт | 17:32",
-      "url": "https://dsport.bg/bruno-fernandesh-s-shokirast-antirekord-vav-visshata-liga~241950.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299570446.og.jpg"
-    },
-    {
-      "title": "Проблем с дисциплината: НЕК наказа играч преди Левски 11 Окт | 17:25",
-      "url": "https://dsport.bg/problem-s-disciplinata-nek-nakaza-igrach-predi-levski~241948.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295176500.og.jpg"
-    },
-    {
-      "title": "На живо: Ливърпул - Манчестър Сити (Състави) 11 Окт | 17:22",
-      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-34-.og.png"
     }
   ]
 }
