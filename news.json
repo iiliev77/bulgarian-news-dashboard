@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:33:52.607693+00:00",
+  "updated": "2026-10-11T19:47:47.497180+00:00",
   "articles": [
     {
       "title": "Най-малко 72 души загинаха при въздушни удари по златна мина в Судан",
@@ -93,13 +93,6 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Пригответе чадърите: Понеделник идва с жълт код за значителни валежи в цялата страна",
-      "url": "https://dariknews.bg/novini/bylgariia/prigotvete-chadyrite-ponedelnik-idva-s-zhylt-kod-za-znachitelni-valezhi-v-cialata-strana-2468743",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44372/44372787/991-ratio-dyzhd-chadyr-esen.jpg"
-    },
-    {
       "title": "Свлачище предизвика внезапно наводнение в Непал, помете десетки къщи",
       "url": "https://dariknews.bg/novini/sviat/svlachishte-predizvika-vnezapno-navodnenie-v-nepal-pomete-desetki-kyshti-2468742",
       "source": "DarikNews",
@@ -140,6 +133,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51321/51321918/991-ratio-bomba.jpg"
+    },
+    {
+      "title": "Алисия призна: Мислех да се откажа от музиката, но синът ми ме върна към нея (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/liubopitno/alisiia-prizna-misleh-da-se-otkazha-ot-muzikata-no-sinyt-mi-me-vyrna-kym-neia-video-2468736",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Вальо Илиев: За пореден път играем срещу 14 човека, изглежда странно - защо? (ВИДЕО) 11 Окт | 22:43",
+      "url": "https://dsport.bg/valo-iliev-za-poreden-pat-igraem-srestu-14-choveka-izglezda-stranno-zasto-video~241977.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/994763~1.og.jpg"
     },
     {
       "title": "Огнян Младенов: Положителното е, че показахме характер 11 Окт | 22:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299693849.og.jpg"
-    },
-    {
-      "title": "Нико Пас: Изживях две невероятни седмици с Меси, но сбогуването беше тъжно 11 Окт | 20:45",
-      "url": "https://dsport.bg/niko-pas-izzivah-dve-neveroatni-sedmici-s-mesi-no-sboguvaneto-beshe-tazno~241968.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298973365.og.jpg"
     }
   ]
 }
