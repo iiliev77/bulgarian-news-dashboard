@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:15:19.475999+00:00",
+  "updated": "2026-10-11T14:31:40.635955+00:00",
   "articles": [
     {
       "title": "Земетресение е регистрирано край Сливен",
@@ -142,6 +142,27 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Проблем с дисциплината: НЕК наказа играч преди Левски 11 Окт | 17:25",
+      "url": "https://dsport.bg/problem-s-disciplinata-nek-nakaza-igrach-predi-levski~241948.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295176500.og.jpg"
+    },
+    {
+      "title": "На живо: Ливърпул - Манчестър Сити (Състави) 11 Окт | 17:22",
+      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-34-.og.png"
+    },
+    {
+      "title": "Георги Чиликов: Септември заслужаваше да победи, но това е футболът 11 Окт | 17:13",
+      "url": "https://dsport.bg/georgi-chilikov-septemvri-zasluzavashe-da-pobedi-no-tova-e-futbolat~241947.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038671~1.og.jpg"
+    },
+    {
       "title": "Лъчо Танев отговори на Стилиян Петров: Стреми се към властта и ме атакува, не съм зависим от БФС 11 Окт | 17:10",
       "url": "https://dsport.bg/lacho-tanev-otgovori-na-stilian-petrov-stremi-se-kam-vlastta-i-me-atakuva-ne-sam-zavisim-ot-bfs~241945.html",
       "source": "Dsport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299569708.og.jpg"
-    },
-    {
-      "title": "Александър Везенков и Олимпиакос с втора победа за сезона в Гърция 11 Окт | 15:58",
-      "url": "https://dsport.bg/aleksandar-vezenkov-i-olimpiakos-s-vtora-pobeda-za-sezona-v-garcia~241940.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2216989519-2-1-1-1-2-1-1-2.og.jpg"
-    },
-    {
-      "title": "Ракетна атака спря мач от украинското първенство 11 Окт | 15:52",
-      "url": "https://dsport.bg/raketna-ataka-spra-mach-ot-ukrainskoto-parvenstvo~241939.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2292320226.og.jpg"
-    },
-    {
-      "title": "Първата група на Гиздол е без Гбамен 11 Окт | 15:45",
-      "url": "https://dsport.bg/parvata-grupa-na-gizdol-e-bez-gbamen~241938.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1027891~1.og.jpg"
     }
   ]
 }
