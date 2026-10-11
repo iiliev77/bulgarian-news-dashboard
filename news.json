@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T11:54:41.551886+00:00",
+  "updated": "2026-10-11T12:05:28.966994+00:00",
   "articles": [
+    {
+      "title": "Папа Лъв XIV влиза в болница за операция",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-vliza-v-bolnica-za-operaciia-2468747",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51103/51103203/991-ratio-papa-lyv.jpg"
+    },
     {
       "title": "Пулев води 30 представители на бизнеса на мисия „Отбрана и сигурност“ в САЩ",
       "url": "https://dariknews.bg/novini/bylgariia/pulev-vodi-30-predstaviteli-na-biznesa-na-misiia-otbrana-i-sigurnost-v-sasht-2468746",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51304/51304737/991-ratio-domati.jpg"
     },
     {
-      "title": "Къпините крият истинско богатство: Ето какви ползи носят",
-      "url": "https://dariknews.bg/novini/liubopitno/kypinite-kriiat-istinsko-bogatstvo-eto-kakvi-polzi-nosiat-2468279",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50950/50950147/991-ratio-kypini.jpg"
+      "title": "На живо: Септември София – Дунав Русе 11 Окт | 15:00",
+      "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/theday1.og.png"
+    },
+    {
+      "title": "Никола Цолов се наслаждава на плажа в свободното време 11 Окт | 14:58",
+      "url": "https://dsport.bg/nikola-colov-se-naslazdava-na-plaza-v-svobodnoto-vreme~241932.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297218298-1.og.jpg"
+    },
+    {
+      "title": "Фенове на Манчестър Юнайтед с неочаквана подкрепа за хакера, разкрил финансовите машинации на Сити 11 Окт | 14:46",
+      "url": "https://dsport.bg/fenove-na-manchestar-unaited-s-neochakvana-podkrepa-za-hakera-razkril-finansovite-mashinacii-na-siti~241930.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299541853.og.jpg"
     },
     {
       "title": "Това ли е най-красивата волейболистка на Босна и Херцеговина? 11 Окт | 14:39",
@@ -184,32 +205,11 @@
       "image": "https://dsport.bg/media/385/gettyimages-2299572251.og.jpg"
     },
     {
-      "title": "На живо: Септември София – Дунав Русе (Състави) 11 Окт | 13:52",
-      "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/theday1.og.png"
-    },
-    {
       "title": "Алегри опитва да смени позицията на Де Бройне, той недоволства 11 Окт | 13:47",
       "url": "https://dsport.bg/alegri-opitva-da-smeni-poziciata-na-de-broine-toi-nedovolstva~241920.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299571012.og.jpg"
-    },
-    {
-      "title": "Винисиус не е сам (ВИДЕО) 11 Окт | 13:33",
-      "url": "https://dsport.bg/vinisius-ne-e-sam-video~241919.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299571899.og.jpg"
-    },
-    {
-      "title": "Ако се спази законът - Винисиус пропуска Ел Класико 11 Окт | 13:26",
-      "url": "https://dsport.bg/ako-se-spazi-zakonat-vinisius-propuska-el-klasiko~241918.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299573907.og.jpg"
     }
   ]
 }
