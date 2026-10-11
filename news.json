@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:18:05.016767+00:00",
+  "updated": "2026-10-11T17:33:49.968904+00:00",
   "articles": [
     {
       "title": "Тръмп: Има енергийно примирие между Русия и Украйна, което влиза в сила незабавно",
@@ -142,14 +142,21 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394613/991-ratio-kejti-zakariia.jpg"
     },
     {
-      "title": "На живо: ЦСКА 1948 - ЦСКА 11 Окт | 20:13",
+      "title": "На живо: ЦСКА набързо вкара втори гол в Бистрица 11 Окт | 20:25",
       "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038952.og.jpg"
     },
     {
-      "title": "На живо: Манчестър Сити води на Ливърпул, мърсисайдци с 10 11 Окт | 20:07",
+      "title": "БУТОНКИТЕ: Левски преджапа плиткото море 11 Окт | 20:23",
+      "url": "https://dsport.bg/butonkite-levski-predzapa-plitkoto-more~241967.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/2026-10-11-butonki_thumb_tometo-ok.og.jpg"
+    },
+    {
+      "title": "Манчестър Сити мина успешно и през „Анфийлд“ за шест от шест във ВЛ 11 Окт | 20:21",
       "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/green-champions-victory-huddle.og.png"
-    },
-    {
-      "title": "115: „Анфийлд“ категоричен за Манчестър Сити 11 Окт | 18:55",
-      "url": "https://dsport.bg/115-anfiild-kategorichen-za-manchestar-siti~241961.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299680765-1-.og.jpg"
     }
   ]
 }
