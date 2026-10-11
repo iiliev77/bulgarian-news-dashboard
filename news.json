@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T07:01:59.668067+00:00",
+  "updated": "2026-10-11T07:19:40.963397+00:00",
   "articles": [
+    {
+      "title": "Коя е Кейти Закария – новата говорителка на Белия дом",
+      "url": "https://dariknews.bg/novini/sviat/koia-e-kejti-zakariia-novata-govoritelka-na-beliia-dom-2468735",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394613/991-ratio-kejti-zakariia.jpg"
+    },
     {
       "title": "Рълев и Иванина след напрежението на Арената: Раду прекали! (ВИДЕО)",
       "url": "https://dariknews.bg/novini/liubopitno/rylev-i-ivanina-sled-naprezhenieto-na-arenata-radu-prekali-video-2468734",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388325/991-ratio-katastrofa.jpg"
     },
     {
-      "title": "Двама души загинаха при челен сблъсък край Айтос",
-      "url": "https://dariknews.bg/novini/dvama-dushi-zaginaha-pri-chelen-sblysyk-kraj-ajtos-2468719",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394331/991-ratio-katastrofa.jpg"
+      "title": "Флик: След такива паузи е трудно и ранният гол бе ключов 11 Окт | 10:12",
+      "url": "https://dsport.bg/flik-sled-takiva-pauzi-e-trudno-i-ranniat-gol-be-kluchov~241906.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2294357482.og.jpg"
+    },
+    {
+      "title": "Бастунов бе заменен, а Христов не игра при загуба на Визела от дубъла на Спортинг 11 Окт | 09:56",
+      "url": "https://dsport.bg/bastunov-be-zamenen-a-hristov-ne-igra-pri-zaguba-na-vizela-ot-dubala-na-sporting~241905.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/11.10-2.og.jpg"
     },
     {
       "title": "Артета: Трябваше да се справим по-добре, нещо в нашата идентичност бе засегнато срещу Брайтън 11 Окт | 09:42",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299572648.og.jpg"
-    },
-    {
-      "title": "Монако се срина от 2:0 преди мача с ЦСКА 10 Окт | 23:52",
-      "url": "https://dsport.bg/monako-se-srina-ot-2-0-predi-macha-s-cska~241896.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/hus_-hixaaacxkj.og.jpg"
-    },
-    {
-      "title": "ПСЖ започна да трупа скорост във Франция 10 Окт | 23:45",
-      "url": "https://dsport.bg/psz-zapochna-da-trupa-skorost-vav-francia~241895.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299569831.og.jpg"
     }
   ]
 }
