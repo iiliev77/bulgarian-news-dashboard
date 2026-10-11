@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T12:05:28.966994+00:00",
+  "updated": "2026-10-11T12:27:35.074876+00:00",
   "articles": [
+    {
+      "title": "Полша свиква спешно антитерористично заседание заради заплахи срещу Доналд Туск и министри",
+      "url": "https://dariknews.bg/novini/sviat/polsha-svikva-speshno-antiteroristichno-zasedanie-zaradi-zaplahi-sreshtu-donald-tusk-i-ministri-2468748",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51190/51190602/991-ratio-polskiiat-premier-donald-tusk.jpg"
+    },
     {
       "title": "Папа Лъв XIV влиза в болница за операция",
       "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-vliza-v-bolnica-za-operaciia-2468747",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
     },
     {
-      "title": "Цените на храните на едро продължават да растат: Доматите поскъпнаха с близо 17%",
-      "url": "https://dariknews.bg/novini/bylgariia/cenite-na-hranite-na-edro-prodylzhavat-da-rastat-domatite-poskypnaha-s-blizo-17-2468729",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51304/51304737/991-ratio-domati.jpg"
-    },
-    {
-      "title": "На живо: Септември София – Дунав Русе 11 Окт | 15:00",
+      "title": "На живо: Септември поведе срещу Дунав Русе 11 Окт | 15:26",
       "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/theday1.og.png"
+      "image": "https://dsport.bg/media/385/1038672.og.jpg"
+    },
+    {
+      "title": "Обкръжението на Винисиус с остра реакция след спорния му червен картон 11 Окт | 15:14",
+      "url": "https://dsport.bg/obkrazenieto-na-vinisius-s-ostra-reakcia-sled-spornia-mu-cherven-karton~241934.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299572207.og.jpg"
     },
     {
       "title": "Никола Цолов се наслаждава на плажа в свободното време 11 Окт | 14:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299572251.og.jpg"
-    },
-    {
-      "title": "Алегри опитва да смени позицията на Де Бройне, той недоволства 11 Окт | 13:47",
-      "url": "https://dsport.bg/alegri-opitva-da-smeni-poziciata-na-de-broine-toi-nedovolstva~241920.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299571012.og.jpg"
     }
   ]
 }
