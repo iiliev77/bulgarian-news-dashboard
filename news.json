@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:42:48.074640+00:00",
+  "updated": "2026-10-11T15:55:50.713726+00:00",
   "articles": [
     {
       "title": "Нова атака срещу летището в Рияд",
@@ -142,18 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "На живо: Рейналдо наказа Черно море 11 Окт | 18:51",
+      "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038745.og.jpg"
+    },
+    {
+      "title": "На живо: ЦСКА 1948 - ЦСКА (Състави) 11 Окт | 18:47",
+      "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-11-.og.jpg"
+    },
+    {
       "title": "Борусия Мьонхенгладбах продължава да копае дъното в Бундеслигата 11 Окт | 18:37",
       "url": "https://dsport.bg/borusia-monhengladbah-prodalzava-da-kopae-danoto-v-bundesliga~241957.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299671202.og.jpg"
-    },
-    {
-      "title": "На живо: Левски води срещу Черно море, Сангаре се контузи 11 Окт | 18:36",
-      "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038745.og.jpg"
     },
     {
       "title": "Локомотив Горна Оряховица с официална позиция след скандала на юношески мач 11 Окт | 18:34",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2257258356.og.jpg"
-    },
-    {
-      "title": "Олимпийската шампионка взе втората най-голяма титла в кариерата си 11 Окт | 17:40",
-      "url": "https://dsport.bg/olimpiiskata-shampionka-vze-vtorata-nai-golama-titla-v-karierata-si~241951.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299675917.og.jpg"
     }
   ]
 }
