@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-11T05:03:51.770842+00:00",
+  "updated": "2026-10-11T05:21:12.846379+00:00",
   "articles": [
+    {
+      "title": "Тръмп: Путин иска мирно споразумение, а Зеленски - не",
+      "url": "https://dariknews.bg/novini/sviat/trymp-putin-iska-mirno-sporazumenie-a-zelenski-ne-2468731",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384485/991-ratio-donald-trymp.jpg"
+    },
+    {
+      "title": "Иран засилва натиска над жените, отказващи да носят хиджаб",
+      "url": "https://dariknews.bg/novini/sviat/iran-zasilva-natiska-nad-zhenite-otkazvashti-da-nosiat-hidzhab-2468656",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/40986/40986121/991-ratio-iran-zheni.jpg"
+    },
     {
       "title": "Кой празнува имен ден на 11 октомври",
       "url": "https://dariknews.bg/novini/obshtestvo/koj-praznuva-imen-den-na-11-oktomvri-2468730",
@@ -55,7 +69,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/nedelia-nosi-dyzhd-i-grymotevici-na-zapad-a-ot-ponedelnik-idva-zastudiavane-2468726",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306061/991-ratio-proleten-dyzhd.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Тръмп: Време е Украйна да има нов президент",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51039/51039727/991-ratio-dmitrij-peskov-i-vladimir-putin.jpg"
     },
     {
-      "title": "„Бойкот на наглите цени“ събра над 50 000 души: Какво разгневи потребителите (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/obshtestvo/bojkot-na-naglite-ceni-sybra-nad-50-000-dushi-kakvo-razgnevi-potrebitelite-video-2468715",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Турция забрани социалните мрежи за деца под 15 години",
-      "url": "https://dariknews.bg/novini/sviat/turciia-zabrani-socialnite-mrezhi-za-deca-pod-15-godini-2468714",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50852/50852882/991-ratio-dete-smartfon-telefon.jpg"
+      "title": "Политически отзвук за ритника в главата на юношески мач, припомниха се Стоичков и Кантона 11 Окт | 08:10",
+      "url": "https://dsport.bg/politicheski-otzvuk-za-ritnika-v-glavata-na-unosheski-mach-pripomniha-se-stoichkov-i-kantona~241899.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/11.10-1.og.jpg"
     },
     {
       "title": "НЕК завъртя равен на Аякс и чака Левски 11 Окт | 00:12",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1028329.og.jpg"
-    },
-    {
-      "title": "В памет на Илиян Филипов - Ботев Пловдив победи Славия пред пълния „Христо Ботев“ 10 Окт | 22:13",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-slavia-sastavi~241873.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038588.og.jpg"
     }
   ]
 }
