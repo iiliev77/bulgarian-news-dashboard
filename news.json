@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-11T11:11:44.806962+00:00",
+  "updated": "2026-10-11T11:27:36.752994+00:00",
   "articles": [
+    {
+      "title": "Наводнения и свлачища обхванаха Южна Италия (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/navodneniia-i-svlachishta-obhvanaha-iuzhna-italiia-snimki-2468745",
+      "source": "DarikNews",
+      "section": "news",
+      "image": ""
+    },
     {
       "title": "Смъртоносна атака срещу летището в Рияд, САЩ и ЕС осъдиха ударите (ОБЗОР)",
       "url": "https://dariknews.bg/novini/sviat/smyrtonosna-ataka-sreshtu-letishteto-v-riiad-sasht-i-es-osydiha-udarite-obzor-2468744",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": ""
     },
     {
       "title": "Пригответе чадърите: Понеделник идва с жълт код за значителни валежи в цялата страна",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50370/50370946/991-ratio-oryzhiia.jpg"
     },
     {
-      "title": "За първи път астрономи наблюдаваха звезда „вампир“, която поглъща своя спътник",
-      "url": "https://dariknews.bg/novini/obshtestvo/za-pyrvi-pyt-astronomi-nabliudavaha-zvezda-vampir-koiato-poglyshta-svoia-spytnik-2468699",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50818/50818723/991-ratio-kosmos.jpg"
+      "title": "Камдем се завръща за Левски 11 Окт | 14:20",
+      "url": "https://dsport.bg/kamdem-se-zavrasta-za-levski~241926.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/877305-2.og.jpg"
+    },
+    {
+      "title": "Кабаков ще свири на Байерн Мюнхен в Шампионска лига 11 Окт | 14:18",
+      "url": "https://dsport.bg/kabakov-ste-sviri-na-baiern-munhen-v-shampionska-liga~241925.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/346934-2~2.og.jpg"
+    },
+    {
+      "title": "Телевизията на Реал Мадрид избухна: Това е корумпираната „Лига на Негрейра“ 11 Окт | 14:05",
+      "url": "https://dsport.bg/televiziata-na-real-madrid-izbuhna-tova-e-korumpiranata-liga-na-negreira~241924.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299572251.og.jpg"
     },
     {
       "title": "На живо: Септември София – Дунав Русе (Състави) 11 Окт | 13:52",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038665.og.jpg"
-    },
-    {
-      "title": "Де Дзерби: Хареса ми реакцията след червения картон, защото не приехме поражението 11 Окт | 12:20",
-      "url": "https://dsport.bg/de-dzerbi-haresa-mi-reakciata-sled-chervenia-karton-zastoto-ne-priehme-porazenieto~241914.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299547308.og.jpg"
-    },
-    {
-      "title": "Луис Енрике: Резултатът е почти перфектен 11 Окт | 12:05",
-      "url": "https://dsport.bg/luis-enrike-rezultatat-e-pochti-perfekten~241913.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2290042426~1.og.jpg"
-    },
-    {
-      "title": "Янаки Милев отпадна на полуфиналите в Палермо 11 Окт | 11:46",
-      "url": "https://dsport.bg/anaki-milev-otpadna-na-polufinalite-v-palermo~241912.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/02.09-6-1~1.og.jpg"
     }
   ]
 }
