@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:55:50.713726+00:00",
+  "updated": "2026-10-11T16:05:58.548504+00:00",
   "articles": [
     {
       "title": "Нова атака срещу летището в Рияд",
@@ -142,11 +142,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "На живо: Рейналдо наказа Черно море 11 Окт | 18:51",
+      "title": "На живо: Рейналдо наказа Черно море 11 Окт | 19:03",
       "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038745.og.jpg"
+    },
+    {
+      "title": "Историческа титла в Естония - шампионът с огромна преднина, големият съперник сервира златото 11 Окт | 18:58",
+      "url": "https://dsport.bg/istoricheska-titla-v-estonia-shampionat-s-ogromna-prednina-golemiat-sapernik-servira-zlatoto~241960.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/green-champions-victory-huddle.og.png"
+    },
+    {
+      "title": "115: „Анфийлд“ категоричен за Манчестър Сити 11 Окт | 18:55",
+      "url": "https://dsport.bg/115-anfiild-kategorichen-za-manchestar-siti~241961.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299682347-1-.og.jpg"
+    },
+    {
+      "title": "На живо: Ливърпул - Манчестър Сити 11 Окт | 18:50",
+      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299688901.og.jpg"
     },
     {
       "title": "На живо: ЦСКА 1948 - ЦСКА (Състави) 11 Окт | 18:47",
@@ -170,13 +191,6 @@
       "image": "https://dsport.bg/media/385/screenshot-2026-10-11-183145.og.png"
     },
     {
-      "title": "На живо: Ливърпул - Манчестър Сити 11 Окт | 18:30",
-      "url": "https://dsport.bg/na-zivo-livarpul-manchestar-siti-sastavi~241949.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-34-.og.png"
-    },
-    {
       "title": "Ница обърна Страсбург с късен гол 11 Окт | 18:18",
       "url": "https://dsport.bg/nica-obarna-strasburg-s-kasen-gol~241956.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299669353.og.jpg"
-    },
-    {
-      "title": "Ибрахимович с култов коментар за драмата с Винисиус на \"Бернабеу\" 11 Окт | 17:47",
-      "url": "https://dsport.bg/ibrahimovich-s-kultov-komentar-za-dramata-s-vinisius-na-bernabeu~241954.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299571242.og.jpg"
-    },
-    {
-      "title": "След 7-годишна пауза: Зеедорф се върна край тъчлинията 11 Окт | 17:42",
-      "url": "https://dsport.bg/sled-7-godishna-pauza-zeedorf-se-varna-krai-tachliniata~241952.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2257258356.og.jpg"
     }
   ]
 }
