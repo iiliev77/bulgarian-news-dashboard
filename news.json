@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T11:41:38.021964+00:00",
+  "updated": "2026-10-11T11:54:41.551886+00:00",
   "articles": [
+    {
+      "title": "Пулев води 30 представители на бизнеса на мисия „Отбрана и сигурност“ в САЩ",
+      "url": "https://dariknews.bg/novini/bylgariia/pulev-vodi-30-predstaviteli-na-biznesa-na-misiia-otbrana-i-sigurnost-v-sasht-2468746",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51334/51334129/991-ratio-aleksandyr-pulev.jpg"
+    },
     {
       "title": "Наводнения и свлачища обхванаха Южна Италия (СНИМКИ)",
       "url": "https://dariknews.bg/novini/sviat/navodneniia-i-svlachishta-obhvanaha-iuzhna-italiia-snimki-2468745",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50950/50950147/991-ratio-kypini.jpg"
     },
     {
-      "title": "Молдова планира да произвежда дронове и оръжия за собствената си сигурност",
-      "url": "https://dariknews.bg/novini/sviat/moldova-planira-da-proizvezhda-dronove-i-oryzhiia-za-sobstvenata-si-sigurnost-2468700",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50370/50370946/991-ratio-oryzhiia.jpg"
-    },
-    {
       "title": "Това ли е най-красивата волейболистка на Босна и Херцеговина? 11 Окт | 14:39",
       "url": "https://dsport.bg/tova-li-e-nai-krasivata-voleibolistka-na-bosna-i-hercegovina~241929.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot-2026-10-11-143228.og.png"
+    },
+    {
+      "title": "Барселона на Флик преследва исторически рекорд на Реал Мадрид 11 Окт | 14:37",
+      "url": "https://dsport.bg/barselona-na-flik-presledva-istoricheski-rekord-na-real-madrid~241928.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299567133.og.jpg"
     },
     {
       "title": "Винисиус се извини за червения картон срещу Виляреал 11 Окт | 14:25",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299573907.og.jpg"
-    },
-    {
-      "title": "Край на сапунката: Португалия обяви кога очаква завръщането на Кристиано Роналдо 11 Окт | 13:11",
-      "url": "https://dsport.bg/krai-na-sapunkata-portugalia-obavi-koga-ochakva-zavrastaneto-na-kristiano-ronaldo~241917.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2284926679.og.jpg"
     }
   ]
 }
