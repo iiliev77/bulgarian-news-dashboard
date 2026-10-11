@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:27:35.074876+00:00",
+  "updated": "2026-10-11T12:48:32.543442+00:00",
   "articles": [
     {
       "title": "Полша свиква спешно антитерористично заседание заради заплахи срещу Доналд Туск и министри",
@@ -142,11 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
     },
     {
-      "title": "На живо: Септември поведе срещу Дунав Русе 11 Окт | 15:26",
+      "title": "На живо: Септември вкара втори гол срещу Дунав Русе след огромна вратарска грешка 11 Окт | 15:46",
       "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038672.og.jpg"
+    },
+    {
+      "title": "Първата група на Гиздол е без Гбамен 11 Окт | 15:45",
+      "url": "https://dsport.bg/parvata-grupa-na-gizdol-e-bez-gbamen~241938.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1027891~1.og.jpg"
+    },
+    {
+      "title": "Първо и неочаквано 0:0 в Серия А, Комо и Рома не се биха в изнервен мач 11 Окт | 15:31",
+      "url": "https://dsport.bg/parvo-i-mnogo-neochakvano-0-0-v-seria-a-komo-i-roma-ne-se-biha-v-iznerven-mach~241935.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299655538.og.jpg"
+    },
+    {
+      "title": "Локомотив Пловдив победи Спартак в Плевен 11 Окт | 15:30",
+      "url": "https://dsport.bg/lokomotiv-plovdiv-pobedi-spartak-v-pleven~241936.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/983249~1.og.jpg"
     },
     {
       "title": "Обкръжението на Винисиус с остра реакция след спорния му червен картон 11 Окт | 15:14",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299571733.og.jpg"
-    },
-    {
-      "title": "Камдем се завръща за Левски 11 Окт | 14:20",
-      "url": "https://dsport.bg/kamdem-se-zavrasta-za-levski~241926.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/877305-2.og.jpg"
-    },
-    {
-      "title": "Кабаков ще свири на Байерн Мюнхен в Шампионска лига 11 Окт | 14:18",
-      "url": "https://dsport.bg/kabakov-ste-sviri-na-baiern-munhen-v-shampionska-liga~241925.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/346934-2~2.og.jpg"
-    },
-    {
-      "title": "Телевизията на Реал Мадрид избухна: Това е корумпираната „Лига на Негрейра“ 11 Окт | 14:05",
-      "url": "https://dsport.bg/televiziata-na-real-madrid-izbuhna-tova-e-korumpiranata-liga-na-negreira~241924.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299572251.og.jpg"
     }
   ]
 }
