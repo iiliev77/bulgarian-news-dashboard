@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:00:31.766781+00:00",
+  "updated": "2026-10-11T14:15:19.475999+00:00",
   "articles": [
     {
       "title": "Земетресение е регистрирано край Сливен",
@@ -142,6 +142,20 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Лъчо Танев отговори на Стилиян Петров: Стреми се към властта и ме атакува, не съм зависим от БФС 11 Окт | 17:10",
+      "url": "https://dsport.bg/lacho-tanev-otgovori-na-stilian-petrov-stremi-se-kam-vlastta-i-me-atakuva-ne-sam-zavisim-ot-bfs~241945.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/595836-1-.og.jpg"
+    },
+    {
+      "title": "Фрейташ съжали за допуснатия обрат: Можеше да спечелим с 3-4 гола 11 Окт | 17:05",
+      "url": "https://dsport.bg/freitash-sazali-za-dopusnatia-obrat-mozeshe-da-spechelim-s-3-4-gola~241946.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038689~1.og.jpg"
+    },
+    {
       "title": "Дунав с невероятен обрат в София, Септември изпусна две дузпи и два гола преднина 11 Окт | 16:58",
       "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1027891~1.og.jpg"
-    },
-    {
-      "title": "Първо и неочаквано 0:0 в Серия А, Комо и Рома не се биха в изнервен мач 11 Окт | 15:31",
-      "url": "https://dsport.bg/parvo-i-mnogo-neochakvano-0-0-v-seria-a-komo-i-roma-ne-se-biha-v-iznerven-mach~241935.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299655538.og.jpg"
-    },
-    {
-      "title": "Локомотив Пловдив победи Спартак в Плевен 11 Окт | 15:30",
-      "url": "https://dsport.bg/lokomotiv-plovdiv-pobedi-spartak-v-pleven~241936.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/983249~1.og.jpg"
     }
   ]
 }
