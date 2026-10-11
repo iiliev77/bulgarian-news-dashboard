@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T09:36:09.217524+00:00",
+  "updated": "2026-10-11T09:50:58.266110+00:00",
   "articles": [
     {
       "title": "Борисов призова за спиране на износа на дизел и временно намаляване на ДДС върху горивата",
@@ -41,7 +41,7 @@
       "url": "https://dariknews.bg/novini/liubopitno/alisiia-prizna-misleh-da-se-otkazha-ot-muzikata-no-sinyt-mi-me-vyrna-kym-neia-video-2468736",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": ""
     },
     {
       "title": "Коя е Кейти Закария – новата говорителка на Белия дом",
@@ -142,6 +142,13 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Кенийска доминация в Маратона на София 11 Окт | 12:44",
+      "url": "https://dsport.bg/keniiska-dominacia-v-maratona-na-sofia~241915.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038665.og.jpg"
+    },
+    {
       "title": "Де Дзерби: Хареса ми реакцията след червения картон, защото не приехме поражението 11 Окт | 12:20",
       "url": "https://dsport.bg/de-dzerbi-haresa-mi-reakciata-sled-chervenia-karton-zastoto-ne-priehme-porazenieto~241914.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2294357482.og.jpg"
-    },
-    {
-      "title": "Бастунов бе заменен, а Христов не игра при загуба на Визела от дубъла на Спортинг 11 Окт | 09:56",
-      "url": "https://dsport.bg/bastunov-be-zamenen-a-hristov-ne-igra-pri-zaguba-na-vizela-ot-dubala-na-sporting~241905.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/11.10-2.og.jpg"
     }
   ]
 }
