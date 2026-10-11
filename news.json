@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:48:32.543442+00:00",
+  "updated": "2026-10-11T13:03:49.526517+00:00",
   "articles": [
     {
       "title": "Полша свиква спешно антитерористично заседание заради заплахи срещу Доналд Туск и министри",
@@ -142,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
     },
     {
-      "title": "На живо: Септември вкара втори гол срещу Дунав Русе след огромна вратарска грешка 11 Окт | 15:46",
+      "title": "Александър Везенков и Олимпиакос с втора победа за сезона в Гърция 11 Окт | 15:58",
+      "url": "https://dsport.bg/aleksandar-vezenkov-i-olimpiakos-s-vtora-pobeda-za-sezona-v-garcia~241940.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2216989519-2-1-1-1-2-1-1-2.og.jpg"
+    },
+    {
+      "title": "Ракетна атака спря мач от украинското първенство 11 Окт | 15:52",
+      "url": "https://dsport.bg/raketna-ataka-spra-mach-ot-ukrainskoto-parvenstvo~241939.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2292320226.og.jpg"
+    },
+    {
+      "title": "На живо: Септември вкара втори гол срещу Дунав Русе след огромна вратарска грешка 11 Окт | 15:51",
       "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1038672.og.jpg"
+      "image": "https://dsport.bg/media/385/1038685.og.jpg"
     },
     {
       "title": "Първата група на Гиздол е без Гбамен 11 Окт | 15:45",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot-2026-10-11-143228.og.png"
-    },
-    {
-      "title": "Барселона на Флик преследва исторически рекорд на Реал Мадрид 11 Окт | 14:37",
-      "url": "https://dsport.bg/barselona-na-flik-presledva-istoricheski-rekord-na-real-madrid~241928.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299567133.og.jpg"
-    },
-    {
-      "title": "Винисиус се извини за червения картон срещу Виляреал 11 Окт | 14:25",
-      "url": "https://dsport.bg/vinisius-se-izvini-za-chervenia-karton-srestu-vilareal~241927.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299571733.og.jpg"
     }
   ]
 }
