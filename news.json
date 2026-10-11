@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T14:59:39.850223+00:00",
+  "updated": "2026-10-11T15:11:37.228788+00:00",
   "articles": [
+    {
+      "title": "11 загинали и 27 ранени при тежка катастрофа в Турция",
+      "url": "https://dariknews.bg/novini/sviat/11-zaginali-i-27-raneni-pri-tezhka-katastrofa-v-turciia-2468751",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
+    },
     {
       "title": "Земетресение е регистрирано край Сливен",
       "url": "https://dariknews.bg/regioni/sliven/zemetresenie-e-registrirano-kraj-sliven-2468750",
@@ -135,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394595/991-ratio-dim-se-izdiga-ot-plavashtiia-pod-tajlandski-flag-korab-za.jpg"
     },
     {
-      "title": "Тръмп: Путин иска мирно споразумение, а Зеленски - не",
-      "url": "https://dariknews.bg/novini/sviat/trymp-putin-iska-mirno-sporazumenie-a-zelenski-ne-2468731",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На живо: Левски поведе срещу Черно море 11 Окт | 17:56",
+      "title": "На живо: Левски поведе срещу Черно море 11 Окт | 18:11",
       "url": "https://dsport.bg/na-zivo-cherno-more-levski-sastavi~241941.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1038708.og.jpg"
+      "image": "https://dsport.bg/media/385/1038728.og.jpg"
+    },
+    {
+      "title": "„Тигрите“ на Якирович и Евертън със зрелищен хикс, Палас обърна Форест 11 Окт | 18:04",
+      "url": "https://dsport.bg/tigrite-na-akirovich-i-evertan-sas-zrelisten-hiks-palas-obarna-forest~241955.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299673105.og.jpg"
+    },
+    {
+      "title": "Лацио удари Монца, защитник даде тон с топовен шут 11 Окт | 17:59",
+      "url": "https://dsport.bg/lacio-s-nova-pobeda-udari-monca~241953.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299669353.og.jpg"
     },
     {
       "title": "Ибрахимович с култов коментар за драмата с Винисиус на \"Бернабеу\" 11 Окт | 17:47",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038671~1.og.jpg"
-    },
-    {
-      "title": "Лъчо Танев отговори на Стилиян Петров: Стреми се към властта и ме атакува, не съм зависим от БФС 11 Окт | 17:10",
-      "url": "https://dsport.bg/lacho-tanev-otgovori-na-stilian-petrov-stremi-se-kam-vlastta-i-me-atakuva-ne-sam-zavisim-ot-bfs~241945.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/595836-1-.og.jpg"
-    },
-    {
-      "title": "Фрейташ съжали за допуснатия обрат: Можеше да спечелим с 3-4 гола 11 Окт | 17:05",
-      "url": "https://dsport.bg/freitash-sazali-za-dopusnatia-obrat-mozeshe-da-spechelim-s-3-4-gola~241946.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038689~1.og.jpg"
     }
   ]
 }
