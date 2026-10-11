@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T08:36:25.862860+00:00",
+  "updated": "2026-10-11T08:51:34.526671+00:00",
   "articles": [
     {
       "title": "14-годишният, обвинен за убийството на майка си в Пловдив, остава в ареста",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394502/991-ratio-i.jpg"
     },
     {
+      "title": "Янаки Милев отпадна на полуфиналите в Палермо 11 Окт | 11:46",
+      "url": "https://dsport.bg/anaki-milev-otpadna-na-polufinalite-v-palermo~241912.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/02.09-6-1~1.og.jpg"
+    },
+    {
+      "title": "Карик: Разбирам разочарованието на феновете, беше колеблив мач 11 Окт | 11:30",
+      "url": "https://dsport.bg/karik-razbiram-razocharovanieto-na-fenovete-beshe-kolebliv-mach~241911.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299555652.og.jpg"
+    },
+    {
       "title": "Киву: Момчетата се трудиха здраво, не знаехме как ще изгеждаме след паузата 11 Окт | 11:18",
       "url": "https://dsport.bg/kivu-momchetata-se-trudiha-zdravo-ne-znaehme-kak-ste-izgezdame-sled-pauzata~241910.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299565991.og.jpg"
-    },
-    {
-      "title": "Меси и Суарес се разиграха и лошата серия на Интер Маями приключи 11 Окт | 09:00",
-      "url": "https://dsport.bg/mesi-i-suares-se-razigraha-i-loshata-seria-na-inter-maami-prikluchi~241902.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299594600.og.jpg"
-    },
-    {
-      "title": "Нетипичното съперничество и последния ден от сезона - феновете нахлуха на терена и празнуваха със съперника 11 Окт | 08:43",
-      "url": "https://dsport.bg/netipichnoto-sapernichestvo-i-poslednia-den-ot-sezona-fenovete-nahluha-na-terena-i-praznuvaha-sas-sapernika~241901.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1379663682.og.jpg"
     }
   ]
 }
