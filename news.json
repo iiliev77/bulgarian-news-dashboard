@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:21:12.846379+00:00",
+  "updated": "2026-10-11T05:36:53.973669+00:00",
   "articles": [
     {
       "title": "Тръмп: Путин иска мирно споразумение, а Зеленски - не",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51039/51039727/991-ratio-dmitrij-peskov-i-vladimir-putin.jpg"
     },
     {
+      "title": "Нахлуване и бой с полицията след мач в Шотландия (ВИДЕО) 11 Окт | 08:25",
+      "url": "https://dsport.bg/nahluvane-i-boi-s-policiata-sled-mach-v-shotlandia-video~241900.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298968447.og.jpg"
+    },
+    {
       "title": "Политически отзвук за ритника в главата на юношески мач, припомниха се Стоичков и Кантона 11 Окт | 08:10",
       "url": "https://dsport.bg/politicheski-otzvuk-za-ritnika-v-glavata-na-unosheski-mach-pripomniha-se-stoichkov-i-kantona~241899.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038595~1.og.jpg"
-    },
-    {
-      "title": "Станислав Генчев: Този мач имаше огромна тежест, бяхме задължени да победим 10 Окт | 22:23",
-      "url": "https://dsport.bg/stanislav-genchev-tozi-mach-imashe-ogromna-tezest-bahme-zadalzeni-da-pobedim~241890.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1028329.og.jpg"
     }
   ]
 }
