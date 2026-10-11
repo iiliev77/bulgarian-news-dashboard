@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T10:48:04.361972+00:00",
+  "updated": "2026-10-11T10:58:53.376855+00:00",
   "articles": [
     {
       "title": "Смъртоносна атака срещу летището в Рияд, САЩ и ЕС осъдиха ударите (ОБЗОР)",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50818/50818723/991-ratio-kosmos.jpg"
     },
     {
+      "title": "На живо: Септември София – Дунав Русе (Състави) 11 Окт | 13:52",
+      "url": "https://dsport.bg/na-zivo-septemvri-sofia-dunav-ruse-sastavi~241921.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/theday1.og.png"
+    },
+    {
+      "title": "Алегри опитва да смени позицията на Де Бройне, той недоволства 11 Окт | 13:47",
+      "url": "https://dsport.bg/alegri-opitva-da-smeni-poziciata-na-de-broine-toi-nedovolstva~241920.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299571012.og.jpg"
+    },
+    {
       "title": "Винисиус не е сам (ВИДЕО) 11 Окт | 13:33",
       "url": "https://dsport.bg/vinisius-ne-e-sam-video~241919.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/02.09-6-1~1.og.jpg"
-    },
-    {
-      "title": "Карик: Разбирам разочарованието на феновете, беше колеблив мач 11 Окт | 11:30",
-      "url": "https://dsport.bg/karik-razbiram-razocharovanieto-na-fenovete-beshe-kolebliv-mach~241911.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299555652.og.jpg"
-    },
-    {
-      "title": "Киву: Момчетата се трудиха здраво, не знаехме как ще изгеждаме след паузата 11 Окт | 11:18",
-      "url": "https://dsport.bg/kivu-momchetata-se-trudiha-zdravo-ne-znaehme-kak-ste-izgezdame-sled-pauzata~241910.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299549356.og.jpg"
     }
   ]
 }
