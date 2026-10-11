@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:14:16.752074+00:00",
+  "updated": "2026-10-11T18:33:49.151459+00:00",
   "articles": [
     {
       "title": "Тръмп: Има енергийно примирие между Русия и Украйна, което влиза в сила незабавно",
@@ -142,7 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394613/991-ratio-kejti-zakariia.jpg"
     },
     {
-      "title": "На живо: ЦСКА води комфортно в Бистрица 11 Окт | 21:07",
+      "title": "Бетис надви Осасуна в зрелищен голов трилър 11 Окт | 21:32",
+      "url": "https://dsport.bg/betis-nadvi-osasuna-v-zrelisten-golov-trilar~241971.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299704126.og.jpg"
+    },
+    {
+      "title": "На живо: ЦСКА 1948 изравни на ЦСКА след два гола изоставане 11 Окт | 21:27",
       "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299660306.og.jpg"
-    },
-    {
-      "title": "Мубарик: Нуждаехме се от тази победа 11 Окт | 19:33",
-      "url": "https://dsport.bg/mubarik-nuzdaehme-se-ot-tazi-pobeda~241963.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038743~1.og.jpg"
     }
   ]
 }
