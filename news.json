@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-11T19:18:40.957863+00:00",
+  "updated": "2026-10-11T19:33:52.607693+00:00",
   "articles": [
+    {
+      "title": "Най-малко 72 души загинаха при въздушни удари по златна мина в Судан",
+      "url": "https://dariknews.bg/novini/sviat/naj-malko-72-dushi-zaginaha-pri-vyzdushni-udari-po-zlatna-mina-v-sudan-2468757",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50456/50456858/991-ratio-sudan.jpg"
+    },
     {
       "title": "Пеканов: Новото предложение за бюджета на ЕС не намалява парите за кохезия и земеделие",
       "url": "https://dariknews.bg/novini/bylgariia/pekanov-novoto-predlozhenie-za-biudzheta-na-es-ne-namaliava-parite-za-koheziia-i-zemedelie-2468755",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51321/51321918/991-ratio-bomba.jpg"
     },
     {
-      "title": "Алисия призна: Мислех да се откажа от музиката, но синът ми ме върна към нея (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/alisiia-prizna-misleh-da-se-otkazha-ot-muzikata-no-sinyt-mi-me-vyrna-kym-neia-video-2468736",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Огнян Младенов: Положителното е, че показахме характер 11 Окт | 22:30",
+      "url": "https://dsport.bg/ognan-mladenov-polozitelnoto-e-che-pokazahme-harakter~241976.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038943~1.og.jpg"
     },
     {
       "title": "Гиздол след дебюта си в ЦСКА: Много добра първа стъпка (ВИДЕО) 11 Окт | 22:16",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2298973365.og.jpg"
-    },
-    {
-      "title": "БУТОНКИТЕ: Левски преджапа плиткото море 11 Окт | 20:23",
-      "url": "https://dsport.bg/butonkite-levski-predzapa-plitkoto-more~241967.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/2026-10-11-butonki_thumb_tometo-ok.og.jpg"
     }
   ]
 }
