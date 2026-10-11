@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:33:49.151459+00:00",
+  "updated": "2026-10-11T18:52:17.103579+00:00",
   "articles": [
     {
       "title": "Тръмп: Има енергийно примирие между Русия и Украйна, което влиза в сила незабавно",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394613/991-ratio-kejti-zakariia.jpg"
     },
     {
+      "title": "На живо: ЦСКА посегна към победата с трети гол в Бистрица 11 Окт | 21:46",
+      "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039036.og.jpg"
+    },
+    {
       "title": "Бетис надви Осасуна в зрелищен голов трилър 11 Окт | 21:32",
       "url": "https://dsport.bg/betis-nadvi-osasuna-v-zrelisten-golov-trilar~241971.html",
       "source": "Dsport",
@@ -149,11 +156,11 @@
       "image": "https://dsport.bg/media/385/gettyimages-2299704126.og.jpg"
     },
     {
-      "title": "На живо: ЦСКА 1948 изравни на ЦСКА след два гола изоставане 11 Окт | 21:27",
-      "url": "https://dsport.bg/na-zivo-cska-1948-cska-sastavi~241959.html",
+      "title": "Фрайбург оглави Бундеслигата след драматична победа с човек по-малко 11 Окт | 21:28",
+      "url": "https://dsport.bg/fraiburg-oglavi-bundesligata-sled-dramatichna-pobeda-s-chovek-po-malko~241972.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1039036.og.jpg"
+      "image": "https://dsport.bg/media/385/gettyimages-2299700006.og.jpg"
     },
     {
       "title": "Здравко Димитров осигури успешен дебют на Петев в Турция (ВИДЕО) 11 Окт | 21:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038738.og.jpg"
-    },
-    {
-      "title": "Александър Зверев се класира за четвъртия кръг в Шанхай 11 Окт | 19:36",
-      "url": "https://dsport.bg/aleksandar-zverev-se-klasira-za-chetvartia-krag-v-shanhai~241964.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299660306.og.jpg"
     }
   ]
 }
