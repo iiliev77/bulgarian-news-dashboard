@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-11T03:19:32.418739+00:00",
+  "updated": "2026-10-11T03:38:22.752333+00:00",
   "articles": [
+    {
+      "title": "За първи път астрономи наблюдаваха звезда „вампир“, която поглъща своя спътник",
+      "url": "https://dariknews.bg/novini/obshtestvo/za-pyrvi-pyt-astronomi-nabliudavaha-zvezda-vampir-koiato-poglyshta-svoia-spytnik-2468699",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50818/50818723/991-ratio-kosmos.jpg"
+    },
+    {
+      "title": "Мицкоски: Радвам се, че диалогът с България започна, очаквам да продължи",
+      "url": "https://dariknews.bg/novini/bylgariia/mickoski-radvam-se-che-dialogyt-s-bylgariia-zapochna-ochakvam-da-prodylzhi-2468728",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51036/51036497/991-ratio-mickoski.jpg"
+    },
     {
       "title": "Оцелялата при екзекуция Криста Пайк беше изписана от болница и върната в затвора",
       "url": "https://dariknews.bg/novini/sviat/ocelialata-pri-ekzekuciia-krista-pajk-beshe-izpisana-ot-bolnica-i-vyrnata-v-zatvora-2468727",
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51394/51394210/991-ratio-ejza-gonzales-i-grigor-dimitrov.jpg"
-    },
-    {
-      "title": "Президентът Йотова определи като полезна срещата в София с началника на кабинета на Зеленски",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-iotova-opredeli-kato-polezna-sreshtata-v-sofiia-s-nachalnika-na-kabineta-na-zelenski-2468709",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
-    },
-    {
-      "title": "Протест в Ню Йорк, след като имиграционен агент стреля по мъж",
-      "url": "https://dariknews.bg/novini/sviat/protest-v-niu-iork-sled-kato-imigracionen-agent-strelia-po-myzh-2468708",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394205/991-ratio-protestirashti-se-sybraha-po-ulicite-na-niu-iork-sled-kato.jpg"
     },
     {
       "title": "НЕК завъртя равен на Аякс и чака Левски 11 Окт | 00:12",
