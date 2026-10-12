@@ -1,12 +1,33 @@
 {
-  "updated": "2026-10-12T11:42:38.198207+00:00",
+  "updated": "2026-10-12T12:00:18.577419+00:00",
   "articles": [
     {
-      "title": "Заловиха 19 кг кокаин в тайник на камион край Видин",
-      "url": "https://dariknews.bg/regioni/vidin/zaloviha-19-kg-kokain-v-tajnik-na-kamion-kraj-vidin-2468852",
+      "title": "Мъж удари съседа си с мотика по главата в село Велчево",
+      "url": "https://dariknews.bg/regioni/lovech/myzh-udari-syseda-si-s-motika-po-glavata-v-selo-velchevo-2468854",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51276/51276888/991-ratio-kokain-i-zlato.jpg"
+      "image": "https://m.netinfo.bg/media/images/51395/51395156/991-ratio-motika.jpg"
+    },
+    {
+      "title": "Четирима мъже се сбиха край заведение в Тетевен, двама са пострадали",
+      "url": "https://dariknews.bg/regioni/lovech/chetirima-myzhe-se-sbiha-kraj-zavedenie-v-teteven-dvama-sa-postradali-2468853",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Внимание, дъжд и вятър: Жълт и оранжев код във вторник за почти цяла България",
+      "url": "https://dariknews.bg/novini/bylgariia/vnimanie-dyzhd-i-viatyr-zhylt-i-oranzhev-kod-vyv-vtornik-za-pochti-ciala-bylgariia-2468855",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395167/991-ratio-dyzhd-i-viatyr.jpg"
+    },
+    {
+      "title": "Кокаин в тайник, марихуана сред фъстъци: Разкриха 348 кг дрога в камион край Видин",
+      "url": "https://dariknews.bg/regioni/vidin/kokain-v-tajnik-marihuana-sred-fystyci-razkriha-348-kg-droga-v-kamion-kraj-vidin-2468852",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51304/51304912/991-ratio-kokain-narkotici.jpg"
     },
     {
       "title": "Кремъл: Ще спрем ударите по Украйна, но само в деня на президентски избори в страната",
@@ -55,7 +76,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/mashtabni-proverki-kzp-proveriava-benzinostancii-magazini-i-banki-pri-niakoi-produktinadcenkite-stigat-do-141-2468846",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157141/991-ratio-magazin.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Задържаха мъж, гонил чужденец с маймунски звуци в центъра на София",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389663/991-ratio-slavcho-megerov.jpg"
     },
     {
-      "title": "България се топи: още 14 153 души по-малко за година",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-se-topi-oshte-14-153-dushi-po-malko-za-godina-2468835",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50936/50936138/991-ratio-tylpa.jpg"
+      "title": "Левски няма да тренира в Нидерландия 12 Окт | 14:55",
+      "url": "https://dsport.bg/levski-nama-da-trenira-v-niderlandia~242021.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1312324811.og.jpg"
     },
     {
-      "title": "Американците Робърт Хол и Майкъл Уудфорд спечелиха Нобеловата награда за икономика",
-      "url": "https://dariknews.bg/novini/sviat/amerikancite-robyrt-hol-i-majkyl-uudford-specheliha-nobelovata-nagrada-za-ikonomika-2468834",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50937/50937314/991-ratio-nobelova-nagrada.jpg"
-    },
-    {
-      "title": "София е избрана за най-добра европейска дестинация за кратко градско пътуване",
-      "url": "https://dariknews.bg/regioni/sofiia/sofiia-e-izbrana-za-naj-dobra-evropejska-destinaciia-za-kratko-gradsko-pytuvane-2468833",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395106/991-ratio-vasko-terziev.jpg"
+      "title": "Око-Флекс си връща титулярното място срещу НЕК Ниймеген 12 Окт | 14:40",
+      "url": "https://dsport.bg/oko-fleks-si-vrasta-titularnoto-masto-srestu-nek-niimegen~242020.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1026363-1.og.jpg"
     },
     {
       "title": "Собствениците на Манчестър Сити били „инструктирани“ да продадат клуба 12 Окт | 14:12",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/765078-1.og.jpg"
-    },
-    {
-      "title": "Феликс Оже-Алиасим достигна до четвъртия кръг в Шанхай 12 Окт | 11:57",
-      "url": "https://dsport.bg/feliks-oze-aliasim-dostigna-do-chetvartia-krag-v-shanhai~242009.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299762667.og.jpg"
-    },
-    {
-      "title": "Гиздол за дебюта си: Гордея се с представянето на отбора! 12 Окт | 11:53",
-      "url": "https://dsport.bg/gizdol-sled-dramatichnata-pobeda-gordea-se-s-predstavaneto-na-otbora~242008.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039403.og.jpg"
     }
   ]
 }
