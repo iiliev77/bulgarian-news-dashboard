@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-12T13:42:43.830068+00:00",
+  "updated": "2026-10-12T14:06:32.006277+00:00",
   "articles": [
+    {
+      "title": "След ударите по летища: Саудитска Арабия съобщи за нови ракетни атаки и нападения с дронове",
+      "url": "https://dariknews.bg/novini/sviat/sled-udarite-po-letishta-sauditska-arabiia-syobshti-za-novi-raketni-ataki-i-napadeniia-s-dronove-2468879",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38522/38522764/991-ratio-sauditska-arabiia.jpg"
+    },
+    {
+      "title": "Четирима маскирани пребиха жена в Павликени",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/chetirima-maskirani-prebiha-zhena-v-pavlikeni-2468877",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50968/50968202/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Задържаха мъж край Свищов, издирван от германските власти",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/zadyrzhaha-myzh-kraj-svishtov-izdirvan-ot-germanskite-vlasti-2468875",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
+    },
     {
       "title": "Задържаха 18-годишен за кражба на пари от хотел във Велико Търново",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/zadyrzhaha-18-godishen-za-krazhba-na-pari-ot-hotel-vyv-veliko-tyrnovo-2468874",
@@ -14,6 +35,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/32219/32219031/991-ratio-nova-banknota-50-evro.jpg"
+    },
+    {
+      "title": "БАБХ стартира проверки в заводи за олио и растителни масла",
+      "url": "https://dariknews.bg/novini/bylgariia/babh-startira-proverki-v-zavodi-za-olio-i-rastitelni-masla-2468878",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48795/48795814/991-ratio-babh.jpg"
     },
     {
       "title": "Задушлива миризма и опасни емисии: Откриха нарушения в ТЕЦ „Република“ в Перник",
@@ -114,32 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/45818/45818607/991-ratio-policiia-franciia-patrulka.jpg"
     },
     {
-      "title": "Мъж удари съседа си с мотика по главата в село Велчево",
-      "url": "https://dariknews.bg/regioni/lovech/myzh-udari-syseda-si-s-motika-po-glavata-v-selo-velchevo-2468854",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395156/991-ratio-motika.jpg"
+      "title": "Спортното шоу на Дарик радио - 12.10.2026 г. 12 Окт | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-12-10-2026-g~242029.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-12-170248.og.png"
     },
     {
-      "title": "Четирима мъже се сбиха край заведение в Тетевен, двама са пострадали",
-      "url": "https://dariknews.bg/regioni/lovech/chetirima-myzhe-se-sbiha-kraj-zavedenie-v-teteven-dvama-sa-postradali-2468853",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+      "title": "Новият турнир стартира със съдийската свирка на Чинков 12 Окт | 16:51",
+      "url": "https://dsport.bg/noviat-turnir-startira-sas-sadiiskata-svirka-na-chinkov~242027.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/792963-1-.og.jpg"
     },
     {
-      "title": "Жълт и оранжев код за опасно време във вторник: Дъжд и силен вятър в почти цяла България",
-      "url": "https://dariknews.bg/novini/bylgariia/zhylt-i-oranzhev-kod-za-opasno-vreme-vyv-vtornik-dyzhd-i-silen-viatyr-v-pochti-ciala-bylgariia-2468855",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395167/991-ratio-dyzhd-i-viatyr.jpg"
-    },
-    {
-      "title": "Кокаин в тайник, марихуана сред фъстъци: Разкриха 348 кг дрога в камион край Видин (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/vidin/kokain-v-tajnik-marihuana-sred-fystyci-razkriha-348-kg-droga-v-kamion-kraj-vidin-snimkivideo-2468852",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395194/991-ratio-narkotici.jpg"
+      "title": "„Червените“ от 1 до 10: Гиздол поведе ЦСКА през мъглата в Бистрица 12 Окт | 16:36",
+      "url": "https://dsport.bg/chervenite-ot-1-do-10-gizdol-povede-cska-prez-maglata-v-bistrica~242026.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/12.10-1~2.og.jpg"
     },
     {
       "title": "Английски отбор пробва „нещо ново“ - ще играе без мениджър 12 Окт | 16:20",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1026363-1.og.jpg"
-    },
-    {
-      "title": "Собствениците на Манчестър Сити били „инструктирани“ да продадат клуба 12 Окт | 14:12",
-      "url": "https://dsport.bg/sobstvenicite-na-manchestar-siti-poluchili-instrukcii-da-prodadat-kluba~242018.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298055436~1.og.jpg"
-    },
-    {
-      "title": "Спалети и треньорът на Каляри едва не се сбиха, наставникът на Юве заплаши с шамар 12 Окт | 13:47",
-      "url": "https://dsport.bg/spaleti-i-trenorat-na-kalari-edva-ne-se-sbiha~242016.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299263289.og.jpg"
-    },
-    {
-      "title": "БФС разкри амбициозен план за занемарен стадион 12 Окт | 13:19",
-      "url": "https://dsport.bg/bfs-razkri-ambiciozen-plan-za-zanemaren-stadion~242015.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-1340-.og.png"
     }
   ]
 }
