@@ -1,6 +1,104 @@
 {
-  "updated": "2026-10-12T09:05:50.480123+00:00",
+  "updated": "2026-10-12T09:28:11.346556+00:00",
   "articles": [
+    {
+      "title": "Издирват шофьор, блъснал електрическа триколка във Ветово",
+      "url": "https://dariknews.bg/regioni/ruse/izdirvat-shofior-blysnal-elektricheska-trikolka-vyv-vetovo-2468822",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50862/50862183/991-ratio-trotinetka-kola-blagoevgrad.jpg"
+    },
+    {
+      "title": "Шофьорка блъсна 12-годишно дете и избяга",
+      "url": "https://dariknews.bg/regioni/ruse/shofiorka-blysna-12-godishno-dete-i-izbiaga-2468820",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48694/48694486/991-ratio-dete-katastrofa.jpg"
+    },
+    {
+      "title": "Шофьор влезе в насрещното и причини катастрофа, 76-годишен мъж е в болница",
+      "url": "https://dariknews.bg/regioni/ruse/shofior-vleze-v-nasreshtnoto-i-prichini-katastrofa-76-godishen-myzh-e-v-bolnica-2468819",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Шофьор загина след тежка катастрофа край Бучин проход",
+      "url": "https://dariknews.bg/regioni/sofiia/shofior-zagina-sled-tezhka-katastrofa-kraj-buchin-prohod-2468821",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Шофьорка блъсна възрастна жена на пешеходна пътека в Русе",
+      "url": "https://dariknews.bg/regioni/ruse/shofiorka-blysna-vyzrastna-zhena-na-peshehodna-pyteka-v-ruse-2468817",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51284/51284496/991-ratio-peshehodna-pyteka.jpg"
+    },
+    {
+      "title": "Пребиха от бой мъж заради телефон",
+      "url": "https://dariknews.bg/regioni/ruse/prebiha-ot-boj-myzh-zaradi-telefon-2468816",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44205/44205801/991-ratio-krazhba-telefon-kradec.jpg"
+    },
+    {
+      "title": "Откриха мъж в безпомощно състояние край велосипед в Софийско, има опасност за живота му",
+      "url": "https://dariknews.bg/regioni/sofiia/otkriha-myzh-v-bezpomoshtno-systoianie-kraj-velosiped-v-sofijsko-ima-opasnost-za-zhivota-mu-2468818",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51369/51369489/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Повече крачки дневно пазят тийнейджърите от психични проблеми",
+      "url": "https://dariknews.bg/novini/liubopitno/poveche-krachki-dnevno-paziat-tijnejdzhyrite-ot-psihichni-problemi-2468814",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49392/49392794/991-ratio-hodene.jpg"
+    },
+    {
+      "title": "След употреба на алкохол: Баща удари 14-годишната си дъщеря с чук по главата",
+      "url": "https://dariknews.bg/regioni/sofiia/sled-upotreba-na-alkohol-bashta-udari-14-godishnata-si-dyshteria-s-chuk-po-glavata-2468815",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51200/51200972/991-ratio-chuk.jpg"
+    },
+    {
+      "title": "Нощно нападение в центъра на Русе: 38-годишен е пребит от двама мъже",
+      "url": "https://dariknews.bg/regioni/ruse/noshtno-napadenie-v-centyra-na-ruse-38-godishen-e-prebit-ot-dvama-myzhe-2468812",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/37249/37249960/991-ratio-policiia-nosht.jpg"
+    },
+    {
+      "title": "Скандал между съседи в Елин Пелин завърши със счупен череп",
+      "url": "https://dariknews.bg/regioni/sofiia/skandal-mezhdu-sysedi-v-elin-pelin-zavyrshi-sys-schupen-cherep-2468811",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50836/50836418/991-ratio-myzh-agresiia-poboj-skandal-sbivane.jpg"
+    },
+    {
+      "title": "Корабът „Емил“ напусна напусна българските води",
+      "url": "https://dariknews.bg/novini/bylgariia/korabyt-emil-napusna-napusna-bylgarskite-vodi-2468813",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392315/991-ratio-korab-tovaren-korab.jpg"
+    },
+    {
+      "title": "33-годишен мъж почина след масово сбиване на празник в русенско село",
+      "url": "https://dariknews.bg/regioni/ruse/33-godishen-myzh-pochina-sled-masovo-sbivane-na-praznik-v-rusensko-selo-2468809",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384650/991-ratio-policejska-lenta.jpg"
+    },
+    {
+      "title": "Скандал прерасна в побой в Софийско: Мъж е със счупени кости, четирима са задържани",
+      "url": "https://dariknews.bg/regioni/sofiia/skandal-prerasna-v-poboj-v-sofijsko-myzh-e-sys-schupeni-kosti-chetirima-sa-zadyrzhani-2468810",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50992/50992602/991-ratio-sbivane-poboj.jpg"
+    },
     {
       "title": "Депутатите ще заседават извънредно във вторник",
       "url": "https://dariknews.bg/novini/bylgariia/deputatite-shte-zasedavat-izvynredno-vyv-vtornik-2468808",
@@ -44,102 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Пожар изпепели кабина и машинно отделение на дизелов локомотив край Михайлово",
-      "url": "https://dariknews.bg/regioni/stara-zagora/pozhar-izpepeli-kabina-i-mashinno-otdelenie-na-dizelov-lokomotiv-kraj-mihajlovo-2468802",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51370/51370384/991-ratio-pozharna-stara-zagora.jpg"
+      "title": "Атанас Рибарски ще води България в последните два мача от Лигата на нациите 12 Окт | 12:20",
+      "url": "https://dsport.bg/atanas-ribarski-ste-vodi-balgaria-v-poslednite-dva-macha-ot-ligata-na-naciite~242011.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1036023-1~1.og.jpg"
     },
     {
-      "title": "Мъж заплаши полицаи и опита да удари служител на реда в Казанлък",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-zaplashi-policai-i-opita-da-udari-sluzhitel-na-reda-v-kazanlyk-2468800",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50836/50836550/991-ratio-policaj-policiia-pistolet-oryzhie.jpg"
-    },
-    {
-      "title": "Хванаха 17-годишен да кара нерегистриран мотоциклет в Богомилово",
-      "url": "https://dariknews.bg/regioni/stara-zagora/hvanaha-17-godishen-da-kara-neregistriran-motociklet-v-bogomilovo-2468798",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/40033/40033548/991-ratio-pytna-policiia.jpg"
-    },
-    {
-      "title": "Френските гимназисти готвят нова вълна от протести",
-      "url": "https://dariknews.bg/novini/sviat/frenskite-gimnazisti-gotviat-nova-vylna-ot-protesti-2468799",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
-    },
-    {
-      "title": "Мъж хвърлял камъни по съпругата си в дома им в Хан Аспарухово",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-hvyrlial-kamyni-po-syprugata-si-v-doma-im-v-han-asparuhovo-2468797",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395028/991-ratio-kamyk.jpg"
-    },
-    {
-      "title": "Трима младежи пострадаха след катастрофа, предизвикана от 18-годишен шофьор",
-      "url": "https://dariknews.bg/regioni/stara-zagora/trima-mladezhi-postradaha-sled-katastrofa-predizvikana-ot-18-godishen-shofior-2468796",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389754/991-ratio-katastrofa-patrulka-stara-zagora.jpg"
-    },
-    {
-      "title": "Четирима маскирани мъже пребиха жена в Павликени",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/chetirima-maskirani-myzhe-prebiha-zhena-v-pavlikeni-2468801",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
-    },
-    {
-      "title": "Платиха с фалшиви 100 евро на таксиметров шофьор в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/platiha-s-falshivi-100-evro-na-taksimetrov-shofior-v-stara-zagora-2468793",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51362/51362262/991-ratio-100-evro.jpg"
-    },
-    {
-      "title": "Мъж се представи за служител на пощенски клон, измъкна 896 евро от пенсионер",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-se-predstavi-za-sluzhitel-na-poshtenski-klon-izmykna-896-evro-ot-pensioner-2468792",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51121/51121039/991-ratio-pensioner.jpg"
-    },
-    {
-      "title": "Задържаха шофьор с 3,95 промила алкохол в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/zadyrzhaha-shofior-s-395-promila-alkohol-v-stara-zagora-2468791",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51108/51108591/991-ratio-piian-shofior.jpg"
-    },
-    {
-      "title": "Откриха мъртъв мъж с прободна рана на тротоар в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/otkriha-myrtyv-myzh-s-probodna-rana-na-trotoar-v-stara-zagora-2468790",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51110/51110240/991-ratio-nozh.jpg"
-    },
-    {
-      "title": "Нощна проверка на пътя Плевен-Бяла разкри издирван от германските власти мъж",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/noshtna-proverka-na-pytia-pleven-biala-razkri-izdirvan-ot-germanskite-vlasti-myzh-2468794",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Министър Петрова призова за трайно решение за сигурността на корабоплаването в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/ministyr-petrova-prizova-za-trajno-reshenie-za-sigurnostta-na-koraboplavaneto-v-cherno-more-2468795",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395024/991-ratio-velislava-petrova.jpg"
-    },
-    {
-      "title": "Военният министър: Очакваме подводен дрон за обследване на потъналия кораб в Черно море и сателитни снимки",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-ochakvame-podvoden-dron-za-obsledvane-na-potynaliia-korab-v-cherno-more-i-satelitni-snimki-2468789",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51377/51377054/991-ratio-korab.jpg"
+      "title": "Георги Иванов обяви, че новият селекционер ще бъде чужденец 12 Окт | 12:07",
+      "url": "https://dsport.bg/georgi-ivanov-obavi-che-noviat-selekcioner-ste-bade-chuzdenec~242010.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/765078-1.og.jpg"
     },
     {
       "title": "Феликс Оже-Алиасим достигна до четвъртия кръг в Шанхай 12 Окт | 11:57",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297622296.og.jpg"
-    },
-    {
-      "title": "Винисиус с поведение на ощипана госпожица 12 Окт | 10:48",
-      "url": "https://dsport.bg/vinisius-s-povedenie-na-ostipana-gospozica~242001.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299572207~1.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид в открита война със съдиите в Ла Лига 12 Окт | 10:36",
-      "url": "https://dsport.bg/real-madrid-v-otkrita-voina-sas-sadiite-v-la-liga~242000.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299572251~1.og.jpg"
     }
   ]
 }
