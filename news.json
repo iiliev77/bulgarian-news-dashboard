@@ -1,9 +1,37 @@
 {
-  "updated": "2026-10-12T11:22:37.548861+00:00",
+  "updated": "2026-10-12T11:42:38.198207+00:00",
   "articles": [
     {
-      "title": "Операция „Прометей“: Във втория камион на „Кулата“ имало над 8,6 млн. къса нелегални цигари",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/operaciia-prometej-vyv-vtoriia-kamion-na-kulata-imalo-nad-86-mln.-kysa-nelegalni-cigari-2468848",
+      "title": "Заловиха 19 кг кокаин в тайник на камион край Видин",
+      "url": "https://dariknews.bg/regioni/vidin/zaloviha-19-kg-kokain-v-tajnik-na-kamion-kraj-vidin-2468852",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51276/51276888/991-ratio-kokain-i-zlato.jpg"
+    },
+    {
+      "title": "Кремъл: Ще спрем ударите по Украйна, но само в деня на президентски избори в страната",
+      "url": "https://dariknews.bg/novini/sviat/kremyl-shte-sprem-udarite-po-ukrajna-no-samo-v-denia-na-prezidentski-izbori-v-stranata-2468851",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51328/51328957/991-ratio-dmitrij-peskov.jpg"
+    },
+    {
+      "title": "Три сигнала за домашно насилие за денонощие в Ловешко",
+      "url": "https://dariknews.bg/regioni/lovech/tri-signala-za-domashno-nasilie-za-denonoshtie-v-loveshko-2468850",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51249/51249130/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "Жена е в реанимация след тежка катастрофа край Лом",
+      "url": "https://dariknews.bg/regioni/montana/zhena-e-v-reanimaciia-sled-tezhka-katastrofa-kraj-lom-2468849",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395147/991-ratio-reanimaciia.jpg"
+    },
+    {
+      "title": "Зад кашони с корнфлейкс и кадаиф: Откриха над 8,6 млн. нелегални цигари на „Кулата“",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/zad-kashoni-s-kornflejks-i-kadaif-otkriha-nad-86-mln.-nelegalni-cigari-na-kulata-2468848",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395143/991-ratio-cigari-prometej.jpg"
@@ -23,11 +51,11 @@
       "image": "https://m.netinfo.bg/media/images/51258/51258299/991-ratio-myzh-bolnica.jpg"
     },
     {
-      "title": "В ход са три мащабни проверки: КЗП проверява бензиностанции, магазини и банки",
-      "url": "https://dariknews.bg/novini/bylgariia/v-hod-sa-tri-mashtabni-proverki-kzp-proveriava-benzinostancii-magazini-i-banki-2468846",
+      "title": "Мащабни проверки: КЗП проверява бензиностанции, магазини и банки, при някои продукти надценките стигат до 141%",
+      "url": "https://dariknews.bg/novini/bylgariia/mashtabni-proverki-kzp-proveriava-benzinostancii-magazini-i-banki-pri-niakoi-produktinadcenkite-stigat-do-141-2468846",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000322/991-ratio-kzp.jpg"
+      "image": "https://m.netinfo.bg/media/images/51157/51157141/991-ratio-magazin.jpg"
     },
     {
       "title": "Задържаха мъж, гонил чужденец с маймунски звуци в центъра на София",
@@ -112,34 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395106/991-ratio-vasko-terziev.jpg"
-    },
-    {
-      "title": "Промените в правилата за пенсионните фондове разделиха социалните партньори",
-      "url": "https://dariknews.bg/novini/bylgariia/promenite-v-pravilata-za-pensionnite-fondove-razdeliha-socialnite-partniori-2468832",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395104/991-ratio-nsts.jpg"
-    },
-    {
-      "title": "Мъж падна от мост в река Росица, пожарникари го спасиха",
-      "url": "https://dariknews.bg/regioni/gabrovo/myzh-padna-ot-most-v-reka-rosica-pozharnikari-go-spasiha-2468830",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395102/991-ratio-pozharna-reka.jpg"
-    },
-    {
-      "title": "Макрон: През последните 48 часа не съм забелязал Русия да спазва каквото и да е енергийно примирие",
-      "url": "https://dariknews.bg/novini/sviat/makron-prez-poslednite-48-chasa-ne-sym-zabeliazal-rusiia-da-spazva-kakvoto-i-da-e-energijno-primirie-2468829",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51282/51282805/991-ratio-emaniuel-makron.jpg"
-    },
-    {
-      "title": "Разкриха изборни престъпления в Кюстендил, има образувани дела",
-      "url": "https://dariknews.bg/regioni/kiustendil/razkriha-izborni-prestypleniia-v-kiustendil-ima-obrazuvani-dela-2468831",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51371/51371540/991-ratio-policiia.jpg"
     },
     {
       "title": "Собствениците на Манчестър Сити били „инструктирани“ да продадат клуба 12 Окт | 14:12",
