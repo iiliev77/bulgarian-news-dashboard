@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T05:39:33.887774+00:00",
+  "updated": "2026-10-12T05:55:59.996572+00:00",
   "articles": [
+    {
+      "title": "Зеленски подкрепи предложението на Тръмп за примирие: Сега ходът е на Путин",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-podkrepi-predlozhenieto-na-trymp-za-primirie-sega-hodyt-e-na-putin-2468768",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388042/991-ratio-volodimir-zelenski.jpg"
+    },
     {
       "title": "Изпълнителният заместник-председател на ЕК Хена Виркунен ще има работни срещи в България",
       "url": "https://dariknews.bg/novini/bylgariia/izpylnitelniiat-zamestnik-predsedatel-na-ek-hena-virkunen-shte-ima-rabotni-sreshti-v-bylgariia-2468767",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
     },
     {
-      "title": "Земетресение е регистрирано край Сливен",
-      "url": "https://dariknews.bg/regioni/sliven/zemetresenie-e-registrirano-kraj-sliven-2468750",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+      "title": "Кими Антонели на прага на титлата във Формула 1: какво му е нужно, за да триумфира в Остин? 12 Окт | 08:40",
+      "url": "https://dsport.bg/kimi-antoneli-na-praga-na-titlata-vav-formula-1-kakvo-mu-e-nuzno-za-da-triumfira-v-ostin~241988.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299673385.og.jpg"
+    },
+    {
+      "title": "В Испания: Винисиус не знае правилата 12 Окт | 08:30",
+      "url": "https://dsport.bg/v-ispania-vinisius-ne-znae-pravilata~241987.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299571276.og.jpg"
     },
     {
       "title": "Ламин Ямал смени терена с модния подиум, звездата на Барса с ексклузивна колекция 12 Окт | 08:20",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299706417.og.jpg"
-    },
-    {
-      "title": "БУТОНКИТЕ: Гиздол обеща и показа офанзивен ЦСКА 11 Окт | 22:59",
-      "url": "https://dsport.bg/butonkite-gizdol-obesta-i-pokaza-ofanziven-cska~241978.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/2026-10-11-butonki_thumb_niki.og.jpg"
-    },
-    {
-      "title": "Вальо Илиев: За пореден път играем срещу 14 човека, изглежда странно - защо? (ВИДЕО) 11 Окт | 22:43",
-      "url": "https://dsport.bg/valo-iliev-za-poreden-pat-igraem-srestu-14-choveka-izglezda-stranno-zasto-video~241977.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/994763~1.og.jpg"
     }
   ]
 }
