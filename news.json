@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:55:53.847485+00:00",
+  "updated": "2026-10-12T17:08:30.226205+00:00",
   "articles": [
     {
       "title": "България поиска помощ от ЕС и НАТО за разследването на атаката в Черно море",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/51352/51352284/991-ratio-drift-skorost-shofior-opasno-shofirane.jpg"
     },
     {
+      "title": "На живо: Лудогорец - Арда 12 Окт | 20:01",
+      "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-12t184832.746.og.png"
+    },
+    {
+      "title": "Футболист на ЦСКА заведе детето на новия стадион 12 Окт | 19:59",
+      "url": "https://dsport.bg/futbolist-na-cska-zavede-deteto-na-novia-stadion~242044.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-12-194507.og.png"
+    },
+    {
       "title": "ЦСКА обезумя от съдийството, каква ще е съдбата на пловдивските клубове? (ВИДЕО) 12 Окт | 19:45",
       "url": "https://dsport.bg/cska-obezuma-ot-sadiistvoto-kakva-ste-e-sadbata-na-plovdivskite-klubove~242043.html",
       "source": "Dsport",
@@ -170,13 +184,6 @@
       "image": "https://dsport.bg/media/385/1039427.og.jpg"
     },
     {
-      "title": "На живо: Лудогорец - Арда при завръщането на Йовичевич (Състави) 12 Окт | 18:48",
-      "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-12t184832.746.og.png"
-    },
-    {
       "title": "„Сините“ от 1 до 10: Левски се завърна свеж 12 Окт | 18:48",
       "url": "https://dsport.bg/sinite-ot-1-do-10-levski-se-zavarna-svez~242038.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299687439.og.jpg"
-    },
-    {
-      "title": "Чоло Симеоне: Трябва да гледаме мач за мач, а не далеч в бъдещето 12 Окт | 17:44",
-      "url": "https://dsport.bg/cholo-simeone-trabva-da-gledame-mach-za-mach-a-ne-dalech-v-badesteto~242034.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2267955519-1-1.og.jpg"
     }
   ]
 }
