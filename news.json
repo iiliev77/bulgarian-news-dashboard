@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-12T20:20:36.162559+00:00",
+  "updated": "2026-10-12T20:39:51.037631+00:00",
   "articles": [
     {
       "title": "Ученик загина при взрив на боеприпас по време на екскурзия в Израел",
       "url": "https://dariknews.bg/novini/sviat/uchenik-zagina-pri-vzriv-na-boepripas-po-vreme-na-ekskurziia-v-izrael-2468898",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50870/50870887/991-ratio-elin-pelin-vzriv-pozhar-sklad-fojerverki.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Показаха ексклузивни кадри от борда на атакувания в Черно море кораб (ВИДЕО)",
@@ -14,6 +14,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395328/991-ratio-d.jpg"
+    },
+    {
+      "title": "Мирчев: Подпалени са 11 антени за връзка със Starlink в секретен обект край София",
+      "url": "https://dariknews.bg/novini/bylgariia/mirchev-podpaleni-sa-11-anteni-za-vryzka-sys-starlink-v-sekreten-obekt-kraj-sofiia-2468897",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
     },
     {
       "title": "Катастрофа с два тира затвори главния път Велико Търново – Русе",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
     },
     {
-      "title": "Задържаха 18-годишен за кражба на пари от хотел във Велико Търново",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/zadyrzhaha-18-godishen-za-krazhba-na-pari-ot-hotel-vyv-veliko-tyrnovo-2468874",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
+      "title": "Над 250 милиона евро, а проблемите остават: две скъпи звезди разочароват в Ливърпул 12 Окт | 23:22",
+      "url": "https://dsport.bg/nad-250-miliona-evro-a-problemite-ostavat-dve-skapi-zvezdi-razocharovat-v-livarpul~242057.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2294879081.og.jpg"
     },
     {
       "title": "ММА боец, който уби жена и дете, умря в затвора 12 Окт | 22:58",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299844347.og.jpg"
-    },
-    {
-      "title": "Янаки Милев отпадна от „Чалънджър“ в Италия 12 Окт | 21:13",
-      "url": "https://dsport.bg/anaki-milev-otpadna-ot-chalandzar-v-italia~242049.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/06.06-6~1.og.jpg"
     }
   ]
 }
