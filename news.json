@@ -1,145 +1,166 @@
 {
-  "updated": "2026-10-12T06:41:19.805345+00:00",
+  "updated": "2026-10-12T07:08:28.197805+00:00",
   "articles": [
     {
-      "title": "„Здравословното ми състояние се влоши“: Ива Михайлова се прибра в България",
+      "title": "–£—Б—В–∞–љ–Њ–≤–Є—Е–∞ –Ї–Њ–є –µ –Ј–∞–њ–∞–ї–Є–ї –њ–Њ–ґ–∞—А–∞ –Ї—А–∞–є –Ш–Ј–≤–Њ—А–Є—Й–µ",
+      "url": "https://dariknews.bg/regioni/burgas/ustanoviha-koj-e-zapalil-pozhara-kraj-izvorishte-2468777",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394998/991-ratio-izvorishte.jpg"
+    },
+    {
+      "title": "–°–њ–Є—А–∞—В –≤–Њ–і–∞—В–∞ –≤ —Б—В–Њ–ї–Є—З–µ–љ –Ї–≤–∞—А—В–∞–ї –Ј–∞ –і–µ–љ",
+      "url": "https://dariknews.bg/regioni/sofiia/spirat-vodata-v-stolichen-kvartal-za-den-2468778",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51162/51162090/991-ratio-voda.jpg"
+    },
+    {
+      "title": "–Ь—К–ґ –Ј–∞–≥–Є–љ–∞, —Б–ї–µ–і –Ї–∞—В–Њ –≤–ї–µ–Ј–µ –њ—А–Є —В–Є–≥—А–Є—В–µ –≤ –±—А–Є—В–∞–љ—Б–Ї–Є –њ–∞—А–Ї",
+      "url": "https://dariknews.bg/novini/sviat/myzh-zagina-sled-kato-vleze-pri-tigrite-v-britanski-park-2468774",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50813/50813608/991-ratio-tigyr.jpg"
+    },
+    {
+      "title": "–Ф–µ–Љ–µ—А–і–ґ–Є–µ–≤: –Ч–∞–њ–ї–∞—Е–Є—В–µ –≤ –І–µ—А–љ–Њ –Љ–Њ—А–µ —Б–∞ –Љ–љ–Њ–≥–Њ –њ–Њ-—Б–µ—А–Є–Њ–Ј–љ–Є –≤ –Љ–Њ–Љ–µ–љ—В–∞, —Ж–µ–ї–Є–Љ –і–∞ —Б–µ —Б–љ–∞–±–і–Є–Љ —Б –њ–Њ-–љ–∞–і–µ–ґ–љ–∞ —В–µ—Е–љ–Є–Ї–∞",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-zaplahite-v-cherno-more-sa-mnogo-po-seriozni-v-momenta-celim-da-se-snabdim-s-po-nadezhna-tehnika-2468776",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
+    },
+    {
+      "title": "–Ч–∞ –њ–Њ-–Љ–∞–ї–Ї–Њ –Њ—В 24 —З–∞—Б–∞: –Т—В–Њ—А–Њ –Ј–µ–Љ–µ—В—А–µ—Б–µ–љ–Є–µ –µ —А–µ–≥–Є—Б—В—А–Є—А–∞–љ–Њ –≤ –С—К–ї–≥–∞—А–Є—П",
+      "url": "https://dariknews.bg/regioni/sliven/za-po-malko-ot-24-chasa-vtoro-zemetresenie-e-registrirano-v-bylgariia-2468775",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+    },
+    {
+      "title": "–І–µ—В–Є—А–Є –±–µ–ї–Є –Ї—А—К—Б—В–∞ –љ–∞ –њ—К—В—П –Ї—А–∞–є –Я–ї–µ–≤–µ–љ: —В—А–∞–≥–µ–і–Є—П, –Ї–Њ—П—В–Њ –Љ–Њ–ґ–µ—И–µ –і–∞ –±—К–і–µ –њ—А–µ–і–Њ—В–≤—А–∞—В–µ–љ–∞?",
+      "url": "https://dariknews.bg/novini/bylgariia/chetiri-beli-krysta-na-pytia-kraj-pleven-tragediia-koiato-mozheshe-da-byde-predotvratena-2468773",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "вАЮ–Ч–і—А–∞–≤–Њ—Б–ї–Њ–≤–љ–Њ—В–Њ –Љ–Є —Б—К—Б—В–Њ—П–љ–Є–µ —Б–µ –≤–ї–Њ—И–ЄвАЬ: –Ш–≤–∞ –Ь–Є—Е–∞–є–ї–Њ–≤–∞ —Б–µ –њ—А–Є–±—А–∞ –≤ –С—К–ї–≥–∞—А–Є—П",
       "url": "https://dariknews.bg/novini/bylgariia/zdravoslovnoto-mi-systoianie-se-vloshi-iva-mihajlova-se-pribra-v-bylgariia-2468772",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
     },
     {
-      "title": "Германски изтребители ще участват в учението за ядрено възпиране на НАТО",
+      "title": "–У–µ—А–Љ–∞–љ—Б–Ї–Є –Є–Ј—В—А–µ–±–Є—В–µ–ї–Є —Й–µ —Г—З–∞—Б—В–≤–∞—В –≤ —Г—З–µ–љ–Є–µ—В–Њ –Ј–∞ —П–і—А–µ–љ–Њ –≤—К–Ј–њ–Є—А–∞–љ–µ –љ–∞ –Э–Р–Ґ–Ю",
       "url": "https://dariknews.bg/novini/sviat/germanski-iztrebiteli-shte-uchastvat-v-uchenieto-za-iadreno-vyzpirane-na-nato-2468771",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51394/51394975/991-ratio-nato.jpg"
     },
     {
-      "title": "Вода или диетични напитки: Кое е по-добро за сваляне на килограми",
+      "title": "–Т–Њ–і–∞ –Є–ї–Є –і–Є–µ—В–Є—З–љ–Є –љ–∞–њ–Є—В–Ї–Є: –Ъ–Њ–µ –µ –њ–Њ-–і–Њ–±—А–Њ –Ј–∞ —Б–≤–∞–ї—П–љ–µ –љ–∞ –Ї–Є–ї–Њ–≥—А–∞–Љ–Є",
       "url": "https://dariknews.bg/novini/liubopitno/voda-ili-dietichni-napitki-koe-e-po-dobro-za-svaliane-na-kilogrami-2468770",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/35302/35302094/991-ratio-napitka.jpg"
     },
     {
-      "title": "По-лесно предаване, но не непременно по-тежко боледуване: Какво ни очаква през грипния сезон?",
+      "title": "–Я–Њ-–ї–µ—Б–љ–Њ –њ—А–µ–і–∞–≤–∞–љ–µ, –љ–Њ –љ–µ –љ–µ–њ—А–µ–Љ–µ–љ–љ–Њ –њ–Њ-—В–µ–ґ–Ї–Њ –±–Њ–ї–µ–і—Г–≤–∞–љ–µ: –Ъ–∞–Ї–≤–Њ –љ–Є –Њ—З–∞–Ї–≤–∞ –њ—А–µ–Ј –≥—А–Є–њ–љ–Є—П —Б–µ–Ј–Њ–љ?",
       "url": "https://dariknews.bg/novini/bylgariia/po-lesno-predavane-no-ne-nepremenno-po-tezhko-boleduvane-kakvo-ni-ochakva-prez-gripniia-sezon-2468769",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51017/51017480/991-ratio-grip-bolni.jpg"
     },
     {
-      "title": "Зеленски подкрепи предложението на Тръмп за примирие: Сега ходът е на Путин",
+      "title": "–Ч–µ–ї–µ–љ—Б–Ї–Є –њ–Њ–і–Ї—А–µ–њ–Є –њ—А–µ–і–ї–Њ–ґ–µ–љ–Є–µ—В–Њ –љ–∞ –Ґ—А—К–Љ–њ –Ј–∞ –њ—А–Є–Љ–Є—А–Є–µ: –°–µ–≥–∞ —Е–Њ–і—К—В –µ –љ–∞ –Я—Г—В–Є–љ",
       "url": "https://dariknews.bg/novini/sviat/zelenski-podkrepi-predlozhenieto-na-trymp-za-primirie-sega-hodyt-e-na-putin-2468768",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51388/51388042/991-ratio-volodimir-zelenski.jpg"
     },
     {
-      "title": "Изпълнителният заместник-председател на ЕК Хена Виркунен ще има работни срещи в България",
+      "title": "–Ш–Ј–њ—К–ї–љ–Є—В–µ–ї–љ–Є—П—В –Ј–∞–Љ–µ—Б—В–љ–Є–Ї-–њ—А–µ–і—Б–µ–і–∞—В–µ–ї –љ–∞ –Х–Ъ –•–µ–љ–∞ –Т–Є—А–Ї—Г–љ–µ–љ —Й–µ –Є–Љ–∞ —А–∞–±–Њ—В–љ–Є —Б—А–µ—Й–Є –≤ –С—К–ї–≥–∞—А–Є—П",
       "url": "https://dariknews.bg/novini/bylgariia/izpylnitelniiat-zamestnik-predsedatel-na-ek-hena-virkunen-shte-ima-rabotni-sreshti-v-bylgariia-2468767",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51025/51025264/991-ratio-hena-virkunen.jpg"
     },
     {
-      "title": "Бърнам: Русия се е намесила в референдума за Брекзит през 2016 г.",
+      "title": "–С—К—А–љ–∞–Љ: –†—Г—Б–Є—П —Б–µ –µ –љ–∞–Љ–µ—Б–Є–ї–∞ –≤ —А–µ—Д–µ—А–µ–љ–і—Г–Љ–∞ –Ј–∞ –С—А–µ–Ї–Ј–Є—В –њ—А–µ–Ј 2016 –≥.",
       "url": "https://dariknews.bg/novini/sviat/byrnam-rusiia-se-e-namesila-v-referenduma-za-brekzit-prez-2016-g-2468766",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51356/51356666/991-ratio-andi-byrnam.jpg"
     },
     {
-      "title": "Борис Джонсън разкритикува остро сделката на Тръмп с Путин: „САЩ финансират клането в Украйна“",
+      "title": "–С–Њ—А–Є—Б –Ф–ґ–Њ–љ—Б—К–љ —А–∞–Ј–Ї—А–Є—В–Є–Ї—Г–≤–∞ –Њ—Б—В—А–Њ —Б–і–µ–ї–Ї–∞—В–∞ –љ–∞ –Ґ—А—К–Љ–њ —Б –Я—Г—В–Є–љ: вАЮ–°–Р–© —Д–Є–љ–∞–љ—Б–Є—А–∞—В –Ї–ї–∞–љ–µ—В–Њ –≤ –£–Ї—А–∞–є–љ–∞вАЬ",
       "url": "https://dariknews.bg/novini/sviat/boris-dzhonsyn-razkritikuva-ostro-sdelkata-na-trymp-s-putin-sasht-finansirat-klaneto-v-ukrajna-2468765",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/49059/49059254/991-ratio-boris-dzhonsyn.jpg"
     },
     {
-      "title": "Ето кой светец честваме днес",
+      "title": "–Х—В–Њ –Ї–Њ–є —Б–≤–µ—В–µ—Ж —З–µ—Б—В–≤–∞–Љ–µ –і–љ–µ—Б",
       "url": "https://dariknews.bg/novini/obshtestvo/eto-koj-svetec-chestvame-dnes-2468764",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50456/50456429/991-ratio-cyrkva.jpg"
     },
     {
-      "title": "Хари и Меган с първи официален ангажимент на британска територия",
+      "title": "–•–∞—А–Є –Є –Ь–µ–≥–∞–љ —Б –њ—К—А–≤–Є –Њ—Д–Є—Ж–Є–∞–ї–µ–љ –∞–љ–≥–∞–ґ–Є–Љ–µ–љ—В –љ–∞ –±—А–Є—В–∞–љ—Б–Ї–∞ —В–µ—А–Є—В–Њ—А–Є—П",
       "url": "https://dariknews.bg/novini/liubopitno/hari-i-megan-s-pyrvi-oficialen-angazhiment-na-britanska-teritoriia-2468763",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51160/51160673/991-ratio-hari-i-megan.jpg"
     },
     {
-      "title": "Пеевски: Демерджиев си играе със страховете на хората, сезирам прокуратурата за това, че създава паника",
+      "title": "–Я–µ–µ–≤—Б–Ї–Є: –Ф–µ–Љ–µ—А–і–ґ–Є–µ–≤ —Б–Є –Є–≥—А–∞–µ —Б—К—Б —Б—В—А–∞—Е–Њ–≤–µ—В–µ –љ–∞ —Е–Њ—А–∞—В–∞, —Б–µ–Ј–Є—А–∞–Љ –њ—А–Њ–Ї—Г—А–∞—В—Г—А–∞—В–∞ –Ј–∞ —В–Њ–≤–∞, —З–µ —Б—К–Ј–і–∞–≤–∞ –њ–∞–љ–Є–Ї–∞",
       "url": "https://dariknews.bg/novini/bylgariia/peevski-demerdzhiev-si-igrae-sys-strahovete-na-horata-seziram-prokuraturata-za-tova-che-syzdava-panika-2468762",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Северна Корея изстреля балистични ракети към морето от източното си крайбрежие",
+      "title": "–°–µ–≤–µ—А–љ–∞ –Ъ–Њ—А–µ—П –Є–Ј—Б—В—А–µ–ї—П –±–∞–ї–Є—Б—В–Є—З–љ–Є —А–∞–Ї–µ—В–Є –Ї—К–Љ –Љ–Њ—А–µ—В–Њ –Њ—В –Є–Ј—В–Њ—З–љ–Њ—В–Њ —Б–Є –Ї—А–∞–є–±—А–µ–ґ–Є–µ",
       "url": "https://dariknews.bg/novini/sviat/severna-koreia-izstrelia-balistichni-raketi-kym-moreto-ot-iztochnoto-si-krajbrezhie-2468761",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "След обявеното примирие: Зеленски информира Урсула фон дер Лайен за руски удари по енергийни обекти в Украйна",
+      "title": "–°–ї–µ–і –Њ–±—П–≤–µ–љ–Њ—В–Њ –њ—А–Є–Љ–Є—А–Є–µ: –Ч–µ–ї–µ–љ—Б–Ї–Є –Є–љ—Д–Њ—А–Љ–Є—А–∞ –£—А—Б—Г–ї–∞ —Д–Њ–љ –і–µ—А –Ы–∞–є–µ–љ –Ј–∞ —А—Г—Б–Ї–Є —Г–і–∞—А–Є –њ–Њ –µ–љ–µ—А–≥–Є–є–љ–Є –Њ–±–µ–Ї—В–Є –≤ –£–Ї—А–∞–є–љ–∞",
       "url": "https://dariknews.bg/novini/sviat/sled-obiavenoto-primirie-zelenski-informira-ursula-fon-der-lajen-za-ruski-udari-po-energijni-obekti-v-ukrajna-2468760",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "МАЕ обсъжда ново освобождаване на петролни резерви с приоритет за дизела",
+      "title": "–Ь–Р–Х –Њ–±—Б—К–ґ–і–∞ –љ–Њ–≤–Њ –Њ—Б–≤–Њ–±–Њ–ґ–і–∞–≤–∞–љ–µ –љ–∞ –њ–µ—В—А–Њ–ї–љ–Є —А–µ–Ј–µ—А–≤–Є —Б –њ—А–Є–Њ—А–Є—В–µ—В –Ј–∞ –і–Є–Ј–µ–ї–∞",
       "url": "https://dariknews.bg/novini/sviat/mae-obsyzhda-novo-osvobozhdavane-na-petrolni-rezervi-s-prioritet-za-dizela-2468758",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
     },
     {
-      "title": "„Питах чата какво ми е“: Може ли изкуственият интелект да ни подведе за здравето ни?",
-      "url": "https://dariknews.bg/novini/bylgariia/pitah-chata-kakvo-mi-e-mozhe-li-izkustveniiat-intelekt-da-ni-podvede-za-zdraveto-ni-2468756",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51207/51207654/991-ratio-chat.jpg"
+      "title": "Карагър с унищожителна присъда за звезда на Ливърпул: Няма място в отбора в момента 12 Окт | 09:40",
+      "url": "https://dsport.bg/karagar-s-unistozitelna-prisada-za-zvezda-na-livarpul-nama-masto-v-otbora-v-momenta~241994.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299175015.og.jpg"
     },
     {
-      "title": "САЩ заплашили Украйна със спиране на оръжейните доставки заради атаките по Русия",
-      "url": "https://dariknews.bg/novini/sviat/sasht-zaplashili-ukrajna-sys-spirane-na-oryzhejnite-dostavki-zaradi-atakite-po-rusiia-2468759",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51263/51263522/991-ratio-iadreni-oryzhiia.jpg"
+      "title": "Каролина Хърикейнс задълбочи кризата във Филаделфия Флайърс 12 Окт | 09:30",
+      "url": "https://dsport.bg/karolina-harikeins-zadalbochi-krizata-vav-filadelfia-flaiars~241993.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299298249.og.jpg"
     },
     {
-      "title": "Пригответе чадърите: Понеделник идва с жълт код за значителни валежи в цялата страна",
-      "url": "https://dariknews.bg/novini/bylgariia/prigotvete-chadyrite-ponedelnik-idva-s-zhylt-kod-za-znachitelni-valezhi-v-cialata-strana-2468743",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44372/44372787/991-ratio-dyzhd-chadyr-esen.jpg"
-    },
-    {
-      "title": "Еленски бут, музика и щури забавления: Предстои най-вкусният празник с кулинарни изкушения и много настроение",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/elenski-but-muzika-i-shturi-zabavleniia-predstoi-naj-vkusniiat-praznik-s-kulinarni-izkusheniia-i-mnogo-nastroenie-2468394",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51198/51198746/991-ratio-meso-but-elenski-but.jpg"
-    },
-    {
-      "title": "Най-малко 72 души загинаха при въздушни удари по златна мина в Судан",
-      "url": "https://dariknews.bg/novini/sviat/naj-malko-72-dushi-zaginaha-pri-vyzdushni-udari-po-zlatna-mina-v-sudan-2468757",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50456/50456858/991-ratio-sudan.jpg"
-    },
-    {
-      "title": "Пеканов: Новото предложение за бюджета на ЕС не намалява парите за кохезия и земеделие",
-      "url": "https://dariknews.bg/novini/bylgariia/pekanov-novoto-predlozhenie-za-biudzheta-na-es-ne-namaliava-parite-za-koheziia-i-zemedelie-2468755",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50303/50303397/991-ratio-atanas-pekanov.jpg"
+      "title": "Байерн Мюнхен с галактическа оферта, за да задържи Майкъл Олисе 12 Окт | 09:20",
+      "url": "https://dsport.bg/baiern-munhen-s-galakticheska-oferta-za-da-zadarzi-maikal-olise~241992.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299521353.og.jpg"
     },
     {
       "title": "Енцо Мареска след успеха срещу Ливърпул: Целият клуб се нуждаеше от такава победа 12 Окт | 09:10",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/d9b~1.og.jpg"
-    },
-    {
-      "title": "Огромен скандал взриви Висшата лига 12 Окт | 07:59",
-      "url": "https://dsport.bg/ogromen-skandal-vzrivi-visshata-liga~241984.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/oala2.og.jpg"
-    },
-    {
-      "title": "Расинг Сантандер и Валенсия спретнаха шоу в дебюта на Агире 11 Окт | 23:55",
-      "url": "https://dsport.bg/rasing-santander-i-valensia-spretnaha-shou-v-debuta-na-agire~241983.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299714111.og.jpg"
-    },
-    {
-      "title": "След пет поредни загуби: Марсилия си припомни как се бие 11 Окт | 23:42",
-      "url": "https://dsport.bg/sled-pet-poredni-zagubi-marsilia-si-pripomni-kak-se-bie~241982.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/huyjafcx0aadt0h.og.jpg"
     }
   ]
 }
