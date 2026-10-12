@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:40:50.080833+00:00",
+  "updated": "2026-10-12T16:55:53.847485+00:00",
   "articles": [
     {
       "title": "България поиска помощ от ЕС и НАТО за разследването на атаката в Черно море",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51352/51352284/991-ratio-drift-skorost-shofior-opasno-shofirane.jpg"
     },
     {
+      "title": "ЦСКА обезумя от съдийството, каква ще е съдбата на пловдивските клубове? (ВИДЕО) 12 Окт | 19:45",
+      "url": "https://dsport.bg/cska-obezuma-ot-sadiistvoto-kakva-ste-e-sadbata-na-plovdivskite-klubove~242043.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/komentarno-alpha-23-.og.png"
+    },
+    {
       "title": "Флик: Шумът на стадиона на Галатасарай е изключителен, трябва да сме подготвени за атмосферата 12 Окт | 19:39",
       "url": "https://dsport.bg/flik-shumat-na-stadiona-na-galatasarai-e-izkluchitelen-trabva-da-sme-podgotveni-za-atmosferata~242042.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2267955519-1-1.og.jpg"
-    },
-    {
-      "title": "Киву преди втория мач в ШЛ: Интер трябва да превърне мечтите в отговорност 12 Окт | 17:37",
-      "url": "https://dsport.bg/kivu-inter-shampionska-liga-klub-briuzh-ambitsii~242032.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295268136~1.og.jpg"
     }
   ]
 }
