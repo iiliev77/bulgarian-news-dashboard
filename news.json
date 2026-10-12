@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T18:14:34.565545+00:00",
+  "updated": "2026-10-12T18:37:45.510320+00:00",
   "articles": [
     {
       "title": "Ивайло Мирчев: Подпалени са 11 антени на Starlink в секретен обект край София",
@@ -16,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/51280/51280349/991-ratio-iran.jpg"
     },
     {
-      "title": "Спират топлоподаването към четири блока в ж.к. „Христо Смирненски“ в София",
-      "url": "https://dariknews.bg/regioni/sofiia/spirat-toplopodavaneto-kym-chetiri-bloka-v-zh.k.-hristo-smirnenski-v-sofiia-2468890",
+      "title": "За месец: Спират топлоподаването към четири блока в ж.к. „Христо Смирненски“ в София",
+      "url": "https://dariknews.bg/regioni/sofiia/za-mesec-spirat-toplopodavaneto-kym-chetiri-bloka-v-zh.k.-hristo-smirnenski-v-sofiia-2468890",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/34745/34745251/991-ratio-toplofikaciia-sofiia.jpg"
@@ -142,18 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "На живо: Лудогорец вкара четвърти гол срещу десет от Арда 12 Окт | 21:35",
+      "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039573.og.jpg"
+    },
+    {
+      "title": "Янаки Милев отпадна от „Чалънджър“ в Италия 12 Окт | 21:13",
+      "url": "https://dsport.bg/anaki-milev-otpadna-ot-chalandzar-v-italia~242049.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/06.06-6~1.og.jpg"
+    },
+    {
       "title": "Вратар с рекорд на Гинес се ожени за сръбска инфлуенсърка 12 Окт | 20:53",
       "url": "https://dsport.bg/vratar-s-rekord-na-gines-se-ozeni-za-srabska-influensarka~242047.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/screenshot-2026-10-12-204306.og.png"
-    },
-    {
-      "title": "На живо: Лудогорец вкара трети гол срещу десет от Арда, димки от трибуна \"Моци\" прекъснаха мача 12 Окт | 20:52",
-      "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039573.og.jpg"
     },
     {
       "title": "Лудият бос на ПАО бленува за Никола Йокич 12 Окт | 20:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039427.og.jpg"
-    },
-    {
-      "title": "„Сините“ от 1 до 10: Левски се завърна свеж 12 Окт | 18:48",
-      "url": "https://dsport.bg/sinite-ot-1-do-10-levski-se-zavarna-svez~242038.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/12.10-3~2.og.jpg"
     }
   ]
 }
