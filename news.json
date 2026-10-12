@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T05:55:59.996572+00:00",
+  "updated": "2026-10-12T06:12:22.221612+00:00",
   "articles": [
+    {
+      "title": "По-лесно предаване, но не непременно по-тежко боледуване: Какво ни очаква през грипния сезон?",
+      "url": "https://dariknews.bg/novini/bylgariia/po-lesno-predavane-no-ne-nepremenno-po-tezhko-boleduvane-kakvo-ni-ochakva-prez-gripniia-sezon-2468769",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51017/51017480/991-ratio-grip-bolni.jpg"
+    },
     {
       "title": "Зеленски подкрепи предложението на Тръмп за примирие: Сега ходът е на Путин",
       "url": "https://dariknews.bg/novini/sviat/zelenski-podkrepi-predlozhenieto-na-trymp-za-primirie-sega-hodyt-e-na-putin-2468768",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/35349/35349940/991-ratio-riiad.jpg"
     },
     {
-      "title": "11 загинали и 27 ранени при тежка катастрофа в Турция (СНИМКА)",
-      "url": "https://dariknews.bg/novini/sviat/11-zaginali-i-27-raneni-pri-tezhka-katastrofa-v-turciia-snimka-2468751",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388513/991-ratio-katastrofa-geshov.jpg"
+      "title": "Холанд изригна след разгрома над Ливърпул: Това е момент, който ще остане с нас за дълго време 12 Окт | 08:50",
+      "url": "https://dsport.bg/holand-izrigna-sled-razgroma-nad-livarpul-tova-e-moment-koito-ste-ostane-s-nas-za-dalgo-vreme~241989.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299701500.og.jpg"
     },
     {
       "title": "Кими Антонели на прага на титлата във Формула 1: какво му е нужно, за да триумфира в Остин? 12 Окт | 08:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2295074774.og.jpg"
-    },
-    {
-      "title": "Аморим разочарован след издънката на Милан: Не можем да допускаме такъв гол 11 Окт | 23:20",
-      "url": "https://dsport.bg/amorim-razocharovan-sled-izdankata-na-milan-ne-mozem-da-dopuskame-takav-gol~241979.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299706417.og.jpg"
     }
   ]
 }
