@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-12T10:26:12.354641+00:00",
+  "updated": "2026-10-12T10:45:36.132197+00:00",
   "articles": [
+    {
+      "title": "Трима 17-годишни са задържани с вейпове и течност със съмнения за наркотици",
+      "url": "https://dariknews.bg/regioni/shumen/trima-17-godishni-sa-zadyrzhani-s-vejpove-i-technost-sys-symneniia-za-narkotici-2468839",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51374/51374561/991-ratio-dete-arest-beleznici.jpg"
+    },
+    {
+      "title": "Тежка катастрофа с три коли в село Костенец - мъж загина, жена е с опасност за живота",
+      "url": "https://dariknews.bg/novini/bylgariia/tezhka-katastrofa-s-tri-koli-v-selo-kostenec-myzh-zagina-zhena-e-s-opasnost-za-zhivota-2468838",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Северна Македония: В системата за граничен контрол няма данни Ива Михайлова да е напуснала страната",
+      "url": "https://dariknews.bg/novini/bylgariia/severna-makedoniia-v-sistemata-za-granichen-kontrol-niama-danni-iva-mihajlova-da-e-napusnala-stranata-2468837",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51030/51030093/991-ratio-bylgariia-makedoniia.jpg"
+    },
+    {
+      "title": "Славчо Мегеров, обвинен за убийството на Илиян Филипов, обжалва ареста си",
+      "url": "https://dariknews.bg/novini/bylgariia/slavcho-megerov-obvinen-za-ubijstvoto-na-iliian-filipov-obzhalva-aresta-si-2468836",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389663/991-ratio-slavcho-megerov.jpg"
+    },
     {
       "title": "България се топи: още 14 153 души по-малко за година",
       "url": "https://dariknews.bg/novini/bylgariia/bylgariia-se-topi-oshte-14-153-dushi-po-malko-za-godina-2468835",
@@ -112,34 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Гълъб Донев: Работим усилено по финализиране на проектите на бюджетните закони",
-      "url": "https://dariknews.bg/novini/bylgariia/gylyb-donev-rabotim-usileno-po-finalizirane-na-proektite-na-biudzhetnite-zakoni-2468823",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395063/991-ratio-gylyb-donev.jpg"
-    },
-    {
-      "title": "Шофьорка блъсна възрастна жена на пешеходна пътека в Русе",
-      "url": "https://dariknews.bg/regioni/ruse/shofiorka-blysna-vyzrastna-zhena-na-peshehodna-pyteka-v-ruse-2468817",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51284/51284496/991-ratio-peshehodna-pyteka.jpg"
-    },
-    {
-      "title": "Пребиха от бой мъж заради телефон",
-      "url": "https://dariknews.bg/regioni/ruse/prebiha-ot-boj-myzh-zaradi-telefon-2468816",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44205/44205801/991-ratio-krazhba-telefon-kradec.jpg"
-    },
-    {
-      "title": "Откриха мъж в безпомощно състояние край велосипед в Софийско, има опасност за живота му",
-      "url": "https://dariknews.bg/regioni/sofiia/otkriha-myzh-v-bezpomoshtno-systoianie-kraj-velosiped-v-sofijsko-ima-opasnost-za-zhivota-mu-2468818",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51369/51369489/991-ratio-linejka.jpg"
     },
     {
       "title": "БФС разкри амбициозен план за занемарен стадион 12 Окт | 13:19",
