@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-12T10:05:10.927116+00:00",
+  "updated": "2026-10-12T10:26:12.354641+00:00",
   "articles": [
+    {
+      "title": "България се топи: още 14 153 души по-малко за година",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-se-topi-oshte-14-153-dushi-po-malko-za-godina-2468835",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50936/50936138/991-ratio-tylpa.jpg"
+    },
+    {
+      "title": "Американците Робърт Хол и Майкъл Уудфорд спечелиха Нобеловата награда за икономика",
+      "url": "https://dariknews.bg/novini/sviat/amerikancite-robyrt-hol-i-majkyl-uudford-specheliha-nobelovata-nagrada-za-ikonomika-2468834",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50937/50937314/991-ratio-nobelova-nagrada.jpg"
+    },
     {
       "title": "София е избрана за най-добра европейска дестинация за кратко градско пътуване",
       "url": "https://dariknews.bg/regioni/sofiia/sofiia-e-izbrana-za-naj-dobra-evropejska-destinaciia-za-kratko-gradsko-pytuvane-2468833",
@@ -9,18 +23,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395106/991-ratio-vasko-terziev.jpg"
     },
     {
-      "title": "Мъж падна от мост в река Росица, пожарникари го спасиха",
-      "url": "https://dariknews.bg/regioni/gabrovo/myzh-padna-ot-most-v-reka-rosica-pozharnikari-go-spasiha-2468830",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395102/991-ratio-pozharna-reka.jpg"
-    },
-    {
       "title": "Промените в правилата за пенсионните фондове разделиха социалните партньори",
       "url": "https://dariknews.bg/novini/bylgariia/promenite-v-pravilata-za-pensionnite-fondove-razdeliha-socialnite-partniori-2468832",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395104/991-ratio-nsts.jpg"
+    },
+    {
+      "title": "Мъж падна от мост в река Росица, пожарникари го спасиха",
+      "url": "https://dariknews.bg/regioni/gabrovo/myzh-padna-ot-most-v-reka-rosica-pozharnikari-go-spasiha-2468830",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395102/991-ratio-pozharna-reka.jpg"
     },
     {
       "title": "Макрон: През последните 48 часа не съм забелязал Русия да спазва каквото и да е енергийно примирие",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51369/51369489/991-ratio-linejka.jpg"
     },
     {
-      "title": "След употреба на алкохол: Баща удари 14-годишната си дъщеря с чук по главата",
-      "url": "https://dariknews.bg/regioni/sofiia/sled-upotreba-na-alkohol-bashta-udari-14-godishnata-si-dyshteria-s-chuk-po-glavata-2468815",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51200/51200972/991-ratio-chuk.jpg"
-    },
-    {
-      "title": "Повече крачки дневно пазят тийнейджърите от психични проблеми",
-      "url": "https://dariknews.bg/novini/liubopitno/poveche-krachki-dnevno-paziat-tijnejdzhyrite-ot-psihichni-problemi-2468814",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49392/49392794/991-ratio-hodene.jpg"
+      "title": "БФС разкри амбициозен план за занемарен стадион 12 Окт | 13:19",
+      "url": "https://dsport.bg/bfs-razkri-ambiciozen-plan-za-zanemaren-stadion~242015.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-1340-.og.png"
     },
     {
       "title": "Положението е тежко: Локомотив Пловдив отвори две дарителски сметки 12 Окт | 13:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299567110.og.jpg"
-    },
-    {
-      "title": "Минисага със стадион „Лазур“ за Купата, Черноморец обясни ситуацията 12 Окт | 11:28",
-      "url": "https://dsport.bg/minisaga-sas-stadion-lazur-za-kupata-chernomorec-obasni-situaciata~242005.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/983492.og.jpg"
     }
   ]
 }
