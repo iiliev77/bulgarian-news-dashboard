@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T17:28:00.948096+00:00",
+  "updated": "2026-10-12T17:45:35.295829+00:00",
   "articles": [
+    {
+      "title": "България и още 28 държави предупредиха Иран да се въздържа от враждебни действия",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-oshte-28-dyrzhavi-preduprediha-iran-da-se-vyzdyrzha-ot-vrazhdebni-dejstviia-2468891",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51280/51280349/991-ratio-iran.jpg"
+    },
     {
       "title": "Спират топлоподаването към четири блока в ж.к. „Христо Смирненски“ в София",
       "url": "https://dariknews.bg/regioni/sofiia/spirat-toplopodavaneto-kym-chetiri-bloka-v-zh.k.-hristo-smirnenski-v-sofiia-2468890",
@@ -9,8 +16,8 @@
       "image": "https://m.netinfo.bg/media/images/34745/34745251/991-ratio-toplofikaciia-sofiia.jpg"
     },
     {
-      "title": "Радев пред зам.-председателя на ЕК: Високите технологии са ключови за конкурентоспособността на всяка държава в ЕС",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-pred-zam.-predsedatelia-na-ek-visokite-tehnologii-sa-kliuchovi-za-konkurentosposobnostta-na-vsiaka-dyrzhava-v-es-2468889",
+      "title": "Радев пред зам.-председателя на ЕК: Високите технологии са ключови за конкурентоспособността на държавите в ЕС",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-pred-zam.-predsedatelia-na-ek-visokite-tehnologii-sa-kliuchovi-za-konkurentosposobnostta-na-dyrzhavite-v-es-2468889",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395247/991-ratio-rumen-radev.jpg"
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50797/50797751/991-ratio-imunizaciia.jpg"
     },
     {
-      "title": "Радев се срещна с американска бизнес делегация: България търси инвестиции във високите технологии",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-se-sreshtna-s-amerikanska-biznes-delegaciia-bylgariia-tyrsi-investicii-vyv-visokite-tehnologii-2468869",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395187/991-ratio-rumen-radev-na-sreshta-s-amerikanska-biznes-delegaciia.jpg"
-    },
-    {
-      "title": "На живо: Лудогорец поведе срещу Арда 12 Окт | 20:21",
+      "title": "На живо: Лудогорец поведе, Арда остана с човек по-малко 12 Окт | 20:35",
       "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039546.og.jpg"
+    },
+    {
+      "title": "Лудият бос на ПАО бленува за Никола Йокич 12 Окт | 20:30",
+      "url": "https://dsport.bg/ludiat-bos-na-pao-blenuva-za-nikola-iokich~242046.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2150362514-3.og.jpg"
     },
     {
       "title": "Димитър Кузманов влезе в основната схема на „Чалънджър“ в Италия 12 Окт | 20:17",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/12.10-2~2.og.jpg"
-    },
-    {
-      "title": "Бундеслига счупи рекорда си по голове 12 Окт | 18:13",
-      "url": "https://dsport.bg/bundesliga-schupi-rekorda-si-po-golove~242036.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2276759180~1.og.jpg"
     }
   ]
 }
