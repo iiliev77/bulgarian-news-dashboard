@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-12T05:20:29.970582+00:00",
+  "updated": "2026-10-12T05:39:33.887774+00:00",
   "articles": [
+    {
+      "title": "Изпълнителният заместник-председател на ЕК Хена Виркунен ще има работни срещи в България",
+      "url": "https://dariknews.bg/novini/bylgariia/izpylnitelniiat-zamestnik-predsedatel-na-ek-hena-virkunen-shte-ima-rabotni-sreshti-v-bylgariia-2468767",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51025/51025264/991-ratio-hena-virkunen.jpg"
+    },
+    {
+      "title": "Бърнам: Русия се е намесила в референдума за Брекзит през 2016 г.",
+      "url": "https://dariknews.bg/novini/sviat/byrnam-rusiia-se-e-namesila-v-referenduma-za-brekzit-prez-2016-g-2468766",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356666/991-ratio-andi-byrnam.jpg"
+    },
     {
       "title": "Борис Джонсън разкритикува остро сделката на Тръмп с Путин: „САЩ финансират клането в Украйна“",
       "url": "https://dariknews.bg/novini/sviat/boris-dzhonsyn-razkritikuva-ostro-sdelkata-na-trymp-s-putin-sasht-finansirat-klaneto-v-ukrajna-2468765",
@@ -27,7 +41,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/peevski-demerdzhiev-si-igrae-sys-strahovete-na-horata-seziram-prokuraturata-za-tova-che-syzdava-panika-2468762",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51355/51355235/991-ratio-demerdzhiev-peevski.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Северна Корея изстреля балистични ракети към морето от източното си крайбрежие",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
     },
     {
-      "title": "Октомврийска жега в Русе: Бяха измерени 33,7 градуса на сянка",
-      "url": "https://dariknews.bg/regioni/ruse/oktomvrijska-zhega-v-ruse-biaha-izmereni-337-gradusa-na-sianka-2468749",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Ламин Ямал смени терена с модния подиум, звездата на Барса с ексклузивна колекция 12 Окт | 08:20",
+      "url": "https://dsport.bg/lamin-amal-smeni-terena-s-modnia-podium-zvezdata-na-barsa-s-ekskluzivna-kolekcia~241986.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299262684.og.jpg"
     },
     {
-      "title": "Полша свиква спешно антитерористично заседание заради заплахи срещу Доналд Туск и министри",
-      "url": "https://dariknews.bg/novini/sviat/polsha-svikva-speshno-antiteroristichno-zasedanie-zaradi-zaplahi-sreshtu-donald-tusk-i-ministri-2468748",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51190/51190602/991-ratio-polskiiat-premier-donald-tusk.jpg"
+      "title": "Винисиус и сексапилната Фонсека развалиха годежа и скъсаха окончателно 12 Окт | 08:11",
+      "url": "https://dsport.bg/vinisius-i-seksapilnata-fonseka-razvaliha-godeza-i-skasaha-okonchatelno~241985.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/d9b~1.og.jpg"
     },
     {
       "title": "Огромен скандал взриви Висшата лига 12 Окт | 07:59",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/994763~1.og.jpg"
-    },
-    {
-      "title": "Огнян Младенов: Положителното е, че показахме характер 11 Окт | 22:30",
-      "url": "https://dsport.bg/ognan-mladenov-polozitelnoto-e-che-pokazahme-harakter~241976.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038943~1.og.jpg"
-    },
-    {
-      "title": "Гиздол след дебюта си в ЦСКА: Много добра първа стъпка (ВИДЕО) 11 Окт | 22:16",
-      "url": "https://dsport.bg/gizdol-sled-debuta-si-v-cska-mnogo-dobra-parva-stapka-video~241975.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038945~1.og.jpg"
     }
   ]
 }
