@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T17:45:35.295829+00:00",
+  "updated": "2026-10-12T17:59:05.163112+00:00",
   "articles": [
+    {
+      "title": "Ивайло Мирчев: Подпалени са 11 антени на Starlink в секретен обект край София",
+      "url": "https://dariknews.bg/novini/bylgariia/ivajlo-mirchev-podpaleni-sa-11-anteni-na-starlink-v-sekreten-obekt-kraj-sofiia-2468892",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
+    },
     {
       "title": "България и още 28 държави предупредиха Иран да се въздържа от враждебни действия",
       "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-oshte-28-dyrzhavi-preduprediha-iran-da-se-vyzdyrzha-ot-vrazhdebni-dejstviia-2468891",
@@ -16,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/34745/34745251/991-ratio-toplofikaciia-sofiia.jpg"
     },
     {
-      "title": "Радев пред зам.-председателя на ЕК: Високите технологии са ключови за конкурентоспособността на държавите в ЕС",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-pred-zam.-predsedatelia-na-ek-visokite-tehnologii-sa-kliuchovi-za-konkurentosposobnostta-na-dyrzhavite-v-es-2468889",
+      "title": "Радев пред зам.-председателя на ЕК: Високите технологии са ключови за конкурентоспособността на ЕС",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-pred-zam.-predsedatelia-na-ek-visokite-tehnologii-sa-kliuchovi-za-konkurentosposobnostta-na-es-2468889",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395247/991-ratio-rumen-radev.jpg"
@@ -135,18 +142,18 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Детска градина след ваксини в чужбина: Какви документи ще искат от родителите",
-      "url": "https://dariknews.bg/novini/bylgariia/detska-gradina-sled-vaksini-v-chuzhbina-kakvi-dokumenti-shte-iskat-ot-roditelite-2468870",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50797/50797751/991-ratio-imunizaciia.jpg"
+      "title": "Вратар с рекорд на Гинес се ожени за сръбска инфлуенсърка 12 Окт | 20:53",
+      "url": "https://dsport.bg/vratar-s-rekord-na-gines-se-ozeni-za-srabska-influensarka~242047.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-12-204306.og.png"
     },
     {
-      "title": "На живо: Лудогорец поведе, Арда остана с човек по-малко 12 Окт | 20:35",
+      "title": "На живо: Лудогорец вкара трети гол срещу десет от Арда 12 Окт | 20:52",
       "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1039546.og.jpg"
+      "image": "https://dsport.bg/media/385/1039559.og.jpg"
     },
     {
       "title": "Лудият бос на ПАО бленува за Никола Йокич 12 Окт | 20:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/12.10-3~2.og.jpg"
-    },
-    {
-      "title": "Рекордни класирания за Елизара Янева, Росица Денчева и Лидия Енчева 12 Окт | 18:24",
-      "url": "https://dsport.bg/rekordni-klasirania-za-elizara-aneva-rosica-dencheva-i-lidia-encheva~242037.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/12.10-2~2.og.jpg"
     }
   ]
 }
