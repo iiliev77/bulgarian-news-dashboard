@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T14:53:50.297029+00:00",
+  "updated": "2026-10-12T15:10:25.685046+00:00",
   "articles": [
+    {
+      "title": "Заради съмнение за хранително отравяне след погребение: БАБХ затвори механа в Бобошево",
+      "url": "https://dariknews.bg/regioni/kiustendil/zaradi-symnenie-za-hranitelno-otraviane-sled-pogrebenie-babh-zatvori-mehana-v-boboshevo-2468885",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395230/991-ratio-hrana-v-ednokratna-kutiia.jpg"
+    },
     {
       "title": "Божанов пита: Защо сайтът на президентството няма домейн на кирилица „президент.бг“",
       "url": "https://dariknews.bg/novini/bylgariia/bozhanov-pita-zashto-sajtyt-na-prezidentstvoto-niama-domejn-na-kirilica-prezident.bg-2468884",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51325/51325726/991-ratio-nasilie.jpg"
     },
     {
-      "title": "С близо 3 промила зад волана: Мъж се заби в автомобил и ограда в Добрич",
-      "url": "https://dariknews.bg/regioni/dobrich/s-blizo-3-promila-zad-volana-myzh-se-zabi-v-avtomobil-i-ograda-v-dobrich-2468861",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51163/51163595/991-ratio-piian-shofior.jpg"
+      "title": "Първото полувреме на „Анфийлд“ – корида, а не футбол 12 Окт | 17:58",
+      "url": "https://dsport.bg/parvoto-poluvreme-na-anfiild-korida-a-ne-futbol~242035.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299687439.og.jpg"
     },
     {
       "title": "Чоло Симеоне: Трябва да гледаме мач за мач, а не далеч в бъдещето 12 Окт | 17:44",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1319639356.og.jpg"
-    },
-    {
-      "title": "Шанхайски шок, белгиец изхвърли Алкарас 12 Окт | 16:09",
-      "url": "https://dsport.bg/shanhaiski-shok-belgiec-izhvarli-alkaras~242025.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299811652.og.jpg"
     }
   ]
 }
