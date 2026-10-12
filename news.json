@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-12T18:58:32.980658+00:00",
+  "updated": "2026-10-12T19:13:14.856388+00:00",
   "articles": [
     {
-      "title": "Два тира се удариха на пътя Русе – Велико Търново, товар се разпиля по платното",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/dva-tira-se-udariha-na-pytia-ruse-veliko-tyrnovo-tovar-se-razpilia-po-platnoto-2468896",
+      "title": "Катастрофа с два тира затвори главния път Велико Търново – Русе",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/katastrofa-s-dva-tira-zatvori-glavniia-pyt-veliko-tyrnovo-ruse-2468896",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/48795/48795814/991-ratio-babh.jpg"
     },
     {
+      "title": "Гьозтепе зарадва Стоилов – постигна първа победа с бой над пряк съперник за оцеляване 12 Окт | 22:02",
+      "url": "https://dsport.bg/goztepe-zaradva-stoilov-postigna-parva-pobeda-s-boi-nad-prak-sapernik-za-ocelavane~242052.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2173259074-1-2-2-1-2-1.og.jpg"
+    },
+    {
       "title": "Лудогорец качи на историческа разлика десет от Арда 12 Окт | 21:54",
       "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/komentarno-alpha-23-.og.png"
-    },
-    {
-      "title": "Флик: Шумът на стадиона на Галатасарай е изключителен, трябва да сме подготвени за атмосферата 12 Окт | 19:39",
-      "url": "https://dsport.bg/flik-shumat-na-stadiona-na-galatasarai-e-izkluchitelen-trabva-da-sme-podgotveni-za-atmosferata~242042.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2269824583-1-1~1.og.jpg"
     }
   ]
 }
