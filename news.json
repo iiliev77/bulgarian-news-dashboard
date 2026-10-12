@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T14:06:32.006277+00:00",
+  "updated": "2026-10-12T14:30:34.793751+00:00",
   "articles": [
+    {
+      "title": "РС Македония ще уведоми ЕС за „бягството на Ива Михайлова“ и „приемането й на високо ниво в София“",
+      "url": "https://dariknews.bg/novini/sviat/rs-makedoniia-shte-uvedomi-es-za-biagstvoto-na-iva-mihajlova-i-priemaneto-j-na-visoko-nivo-v-sofiia-2468880",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51083/51083804/991-ratio-bylgariia-makedoniia.jpg"
+    },
     {
       "title": "След ударите по летища: Саудитска Арабия съобщи за нови ракетни атаки и нападения с дронове",
       "url": "https://dariknews.bg/novini/sviat/sled-udarite-po-letishta-sauditska-arabiia-syobshti-za-novi-raketni-ataki-i-napadeniia-s-dronove-2468879",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395169/991-ratio-zlato-kapitan-andreevo.jpg"
     },
     {
-      "title": "14-годишен простреля директор и учителка в училище във Франция",
-      "url": "https://dariknews.bg/novini/sviat/14-godishen-prostrelia-direktor-i-uchitelka-v-uchilishte-vyv-franciia-2468857",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45818/45818607/991-ratio-policiia-franciia-patrulka.jpg"
+      "title": "Осасуна разкара треньора, върна местен любимец 12 Окт | 17:24",
+      "url": "https://dsport.bg/osasuna-razkara-trenora-varna-mesten-lubimec~242031.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2256752566.og.jpg"
+    },
+    {
+      "title": "Обрат: Карвахал все пак ще облече екипа на Хетафе 12 Окт | 17:14",
+      "url": "https://dsport.bg/obrat-karvahal-vse-pak-ste-obleche-ekipa-na-hetafe~242030.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2277103385.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик радио - 12.10.2026 г. 12 Окт | 17:00",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038738~1.og.jpg"
-    },
-    {
-      "title": "Левски няма да тренира в Нидерландия 12 Окт | 14:55",
-      "url": "https://dsport.bg/levski-nama-da-trenira-v-niderlandia~242021.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1312324811.og.jpg"
-    },
-    {
-      "title": "Око-Флекс си връща титулярното място срещу НЕК Ниймеген 12 Окт | 14:40",
-      "url": "https://dsport.bg/oko-fleks-si-vrasta-titularnoto-masto-srestu-nek-niimegen~242020.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1026363-1.og.jpg"
     }
   ]
 }
