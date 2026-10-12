@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-12T18:37:45.510320+00:00",
+  "updated": "2026-10-12T18:58:32.980658+00:00",
   "articles": [
     {
-      "title": "Ивайло Мирчев: Подпалени са 11 антени на Starlink в секретен обект край София",
-      "url": "https://dariknews.bg/novini/bylgariia/ivajlo-mirchev-podpaleni-sa-11-anteni-na-starlink-v-sekreten-obekt-kraj-sofiia-2468892",
+      "title": "Два тира се удариха на пътя Русе – Велико Търново, товар се разпиля по платното",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/dva-tira-se-udariha-na-pytia-ruse-veliko-tyrnovo-tovar-se-razpilia-po-platnoto-2468896",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Спасиха жена, паднала от крузиен кораб и прекарала денонощие в морето",
+      "url": "https://dariknews.bg/novini/sviat/spasiha-zhena-padnala-ot-kruzien-korab-i-prekarala-denonoshtie-v-moreto-2468895",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/42756/42756351/991-ratio-kruizen-korab.jpg"
+    },
+    {
+      "title": "Иран отрече да има връзка с инцидента край военното летище „Феърфорд“",
+      "url": "https://dariknews.bg/novini/sviat/iran-otreche-da-ima-vryzka-s-incidenta-kraj-voennoto-letishte-feyrford-2468894",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395315/991-ratio-bombardirovachi.jpg"
     },
     {
       "title": "България и още 28 държави предупредиха Иран да се въздържа от враждебни действия",
@@ -128,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/48795/48795814/991-ratio-babh.jpg"
     },
     {
-      "title": "Задушлива миризма и опасни емисии: Откриха нарушения в ТЕЦ „Република“ в Перник",
-      "url": "https://dariknews.bg/regioni/pernik/zadushliva-mirizma-i-opasni-emisii-otkriha-narusheniia-v-tec-republika-v-pernik-2468872",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395203/991-ratio-tec-republika.jpg"
-    },
-    {
-      "title": "Планират да изградят поне шест полигона за млади шофьори у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/planirat-da-izgradiat-pone-shest-poligona-za-mladi-shofiori-u-nas-2468871",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На живо: Лудогорец вкара четвърти гол срещу десет от Арда 12 Окт | 21:35",
+      "title": "Лудогорец качи на историческа разлика десет от Арда 12 Окт | 21:54",
       "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039573.og.jpg"
+    },
+    {
+      "title": "Треньор обещал на съпругата си да не гледа в деколтето на надарена репортерка (ВИДЕО) 12 Окт | 21:51",
+      "url": "https://dsport.bg/trenor-obestal-na-saprugata-si-da-ne-gleda-v-dekolteto-na-nadarena-reporterka~242051.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-12-214338.og.png"
+    },
+    {
+      "title": "Аталанта приключи със загубите срещу боксовата круша на Серия А 12 Окт | 21:36",
+      "url": "https://dsport.bg/atalanta-prikluchi-sas-zagubite-srestu-boksovata-krusha-na-seria-a~242050.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299844347.og.jpg"
     },
     {
       "title": "Янаки Милев отпадна от „Чалънджър“ в Италия 12 Окт | 21:13",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2269824583-1-1~1.og.jpg"
-    },
-    {
-      "title": "Въпреки тежкия момент, Ботев Пловдив продължава с благотворителната си кампания 12 Окт | 19:21",
-      "url": "https://dsport.bg/vapreki-tezkia-moment-botev-plovdiv-prodalzava-s-blagotvoritelnata-si-kampania~242041.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/12.10-4~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА към феновете: Ще се видим в четвъртък (ВИДЕО) 12 Окт | 19:07",
-      "url": "https://dsport.bg/cska-kam-fenovete-ste-se-vidim-v-chetvartak-video~242040.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039427.og.jpg"
     }
   ]
 }
