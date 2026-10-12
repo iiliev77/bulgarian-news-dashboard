@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-12T19:13:14.856388+00:00",
+  "updated": "2026-10-12T19:31:14.841140+00:00",
   "articles": [
+    {
+      "title": "Показаха ексклузивни кадри от борда на атакувания в Черно море кораб (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/pokazaha-ekskluzivni-kadri-ot-borda-na-atakuvaniia-v-cherno-more-korab-video-2468892",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395328/991-ratio-d.jpg"
+    },
     {
       "title": "Катастрофа с два тира затвори главния път Велико Търново – Русе",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/katastrofa-s-dva-tira-zatvori-glavniia-pyt-veliko-tyrnovo-ruse-2468896",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/32219/32219031/991-ratio-nova-banknota-50-evro.jpg"
     },
     {
-      "title": "БАБХ стартира проверки в заводи за олио и растителни масла",
-      "url": "https://dariknews.bg/novini/bylgariia/babh-startira-proverki-v-zavodi-za-olio-i-rastitelni-masla-2468878",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48795/48795814/991-ratio-babh.jpg"
+      "title": "Страхотно посрещане за Ивайло Петев и Здравко Димитров след драмата с Бурсаспор (ВИДЕО) 12 Окт | 22:27",
+      "url": "https://dsport.bg/strahotno-posrestane-za-ivailo-petev-i-zdravko-dimitrov-sled-dramata-s-bursaspor-video~242048.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/img-20261012-wa0043.jpg.og.jpeg"
+    },
+    {
+      "title": "Йовичевич след победното завръщане: За мен е чест да съм част от това първенство 12 Окт | 22:17",
+      "url": "https://dsport.bg/iovichevich-sled-pobednoto-zavrastane-za-men-e-chest-da-sam-chast-ot-tova-parvenstvo~242053.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039544~1.og.jpg"
     },
     {
       "title": "Гьозтепе зарадва Стоилов – постигна първа победа с бой над пряк съперник за оцеляване 12 Окт | 22:02",
@@ -156,7 +170,7 @@
       "image": "https://dsport.bg/media/385/1039573.og.jpg"
     },
     {
-      "title": "Треньор обещал на съпругата си да не гледа в деколтето на надарена репортерка (ВИДЕО) 12 Окт | 21:51",
+      "title": "Треньор обещал на жена си да не гледа в деколтето на надарена репортерка (ВИДЕО) 12 Окт | 21:51",
       "url": "https://dsport.bg/trenor-obestal-na-saprugata-si-da-ne-gleda-v-dekolteto-na-nadarena-reporterka~242051.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/29.09-6~1.og.jpg"
-    },
-    {
-      "title": "Футболист на ЦСКА заведе детето на новия стадион 12 Окт | 19:59",
-      "url": "https://dsport.bg/futbolist-na-cska-zavede-deteto-na-novia-stadion~242044.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-2026-10-12-194507.og.png"
-    },
-    {
-      "title": "ЦСКА обезумя от съдийството, каква ще е съдбата на пловдивските клубове? (ВИДЕО) 12 Окт | 19:45",
-      "url": "https://dsport.bg/cska-obezuma-ot-sadiistvoto-kakva-ste-e-sadbata-na-plovdivskite-klubove~242043.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/komentarno-alpha-23-.og.png"
     }
   ]
 }
