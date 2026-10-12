@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-12T06:12:22.221612+00:00",
+  "updated": "2026-10-12T06:41:19.805345+00:00",
   "articles": [
+    {
+      "title": "„Здравословното ми състояние се влоши“: Ива Михайлова се прибра в България",
+      "url": "https://dariknews.bg/novini/bylgariia/zdravoslovnoto-mi-systoianie-se-vloshi-iva-mihajlova-se-pribra-v-bylgariia-2468772",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
+    },
+    {
+      "title": "Германски изтребители ще участват в учението за ядрено възпиране на НАТО",
+      "url": "https://dariknews.bg/novini/sviat/germanski-iztrebiteli-shte-uchastvat-v-uchenieto-za-iadreno-vyzpirane-na-nato-2468771",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394975/991-ratio-nato.jpg"
+    },
+    {
+      "title": "Вода или диетични напитки: Кое е по-добро за сваляне на килограми",
+      "url": "https://dariknews.bg/novini/liubopitno/voda-ili-dietichni-napitki-koe-e-po-dobro-za-svaliane-na-kilogrami-2468770",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35302/35302094/991-ratio-napitka.jpg"
+    },
     {
       "title": "По-лесно предаване, но не непременно по-тежко боледуване: Какво ни очаква през грипния сезон?",
       "url": "https://dariknews.bg/novini/bylgariia/po-lesno-predavane-no-ne-nepremenno-po-tezhko-boleduvane-kakvo-ni-ochakva-prez-gripniia-sezon-2468769",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50303/50303397/991-ratio-atanas-pekanov.jpg"
     },
     {
-      "title": "Тръмп: Има енергийно примирие между Русия и Украйна, което влиза в сила незабавно",
-      "url": "https://dariknews.bg/novini/sviat/trymp-ima-energijno-primirie-mezhdu-rusiia-i-ukrajna-koeto-vliza-v-sila-nezabavno-2468754",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352873/991-ratio-trymp.jpg"
+      "title": "Енцо Мареска след успеха срещу Ливърпул: Целият клуб се нуждаеше от такава победа 12 Окт | 09:10",
+      "url": "https://dsport.bg/enco-mareska-sled-uspeha-srestu-livarpul-celiat-klub-se-nuzdaeshe-ot-takava-pobeda~241991.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299700651.og.jpg"
     },
     {
-      "title": "Катастрофа блокира временно движението на камиони по пътя Лом-Монтана",
-      "url": "https://dariknews.bg/regioni/montana/katastrofa-blokira-vremenno-dvizhenieto-na-kamioni-po-pytia-lom-montana-2468753",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Нова атака срещу летището в Рияд",
-      "url": "https://dariknews.bg/novini/sviat/nova-ataka-sreshtu-letishteto-v-riiad-2468752",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35349/35349940/991-ratio-riiad.jpg"
+      "title": "Люис Хамилтън получи спешна медицинска помощ след Гран При на Сингапур 12 Окт | 08:59",
+      "url": "https://dsport.bg/luis-hamiltan-poluchi-speshna-medicinska-pomost-sled-gran-pri-na-singapur~241990.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299644201.og.jpg"
     },
     {
       "title": "Холанд изригна след разгрома над Ливърпул: Това е момент, който ще остане с нас за дълго време 12 Окт | 08:50",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/huyjafcx0aadt0h.og.jpg"
-    },
-    {
-      "title": "Ювентус се спаси в края: Рандал Коло Муани донесе точката срещу Каляри 11 Окт | 23:38",
-      "url": "https://dsport.bg/uventus-se-spasi-v-kraa-randal-kolo-muani-donese-tochkata-srestu-kalari~241981.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295099110.og.jpg"
-    },
-    {
-      "title": "Олимпиакос спечели голямото дерби с Панатинайкос, въпреки че остана с 10 души 11 Окт | 23:22",
-      "url": "https://dsport.bg/olimpiakos-specheli-golamoto-derbi-s-panatinaikos-vapreki-che-ostana-s-10-dushi~241980.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295074774.og.jpg"
     }
   ]
 }
