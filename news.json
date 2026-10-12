@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-12T17:08:30.226205+00:00",
+  "updated": "2026-10-12T17:28:00.948096+00:00",
   "articles": [
+    {
+      "title": "Спират топлоподаването към четири блока в ж.к. „Христо Смирненски“ в София",
+      "url": "https://dariknews.bg/regioni/sofiia/spirat-toplopodavaneto-kym-chetiri-bloka-v-zh.k.-hristo-smirnenski-v-sofiia-2468890",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/34745/34745251/991-ratio-toplofikaciia-sofiia.jpg"
+    },
+    {
+      "title": "Радев пред зам.-председателя на ЕК: Високите технологии са ключови за конкурентоспособността на всяка държава в ЕС",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-pred-zam.-predsedatelia-na-ek-visokite-tehnologii-sa-kliuchovi-za-konkurentosposobnostta-na-vsiaka-dyrzhava-v-es-2468889",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395247/991-ratio-rumen-radev.jpg"
+    },
     {
       "title": "България поиска помощ от ЕС и НАТО за разследването на атаката в Черно море",
       "url": "https://dariknews.bg/novini/bylgariia/bylgariia-poiska-pomosht-ot-es-i-nato-za-razsledvaneto-na-atakata-v-cherno-more-2468888",
@@ -128,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395187/991-ratio-rumen-radev-na-sreshta-s-amerikanska-biznes-delegaciia.jpg"
     },
     {
-      "title": "Ритници, удари и грабеж: Седем души нападнаха мъж за 500 евро в Сапарева баня",
-      "url": "https://dariknews.bg/regioni/kiustendil/ritnici-udari-i-grabezh-sedem-dushi-napadnaha-myzh-za-500-evro-v-sapareva-bania-2468866",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
-    },
-    {
-      "title": "Задържаха 20-годишен за дрифт в жилищен комплекс във Варна",
-      "url": "https://dariknews.bg/regioni/varna/zadyrzhaha-20-godishen-za-drift-v-zhilishten-kompleks-vyv-varna-2468864",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352284/991-ratio-drift-skorost-shofior-opasno-shofirane.jpg"
-    },
-    {
-      "title": "На живо: Лудогорец - Арда 12 Окт | 20:01",
+      "title": "На живо: Лудогорец поведе срещу Арда 12 Окт | 20:21",
       "url": "https://dsport.bg/na-zivo-ludogorec-arda-pri-zavrastaneto-na-iovichevich-sastavi~242039.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-12t184832.746.og.png"
+      "image": "https://dsport.bg/media/385/1039546.og.jpg"
+    },
+    {
+      "title": "Димитър Кузманов влезе в основната схема на „Чалънджър“ в Италия 12 Окт | 20:17",
+      "url": "https://dsport.bg/dimitar-kuzmanov-vleze-v-osnovnata-shema-na-chalandzar-v-italia~242045.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/29.09-6~1.og.jpg"
     },
     {
       "title": "Футболист на ЦСКА заведе детето на новия стадион 12 Окт | 19:59",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2276759180~1.og.jpg"
-    },
-    {
-      "title": "Първото полувреме на „Анфийлд“ – корида, а не футбол 12 Окт | 17:58",
-      "url": "https://dsport.bg/parvoto-poluvreme-na-anfiild-korida-a-ne-futbol~242035.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299687439.og.jpg"
     }
   ]
 }
