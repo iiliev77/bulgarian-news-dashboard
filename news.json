@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:26:50.600585+00:00",
+  "updated": "2026-10-13T09:45:42.667589+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -9,11 +9,32 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
+      "title": "Драматична загуба изпрати Вулканите обратно в Изолатора на „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/dramatichna-zaguba-izprati-vulkanite-obratno-v-izolatora-na-igri-na-voliata-2468946",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395493/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Още двама воини от Обречените влизат във Войната на племената на “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/oshte-dvama-voini-ot-obrechenite-vlizat-vyv-vojnata-na-plemenata-na-igri-na-voliata-2468945",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395484/991-ratio-igri-na-voliata.jpg"
+    },
+    {
       "title": "Бърз влак блъсна кола на жп прелез, спряха движението между Бойчиновци и Мърчево",
       "url": "https://dariknews.bg/regioni/vidin/byrz-vlak-blysna-kola-na-zhp-prelez-spriaha-dvizhenieto-mezhdu-bojchinovci-i-myrchevo-2468943",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51206/51206120/991-ratio-liniia-zhp-liniia.jpg"
+    },
+    {
+      "title": "ГЕРБ: Радев да се обади директно на Песков или на Путин и да попита в прав текст - руски ли са дроновете",
+      "url": "https://dariknews.bg/novini/bylgariia/gerb-radev-da-se-obadi-direktno-na-peskov-ili-na-putin-i-da-popita-v-prav-tekst-ruski-li-sa-dronovete-2468944",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355305/991-ratio-daniel-mitov-i-georg-georgiev.jpg"
     },
     {
       "title": "Президентът Йотова остро осъжда новите атаки: Черно море се превръща във военна зона",
@@ -121,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51164/51164523/991-ratio-nato.jpg"
     },
     {
-      "title": "Тялото на 37-годишен украинец е открито на плажа в Слънчев бряг",
-      "url": "https://dariknews.bg/regioni/burgas/tialoto-na-37-godishen-ukrainec-e-otkrito-na-plazha-v-slynchev-briag-2468928",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51133/51133145/991-ratio-voda-more.jpg"
+      "title": "Официално: Формула 1 се завръща в Африка 13 Окт | 12:38",
+      "url": "https://dsport.bg/oficialno-formula-1-se-zavrasta-v-afrika~242093.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/6ac.og.jpeg"
     },
     {
-      "title": "Спасяват петима моряци край Крапец, общо 18 са били на борда на потъналия кораб",
-      "url": "https://dariknews.bg/regioni/varna/spasiavat-petima-moriaci-kraj-krapec-obshto-18-sa-bili-na-borda-na-potynaliia-korab-2468927",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395409/991-ratio-granichna-policiia.jpg"
+      "title": "Левски каца в Германия на път за Ниймеген 13 Окт | 12:35",
+      "url": "https://dsport.bg/levski-kaca-v-germania-na-pat-za-niimegen~242092.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1031307~1.og.jpg"
     },
     {
-      "title": "Пеевски: Управляващите се скриха срамно, направиха мечешка услуга на Йотова",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-upravliavashtite-se-skriha-sramno-napraviha-mecheshka-usluga-na-iotova-2468926",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51317/51317793/991-ratio-peevski.jpg"
+      "title": "Мегеров остава в ареста, прокурорът: Няма как да има преки свидетели на убийство през нощта 13 Окт | 12:27",
+      "url": "https://dsport.bg/megerov-ostava-v-aresta-prokurorat-nama-kak-da-ima-preki-svideteli-na-ubiistvo-prez-nostta~242091.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/megera.png-1~1.og.webp"
     },
     {
       "title": "Съдия номер 1 на Азербайджан ще ръководи мача НЕК Ниймеген и Левски 13 Окт | 12:16",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/carvajal~1.og.jpg"
-    },
-    {
-      "title": "Пол Погба пред трансфер в МЛС 13 Окт | 11:07",
-      "url": "https://dsport.bg/pol-pogba-pred-transfer-v-mls~242083.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2181092708-2.og.jpg"
-    },
-    {
-      "title": "„Мач за Мач“: ЦСКА започва с Монако, Левски отпътува към Ниската земя 13 Окт | 11:00",
-      "url": "https://dsport.bg/mach-za-mach-cska-zapochva-s-monako-levski-otpatuva-kam-niskata-zema~242059.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/ef53a74e-75b3-474a-bd04-1b8ee6a174b5.og.jfif"
-    },
-    {
-      "title": "Ига Швьонтек може да пропусне Финалите 13 Окт | 10:57",
-      "url": "https://dsport.bg/iga-shvontek-moze-da-propusne-finalite~242082.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299377566.og.jpg"
     }
   ]
 }
