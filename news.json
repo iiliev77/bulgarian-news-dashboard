@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-13T17:15:56.368216+00:00",
+  "updated": "2026-10-13T17:35:32.547391+00:00",
   "articles": [
+    {
+      "title": "Северна Македония издаде международна заповед за арест на Ива Михайлова",
+      "url": "https://dariknews.bg/novini/sviat/severna-makedoniia-izdade-mezhdunarodna-zapoved-za-arest-na-iva-mihajlova-2469000",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Почина легендата на Арсенал Кен Фрайър",
       "url": "https://dariknews.bg/novini/sviat/pochina-legendata-na-arsenal-ken-frajyr-2468998",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51346/51346397/991-ratio-iazovir-kyrdzhali.jpg"
     },
     {
-      "title": "Един загинал и двама ранени при тежка катастрофа на магистрала „Тракия“ (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/edin-zaginal-i-dvama-raneni-pri-tezhka-katastrofa-na-magistrala-trakiia-snimki-2468974",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395663/991-ratio-katastrofa.jpg"
+      "title": "Моуриньо се обясни в любов на Рома: Между нас не съществува такова нещо като врагове 13 Окт | 20:31",
+      "url": "https://dsport.bg/mourino-s-roma-sme-vragove-za-90-minuti~242129.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2293552972~1.og.jpg"
+    },
+    {
+      "title": "Монтана продължава да затъва, Лудогорец II направи обрат с човек повече на „Огоста“ 13 Окт | 20:19",
+      "url": "https://dsport.bg/montana-prodalzava-da-zatava-ludogorec-ii-napravi-obrat-s-chovek-poveche-na-ogosta~242130.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/meta-montana-team-2.jpg.og.webp"
     },
     {
       "title": "Красива волейболистка се завърна в Сърбия, за да стане директор 13 Окт | 19:47",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/cska-i-evrobonusat_-golamata-bitka.og.png"
-    },
-    {
-      "title": "Най-скъпият мач в историята на Турция 13 Окт | 18:32",
-      "url": "https://dsport.bg/nai-skapiat-mach-v-istoriata-na-turcia~242119.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300000790.og.jpg"
-    },
-    {
-      "title": "Ясни ли са титулярите на Левски в Ниймеген? (ВИДЕО) 13 Окт | 18:23",
-      "url": "https://dsport.bg/asni-li-sa-titularite-na-levski-v-niimegen~242118.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/levski-lineup-debate-in-nijmegen.og.png"
     }
   ]
 }
