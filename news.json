@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:45:42.667589+00:00",
+  "updated": "2026-10-13T10:02:00.841058+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Папа Лъв XIV влиза в болница „Джемели“ за операция",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-vliza-v-bolnica-dzhemeli-za-operaciia-2468947",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395503/991-ratio-agostino-dzhemeli-v-rim.jpg"
     },
     {
       "title": "Драматична загуба изпрати Вулканите обратно в Изолатора на „Игри на волята“",
@@ -55,7 +62,7 @@
       "url": "https://dariknews.bg/novini/sviat/edin-chovek-zagina-a-niakolko-dushi-sa-raneni-pri-incident-s-vlakche-na-uzhasite-v-sasht-2468940",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/29222/29222861/640-420-vdigat-uveselitelno-vlakche-visoko-kolkoto-50etazhna-sgrada.jpg"
+      "image": "https://m.netinfo.bg/media/images/50179/50179315/991-ratio-uveselitelno-vlakche.jpg"
     },
     {
       "title": "Съдът остави в ареста Славчо Мегеров, обвинен за убийството на Илиян Филипов",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51320/51320509/991-ratio-50-evro.jpg"
     },
     {
-      "title": "Член 4 на НАТО: Как България реагира на заплахи за сигурността?",
-      "url": "https://dariknews.bg/novini/sviat/chlen-4-na-nato-kak-bylgariia-reagira-na-zaplahi-za-sigurnostta-2468930",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51164/51164523/991-ratio-nato.jpg"
+      "title": "Над 15 000 фенове на ЦСКА вече са си купили билети за мача с Монако 13 Окт | 12:50",
+      "url": "https://dsport.bg/nad-15-000-fenove-na-cska-veche-sa-si-kupili-bileti-za-macha-s-monako~242094.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/cskafenove.og.jpg"
     },
     {
       "title": "Официално: Формула 1 се завръща в Африка 13 Окт | 12:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/81d88f.og.jpg"
-    },
-    {
-      "title": "Спрягаха го за ЦСКА, но реши да остане в Ла Лига 13 Окт | 11:18",
-      "url": "https://dsport.bg/spragaha-go-za-cska-no-reshi-da-ostane-v-la-liga~242084.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/carvajal~1.og.jpg"
     }
   ]
 }
