@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:01:38.176949+00:00",
+  "updated": "2026-10-13T16:22:23.599200+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Йотова: България ще сезира Съвета за сигурност на ООН заради атаките в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/iotova-bylgariia-shte-sezira-syveta-za-sigurnost-na-oon-zaradi-atakite-v-cherno-more-2468999",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Нови разкрития за атаките в Черно море: И двата ударени кораба са били без товар",
+      "url": "https://dariknews.bg/novini/bylgariia/novi-razkritiia-za-atakite-v-cherno-more-i-dvata-udareni-koraba-sa-bili-bez-tovar-2468996",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395591/991-ratio-chelsi-korab-cherno-more.jpg"
     },
     {
       "title": "Само за ден: Над 856 мигранти са достигнали остров Крит с лодки от Северна Африка",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/48998/48998822/991-ratio-kremyl.jpg"
     },
     {
-      "title": "Внедриха еко камиони за поддръжка на парковете в София (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/vnedriha-eko-kamioni-za-poddryzhka-na-parkovete-v-sofiia-snimki-2468972",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395601/991-ratio-elektricheki-kamioncheta.jpg"
+      "title": "Човекът във форма във Висшата лига 13 Окт | 19:13",
+      "url": "https://dsport.bg/chovekat-vav-forma-vav-visshata-liga~242125.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299670774.og.jpg"
     },
     {
-      "title": "Радев и румънският му колега проведоха важен разговор за сигурността в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-i-rumynskiiat-mu-kolega-provedoha-vazhen-razgovor-za-sigurnostta-v-cherno-more-2468971",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395600/991-ratio-rumen-radev-provede-telefonen-razgovor-s-rumynskiia-premier-ilie-bolozhan.jpg"
+      "title": "Янтра припомни четири исторически сблъсъка с Локомотив Пловдив преди мача за Купата 13 Окт | 19:09",
+      "url": "https://dsport.bg/antra-pripomni-chetiri-istoricheski-sblasaka-s-lokomotiv-plovdiv-predi-macha-za-kupata~242124.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/842101568_1715647506808037_5678299725251564746_n.og.jpg"
     },
     {
       "title": "Берое оцени двубоя с Лудогорец на 10 евро 13 Окт | 18:50",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038733~1.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 13.10.2026 13 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-13-10-2026~242114.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-1343-.og.png"
-    },
-    {
-      "title": "Левски с най-голяма глоба след кръга 13 Окт | 16:44",
-      "url": "https://dsport.bg/levski-s-nai-golama-globa-sled-kraga~242113.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038721.og.jpg"
     }
   ]
 }
