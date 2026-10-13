@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-13T05:03:31.588767+00:00",
+  "updated": "2026-10-13T05:23:13.915292+00:00",
   "articles": [
+    {
+      "title": "Нова атака в Черно море, два кораба са ударени, единият е потънал",
+      "url": "https://dariknews.bg/novini/bylgariia/nov-udar-s-dron-v-cherno-more-12-dushi-sa-postradali-2468903",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Радев алармира за нови атаки по търговски кораби в Черно море, вика посланик Митрофанова",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-alarmira-za-novi-ataki-po-tyrgovski-korabi-v-cherno-more-vika-poslanik-mitrofanova-2468905",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351578/991-ratio-rumen-radev.jpg"
+    },
     {
       "title": "Тръмп заяви, че обмисля да отстрани от поста й американската посланичка в Гърция",
       "url": "https://dariknews.bg/novini/sviat/trymp-zaiavi-che-obmislia-da-otstrani-ot-posta-j-amerikanskata-poslanichka-v-gyrciia-2468904",
@@ -21,13 +35,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51259/51259547/991-ratio-iliiana-iotova-velislava-delcheva.jpg"
-    },
-    {
-      "title": "Нов удар с дрон в Черно море, 12 души са пострадали",
-      "url": "https://dariknews.bg/novini/bylgariia/nov-udar-s-dron-v-cherno-more-12-dushi-sa-postradali-2468903",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Йотова ще удостои български офицери с Почетния знак на президента",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395247/991-ratio-rumen-radev.jpg"
     },
     {
-      "title": "България поиска помощ от ЕС и НАТО за разследването на атаката в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-poiska-pomosht-ot-es-i-nato-za-razsledvaneto-na-atakata-v-cherno-more-2468888",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
+      "title": "Разследване на BBC: Deloitte е помагала на Роман Абрамович да укрива богатство с фалшиви документи 13 Окт | 08:08",
+      "url": "https://dsport.bg/razsledvane-na-bbc-deloitte-e-pomagala-na-roman-abramovich-da-ukriva-bogatstvo-s-falshivi-dokumenti~242064.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-501990446-2.og.jpg"
+    },
+    {
+      "title": "Апелативният съд в Пловдив решава дали да освободи обвинения за убийството на Илиян Филипов 13 Окт | 08:01",
+      "url": "https://dsport.bg/apelativniat-sad-v-plovdiv-reshava-dali-da-osvobodi-obvinenia-za-ubiistvoto-na-ilian-filipov~242063.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/fotojet-2026-10-01t191613.187-8.l~1.og.webp"
     },
     {
       "title": "981! Кристиано Роналдо пак вкара, голямата цел е близо (ВИДЕО) 13 Окт | 00:14",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039551~1.og.jpg"
-    },
-    {
-      "title": "Страхотно посрещане за Ивайло Петев и Здравко Димитров след драмата с Бурсаспор (ВИДЕО) 12 Окт | 22:27",
-      "url": "https://dsport.bg/strahotno-posrestane-za-ivailo-petev-i-zdravko-dimitrov-sled-dramata-s-bursaspor-video~242048.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/img-20261012-wa0043.jpg.og.jpeg"
-    },
-    {
-      "title": "Йовичевич след победното завръщане: За мен е чест да съм част от това първенство 12 Окт | 22:17",
-      "url": "https://dsport.bg/iovichevich-sled-pobednoto-zavrastane-za-men-e-chest-da-sam-chast-ot-tova-parvenstvo~242053.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039544~1.og.jpg"
     }
   ]
 }
