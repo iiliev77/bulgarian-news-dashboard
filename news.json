@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-13T18:05:02.749545+00:00",
+  "updated": "2026-10-13T18:29:37.422062+00:00",
   "articles": [
+    {
+      "title": "Четирима спасени моряци от потъналия на 17 мили от Шабла кораб пристигнаха във Варна",
+      "url": "https://dariknews.bg/regioni/varna/chetirima-spaseni-moriaci-ot-potynaliia-na-17-mili-ot-shabla-korab-pristignaha-vyv-varna-2469004",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395697/991-ratio-chetirima-spaseni-moriaci-ot-potynaliia-na-17-mili-ot-shabla.jpg"
+    },
+    {
+      "title": "Шофьор на тир и пешеходка пострадаха при две катастрофи край Велико Търново",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/shofior-na-tir-i-peshehodka-postradaha-pri-dve-katastrofi-kraj-veliko-tyrnovo-2469003",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375937/991-ratio-policiia.jpg"
+    },
     {
       "title": "„Булгаргаз“ поиска драстичен скок с 34% на газа през ноември",
       "url": "https://dariknews.bg/novini/bylgariia/bulgargaz-poiska-drastichen-skok-s-34-na-gaza-prez-noemvri-2469002",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387112/991-ratio-cik-izbori.jpg"
     },
     {
-      "title": "Найденов призова ВСС да предложи повече от един кандидат за главен прокурор",
-      "url": "https://dariknews.bg/novini/bylgariia/najdenov-prizova-vss-da-predlozhi-poveche-ot-edin-kandidat-za-glaven-prokuror-2468978",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
-    },
-    {
-      "title": "Киев не е получил предупреждение от партньорите си за снощната атака срещу украинската столица",
-      "url": "https://dariknews.bg/novini/sviat/kiev-ne-e-poluchil-preduprezhdenie-ot-partniorite-si-za-snoshtnata-ataka-sreshtu-ukrainskata-stolica-2468977",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51349/51349614/991-ratio-kiev-ataka-balistichni-raketi.jpg"
+      "title": "Признание: Петев е треньор на кръга в Турция 13 Окт | 21:25",
+      "url": "https://dsport.bg/priznanie-petev-e-trenor-na-kraga-v-turcia~242134.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/505131-2.og.jpg"
     },
     {
       "title": "На живо: Атлетико Мадрид – Манчестър Юнайтед (Състави) 13 Окт | 21:01",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2260258510.og.jpg"
-    },
-    {
-      "title": "Човекът във форма във Висшата лига 13 Окт | 19:13",
-      "url": "https://dsport.bg/chovekat-vav-forma-vav-visshata-liga~242125.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299670774.og.jpg"
     }
   ]
 }
