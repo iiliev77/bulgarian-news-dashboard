@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:58:48.031439+00:00",
+  "updated": "2026-10-13T19:26:20.826725+00:00",
   "articles": [
     {
       "title": "Четирима спасени моряци от потъналия на 17 мили от Шабла кораб пристигнаха във Варна",
@@ -142,7 +142,35 @@
       "image": "https://m.netinfo.bg/media/images/51387/51387112/991-ratio-cik-izbori.jpg"
     },
     {
-      "title": "Текпетей с емоционален пост за майка си: За света може да си просто един човек, но за мен си целия свят 13 Окт | 21:52",
+      "title": "На живо: Отменен гол за Лил срещу Арсенал 13 Окт | 22:22",
+      "url": "https://dsport.bg/na-zivo-arsenal-lil-sastavi~242132.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300038305.og.jpg"
+    },
+    {
+      "title": "На живо: Галатасарай - Барселона 13 Окт | 22:08",
+      "url": "https://dsport.bg/na-zivo-galatasarai-barselona-sastavi~242133.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300038525.og.jpg"
+    },
+    {
+      "title": "На живо: Атлетико Мадрид прободе Манчестър Юнайтед за 50 секунди 13 Окт | 22:06",
+      "url": "https://dsport.bg/na-zivo-atletiko-madrid-manchestar-unaited-sastavi~242135.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300037793.og.jpg"
+    },
+    {
+      "title": "Мико Кузманов продължава напред в Италия 13 Окт | 22:05",
+      "url": "https://dsport.bg/miko-kuzmanov-prodalzava-napred-v-italia~242140.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/23.11-1-1-1-3-1-1-1-1~1.og.jpg"
+    },
+    {
+      "title": "Текпетей емоционално към майка си: За света може да си просто човек, но за мен си целия свят 13 Окт | 21:52",
       "url": "https://dsport.bg/tekpetei-s-emocionalen-post-za-maika-si-za-sveta-moze-da-si-prosto-edin-chovek-no-za-men-si-celia-svat~242139.html",
       "source": "Dsport",
       "section": "sport",
@@ -177,39 +205,11 @@
       "image": "https://dsport.bg/media/385/505131-2.og.jpg"
     },
     {
-      "title": "На живо: Атлетико Мадрид – Манчестър Юнайтед (Състави) 13 Окт | 21:01",
-      "url": "https://dsport.bg/na-zivo-atletiko-madrid-manchestar-unaited-sastavi~242135.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-4-~1.og.jpg"
-    },
-    {
-      "title": "На живо: Галатасарай - Барселона (Състави) 13 Окт | 20:53",
-      "url": "https://dsport.bg/na-zivo-galatasarai-barselona-sastavi~242133.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-41-.og.png"
-    },
-    {
-      "title": "На живо: Арсенал - Лил (Състави) 13 Окт | 20:52",
-      "url": "https://dsport.bg/na-zivo-arsenal-lil-sastavi~242132.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-10-.og.jpg"
-    },
-    {
       "title": "Откриха мъртъв в сауна бивш шеф на Партизан, работил с Божинов, Бандаловски и Саша Илич 13 Окт | 20:37",
       "url": "https://dsport.bg/otkriha-martav-v-sauna-bivsh-shef-na-partizan-rabotil-s-bozinov-bandalovski-i-sasha-ilich~242131.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1243254539.og.jpg"
-    },
-    {
-      "title": "Моуриньо се обясни в любов на Рома: Между нас не съществува такова нещо като врагове 13 Окт | 20:31",
-      "url": "https://dsport.bg/mourino-s-roma-sme-vragove-za-90-minuti~242129.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293552972~1.og.jpg"
     }
   ]
 }
