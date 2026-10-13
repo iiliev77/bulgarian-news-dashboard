@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T06:17:47.463770+00:00",
+  "updated": "2026-10-13T06:48:52.754638+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени, единият е потънал",
@@ -7,6 +7,48 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Камион се запали в Кресненското дефиле",
+      "url": "https://dariknews.bg/novini/bylgariia/kamion-se-zapali-v-kresnenskoto-defile-2468918",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196670/640-420-pozharna.jpg"
+    },
+    {
+      "title": "Актьорът Ар Джей Мити почина на 34-годишна възраст",
+      "url": "https://dariknews.bg/novini/sviat/aktioryt-ar-dzhej-miti-pochina-na-34-godishna-vyzrast-2468917",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395384/991-ratio-ar-dzhej-miti.jpg"
+    },
+    {
+      "title": "Ураган и буря взеха жертви в Мексико, 10 души са в неизвестност",
+      "url": "https://dariknews.bg/novini/sviat/uragan-i-buria-vzeha-zhertvi-v-meksiko-10-dushi-sa-v-neizvestnost-2468916",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
+    },
+    {
+      "title": "Витанов: Най-вероятно логиката показва, че става дума за руски дронове, сега мисля, че това се потвърждава",
+      "url": "https://dariknews.bg/novini/bylgariia/vitanov-naj-veroiatno-logikata-pokazva-che-stava-duma-za-ruski-dronove-sega-mislia-che-tova-se-potvyrzhdava-2468915",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51377/51377156/991-ratio-petyr-vitanov.jpg"
+    },
+    {
+      "title": "Матей и Елена от „Игри на волята“: Къде е по-скъпо да живееш - в България или Америка?",
+      "url": "https://dariknews.bg/novini/liubopitno/matej-i-elena-ot-igri-na-voliata-kyde-e-po-skypo-da-zhiveesh-v-bylgariia-ili-amerika-2468914",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Политически реакции след атаките в Черно море: ДБ с остри критики към Радев и Йотова",
+      "url": "https://dariknews.bg/novini/bylgariia/politicheski-reakcii-sled-atakite-v-cherno-more-db-s-ostri-kritiki-kym-radev-i-iotova-2468913",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392283/991-ratio-korab.jpg"
     },
     {
       "title": "Тежка катастрофа край Владая, движението по пътя София – Перник е в едната лента",
@@ -93,53 +135,39 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395346/991-ratio-prezidentstvo.jpg"
     },
     {
-      "title": "Парламентът се събира извънредно за случая с помилването на „Петричкия Ескобар“",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-se-sybira-izvynredno-za-sluchaia-s-pomilvaneto-na-petrichkiia-eskobar-2468899",
+      "title": "Няма кворум: Парламентът няма да заседава във връзка с помилването на Огнян Атанасов",
+      "url": "https://dariknews.bg/novini/bylgariia/niama-kvorum-parlamentyt-niama-da-zasedava-vyv-vryzka-s-pomilvaneto-na-ognian-atanasov-2468899",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
     },
     {
-      "title": "Безсъние, паник атаки и стрес: Кога да потърсим лекар и какво покрива НЗОК",
-      "url": "https://dariknews.bg/novini/obshtestvo/bezsynie-panik-ataki-i-stres-koga-da-potyrsim-lekar-i-kakvo-pokriva-nzok-2468868",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51053/51053155/991-ratio-proletna-umora.jpg"
+      "title": "УС на БФБорба сезира Софийска градска прокуратура за подписката за извънредното Общо събрание 13 Окт | 09:26",
+      "url": "https://dsport.bg/us-na-bfborba-sezira-sofiiska-gradska-prokuratura-za-podpiskata-za-izvanrednoto-obsto-sabranie~242072.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/892855~2.og.jpg"
     },
     {
-      "title": "ИИ под лупа: Омбудсманът събира експерти от Европа, български робот открива форума",
-      "url": "https://dariknews.bg/novini/bylgariia/ii-pod-lupa-ombudsmanyt-sybira-eksperti-ot-evropa-bylgarski-robot-otkriva-foruma-2468876",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395209/991-ratio-pyrviiat-bylgarski-humanoiden-robot-robyrt.jpg"
+      "title": "Байерн Мюнхен без Нойер в Шампионска лига 13 Окт | 09:13",
+      "url": "https://dsport.bg/baiern-munhen-bez-noier-v-shampionska-liga~242071.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2283926663~2.og.jpg"
     },
     {
-      "title": "Жълт и оранжев код за опасно време в почти цяла България",
-      "url": "https://dariknews.bg/novini/bylgariia/zhylt-i-oranzhev-kod-za-opasno-vreme-v-pochti-ciala-bylgariia-2468855",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Най-накрая е готово: Роджър Федерер се нанесе в имение за €70 млн. след 7 години строеж 13 Окт | 09:03",
+      "url": "https://dsport.bg/nai-nakraa-e-gotovo-rodzar-federer-se-nanese-v-imenie-za-70-mln-sled-7-godini-stroez~242070.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/df753e.og.jpg"
     },
     {
-      "title": "МВР предупреждава шофьорите: Тези 5 грешки увеличават риска от катастрофа",
-      "url": "https://dariknews.bg/novini/bylgariia/mvr-preduprezhdava-shofiorite-tezi-5-greshki-uvelichavat-riska-ot-katastrofa-2468859",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51260/51260188/991-ratio-shofior-kola.jpg"
-    },
-    {
-      "title": "Ученик загина при взрив на боеприпас по време на екскурзия в Израел",
-      "url": "https://dariknews.bg/novini/sviat/uchenik-zagina-pri-vzriv-na-boepripas-po-vreme-na-ekskurziia-v-izrael-2468898",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Показаха ексклузивни кадри от борда на атакувания в Черно море кораб (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/pokazaha-ekskluzivni-kadri-ot-borda-na-atakuvaniia-v-cherno-more-korab-video-2468892",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395328/991-ratio-d.jpg"
+      "title": "Холанд с мегаинвестиция в ОАЕ: купи луксозен имот от шефовете на Манчестър Сити 13 Окт | 08:54",
+      "url": "https://dsport.bg/holand-s-megainvesticia-v-oae-kupi-luksozen-imot-ot-shefovete-na-manchestar-siti~242069.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1497494943.og.jpg"
     },
     {
       "title": "Енцо Мареска с летящ старт в Манчестър Сити - изравни рекорд на Анчелоти, Гуардиола и Солскяер 13 Окт | 08:44",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/fotojet-2026-10-01t191613.187-8.l~1.og.webp"
-    },
-    {
-      "title": "981! Кристиано Роналдо пак вкара, голямата цел е близо (ВИДЕО) 13 Окт | 00:14",
-      "url": "https://dsport.bg/981-kristiano-ronaldo-pak-vkara-golamata-cel-e-blizo-video~242062.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299370806.og.jpg"
-    },
-    {
-      "title": "Невиждана лудост в Испания! Вкара „победен“ гол, изгониха го за провокация, а драмата тепърва предстоеше 13 Окт | 00:04",
-      "url": "https://dsport.bg/nevizdana-ludost-v-ispania-vkara-pobeden-gol-izgoniha-go-za-provokacia-a-dramata-teparva-predstoeshe~242061.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299870966.og.jpg"
-    },
-    {
-      "title": "Ковънтри разби Нюкасъл - „свраките“ отнесоха четири гола от новака във Висшата лига 12 Окт | 23:53",
-      "url": "https://dsport.bg/kovantri-razbi-nukasal-svrakite-otnesoha-chetiri-gola-ot-novaka-vav-visshata-liga~242060.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299859254.og.jpg"
-    },
-    {
-      "title": "Торино надви Удинезе след груба вратарска грешка 12 Окт | 23:41",
-      "url": "https://dsport.bg/torino-nadvi-udineze-sled-gruba-vratarska-greshka~242058.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299863635.og.jpg"
     }
   ]
 }
