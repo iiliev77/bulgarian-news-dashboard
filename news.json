@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:41:37.760066+00:00",
+  "updated": "2026-10-13T05:58:09.223861+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени, единият е потънал",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Пожар в старчески дом във Варна - жена загина, две са ранени",
+      "url": "https://dariknews.bg/novini/bylgariia/pozhar-v-starcheski-dom-vyv-varna-zhena-zagina-dve-sa-raneni-2468910",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51256/51256460/991-ratio-pozhar.jpg"
+    },
+    {
+      "title": "Областният управител на Варна с подробности за ударените кораби",
+      "url": "https://dariknews.bg/regioni/varna/oblastniiat-upravitel-na-varna-s-podrobnosti-za-udarenite-korabi-2468909",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395367/991-ratio-mario-smyrkov.jpg"
     },
     {
       "title": "Силен трус разлюля Панама",
@@ -23,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/50462/50462549/991-ratio-viatyrna-energiia.jpg"
     },
     {
-      "title": "След новите удари: Радев свиква Съвета за сигурност, спешни разговори с шефа на НАТО и посланик Митрофанова",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-novite-udari-radev-svikva-syveta-za-sigurnost-speshni-razgovori-s-shefa-na-nato-i-poslanik-mitrofanova-2468905",
+      "title": "След новите удари: Радев свика Съвета за сигурност, спешни разговори с шефа на НАТО и посланик Митрофанова",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-novite-udari-radev-svika-syveta-za-sigurnost-speshni-razgovori-s-shefa-na-nato-i-poslanik-mitrofanova-2468905",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51351/51351578/991-ratio-rumen-radev.jpg"
@@ -49,13 +63,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395365/991-ratio-selma-bleyr.jpg"
-    },
-    {
-      "title": "Омбудсманът организира конференция за изкуствения интелект и правата на човека",
-      "url": "https://dariknews.bg/novini/bylgariia/ombudsmanyt-organizira-konferenciia-za-izkustveniia-intelekt-i-pravata-na-choveka-2468902",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51259/51259547/991-ratio-iliiana-iotova-velislava-delcheva.jpg"
     },
     {
       "title": "Нова атака в Черно море: Два кораба са ударени, единият е потънал",
@@ -135,11 +142,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Спасиха жена, паднала от крузиен кораб и прекарала денонощие в морето",
-      "url": "https://dariknews.bg/novini/sviat/spasiha-zhena-padnala-ot-kruzien-korab-i-prekarala-denonoshtie-v-moreto-2468895",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/42756/42756351/991-ratio-kruizen-korab.jpg"
+      "title": "Напрежение в Милан: Рубен Аморим е на мушката на ръководството 13 Окт | 08:25",
+      "url": "https://dsport.bg/naprezenie-v-milan-ruben-amorim-e-na-mushkata-na-rakovodstvoto~242066.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2296412457.og.jpg"
     },
     {
       "title": "Нов скандал разтърсва ФИФА: Джани Инфантино с милиони долари недекларирани доходи 13 Окт | 08:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/12.10-6~1.og.jpg"
-    },
-    {
-      "title": "Експлозия до стадиона забави мач на Кристиано Роналдо от ШЛ на Азия 12 Окт | 22:49",
-      "url": "https://dsport.bg/eksplozia-do-stadiona-zabavi-mach-na-kristiano-ronaldo-ot-shl-na-azia~242056.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293836297~1.og.jpg"
     }
   ]
 }
