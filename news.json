@@ -1,19 +1,33 @@
 {
-  "updated": "2026-10-13T07:34:51.367889+00:00",
+  "updated": "2026-10-13T07:55:27.805407+00:00",
   "articles": [
     {
-      "title": "Нова атака в Черно море, два кораба са ударени, единият е потънал",
+      "title": "Нова атака в Черно море, два кораба са ударени",
       "url": "https://dariknews.bg/novini/bylgariia/nov-udar-s-dron-v-cherno-more-12-dushi-sa-postradali-2468903",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Трима евакуирани моряци от „Челси 3“ са приети във Военноморската болница във Варна",
-      "url": "https://dariknews.bg/regioni/varna/trima-evakuirani-moriaci-ot-chelsi-3-sa-prieti-vyv-voennomorskata-bolnica-vyv-varna-2468931",
+      "title": "Украйна призова за ответни мерки срещу Русия след атаките по кораби край България",
+      "url": "https://dariknews.bg/novini/sviat/ukrajna-prizova-za-otvetni-merki-sreshtu-rusiia-sled-atakite-po-korabi-kraj-bylgariia-2468934",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51135/51135177/991-ratio-bolnica.jpg"
+      "image": "https://m.netinfo.bg/media/images/51058/51058088/991-ratio-andrij-sibiha.jpg"
+    },
+    {
+      "title": "Мъж откри подозрителни устройства в работилницата на починалия си баща в Казанлък",
+      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-otkri-podozritelni-ustrojstva-v-rabotilnicata-na-pochinaliia-si-bashta-v-kazanlyk-2468933",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Фон дер Лайен: Черно море стана фронт на руската война",
+      "url": "https://dariknews.bg/novini/sviat/fon-der-lajen-cherno-more-stana-front-na-ruskata-vojna-2468932",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51166/51166254/991-ratio-ursula-fon-der-lajen.jpg"
     },
     {
       "title": "Счетоводител присвоил 450 000 евро на две дружества във Враца",
@@ -21,6 +35,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51320/51320509/991-ratio-50-evro.jpg"
+    },
+    {
+      "title": "Трима евакуирани моряци от „Челси 3“ са приети във Военноморската болница във Варна",
+      "url": "https://dariknews.bg/regioni/varna/trima-evakuirani-moriaci-ot-chelsi-3-sa-prieti-vyv-voennomorskata-bolnica-vyv-varna-2468931",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51135/51135177/991-ratio-bolnica.jpg"
     },
     {
       "title": "Член 4 на НАТО: Как България реагира на заплахи за сигурността?",
@@ -37,11 +58,11 @@
       "image": "https://m.netinfo.bg/media/images/51133/51133145/991-ratio-voda-more.jpg"
     },
     {
-      "title": "Любомир Николов: Доказахме, че държавата работи като едно",
-      "url": "https://dariknews.bg/regioni/varna/liubomir-nikolov-dokazahme-che-dyrzhavata-raboti-kato-edno-2468927",
+      "title": "Спасяват петима моряци край Крапец, общо 18 са били на борда на потъналия кораб",
+      "url": "https://dariknews.bg/regioni/varna/spasiavat-petima-moriaci-kraj-krapec-obshto-18-sa-bili-na-borda-na-potynaliia-korab-2468927",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50961/50961006/991-ratio-liubomir-nikolov-sirektor-sdvr.jpg"
+      "image": "https://m.netinfo.bg/media/images/51395/51395409/991-ratio-granichna-policiia.jpg"
     },
     {
       "title": "Пеевски: Управляващите се скриха срамно, направиха мечешка услуга на Йотова",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50927/50927018/991-ratio-uragan-helyn.jpg"
     },
     {
-      "title": "Витанов: Най-вероятно логиката показва, че става дума за руски дронове, сега мисля, че това се потвърждава",
-      "url": "https://dariknews.bg/novini/bylgariia/vitanov-naj-veroiatno-logikata-pokazva-che-stava-duma-za-ruski-dronove-sega-mislia-che-tova-se-potvyrzhdava-2468915",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51377/51377156/991-ratio-petyr-vitanov.jpg"
+      "title": "Разкриха какво е казал Винисиус на съдията след червения картон 13 Окт | 10:37",
+      "url": "https://dsport.bg/razkriha-kakvo-e-kazal-vinisius-na-sadiata-sled-chervenia-karton~242079.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299571311.og.jpg"
     },
     {
-      "title": "Матей и Елена от „Игри на волята“: Къде е по-скъпо да живееш - в България или Америка?",
-      "url": "https://dariknews.bg/novini/liubopitno/matej-i-elena-ot-igri-na-voliata-kyde-e-po-skypo-da-zhiveesh-v-bylgariia-ili-amerika-2468914",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Политически реакции след атаките в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/politicheski-reakcii-sled-atakite-v-cherno-more-2468913",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392283/991-ratio-korab.jpg"
+      "title": "Тодор Симов: Това е ново състезание, целта е отборът да бъде част и от следващия етап 13 Окт | 10:28",
+      "url": "https://dsport.bg/todor-simov-tova-e-novo-sastezanie-celta-e-otborat-da-bade-chast-i-ot-sledvastia-etap~242078.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1009794-1.og.jpg"
     },
     {
       "title": "Скандалът с Винисиус се разраства: нови шокиращи разкрития за изцепката на бразилеца 13 Окт | 10:16",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2283926663~2.og.jpg"
-    },
-    {
-      "title": "Най-накрая е готово: Роджър Федерер се нанесе в имение за €70 млн. след 7 години строеж 13 Окт | 09:03",
-      "url": "https://dsport.bg/nai-nakraa-e-gotovo-rodzar-federer-se-nanese-v-imenie-za-70-mln-sled-7-godini-stroez~242070.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/df753e.og.jpg"
-    },
-    {
-      "title": "Холанд с мегаинвестиция в ОАЕ: купи луксозен имот от шефовете на Манчестър Сити 13 Окт | 08:54",
-      "url": "https://dsport.bg/holand-s-megainvesticia-v-oae-kupi-luksozen-imot-ot-shefovete-na-manchestar-siti~242069.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1497494943.og.jpg"
     }
   ]
 }
