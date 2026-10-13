@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:53:09.879448+00:00",
+  "updated": "2026-10-13T09:05:33.985732+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Грета Тунберг се включи в ученическото протестно движение в предградие на Париж",
+      "url": "https://dariknews.bg/novini/sviat/greta-tunberg-se-vkliuchi-v-uchenicheskoto-protestno-dvizhenie-v-predgradie-na-parizh-2468941",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395464/991-ratio-greta-tunberg.jpg"
     },
     {
       "title": "Един човек загина, а няколко души са ранени при инцидент с влакче на ужасите в САЩ",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395397/991-ratio-prodylzhavame-promianata.jpg"
     },
     {
-      "title": "ДПС иска министри да отговарят за схемата с мантинелите и има ли политически чадър от МВР",
-      "url": "https://dariknews.bg/novini/bylgariia/dps-iska-ministri-da-otgovariat-za-shemata-s-mantinelite-i-ima-li-politicheski-chadyr-ot-mvr-2468922",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384134/991-ratio-delian-peevski.jpg"
+      "title": "Гриша Ганчев: Дайте да сложим Джордж Клуни за треньор (ВИДЕО) 13 Окт | 11:49",
+      "url": "https://dsport.bg/grisha-ganchev-daite-da-slozim-dzordz-kluni-za-trenor-video~242087.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039668.og.jpg"
     },
     {
       "title": "Bethub Pro Cup: осем отбора, седем мача и 720 000 евро – всичко за новия турнир 13 Окт | 11:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1009794-1.og.jpg"
-    },
-    {
-      "title": "Скандалът с Винисиус се разраства: нови шокиращи разкрития за изцепката на бразилеца 13 Окт | 10:16",
-      "url": "https://dsport.bg/skandalat-s-vinisius-se-razrastva-novi-shokirasti-razkritia-za-izcepkata-na-brazileca~242077.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299843935.og.jpg"
     }
   ]
 }
