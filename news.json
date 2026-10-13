@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:22:29.007345+00:00",
+  "updated": "2026-10-13T10:42:29.217341+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,34 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Военният ни министър обсъди дроновете в Черно море с колегите си от Румъния и Турция",
+      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ni-ministyr-obsydi-dronovete-v-cherno-more-s-kolegite-si-ot-rumyniia-i-turciia-2468954",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395514/991-ratio-dimityr-stoianov.jpg"
+    },
+    {
+      "title": "ЕС и НАТО след новите нападения с дронове край бреговете на България",
+      "url": "https://dariknews.bg/novini/sviat/es-i-nato-sled-novite-napadeniia-s-dronove-kraj-bregovete-na-bylgariia-2468955",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+    },
+    {
+      "title": "ООН: Светът е изправен пред „перфектна буря“",
+      "url": "https://dariknews.bg/novini/sviat/oon-svetyt-e-izpraven-pred-perfektna-buria-2468952",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50834/50834000/991-ratio-el-ninio.jpg"
+    },
+    {
+      "title": "Проф. Мариела Генева подаде оставка като декан на Медицинския факултет в Пловдив",
+      "url": "https://dariknews.bg/novini/bylgariia/prof.-mariela-geneva-podade-ostavka-kato-dekan-na-medicinskiia-fakultet-v-plovdiv-2468953",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393000/991-ratio-iztochvane-nzok-plovdiv.jpg"
     },
     {
       "title": "Обновена е психиатричната база на университетската болница в Плевен",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/44293/44293856/991-ratio-krava-na-pytia-govedo.jpg"
     },
     {
-      "title": "Под напрежение след новите удари в Черно море: Радев се срещна с Митрофанова, ЕС и НАТО с подкрепа за България",
-      "url": "https://dariknews.bg/novini/bylgariia/pod-naprezhenie-sled-novite-udari-v-cherno-more-radev-se-sreshtna-s-mitrofanova-es-i-nato-s-podkrepa-za-bylgariia-2468936",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Армен Назарян призова Станка Златева да си подаде оставката 13 Окт | 13:24",
+      "url": "https://dsport.bg/armen-nazaran-prizova-stanka-zlateva-da-si-podade-ostavkata~242098.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039658.og.jpg"
     },
     {
-      "title": "По-малко туристи, повече приходи: какво се променя в бизнеса на Бургас през 2026 г.",
-      "url": "https://dariknews.bg/novini/biznes/po-malko-turisti-poveche-prihodi-kakvo-se-promenia-v-biznesa-na-burgas-prez-2026-g-2468867",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395206/991-ratio-burgas.jpg"
-    },
-    {
-      "title": "Откриха тяло на мъж в багажника на кола след катастрофа в Димитровград, задържани са жена и синът ѝ",
-      "url": "https://dariknews.bg/regioni/haskovo/otkriha-tialo-na-myzh-v-bagazhnika-na-kola-sled-katastrofa-v-dimitrovgrad-zadyrzhani-sa-zhena-i-sinyt--2468935",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51269/51269768/991-ratio-pytna-policiia.jpg"
-    },
-    {
-      "title": "Украйна призова за ответни мерки срещу Русия след атаките по кораби край България",
-      "url": "https://dariknews.bg/novini/sviat/ukrajna-prizova-za-otvetni-merki-sreshtu-rusiia-sled-atakite-po-korabi-kraj-bylgariia-2468934",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51058/51058088/991-ratio-andrij-sibiha.jpg"
+      "title": "Валентин Йорданов: Няма да търсим реваншизъм, ако спечелим (ВИДЕО) 13 Окт | 13:14",
+      "url": "https://dsport.bg/valentin-iordanov-nama-da-tarsim-revanshizam-ako-spechelim-video~242097.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039651.og.jpg"
     },
     {
       "title": "Неопитен португалски рефер на ЦСКА - Монако 13 Окт | 13:04",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2276620686.og.jpg"
-    },
-    {
-      "title": "Тодор Ангелов: Време е кавгите и хаосът в БФ Борба да бъдат спрени и спортът да тръгне отново напред 13 Окт | 11:58",
-      "url": "https://dsport.bg/todor-angelov-vreme-e-kavgite-i-haosat-v-bf-borba-da-badat-spreni-i-sportat-da-tragne-otnovo-napred~242088.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039656.og.jpg"
-    },
-    {
-      "title": "Гриша Ганчев: Дайте да сложим Джордж Клуни за треньор (ВИДЕО) 13 Окт | 11:49",
-      "url": "https://dsport.bg/grisha-ganchev-daite-da-slozim-dzordz-kluni-za-trenor-video~242087.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039668.og.jpg"
     }
   ]
 }
