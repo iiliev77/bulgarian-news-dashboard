@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-13T11:39:44.571560+00:00",
+  "updated": "2026-10-13T11:56:42.310968+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
       "url": "https://dariknews.bg/novini/bylgariia/nov-udar-s-dron-v-cherno-more-12-dushi-sa-postradali-2468903",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Затвориха летището на германския град Нюрнберг заради предполагаема въздушна опасност",
+      "url": "https://dariknews.bg/novini/sviat/zatvoriha-letishteto-na-germanskiia-grad-niurnberg-zaradi-predpolagaema-vyzdushna-opasnost-2468966",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395580/991-ratio-letishteto-v-niurnberg.jpg"
+    },
+    {
+      "title": "Чавдар Бояджиев отново получи доживотен затвор без замяна за убийствата в Лозен",
+      "url": "https://dariknews.bg/regioni/sofiia/chavdar-boiadzhiev-otnovo-poluchi-dozhivoten-zatvor-bez-zamiana-za-ubijstvata-v-lozen-2468965",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395503/991-ratio-agostino-dzhemeli-v-rim.jpg"
     },
     {
-      "title": "Драматична загуба изпрати Вулканите обратно в Изолатора на „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/dramatichna-zaguba-izprati-vulkanite-obratno-v-izolatora-na-igri-na-voliata-2468946",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395493/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Още двама воини от Обречените влизат във Войната на племената на “Игри на волята”",
-      "url": "https://dariknews.bg/novini/liubopitno/oshte-dvama-voini-ot-obrechenite-vlizat-vyv-vojnata-na-plemenata-na-igri-na-voliata-2468945",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395484/991-ratio-igri-na-voliata.jpg"
+      "title": "Барселона с твърда позиция: Дани Олмо не се продава дори за 90 млн. евро 13 Окт | 14:44",
+      "url": "https://dsport.bg/barselona-s-tvarda-pozicia-dani-olmo-ne-se-prodava-dori-za-90-mln-evro~242105.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2269836806-1.og.jpg"
     },
     {
       "title": "Ювентус продължава съдебната битка с Роналдо 13 Окт | 14:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2225632119.og.jpg"
-    },
-    {
-      "title": "Феновете на Локо Пд събраха близо 12 000 евро ден след началото на дарителската кампания 13 Окт | 12:57",
-      "url": "https://dsport.bg/fenovete-na-loko-pd-sabraha-blizo-12-000-evro-den-sled-nachaloto-na-daritelskata-kampania~242095.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/372057-1.og.jpg"
     }
   ]
 }
