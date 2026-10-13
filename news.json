@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:11:01.267595+00:00",
+  "updated": "2026-10-13T07:34:51.367889+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени, единият е потънал",
@@ -7,6 +7,41 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Трима евакуирани моряци от „Челси 3“ са приети във Военноморската болница във Варна",
+      "url": "https://dariknews.bg/regioni/varna/trima-evakuirani-moriaci-ot-chelsi-3-sa-prieti-vyv-voennomorskata-bolnica-vyv-varna-2468931",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51135/51135177/991-ratio-bolnica.jpg"
+    },
+    {
+      "title": "Счетоводител присвоил 450 000 евро на две дружества във Враца",
+      "url": "https://dariknews.bg/regioni/vraca/schetovoditel-prisvoil-450-000-evro-na-dve-druzhestva-vyv-vraca-2468929",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320509/991-ratio-50-evro.jpg"
+    },
+    {
+      "title": "Член 4 на НАТО: Как България реагира на заплахи за сигурността?",
+      "url": "https://dariknews.bg/novini/sviat/chlen-4-na-nato-kak-bylgariia-reagira-na-zaplahi-za-sigurnostta-2468930",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51164/51164523/991-ratio-nato.jpg"
+    },
+    {
+      "title": "Тялото на 37-годишен украинец е открито на плажа в Слънчев бряг",
+      "url": "https://dariknews.bg/regioni/burgas/tialoto-na-37-godishen-ukrainec-e-otkrito-na-plazha-v-slynchev-briag-2468928",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51133/51133145/991-ratio-voda-more.jpg"
+    },
+    {
+      "title": "Любомир Николов: Доказахме, че държавата работи като едно",
+      "url": "https://dariknews.bg/regioni/varna/liubomir-nikolov-dokazahme-che-dyrzhavata-raboti-kato-edno-2468927",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50961/50961006/991-ratio-liubomir-nikolov-sirektor-sdvr.jpg"
     },
     {
       "title": "Пеевски: Управляващите се скриха срамно, направиха мечешка услуга на Йотова",
@@ -107,39 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392283/991-ratio-korab.jpg"
     },
     {
-      "title": "Тежка катастрофа край Владая, движението по пътя София – Перник е в едната лента",
-      "url": "https://dariknews.bg/regioni/pernik/tezhka-katastrofa-kraj-vladaia-dvizhenieto-po-pytia-sofiia-pernik-e-v-ednata-lenta-2468912",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+      "title": "Скандалът с Винисиус се разраства: нови шокиращи разкрития за изцепката на бразилеца 13 Окт | 10:16",
+      "url": "https://dsport.bg/skandalat-s-vinisius-se-razrastva-novi-shokirasti-razkritia-za-izcepkata-na-brazileca~242077.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299843935.og.jpg"
     },
     {
-      "title": "Тръмп: Русия и Украйна нарушават енергийното примирие, Путин иска сделка повече от Зеленски",
-      "url": "https://dariknews.bg/novini/sviat/trymp-rusiia-i-ukrajna-narushavat-energijnoto-primirie-putin-iska-sdelka-poveche-ot-zelenski-2468911",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
-    },
-    {
-      "title": "Пожар в старчески дом във Варна - жена загина, две са ранени",
-      "url": "https://dariknews.bg/novini/bylgariia/pozhar-v-starcheski-dom-vyv-varna-zhena-zagina-dve-sa-raneni-2468910",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256460/991-ratio-pozhar.jpg"
-    },
-    {
-      "title": "Областният управител на Варна с подробности за ударените кораби",
-      "url": "https://dariknews.bg/regioni/varna/oblastniiat-upravitel-na-varna-s-podrobnosti-za-udarenite-korabi-2468909",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395367/991-ratio-mario-smyrkov.jpg"
-    },
-    {
-      "title": "Силен трус разлюля Панама",
-      "url": "https://dariknews.bg/novini/sviat/silen-trus-razliulia-panama-2468908",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
+      "title": "Проповедникът Чаби Алонсо: как баскът превърна Челси в машина за бързи голове 13 Окт | 10:06",
+      "url": "https://dsport.bg/propovednikat-chabi-alonso-kak-baskat-prevarna-chelsi-v-mashina-za-barzi-golove~242076.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299522959.og.jpg"
     },
     {
       "title": "„Мач за Мач“: ЦСКА започва с Монако, Левски отпътува към Ниската земя 13 Окт | 10:00",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1497494943.og.jpg"
-    },
-    {
-      "title": "Енцо Мареска с летящ старт в Манчестър Сити - изравни рекорд на Анчелоти, Гуардиола и Солскяер 13 Окт | 08:44",
-      "url": "https://dsport.bg/enco-mareska-s-letast-start-v-manchestar-siti-izravni-rekord-na-ancheloti-guardiola-i-solskaer~242068.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299700660.og.jpg"
-    },
-    {
-      "title": "Мохамед Салах чупи рекорди в Турция 13 Окт | 08:35",
-      "url": "https://dsport.bg/mohamed-salah-chupi-rekordi-v-turcia~242067.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295518560.og.jpg"
     }
   ]
 }
