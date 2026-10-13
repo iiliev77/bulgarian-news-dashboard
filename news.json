@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:42:29.217341+00:00",
+  "updated": "2026-10-13T11:00:45.621755+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Японски учени тестват масло от корени на кипарис за по-добър сън",
+      "url": "https://dariknews.bg/novini/liubopitno/iaponski-ucheni-testvat-maslo-ot-koreni-na-kiparis-za-po-dobyr-syn-2468957",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47724/47724014/991-ratio-syn.jpg"
+    },
+    {
+      "title": "Протест в Шумен: Работещи искат достойни доходи, а не съкращения",
+      "url": "https://dariknews.bg/regioni/shumen/protest-v-shumen-raboteshti-iskat-dostojni-dohodi-a-ne-sykrashteniia-2468956",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395535/991-ratio-knsb.jpg"
     },
     {
       "title": "Военният ни министър обсъди дроновете в Черно море с колегите си от Румъния и Турция",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395439/991-ratio-slavcho-megerov.jpg"
     },
     {
-      "title": "Заснеха шофьор с рисково изпреварване край Сливен, глобиха го със 102 евро (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/zasneha-shofior-s-riskovo-izprevarvane-kraj-sliven-globiha-go-sys-102-evro-snimki-2468938",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395416/991-ratio-katastrofa.jpg"
-    },
-    {
-      "title": "Свободно пуснати животни създават риск от катастрофи, полицията в Трън затяга мерките",
-      "url": "https://dariknews.bg/regioni/pernik/svobodno-pusnati-zhivotni-syzdavat-risk-ot-katastrofi-policiiata-v-tryn-zatiaga-merkite-2468937",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44293/44293856/991-ratio-krava-na-pytia-govedo.jpg"
+      "title": "Луис Енрике: Надявам се да остана свързан с Париж до края на живота си 13 Окт | 13:35",
+      "url": "https://dsport.bg/luis-enrike-nadavam-se-da-ostana-svarzan-s-pariz-do-kraa-na-zivota-si~242099.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2290190095.og.jpg"
     },
     {
       "title": "Армен Назарян призова Станка Златева да си подаде оставката 13 Окт | 13:24",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2185013041.og.jpg"
-    },
-    {
-      "title": "Нико Ковач преподписа с Борусия Дортмунд 13 Окт | 12:07",
-      "url": "https://dsport.bg/niko-kovach-prepodpisa-s-borusia-dortmund~242089.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2276620686.og.jpg"
     }
   ]
 }
