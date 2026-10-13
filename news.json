@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T15:23:39.312843+00:00",
+  "updated": "2026-10-13T15:43:45.591876+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -107,11 +107,11 @@
       "image": "https://m.netinfo.bg/media/images/51346/51346397/991-ratio-iazovir-kyrdzhali.jpg"
     },
     {
-      "title": "Един загинал и двама ранени при тежка катастрофа на магистрала „Тракия“",
-      "url": "https://dariknews.bg/regioni/sofiia/edin-zaginal-i-dvama-raneni-pri-tezhka-katastrofa-na-magistrala-trakiia-2468974",
+      "title": "Един загинал и двама ранени при тежка катастрофа на магистрала „Тракия“ (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/edin-zaginal-i-dvama-raneni-pri-tezhka-katastrofa-na-magistrala-trakiia-snimki-2468974",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51395/51395663/991-ratio-katastrofa.jpg"
     },
     {
       "title": "Кремъл: Русия продължава контактите със САЩ за енергийно примирие с Украйна",
@@ -142,7 +142,14 @@
       "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
     },
     {
-      "title": "Ясни ли са титулярите на Левски в Ниймеген? 13 Окт | 18:23",
+      "title": "Най-скъпият мач в историята на Турция 13 Окт | 18:32",
+      "url": "https://dsport.bg/nai-skapiat-mach-v-istoriata-na-turcia~242119.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300000790.og.jpg"
+    },
+    {
+      "title": "Ясни ли са титулярите на Левски в Ниймеген? (ВИДЕО) 13 Окт | 18:23",
       "url": "https://dsport.bg/asni-li-sa-titularite-na-levski-v-niimegen~242118.html",
       "source": "Dsport",
       "section": "sport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299981915.og.jpg"
-    },
-    {
-      "title": "6 храни, които помагат на тялото да поддържа собственото си производство на колаген 13 Окт | 15:59",
-      "url": "https://dsport.bg/6-hrani-koito-pomagat-na-taloto-da-poddarza-sobstvenoto-si-proizvodstvo-na-kolagen~242109.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/hrani.og.jpg"
     }
   ]
 }
