@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-13T03:32:05.759329+00:00",
+  "updated": "2026-10-13T03:53:39.328374+00:00",
   "articles": [
+    {
+      "title": "Парламентът се събира извънредно за случая с помилването на „Петричкия Ескобар“",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-se-sybira-izvynredno-za-sluchaia-s-pomilvaneto-na-petrichkiia-eskobar-2468899",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
+    },
     {
       "title": "Безсъние, паник атаки и стрес: Кога да потърсим лекар и какво покрива НЗОК",
       "url": "https://dariknews.bg/novini/obshtestvo/bezsynie-panik-ataki-i-stres-koga-da-potyrsim-lekar-i-kakvo-pokriva-nzok-2468868",
@@ -16,8 +23,8 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395209/991-ratio-pyrviiat-bylgarski-humanoiden-robot-robyrt.jpg"
     },
     {
-      "title": "Жълт и оранжев код за опасно време във вторник: Дъжд и силен вятър в почти цяла България",
-      "url": "https://dariknews.bg/novini/bylgariia/zhylt-i-oranzhev-kod-za-opasno-vreme-vyv-vtornik-dyzhd-i-silen-viatyr-v-pochti-ciala-bylgariia-2468855",
+      "title": "Жълт и оранжев код за опасно време в почти цяла България",
+      "url": "https://dariknews.bg/novini/bylgariia/zhylt-i-oranzhev-kod-za-opasno-vreme-v-pochti-ciala-bylgariia-2468855",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -133,13 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395223/991-ratio-a.jpg"
-    },
-    {
-      "title": "Обрат по делото за смъртоносната катастрофа на „Тракия“: Турският тираджия отива в ареста",
-      "url": "https://dariknews.bg/regioni/burgas/obrat-po-deloto-za-smyrtonosnata-katastrofa-na-trakiia-turskiiat-tiradzhiia-otiva-v-aresta-2468882",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157465/991-ratio-arest.jpg"
     },
     {
       "title": "981! Кристиано Роналдо пак вкара, голямата цел е близо (ВИДЕО) 13 Окт | 00:14",
