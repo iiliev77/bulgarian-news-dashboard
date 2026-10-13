@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-13T19:26:20.826725+00:00",
+  "updated": "2026-10-13T19:56:20.504688+00:00",
   "articles": [
+    {
+      "title": "Папа Лъв XIV премина през успешна белодробна операция",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-premina-prez-uspeshna-belodrobna-operaciia-2469006",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
+    },
+    {
+      "title": "Зеленски и Кличко влязоха в спор за подготовката на Киев за зимата",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-i-klichko-vliazoha-v-spor-za-podgotovkata-na-kiev-za-zimata-2469005",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51250/51250889/991-ratio-zelenski-vitalij-klichko.jpg"
+    },
     {
       "title": "Четирима спасени моряци от потъналия на 17 мили от Шабла кораб пристигнаха във Варна",
       "url": "https://dariknews.bg/regioni/varna/chetirima-spaseni-moriaci-ot-potynaliia-na-17-mili-ot-shabla-korab-pristignaha-vyv-varna-2469004",
@@ -128,39 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51083/51083804/991-ratio-bylgariia-makedoniia.jpg"
     },
     {
-      "title": "В София не достигат 156 медицински сестри в яслите, СО настоява за промени в закона",
-      "url": "https://dariknews.bg/novini/bylgariia/v-sofiia-ne-dostigat-156-medicinski-sestri-v-iaslite-so-nastoiava-za-promeni-v-zakona-2468982",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51380/51380904/991-ratio-detska-gradina.jpg"
-    },
-    {
-      "title": "ЦИК търси решения на проблемите от предишни избори, за да гарантира честното отчитане на вота",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-tyrsi-resheniia-na-problemite-ot-predishni-izbori-za-da-garantira-chestnoto-otchitane-na-vota-2468979",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387112/991-ratio-cik-izbori.jpg"
-    },
-    {
-      "title": "На живо: Отменен гол за Лил срещу Арсенал 13 Окт | 22:22",
-      "url": "https://dsport.bg/na-zivo-arsenal-lil-sastavi~242132.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300038305.og.jpg"
-    },
-    {
-      "title": "На живо: Галатасарай - Барселона 13 Окт | 22:08",
-      "url": "https://dsport.bg/na-zivo-galatasarai-barselona-sastavi~242133.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300038525.og.jpg"
-    },
-    {
-      "title": "На живо: Атлетико Мадрид прободе Манчестър Юнайтед за 50 секунди 13 Окт | 22:06",
+      "title": "На живо: не зачетоха гол на Атлетико Мадрид срещу Ман Юнайтед 13 Окт | 22:49",
       "url": "https://dsport.bg/na-zivo-atletiko-madrid-manchestar-unaited-sastavi~242135.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300037793.og.jpg"
+    },
+    {
+      "title": "На живо: Барселона изравни в Истанбул, отмениха гол на Галатасарай 13 Окт | 22:49",
+      "url": "https://dsport.bg/na-zivo-galatasarai-barselona-sastavi~242133.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300044982.og.jpg"
+    },
+    {
+      "title": "На живо: Отменен гол за Лил срещу Арсенал 13 Окт | 22:47",
+      "url": "https://dsport.bg/na-zivo-arsenal-lil-sastavi~242132.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300041609.og.jpg"
+    },
+    {
+      "title": "Лидия Енчева се класира за втория кръг на турнир в Майорка 13 Окт | 22:32",
+      "url": "https://dsport.bg/lidia-encheva-prodalzava-napred-na-silen-turnir-v-maiorka~242141.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/13.10-1~1.og.jpg"
     },
     {
       "title": "Мико Кузманов продължава напред в Италия 13 Окт | 22:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/505131-2.og.jpg"
-    },
-    {
-      "title": "Откриха мъртъв в сауна бивш шеф на Партизан, работил с Божинов, Бандаловски и Саша Илич 13 Окт | 20:37",
-      "url": "https://dsport.bg/otkriha-martav-v-sauna-bivsh-shef-na-partizan-rabotil-s-bozinov-bandalovski-i-sasha-ilich~242131.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1243254539.og.jpg"
     }
   ]
 }
