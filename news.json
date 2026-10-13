@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:02:00.841058+00:00",
+  "updated": "2026-10-13T10:22:29.007345+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,34 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Обновена е психиатричната база на университетската болница в Плевен",
+      "url": "https://dariknews.bg/regioni/pleven/obnovena-e-psihiatrichnata-baza-na-universitetskata-bolnica-v-pleven-2468951",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395510/991-ratio-ivkova.jpg"
+    },
+    {
+      "title": "Ниското ниво на Дунав спира посещенията на „Параход Радецки“",
+      "url": "https://dariknews.bg/novini/niskoto-nivo-na-dunav-spira-poseshteniiata-na-parahod-radecki-2468950",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395506/991-ratio-parahod-radecki.jpg"
+    },
+    {
+      "title": "Полицай загина в Брюксел по време на операция, свързана с кражба на автомобил",
+      "url": "https://dariknews.bg/novini/sviat/policaj-zagina-v-briuksel-po-vreme-na-operaciia-svyrzana-s-krazhba-na-avtomobil-2468949",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35350/35350721/991-ratio-briuksel-policiia.jpg"
+    },
+    {
+      "title": "Мъж е в болница след катастрофа между кола и микробус край Казанлък",
+      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-e-v-bolnica-sled-katastrofa-mezhdu-kola-i-mikrobus-kraj-kazanlyk-2468948",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388325/991-ratio-katastrofa.jpg"
     },
     {
       "title": "Папа Лъв XIV влиза в болница „Джемели“ за операция",
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51058/51058088/991-ratio-andrij-sibiha.jpg"
     },
     {
-      "title": "Мъж откри подозрителни устройства в работилницата на починалия си баща в Казанлък",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-otkri-podozritelni-ustrojstva-v-rabotilnicata-na-pochinaliia-si-bashta-v-kazanlyk-2468933",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384991/991-ratio-policiia.jpg"
+      "title": "Неопитен португалски рефер на ЦСКА - Монако 13 Окт | 13:04",
+      "url": "https://dsport.bg/neopiten-portugalski-refer-na-cska-monako~242096.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2225632119.og.jpg"
     },
     {
-      "title": "Фон дер Лайен: Черно море стана фронт на руската война",
-      "url": "https://dariknews.bg/novini/sviat/fon-der-lajen-cherno-more-stana-front-na-ruskata-vojna-2468932",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51166/51166254/991-ratio-ursula-fon-der-lajen.jpg"
-    },
-    {
-      "title": "Трима евакуирани моряци от „Челси 3“ са приети във Военноморската болница във Варна",
-      "url": "https://dariknews.bg/regioni/varna/trima-evakuirani-moriaci-ot-chelsi-3-sa-prieti-vyv-voennomorskata-bolnica-vyv-varna-2468931",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51135/51135177/991-ratio-bolnica.jpg"
-    },
-    {
-      "title": "Счетоводител присвоил 450 000 евро на две дружества във Враца",
-      "url": "https://dariknews.bg/regioni/vraca/schetovoditel-prisvoil-450-000-evro-na-dve-druzhestva-vyv-vraca-2468929",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51320/51320509/991-ratio-50-evro.jpg"
+      "title": "Феновете на Локо Пд събраха близо 12 000 евро ден след началото на дарителската кампания 13 Окт | 12:57",
+      "url": "https://dsport.bg/fenovete-na-loko-pd-sabraha-blizo-12-000-evro-den-sled-nachaloto-na-daritelskata-kampania~242095.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/372057-1.og.jpg"
     },
     {
       "title": "Над 15 000 фенове на ЦСКА вече са си купили билети за мача с Монако 13 Окт | 12:50",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039668.og.jpg"
-    },
-    {
-      "title": "Bethub Pro Cup: осем отбора, седем мача и 720 000 евро – всичко за новия турнир 13 Окт | 11:43",
-      "url": "https://dsport.bg/bethub-pro-cup-reglament-programa-nagraden-fond~242081.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1029852.og.jpg"
-    },
-    {
-      "title": "Винисиус и Вирджиния официално потвърдиха края на връзката си 13 Окт | 11:30",
-      "url": "https://dsport.bg/vinisius-i-virdzinia-oficialno-potvardiha-kraa-na-vrazkata-si~242085.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/81d88f.og.jpg"
     }
   ]
 }
