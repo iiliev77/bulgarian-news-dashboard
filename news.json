@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:05:33.985732+00:00",
+  "updated": "2026-10-13T09:26:50.600585+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Бърз влак блъсна кола на жп прелез, спряха движението между Бойчиновци и Мърчево",
+      "url": "https://dariknews.bg/regioni/vidin/byrz-vlak-blysna-kola-na-zhp-prelez-spriaha-dvizhenieto-mezhdu-bojchinovci-i-myrchevo-2468943",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51206/51206120/991-ratio-liniia-zhp-liniia.jpg"
+    },
+    {
+      "title": "Президентът Йотова остро осъжда новите атаки: Черно море се превръща във военна зона",
+      "url": "https://dariknews.bg/novini/bylgariia/prezidentyt-iotova-ostro-osyzhda-novite-ataki-cherno-more-se-prevryshta-vyv-voenna-zona-2468942",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356695/991-ratio-iliiana-iotova.jpg"
     },
     {
       "title": "Грета Тунберг се включи в ученическото протестно движение в предградие на Париж",
@@ -44,8 +58,8 @@
       "image": "https://m.netinfo.bg/media/images/44293/44293856/991-ratio-krava-na-pytia-govedo.jpg"
     },
     {
-      "title": "Радев проведе спешен разговор с руския посланик Елеонора Митрофанова",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-provede-speshen-razgovor-s-ruskiia-poslanik-eleonora-mitrofanova-2468936",
+      "title": "Под напрежение след новите удари в Черно море: Радев се срещна с Митрофанова, ЕС и НАТО с подкрепа за България",
+      "url": "https://dariknews.bg/novini/bylgariia/pod-naprezhenie-sled-novite-udari-v-cherno-more-radev-se-sreshtna-s-mitrofanova-es-i-nato-s-podkrepa-za-bylgariia-2468936",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -128,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51317/51317793/991-ratio-peevski.jpg"
     },
     {
-      "title": "Откраднаха лаптоп от кабинет в училище в Долно Осеново",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/otkradnaha-laptop-ot-kabinet-v-uchilishte-v-dolno-osenovo-2468924",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39201/39201461/991-ratio-laptop.jpg"
+      "title": "Съдия номер 1 на Азербайджан ще ръководи мача НЕК Ниймеген и Левски 13 Окт | 12:16",
+      "url": "https://dsport.bg/sadia-nomer-1-na-azerbaidzan-ste-rakovodi-macha-nek-niimegen-i-levski~242090.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2185013041.og.jpg"
     },
     {
-      "title": "Асен Василев показа пак видеото със сбиването на „Петричкия Ескобар“: Изглежда доста жив като за смъртник",
-      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-pokaza-pak-videoto-sys-sbivaneto-na-petrichkiia-eskobar-izglezhda-dosta-zhiv-kato-za-smyrtnik-2468925",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395397/991-ratio-prodylzhavame-promianata.jpg"
+      "title": "Нико Ковач преподписа с Борусия Дортмунд 13 Окт | 12:07",
+      "url": "https://dsport.bg/niko-kovach-prepodpisa-s-borusia-dortmund~242089.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2276620686.og.jpg"
+    },
+    {
+      "title": "Тодор Ангелов: Време е кавгите и хаосът в БФ Борба да бъдат спрени и спортът да тръгне отново напред 13 Окт | 11:58",
+      "url": "https://dsport.bg/todor-angelov-vreme-e-kavgite-i-haosat-v-bf-borba-da-badat-spreni-i-sportat-da-tragne-otnovo-napred~242088.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039656.og.jpg"
     },
     {
       "title": "Гриша Ганчев: Дайте да сложим Джордж Клуни за треньор (ВИДЕО) 13 Окт | 11:49",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299377566.og.jpg"
-    },
-    {
-      "title": "Манчестър Юнайтед вече е започнал преговори с Антонио Конте за заместник на Майкъл Карик 13 Окт | 10:49",
-      "url": "https://dsport.bg/manchestar-unaited-veche-e-zapochnal-pregovori-s-antonio-konte-za-zamestnik-na-maikal-karik~242080.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2278006905.og.jpg"
-    },
-    {
-      "title": "Разкриха какво е казал Винисиус на съдията след червения картон 13 Окт | 10:37",
-      "url": "https://dsport.bg/razkriha-kakvo-e-kazal-vinisius-na-sadiata-sled-chervenia-karton~242079.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299571311.og.jpg"
-    },
-    {
-      "title": "Тодор Симов: Това е ново състезание, целта е отборът да бъде част и от следващия етап 13 Окт | 10:28",
-      "url": "https://dsport.bg/todor-simov-tova-e-novo-sastezanie-celta-e-otborat-da-bade-chast-i-ot-sledvastia-etap~242078.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1009794-1.og.jpg"
     }
   ]
 }
