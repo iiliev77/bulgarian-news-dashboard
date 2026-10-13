@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:58:52.041719+00:00",
+  "updated": "2026-10-13T14:17:54.683587+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,27 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Сблъсък между кола му и инкасо автомобил край Микре, има жертва",
+      "url": "https://dariknews.bg/regioni/lovech/sblysyk-mezhdu-kola-mu-i-inkaso-avtomobil-kraj-mikre-ima-zhertva-2468987",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50090/50090283/991-ratio-triygylnik-katastrofa.jpg"
+    },
+    {
+      "title": "Байкушев: Има съществен риск за съществуването на белодробната болница в Благоевград",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/bajkushev-ima-syshtestven-risk-za-syshtestvuvaneto-na-belodrobnata-bolnica-v-blagoevgrad-2468985",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51010/51010786/991-ratio-metodi-bajkushev-kmet-blagoevgrad.jpg"
+    },
+    {
+      "title": "Кен Маккалъм: MI5 отделя повече ресурси срещу чужди заплахи, отколкото по време на Студената война",
+      "url": "https://dariknews.bg/novini/sviat/ken-makkalym-mi5-otdelia-poveche-resursi-sreshtu-chuzhdi-zaplahi-otkolkoto-po-vreme-na-studenata-vojna-2468984",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395627/991-ratio-mi5.jpg"
     },
     {
       "title": "Делегация на ДПС се срещна с ръководството на групата на Консерваторите и реформистите в ЕП",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395580/991-ratio-letishteto-v-niurnberg.jpg"
     },
     {
-      "title": "Чавдар Бояджиев отново получи доживотен затвор без замяна за убийствата в Лозен",
-      "url": "https://dariknews.bg/regioni/sofiia/chavdar-boiadzhiev-otnovo-poluchi-dozhivoten-zatvor-bez-zamiana-za-ubijstvata-v-lozen-2468965",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Мустафа Сангаре няма да отсъства дълго от футболните терени 13 Окт | 17:16",
+      "url": "https://dsport.bg/mustafa-sangare-nama-da-otsastva-dalgo-ot-futbolnite-tereni~242116.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038733~1.og.jpg"
     },
     {
-      "title": "Брюксел затяга контрола: По-малко руснаци ще влизат в ЕС",
-      "url": "https://dariknews.bg/novini/sviat/briuksel-zatiaga-kontrola-po-malko-rusnaci-shte-vlizat-v-es-2468964",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51122/51122223/991-ratio-ek.jpg"
-    },
-    {
-      "title": "Военният министър е категоричен: Няма нужда от активиране на член 4 от НАТО",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-e-kategorichen-niama-nuzhda-ot-aktivirane-na-chlen-4-ot-nato-2468963",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395598/991-ratio-dimityr-stoianov.jpg"
+      "title": "Спортното шоу на Дарик радио - 13.10.2026 13 Окт | 17:00",
+      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-13-10-2026~242114.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-1343-.og.png"
     },
     {
       "title": "Левски с най-голяма глоба след кръга 13 Окт | 16:44",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1418820306-1-2~2.og.jpg"
-    },
-    {
-      "title": "Барселона с твърда позиция: Дани Олмо не се продава дори за 90 млн. евро 13 Окт | 14:44",
-      "url": "https://dsport.bg/barselona-s-tvarda-pozicia-dani-olmo-ne-se-prodava-dori-za-90-mln-evro~242105.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2269836806-1.og.jpg"
-    },
-    {
-      "title": "Ювентус продължава съдебната битка с Роналдо 13 Окт | 14:38",
-      "url": "https://dsport.bg/uventus-prodalzava-sadebnata-bitka-s-ronaldo~242104.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1335709906.og.jpg"
     }
   ]
 }
