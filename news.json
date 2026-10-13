@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:35:03.954385+00:00",
+  "updated": "2026-10-13T13:58:52.041719+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,34 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Делегация на ДПС се срещна с ръководството на групата на Консерваторите и реформистите в ЕП",
+      "url": "https://dariknews.bg/novini/bylgariia/delegaciia-na-dps-se-sreshtna-s-rykovodstvoto-na-grupata-na-konservatorite-i-reformistite-v-ep-2468980",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395619/991-ratio-delegaciia-na-dps-v-briuksel-provede-sreshta-s-rykovodstvoto-na.jpg"
+    },
+    {
+      "title": "Заради случая с Ива Михайлова: Българският посланик в РС Македония е бил извикан в Скопие",
+      "url": "https://dariknews.bg/novini/bylgariia/zaradi-sluchaia-s-iva-mihajlova-bylgarskiiat-poslanik-v-rs-makedoniia-e-bil-izvikan-v-skopie-2468981",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51083/51083804/991-ratio-bylgariia-makedoniia.jpg"
+    },
+    {
+      "title": "В София не достигат 156 медицински сестри в яслите, СО настоява за промени в закона",
+      "url": "https://dariknews.bg/novini/bylgariia/v-sofiia-ne-dostigat-156-medicinski-sestri-v-iaslite-so-nastoiava-za-promeni-v-zakona-2468982",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51380/51380904/991-ratio-detska-gradina.jpg"
+    },
+    {
+      "title": "ЦИК търси решения на проблемите от предишни избори, за да гарантира честното отчитане на вота",
+      "url": "https://dariknews.bg/novini/bylgariia/cik-tyrsi-resheniia-na-problemite-ot-predishni-izbori-za-da-garantira-chestnoto-otchitane-na-vota-2468979",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387112/991-ratio-cik-izbori.jpg"
     },
     {
       "title": "Найденов призова ВСС да предложи повече от един кандидат за главен прокурор",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395598/991-ratio-dimityr-stoianov.jpg"
     },
     {
-      "title": "Движението в 320-метров участък от Дунав мост при Русе ще е двупосочно в една лента",
-      "url": "https://dariknews.bg/regioni/ruse/dvizhenieto-v-320-metrov-uchastyk-ot-dunav-most-pri-ruse-shte-e-dvuposochno-v-edna-lenta-2468960",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395566/991-ratio-dunav-most.jpg"
-    },
-    {
-      "title": "Кремъл обсъжда затрудненията на „Яндекс“ след украинските удари",
-      "url": "https://dariknews.bg/novini/sviat/kremyl-obsyzhda-zatrudneniiata-na-iandeks-sled-ukrainskite-udari-2468961",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50462/50462711/991-ratio-peskov.jpg"
-    },
-    {
-      "title": "Ива Михайлова не се явила в полицията в Кочани, прокуратурата в Северна Македония иска задържането ѝ",
-      "url": "https://dariknews.bg/novini/bylgariia/iva-mihajlova-ne-se-iavila-v-policiiata-v-kochani-prokuraturata-v-severna-makedoniia-iska-zadyrzhaneto--2468959",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388328/991-ratio-iva-mihajlova.jpg"
-    },
-    {
-      "title": "Японски учени откриха естествен път към по-качествен сън",
-      "url": "https://dariknews.bg/novini/liubopitno/iaponski-ucheni-otkriha-estestven-pyt-kym-po-kachestven-syn-2468957",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47724/47724014/991-ratio-syn.jpg"
+      "title": "Левски с най-голяма глоба след кръга 13 Окт | 16:44",
+      "url": "https://dsport.bg/levski-s-nai-golama-globa-sled-kraga~242113.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1038721.og.jpg"
     },
     {
       "title": "Българска инвазия на остров Крит: MFC Galacticos BETVAM и MFC Porto BETVAM атакуват Шампионската лига! 13 Окт | 16:30",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1335709906.og.jpg"
-    },
-    {
-      "title": "Легендата се превръща в бреме за Байерн Мюнхен 13 Окт | 14:27",
-      "url": "https://dsport.bg/legendata-se-prevrasta-v-breme-za-baiern-munhen~242103.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299569650.og.jpg"
     }
   ]
 }
