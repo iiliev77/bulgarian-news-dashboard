@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-13T17:52:12.742864+00:00",
+  "updated": "2026-10-13T18:05:02.749545+00:00",
   "articles": [
+    {
+      "title": "„Булгаргаз“ поиска драстичен скок с 34% на газа през ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/bulgargaz-poiska-drastichen-skok-s-34-na-gaza-prez-noemvri-2469002",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50854/50854155/991-ratio-gaz.jpg"
+    },
     {
       "title": "Северна Македония издаде международна заповед за арест на Ива Михайлова",
       "url": "https://dariknews.bg/novini/sviat/severna-makedoniia-izdade-mezhdunarodna-zapoved-za-arest-na-iva-mihajlova-2469000",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51349/51349614/991-ratio-kiev-ataka-balistichni-raketi.jpg"
     },
     {
-      "title": "Язовирите у нас са запълнени на близо 65% - най-високо ниво за последните осем години",
-      "url": "https://dariknews.bg/novini/bylgariia/iazovirite-u-nas-sa-zapylneni-na-blizo-65-naj-visoko-nivo-za-poslednite-osem-godini-2468976",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51346/51346397/991-ratio-iazovir-kyrdzhali.jpg"
+      "title": "На живо: Атлетико Мадрид – Манчестър Юнайтед (Състави) 13 Окт | 21:01",
+      "url": "https://dsport.bg/na-zivo-atletiko-madrid-manchestar-unaited-sastavi~242135.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-4-~1.og.jpg"
+    },
+    {
+      "title": "На живо: Галатасарай - Барселона (Състави) 13 Окт | 20:53",
+      "url": "https://dsport.bg/na-zivo-galatasarai-barselona-sastavi~242133.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-41-.og.png"
+    },
+    {
+      "title": "На живо: Арсенал - Лил (Състави) 13 Окт | 20:52",
+      "url": "https://dsport.bg/na-zivo-arsenal-lil-sastavi~242132.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-10-.og.jpg"
     },
     {
       "title": "Откриха мъртъв в сауна бивш шеф на Партизан, работил с Божинов, Бандаловски и Саша Илич 13 Окт | 20:37",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299670774.og.jpg"
-    },
-    {
-      "title": "Янтра припомни четири исторически сблъсъка с Локомотив Пловдив преди мача за Купата 13 Окт | 19:09",
-      "url": "https://dsport.bg/antra-pripomni-chetiri-istoricheski-sblasaka-s-lokomotiv-plovdiv-predi-macha-za-kupata~242124.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/842101568_1715647506808037_5678299725251564746_n.og.jpg"
-    },
-    {
-      "title": "Берое оцени двубоя с Лудогорец на 10 евро 13 Окт | 18:50",
-      "url": "https://dsport.bg/beroe-oceni-dvuboa-s-ludogorec-na-10-evro~242120.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/762126-1-1-1-1-1-1.og.jpg"
-    },
-    {
-      "title": "Капитанът на Атлетико загуби скъп човек 13 Окт | 18:49",
-      "url": "https://dsport.bg/kapitanat-na-atletiko-zagubi-skap-chovek~242122.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2296415713.og.jpg"
     }
   ]
 }
