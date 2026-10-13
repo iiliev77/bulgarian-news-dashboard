@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:09:11.859291+00:00",
+  "updated": "2026-10-13T13:35:03.954385+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
@@ -7,6 +7,27 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Найденов призова ВСС да предложи повече от един кандидат за главен прокурор",
+      "url": "https://dariknews.bg/novini/bylgariia/najdenov-prizova-vss-da-predlozhi-poveche-ot-edin-kandidat-za-glaven-prokuror-2468978",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
+    },
+    {
+      "title": "Киев не е получил предупреждение от партньорите си за снощната атака срещу украинската столица",
+      "url": "https://dariknews.bg/novini/sviat/kiev-ne-e-poluchil-preduprezhdenie-ot-partniorite-si-za-snoshtnata-ataka-sreshtu-ukrainskata-stolica-2468977",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51349/51349614/991-ratio-kiev-ataka-balistichni-raketi.jpg"
+    },
+    {
+      "title": "Язовирите у нас са запълнени на близо 65% - най-високо ниво за последните осем години",
+      "url": "https://dariknews.bg/novini/bylgariia/iazovirite-u-nas-sa-zapylneni-na-blizo-65-naj-visoko-nivo-za-poslednite-osem-godini-2468976",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51346/51346397/991-ratio-iazovir-kyrdzhali.jpg"
     },
     {
       "title": "Един загинал и двама ранени при тежка катастрофа на магистрала „Тракия“",
@@ -121,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/47724/47724014/991-ratio-syn.jpg"
     },
     {
-      "title": "ЦИК демонстрира подготовката на машините за гласуване",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-demonstrira-podgotovkata-na-mashinite-za-glasuvane-2468958",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395536/991-ratio-stoianka-balova-cvetkova.jpg"
+      "title": "Българска инвазия на остров Крит: MFC Galacticos BETVAM и MFC Porto BETVAM атакуват Шампионската лига! 13 Окт | 16:30",
+      "url": "https://dsport.bg/balgarska-invazia-na-ostrov-krit-mfc-galacticos-betvam-i-mfc-porto-betvam-atakuvat-shampionskata-liga~242112.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/bcbb6d67-0a42-4229-a877-c1d75d47bca6.og.png"
     },
     {
-      "title": "Протест в Шумен: Работещи искат достойни доходи, а не съкращения",
-      "url": "https://dariknews.bg/regioni/shumen/protest-v-shumen-raboteshti-iskat-dostojni-dohodi-a-ne-sykrashteniia-2468956",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395535/991-ratio-knsb.jpg"
+      "title": "Историческа нощ за Пловдив! Локомотив приема румънски гранд в първия си домакински мач от ФИБА Къп! 13 Окт | 16:26",
+      "url": "https://dsport.bg/istoricheska-nost-za-plovdiv-lokomotiv-priema-rumanski-grand-v-parvia-si-domakinski-mach-ot-fiba-kap~242111.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/fd6c17d5-281d-4007-a6bf-e0ef733e64d8.og.png"
     },
     {
-      "title": "Военният ни министър обсъди дроновете в Черно море с колегите си от Румъния и Турция",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ni-ministyr-obsydi-dronovete-v-cherno-more-s-kolegite-si-ot-rumyniia-i-turciia-2468954",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395514/991-ratio-dimityr-stoianov.jpg"
+      "title": "Зверев оцеля срещу Бублик след два тайбрека и се класира за четвъртфиналите в Шанхай 13 Окт | 16:09",
+      "url": "https://dsport.bg/zverev-ocela-srestu-bublik-sled-dva-taibreka-i-se-klasira-za-chetvartfinalite-v-shanhai~242110.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299981915.og.jpg"
     },
     {
       "title": "6 храни, които помагат на тялото да поддържа собственото си производство на колаген 13 Окт | 15:59",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299569650.og.jpg"
-    },
-    {
-      "title": "Радослав Гидженов с първо назначение в Лига Европа за сезона 13 Окт | 14:10",
-      "url": "https://dsport.bg/radoslav-gidzenov-s-parvo-naznachenie-v-liga-evropa-za-sezona~242102.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/820018-1-1~1.og.jpg"
-    },
-    {
-      "title": "Футболист на Галатасарай за Ямал: Кой е той? Познавам Сане 13 Окт | 14:10",
-      "url": "https://dsport.bg/futbolist-na-galatasarai-koi-e-toi-poznavam-sane~242101.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2292610139.og.jpg"
-    },
-    {
-      "title": "Мистерията Бернардо Силва 13 Окт | 13:50",
-      "url": "https://dsport.bg/misteriata-bernardo-silva~242100.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299839433.og.jpg"
     }
   ]
 }
