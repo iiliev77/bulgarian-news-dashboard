@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-13T15:02:47.212624+00:00",
+  "updated": "2026-10-13T15:23:39.312843+00:00",
   "articles": [
     {
       "title": "Нова атака в Черно море, два кораба са ударени",
       "url": "https://dariknews.bg/novini/bylgariia/nov-udar-s-dron-v-cherno-more-12-dushi-sa-postradali-2468903",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Тодор Тагарев: Войната е съвсем близо до нашите граници отдавна",
+      "url": "https://dariknews.bg/novini/bylgariia/todor-tagarev-vojnata-e-syvsem-blizo-do-nashite-granici-otdavna-2468993",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
     },
     {
-      "title": "„Нотариуса“, „Осемте джуджета“ и Красьо Черния: Какво показа проверката на кандидатите за ВСС?",
-      "url": "https://dariknews.bg/novini/bylgariia/notariusa-osemte-dzhudzheta-i-krasio-cherniia-kakvo-pokaza-proverkata-na-kandidatite-za-vss-2468969",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+      "title": "Ясни ли са титулярите на Левски в Ниймеген? 13 Окт | 18:23",
+      "url": "https://dsport.bg/asni-li-sa-titularite-na-levski-v-niimegen~242118.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/levski-lineup-debate-in-nijmegen.og.png"
+    },
+    {
+      "title": "Боксьорка разкри: Приятелят ми е окей да спя с чужди мъже 13 Окт | 18:10",
+      "url": "https://dsport.bg/boksorka-razkri-priatelat-mi-nama-problem-da-spa-s-chuzdi-maze~242115.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/mixcollage-06-dec-2025-08-14-am-3629.og.jpg"
     },
     {
       "title": "Побойникът от Горна Оряховица изхвърча за две години 13 Окт | 17:33",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/hrani.og.jpg"
-    },
-    {
-      "title": "Джерард поиска отнемане на титлите на Сити: Трябва да има звездичка до постиженията им 13 Окт | 15:40",
-      "url": "https://dsport.bg/dzerard-poiska-otnemane-na-titlite-na-siti-trabva-da-ima-zvezdichka-do-postizeniata-im~242108.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-1410429257-2-1~1.og.jpg"
-    },
-    {
-      "title": "Гасперини се пошегува с Моуриньо: Фантастичен е, когато харчи пари за играчи 13 Окт | 15:21",
-      "url": "https://dsport.bg/gasperini-se-posheguva-s-mourino-fantastichen-e-kogato-harchi-pari-za-igrachi~242107.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299673099.og.jpg"
     }
   ]
 }
