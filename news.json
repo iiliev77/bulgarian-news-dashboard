@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-14T19:58:01.819479+00:00",
+  "updated": "2026-10-14T20:22:22.061957+00:00",
   "articles": [
+    {
+      "title": "Пожар избухна в апартамент в столичния квартал „Гео Милев“",
+      "url": "https://dariknews.bg/regioni/sofiia/pozhar-izbuhna-v-apartament-v-stolichniia-kvartal-geo-milev-2469124",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51281/51281044/991-ratio-pozhar.jpg"
+    },
+    {
+      "title": "Провал на Арената изпрати Канарите на номинации в „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/proval-na-arenata-izprati-kanarite-na-nominacii-v-igri-na-voliata-2469123",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396087/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Анди Бърнам: Подкрепата на Великобритания за Украйна няма да се промени",
       "url": "https://dariknews.bg/novini/sviat/andi-byrnam-podkrepata-na-velikobritaniia-za-ukrajna-niama-da-se-promeni-2469121",
@@ -128,32 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50663/50663405/991-ratio-vylni.jpg"
     },
     {
-      "title": "Над 3,7 млн. евро за младежки център в Кърджали: Проверяват измами и завишени цени",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/nad-37-mln.-evro-za-mladezhki-centyr-v-kyrdzhali-proveriavat-izmami-i-zavisheni-ceni-2469100",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396011/991-ratio-kyrdzhali.jpg"
+      "title": "На живо: Рома вкара трети гол във вратата на Реал Мадрид 14 Окт | 23:20",
+      "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300228299.og.jpg"
     },
     {
-      "title": "България и Германия обсъдиха разширяване на партньорството в отбраната, енергетиката и иновациите",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-germaniia-obsydiha-razshiriavane-na-partniorstvoto-v-otbranata-energetikata-i-inovaciite-2469099",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396010/991-ratio-velislava-petrova.jpg"
-    },
-    {
-      "title": "На живо: ПСЖ води убедително на Манчестър Сити 14 Окт | 22:50",
+      "title": "На живо: ПСЖ води убедително на Манчестър Сити 14 Окт | 23:05",
       "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300220587.og.jpg"
     },
     {
-      "title": "На живо: Реал Мадрид изравни на Рома 14 Окт | 22:49",
-      "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
+      "title": "Хари Кейн счупи рекорд на Меси и вече преследва Кристиано Роналдо в Шампионска лига 14 Окт | 22:56",
+      "url": "https://dsport.bg/hari-kein-schupi-rekord-na-mesi-i-veche-presledva-kristiano-ronaldo-v-shampionska-liga~242228.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300221389.og.jpg"
+      "image": "https://dsport.bg/media/385/gettyimages-2300056191.og.jpg"
     },
     {
       "title": "Рилски спортист допусна втора поредна загуба в турнира ФИБА Къп 14 Окт | 22:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1010183.og.jpg"
-    },
-    {
-      "title": "Ливърпул спечели надстрелването с ЛАСК, Баркола с хеттрик (ВИДЕО) 14 Окт | 21:35",
-      "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300201044.og.jpg"
     }
   ]
 }
