@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-14T15:44:10.229552+00:00",
+  "updated": "2026-10-14T16:15:24.565076+00:00",
   "articles": [
+    {
+      "title": "Йотова: България и Румъния искат извънредна точка за Черно море на срещата на върха на ЕС",
+      "url": "https://dariknews.bg/novini/bylgariia/iotova-bylgariia-i-rumyniia-iskat-izvynredna-tochka-za-cherno-more-na-sreshtata-na-vyrha-na-es-2469117",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51337/51337970/991-ratio-iliiana-iotova.jpg"
+    },
     {
       "title": "Русия очаква до дни да подпише първите договори за износ на дизел след разговорите Путин-Тръмп",
       "url": "https://dariknews.bg/novini/sviat/rusiia-ochakva-do-dni-da-podpishe-pyrvite-dogovori-za-iznos-na-dizel-sled-razgovorite-putin-trymp-2469116",
@@ -135,11 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395972/991-ratio-i-j-ubijstvo-stara-zagora.jpg"
     },
     {
-      "title": "Още два кораба претърпяха щети след атаки в Ормузкия проток",
-      "url": "https://dariknews.bg/novini/sviat/oshte-dva-koraba-pretyrpiaha-shteti-sled-ataki-v-ormuzkiia-protok-2469093",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306329/991-ratio-tovaren-korab-plava-v-persijskiia-zaliv-kym-ormuzkiia-protok-vyv.jpg"
+      "title": "ЦСКА обяви, че е направил последната крачка за стадион Българска армия 14 Окт | 19:02",
+      "url": "https://dsport.bg/cska-obavi-che-e-napravil-poslednata-krachka-za-stadion-balgarska-armia~242203.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/cska_keryazov.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив и Ботев Враца откриват Bethub ProCup 14 Окт | 19:02",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-14t174133.597.og.png"
+    },
+    {
+      "title": "Рияд Марез с изненадващ трансфер 14 Окт | 18:51",
+      "url": "https://dsport.bg/riad-marez-s-iznenadvast-transfer~242202.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/riyad.og.jpg"
+    },
+    {
+      "title": "На живо: ЛАСК - Ливърпул (Състави) 14 Окт | 18:45",
+      "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-35-.og.png"
+    },
+    {
+      "title": "Хаос на \"Олд Трафорд\": Лисандро Мартинес атакува ръководството, Диало се присъедини към бунта 14 Окт | 18:40",
+      "url": "https://dsport.bg/haos-na-old-traford-lisandro-martines-atakuva-rakovodstvoto-dialo-se-prisaedini-kam-bunta~242200.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2290294045.og.jpg"
     },
     {
       "title": "Струваше €60 млн., беше отписан, а сега преоткри щастието... в резервите 14 Окт | 18:33",
@@ -170,46 +205,11 @@
       "image": "https://dsport.bg/media/385/0905bc36-0bb0-4568-9ce0-f981eeecb257-1-.og.jpg"
     },
     {
-      "title": "На живо: Ботев Пловдив и Ботев Враца откриват Bethub ProCup (Състави) 14 Окт | 17:45",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-14t174133.597.og.png"
-    },
-    {
       "title": "Футболист на Лудогорец влезе във финансов спор за неизплатени заплати 14 Окт | 17:29",
       "url": "https://dsport.bg/futbolist-na-ludogorec-vleze-vav-finansov-spor-za-neizplateni-zaplati~242194.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1014961.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик - 14.10.2026 г. 14 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-14-10-2026-g~242193.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/viber_image_2026-10-14_17-02-13-065.og.png"
-    },
-    {
-      "title": "Септември ще търси нов треньор, досегашният хвърли оставка 14 Окт | 16:59",
-      "url": "https://dsport.bg/septemvri-ste-tarsi-nov-trenor-dosegashniat-hvarli-ostavka~242192.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1015147.og.jpg"
-    },
-    {
-      "title": "ЦСКА тренира без Гбамен преди Монако (ВИДЕО) 14 Окт | 16:33",
-      "url": "https://dsport.bg/cska-trenira-bez-gbamen-predi-monako~242191.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039830.og.jpg"
-    },
-    {
-      "title": "Скандал в НЕК преди Левски! Фенове поискаха главата на Тадич, треньорът го защити 14 Окт | 16:15",
-      "url": "https://dsport.bg/skandal-v-nek-predi-levski-fenove-poiskaha-glavata-na-tadich-trenorat-go-zastiti~242190.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295279829.og.jpg"
     }
   ]
 }
