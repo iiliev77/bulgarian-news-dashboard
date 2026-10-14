@@ -1,12 +1,61 @@
 {
-  "updated": "2026-10-14T14:10:32.835507+00:00",
+  "updated": "2026-10-14T14:39:20.023721+00:00",
   "articles": [
+    {
+      "title": "Приети са нови правила за определяне на минималната заплата",
+      "url": "https://dariknews.bg/novini/bylgariia/prieti-sa-novi-pravila-za-opredeliane-na-minimalnata-zaplata-2469112",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50484/50484729/991-ratio-zaplata-rabota.jpg"
+    },
+    {
+      "title": "15 студенти ще се обучават за медицински сестри във филиала на Бургаския университет в Добрич",
+      "url": "https://dariknews.bg/regioni/dobrich/15-studenti-shte-se-obuchavat-za-medicinski-sestri-vyv-filiala-na-burgaskiia-universitet-v-dobrich-2469111",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/34511/34511172/991-ratio-medicinska-sestra.jpg"
+    },
+    {
+      "title": "Отвъд киното: Джони Деп показва личния си свят с първа арт изложба",
+      "url": "https://dariknews.bg/novini/liubopitno/otvyd-kinoto-dzhoni-dep-pokazva-lichniia-si-sviat-s-pyrva-art-izlozhba-2469110",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396030/991-ratio-dzhoni-dep.jpg"
+    },
+    {
+      "title": "Шарка по овце и кози в Старозагорско: Въвеждат ограничения в десетки села",
+      "url": "https://dariknews.bg/regioni/stara-zagora/sharka-po-ovce-i-kozi-v-starozagorsko-vyvezhdat-ogranicheniia-v-desetki-sela-2469107",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51286/51286293/991-ratio-ovce-ovci.jpg"
+    },
+    {
+      "title": "Кабинетът отпусна над 3 млн. евро за Комисията за борба с корупцията",
+      "url": "https://dariknews.bg/novini/bylgariia/kabinetyt-otpusna-nad-3-mln.-evro-za-komisiiata-za-borba-s-korupciiata-2469109",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48030/48030545/991-ratio-korupciia-pari-izmama.jpg"
+    },
+    {
+      "title": "Министерският съвет одобри бюджетния план на България за 2027 г.",
+      "url": "https://dariknews.bg/novini/bylgariia/ministerskiiat-syvet-odobri-biudzhetniia-plan-na-bylgariia-za-2027-g-2469108",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51295/51295850/991-ratio-evro.jpg"
+    },
     {
       "title": "Правителството отпуска 4,8 млн. евро за „Евровизия 2027“ в Бургас",
       "url": "https://dariknews.bg/regioni/burgas/pravitelstvoto-otpuska-48-mln.-evro-za-evroviziia-2027-v-burgas-2469104",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51368/51368374/991-ratio-evroviziia-burgas.jpg"
+    },
+    {
+      "title": "Уловиха една от мечките, които многократно влизаха в девинското село Гьоврен",
+      "url": "https://dariknews.bg/regioni/Smolyan/uloviha-edna-ot-mechkite-koito-mnogokratno-vlizaha-v-devinskoto-selo-giovren-2469105",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51311/51311493/991-ratio-mechka-park-za-mechki-v-belica.jpg"
     },
     {
       "title": "Омбудсманът: Пенсиите и забавянето на ТЕЛК решенията са сред основните жалби на хората",
@@ -93,53 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395005/991-ratio-iva-mihajlova.jpg"
     },
     {
-      "title": "На първо четене в НС: Патрулните коли да са с дефибрилатори и полицаите да могат да оказват първа помощ",
-      "url": "https://dariknews.bg/novini/bylgariia/na-pyrvo-chetene-v-ns-patrulnite-koli-da-sa-s-defibrilatori-i-policaite-da-mogat-da-okazvat-pyrva-pomosht-2469087",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50711/50711600/991-ratio-defibrilator.jpg"
-    },
-    {
-      "title": "Опасни фуги на Околовръстното в София: Общината настоява АПИ да действа",
-      "url": "https://dariknews.bg/novini/bylgariia/opasni-fugi-na-okolovrystnoto-v-sofiia-obshtinata-nastoiava-api-da-dejstva-2469085",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395964/991-ratio-sofijski-okolovrysten-pyt.jpg"
-    },
-    {
-      "title": "Частични избори за кмет на село Мало Конаре ще се проведат на 18 октомври",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/chastichni-izbori-za-kmet-na-selo-malo-konare-shte-se-provedat-na-18-oktomvri-2469084",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
-    },
-    {
-      "title": "В неизвестност от дни: Издирват 17-годишно момиче от Сливен (СНИМКА)",
-      "url": "https://dariknews.bg/regioni/sliven/v-neizvestnost-ot-dni-izdirvat-17-godishno-momiche-ot-sliven-snimka-2469082",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Акция на ГДБОП в Костинброд за предполагаемо източване на средства от обществени поръчки",
-      "url": "https://dariknews.bg/novini/bylgariia/akciia-na-gdbop-v-kostinbrod-za-predpolagaemo-iztochvane-na-sredstva-ot-obshtestveni-porychki-2469083",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51329/51329903/991-ratio-gdbop.jpg"
-    },
-    {
-      "title": "Франция осъди атаките с дронове срещу кораби край България и Румъния",
-      "url": "https://dariknews.bg/novini/sviat/franciia-osydi-atakite-s-dronove-sreshtu-korabi-kraj-bylgariia-i-rumyniia-2469081",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48998/48998116/991-ratio-franciia-flag.jpg"
-    },
-    {
-      "title": "Спасиха морски орел, открит в безпомощно състояние в Ловешко",
-      "url": "https://dariknews.bg/regioni/lovech/spasiha-morski-orel-otkrit-v-bezpomoshtno-systoianie-v-loveshko-2469080",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395956/991-ratio-morski-orel.jpg"
+      "title": "Футболист на Лудогорец влезе във финансов спор за неизплатени заплати 14 Окт | 17:29",
+      "url": "https://dsport.bg/futbolist-na-ludogorec-vleze-vav-finansov-spor-za-neizplateni-zaplati~242194.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1014961.og.jpg"
     },
     {
       "title": "Спортното шоу на Дарик - 14.10.2026 г. 14 Окт | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/794686-1-2-1-1~2.og.jpg"
-    },
-    {
-      "title": "ЦСКА показа елегантната си визия за европейските мачове 14 Окт | 14:25",
-      "url": "https://dsport.bg/cska-pokaza-elegantnata-si-vizia-za-evropeiskite-machove~242184.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot_5~161.og.jpg"
     }
   ]
 }
