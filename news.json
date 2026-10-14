@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-14T13:05:28.846437+00:00",
+  "updated": "2026-10-14T13:40:15.196922+00:00",
   "articles": [
+    {
+      "title": "Над 3,7 млн. евро за младежки център в Кърджали: Проверяват измами и завишени цени",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/nad-37-mln.-evro-za-mladezhki-centyr-v-kyrdzhali-proveriavat-izmami-i-zavisheni-ceni-2469100",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396011/991-ratio-kyrdzhali.jpg"
+    },
+    {
+      "title": "България и Германия обсъдиха разширяване на партньорството в отбраната, енергетиката и иновациите",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-germaniia-obsydiha-razshiriavane-na-partniorstvoto-v-otbranata-energetikata-i-inovaciite-2469099",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396010/991-ratio-velislava-petrova.jpg"
+    },
+    {
+      "title": "Отново в България: Екстрадираха Стоян Колев от Испания (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/otnovo-v-bylgariia-ekstradiraha-stoian-kolev-ot-ispaniia-video-2469096",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51357/51357425/991-ratio-influensyryt-stoian-kolev.jpg"
+    },
     {
       "title": "Украйна освободи 16 населени места в Донецка област",
       "url": "https://dariknews.bg/novini/sviat/ukrajna-osvobodi-16-naseleni-mesta-v-donecka-oblast-2469095",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51103/51103204/991-ratio-papa-lyv.jpg"
     },
     {
-      "title": "Проверяват морските води след инцидентите с кораби в Черно море",
-      "url": "https://dariknews.bg/regioni/varna/proveriavat-morskite-vodi-sled-incidentite-s-korabi-v-cherno-more-2469076",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51133/51133145/991-ratio-voda-more.jpg"
+      "title": "ЦСКА тренира без Гбамен преди Монако 14 Окт | 16:33",
+      "url": "https://dsport.bg/cska-trenira-bez-gbamen-predi-monako~242191.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039830.og.jpg"
     },
     {
-      "title": "Коя е Магдалена Лазарова - и.ф. главен прокурор на България",
-      "url": "https://dariknews.bg/novini/bylgariia/koia-e-magdalena-lazarova-i.f.-glaven-prokuror-na-bylgariia-2452841",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308693/991-ratio-magdalena-lazarova.jpg"
-    },
-    {
-      "title": "Тръмп публикува AI видео, в което опитомява тигъра, убил млад мъж във Великобритания",
-      "url": "https://dariknews.bg/novini/sviat/trymp-publikuva-ai-video-v-koeto-opitomiava-tigyra-ubil-mlad-myzh-vyv-velikobritaniia-2469075",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46750/46750029/991-ratio-tigyr.jpg"
+      "title": "Скандал в НЕК преди Левски! Фенове поискаха главата на Тадич, треньорът го защити 14 Окт | 16:15",
+      "url": "https://dsport.bg/skandal-v-nek-predi-levski-fenove-poiskaha-glavata-na-tadich-trenorat-go-zastiti~242190.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295279829.og.jpg"
     },
     {
       "title": "Капитанът на НЕК преди Левски: Енергията се завърна, надяваме се да празнуваме с феновете 14 Окт | 15:46",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/elizara-6-0-1-1.og.jpg"
-    },
-    {
-      "title": "Недялко Москов: Целта ни срещу ЦСКА е да излезем от мача със самочувствие и да покажем, че и във Втора лига има добри футболисти 14 Окт | 14:02",
-      "url": "https://dsport.bg/nedalko-moskov-celta-ni-srestu-cska-e-da-izlezem-ot-macha-sas-samochuvstvie-i-da-pokazem-che-i-vav-vtora-liga-ima-dobri-futbolisti~242181.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot_4~181.og.jpg"
-    },
-    {
-      "title": "Станка Златева: \"Меценатът\" отново иска да командва българската борба! Срещу нас се изправи \"коалицията на натурализациите\" 14 Окт | 13:54",
-      "url": "https://dsport.bg/stanka-zlateva-mecenatat-otnovo-iska-da-komandva-balgarskata-borba-srestu-nas-se-izpravi-koaliciata-na-naturalizaciite~242180.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/774437~1.og.jpg"
     }
   ]
 }
