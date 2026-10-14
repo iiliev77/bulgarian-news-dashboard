@@ -1,12 +1,54 @@
 {
-  "updated": "2026-10-14T10:24:54.347061+00:00",
+  "updated": "2026-10-14T10:57:44.893866+00:00",
   "articles": [
+    {
+      "title": "Коя е Магдалена Лазарова - и.ф. главен прокурор на България",
+      "url": "https://dariknews.bg/novini/bylgariia/koia-e-magdalena-lazarova-i.f.-glaven-prokuror-na-bylgariia-2452841",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308693/991-ratio-magdalena-lazarova.jpg"
+    },
+    {
+      "title": "Тръмп публикува AI видео, в което опитомява тигъра, убил млад мъж във Великобритания",
+      "url": "https://dariknews.bg/novini/sviat/trymp-publikuva-ai-video-v-koeto-opitomiava-tigyra-ubil-mlad-myzh-vyv-velikobritaniia-2469075",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46750/46750029/991-ratio-tigyr.jpg"
+    },
+    {
+      "title": "Варненец открадна пасти за зъби от магазин и използвал сила срещу служител",
+      "url": "https://dariknews.bg/regioni/varna/varnenec-otkradna-pasti-za-zybi-ot-magazin-i-izpolzval-sila-sreshtu-sluzhitel-2469073",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395931/991-ratio-pasta-za-zybi.jpg"
+    },
+    {
+      "title": "Задържаха сериен крадец в Пловдив: Задигал вещи от посетители на гробищен парк",
+      "url": "https://dariknews.bg/regioni/plovdiv/zadyrzhaha-serien-kradec-v-plovdiv-zadigal-veshti-ot-posetiteli-na-grobishten-park-2469074",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51352/51352113/991-ratio-kradec-krazhba.jpg"
+    },
+    {
+      "title": "Серия кражби край Бургас: Непълнолетен обирал домове, трима мъже задигнали над тон гориво",
+      "url": "https://dariknews.bg/regioni/burgas/seriia-krazhbi-kraj-burgas-nepylnoleten-obiral-domove-trima-myzhe-zadignali-nad-ton-gorivo-2469072",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272543/991-ratio-otvlichane-myzh-kradec.jpg"
+    },
     {
       "title": "21-годишен открадна мотор и се впусна в гонка с полицията в София",
       "url": "https://dariknews.bg/regioni/sofiia/21-godishen-otkradna-motor-i-se-vpusna-v-gonka-s-policiiata-v-sofiia-2469070",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50752/50752164/991-ratio-motor-skorost.jpg"
+    },
+    {
+      "title": "Международно издирване и дипломатическо напрежение: Какво следва за Ива Михайлова?",
+      "url": "https://dariknews.bg/novini/bylgariia/mezhdunarodno-izdirvane-i-diplomatichesko-naprezhenie-kakvo-sledva-za-iva-mihajlova-2469071",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51376/51376314/991-ratio-iva-mihajlova.jpg"
     },
     {
       "title": "На първо четене: Депутатите забраняват отглеждането на животни за добив на ценни кожи",
@@ -16,18 +58,18 @@
       "image": "https://m.netinfo.bg/media/images/44829/44829669/991-ratio-kozha-kosym.jpg"
     },
     {
-      "title": "Автобусите по седем линии на градския транспорт в Пловдив ще се движат до 23:30 ч.",
-      "url": "https://dariknews.bg/regioni/plovdiv/avtobusite-po-sedem-linii-na-gradskiia-transport-v-plovdiv-shte-se-dvizhat-do-2330-ch-2469067",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/31358/31358844/991-ratio-zadushnica-transport.jpg"
-    },
-    {
       "title": "Тежки обвинения срещу племенника на Доли Партън в съда",
       "url": "https://dariknews.bg/novini/sviat/tezhki-obvineniia-sreshtu-plemennika-na-doli-partyn-v-syda-2469068",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/49456/49456593/991-ratio-doli-partyn.jpg"
+    },
+    {
+      "title": "Автобусите по седем линии на градския транспорт в Пловдив ще се движат до 23:30 ч.",
+      "url": "https://dariknews.bg/regioni/plovdiv/avtobusite-po-sedem-linii-na-gradskiia-transport-v-plovdiv-shte-se-dvizhat-do-2330-ch-2469067",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/31358/31358844/991-ratio-zadushnica-transport.jpg"
     },
     {
       "title": "Радев за Бюджет 2027: Фокус върху семействата и децата, ръст на заплати и пенсии",
@@ -72,18 +114,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395888/991-ratio-silen-viatyr-kamion.jpg"
     },
     {
-      "title": "Евромастер откри нов логистичен център с 18 робота в Костинброд",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/evromaster-otkri-nov-logistichen-centyr-s-18-robota-v-kostinbrod-2468628",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393719/991-ratio-evromaster.jpg"
-    },
-    {
       "title": "Гривна за подарък: как да направим правилния избор?",
       "url": "https://dariknews.bg/novini/plateni-publikacii/grivna-za-podaryk-kak-da-napravim-pravilniia-izbor-2468991",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395638/991-ratio-helios.jpg"
+    },
+    {
+      "title": "Евромастер откри нов логистичен център с 18 робота в Костинброд",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/evromaster-otkri-nov-logistichen-centyr-s-18-robota-v-kostinbrod-2468628",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51393/51393719/991-ratio-evromaster.jpg"
     },
     {
       "title": "Кандидати за стаж в Yettel създадоха прототип на AI асистент",
@@ -100,46 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50881/50881407/991-ratio-samolet.jpg"
     },
     {
-      "title": "Мистерия в София: 91-годишна жена е в неизвестност от над два месеца (СНИМКА)",
-      "url": "https://dariknews.bg/regioni/sofiia/misteriia-v-sofiia-91-godishna-zhena-e-v-neizvestnost-ot-nad-dva-meseca-snimka-2469057",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395882/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Гафове и смях: Дебютът на новия прессекретар на Белия дом",
-      "url": "https://dariknews.bg/novini/sviat/gafove-i-smiah-debiutyt-na-noviia-pressekretar-na-beliia-dom-2469059",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395880/991-ratio-kejti-zahariia.jpg"
-    },
-    {
-      "title": "НСИ с нови данни за инфлацията: Какво се случва с цените?",
-      "url": "https://dariknews.bg/novini/bylgariia/nsi-s-novi-danni-za-inflaciiata-kakvo-se-sluchva-s-cenite-2469058",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51154/51154521/991-ratio-inflaciia.jpg"
-    },
-    {
-      "title": "Повдигнаха обвинения на майка и 14-годишния ѝ син за убийството в Димитровград",
-      "url": "https://dariknews.bg/regioni/haskovo/povdignaha-obvineniia-na-majka-i-14-godishniia-sin-za-ubijstvoto-v-dimitrovgrad-2469055",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/40034/40034067/991-ratio-temida-syd.jpg"
-    },
-    {
-      "title": "Нарколаборатория, марихуана и незаконно оръжие: Какво откри полицията край Червен бряг",
-      "url": "https://dariknews.bg/regioni/pleven/narkolaboratoriia-marihuana-i-nezakonno-oryzhie-kakvo-otkri-policiiata-kraj-cherven-briag-2469056",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51383/51383160/991-ratio-marihuana.jpg"
-    },
-    {
-      "title": "Телефони в ръка и без колани: 163 нарушения по пътищата в Пернишко за седмица",
-      "url": "https://dariknews.bg/regioni/pernik/telefoni-v-ryka-i-bez-kolani-163-narusheniia-po-pytishtata-v-pernishko-za-sedmica-2469054",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51045/51045911/991-ratio-shofior-s-telefon.jpg"
+      "title": "Айнтрахт е №1 в света по добавена стойност от трансфери, Манчестър Юнайтед е най-зле в Европа 14 Окт | 13:36",
+      "url": "https://dsport.bg/aintraht-e-1-v-sveta-po-dobavena-stoinost-ot-transferi-manchestar-unaited-e-nai-zle-v-evropa~242179.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/green-gold-football-transfer-market.og.png"
     },
     {
       "title": "Над 35 000 евро събраха феновете на Локомотив Пловдив за по-малко от 48 часа 14 Окт | 13:05",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/nec-nijmegen-vs-levski_-european-journey.og.png"
-    },
-    {
-      "title": "Левски тренира без Митков и Сангаре (ВИДЕО) 14 Окт | 11:10",
-      "url": "https://dsport.bg/levski-trenira-bez-mitkov-i-sangare~242167.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/934482~1.og.jpg"
     }
   ]
 }
