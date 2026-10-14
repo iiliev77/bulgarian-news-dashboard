@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-14T17:16:31.744752+00:00",
+  "updated": "2026-10-14T17:48:49.520270+00:00",
   "articles": [
+    {
+      "title": "Директорът на ФБР пристигна в Русия за среща",
+      "url": "https://dariknews.bg/novini/sviat/direktoryt-na-fbr-pristigna-v-rusiia-za-sreshta-2469118",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375644/991-ratio-fbr.jpg"
+    },
     {
       "title": "Йотова: България и Румъния искат извънредна точка за Черно море на срещата на върха на ЕС",
       "url": "https://dariknews.bg/novini/bylgariia/iotova-bylgariia-i-rumyniia-iskat-izvynredna-tochka-za-cherno-more-na-sreshtata-na-vyrha-na-es-2469117",
@@ -135,32 +142,46 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395982/991-ratio-cvetan-petrov.jpg"
     },
     {
-      "title": "Постоянен арест за обвиняемия, пробол с нож в сърцето мъж в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/postoianen-arest-za-obviniaemiia-probol-s-nozh-v-syrceto-myzh-v-stara-zagora-2469092",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395972/991-ratio-i-j-ubijstvo-stara-zagora.jpg"
-    },
-    {
-      "title": "Хулио Веласкес: Нашият стил на игра няма да се промени нито срещу НЕК, нито срещу Ювентус, нито срещу Реал Мадрид 14 Окт | 20:13",
-      "url": "https://dsport.bg/hulio-velaskes-nashiat-stil-na-igra-nama-da-se-promeni-nito-srestu-nek-nito-srestu-uventus-nito-srestu-real-madrid~242206.html",
+      "title": "Вандерсон: Ще положим всички усилия, за да победим ЦСКА 14 Окт | 20:36",
+      "url": "https://dsport.bg/vanderson-ste-polozim-vsichki-usilia-za-da-pobedim-cska~242210.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1039984.og.jpg"
+      "image": "https://dsport.bg/media/385/1039896.og.jpg"
     },
     {
-      "title": "На живо: Ливърпул вкара два бързи гола на ЛАСК 14 Окт | 20:07",
+      "title": "На живо: Ливърпул води убедително на ЛАСК 14 Окт | 20:35",
       "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300198294.og.jpg"
     },
     {
-      "title": "На живо: Ботев Пловдив води срещу Ботев Враца, преди това изпусна дузпа 14 Окт | 20:05",
+      "title": "На живо: Ботев Пловдив удвои срещу Ботев Враца 14 Окт | 20:30",
       "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/848481897_1461088689252233_5990691704581601098_n.og.jfif"
+      "image": "https://dsport.bg/media/385/843885295_946034588190269_6986728202062516093_n.og.jfif"
+    },
+    {
+      "title": "Винисиус изгърмя за Ел Класико след скубането 14 Окт | 20:26",
+      "url": "https://dsport.bg/vinisius-izgarma-za-el-klasiko-sled-skubaneto~242209.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299571242~1.og.jpg"
+    },
+    {
+      "title": "Кристиан Макун: Искам да бъда пример за моите съотборници (ВИДЕО) 14 Окт | 20:19",
+      "url": "https://dsport.bg/kristian-makun-iskam-da-bada-primer-za-moite-saotbornici-video~242208.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039986.og.jpg"
+    },
+    {
+      "title": "Хулио Веласкес: Нашият стил на игра няма да се промени нито срещу НЕК, нито срещу Ювентус, нито срещу Реал Мадрид (ВИДЕО) 14 Окт | 20:13",
+      "url": "https://dsport.bg/hulio-velaskes-nashiat-stil-na-igra-nama-da-se-promeni-nito-srestu-nek-nito-srestu-uventus-nito-srestu-real-madrid-video~242206.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039984.og.jpg"
     },
     {
       "title": "Филипе Луис: ЦСКА е силен отбор, със силни играчи, но за нас е много важно да започнем с победа (ВИДЕО) 14 Окт | 19:40",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/riyad.og.jpg"
-    },
-    {
-      "title": "Хаос на \"Олд Трафорд\": Лисандро Мартинес атакува ръководството, Диало се присъедини към бунта 14 Окт | 18:40",
-      "url": "https://dsport.bg/haos-na-old-traford-lisandro-martines-atakuva-rakovodstvoto-dialo-se-prisaedini-kam-bunta~242200.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2290294045.og.jpg"
-    },
-    {
-      "title": "Струваше €60 млн., беше отписан, а сега преоткри щастието... в резервите 14 Окт | 18:33",
-      "url": "https://dsport.bg/struvashe-60-mln-beshe-otpisan-a-sega-preotkri-stastieto-v-rezervite~242198.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2288573885~1.og.jpg"
-    },
-    {
-      "title": "Левски кацна в Германия, сменя транспорта към Нидерландия 14 Окт | 18:31",
-      "url": "https://dsport.bg/levski-kacna-v-germania-smena-transporta-kam-niderlandia~242199.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/viber_image_2026-10-14_18-24-25-495.og.jpg"
     }
   ]
 }
