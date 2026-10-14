@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-14T15:09:14.987029+00:00",
+  "updated": "2026-10-14T15:44:10.229552+00:00",
   "articles": [
+    {
+      "title": "Русия очаква до дни да подпише първите договори за износ на дизел след разговорите Путин-Тръмп",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-ochakva-do-dni-da-podpishe-pyrvite-dogovori-za-iznos-na-dizel-sled-razgovorite-putin-trymp-2469116",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51394/51394073/991-ratio-vladimir-putin-i-donald-trymp.jpg"
+    },
+    {
+      "title": "Нетаняху: Не смятам да атакувам Иран преди изборите в Израел",
+      "url": "https://dariknews.bg/novini/sviat/netaniahu-ne-smiatam-da-atakuvam-iran-predi-izborite-v-izrael-2469115",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51350/51350748/991-ratio-beniamin-netaniahu.jpg"
+    },
+    {
+      "title": "Обвиниха 45-годишен мъж за жестоко убийство на свой съсед в Русенско",
+      "url": "https://dariknews.bg/regioni/ruse/obviniha-45-godishen-myzh-za-zhestoko-ubijstvo-na-svoj-sysed-v-rusensko-2469114",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50997/50997945/991-ratio-zatvor.jpg"
+    },
     {
       "title": "Приети са нови правила за определяне на минималната заплата",
       "url": "https://dariknews.bg/novini/bylgariia/prieti-sa-novi-pravila-za-opredeliane-na-minimalnata-zaplata-2469112",
@@ -121,25 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51306/51306329/991-ratio-tovaren-korab-plava-v-persijskiia-zaliv-kym-ormuzkiia-protok-vyv.jpg"
     },
     {
-      "title": "Столичната община спечели окончателно делото за чистотата в три района на София",
-      "url": "https://dariknews.bg/regioni/sofiia/stolichnata-obshtina-specheli-okonchatelno-deloto-za-chistotata-v-tri-rajona-na-sofiia-2469091",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51346/51346404/991-ratio-bokluk-sofiia.jpg"
+      "title": "Струваше €60 млн., беше отписан, а сега преоткри щастието... в резервите 14 Окт | 18:33",
+      "url": "https://dsport.bg/struvashe-60-mln-beshe-otpisan-a-sega-preotkri-stastieto-v-rezervite~242198.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2288573885~1.og.jpg"
     },
     {
-      "title": "Излязъл от затвора преди два месеца: Задържаха мъж, извършил 58 престъпления",
-      "url": "https://dariknews.bg/regioni/varna/izliazyl-ot-zatvora-predi-dva-meseca-zadyrzhaha-myzh-izvyrshil-58-prestypleniia-2469089",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Левски кацна в Германия, сменя транспорта към Нидерландия 14 Окт | 18:31",
+      "url": "https://dsport.bg/levski-kacna-v-germania-smena-transporta-kam-niderlandia~242199.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/viber_image_2026-10-14_18-24-25-495.og.jpg"
     },
     {
-      "title": "МВР: Северна Македония е поискала от България арест и екстрадиция на Ива Михайлова",
-      "url": "https://dariknews.bg/novini/bylgariia/mvr-severna-makedoniia-e-poiskala-ot-bylgariia-arest-i-ekstradiciia-na-iva-mihajlova-2469090",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395005/991-ratio-iva-mihajlova.jpg"
+      "title": "Атаки в Саудитска Арабия: отложиха мачовете на Кристиано Роналдо, звезди бягат от страната 14 Окт | 18:23",
+      "url": "https://dsport.bg/ataki-v-sauditska-arabia-otloziha-machovete-na-kristiano-ronaldo-zvezdi-bagat-ot-stranata~242197.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2298823923.og.jpg"
+    },
+    {
+      "title": "„Червен компас“: ЦСКА чака един от фаворитите в Лига на конференциите 14 Окт | 18:22",
+      "url": "https://dsport.bg/cherven-kompas-cska-chaka-edin-ot-favoritite-v-liga-na-konferenciite~242196.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/0905bc36-0bb0-4568-9ce0-f981eeecb257-1-.og.jpg"
     },
     {
       "title": "На живо: Ботев Пловдив и Ботев Враца откриват Bethub ProCup (Състави) 14 Окт | 17:45",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2295279829.og.jpg"
-    },
-    {
-      "title": "Капитанът на НЕК преди Левски: Енергията се завърна, надяваме се да празнуваме с феновете 14 Окт | 15:46",
-      "url": "https://dsport.bg/kapitanat-na-nek-predi-levski-energiata-se-zavarna-nadavame-se-da-praznuvame-s-fenovete~242189.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2272116278.og.jpg"
-    },
-    {
-      "title": "Треньорът на НЕК предупреди за Левски: Силен и зрял отбор с много добри южноамериканци 14 Окт | 15:35",
-      "url": "https://dsport.bg/trenorat-na-nek-predupredi-za-levski-silen-i-zral-otbor-s-mnogo-dobri-uznoamerikanci~242188.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295160524.og.jpg"
-    },
-    {
-      "title": "Никола Попов свири на ЦСКА край морето, Тренчев при Левски в Ловеч 14 Окт | 15:22",
-      "url": "https://dsport.bg/nikola-popov-sviri-na-cska-krai-moreto-trenchev-pri-levski-v-lovech~242187.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1016558.og.jpg"
-    },
-    {
-      "title": "Серафимов и Сула подсилиха Левски за НЕК Ниймеген 14 Окт | 15:07",
-      "url": "https://dsport.bg/serafimov-i-sula-podsiliha-levski-za-nek-niimegen~242186.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/viber_image_2026-10-14_14-58-54-698.og.jpg"
     }
   ]
 }
