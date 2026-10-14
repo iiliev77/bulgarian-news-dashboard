@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-14T10:57:44.893866+00:00",
+  "updated": "2026-10-14T11:23:40.851989+00:00",
   "articles": [
+    {
+      "title": "Откриха античен некропол със 135 гроба в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/otkriha-antichen-nekropol-sys-135-groba-v-stara-zagora-2469078",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395946/991-ratio-novi-otkritiia-pri-spasitelni-arheologicheski-prouchvaniia-na-rim-stara-zagora.jpg"
+    },
+    {
+      "title": "Кой e начело на Светия престол, когато папата не е в състояние да изпълнява задълженията си",
+      "url": "https://dariknews.bg/novini/sviat/koj-e-nachelo-na-svetiia-prestol-kogato-papata-ne-e-v-systoianie-da-izpylniava-zadylzheniiata-si-2469077",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51103/51103204/991-ratio-papa-lyv.jpg"
+    },
+    {
+      "title": "Проверяват морските води след инцидентите с кораби в Черно море",
+      "url": "https://dariknews.bg/regioni/varna/proveriavat-morskite-vodi-sled-incidentite-s-korabi-v-cherno-more-2469076",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51133/51133145/991-ratio-voda-more.jpg"
+    },
     {
       "title": "Коя е Магдалена Лазарова - и.ф. главен прокурор на България",
       "url": "https://dariknews.bg/novini/bylgariia/koia-e-magdalena-lazarova-i.f.-glaven-prokuror-na-bylgariia-2452841",
@@ -121,25 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395638/991-ratio-helios.jpg"
     },
     {
-      "title": "Евромастер откри нов логистичен център с 18 робота в Костинброд",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/evromaster-otkri-nov-logistichen-centyr-s-18-robota-v-kostinbrod-2468628",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393719/991-ratio-evromaster.jpg"
+      "title": "Виляреал остана с деветима за минута заради ново правило срещу бавенето 14 Окт | 14:12",
+      "url": "https://dsport.bg/vilareal-ostana-s-devetima-za-minuta-zaradi-novo-pravilo-srestu-baveneto-video~242183.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300150839.og.jpg"
     },
     {
-      "title": "Кандидати за стаж в Yettel създадоха прототип на AI асистент",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/kandidati-za-stazh-v-yettel-syzdadoha-prototip-na-ai-asistent-2468983",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395623/991-ratio-yettel.jpg"
+      "title": "Елизара Янева продължава силното представяне в Майорка и е на четвъртфинал 14 Окт | 14:07",
+      "url": "https://dsport.bg/elizara-aneva-prodalzava-silnoto-predstavane-v-maiorka-i-e-na-chetvartfinal~242182.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/elizara-6-0-1-1.og.jpg"
     },
     {
-      "title": "Военният министър е разрешил преминаване на самолет през българското небе и пребиваване на съюзнически сили",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-e-razreshil-preminavane-na-samolet-prez-bylgarskoto-nebe-i-prebivavane-na-syiuznicheski-sili-2469060",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50881/50881407/991-ratio-samolet.jpg"
+      "title": "Недялко Москов: Целта ни срещу ЦСКА е да излезем от мача със самочувствие и да покажем, че и във Втора лига има добри футболисти 14 Окт | 14:02",
+      "url": "https://dsport.bg/nedalko-moskov-celta-ni-srestu-cska-e-da-izlezem-ot-macha-sas-samochuvstvie-i-da-pokazem-che-i-vav-vtora-liga-ima-dobri-futbolisti~242181.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot_4~181.og.jpg"
+    },
+    {
+      "title": "Станка Златева: \"Меценатът\" отново иска да командва българската борба! Срещу нас се изправи \"коалицията на натурализациите\" 14 Окт | 13:54",
+      "url": "https://dsport.bg/stanka-zlateva-mecenatat-otnovo-iska-da-komandva-balgarskata-borba-srestu-nas-se-izpravi-koaliciata-na-naturalizaciite~242180.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/774437~1.og.jpg"
     },
     {
       "title": "Айнтрахт е №1 в света по добавена стойност от трансфери, Манчестър Юнайтед е най-зле в Европа 14 Окт | 13:36",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039756.og.jpg"
-    },
-    {
-      "title": "Напрежение между Де Бройне и Алегри след загубата на Наполи във Виляреал 14 Окт | 11:57",
-      "url": "https://dsport.bg/naprezenie-mezdu-de-broine-i-alegri-sled-zagubata-na-napoli-vav-vilareal~242174.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2293654148.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив обяви програмата за мача срещу Ботев Враца 14 Окт | 11:45",
-      "url": "https://dsport.bg/botev-plovdiv-obavi-programata-za-macha-srestu-botev-vraca~242172.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/611844-1-1~1.og.jpg"
-    },
-    {
-      "title": "Хари Кейн порица Олисе след червения картон: Голяма грешка, заслужен картон 14 Окт | 11:32",
-      "url": "https://dsport.bg/hari-kein-porica-olise-sled-chervenia-karton-golama-greshka~242170.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300046869.og.jpg"
-    },
-    {
-      "title": "„Син“ компас: Между риска и наградата - Левски атакува първи точки в Лига Европа (ВИДЕО) 14 Окт | 11:25",
-      "url": "https://dsport.bg/sin-kompas-mezdu-riska-i-nagradata-levski-atakuva-parvi-tochki-v-liga-evropa-video~242168.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/nec-nijmegen-vs-levski_-european-journey.og.png"
     }
   ]
 }
