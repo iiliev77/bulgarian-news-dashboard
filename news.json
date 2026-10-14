@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:15:24.565076+00:00",
+  "updated": "2026-10-14T16:50:09.973137+00:00",
   "articles": [
     {
       "title": "Йотова: България и Румъния искат извънредна точка за Черно море на срещата на върха на ЕС",
@@ -142,6 +142,34 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395972/991-ratio-i-j-ubijstvo-stara-zagora.jpg"
     },
     {
+      "title": "На живо: ЛАСК - Ливърпул 14 Окт | 19:45",
+      "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/finali-ekt-35-.og.png"
+    },
+    {
+      "title": "Филипе Луис: ЦСКА е силен отбор, със силни играчи, но за нас е много важно да започнем с победа (ВИДЕО) 14 Окт | 19:40",
+      "url": "https://dsport.bg/filipe-luis-cska-e-silen-otbor-sas-silni-igrachi-no-za-nas-e-mnogo-vazno-da-zapochnem-s-pobeda-video~242205.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039905.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив поведе срещу Ботев Враца, след като изпусна дузпа 14 Окт | 19:40",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/848481897_1461088689252233_5990691704581601098_n.og.jfif"
+    },
+    {
+      "title": "Как приключи закачката между Ламин Ямал и Марио Лемина? (ВИДЕО) 14 Окт | 19:10",
+      "url": "https://dsport.bg/kak-prikluchi-zakachkata-mezdu-lamin-amal-i-mario-lemina-video~242204.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300059349.og.jpg"
+    },
+    {
       "title": "ЦСКА обяви, че е направил последната крачка за стадион Българска армия 14 Окт | 19:02",
       "url": "https://dsport.bg/cska-obavi-che-e-napravil-poslednata-krachka-za-stadion-balgarska-armia~242203.html",
       "source": "Dsport",
@@ -149,25 +177,11 @@
       "image": "https://dsport.bg/media/385/cska_keryazov.og.jpg"
     },
     {
-      "title": "На живо: Ботев Пловдив и Ботев Враца откриват Bethub ProCup 14 Окт | 19:02",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-2026-10-14t174133.597.og.png"
-    },
-    {
       "title": "Рияд Марез с изненадващ трансфер 14 Окт | 18:51",
       "url": "https://dsport.bg/riad-marez-s-iznenadvast-transfer~242202.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/riyad.og.jpg"
-    },
-    {
-      "title": "На живо: ЛАСК - Ливърпул (Състави) 14 Окт | 18:45",
-      "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-35-.og.png"
     },
     {
       "title": "Хаос на \"Олд Трафорд\": Лисандро Мартинес атакува ръководството, Диало се присъедини към бунта 14 Окт | 18:40",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2298823923.og.jpg"
-    },
-    {
-      "title": "„Червен компас“: ЦСКА чака един от фаворитите в Лига на конференциите 14 Окт | 18:22",
-      "url": "https://dsport.bg/cherven-kompas-cska-chaka-edin-ot-favoritite-v-liga-na-konferenciite~242196.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/0905bc36-0bb0-4568-9ce0-f981eeecb257-1-.og.jpg"
-    },
-    {
-      "title": "Футболист на Лудогорец влезе във финансов спор за неизплатени заплати 14 Окт | 17:29",
-      "url": "https://dsport.bg/futbolist-na-ludogorec-vleze-vav-finansov-spor-za-neizplateni-zaplati~242194.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1014961.og.jpg"
     }
   ]
 }
