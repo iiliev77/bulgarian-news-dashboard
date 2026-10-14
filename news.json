@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:16:18.033098+00:00",
+  "updated": "2026-10-14T21:47:31.523457+00:00",
   "articles": [
     {
       "title": "Дронове поразиха танкер в Черно море край Румъния",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
     },
     {
+      "title": "Грандиозен обрат за втората победа на Бетис в Шампионска лига 15 Окт | 00:10",
+      "url": "https://dsport.bg/grandiozen-obrat-za-vtorata-pobeda-na-betis-v-shampionska-liga~242232.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300233406.og.jpg"
+    },
+    {
       "title": "Астън Вила унищожи Фенербахче (ВИДЕО) 15 Окт | 00:06",
       "url": "https://dsport.bg/astan-vila-unistozi-fenerbahche~242231.html",
       "source": "Dsport",
@@ -156,18 +163,18 @@
       "image": "https://dsport.bg/media/385/bodoglimt_1.og.jpg"
     },
     {
-      "title": "Рома се провали с гръм и трясък срещу Реал Мадрид в седемголов трилър 14 Окт | 23:55",
-      "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300233810.og.jpg"
-    },
-    {
-      "title": "ПСЖ си тръгна с трите точки от „Етихад“ след спиращ дъха мач 14 Окт | 23:38",
+      "title": "ПСЖ си тръгна с трите точки от „Етихад“ след спиращ дъха мач 14 Окт | 23:56",
       "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300220587.og.jpg"
+    },
+    {
+      "title": "Рома се провали с гръм и трясък срещу Реал Мадрид в седемголов трилър (ВИДЕО) 14 Окт | 23:55",
+      "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300233810.og.jpg"
     },
     {
       "title": "Божидар Саръбоюков беше избран за Атлет номер 1 на Балканите 14 Окт | 23:20",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300042442~1.og.jpg"
-    },
-    {
-      "title": "Даниил Медведев се класира за четвъртфиналите в Шанхай 14 Окт | 22:07",
-      "url": "https://dsport.bg/daniil-medvedev-se-klasira-za-chetvartfinalite-v-shanhai~242224.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300158741.og.jpg"
     }
   ]
 }
