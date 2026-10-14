@@ -1,8 +1,43 @@
 {
-  "updated": "2026-10-14T09:57:55.391052+00:00",
+  "updated": "2026-10-14T10:24:54.347061+00:00",
   "articles": [
     {
-      "title": "Един от Вулканите се отправя към Блатото на “Игри на волята” тази вечер",
+      "title": "21-годишен открадна мотор и се впусна в гонка с полицията в София",
+      "url": "https://dariknews.bg/regioni/sofiia/21-godishen-otkradna-motor-i-se-vpusna-v-gonka-s-policiiata-v-sofiia-2469070",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50752/50752164/991-ratio-motor-skorost.jpg"
+    },
+    {
+      "title": "На първо четене: Депутатите забраняват отглеждането на животни за добив на ценни кожи",
+      "url": "https://dariknews.bg/novini/bylgariia/na-pyrvo-chetene-deputatite-zabraniavat-otglezhdaneto-na-zhivotni-za-dobiv-na-cenni-kozhi-2469069",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44829/44829669/991-ratio-kozha-kosym.jpg"
+    },
+    {
+      "title": "Автобусите по седем линии на градския транспорт в Пловдив ще се движат до 23:30 ч.",
+      "url": "https://dariknews.bg/regioni/plovdiv/avtobusite-po-sedem-linii-na-gradskiia-transport-v-plovdiv-shte-se-dvizhat-do-2330-ch-2469067",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/31358/31358844/991-ratio-zadushnica-transport.jpg"
+    },
+    {
+      "title": "Тежки обвинения срещу племенника на Доли Партън в съда",
+      "url": "https://dariknews.bg/novini/sviat/tezhki-obvineniia-sreshtu-plemennika-na-doli-partyn-v-syda-2469068",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49456/49456593/991-ratio-doli-partyn.jpg"
+    },
+    {
+      "title": "Радев за Бюджет 2027: Фокус върху семействата и децата, ръст на заплати и пенсии",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-za-biudzhet-2027-fokus-vyrhu-semejstvata-i-decata-ryst-na-zaplati-i-pensii-2469066",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338585/991-ratio-ms-ministerski-syvet-rumen-radev.jpg"
+    },
+    {
+      "title": "Един от Вулканите се отправя към Блатото на „Игри на волята“ тази вечер",
       "url": "https://dariknews.bg/novini/liubopitno/edin-ot-vulkanite-se-otpravia-kym-blatoto-na-igri-na-voliata-tazi-vecher-2469064",
       "source": "DarikNews",
       "section": "news",
@@ -14,6 +49,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50879/50879872/991-ratio-monblan.jpg"
+    },
+    {
+      "title": "България и Словакия подготвят меморандум за разбирателство в областта на енергетиката",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-slovakiia-podgotviat-memorandum-za-razbiratelstvo-v-oblastta-na-energetikata-2469065",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395910/991-ratio-ministyra-na-energetikata-na-bylgariia-iva-petrova-i-denisa-sakova.jpg"
     },
     {
       "title": "За по-малко от 38 лева: Мъж влиза в затвора за побой и заплахи с нож в село Бутан",
@@ -100,46 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51045/51045911/991-ratio-shofior-s-telefon.jpg"
     },
     {
-      "title": "„Всичко е на тъмно, готвят се милиарди харчове“: Пеевски с тежки обвинения към управляващите",
-      "url": "https://dariknews.bg/novini/bylgariia/vsichko-e-na-tymno-gotviat-se-miliardi-harchove-peevski-s-tezhki-obvineniia-kym-upravliavashtite-2469053",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395866/991-ratio-delian-peevski.jpg"
+      "title": "Над 35 000 евро събраха феновете на Локомотив Пловдив за по-малко от 48 часа 14 Окт | 13:05",
+      "url": "https://dsport.bg/nad-35-000-evro-sabraha-fenovete-na-lokomotiv-plovdiv-za-po-malko-ot-48-chasa~242178.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/527354~2.og.jpg"
     },
     {
-      "title": "Изворът на дълголетието: Българска бактерия от Стара планина пази ума и тялото ни (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/liubopitno/izvoryt-na-dylgoletieto-bylgarska-bakteriia-ot-stara-planina-pazi-uma-i-tialoto-ni-video-2469051",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395848/991-ratio-nova.jpg"
-    },
-    {
-      "title": "До 36 литра дъжд на квадратен метър: Къде валя най-много през последното денонощие",
-      "url": "https://dariknews.bg/novini/bylgariia/do-36-litra-dyzhd-na-kvadraten-metyr-kyde-valia-naj-mnogo-prez-poslednoto-denonoshtie-2469052",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51288/51288094/991-ratio-proleten-dyzhd.jpg"
-    },
-    {
-      "title": "Корабът „ABLE“ напусна българската изключителна икономическа зона",
-      "url": "https://dariknews.bg/novini/bylgariia/korabyt-able-napusna-bylgarskata-izkliuchitelna-ikonomicheska-zona-2469050",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395864/991-ratio-korab-able.jpg"
-    },
-    {
-      "title": "Без да я познава: Мъж удари жена с юмрук в главата в Дупница",
-      "url": "https://dariknews.bg/regioni/kiustendil/bez-da-ia-poznava-myzh-udari-zhena-s-iumruk-v-glavata-v-dupnica-2469049",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
-    },
-    {
-      "title": "Подновиха издирването на моряци от поразения кораб „HS Dignity“ в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/podnoviha-izdirvaneto-na-moriaci-ot-porazeniia-korab-hs-dignity-v-cherno-more-2469047",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "От шампионската титла в Англия до строителството: новият живот на Дани Дринкуотър 14 Окт | 12:55",
+      "url": "https://dsport.bg/ot-shampionskata-titla-v-anglia-do-stroitelstvoto-noviat-zivot-na-dani-drinkuotar~242177.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-528985680.og.jpg"
     },
     {
       "title": "Байерн Мюнхен с интерес към Кристиян Балов преди трансфера му в Звезда (ВИДЕО) 14 Окт | 12:41",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/934482~1.og.jpg"
-    },
-    {
-      "title": "От отпадането от Левски до победа в Шампионската лига: приказката на Сабах и Валдас Дамбраускас 14 Окт | 10:39",
-      "url": "https://dsport.bg/ot-otpadaneto-ot-levski-do-pobeda-v-shampionskata-liga-prikazkata-na-sabah-i-valdas-dambrauskas~242166.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/827571.og.jpg"
-    },
-    {
-      "title": "ФИФА подготвя фонд от 5,5 млрд. евро за развитие на футбола по света 14 Окт | 10:32",
-      "url": "https://dsport.bg/fifa-podgotva-fond-ot-5-5-mlrd-evro-za-razvitie-na-futbola-po-sveta~242165.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-614272216-1-1-1-1~1.og.jpg"
     }
   ]
 }
