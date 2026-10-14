@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-14T18:15:40.634166+00:00",
+  "updated": "2026-10-14T18:56:30.788581+00:00",
   "articles": [
     {
-      "title": "Директорът на ФБР пристигна в Русия за среща",
-      "url": "https://dariknews.bg/novini/sviat/direktoryt-na-fbr-pristigna-v-rusiia-za-sreshta-2469118",
+      "title": "Русия твърди, че Украйна е атакувала две нейни рафинерии, Киев отрича",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-tvyrdi-che-ukrajna-e-atakuvala-dve-nejni-rafinerii-kiev-otricha-2469120",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51364/51364733/991-ratio-kiev-napadenie.jpg"
+    },
+    {
+      "title": "Медицински хеликоптер транспортира бременна жена в тежко състояние от Пазарджик до София",
+      "url": "https://dariknews.bg/novini/medicinski-helikopter-transportira-bremenna-zhena-v-tezhko-systoianie-ot-pazardzhik-do-sofiia-2469119",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51330/51330356/991-ratio-medicinski-helikopter.jpg"
+    },
+    {
+      "title": "Обрат: ФБР отрече Каш Пател да е заминал за Русия, показа го видео от Вирджиния",
+      "url": "https://dariknews.bg/novini/sviat/obrat-fbr-otreche-kash-patel-da-e-zaminal-za-rusiia-pokaza-go-video-ot-virdzhiniia-2469118",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51375/51375644/991-ratio-fbr.jpg"
@@ -128,18 +142,46 @@
       "image": "https://m.netinfo.bg/media/images/51357/51357425/991-ratio-influensyryt-stoian-kolev.jpg"
     },
     {
-      "title": "Украйна освободи 16 населени места в Донецка област",
-      "url": "https://dariknews.bg/novini/sviat/ukrajna-osvobodi-16-naseleni-mesta-v-donecka-oblast-2469095",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51191/51191495/991-ratio-ukrajna-ataka.jpg"
+      "title": "Приказката за Комо в Шампионска лига свърши много бързо 14 Окт | 21:46",
+      "url": "https://dsport.bg/prikazkata-za-komo-v-shampionska-liga-svarshi-mnogo-barzo~242221.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300201267.og.jpg"
     },
     {
-      "title": "Отложиха делото срещу кмета на Лом, обвинен в купуване на гласове",
-      "url": "https://dariknews.bg/regioni/montana/otlozhiha-deloto-sreshtu-kmeta-na-lom-obvinen-v-kupuvane-na-glasove-2469094",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395982/991-ratio-cvetan-petrov.jpg"
+      "title": "Даниел Наумов с голямо постижение 14 Окт | 21:35",
+      "url": "https://dsport.bg/daniel-naumov-s-golamo-postizenie~242220.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1010183.og.jpg"
+    },
+    {
+      "title": "Ливърпул спечели надстрелването с ЛАСК, Баркола с хеттрик 14 Окт | 21:35",
+      "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300201044.og.jpg"
+    },
+    {
+      "title": "Война в Близкия изток: Формула 1, Формула 2, МотоGP и Рали Дакар пред отмяна? 14 Окт | 21:25",
+      "url": "https://dsport.bg/voina-v-blizkia-iztok-formula-1-formula-2-motogp-i-rali-dakar-pred-otmana~242219.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-993047196.og.jpg"
+    },
+    {
+      "title": "Симов за Bethub ProCup: Надявам се тази инициатива да докара повече зрители на стадиона 14 Окт | 21:19",
+      "url": "https://dsport.bg/simov-za-bethub-procup-nadavam-se-tazi-iniciativa-da-dokara-poveche-zriteli-na-stadiona~242218.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/973531-1-.og.jpg"
+    },
+    {
+      "title": "Арина Сабаленка отпадна във втория кръг в Ухан 14 Окт | 21:15",
+      "url": "https://dsport.bg/arina-sabalenka-otpadna-vav-vtoria-krag-v-uhan~242217.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300176367.og.jpg"
     },
     {
       "title": "Стефка Костадинова: 160-те хиляди лева не липсват, документите ще бъдат предадени на БОК в най-скоро време 14 Окт | 21:13",
@@ -168,48 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/992463~2.og.jpg"
-    },
-    {
-      "title": "На живо: Ливърпул води убедително на ЛАСК 14 Окт | 21:00",
-      "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300198294.og.jpg"
-    },
-    {
-      "title": "На живо: Рома – Реал Мадрид, Винисиус е титуляр (Състави) 14 Окт | 20:56",
-      "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/champs12.og.png"
-    },
-    {
-      "title": "На живо: Манчестър Сити - ПСЖ (Състави) 14 Окт | 20:54",
-      "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-36-.og.png"
-    },
-    {
-      "title": "Пловдивският Ботев не се затрудни с врачанския и е първият полуфиналист в Bethub ProCup 14 Окт | 20:54",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/843885295_946034588190269_6986728202062516093_n.og.jfif"
-    },
-    {
-      "title": "Вандерсон: Ще положим всички усилия, за да победим ЦСКА 14 Окт | 20:36",
-      "url": "https://dsport.bg/vanderson-ste-polozim-vsichki-usilia-za-da-pobedim-cska~242210.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039896.og.jpg"
-    },
-    {
-      "title": "Винисиус изгърмя за Ел Класико след скубането 14 Окт | 20:26",
-      "url": "https://dsport.bg/vinisius-izgarma-za-el-klasiko-sled-skubaneto~242209.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299571242~1.og.jpg"
     }
   ]
 }
