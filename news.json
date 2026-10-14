@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:26:11.321132+00:00",
+  "updated": "2026-10-14T19:58:01.819479+00:00",
   "articles": [
     {
       "title": "Анди Бърнам: Подкрепата на Великобритания за Украйна няма да се промени",
@@ -142,11 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396010/991-ratio-velislava-petrova.jpg"
     },
     {
-      "title": "На живо: Рома поведе срещу Реал Мадрид 14 Окт | 22:25",
+      "title": "На живо: ПСЖ води убедително на Манчестър Сити 14 Окт | 22:50",
+      "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300220587.og.jpg"
+    },
+    {
+      "title": "На живо: Реал Мадрид изравни на Рома 14 Окт | 22:49",
       "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300218934.og.jpg"
+      "image": "https://dsport.bg/media/385/gettyimages-2300221389.og.jpg"
+    },
+    {
+      "title": "Рилски спортист допусна втора поредна загуба в турнира ФИБА Къп 14 Окт | 22:40",
+      "url": "https://dsport.bg/rilski-sportist-dopusna-vtora-poredna-zaguba-v-turnira-fiba-kap~242227.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/555554072_1278263244311420_8751134206606561537_n-1.og.jpg"
+    },
+    {
+      "title": "Апоел Тел Авив постигна убедителен успех срещу Бешикташ в София 14 Окт | 22:25",
+      "url": "https://dsport.bg/apoel-tel-aviv-postigna-ubeditelen-uspeh-srestu-beshiktash-v-sofia~242226.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299623617.og.jpg"
     },
     {
       "title": "Рафаел Леао с огромно признание за Ламин Ямал: Надявам се да спечели Златната топка 14 Окт | 22:10",
@@ -161,13 +182,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300158741.og.jpg"
-    },
-    {
-      "title": "На живо: ПСЖ вкара два бързи гола на Манчестър Сити 14 Окт | 22:00",
-      "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300217769.og.jpg"
     },
     {
       "title": "Моуриньо изригна: Защо наказаха Винисиус часове преди ключов мач? 14 Окт | 21:54",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300201044.og.jpg"
-    },
-    {
-      "title": "Война в Близкия изток: Формула 1, Формула 2, МотоGP и Рали Дакар пред отмяна? 14 Окт | 21:25",
-      "url": "https://dsport.bg/voina-v-blizkia-iztok-formula-1-formula-2-motogp-i-rali-dakar-pred-otmana~242219.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-993047196.og.jpg"
-    },
-    {
-      "title": "Симов за Bethub ProCup: Надявам се тази инициатива да докара повече зрители на стадиона 14 Окт | 21:19",
-      "url": "https://dsport.bg/simov-za-bethub-procup-nadavam-se-tazi-iniciativa-da-dokara-poveche-zriteli-na-stadiona~242218.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/973531-1-.og.jpg"
     }
   ]
 }
