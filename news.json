@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-14T05:05:44.162803+00:00",
+  "updated": "2026-10-14T05:34:14.620297+00:00",
   "articles": [
+    {
+      "title": "Нов граничен пункт с Турция влиза в дневния ред на Министерския съвет",
+      "url": "https://dariknews.bg/novini/bylgariia/nov-granichen-punkt-s-turciia-vliza-v-dnevniia-red-na-ministerskiia-syvet-2469014",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51249/51249335/991-ratio-ministerski-syvet.jpg"
+    },
+    {
+      "title": "Руски ракетен удар по Киев уби двама души, Зеленски обвини съюзниците в липса на предупреждение",
+      "url": "https://dariknews.bg/novini/sviat/ruski-raketen-udar-po-kiev-ubi-dvama-dushi-zelenski-obvini-syiuznicite-v-lipsa-na-preduprezhdenie-2469013",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395746/991-ratio-kiev-ataka-pozhar.jpg"
+    },
     {
       "title": "ВСС обсъжда избора на нов и.ф. главен прокурор",
       "url": "https://dariknews.bg/novini/bylgariia/vss-obsyzhda-izbora-na-nov-i.f.-glaven-prokuror-2469012",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50854/50854155/991-ratio-gaz.jpg"
     },
     {
-      "title": "Северна Македония издаде международна заповед за арест на Ива Михайлова",
-      "url": "https://dariknews.bg/novini/sviat/severna-makedoniia-izdade-mezhdunarodna-zapoved-za-arest-na-iva-mihajlova-2469000",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Тресолди стана най-младият германец с хеттрик в Шампионската лига (ВИДЕО) 14 Окт | 08:24",
+      "url": "https://dsport.bg/tresoldi-stana-nai-mladiat-germanec-s-hettrik-v-shampionskata-liga-video~242156.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300065171.og.jpg"
     },
     {
-      "title": "Почина легендата на Арсенал Кен Фрайър",
-      "url": "https://dariknews.bg/novini/sviat/pochina-legendata-na-arsenal-ken-frajyr-2468998",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
+      "title": "Измислиха правило срещу бавенето, но намериха начин да го „хакнат“ – същата система вече е и в България (ВИДЕО) 14 Окт | 08:10",
+      "url": "https://dsport.bg/izmisliha-pravilo-srestu-baveneto-no-nameriha-nachin-da-go-haknat-sastata-sistema-veche-e-i-v-balgaria-video~242155.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot_1~237.og.jpg"
     },
     {
       "title": "Six Kings Slam е под заплаха заради атаките в Рияд 14 Окт | 07:55",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300057691.og.jpg"
-    },
-    {
-      "title": "Старото куче Чоло прочете присъдата на палето Карик (ВИДЕО) 13 Окт | 23:56",
-      "url": "https://dsport.bg/na-zivo-atletiko-madrid-manchestar-unaited-sastavi~242135.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300038034.og.jpg"
-    },
-    {
-      "title": "Барселона няма спирачки, товарният влак на Ханзи Флик гази и в Истанбул (ВИДЕО) 13 Окт | 23:53",
-      "url": "https://dsport.bg/na-zivo-galatasarai-barselona-sastavi~242133.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300053643.og.jpg"
     }
   ]
 }
