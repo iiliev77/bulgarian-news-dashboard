@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-14T20:22:22.061957+00:00",
+  "updated": "2026-10-14T20:53:43.719781+00:00",
   "articles": [
+    {
+      "title": "Дронове поразиха танкер в Черно море край Румъния",
+      "url": "https://dariknews.bg/novini/sviat/dronove-poraziha-tanker-v-cherno-more-kraj-rumyniia-2469126",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Пожар избухна в апартамент в столичния квартал „Гео Милев“",
       "url": "https://dariknews.bg/regioni/sofiia/pozhar-izbuhna-v-apartament-v-stolichniia-kvartal-geo-milev-2469124",
@@ -135,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
     },
     {
-      "title": "Червен код за опасно време в Гърция: Порой отне живота на 25-годишен мъж на остров Родос",
-      "url": "https://dariknews.bg/novini/sviat/cherven-kod-za-opasno-vreme-v-gyrciia-poroj-otne-zhivota-na-25-godishen-myzh-na-ostrov-rodos-2469101",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50663/50663405/991-ratio-vylni.jpg"
-    },
-    {
-      "title": "На живо: Рома вкара трети гол във вратата на Реал Мадрид 14 Окт | 23:20",
+      "title": "На живо: Реал Мадрид обърна Рома 14 Окт | 23:43",
       "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300228299.og.jpg"
     },
     {
-      "title": "На живо: ПСЖ води убедително на Манчестър Сити 14 Окт | 23:05",
+      "title": "На живо: ПСЖ води убедително на Манчестър Сити 14 Окт | 23:38",
       "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300220587.og.jpg"
+    },
+    {
+      "title": "Божидар Саръбоюков беше избран за Атлет номер 1 на Балканите 14 Окт | 23:20",
+      "url": "https://dsport.bg/bozidar-saraboukov-beshe-izbran-za-atlet-nomer-1-na-balkanite~242229.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1005004-1.og.jpg"
     },
     {
       "title": "Хари Кейн счупи рекорд на Меси и вече преследва Кристиано Роналдо в Шампионска лига 14 Окт | 22:56",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300201267.og.jpg"
-    },
-    {
-      "title": "Даниел Наумов с голямо постижение 14 Окт | 21:35",
-      "url": "https://dsport.bg/daniel-naumov-s-golamo-postizenie~242220.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1010183.og.jpg"
     }
   ]
 }
