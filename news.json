@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-14T07:55:43.771669+00:00",
+  "updated": "2026-10-14T08:21:38.014886+00:00",
   "articles": [
+    {
+      "title": "Удари по главата и тялото: Разследват насилие над бебе на месец и 18-годишната му майка",
+      "url": "https://dariknews.bg/regioni/pernik/udari-po-glavata-i-tialoto-razsledvat-nasilie-nad-bebe-na-mesec-i-18-godishnata-mu-majka-2469042",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395831/991-ratio-bebeshki-kracheta.jpg"
+    },
+    {
+      "title": "Задържаха трима мъже за разпространение на дрога в Разград (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/razgrad/zadyrzhaha-trima-myzhe-za-razprostranenie-na-droga-v-razgrad-snimki-2469043",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395844/991-ratio-narkotici.jpg"
+    },
+    {
+      "title": "Отклониха самолет на Air India след сигнал за отвличане по маршрута Франкфурт–Делхи",
+      "url": "https://dariknews.bg/novini/sviat/otkloniha-samolet-na-air-india-sled-signal-za-otvlichane-po-marshruta-frankfurtdelhi-2469044",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395830/991-ratio-air-india.jpg"
+    },
+    {
+      "title": "Отново зад волана без книжка: 39-годишен от Медовница е хванат да шофира товарен автомобил",
+      "url": "https://dariknews.bg/regioni/vidin/otnovo-zad-volana-bez-knizhka-39-godishen-ot-medovnica-e-hvanat-da-shofira-tovaren-avtomobil-2469040",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51227/51227480/991-ratio-policiia-sireni.jpg"
+    },
+    {
+      "title": "Спипаха „шофьор“ без книжка и с наличие на алкохол в кръвта в Девин",
+      "url": "https://dariknews.bg/regioni/Smolyan/spipaha-shofior-bez-knizhka-i-s-nalichie-na-alkohol-v-kryvta-v-devin-2469041",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51258/51258528/991-ratio-piian-shofior.jpg"
+    },
+    {
+      "title": "Откриха незаконни оръжия и археологически артефакти в дома на мъж от Ружинци",
+      "url": "https://dariknews.bg/regioni/vidin/otkriha-nezakonni-oryzhiia-i-arheologicheski-artefakti-v-doma-na-myzh-ot-ruzhinci-2469038",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Трагедия на жп прелез край Монтана: Влак блъсна кола, шофьорът загина",
+      "url": "https://dariknews.bg/regioni/montana/tragediia-na-zhp-prelez-kraj-montana-vlak-blysna-kola-shofioryt-zagina-2469039",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51114/51114176/991-ratio-grozdan-karadzhov-vlak-burgas.jpg"
+    },
     {
       "title": "12 часа без вода: Спират крановете в част от София в четвъртък",
       "url": "https://dariknews.bg/regioni/sofiia/12-chasa-bez-voda-spirat-kranovete-v-chast-ot-sofiia-v-chetvyrtyk-2469037",
@@ -51,8 +100,8 @@
       "image": "https://m.netinfo.bg/media/images/48055/48055595/991-ratio-mecho-puh.jpg"
     },
     {
-      "title": "Военният министър: Какви допълнителни сили задейства България заради рисковете в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-kakvi-dopylnitelni-sili-zadejstva-bylgariia-zaradi-riskovete-v-cherno-more-2469035",
+      "title": "Какви допълнителни сили задейства България заради рисковете в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/kakvi-dopylnitelni-sili-zadejstva-bylgariia-zaradi-riskovete-v-cherno-more-2469035",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51357/51357378/991-ratio-dimityr-stoianov.jpg"
@@ -93,53 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/32795/32795751/991-ratio-schupeno-styklo.jpg"
     },
     {
-      "title": "Вашингтон мълчи, докато Русия атакува американски компании в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/vashington-mylchi-dokato-rusiia-atakuva-amerikanski-kompanii-v-ukrajna-2469024",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51327/51327034/991-ratio-kiev.jpg"
-    },
-    {
-      "title": "Кола блъсна баба и 5-годишния ѝ внук на изтрита пешеходна пътека в Русе (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/ruse/kola-blysna-baba-i-5-godishniia-vnuk-na-iztrita-peshehodna-pyteka-v-ruse-video-2469023",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Силен вятър в страната: Паднало дърво удари човек, има щети по коли и скъсани жици",
-      "url": "https://dariknews.bg/regioni/sliven/silen-viatyr-v-stranata-padnalo-dyrvo-udari-chovek-ima-shteti-po-koli-i-skysani-zhici-2469022",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395828/991-ratio-padnalo-dyrvo.jpg"
-    },
-    {
-      "title": "Не всички битки са на Арената: Добромира от „Игри на волята“ проговори за домашното насилие",
-      "url": "https://dariknews.bg/novini/liubopitno/ne-vsichki-bitki-sa-na-arenata-dobromira-ot-igri-na-voliata-progovori-za-domashnoto-nasilie-2469021",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "19-годишен шофьор блъсна 73-годишен пешеходец в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/19-godishen-shofior-blysna-73-godishen-peshehodec-v-stara-zagora-2469020",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51284/51284496/991-ratio-peshehodna-pyteka.jpg"
-    },
-    {
-      "title": "Блъснаха жена на пешеходна пътека в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/blysnaha-zhena-na-peshehodna-pyteka-v-stara-zagora-2469019",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39908/39908436/991-ratio-peshehodna-pyteka.jpg"
-    },
-    {
-      "title": "Камион с ремарке се преобърна на пътя край Силистра",
-      "url": "https://dariknews.bg/regioni/silistra/kamion-s-remarke-se-preobyrna-na-pytia-kraj-silistra-2469018",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51258/51258009/991-ratio-tir-kamion.jpg"
+      "title": "Левски тренира без Митков и Сангаре (ВИДЕО) 14 Окт | 11:10",
+      "url": "https://dsport.bg/levski-trenira-bez-mitkov-i-sangare~242167.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/934482~1.og.jpg"
     },
     {
       "title": "От отпадането от Левски до победа в Шампионската лига: приказката на Сабах и Валдас Дамбраускас 14 Окт | 10:39",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300038543~1.og.jpg"
-    },
-    {
-      "title": "Вярвате или не - Фюри и Джошуа ще се бият за световната титла, която не държи нито един от двамата 14 Окт | 08:34",
-      "url": "https://dsport.bg/varvate-ili-ne-furi-i-dzoshua-ste-se-biat-za-svetovnata-titla-koato-ne-darzi-nito-edin-ot-dvamata~242157.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297930547.og.jpg"
     }
   ]
 }
