@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-14T11:55:36.794677+00:00",
+  "updated": "2026-10-14T12:22:03.354729+00:00",
   "articles": [
+    {
+      "title": "На първо четене в НС: Патрулните коли да са с дефибрилатори и полицаите да могат да оказват първа помощ",
+      "url": "https://dariknews.bg/novini/bylgariia/na-pyrvo-chetene-v-ns-patrulnite-koli-da-sa-s-defibrilatori-i-policaite-da-mogat-da-okazvat-pyrva-pomosht-2469087",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50711/50711600/991-ratio-defibrilator.jpg"
+    },
     {
       "title": "Опасни фуги на Околовръстното в София: Общината настоява АПИ да действа",
       "url": "https://dariknews.bg/novini/bylgariia/opasni-fugi-na-okolovrystnoto-v-sofiia-obshtinata-nastoiava-api-da-dejstva-2469085",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/49456/49456593/991-ratio-doli-partyn.jpg"
     },
     {
-      "title": "Автобусите по седем линии на градския транспорт в Пловдив ще се движат до 23:30 ч.",
-      "url": "https://dariknews.bg/regioni/plovdiv/avtobusite-po-sedem-linii-na-gradskiia-transport-v-plovdiv-shte-se-dvizhat-do-2330-ch-2469067",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/31358/31358844/991-ratio-zadushnica-transport.jpg"
+      "title": "Серафимов и Сула подсилиха Левски за НЕК Ниймеген 14 Окт | 15:07",
+      "url": "https://dsport.bg/serafimov-i-sula-podsiliha-levski-za-nek-niimegen~242186.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/viber_image_2026-10-14_14-58-54-698.og.jpg"
     },
     {
       "title": "Даниел Боримиров: Левски винаги играе за победа, трябва да се възползваме от момента (ВИДЕО) 14 Окт | 14:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-528985680.og.jpg"
-    },
-    {
-      "title": "Байерн Мюнхен с интерес към Кристиян Балов преди трансфера му в Звезда (ВИДЕО) 14 Окт | 12:41",
-      "url": "https://dsport.bg/baiern-munhen-s-interes-kam-kristian-balov-predi-transfera-mu-v-zvezda-video~242173.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1037294.og.jpg"
     }
   ]
 }
