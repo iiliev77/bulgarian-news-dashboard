@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-14T12:22:03.354729+00:00",
+  "updated": "2026-10-14T13:05:28.846437+00:00",
   "articles": [
+    {
+      "title": "Украйна освободи 16 населени места в Донецка област",
+      "url": "https://dariknews.bg/novini/sviat/ukrajna-osvobodi-16-naseleni-mesta-v-donecka-oblast-2469095",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51191/51191495/991-ratio-ukrajna-ataka.jpg"
+    },
+    {
+      "title": "Отложиха делото срещу кмета на Лом, обвинен в купуване на гласове",
+      "url": "https://dariknews.bg/regioni/montana/otlozhiha-deloto-sreshtu-kmeta-na-lom-obvinen-v-kupuvane-na-glasove-2469094",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395982/991-ratio-cvetan-petrov.jpg"
+    },
+    {
+      "title": "Постоянен арест за обвиняемия, пробол с нож в сърцето мъж в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/postoianen-arest-za-obviniaemiia-probol-s-nozh-v-syrceto-myzh-v-stara-zagora-2469092",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395972/991-ratio-i-j-ubijstvo-stara-zagora.jpg"
+    },
+    {
+      "title": "Още два кораба претърпяха щети след атаки в Ормузкия проток",
+      "url": "https://dariknews.bg/novini/sviat/oshte-dva-koraba-pretyrpiaha-shteti-sled-ataki-v-ormuzkiia-protok-2469093",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51306/51306329/991-ratio-tovaren-korab-plava-v-persijskiia-zaliv-kym-ormuzkiia-protok-vyv.jpg"
+    },
+    {
+      "title": "Столичната община спечели окончателно делото за чистотата в три района на София",
+      "url": "https://dariknews.bg/regioni/sofiia/stolichnata-obshtina-specheli-okonchatelno-deloto-za-chistotata-v-tri-rajona-na-sofiia-2469091",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51346/51346404/991-ratio-bokluk-sofiia.jpg"
+    },
+    {
+      "title": "Излязъл от затвора преди два месеца: Задържаха мъж, извършил 58 престъпления",
+      "url": "https://dariknews.bg/regioni/varna/izliazyl-ot-zatvora-predi-dva-meseca-zadyrzhaha-myzh-izvyrshil-58-prestypleniia-2469089",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "МВР: Северна Македония е поискала от България арест и екстрадиция на Ива Михайлова",
+      "url": "https://dariknews.bg/novini/bylgariia/mvr-severna-makedoniia-e-poiskala-ot-bylgariia-arest-i-ekstradiciia-na-iva-mihajlova-2469090",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395005/991-ratio-iva-mihajlova.jpg"
+    },
     {
       "title": "На първо четене в НС: Патрулните коли да са с дефибрилатори и полицаите да могат да оказват първа помощ",
       "url": "https://dariknews.bg/novini/bylgariia/na-pyrvo-chetene-v-ns-patrulnite-koli-da-sa-s-defibrilatori-i-policaite-da-mogat-da-okazvat-pyrva-pomosht-2469087",
@@ -93,53 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/46750/46750029/991-ratio-tigyr.jpg"
     },
     {
-      "title": "Варненец открадна пасти за зъби от магазин и използвал сила срещу служител",
-      "url": "https://dariknews.bg/regioni/varna/varnenec-otkradna-pasti-za-zybi-ot-magazin-i-izpolzval-sila-sreshtu-sluzhitel-2469073",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395931/991-ratio-pasta-za-zybi.jpg"
+      "title": "Капитанът на НЕК преди Левски: Енергията се завърна, надяваме се да празнуваме с феновете 14 Окт | 15:46",
+      "url": "https://dsport.bg/kapitanat-na-nek-predi-levski-energiata-se-zavarna-nadavame-se-da-praznuvame-s-fenovete~242189.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2272116278.og.jpg"
     },
     {
-      "title": "Задържаха сериен крадец в Пловдив: Задигал вещи от посетители на гробищен парк",
-      "url": "https://dariknews.bg/regioni/plovdiv/zadyrzhaha-serien-kradec-v-plovdiv-zadigal-veshti-ot-posetiteli-na-grobishten-park-2469074",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51352/51352113/991-ratio-kradec-krazhba.jpg"
+      "title": "Треньорът на НЕК предупреди за Левски: Силен и зрял отбор с много добри южноамериканци 14 Окт | 15:35",
+      "url": "https://dsport.bg/trenorat-na-nek-predupredi-za-levski-silen-i-zral-otbor-s-mnogo-dobri-uznoamerikanci~242188.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295160524.og.jpg"
     },
     {
-      "title": "Серия кражби край Бургас: Непълнолетен обирал домове, трима мъже задигнали над тон гориво",
-      "url": "https://dariknews.bg/regioni/burgas/seriia-krazhbi-kraj-burgas-nepylnoleten-obiral-domove-trima-myzhe-zadignali-nad-ton-gorivo-2469072",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272543/991-ratio-otvlichane-myzh-kradec.jpg"
-    },
-    {
-      "title": "21-годишен открадна мотор и се впусна в гонка с полицията в София",
-      "url": "https://dariknews.bg/regioni/sofiia/21-godishen-otkradna-motor-i-se-vpusna-v-gonka-s-policiiata-v-sofiia-2469070",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50752/50752164/991-ratio-motor-skorost.jpg"
-    },
-    {
-      "title": "Международно издирване и дипломатическо напрежение: Какво следва за Ива Михайлова?",
-      "url": "https://dariknews.bg/novini/bylgariia/mezhdunarodno-izdirvane-i-diplomatichesko-naprezhenie-kakvo-sledva-za-iva-mihajlova-2469071",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51376/51376314/991-ratio-iva-mihajlova.jpg"
-    },
-    {
-      "title": "На първо четене: Депутатите забраняват отглеждането на животни за добив на ценни кожи",
-      "url": "https://dariknews.bg/novini/bylgariia/na-pyrvo-chetene-deputatite-zabraniavat-otglezhdaneto-na-zhivotni-za-dobiv-na-cenni-kozhi-2469069",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44829/44829669/991-ratio-kozha-kosym.jpg"
-    },
-    {
-      "title": "Тежки обвинения срещу племенника на Доли Партън в съда",
-      "url": "https://dariknews.bg/novini/sviat/tezhki-obvineniia-sreshtu-plemennika-na-doli-partyn-v-syda-2469068",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49456/49456593/991-ratio-doli-partyn.jpg"
+      "title": "Никола Попов свири на ЦСКА край морето, Тренчев при Левски в Ловеч 14 Окт | 15:22",
+      "url": "https://dsport.bg/nikola-popov-sviri-na-cska-krai-moreto-trenchev-pri-levski-v-lovech~242187.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1016558.og.jpg"
     },
     {
       "title": "Серафимов и Сула подсилиха Левски за НЕК Ниймеген 14 Окт | 15:07",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/774437~1.og.jpg"
-    },
-    {
-      "title": "Айнтрахт е №1 в света по добавена стойност от трансфери, Манчестър Юнайтед е най-зле в Европа 14 Окт | 13:36",
-      "url": "https://dsport.bg/aintraht-e-1-v-sveta-po-dobavena-stoinost-ot-transferi-manchestar-unaited-e-nai-zle-v-evropa~242179.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/green-gold-football-transfer-market.og.png"
-    },
-    {
-      "title": "Над 35 000 евро събраха феновете на Локомотив Пловдив за по-малко от 48 часа 14 Окт | 13:05",
-      "url": "https://dsport.bg/nad-35-000-evro-sabraha-fenovete-na-lokomotiv-plovdiv-za-po-malko-ot-48-chasa~242178.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/527354~2.og.jpg"
-    },
-    {
-      "title": "От шампионската титла в Англия до строителството: новият живот на Дани Дринкуотър 14 Окт | 12:55",
-      "url": "https://dsport.bg/ot-shampionskata-titla-v-anglia-do-stroitelstvoto-noviat-zivot-na-dani-drinkuotar~242177.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-528985680.og.jpg"
     }
   ]
 }
