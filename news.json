@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-14T04:36:01.826278+00:00",
+  "updated": "2026-10-14T05:05:44.162803+00:00",
   "articles": [
+    {
+      "title": "ВСС обсъжда избора на нов и.ф. главен прокурор",
+      "url": "https://dariknews.bg/novini/bylgariia/vss-obsyzhda-izbora-na-nov-i.f.-glaven-prokuror-2469012",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+    },
+    {
+      "title": "Сняг покри високите части на Витоша и Рила (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/sniag-pokri-visokite-chasti-na-vitosha-i-rila-snimki-2469011",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
     {
       "title": "Заради атаките в Черно море: В НС изслушват премиера, министри и ръководители на спецслужбите",
       "url": "https://dariknews.bg/novini/bylgariia/zaradi-atakite-v-cherno-more-v-ns-izslushvat-premiera-ministri-i-rykovoditeli-na-specsluzhbite-2469010",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51000/51000745/991-ratio-svesht.jpg"
     },
     {
-      "title": "Евгения Гергова е новият директор на Регионалната здравна инспекция в Монтана",
-      "url": "https://dariknews.bg/regioni/montana/evgeniia-gergova-e-noviiat-direktor-na-regionalnata-zdravna-inspekciia-v-montana-2468997",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395666/991-ratio-evgeniia-gergova-e-noviiat-direktor-na-regionalnata-zdravna-inspekciia-v.jpg"
-    },
-    {
-      "title": "Йотова: България ще сезира Съвета за сигурност на ООН заради атаките в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/iotova-bylgariia-shte-sezira-syveta-za-sigurnost-na-oon-zaradi-atakite-v-cherno-more-2468999",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Six Kings Slam е под заплаха заради атаките в Рияд 14 Окт | 07:55",
+      "url": "https://dsport.bg/six-kings-slam-e-pod-zaplaha-zaradi-atakite-v-riad~242154.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2179571138.og.jpg"
     },
     {
       "title": "Везенков и Олимпиакос пречупиха Валенсия в продължение 14 Окт | 00:43",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300053643.og.jpg"
-    },
-    {
-      "title": "Пълен актив в ШЛ: Арсенал опитоми „песовете“ за седем минути (ВИДЕО) 13 Окт | 23:50",
-      "url": "https://dsport.bg/na-zivo-arsenal-lil-sastavi~242132.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300053496.og.jpg"
     }
   ]
 }
