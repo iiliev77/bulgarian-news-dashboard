@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T20:53:43.719781+00:00",
+  "updated": "2026-10-14T21:16:18.033098+00:00",
   "articles": [
     {
       "title": "Дронове поразиха танкер в Черно море край Румъния",
@@ -142,14 +142,28 @@
       "image": "https://m.netinfo.bg/media/images/51338/51338664/991-ratio-velislava-delcheva.jpg"
     },
     {
-      "title": "На живо: Реал Мадрид обърна Рома 14 Окт | 23:43",
+      "title": "Астън Вила унищожи Фенербахче (ВИДЕО) 15 Окт | 00:06",
+      "url": "https://dsport.bg/astan-vila-unistozi-fenerbahche~242231.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300232945.og.jpg"
+    },
+    {
+      "title": "Будьо/Глимт си върна на Борусия след погрома от Байерн (ВИДЕО) 14 Окт | 23:56",
+      "url": "https://dsport.bg/budo-glimt-si-varna-na-borusia-sled-pogroma-ot-baiern~242230.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/bodoglimt_1.og.jpg"
+    },
+    {
+      "title": "Рома се провали с гръм и трясък срещу Реал Мадрид в седемголов трилър 14 Окт | 23:55",
       "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300228299.og.jpg"
+      "image": "https://dsport.bg/media/385/gettyimages-2300233810.og.jpg"
     },
     {
-      "title": "На живо: ПСЖ води убедително на Манчестър Сити 14 Окт | 23:38",
+      "title": "ПСЖ си тръгна с трите точки от „Етихад“ след спиращ дъха мач 14 Окт | 23:38",
       "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300158741.og.jpg"
-    },
-    {
-      "title": "Моуриньо изригна: Защо наказаха Винисиус часове преди ключов мач? 14 Окт | 21:54",
-      "url": "https://dsport.bg/mourino-izrigna-zasto-nakazaha-vinisius-chasove-predi-kluchov-mach~242223.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299572251~2.og.jpg"
-    },
-    {
-      "title": "Приказката за Комо в Шампионска лига свърши много бързо 14 Окт | 21:46",
-      "url": "https://dsport.bg/prikazkata-za-komo-v-shampionska-liga-svarshi-mnogo-barzo~242221.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300201267.og.jpg"
     }
   ]
 }
