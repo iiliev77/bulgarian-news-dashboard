@@ -1,9 +1,79 @@
 {
-  "updated": "2026-10-14T07:19:38.817608+00:00",
+  "updated": "2026-10-14T07:55:43.771669+00:00",
   "articles": [
     {
-      "title": "Спасиха български моряци след голям пожар на кораб в Мексиканския залив",
-      "url": "https://dariknews.bg/novini/bylgariia/spasiha-bylgarski-moriaci-sled-goliam-pozhar-na-korab-v-meksikanskiia-zaliv-2469027",
+      "title": "12 часа без вода: Спират крановете в част от София в четвъртък",
+      "url": "https://dariknews.bg/regioni/sofiia/12-chasa-bez-voda-spirat-kranovete-v-chast-ot-sofiia-v-chetvyrtyk-2469037",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50894/50894873/991-ratio-vodia-bania-spriana-voda.jpg"
+    },
+    {
+      "title": "Жестокост край Симитли: Крава е открита мъртва - аутопсията разкри, че е простреляна",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/zhestokost-kraj-simitli-krava-e-otkrita-myrtva-autopsiiata-razkri-che-e-prostreliana-2469036",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50379/50379282/991-ratio-krava.jpg"
+    },
+    {
+      "title": "Кола и камион се удариха челно на пътя Монтана – София",
+      "url": "https://dariknews.bg/regioni/sofiia/kola-i-kamion-se-udariha-chelno-na-pytia-montana-sofiia-2469033",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388325/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Хиляди евро, долари и злато изчезнаха от дом в Хаджидимово",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/hiliadi-evro-dolari-i-zlato-izcheznaha-ot-dom-v-hadzhidimovo-2469034",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50947/50947629/991-ratio-kradec-krazhba-myzh-krazhba.jpg"
+    },
+    {
+      "title": "Петролът поскъпна заради нови атаки срещу кораби в Ормузкия пролив",
+      "url": "https://dariknews.bg/novini/sviat/petrolyt-poskypna-zaradi-novi-ataki-sreshtu-korabi-v-ormuzkiia-proliv-2469032",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51276/51276149/991-ratio-petrol-cena-poskypvane.jpg"
+    },
+    {
+      "title": "Мъж удари жена с бутилка по главата след семеен скандал в Реброво",
+      "url": "https://dariknews.bg/regioni/sofiia/myzh-udari-zhena-s-butilka-po-glavata-sled-semeen-skandal-v-rebrovo-2469031",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51152/51152183/991-ratio-domashno-nasilie.jpg"
+    },
+    {
+      "title": "100 години с Мечо Пух: Мечето, което покори сърцата на поколения",
+      "url": "https://dariknews.bg/novini/liubopitno/100-godini-s-mecho-puh-mecheto-koeto-pokori-syrcata-na-pokoleniia-2469030",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48055/48055595/991-ratio-mecho-puh.jpg"
+    },
+    {
+      "title": "Военният министър: Какви допълнителни сили задейства България заради рисковете в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-kakvi-dopylnitelni-sili-zadejstva-bylgariia-zaradi-riskovete-v-cherno-more-2469035",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51357/51357378/991-ratio-dimityr-stoianov.jpg"
+    },
+    {
+      "title": "Акция срещу дрогата край училища в Сливен: Трима са задържани",
+      "url": "https://dariknews.bg/regioni/sliven/akciia-sreshtu-drogata-kraj-uchilishta-v-sliven-trima-sa-zadyrzhani-2469028",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50615/50615819/991-ratio-dilyr-narkotici-droga.jpg"
+    },
+    {
+      "title": "Русия атакува ключова ТЕЦ в Киев въпреки договореното енергийно примирие",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-atakuva-kliuchova-tec-v-kiev-vypreki-dogovorenoto-energijno-primirie-2469029",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388373/991-ratio-kiev.jpg"
+    },
+    {
+      "title": "Спасиха български моряци при голям пожар на кораб в Мексиканския залив",
+      "url": "https://dariknews.bg/novini/bylgariia/spasiha-bylgarski-moriaci-pri-goliam-pozhar-na-korab-v-meksikanskiia-zaliv-2469027",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/41034/41034549/991-ratio-burno-more.jpg"
@@ -37,11 +107,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Силен вятър в страната: Дърво повреди кола, има паднали клони и скъсани жици",
-      "url": "https://dariknews.bg/regioni/sliven/silen-viatyr-v-stranata-dyrvo-povredi-kola-ima-padnali-kloni-i-skysani-zhici-2469022",
+      "title": "Силен вятър в страната: Паднало дърво удари човек, има щети по коли и скъсани жици",
+      "url": "https://dariknews.bg/regioni/sliven/silen-viatyr-v-stranata-padnalo-dyrvo-udari-chovek-ima-shteti-po-koli-i-skysani-zhici-2469022",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51244/51244481/991-ratio-padnalo-dyrvo-bor-vyrhu-kola.jpg"
+      "image": "https://m.netinfo.bg/media/images/51395/51395828/991-ratio-padnalo-dyrvo.jpg"
     },
     {
       "title": "Не всички битки са на Арената: Добромира от „Игри на волята“ проговори за домашното насилие",
@@ -72,74 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51258/51258009/991-ratio-tir-kamion.jpg"
     },
     {
-      "title": "Спрецакция срещу купуването на гласове във Варна",
-      "url": "https://dariknews.bg/novini/bylgariia/sprecakciia-sreshtu-kupuvaneto-na-glasove-vyv-varna-2469017",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "От отпадането от Левски до победа в Шампионската лига: приказката на Сабах и Валдас Дамбраускас 14 Окт | 10:39",
+      "url": "https://dsport.bg/ot-otpadaneto-ot-levski-do-pobeda-v-shampionskata-liga-prikazkata-na-sabah-i-valdas-dambrauskas~242166.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/827571.og.jpg"
     },
     {
-      "title": "КЗП погва необоснованото поскъпване: Глоби до 50 000 евро за артикул",
-      "url": "https://dariknews.bg/novini/bylgariia/kzp-pogva-neobosnovanoto-poskypvane-globi-do-50-000-evro-za-artikul-2469016",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "След атаките срещу кораби: Призив за повече средства за спасителни операции в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-atakite-sreshtu-korabi-priziv-za-poveche-sredstva-za-spasitelni-operacii-v-cherno-more-2469015",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395348/991-ratio-tyrgovski-korab-cherno-more.jpg"
-    },
-    {
-      "title": "Нов граничен пункт с Турция влиза в дневния ред на Министерския съвет",
-      "url": "https://dariknews.bg/novini/bylgariia/nov-granichen-punkt-s-turciia-vliza-v-dnevniia-red-na-ministerskiia-syvet-2469014",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51249/51249335/991-ratio-ministerski-syvet.jpg"
-    },
-    {
-      "title": "Руски ракетен удар по Киев уби двама души, Зеленски обвини съюзниците в липса на предупреждение",
-      "url": "https://dariknews.bg/novini/sviat/ruski-raketen-udar-po-kiev-ubi-dvama-dushi-zelenski-obvini-syiuznicite-v-lipsa-na-preduprezhdenie-2469013",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395746/991-ratio-kiev-ataka-pozhar.jpg"
-    },
-    {
-      "title": "ВСС обсъжда избора на нов и.ф. главен прокурор",
-      "url": "https://dariknews.bg/novini/bylgariia/vss-obsyzhda-izbora-na-nov-i.f.-glaven-prokuror-2469012",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
-    },
-    {
-      "title": "Сняг покри високите части на планините у нас (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/sniag-pokri-visokite-chasti-na-planinite-u-nas-snimki-2469011",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Премиерът след срещата с Митрофанова: Получих уверение, че нямат информация за руски атаки по море (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-sled-sreshtata-s-mitrofanova-poluchih-uverenie-che-niamat-informaciia-za-ruski-ataki-po-more-na-zhivo-2469010",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Папа Лъв XIV е с диагноза рак на белите дробове",
-      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-e-s-diagnoza-rak-na-belite-drobove-2469009",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Новите случаи на деменция в света може да нараснат повече от два пъти до 2050 г.",
-      "url": "https://dariknews.bg/novini/sviat/novite-sluchai-na-demenciia-v-sveta-mozhe-da-narasnat-poveche-ot-dva-pyti-do-2050-g-2468988",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50243/50243899/991-ratio-demenciia.jpg"
+      "title": "ФИФА подготвя фонд от 5,5 млрд. евро за развитие на футбола по света 14 Окт | 10:32",
+      "url": "https://dsport.bg/fifa-podgotva-fond-ot-5-5-mlrd-evro-za-razvitie-na-futbola-po-sveta~242165.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-614272216-1-1-1-1~1.og.jpg"
     },
     {
       "title": "Алкарас се оплака от топките в Шанхай и повтори грешка, за която Тони Надал някога „наказа“ Рафа 14 Окт | 10:16",
@@ -174,7 +188,7 @@
       "url": "https://dsport.bg/erik-garsia-predupredi-opasno-e-da-provokirash-lamin-amal~242160.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300053643~1.og.jpg"
+      "image": "https://dsport.bg/media/385/gettyimages-2299571868~1.og.jpg"
     },
     {
       "title": "9 милиарда паунда приходи, но 94% от клубовете губят пари: парадоксът на английския футбол 14 Окт | 09:12",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297930547.og.jpg"
-    },
-    {
-      "title": "Тресолди стана най-младият германец с хеттрик в Шампионската лига (ВИДЕО) 14 Окт | 08:24",
-      "url": "https://dsport.bg/tresoldi-stana-nai-mladiat-germanec-s-hettrik-v-shampionskata-liga-video~242156.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300065171.og.jpg"
-    },
-    {
-      "title": "Измислиха правило срещу бавенето, но намериха начин да го „хакнат“ – същата система вече е и в България (ВИДЕО) 14 Окт | 08:10",
-      "url": "https://dsport.bg/izmisliha-pravilo-srestu-baveneto-no-nameriha-nachin-da-go-haknat-sastata-sistema-veche-e-i-v-balgaria-video~242155.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot_1~237.og.jpg"
     }
   ]
 }
