@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-14T05:34:14.620297+00:00",
+  "updated": "2026-10-14T06:02:44.337323+00:00",
   "articles": [
+    {
+      "title": "КЗП погва необоснованото поскъпване: Глоби до 50 000 евро за артикул",
+      "url": "https://dariknews.bg/novini/bylgariia/kzp-pogva-neobosnovanoto-poskypvane-globi-do-50-000-evro-za-artikul-2469016",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "„Ще ги накажем със сурови санкции”: КЗП предупреждава за глоби до 50 000 евро за необосновано поскъпване",
+      "url": "https://dariknews.bg/novini/bylgariia/shte-gi-nakazhem-sys-surovi-sankcii-kzp-preduprezhdava-za-globi-do-50-000-evro-za-neobosnovano-poskypvane-2469015",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320893/991-ratio-ceni-pazar-magazin.jpg"
+    },
     {
       "title": "Нов граничен пункт с Турция влиза в дневния ред на Министерския съвет",
       "url": "https://dariknews.bg/novini/bylgariia/nov-granichen-punkt-s-turciia-vliza-v-dnevniia-red-na-ministerskiia-syvet-2469014",
@@ -23,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
     },
     {
-      "title": "Сняг покри високите части на Витоша и Рила (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/sniag-pokri-visokite-chasti-na-vitosha-i-rila-snimki-2469011",
+      "title": "Сняг покри високите части на планините у нас (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/sniag-pokri-visokite-chasti-na-planinite-u-nas-snimki-2469011",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -79,8 +93,8 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395385/991-ratio-ministyryt-na-vynshnite-raboti-velislava-petrova.jpg"
     },
     {
-      "title": "Зимата идва с повече разходи: Как да планираме семейния бюджет и да спестим пари",
-      "url": "https://dariknews.bg/novini/bylgariia/zimata-idva-s-poveche-razhodi-kak-da-planirame-semejniia-biudzhet-i-da-spestim-pari-2468994",
+      "title": "Зимата удря по джоба: Как да спасим семейния бюджет",
+      "url": "https://dariknews.bg/novini/bylgariia/zimata-udria-po-dzhoba-kak-da-spasim-semejniia-biudzhet-2468994",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395653/991-ratio-semeen-biudzhet.jpg"
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395697/991-ratio-chetirima-spaseni-moriaci-ot-potynaliia-na-17-mili-ot-shabla.jpg"
     },
     {
-      "title": "Шофьор на тир и пешеходка пострадаха при две катастрофи край Велико Търново",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/shofior-na-tir-i-peshehodka-postradaha-pri-dve-katastrofi-kraj-veliko-tyrnovo-2469003",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51375/51375937/991-ratio-policiia.jpg"
+      "title": "Лисандро Мартинес посочи проблема в Манчестър Юнайтед: Не може постоянно да сменяме треньора 14 Окт | 08:39",
+      "url": "https://dsport.bg/lisandro-martines-posochi-problema-v-manchestar-unaited-ne-moze-postoanno-da-smename-trenora~242158.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300038543~1.og.jpg"
     },
     {
-      "title": "„Булгаргаз“ поиска драстичен скок с 34% на газа през ноември",
-      "url": "https://dariknews.bg/novini/bylgariia/bulgargaz-poiska-drastichen-skok-s-34-na-gaza-prez-noemvri-2469002",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50854/50854155/991-ratio-gaz.jpg"
+      "title": "Вярвате или не - Фюри и Джошуа ще се бият за световната титла, която не държи нито един от двамата 14 Окт | 08:34",
+      "url": "https://dsport.bg/varvate-ili-ne-furi-i-dzoshua-ste-se-biat-za-svetovnata-titla-koato-ne-darzi-nito-edin-ot-dvamata~242157.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297930547.og.jpg"
     },
     {
       "title": "Тресолди стана най-младият германец с хеттрик в Шампионската лига (ВИДЕО) 14 Окт | 08:24",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300055505.og.jpg"
-    },
-    {
-      "title": "Виляреал възкръсна срещу Наполи и сложи край на черната си серия в Шампионската лига (ВИДЕО) 14 Окт | 00:04",
-      "url": "https://dsport.bg/vilareal-vazkrasna-srestu-napoli-i-slozi-krai-na-chernata-si-seria-v-shampionskata-liga~242148.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300041916.og.jpg"
-    },
-    {
-      "title": "Интер пак загуби, фен на Милан и кошмарен вратар хвърлиха в смут „Меаца“ 13 Окт | 23:59",
-      "url": "https://dsport.bg/inter-pak-zagubi-fen-na-milan-i-koshmaren-vratar-hvarliha-v-smut-meaca~242147.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300057691.og.jpg"
     }
   ]
 }
