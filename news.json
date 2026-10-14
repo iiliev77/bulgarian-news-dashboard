@@ -1,12 +1,61 @@
 {
-  "updated": "2026-10-14T11:23:40.851989+00:00",
+  "updated": "2026-10-14T11:55:36.794677+00:00",
   "articles": [
+    {
+      "title": "Опасни фуги на Околовръстното в София: Общината настоява АПИ да действа",
+      "url": "https://dariknews.bg/novini/bylgariia/opasni-fugi-na-okolovrystnoto-v-sofiia-obshtinata-nastoiava-api-da-dejstva-2469085",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395964/991-ratio-sofijski-okolovrysten-pyt.jpg"
+    },
+    {
+      "title": "Частични избори за кмет на село Мало Конаре ще се проведат на 18 октомври",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/chastichni-izbori-za-kmet-na-selo-malo-konare-shte-se-provedat-na-18-oktomvri-2469084",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
+    },
+    {
+      "title": "В неизвестност от дни: Издирват 17-годишно момиче от Сливен (СНИМКА)",
+      "url": "https://dariknews.bg/regioni/sliven/v-neizvestnost-ot-dni-izdirvat-17-godishno-momiche-ot-sliven-snimka-2469082",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Акция на ГДБОП в Костинброд за предполагаемо източване на средства от обществени поръчки",
+      "url": "https://dariknews.bg/novini/bylgariia/akciia-na-gdbop-v-kostinbrod-za-predpolagaemo-iztochvane-na-sredstva-ot-obshtestveni-porychki-2469083",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51329/51329903/991-ratio-gdbop.jpg"
+    },
+    {
+      "title": "Франция осъди атаките с дронове срещу кораби край България и Румъния",
+      "url": "https://dariknews.bg/novini/sviat/franciia-osydi-atakite-s-dronove-sreshtu-korabi-kraj-bylgariia-i-rumyniia-2469081",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48998/48998116/991-ratio-franciia-flag.jpg"
+    },
+    {
+      "title": "Спасиха морски орел, открит в безпомощно състояние в Ловешко",
+      "url": "https://dariknews.bg/regioni/lovech/spasiha-morski-orel-otkrit-v-bezpomoshtno-systoianie-v-loveshko-2469080",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395956/991-ratio-morski-orel.jpg"
+    },
     {
       "title": "Откриха античен некропол със 135 гроба в Стара Загора",
       "url": "https://dariknews.bg/regioni/stara-zagora/otkriha-antichen-nekropol-sys-135-groba-v-stara-zagora-2469078",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51395/51395946/991-ratio-novi-otkritiia-pri-spasitelni-arheologicheski-prouchvaniia-na-rim-stara-zagora.jpg"
+    },
+    {
+      "title": "Не го оставиха сам след пожара: Цяло село се обедини, за да помогне на 70-годишен мъж",
+      "url": "https://dariknews.bg/regioni/razgrad/ne-go-ostaviha-sam-sled-pozhara-cialo-selo-se-obedini-za-da-pomogne-na-70-godishen-myzh-2469079",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395954/991-ratio-zhiteli-na-razgradskoto-selo-blagoevo-se-obediniha-v-dobrovolcheska-akciia.jpg"
     },
     {
       "title": "Кой e начело на Светия престол, когато папата не е в състояние да изпълнява задълженията си",
@@ -93,53 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/31358/31358844/991-ratio-zadushnica-transport.jpg"
     },
     {
-      "title": "Радев за Бюджет 2027: Фокус върху семействата и децата, ръст на заплати и пенсии",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-za-biudzhet-2027-fokus-vyrhu-semejstvata-i-decata-ryst-na-zaplati-i-pensii-2469066",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51338/51338585/991-ratio-ms-ministerski-syvet-rumen-radev.jpg"
+      "title": "Даниел Боримиров: Левски винаги играе за победа, трябва да се възползваме от момента (ВИДЕО) 14 Окт | 14:43",
+      "url": "https://dsport.bg/daniel-borimirov-levski-vinagi-igrae-za-pobeda-trabva-da-se-vazpolzvame-ot-momenta-video~242185.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/794686-1-2-1-1~2.og.jpg"
     },
     {
-      "title": "Един от Вулканите се отправя към Блатото на „Игри на волята“ тази вечер",
-      "url": "https://dariknews.bg/novini/liubopitno/edin-ot-vulkanite-se-otpravia-kym-blatoto-na-igri-na-voliata-tazi-vecher-2469064",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395906/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Монблан е висок 4807,47 метра, с почти два метра повече спрямо 2023 г.",
-      "url": "https://dariknews.bg/novini/sviat/monblan-e-visok-480747-metra-s-pochti-dva-metra-poveche-spriamo-2023-g-2469063",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50879/50879872/991-ratio-monblan.jpg"
-    },
-    {
-      "title": "България и Словакия подготвят меморандум за разбирателство в областта на енергетиката",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-slovakiia-podgotviat-memorandum-za-razbiratelstvo-v-oblastta-na-energetikata-2469065",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395910/991-ratio-ministyra-na-energetikata-na-bylgariia-iva-petrova-i-denisa-sakova.jpg"
-    },
-    {
-      "title": "За по-малко от 38 лева: Мъж влиза в затвора за побой и заплахи с нож в село Бутан",
-      "url": "https://dariknews.bg/regioni/vraca/za-po-malko-ot-38-leva-myzh-vliza-v-zatvora-za-poboj-i-zaplahi-s-nozh-v-selo-butan-2469062",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
-    },
-    {
-      "title": "Заради силния вятър: Товарен автомобил се обърна край Мъглиж",
-      "url": "https://dariknews.bg/regioni/stara-zagora/zaradi-silniia-viatyr-tovaren-avtomobil-se-obyrna-kraj-myglizh-2469061",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395888/991-ratio-silen-viatyr-kamion.jpg"
-    },
-    {
-      "title": "Гривна за подарък: как да направим правилния избор?",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/grivna-za-podaryk-kak-da-napravim-pravilniia-izbor-2468991",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395638/991-ratio-helios.jpg"
+      "title": "ЦСКА показа елегантната си визия за европейските мачове 14 Окт | 14:25",
+      "url": "https://dsport.bg/cska-pokaza-elegantnata-si-vizia-za-evropeiskite-machove~242184.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot_5~161.og.jpg"
     },
     {
       "title": "Виляреал остана с деветима за минута заради ново правило срещу бавенето 14 Окт | 14:12",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1037294.og.jpg"
-    },
-    {
-      "title": "Бруно Жордао: Няма да се предадем без бой (ВИДЕО) 14 Окт | 12:23",
-      "url": "https://dsport.bg/bruno-zordao-nama-da-se-predadem-bez-boi~242176.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039761.og.jpg"
-    },
-    {
-      "title": "Гиздол преди Монако: На хартия те са фаворити, но мачът започва от 0:0 (ВИДЕО) 14 Окт | 12:13",
-      "url": "https://dsport.bg/gizdol-predi-monako-na-hartia-te-sa-favoriti-no-machat-zapochva-ot-0-0~242175.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039756.og.jpg"
     }
   ]
 }
