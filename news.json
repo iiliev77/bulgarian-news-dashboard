@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:50:09.973137+00:00",
+  "updated": "2026-10-14T17:16:31.744752+00:00",
   "articles": [
     {
       "title": "Йотова: България и Румъния искат извънредна точка за Черно море на срещата на върха на ЕС",
@@ -142,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51395/51395972/991-ratio-i-j-ubijstvo-stara-zagora.jpg"
     },
     {
-      "title": "На живо: ЛАСК - Ливърпул 14 Окт | 19:45",
+      "title": "Хулио Веласкес: Нашият стил на игра няма да се промени нито срещу НЕК, нито срещу Ювентус, нито срещу Реал Мадрид 14 Окт | 20:13",
+      "url": "https://dsport.bg/hulio-velaskes-nashiat-stil-na-igra-nama-da-se-promeni-nito-srestu-nek-nito-srestu-uventus-nito-srestu-real-madrid~242206.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039984.og.jpg"
+    },
+    {
+      "title": "На живо: Ливърпул вкара два бързи гола на ЛАСК 14 Окт | 20:07",
       "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/finali-ekt-35-.og.png"
+      "image": "https://dsport.bg/media/385/gettyimages-2300198294.og.jpg"
+    },
+    {
+      "title": "На живо: Ботев Пловдив води срещу Ботев Враца, преди това изпусна дузпа 14 Окт | 20:05",
+      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/848481897_1461088689252233_5990691704581601098_n.og.jfif"
     },
     {
       "title": "Филипе Луис: ЦСКА е силен отбор, със силни играчи, но за нас е много важно да започнем с победа (ВИДЕО) 14 Окт | 19:40",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1039905.og.jpg"
-    },
-    {
-      "title": "На живо: Ботев Пловдив поведе срещу Ботев Враца, след като изпусна дузпа 14 Окт | 19:40",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-i-botev-vraca-otkrivat-bethub-procup-sastavi~242195.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/848481897_1461088689252233_5990691704581601098_n.og.jfif"
     },
     {
       "title": "Как приключи закачката между Ламин Ямал и Марио Лемина? (ВИДЕО) 14 Окт | 19:10",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/viber_image_2026-10-14_18-24-25-495.og.jpg"
-    },
-    {
-      "title": "Атаки в Саудитска Арабия: отложиха мачовете на Кристиано Роналдо, звезди бягат от страната 14 Окт | 18:23",
-      "url": "https://dsport.bg/ataki-v-sauditska-arabia-otloziha-machovete-na-kristiano-ronaldo-zvezdi-bagat-ot-stranata~242197.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298823923.og.jpg"
     }
   ]
 }
