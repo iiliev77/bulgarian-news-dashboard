@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-14T18:56:30.788581+00:00",
+  "updated": "2026-10-14T19:26:11.321132+00:00",
   "articles": [
+    {
+      "title": "Анди Бърнам: Подкрепата на Великобритания за Украйна няма да се промени",
+      "url": "https://dariknews.bg/novini/sviat/andi-byrnam-podkrepata-na-velikobritaniia-za-ukrajna-niama-da-se-promeni-2469121",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51356/51356666/991-ratio-andi-byrnam.jpg"
+    },
     {
       "title": "Русия твърди, че Украйна е атакувала две нейни рафинерии, Киев отрича",
       "url": "https://dariknews.bg/novini/sviat/rusiia-tvyrdi-che-ukrajna-e-atakuvala-dve-nejni-rafinerii-kiev-otricha-2469120",
@@ -135,11 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396010/991-ratio-velislava-petrova.jpg"
     },
     {
-      "title": "Отново в България: Екстрадираха Стоян Колев от Испания (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/otnovo-v-bylgariia-ekstradiraha-stoian-kolev-ot-ispaniia-video-2469096",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51357/51357425/991-ratio-influensyryt-stoian-kolev.jpg"
+      "title": "На живо: Рома поведе срещу Реал Мадрид 14 Окт | 22:25",
+      "url": "https://dsport.bg/na-zivo-roma-real-madrid-vinisius-e-titular-sastavi~242212.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300218934.og.jpg"
+    },
+    {
+      "title": "Рафаел Леао с огромно признание за Ламин Ямал: Надявам се да спечели Златната топка 14 Окт | 22:10",
+      "url": "https://dsport.bg/rafael-leao-s-ogromno-priznanie-za-lamin-amal-nadavam-se-da-specheli-zlatnata-topka~242225.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300042442~1.og.jpg"
+    },
+    {
+      "title": "Даниил Медведев се класира за четвъртфиналите в Шанхай 14 Окт | 22:07",
+      "url": "https://dsport.bg/daniil-medvedev-se-klasira-za-chetvartfinalite-v-shanhai~242224.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300158741.og.jpg"
+    },
+    {
+      "title": "На живо: ПСЖ вкара два бързи гола на Манчестър Сити 14 Окт | 22:00",
+      "url": "https://dsport.bg/na-zivo-manchestar-siti-psz-sastavi~242211.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300217769.og.jpg"
+    },
+    {
+      "title": "Моуриньо изригна: Защо наказаха Винисиус часове преди ключов мач? 14 Окт | 21:54",
+      "url": "https://dsport.bg/mourino-izrigna-zasto-nakazaha-vinisius-chasove-predi-kluchov-mach~242223.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299572251~2.og.jpg"
     },
     {
       "title": "Приказката за Комо в Шампионска лига свърши много бързо 14 Окт | 21:46",
@@ -156,7 +191,7 @@
       "image": "https://dsport.bg/media/385/1010183.og.jpg"
     },
     {
-      "title": "Ливърпул спечели надстрелването с ЛАСК, Баркола с хеттрик 14 Окт | 21:35",
+      "title": "Ливърпул спечели надстрелването с ЛАСК, Баркола с хеттрик (ВИДЕО) 14 Окт | 21:35",
       "url": "https://dsport.bg/na-zivo-lask-livarpul-sastavi~242201.html",
       "source": "Dsport",
       "section": "sport",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/973531-1-.og.jpg"
-    },
-    {
-      "title": "Арина Сабаленка отпадна във втория кръг в Ухан 14 Окт | 21:15",
-      "url": "https://dsport.bg/arina-sabalenka-otpadna-vav-vtoria-krag-v-uhan~242217.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300176367.og.jpg"
-    },
-    {
-      "title": "Стефка Костадинова: 160-те хиляди лева не липсват, документите ще бъдат предадени на БОК в най-скоро време 14 Окт | 21:13",
-      "url": "https://dsport.bg/stefka-kostadinova-160-te-hiladi-leva-ne-lipsvat-dokumentite-ste-badat-predadeni-na-bok-v-nai-skoro-vreme~242216.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039858.og.jpg"
-    },
-    {
-      "title": "Лечева след края на ОС на БОК: Това беше една решаваща стъпка към нормалност в олимпийското движение 14 Окт | 21:11",
-      "url": "https://dsport.bg/lecheva-sled-kraa-na-os-na-bok-tova-beshe-edna-reshavasta-stapka-kam-normalnost-v-olimpiiskoto-dvizenie~242215.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039870.og.jpg"
-    },
-    {
-      "title": "Станислав Шопов: Поставяме си високи цели в Bethub ProCup 14 Окт | 21:08",
-      "url": "https://dsport.bg/stanislav-shopov-postavame-si-visoki-celi-v-bethub-procup~242214.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/850809013_1591833206318672_5130131226751410617_n~1.og.jpg"
-    },
-    {
-      "title": "Генчев: Във всеки турнир искаме да стигнем до края 14 Окт | 21:03",
-      "url": "https://dsport.bg/genchev-vav-vseki-turnir-iskame-da-stignem-do-kraa~242213.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/992463~2.og.jpg"
     }
   ]
 }
