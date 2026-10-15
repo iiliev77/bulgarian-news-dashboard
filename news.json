@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T15:05:20.882674+00:00",
+  "updated": "2026-10-15T15:38:20.009492+00:00",
   "articles": [
+    {
+      "title": "Мащабна акция в Плевенско: Задържаха двама души, обявени за общодържавно издирване",
+      "url": "https://dariknews.bg/regioni/pleven/mashtabna-akciia-v-plevensko-zadyrzhaha-dvama-dushi-obiaveni-za-obshtodyrzhavno-izdirvane-2469237",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396451/991-ratio-pri-specializiranata-policejska-akciia-v-plevensko-sa-provereni-470-grazhdani.jpg"
+    },
     {
       "title": "192 катастрофи във Врачанско през 2025 г., 12 души са загинали",
       "url": "https://dariknews.bg/regioni/vraca/192-katastrofi-vyv-vrachansko-prez-2025-g.-12-dushi-sa-zaginali-2469236",
@@ -30,11 +37,11 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396412/991-ratio-vivacom.jpg"
     },
     {
-      "title": "Трагедия в столичното метро: Откриха пребит мъж в асансьор, по-късно почина",
-      "url": "https://dariknews.bg/regioni/sofiia/tragediia-v-stolichnoto-metro-otkriha-prebit-myzh-v-asansior-po-kysno-pochina-2469231",
+      "title": "Трагедия в столичното метро: Откриха пребит мъж в асансьор, по-късно почина (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/tragediia-v-stolichnoto-metro-otkriha-prebit-myzh-v-asansior-po-kysno-pochina-snimki-2469231",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51105/51105339/991-ratio-metro.jpg"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Убийството в Димитровград: Майка и 14-годишният ѝ син остават в ареста",
@@ -135,11 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/48555/48555345/991-ratio-kristian-nikolov.jpg"
     },
     {
-      "title": "Абровски настоява за по-строг контрол върху вноса на картофени семена у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/abrovski-nastoiava-za-po-strog-kontrol-vyrhu-vnosa-na-kartofeni-semena-u-nas-2469212",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51338/51338662/991-ratio-plamen-abrovski.jpg"
+      "title": "На живо: ЦСКА - Монако, Годой в атаката на „червените“ (Състави) 15 Окт | 18:33",
+      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/cskatheday.og.png"
+    },
+    {
+      "title": "Шеф на Дортмунд почерпи смелчаците, които подкрепиха отбора отвъд полярния кръг 15 Окт | 18:28",
+      "url": "https://dsport.bg/shef-na-dortmund-pocherpi-smelchacite-koito-podkrepiha-otbora-otvad-polarnia-krag~242300.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299681151.og.jpg"
+    },
+    {
+      "title": "Юношите на България разгромиха Армения с 8:0 (ВИДЕО) 15 Окт | 18:22",
+      "url": "https://dsport.bg/unoshite-na-balgaria-razgromiha-armenia-s-8-0-video~242299.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/image_1792063115_86560.og.jpeg"
+    },
+    {
+      "title": "Кметът на Пловдив инспектира „Христо Бонев“ 15 Окт | 18:18",
+      "url": "https://dsport.bg/kmetat-na-plovdiv-inspektira-hristo-bonev~242298.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/850871760_2861768907520822_8660427569863869379_n.og.jfif"
+    },
+    {
+      "title": "Тревога в Рома: Дибала и Коне с контузии след сблъсъка с Реал Мадрид 15 Окт | 18:08",
+      "url": "https://dsport.bg/ roma-kontuzii-dibala-kone-real-madrid~242283.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300221099~1.og.jpg"
     },
     {
       "title": "Обраха дома на Антони, докато Бетис играеше срещу Порто 15 Окт | 17:57",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/822085-1-.og.jpg"
-    },
-    {
-      "title": "Съперникът на Никола Цолов за титлата във Формула 2 ще кара във Формула 1 догодина 15 Окт | 17:12",
-      "url": "https://dsport.bg/sapernikat-na-nikola-colov-za-titlata-vav-formula-2-ste-kara-vav-formula-1-dogodina~242294.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297061430.og.jpg"
-    },
-    {
-      "title": "Спортното шоу на Дарик радио - 15.10.2026 г. 15 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-radio-15-10-2026-g~242292.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-1349-.og.png"
-    },
-    {
-      "title": "Гостуващият сектор в Ниймеген: интересът е много по-голям от възможностите (ВИДЕО) 15 Окт | 16:55",
-      "url": "https://dsport.bg/gostuvastiat-sektor-v-niimegen-interesat-e-mnogo-po-golam-ot-vazmoznostite~242291.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/viber_image_2026-10-15_16-46-24-360.og.jpg"
-    },
-    {
-      "title": "УЕФА призна историята на ЦСКА, „армейците“ пред миланските колоси и Манчестър Юнайтед 15 Окт | 16:33",
-      "url": "https://dsport.bg/oficialno-uefa-prizna-istoriata-na-cska-armeicite-pred-milanskite-grandove-i-unaited~242290.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1037067.og.jpg"
-    },
-    {
-      "title": "Скалата в защитата на ЦСКА очаква феновете на „Армейски следобед“ 15 Окт | 16:14",
-      "url": "https://dsport.bg/skalata-v-zastitata-na-cska-ochakva-fenovete-na-armeiski-sledobed~242289.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1027891-1.og.jpg"
     }
   ]
 }
