@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:40:42.971830+00:00",
+  "updated": "2026-10-15T18:08:00.841910+00:00",
   "articles": [
     {
       "title": "След разпит: Руските разследващи освободиха главния редактор на „Новая газета“",
@@ -142,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396380/991-ratio-amerikanskoto-posolstvo-v-atina.jpg"
     },
     {
-      "title": "На живо: Монако вкара втори гол на ЦСКА точно преди почивката 15 Окт | 20:32",
+      "title": "На живо: НЕК Ниймеген - Левски (Състави) 15 Окт | 20:50",
+      "url": "https://dsport.bg/na-zivo-nek-niimegen-levski-sastavi~242237.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/levskitheday.og.png"
+    },
+    {
+      "title": "На живо: Монако води на ЦСКА 15 Окт | 20:49",
       "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040084.og.jpg"
+    },
+    {
+      "title": "Локо Пловдив с информация за феновете си преди мача в Габрово 15 Окт | 20:46",
+      "url": "https://dsport.bg/loko-plovdiv-s-informacia-za-fenovete-si-predi-macha-v-gabrovo~242310.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/15.10-2~2.og.jpg"
     },
     {
       "title": "Рилецо с четвърта загуба в Адриатическата лига 15 Окт | 20:14",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/960991-1.og.jpg"
-    },
-    {
-      "title": "Фантастичен Здравко Димитров донесе втори пореден успех на Петев (ВИДЕО) 15 Окт | 18:58",
-      "url": "https://dsport.bg/fantastichen-zdravko-dimitrov-donese-vtori-poreden-uspeh-na-petev-video~242302.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/847866386_2558664487969653_4136135479977456890_n.og.jpg"
-    },
-    {
-      "title": "ЦСКА: Отново сме там, където принадлежим – сред големите (ВИДЕО) 15 Окт | 18:46",
-      "url": "https://dsport.bg/cska-otnovo-sme-tam-kadeto-prinadlezim-sred-golemite-video~242301.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1012952-1.og.jpg"
     }
   ]
 }
