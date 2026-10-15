@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-15T07:56:41.142620+00:00",
+  "updated": "2026-10-15T08:23:15.759805+00:00",
   "articles": [
+    {
+      "title": "Спират водата в столичния квартал „Надежда“ 2",
+      "url": "https://dariknews.bg/regioni/sofiia/spirat-vodata-v-stolichniia-kvartal-nadezhda-2-2469162",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51353/51353726/991-ratio-studena-voda.jpg"
+    },
+    {
+      "title": "Нападнаха 69-годишна жена на банкомат и ѝ отнеха 430 евро в Нова Загора",
+      "url": "https://dariknews.bg/regioni/sliven/napadnaha-69-godishna-zhena-na-bankomat-i-otneha-430-evro-v-nova-zagora-2469160",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51243/51243333/991-ratio-evro-bankomat.jpg"
+    },
+    {
+      "title": "Хилари Суонк сподели щастлива новина: 52-годишната актриса очаква третото си дете (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/novini/liubopitno/hilari-suonk-spodeli-shtastliva-novina-52-godishnata-aktrisa-ochakva-tretoto-si-dete-videosnimki-2469161",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50234/50234361/991-ratio-hilari-suonk.jpg"
+    },
+    {
+      "title": "Шофьор от Кърджали пострада при катастрофа на АМ „Марица“",
+      "url": "https://dariknews.bg/regioni/haskovo/shofior-ot-kyrdzhali-postrada-pri-katastrofa-na-am-marica-2469163",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
     {
       "title": "Здравна криза в Конго: Стачка на медиците по време на епидемията от ебола",
       "url": "https://dariknews.bg/novini/sviat/zdravna-kriza-v-kongo-stachka-na-medicite-po-vreme-na-epidemiiata-ot-ebola-2469159",
@@ -37,8 +65,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396164/991-ratio-meso.jpg"
     },
     {
-      "title": "Радев: Тези атаки в Черно море са недопустими, очакваме солидарност",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-tezi-ataki-v-cherno-more-sa-nedopustimi-ochakvame-solidarnost-2469154",
+      "title": "Радев: „Челси 3“ пристига в Бургас за оглед - ще търсим доказателства, хипотезата е заявена и пред руския посланик",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-chelsi-3-pristiga-v-burgas-za-ogled-shte-tyrsim-dokazatelstva-hipotezata-e-zaiavena-i-pred-ruskiia-poslanik-2469154",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51340/51340092/991-ratio-radev.jpg"
@@ -114,32 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/32802/32802394/991-ratio-medicinska-sestra.jpg"
     },
     {
-      "title": "Нова тревога в Черно море: Пожар на кораб край Румъния, съмнения за атака с дрон",
-      "url": "https://dariknews.bg/novini/sviat/nova-trevoga-v-cherno-more-pozhar-na-korab-kraj-rumyniia-symneniia-za-ataka-s-dron-2469142",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396145/991-ratio-pozhar-korab.jpg"
+      "title": "Мареска след драмата с ПСЖ: Заслужавахме повече 15 Окт | 10:55",
+      "url": "https://dsport.bg/mareska-sled-dramata-s-psz-zasluzavahme-poveche~242258.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300222626.og.jpg"
     },
     {
-      "title": "Стана ясен съставът на журито в конкурса за социално ангажиращо видео на Фондация „Лъчезар Цоцорков“",
-      "url": "https://dariknews.bg/novini/obshtestvo/stana-iasen-systavyt-na-zhurito-v-konkursa-za-socialno-angazhirashto-video-na-fondaciia-lychezar-cocorkov-2469141",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396141/991-ratio-fondaciia.jpg"
+      "title": "Меси и Суарес дирижират: Интер Маями е в плейофите на МЛС след победа над Ню Йорк Сити 15 Окт | 10:44",
+      "url": "https://dsport.bg/mesi-i-suares-dirizirat-inter-maami-e-v-pleiofite-na-mls-sled-pobeda-nad-nu-iork-siti~242257.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300262106.og.jpg"
     },
     {
-      "title": "Мадуро се изправя пред съда в Ню Йорк с нови обвинения за изтезания",
-      "url": "https://dariknews.bg/novini/sviat/maduro-se-izpravia-pred-syda-v-niu-iork-s-novi-obvineniia-za-iztezaniia-2469139",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396139/991-ratio-maduro-syd-niu-iork.jpg"
-    },
-    {
-      "title": "Истанбул под вода: Две жертви, хиляди сигнали и призив да не се излиза (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/istanbul-pod-voda-dve-zhertvi-hiliadi-signali-i-priziv-da-ne-se-izliza-video-2469140",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32651/32651897/991-ratio-istanbul-navodnenie.jpg"
+      "title": "Моуриньо изригна след обрата: Котката вече не се крие, правят се неща без срам! 15 Окт | 10:36",
+      "url": "https://dsport.bg/mourino-izrigna-sled-obrata-kotkata-veche-ne-se-krie-pravat-se-nesta-bez-sram~242255.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299559543.og.jpg"
     },
     {
       "title": "Далас спечели гостуването си срещу Колорадо след изпълнение на дузпи 15 Окт | 10:26",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2290597729.og.jpg"
-    },
-    {
-      "title": "Нов нидерландски изпит за Левски 15 Окт | 09:25",
-      "url": "https://dsport.bg/nov-niderlandski-izpit-za-levski~242247.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295209854.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид ТВ обяви война след наказанието на Винисиус 15 Окт | 09:14",
-      "url": "https://dsport.bg/real-madrid-tv-obavi-voina-sled-nakazanieto-na-vinisius~242246.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299572251-1.og.jpg"
-    },
-    {
-      "title": "Мечтата за купата започва: 16 отбора по пътя към финала на Купа БФС U14 15 Окт | 09:06",
-      "url": "https://dsport.bg/mechtata-za-kupata-zapochva-16-otbora-po-pata-kam-finala-na-kupa-bfs-u14~242245.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/drawcup2.og.jpg"
     }
   ]
 }
