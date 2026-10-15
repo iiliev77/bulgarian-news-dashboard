@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T05:32:50.050980+00:00",
+  "updated": "2026-10-15T06:01:41.118776+00:00",
   "articles": [
+    {
+      "title": "Правителството предлага 660 евро минималната работна заплата от 1 януари 2027 година",
+      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-predlaga-660-evro-minimalnata-rabotna-zaplata-ot-1-ianuari-2027-godina-2469136",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51292/51292986/991-ratio-evro.jpg"
+    },
     {
       "title": "Румъния предлага на България общо искане до НАТО за военно командване в Черно море",
       "url": "https://dariknews.bg/novini/bylgariia/rumyniia-predlaga-na-bylgariia-obshto-iskane-do-nato-za-voenno-komandvane-v-cherno-more-2469135",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51356/51356666/991-ratio-andi-byrnam.jpg"
     },
     {
-      "title": "Русия твърди, че Украйна е атакувала две нейни рафинерии, Киев отрича",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-tvyrdi-che-ukrajna-e-atakuvala-dve-nejni-rafinerii-kiev-otricha-2469120",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51364/51364733/991-ratio-kiev-napadenie.jpg"
+      "title": "Левски преследва първи точки в Лига Европа в Ниската земя 15 Окт | 08:25",
+      "url": "https://dsport.bg/levski-presledva-parvi-tochki-v-liga-evropa-v-niskata-zema~242237.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/levskitheday.og.png"
     },
     {
       "title": "Винисиус наруши мълчанието: Гневен съм на себе си, но ще се върна по-силен 15 Окт | 08:13",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300056191.og.jpg"
-    },
-    {
-      "title": "Рилски спортист допусна втора поредна загуба в турнира ФИБА Къп 14 Окт | 22:40",
-      "url": "https://dsport.bg/rilski-sportist-dopusna-vtora-poredna-zaguba-v-turnira-fiba-kap~242227.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/555554072_1278263244311420_8751134206606561537_n-1.og.jpg"
     }
   ]
 }
