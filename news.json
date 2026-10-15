@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T19:16:15.675025+00:00",
+  "updated": "2026-10-15T19:44:29.000801+00:00",
   "articles": [
+    {
+      "title": "Нова експлозия в рафинерия в Гърция, двама са ранени",
+      "url": "https://dariknews.bg/novini/sviat/nova-eksploziia-v-rafineriia-v-gyrciia-dvama-sa-raneni-2469246",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50718/50718865/991-ratio-eksploziia.jpg"
+    },
     {
       "title": "„Агресията носи уважение“: Близо 60% от българите смятат така, а 46% оправдават шамара като възпитание",
       "url": "https://dariknews.bg/novini/bylgariia/agresiiata-nosi-uvazhenie-blizo-60-ot-bylgarite-smiatat-taka-a-46-opravdavat-shamara-kato-vyzpitanie-2469245",
@@ -135,18 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396393/991-ratio-herakleia-sintika.jpg"
     },
     {
-      "title": "Около 3600 читалища има в България, обсъждат промени във финансирането им",
-      "url": "https://dariknews.bg/novini/bylgariia/okolo-3600-chitalishta-ima-v-bylgariia-obsyzhdat-promeni-vyv-finansiraneto-im-2469221",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/38022/38022237/991-ratio-koncert.jpg"
-    },
-    {
-      "title": "На живо: НЕК Ниймеген - Левски 15 Окт | 22:15",
+      "title": "На живо: Левски поведе на НЕК! Рейналдо се реваншира за пропуските, Вуцов с асистенция 15 Окт | 22:36",
       "url": "https://dsport.bg/na-zivo-nek-niimegen-levski-sastavi~242237.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1040295.og.jpg"
+      "image": "https://dsport.bg/media/385/1040301.og.jpg"
+    },
+    {
+      "title": "Филипе Луис: ЦСКА ни постави в трудна ситуация, тази победа е много важна за нас 15 Окт | 22:31",
+      "url": "https://dsport.bg/filipe-luis-cska-ni-postavi-v-trudna-situacia-tazi-pobeda-e-mnogo-vazna-za-nas~242325.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040125.og.jpg"
+    },
+    {
+      "title": "Валентин Илиев: Не само бяхме равностойни, а в голяма част от мача доминирахме (ВИДЕО) 15 Окт | 22:26",
+      "url": "https://dsport.bg/valentin-iliev-ne-samo-bahme-ravnostoini-a-v-golama-chast-ot-macha-dominirahme-video~242324.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040080.og.jpg"
+    },
+    {
+      "title": "Сенси: Второто полувреме играхме невероятно, заслужавахме повече 15 Окт | 22:19",
+      "url": "https://dsport.bg/sensi-vtoroto-poluvreme-igrahme-neveroatno-zasluzavahme-poveche~242322.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040202.og.jpg"
     },
     {
       "title": "Цварц: Съжаляваме, че не успяхме да вземем нещо от този мач 15 Окт | 22:10",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299799037.og.jpg"
-    },
-    {
-      "title": "Андре Онана пусна гол от корнер и спаси дузпа, а Салах вкара срещу друг съперник на ЦСКА, ПАО удари Борац 15 Окт | 21:45",
-      "url": "https://dsport.bg/andre-onana-pusna-gol-ot-korner-i-spasi-duzpa-a-salah-vkara-srestu-drug-sapernik-na-cska-pao-udari-borac~242315.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299799215.og.jpg"
-    },
-    {
-      "title": "Съндърланд едва обърна втородивизионен тим, друг съперник на Левски показа характер 15 Окт | 21:40",
-      "url": "https://dsport.bg/sandarland-edva-obarna-vtorodivizionen-tim-drug-sapernik-na-levski-pokaza-harakter~242314.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300379607.og.jpg"
-    },
-    {
-      "title": "ЦСКА даде голяма битка, класата на Монако удържа „армейците“ 15 Окт | 21:38",
-      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040222.og.jpg"
     }
   ]
 }
