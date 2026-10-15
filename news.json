@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-15T10:32:05.001039+00:00",
+  "updated": "2026-10-15T11:02:59.281636+00:00",
   "articles": [
+    {
+      "title": "Музикалната легенда Маргарита Хранова проверява интуицията си в „Пееш или лъжеш“",
+      "url": "https://dariknews.bg/novini/liubopitno/muzikalnata-legenda-margarita-hranova-proveriava-intuiciiata-si-v-peesh-ili-lyzhesh-2469198",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396304/991-ratio-peesh-ili-lyzhesh.jpg"
+    },
+    {
+      "title": "Служителите в детските ясли в Габрово искат поне 10% увеличение на заплатите",
+      "url": "https://dariknews.bg/regioni/gabrovo/sluzhitelite-v-detskite-iasli-v-gabrovo-iskat-pone-10-uvelichenie-na-zaplatite-2469197",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51038/51038211/991-ratio-detska-gradina.jpg"
+    },
+    {
+      "title": "Назначиха нов началник на „Охранителна полиция“ в Първо РУ – Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/naznachiha-nov-nachalnik-na-ohranitelna-policiia-v-pyrvo-ru-stara-zagora-2469196",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396290/991-ratio-s.jpg"
+    },
+    {
+      "title": "Има свободни места по програмата „Топъл обяд“ във Видин, приемат документи",
+      "url": "https://dariknews.bg/regioni/vidin/ima-svobodni-mesta-po-programata-topyl-obiad-vyv-vidin-priemat-dokumenti-2469195",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44635/44635277/991-ratio-topyl-obiad-supa-supa.jpg"
+    },
+    {
+      "title": "Полицията проверява шофьори и товари на пътя Пазарджик - Пловдив",
+      "url": "https://dariknews.bg/regioni/plovdiv/policiiata-proveriava-shofiori-i-tovari-na-pytia-pazardzhik-plovdiv-2469194",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50734/50734999/991-ratio-policiia-kat-akiia.jpg"
+    },
     {
       "title": "ЦИК генерира публично хеш кода за машинния вот",
       "url": "https://dariknews.bg/novini/bylgariia/cik-generira-publichno-hesh-koda-za-mashinniia-vot-2469193",
@@ -58,11 +93,11 @@
       "image": "https://m.netinfo.bg/media/images/34815/34815813/991-ratio-bednost-portmone.jpg"
     },
     {
-      "title": "ГЕРБ скочи срещу предложението на властта за минимална заплата от 660 евро",
-      "url": "https://dariknews.bg/novini/bylgariia/gerb-skochi-sreshtu-predlozhenieto-na-vlastta-za-minimalna-zaplata-ot-660-evro-2469185",
+      "title": "„Битката на Радев с работещите бедни продължава“: Опозицията скочи срещу минимална заплата от 660 евро",
+      "url": "https://dariknews.bg/novini/bylgariia/bitkata-na-radev-s-raboteshtite-bedni-prodylzhava-opoziciiata-skochi-sreshtu-minimalna-zaplata-ot-660-evro-2469185",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51219/51219453/991-ratio-temenuzhka-petkova.jpg"
+      "image": "https://m.netinfo.bg/media/images/51029/51029569/991-ratio-zaplata.jpg"
     },
     {
       "title": "ДБ: Путин ескалира войната, за да затвори Черно море за търговско корабоплаване",
@@ -107,39 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396235/991-ratio-mvr-stara-zagora.jpg"
     },
     {
-      "title": "Правосъдният министър: Ще преценя дали имам основание да обжалвам избора на нов и.ф. главен прокурор",
-      "url": "https://dariknews.bg/novini/bylgariia/pravosydniiat-ministyr-shte-precenia-dali-imam-osnovanie-da-obzhalvam-izbora-na-nov-i.f.-glaven-prokuror-2469178",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51385/51385004/991-ratio-nikolaj-najdenov.jpg"
+      "title": "Сестрата на Кристиано Роналдо: Шансовете да се завърне са по-скоро минимални 15 Окт | 13:40",
+      "url": "https://dsport.bg/sestrata-na-kristiano-ronaldo-shansovete-da-se-zavarne-sa-po-skoro-minimalni~242274.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2284389542-1.og.jpg"
     },
     {
-      "title": "Двама души се заразиха със западнонилска треска в Германия",
-      "url": "https://dariknews.bg/novini/sviat/dvama-dushi-se-zaraziha-sys-zapadnonilska-treska-v-germaniia-2469177",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51156/51156727/991-ratio-komar.jpg"
+      "title": "Златен Левски излиза срещу НЕК Ниймеген 15 Окт | 13:28",
+      "url": "https://dsport.bg/zlaten-levski-izliza-srestu-nek-niimegen~242273.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/848.og.jpg"
     },
     {
-      "title": "Парламентът даде зелена светлина за още пет зенитно-ракетни комплекса",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-dade-zelena-svetlina-za-oshte-pet-zenitno-raketni-kompleksa-2469176",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32424/32424636/991-ratio-bylgarska-armiia.jpg"
-    },
-    {
-      "title": "Откриха изчезналата 17-годишна Ивелина от Сливен",
-      "url": "https://dariknews.bg/regioni/sliven/otkriha-izcheznalata-17-godishna-ivelina-ot-sliven-2469175",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Коя е Магдалена Лазарова - и.ф. главен прокурор на България",
-      "url": "https://dariknews.bg/novini/bylgariia/koia-e-magdalena-lazarova-i.f.-glaven-prokuror-na-bylgariia-2452841",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396216/991-ratio-magdalena-lazarova.jpg"
+      "title": "Барселона шокира с цена от 500 евро за специална фланелка за Ел Класико 15 Окт | 13:20",
+      "url": "https://dsport.bg/barselona-shokira-s-cena-ot-500-evro-za-specialna-flanelka-za-el-klasiko~242272.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/bf5eba.og.jpg"
     },
     {
       "title": "Без изненади в групата на Левски за гостуването на НЕК 15 Окт | 13:09",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300197429~1.og.jpg"
-    },
-    {
-      "title": "Самюел Ето'о влиза в битката за президентския пост на КАФ 15 Окт | 11:55",
-      "url": "https://dsport.bg/samuel-eto-o-vliza-v-bitkata-za-prezidentskia-post-na-kaf~242264.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-697331994-1~1.og.jpg"
-    },
-    {
-      "title": "Лисандро Мартинес разтърси клуба с остра критика, бъдещето му виси на косъм 15 Окт | 11:44",
-      "url": "https://dsport.bg/lisandro-martines-raztarsi-kluba-s-ostra-kritika-badesteto-mu-visi-na-kosam~242263.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300187388.og.jpg"
-    },
-    {
-      "title": "Скандал във Франция: Килиан Мбапе и майка му разпитани по мащабно дело за корупция 15 Окт | 11:34",
-      "url": "https://dsport.bg/skandal-vav-francia-kilian-mbape-i-maika-mu-razpitani-po-mastabno-delo-za-korupcia~242262.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2162273977~3.og.jpg"
     }
   ]
 }
