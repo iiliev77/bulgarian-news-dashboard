@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-15T11:02:59.281636+00:00",
+  "updated": "2026-10-15T11:31:42.197164+00:00",
   "articles": [
+    {
+      "title": "ЕС и страните от Залива отложиха среща на върха в Саудитска Арабия",
+      "url": "https://dariknews.bg/novini/sviat/es-i-stranite-ot-zaliva-otlozhiha-sreshta-na-vyrha-v-sauditska-arabiia-2469200",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
+    },
+    {
+      "title": "140 операции срещу търговията с гласове е провело МВР",
+      "url": "https://dariknews.bg/novini/bylgariia/140-operacii-sreshtu-tyrgoviiata-s-glasove-e-provelo-mvr-2469199",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51201/51201745/991-ratio-komisar-liubomir-nikolov.jpg"
+    },
+    {
+      "title": "Нови правила за оръжията и фойерверките: Парламентът промени закона",
+      "url": "https://dariknews.bg/novini/bylgariia/novi-pravila-za-oryzhiiata-i-fojerverkite-parlamentyt-promeni-zakona-2469202",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50993/50993474/991-ratio-fojerverki.jpg"
+    },
+    {
+      "title": "Над 4600 нарушения по морето: 142 души работили без договор",
+      "url": "https://dariknews.bg/regioni/varna/nad-4600-narusheniia-po-moreto-142-dushi-rabotili-bez-dogovor-2469201",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51379/51379826/991-ratio-restorant-more.jpg"
+    },
     {
       "title": "Музикалната легенда Маргарита Хранова проверява интуицията си в „Пееш или лъжеш“",
       "url": "https://dariknews.bg/novini/liubopitno/muzikalnata-legenda-margarita-hranova-proveriava-intuiciiata-si-v-peesh-ili-lyzhesh-2469198",
@@ -114,32 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51076/51076590/991-ratio-beleznici-zadyrzhan.jpg"
     },
     {
-      "title": "Минималната заплата за 2027 г.: окончателното решение до две седмици",
-      "url": "https://dariknews.bg/novini/bylgariia/minimalnata-zaplata-za-2027-g.-okonchatelnoto-reshenie-do-dve-sedmici-2469183",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51388/51388803/991-ratio-nataliia-efremova.jpg"
+      "title": "Новоизлюпен национал заби секси гадже 15 Окт | 14:10",
+      "url": "https://dsport.bg/novoizlupen-nacional-zabi-seksi-gadze~242277.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2244475147.og.jpg"
     },
     {
-      "title": "България изразява солидарност с Румъния след поредния инцидент в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-izraziava-solidarnost-s-rumyniia-sled-poredniia-incident-v-cherno-more-2469181",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51057/51057148/991-ratio-mvnr.jpg"
+      "title": "Локо Пд отбеляза напредък по стадион „Христо Бонев“ 15 Окт | 14:00",
+      "url": "https://dsport.bg/loko-pd-otbelaza-napredak-po-stadion-hristo-bonev~242276.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/lokopd8445.og.jpg"
     },
     {
-      "title": "Кола излетя от пътя и падна в река Арда край Мадан",
-      "url": "https://dariknews.bg/regioni/Smolyan/kola-izletia-ot-pytia-i-padna-v-reka-arda-kraj-madan-2469180",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47404/47404749/991-ratio-kola-v-rekata.jpg"
-    },
-    {
-      "title": "Нов ръководител на „Охранителна полиция“ в Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/nov-rykovoditel-na-ohranitelna-policiia-v-stara-zagora-2469179",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396235/991-ratio-mvr-stara-zagora.jpg"
+      "title": "Двойна добра новина за Флик: Рафиня и Де Йонг подновиха тренировки с Барселона 15 Окт | 13:50",
+      "url": "https://dsport.bg/dvoina-dobra-novina-za-flik-rafina-i-de-iong-podnoviha-trenirovki-s-barselona~242275.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2296106260.og.jpg"
     },
     {
       "title": "Сестрата на Кристиано Роналдо: Шансовете да се завърне са по-скоро минимални 15 Окт | 13:40",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299553680.og.jpg"
-    },
-    {
-      "title": "Никола Цолов е уверен, че преди края на сезона във Формула 2 може да се случат още изненади 15 Окт | 12:25",
-      "url": "https://dsport.bg/nikola-colov-e-uveren-che-predi-kraa-na-sezona-vav-formula-2-moze-da-se-sluchat-oste-iznenadi~242267.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2287579722-1~1.og.jpg"
-    },
-    {
-      "title": "Испанските медии сринаха Моуриньо въпреки чудото на Реал Мадрид в Рим 15 Окт | 12:16",
-      "url": "https://dsport.bg/ispanskite-medii-srinaha-mourino-vapreki-chudoto-na-real-madrid-v-rim~242266.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300233837.og.jpg"
-    },
-    {
-      "title": "Ираола пое вината: Моя грешка доведе до три гола във вратата на Ливърпул 15 Окт | 12:05",
-      "url": "https://dsport.bg/iraola-poe-vinata-moa-greshka-dovede-do-tri-gola-vav-vratata-na-livarpul~242265.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300197429~1.og.jpg"
     }
   ]
 }
