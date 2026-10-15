@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:36:11.222679+00:00",
+  "updated": "2026-10-15T21:05:36.638175+00:00",
   "articles": [
     {
       "title": "Катастрофа между автобус и влак на входа на тунела под Ламанша, има ранени",
@@ -142,14 +142,35 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "На живо: НЕК изравни на Левски след огромна грешка на Вуцов 15 Окт | 23:22",
+      "title": "Провал за два от съперниците на Левски в Европа, Ягелония обърна арменци 15 Окт | 23:59",
+      "url": "https://dsport.bg/proval-za-dva-ot-sapernicite-na-levski-v-evropa-agelonia-obarna-armenci~242332.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300399422.og.jpg"
+    },
+    {
+      "title": "Коло Муани донесе успеха на Ювентус над Селта в добавеното време 15 Окт | 23:54",
+      "url": "https://dsport.bg/kolo-muani-donese-uspeha-na-uventus-nad-selta-v-dobavenoto-vreme~242330.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300390368.og.jpg"
+    },
+    {
+      "title": "Левски не удържа НЕК, но взе първа точка в Лига Европа - Вуцов асистира и за двата отбора 15 Окт | 23:53",
       "url": "https://dsport.bg/na-zivo-nek-niimegen-levski-sastavi~242237.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1040331.og.jpg"
+      "image": "https://dsport.bg/media/385/1040395.og.jpg"
     },
     {
-      "title": "Жордао разкри какво му е казал съдията в ситуацията за дузпа 15 Окт | 23:20",
+      "title": "ЦСКА: Благодарим ви за невероятната подкрепа, армейци 15 Окт | 23:42",
+      "url": "https://dsport.bg/cska-blagodarim-vi-za-neveroatnata-podkrepa-armeici~242331.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/15.10-4~2.og.jpg"
+    },
+    {
+      "title": "Жордао разкри какво му е казал съдията в ситуацията за дузпа (ВИДЕО) 15 Окт | 23:20",
       "url": "https://dsport.bg/zordao-razkri-kakvo-mu-e-kazal-v-situaciata-za-duzpa~242329.html",
       "source": "Dsport",
       "section": "sport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040080.og.jpg"
-    },
-    {
-      "title": "Сенси: Второто полувреме играхме невероятно, заслужавахме повече 15 Окт | 22:19",
-      "url": "https://dsport.bg/sensi-vtoroto-poluvreme-igrahme-neveroatno-zasluzavahme-poveche~242322.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040202.og.jpg"
-    },
-    {
-      "title": "Цварц: Съжаляваме, че не успяхме да вземем нещо от този мач 15 Окт | 22:10",
-      "url": "https://dsport.bg/cvarc-sazalavame-che-ne-uspahme-da-vzemem-nesto-ot-tozi-mach~242321.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040212.og.jpg"
-    },
-    {
-      "title": "Вангел Вангелов: Реалният резултат беше поне равен (ВИДЕО) 15 Окт | 22:04",
-      "url": "https://dsport.bg/vangel-vangelov-realniat-rezultat-beshe-pone-raven-video~242320.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1038937~1.og.jpg"
     }
   ]
 }
