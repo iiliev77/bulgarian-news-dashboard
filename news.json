@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T19:44:29.000801+00:00",
+  "updated": "2026-10-15T20:08:38.150603+00:00",
   "articles": [
+    {
+      "title": "САЩ удължиха разрешението за операции на „Лукойл“ в България до 24 април 2027 г.",
+      "url": "https://dariknews.bg/novini/sviat/sasht-udylzhiha-razreshenieto-za-operacii-na-lukojl-v-bylgariia-do-24-april-2027-g-2469247",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50725/50725552/991-ratio-lukojl.jpg"
+    },
     {
       "title": "Нова експлозия в рафинерия в Гърция, двама са ранени",
       "url": "https://dariknews.bg/novini/sviat/nova-eksploziia-v-rafineriia-v-gyrciia-dvama-sa-raneni-2469246",
@@ -135,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/44023/44023610/991-ratio-komari.jpg"
     },
     {
-      "title": "Античният град „Хераклея Синтика“ влезе в топ 30 на конкурса „Нов европейски Баухаус“",
-      "url": "https://dariknews.bg/novini/liubopitno/antichniiat-grad-herakleia-sintika-vleze-v-top-30-na-konkursa-nov-evropejski-bauhaus-2469222",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396393/991-ratio-herakleia-sintika.jpg"
-    },
-    {
-      "title": "На живо: Левски поведе на НЕК! Рейналдо се реваншира за пропуските, Вуцов с асистенция 15 Окт | 22:36",
+      "title": "На живо: Левски води срещу НЕК! Рейналдо се реваншира за пропуските, Вуцов с асистенция 15 Окт | 23:04",
       "url": "https://dsport.bg/na-zivo-nek-niimegen-levski-sastavi~242237.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1040301.og.jpg"
+      "image": "https://dsport.bg/media/385/1040317.og.jpg"
+    },
+    {
+      "title": "Теодор Иванов: Феновете видяха, че дадохме всичко от себе си (ВИДЕО) 15 Окт | 22:46",
+      "url": "https://dsport.bg/teodor-ivanov-fenovete-vidaha-che-dadohme-vsichko-ot-sebe-si-video~242327.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040265.og.jpg"
+    },
+    {
+      "title": "БУТОНКИТЕ: ЦСКА крачи в правилна посока 15 Окт | 22:44",
+      "url": "https://dsport.bg/butonkite-cska-krachi-v-pravilna-posoka~242326.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/2026-10-15-butonki_thumb-niki.og.jpg"
     },
     {
       "title": "Филипе Луис: ЦСКА ни постави в трудна ситуация, тази победа е много важна за нас 15 Окт | 22:31",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2285275610~1.og.jpg"
-    },
-    {
-      "title": "Вратарят на Монако: Имахме късмет, ЦСКА е опасен отбор и пресира много 15 Окт | 21:55",
-      "url": "https://dsport.bg/vratarat-na-monako-imahme-kasmet-cska-e-opasen-otbor-i-presira-mnogo~242318.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040262.og.jpg"
-    },
-    {
-      "title": "Гидженов не видя дузпа в мач на „сини“ познайници, но швейцарец го поправи 15 Окт | 21:51",
-      "url": "https://dsport.bg/gidzenov-ne-vida-duzpa-v-mach-na-sini-poznainici-no-shveicarec-go-popravi~242316.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299799037.og.jpg"
     }
   ]
 }
