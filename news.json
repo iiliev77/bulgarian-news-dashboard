@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:05:36.638175+00:00",
+  "updated": "2026-10-15T21:35:37.112624+00:00",
   "articles": [
     {
       "title": "Катастрофа между автобус и влак на входа на тунела под Ламанша, има ранени",
@@ -128,6 +128,13 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
     },
     {
+      "title": "Как се промени живота на Наталия от „Игри на волята“ след шоуто и какво мисли за новите участници",
+      "url": "https://dariknews.bg/novini/liubopitno/kak-se-promeni-zhivota-na-nataliia-ot-igri-na-voliata-sled-shouto-i-kakvo-misli-za-novite-uchastnici-2469225",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
       "title": "Божанов: 800 000 българи са с ТЕЛК - изкуствен интелект ще търси фалшивите",
       "url": "https://dariknews.bg/novini/bylgariia/bozhanov-800-000-bylgari-sa-s-telk-izkustven-intelekt-shte-tyrsi-falshivite-2469224",
       "source": "DarikNews",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50473/50473171/991-ratio-telk.jpg"
     },
     {
-      "title": "Как се промени живота на Наталия от „Игри на волята“ след шоуто и какво мисли за новите участници",
-      "url": "https://dariknews.bg/novini/liubopitno/kak-se-promeni-zhivota-na-nataliia-ot-igri-na-voliata-sled-shouto-i-kakvo-misli-za-novite-uchastnici-2469225",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Рейналдо: Направихме голям мач, на правия път сме 16 Окт | 00:28",
+      "url": "https://dsport.bg/reinaldo-napravihme-golam-mach-na-pravia-pat-sme~242335.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040361~1.og.jpg"
+    },
+    {
+      "title": "Кристиан Димитров: Целият отбор стои зад Светльо, той направи изключително силен мач 16 Окт | 00:19",
+      "url": "https://dsport.bg/kristian-dimitrov-celiat-otbor-stoi-zad-svetlo-toi-napravi-izkluchitelno-silen-mach~242334.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040290.og.jpg"
+    },
+    {
+      "title": "Нордселанд с реми в Шотландия преди мача с ЦСКА 16 Окт | 00:04",
+      "url": "https://dsport.bg/nordseland-s-remi-v-shotlandia-predi-macha-s-cska~242333.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300393302.og.jpg"
     },
     {
       "title": "Провал за два от съперниците на Левски в Европа, Ягелония обърна арменци 15 Окт | 23:59",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040265.og.jpg"
-    },
-    {
-      "title": "БУТОНКИТЕ: ЦСКА крачи в правилна посока 15 Окт | 22:44",
-      "url": "https://dsport.bg/butonkite-cska-krachi-v-pravilna-posoka~242326.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/2026-10-15-butonki_thumb-niki.og.jpg"
-    },
-    {
-      "title": "Филипе Луис: ЦСКА ни постави в трудна ситуация, тази победа е много важна за нас 15 Окт | 22:31",
-      "url": "https://dsport.bg/filipe-luis-cska-ni-postavi-v-trudna-situacia-tazi-pobeda-e-mnogo-vazna-za-nas~242325.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040125.og.jpg"
-    },
-    {
-      "title": "Валентин Илиев: Не само бяхме равностойни, а в голяма част от мача доминирахме (ВИДЕО) 15 Окт | 22:26",
-      "url": "https://dsport.bg/valentin-iliev-ne-samo-bahme-ravnostoini-a-v-golama-chast-ot-macha-dominirahme-video~242324.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040080.og.jpg"
     }
   ]
 }
