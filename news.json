@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T22:01:24.702809+00:00",
+  "updated": "2026-10-15T22:28:03.561463+00:00",
   "articles": [
     {
       "title": "Катастрофа между автобус и влак на входа на тунела под Ламанша, има ранени",
@@ -142,6 +142,20 @@
       "image": "https://m.netinfo.bg/media/images/50473/50473171/991-ratio-telk.jpg"
     },
     {
+      "title": "Костадинов: Смесени чувства, много обичаме да вдигаме и сваляме футболисти (ВИДЕО) 16 Окт | 01:14",
+      "url": "https://dsport.bg/kostadinov-smeseni-chuvstva-mnogo-obichame-da-vdigame-i-svalame-futbolisti-video~242340.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040275~1.og.jpg"
+    },
+    {
+      "title": "БУТОНКИТЕ: Браво, Левски! 16 Окт | 00:58",
+      "url": "https://dsport.bg/butonkite-bravo-levski~242339.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/2026-10-15-butonki_thumb_tometo.og.jpg"
+    },
+    {
       "title": "Треньорът на НЕК за мача с Левски: И двата отбора са разочаровани от точката 16 Окт | 00:49",
       "url": "https://dsport.bg/trenorat-na-nek-za-macha-s-levski-i-dvata-otbora-sa-razocharovani-ot-tochkata~242338.html",
       "source": "Dsport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300390368.og.jpg"
-    },
-    {
-      "title": "Левски не удържа НЕК, но взе първа точка в Лига Европа - Вуцов асистира и за двата отбора 15 Окт | 23:53",
-      "url": "https://dsport.bg/na-zivo-nek-niimegen-levski-sastavi~242237.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040395.og.jpg"
-    },
-    {
-      "title": "ЦСКА: Благодарим ви за невероятната подкрепа, армейци 15 Окт | 23:42",
-      "url": "https://dsport.bg/cska-blagodarim-vi-za-neveroatnata-podkrepa-armeici~242331.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/15.10-4~2.og.jpg"
     }
   ]
 }
