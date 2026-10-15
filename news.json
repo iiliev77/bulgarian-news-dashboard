@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-15T04:09:40.547300+00:00",
+  "updated": "2026-10-15T04:37:35.819789+00:00",
   "articles": [
     {
-      "title": "След пореден инцидент с танкер в Черно море: Румъния разследва дали дрон е причинил пожара",
-      "url": "https://dariknews.bg/novini/sviat/sled-poreden-incident-s-tanker-v-cherno-more-rumyniia-razsledva-dali-dron-e-prichinil-pozhara-2469127",
+      "title": "8 американски щата съдят OpenAI, обвинявайки ChatGPT, че нанася вреди на децата",
+      "url": "https://dariknews.bg/novini/sviat/8-amerikanski-shtata-sydiat-openai-obviniavajki-chatgpt-che-nanasia-vredi-na-decata-2469129",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373839/991-ratio-chatgpt.jpg"
+    },
+    {
+      "title": "Европейският съвет ще обсъди подкрепата за Украйна и хибридните действия на Русия",
+      "url": "https://dariknews.bg/novini/sviat/evropejskiiat-syvet-shte-obsydi-podkrepata-za-ukrajna-i-hibridnite-dejstviia-na-rusiia-2469128",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396112/991-ratio-evropejskiiat-syvet.jpg"
+    },
+    {
+      "title": "След нов инцидент в Черно море: Румъния разследва дали дрон е причинил пожар на танкер в нейни води",
+      "url": "https://dariknews.bg/novini/sviat/sled-nov-incident-v-cherno-more-rumyniia-razsledva-dali-dron-e-prichinil-pozhar-na-tanker-v-nejni-vodi-2469127",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -126,20 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51350/51350748/991-ratio-beniamin-netaniahu.jpg"
-    },
-    {
-      "title": "Обвиниха 45-годишен мъж за жестоко убийство на свой съсед в Русенско",
-      "url": "https://dariknews.bg/regioni/ruse/obviniha-45-godishen-myzh-za-zhestoko-ubijstvo-na-svoj-sysed-v-rusensko-2469114",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50997/50997945/991-ratio-zatvor.jpg"
-    },
-    {
-      "title": "Приети са нови правила за определяне на минималната заплата",
-      "url": "https://dariknews.bg/novini/bylgariia/prieti-sa-novi-pravila-za-opredeliane-na-minimalnata-zaplata-2469112",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50484/50484729/991-ratio-zaplata-rabota.jpg"
     },
     {
       "title": "Грандиозен обрат за втората победа на Бетис в Шампионска лига 15 Окт | 00:10",
