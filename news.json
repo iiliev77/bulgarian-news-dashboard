@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:35:37.112624+00:00",
+  "updated": "2026-10-15T22:01:24.702809+00:00",
   "articles": [
     {
       "title": "Катастрофа между автобус и влак на входа на тунела под Ламанша, има ранени",
@@ -142,14 +142,35 @@
       "image": "https://m.netinfo.bg/media/images/50473/50473171/991-ratio-telk.jpg"
     },
     {
-      "title": "Рейналдо: Направихме голям мач, на правия път сме 16 Окт | 00:28",
+      "title": "Треньорът на НЕК за мача с Левски: И двата отбора са разочаровани от точката 16 Окт | 00:49",
+      "url": "https://dsport.bg/trenorat-na-nek-za-macha-s-levski-i-dvata-otbora-sa-razocharovani-ot-tochkata~242338.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040396~1.og.jpg"
+    },
+    {
+      "title": "Груич: Справедлив резултат, феновете направиха добър мач 16 Окт | 00:47",
+      "url": "https://dsport.bg/gruich-spravedliv-rezultat-fenovete-napraviha-dobar-mach~242337.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040331~1.og.jpg"
+    },
+    {
+      "title": "Веласкес: Играхме много добре, Левски се развива на терена и извън него (ВИДЕО) 16 Окт | 00:38",
+      "url": "https://dsport.bg/velaskes-igrahme-mnogo-dobre-levski-se-razviva-na-terena-i-izvan-nego-video~242336.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040304~1.og.jpg"
+    },
+    {
+      "title": "Рейналдо: Направихме голям мач, на правия път сме (ВИДЕО) 16 Окт | 00:28",
       "url": "https://dsport.bg/reinaldo-napravihme-golam-mach-na-pravia-pat-sme~242335.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040361~1.og.jpg"
     },
     {
-      "title": "Кристиан Димитров: Целият отбор стои зад Светльо, той направи изключително силен мач 16 Окт | 00:19",
+      "title": "Кристиан Димитров: Целият отбор стои зад Светльо, той направи изключително силен мач (ВИДЕО) 16 Окт | 00:19",
       "url": "https://dsport.bg/kristian-dimitrov-celiat-otbor-stoi-zad-svetlo-toi-napravi-izkluchitelno-silen-mach~242334.html",
       "source": "Dsport",
       "section": "sport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/15.10-4~2.og.jpg"
-    },
-    {
-      "title": "Жордао разкри какво му е казал съдията в ситуацията за дузпа (ВИДЕО) 15 Окт | 23:20",
-      "url": "https://dsport.bg/zordao-razkri-kakvo-mu-e-kazal-v-situaciata-za-duzpa~242329.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040084~1.og.jpg"
-    },
-    {
-      "title": "Майкъла: Очаквам, че все по-добре ще играе ЦСКА (ВИДЕО) 15 Окт | 23:17",
-      "url": "https://dsport.bg/maikala-ochakvam-che-vse-po-dobre-ste-igrae-cska-video~242328.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/348898253_556256643348955_1555402822311128863_n-1-1.og.jpg"
-    },
-    {
-      "title": "Теодор Иванов: Феновете видяха, че дадохме всичко от себе си (ВИДЕО) 15 Окт | 22:46",
-      "url": "https://dsport.bg/teodor-ivanov-fenovete-vidaha-che-dadohme-vsichko-ot-sebe-si-video~242327.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040265.og.jpg"
     }
   ]
 }
