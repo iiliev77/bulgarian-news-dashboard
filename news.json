@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T15:38:20.009492+00:00",
+  "updated": "2026-10-15T16:08:49.990587+00:00",
   "articles": [
+    {
+      "title": "Сигурността в Черно море на фокус: Михаела Доцова разговаря с Лоренцо Фонтана",
+      "url": "https://dariknews.bg/novini/bylgariia/sigurnostta-v-cherno-more-na-fokus-mihaela-docova-razgovaria-s-lorenco-fontana-2469238",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396473/991-ratio-predsedateliat-na-narodnoto-sybranie-mihaela-docova-i-predsedateliat-na-kamarata.jpg"
+    },
     {
       "title": "Мащабна акция в Плевенско: Задържаха двама души, обявени за общодържавно издирване",
       "url": "https://dariknews.bg/regioni/pleven/mashtabna-akciia-v-plevensko-zadyrzhaha-dvama-dushi-obiaveni-za-obshtodyrzhavno-izdirvane-2469237",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396370/991-ratio-docova-i-dimitriu.jpg"
     },
     {
-      "title": "Кристиан Николов, осъден за смъртта на Милен Цветков, иска свобода предсрочно",
-      "url": "https://dariknews.bg/regioni/sofiia/kristian-nikolov-osyden-za-smyrtta-na-milen-cvetkov-iska-svoboda-predsrochno-2469213",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48555/48555345/991-ratio-kristian-nikolov.jpg"
+      "title": "Фантастичен Здравко Димитров донесе втори пореден успех на Петев (ВИДЕО) 15 Окт | 18:58",
+      "url": "https://dsport.bg/fantastichen-zdravko-dimitrov-donese-vtori-poreden-uspeh-na-petev-video~242302.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/847866386_2558664487969653_4136135479977456890_n.og.jpg"
+    },
+    {
+      "title": "ЦСКА: Отново сме там, където принадлежим – сред големите (ВИДЕО) 15 Окт | 18:46",
+      "url": "https://dsport.bg/cska-otnovo-sme-tam-kadeto-prinadlezim-sred-golemite-video~242301.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1012952-1.og.jpg"
     },
     {
       "title": "На живо: ЦСКА - Монако, Годой в атаката на „червените“ (Състави) 15 Окт | 18:33",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-1153346603-1-2.og.jpg"
-    },
-    {
-      "title": "Феноменът Локомотив Пловдив: Как се гради европейски отбор от нулата само за 365 дни! 15 Окт | 17:27",
-      "url": "https://dsport.bg/fenomenat-lokomotiv-plovdiv-kak-se-gradi-evropeiski-otbor-ot-nulata-samo-za-365-dni~242295.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/untitled-design-2-~1.og.png"
-    },
-    {
-      "title": "Бербатов предупреди Монако: ЦСКА е заплаха, не ги подценявайте 15 Окт | 17:19",
-      "url": "https://dsport.bg/berbatov-preduprejdenie-monako-cska-liga-konferencii~242293.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/822085-1-.og.jpg"
     }
   ]
 }
