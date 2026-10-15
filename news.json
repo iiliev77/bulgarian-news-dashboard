@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-15T04:37:35.819789+00:00",
+  "updated": "2026-10-15T05:04:57.046573+00:00",
   "articles": [
+    {
+      "title": "Безразсъдно изпреварване: Верижна катастрофа застраши деца в Бистрица",
+      "url": "https://dariknews.bg/regioni/sofiia/bezrazsydno-izprevarvane-verizhna-katastrofa-zastrashi-deca-v-bistrica-2469132",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "ВСС решава кой ще е новият и.ф. главен прокурор, кандидатът е един",
+      "url": "https://dariknews.bg/novini/bylgariia/vss-reshava-koj-shte-e-noviiat-i.f.-glaven-prokuror-kandidatyt-e-edin-2469131",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51367/51367347/991-ratio-vss.jpg"
+    },
+    {
+      "title": "Парламентът ще гласува промени в Кодекса за застраховането",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-shte-glasuva-promeni-v-kodeksa-za-zastrahovaneto-2469130",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51329/51329469/991-ratio-parlament.jpg"
+    },
     {
       "title": "8 американски щата съдят OpenAI, обвинявайки ChatGPT, че нанася вреди на децата",
       "url": "https://dariknews.bg/novini/sviat/8-amerikanski-shtata-sydiat-openai-obviniavajki-chatgpt-che-nanasia-vredi-na-decata-2469129",
@@ -16,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396112/991-ratio-evropejskiiat-syvet.jpg"
     },
     {
-      "title": "След нов инцидент в Черно море: Румъния разследва дали дрон е причинил пожар на танкер в нейни води",
-      "url": "https://dariknews.bg/novini/sviat/sled-nov-incident-v-cherno-more-rumyniia-razsledva-dali-dron-e-prichinil-pozhar-na-tanker-v-nejni-vodi-2469127",
+      "title": "След нов инцидент в Черно море: Румъния разследва дали дрон е причинил пожара на танкер в нейни води",
+      "url": "https://dariknews.bg/novini/sviat/sled-nov-incident-v-cherno-more-rumyniia-razsledva-dali-dron-e-prichinil-pozhara-na-tanker-v-nejni-vodi-2469127",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -119,27 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51375/51375644/991-ratio-fbr.jpg"
-    },
-    {
-      "title": "Йотова: България и Румъния искат извънредна точка за Черно море на срещата на върха на ЕС",
-      "url": "https://dariknews.bg/novini/bylgariia/iotova-bylgariia-i-rumyniia-iskat-izvynredna-tochka-za-cherno-more-na-sreshtata-na-vyrha-na-es-2469117",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51337/51337970/991-ratio-iliiana-iotova.jpg"
-    },
-    {
-      "title": "Русия очаква до дни да подпише първите договори за износ на дизел след разговорите Путин-Тръмп",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-ochakva-do-dni-da-podpishe-pyrvite-dogovori-za-iznos-na-dizel-sled-razgovorite-putin-trymp-2469116",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51394/51394073/991-ratio-vladimir-putin-i-donald-trymp.jpg"
-    },
-    {
-      "title": "Нетаняху: Не смятам да атакувам Иран преди изборите в Израел",
-      "url": "https://dariknews.bg/novini/sviat/netaniahu-ne-smiatam-da-atakuvam-iran-predi-izborite-v-izrael-2469115",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51350/51350748/991-ratio-beniamin-netaniahu.jpg"
     },
     {
       "title": "Грандиозен обрат за втората победа на Бетис в Шампионска лига 15 Окт | 00:10",
