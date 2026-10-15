@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-15T12:38:32.402445+00:00",
+  "updated": "2026-10-15T13:20:40.668373+00:00",
   "articles": [
+    {
+      "title": "Руски дрон удари цивилен обект в Одеска област, четирима души са ранени",
+      "url": "https://dariknews.bg/novini/sviat/ruski-dron-udari-civilen-obekt-v-odeska-oblast-chetirima-dushi-sa-raneni-2469220",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51163/51163688/991-ratio-odesa.jpg"
+    },
+    {
+      "title": "Около 3600 читалища има в България, обсъждат промени във финансирането им",
+      "url": "https://dariknews.bg/novini/bylgariia/okolo-3600-chitalishta-ima-v-bylgariia-obsyzhdat-promeni-vyv-finansiraneto-im-2469221",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/38022/38022237/991-ratio-koncert.jpg"
+    },
+    {
+      "title": "Говори български и е работил в София: Кой е Джош Хък, който поема посолството в Атина",
+      "url": "https://dariknews.bg/novini/sviat/govori-bylgarski-i-e-rabotil-v-sofiia-koj-e-dzhosh-hyk-kojto-poema-posolstvoto-v-atina-2469219",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396380/991-ratio-amerikanskoto-posolstvo-v-atina.jpg"
+    },
+    {
+      "title": "Сблъсък на умовете проправя пътя към спасението в “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/sblysyk-na-umovete-propravia-pytia-kym-spasenieto-v-igri-na-voliata-2469216",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396368/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Ираван Хира става главен директор „Бизнес клиенти & ИКТ“ в Yettel България",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/iravan-hira-stava-glaven-direktor-biznes-klienti-ikt-v-yettel-bylgariia-2469215",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396255/991-ratio-yettel.jpg"
+    },
+    {
+      "title": "София и Никозия задълбочават парламентарния диалог",
+      "url": "https://dariknews.bg/novini/bylgariia/sofiia-i-nikoziia-zadylbochavat-parlamentarniia-dialog-2469217",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396370/991-ratio-docova-i-dimitriu.jpg"
+    },
     {
       "title": "Кристиан Николов, осъден за смъртта на Милен Цветков, иска свобода предсрочно",
       "url": "https://dariknews.bg/regioni/sofiia/kristian-nikolov-osyden-za-smyrtta-na-milen-cvetkov-iska-svoboda-predsrochno-2469213",
@@ -37,8 +79,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396341/991-ratio-tekstilni-izdeliia-i-sportni-obuvki-sys-znaci-na-tyrgovski-marki.jpg"
     },
     {
-      "title": "След атаките в Черно море: Радев и Рюте обсъдиха засилване на защитата на НАТО",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-atakite-v-cherno-more-radev-i-riute-obsydiha-zasilvane-na-zashtitata-na-nato-2469205",
+      "title": "След атаките в Черно море: Радев, Рюте и Дан обсъдиха нови мерки за сигурност",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-atakite-v-cherno-more-radev-riute-i-dan-obsydiha-novi-merki-za-sigurnost-2469205",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384995/991-ratio-nato.jpg"
@@ -100,49 +142,35 @@
       "image": "https://m.netinfo.bg/media/images/51038/51038211/991-ratio-detska-gradina.jpg"
     },
     {
-      "title": "Има свободни места по програмата „Топъл обяд“ във Видин, приемат документи",
-      "url": "https://dariknews.bg/regioni/vidin/ima-svobodni-mesta-po-programata-topyl-obiad-vyv-vidin-priemat-dokumenti-2469195",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44635/44635277/991-ratio-topyl-obiad-supa-supa.jpg"
+      "title": "Скалата в защитата на ЦСКА очаква феновете на „Армейски следобед“ 15 Окт | 16:14",
+      "url": "https://dsport.bg/skalata-v-zastitata-na-cska-ochakva-fenovete-na-armeiski-sledobed~242289.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1027891-1.og.jpg"
     },
     {
-      "title": "Полицията проверява шофьори и товари на пътя Пазарджик - Пловдив",
-      "url": "https://dariknews.bg/regioni/plovdiv/policiiata-proveriava-shofiori-i-tovari-na-pytia-pazardzhik-plovdiv-2469194",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50734/50734999/991-ratio-policiia-kat-akiia.jpg"
+      "title": "Без какво не тръгва Светльо Вуцов? (ВИДЕО) 15 Окт | 16:07",
+      "url": "https://dsport.bg/bez-kakvo-ne-tragva-svetlo-vucov-video~242288.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1029768~1.og.jpg"
     },
     {
-      "title": "ЦИК генерира публично хеш кода за машинния вот",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-generira-publichno-hesh-koda-za-mashinniia-vot-2469193",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396276/991-ratio-hesh-kod-cik-mashini-biuletini.jpg"
+      "title": "Нападател на Локомотив София отпътува към родината си 15 Окт | 15:59",
+      "url": "https://dsport.bg/napadatel-na-lokomotiv-sofia-otpatuva-kam-rodinata-si~242286.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/849042393_2139151150046958_8835554862612866384_n.og.jpg"
     },
     {
-      "title": "Пешеходец е в болница, блъснат от кола в Перник",
-      "url": "https://dariknews.bg/regioni/pernik/peshehodec-e-v-bolnica-blysnat-ot-kola-v-pernik-2469192",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51045/51045131/991-ratio-linejka.jpg"
+      "title": "Стефано Сенси преди Монако: Не ме е страх, във футбола невинаги по-силният на хартия печели 15 Окт | 15:55",
+      "url": "https://dsport.bg/stefano-sensi-predi-monako-ne-me-e-strah-vav-futbola-ne-vinagi-po-silniat-na-hartia-pecheli~242285.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1039828.og.jpg"
     },
     {
-      "title": "Здравето на папа Лъв разтревожи католическия свят, какво следва за папството",
-      "url": "https://dariknews.bg/novini/sviat/zdraveto-na-papa-lyv-raztrevozhi-katolicheskiia-sviat-kakvo-sledva-za-papstvoto-2469190",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396265/991-ratio-vatikana.jpg"
-    },
-    {
-      "title": "Задържаха мъжа, обвинен в побой над приятелката му и бебето им в Перник",
-      "url": "https://dariknews.bg/regioni/pernik/zadyrzhaha-myzha-obvinen-v-poboj-nad-priiatelkata-mu-i-bebeto-im-v-pernik-2469189",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51229/51229476/991-ratio-beleznici-arest.jpg"
-    },
-    {
-      "title": "Феноменален терен за НЕК и Левски 15 Окт | 15:31",
+      "title": "Феноменален терен за НЕК и Левски (ВИДЕО) 15 Окт | 15:31",
       "url": "https://dsport.bg/fenomenalen-teren-za-nek-i-levski~242284.html",
       "source": "Dsport",
       "section": "sport",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300182796.og.jpg"
-    },
-    {
-      "title": "Новоизлюпен национал заби секси гадже 15 Окт | 14:10",
-      "url": "https://dsport.bg/novoizlupen-nacional-zabi-seksi-gadze~242277.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2244475147.og.jpg"
-    },
-    {
-      "title": "Локо Пд отбеляза напредък по стадион „Христо Бонев“ 15 Окт | 14:00",
-      "url": "https://dsport.bg/loko-pd-otbelaza-napredak-po-stadion-hristo-bonev~242276.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/lokopd8445.og.jpg"
-    },
-    {
-      "title": "Двойна добра новина за Флик: Рафиня и Де Йонг подновиха тренировки с Барселона 15 Окт | 13:50",
-      "url": "https://dsport.bg/dvoina-dobra-novina-za-flik-rafina-i-de-iong-podnoviha-trenirovki-s-barselona~242275.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2296106260.og.jpg"
-    },
-    {
-      "title": "Сестрата на Кристиано Роналдо: Шансовете да се завърне са по-скоро минимални 15 Окт | 13:40",
-      "url": "https://dsport.bg/sestrata-na-kristiano-ronaldo-shansovete-da-se-zavarne-sa-po-skoro-minimalni~242274.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2284389542-1.og.jpg"
     }
   ]
 }
