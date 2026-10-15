@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-15T16:39:29.856040+00:00",
+  "updated": "2026-10-15T17:12:30.402918+00:00",
   "articles": [
+    {
+      "title": "Външният министър на Румъния: Русия превръща Черно море в опасна зона, убиването на моряци е престъпление",
+      "url": "https://dariknews.bg/novini/sviat/vynshniiat-ministyr-na-rumyniia-rusiia-prevryshta-cherno-more-v-opasna-zona-ubivaneto-na-moriaci-e-prestyplenie-2469242",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392327/991-ratio-karta-cherno-more.jpg"
+    },
+    {
+      "title": "Парламентарна комисия обсъди ключови промени в Закона за здравеопазването",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentarna-komisiia-obsydi-kliuchovi-promeni-v-zakona-za-zdraveopazvaneto-2469241",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396480/991-ratio-parlamentarnata-komisiia-po-zdraveopazvane.jpg"
+    },
     {
       "title": "Сигурността в Черно море на фокус: Михаела Доцова разговаря с Лоренцо Фонтана",
       "url": "https://dariknews.bg/novini/bylgariia/sigurnostta-v-cherno-more-na-fokus-mihaela-docova-razgovaria-s-lorenco-fontana-2469238",
@@ -128,18 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396368/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Ираван Хира става главен директор „Бизнес клиенти & ИКТ“ в Yettel България",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/iravan-hira-stava-glaven-direktor-biznes-klienti-ikt-v-yettel-bylgariia-2469215",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396255/991-ratio-yettel.jpg"
+      "title": "ЦСКА и Монако почетоха Димитър Бербатов 15 Окт | 20:07",
+      "url": "https://dsport.bg/cska-i-monako-pochetoha-dimitar-berbatov~242308.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040054.og.jpg"
     },
     {
-      "title": "София и Никозия задълбочават парламентарния диалог",
-      "url": "https://dariknews.bg/novini/bylgariia/sofiia-i-nikoziia-zadylbochavat-parlamentarniia-dialog-2469217",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396370/991-ratio-docova-i-dimitriu.jpg"
+      "title": "Инфантино се извини за опита да продаде част от правата на ФИФА, но не успя да потуши скандала 15 Окт | 20:04",
+      "url": "https://dsport.bg/infantino-se-izvini-za-opita-da-prodade-chast-ot-pravata-na-fifa-no-ne-uspa-da-potushi-skandala~242307.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2293665148.og.jpg"
+    },
+    {
+      "title": "На живо: Монако води на ЦСКА с ранен гол 15 Окт | 19:52",
+      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040067.og.jpg"
+    },
+    {
+      "title": "Красива сръбкиня се разкрачи – ще управлява един клуб, но ще играе за големия му съперник 15 Окт | 19:45",
+      "url": "https://dsport.bg/krasiva-srabkina-se-razkrachi-ste-upravlava-edin-klub-no-ste-igrae-za-golemia-mu-sapernik~242306.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-15-192506.og.png"
     },
     {
       "title": "УЕФА прати наградата на Станич, Йовичевич му я връчи (ВИДЕО) 15 Окт | 19:33",
@@ -177,39 +205,11 @@
       "image": "https://dsport.bg/media/385/1012952-1.og.jpg"
     },
     {
-      "title": "На живо: ЦСКА - Монако, Годой в атаката на „червените“ (Състави) 15 Окт | 18:33",
-      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/cskatheday.og.png"
-    },
-    {
       "title": "Шеф на Дортмунд почерпи смелчаците, които подкрепиха отбора отвъд полярния кръг 15 Окт | 18:28",
       "url": "https://dsport.bg/shef-na-dortmund-pocherpi-smelchacite-koito-podkrepiha-otbora-otvad-polarnia-krag~242300.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2299681151.og.jpg"
-    },
-    {
-      "title": "Юношите на България разгромиха Армения с 8:0 (ВИДЕО) 15 Окт | 18:22",
-      "url": "https://dsport.bg/unoshite-na-balgaria-razgromiha-armenia-s-8-0-video~242299.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/image_1792063115_86560.og.jpeg"
-    },
-    {
-      "title": "Кметът на Пловдив инспектира „Христо Бонев“ 15 Окт | 18:18",
-      "url": "https://dsport.bg/kmetat-na-plovdiv-inspektira-hristo-bonev~242298.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/850871760_2861768907520822_8660427569863869379_n.og.jfif"
-    },
-    {
-      "title": "Тревога в Рома: Дибала и Коне с контузии след сблъсъка с Реал Мадрид 15 Окт | 18:08",
-      "url": "https://dsport.bg/ roma-kontuzii-dibala-kone-real-madrid~242283.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300221099~1.og.jpg"
     }
   ]
 }
