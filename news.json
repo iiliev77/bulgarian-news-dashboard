@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-15T11:31:42.197164+00:00",
+  "updated": "2026-10-15T12:02:08.253112+00:00",
   "articles": [
+    {
+      "title": "Мицкоски: Рано или късно Ива Михайлова и баща й ще отговарят, България не разбира щетата",
+      "url": "https://dariknews.bg/novini/sviat/mickoski-rano-ili-kysno-iva-mihajlova-i-bashta-j-shte-otgovariat-bylgariia-ne-razbira-shtetata-2469207",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51036/51036497/991-ratio-mickoski.jpg"
+    },
+    {
+      "title": "Митничари откриха над 11 000 дрехи и обувки с лога на известни марки в камион, влизащ у нас от Гърция",
+      "url": "https://dariknews.bg/novini/bylgariia/mitnichari-otkriha-nad-11-000-drehi-i-obuvki-s-loga-na-izvestni-marki-v-kamion-vlizasht-u-nas-ot-gyrciia-2469206",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396341/991-ratio-tekstilni-izdeliia-i-sportni-obuvki-sys-znaci-na-tyrgovski-marki.jpg"
+    },
+    {
+      "title": "Заради атаките в Черно море: Радев и румънският президент се срещат с шефа на НАТО",
+      "url": "https://dariknews.bg/novini/bylgariia/zaradi-atakite-v-cherno-more-radev-i-rumynskiiat-prezident-se-sreshtat-s-shefa-na-nato-2469205",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384995/991-ratio-nato.jpg"
+    },
+    {
+      "title": "Напът са законови промени, свързани с изискванията за бутилиране на минерална вода",
+      "url": "https://dariknews.bg/novini/bylgariia/napyt-sa-zakonovi-promeni-svyrzani-s-iziskvaniiata-za-butilirane-na-mineralna-voda-2469204",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51127/51127106/991-ratio-butilka.jpg"
+    },
+    {
+      "title": "Къде се намира най-модерната археологическа зала у нас?",
+      "url": "https://dariknews.bg/novini/liubopitno/kyde-se-namira-naj-modernata-arheologicheska-zala-u-nas-2469203",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396314/991-ratio-svoboda-na-kolela.jpg"
+    },
     {
       "title": "ЕС и страните от Залива отложиха среща на върха в Саудитска Арабия",
       "url": "https://dariknews.bg/novini/sviat/es-i-stranite-ot-zaliva-otlozhiha-sreshta-na-vyrha-v-sauditska-arabiia-2469200",
@@ -9,11 +44,11 @@
       "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
     },
     {
-      "title": "140 операции срещу търговията с гласове е провело МВР",
-      "url": "https://dariknews.bg/novini/bylgariia/140-operacii-sreshtu-tyrgoviiata-s-glasove-e-provelo-mvr-2469199",
+      "title": "„Не сме активни в TikTok, работим на терен“: 140 операции на МВР преди вота",
+      "url": "https://dariknews.bg/novini/bylgariia/ne-sme-aktivni-v-tiktok-rabotim-na-teren-140-operacii-na-mvr-predi-vota-2469199",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51201/51201745/991-ratio-komisar-liubomir-nikolov.jpg"
+      "image": "https://m.netinfo.bg/media/images/51396/51396343/991-ratio-liubomir-nikolov.jpg"
     },
     {
       "title": "Нови правила за оръжията и фойерверките: Парламентът промени закона",
@@ -42,13 +77,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51038/51038211/991-ratio-detska-gradina.jpg"
-    },
-    {
-      "title": "Назначиха нов началник на „Охранителна полиция“ в Първо РУ – Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/naznachiha-nov-nachalnik-na-ohranitelna-policiia-v-pyrvo-ru-stara-zagora-2469196",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396290/991-ratio-s.jpg"
     },
     {
       "title": "Има свободни места по програмата „Топъл обяд“ във Видин, приемат документи",
@@ -100,8 +128,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396281/991-ratio-princ-hari-i-megan.jpg"
     },
     {
-      "title": "Поразеният кораб в Черно море започна да дрейфува, тече операция по овладяването му",
-      "url": "https://dariknews.bg/novini/bylgariia/porazeniiat-korab-v-cherno-more-zapochna-da-drejfuva-teche-operaciia-po-ovladiavaneto-mu-2469188",
+      "title": "Лошото време спря изтеглянето на поразения от дронове кораб край Приморско",
+      "url": "https://dariknews.bg/novini/bylgariia/loshoto-vreme-spria-izteglianeto-na-porazeniia-ot-dronove-korab-kraj-primorsko-2469188",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51396/51396254/991-ratio-chelsea.jpg"
@@ -114,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396250/991-ratio-papa-lyv.jpg"
     },
     {
-      "title": "Откриха крадеца на портмоне с 20 евро и телефон от възрастна жена в Пазарджик",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/otkriha-kradeca-na-portmone-s-20-evro-i-telefon-ot-vyzrastna-zhena-v-pazardzhik-2469186",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34815/34815813/991-ratio-bednost-portmone.jpg"
+      "title": "Маркус Гиздол определи групата на ЦСКА за двубоя с Монако 15 Окт | 14:38",
+      "url": "https://dsport.bg/markus-gizdol-opredeli-grupata-na-cska-za-dvuboa-s-monako~242279.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/52a4.og.jpg"
     },
     {
-      "title": "„Битката на Радев с работещите бедни продължава“: Опозицията скочи срещу минимална заплата от 660 евро",
-      "url": "https://dariknews.bg/novini/bylgariia/bitkata-na-radev-s-raboteshtite-bedni-prodylzhava-opoziciiata-skochi-sreshtu-minimalna-zaplata-ot-660-evro-2469185",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51029/51029569/991-ratio-zaplata.jpg"
-    },
-    {
-      "title": "ДБ: Путин ескалира войната, за да затвори Черно море за търговско корабоплаване",
-      "url": "https://dariknews.bg/novini/bylgariia/db-putin-eskalira-vojnata-za-da-zatvori-cherno-more-za-tyrgovsko-koraboplavane-2469184",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51382/51382204/991-ratio-mirchev-i-bozhanov.jpg"
-    },
-    {
-      "title": "Арестуваха 19-годишен, планирал стрелба в индуистки храм край Чикаго (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/arestuvaha-19-godishen-planiral-strelba-v-induistki-hram-kraj-chikago-video-2469182",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51076/51076590/991-ratio-beleznici-zadyrzhan.jpg"
+      "title": "Манчестър Юнайтед e цирк 15 Окт | 14:25",
+      "url": "https://dsport.bg/manchestar-unaited-e-cirk~242278.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300182796.og.jpg"
     },
     {
       "title": "Новоизлюпен национал заби секси гадже 15 Окт | 14:10",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2297064782-2~1.og.jpg"
-    },
-    {
-      "title": "Вратар обяви раздялата със съпругата си часове след геройски мач в Шампионска лига 15 Окт | 12:47",
-      "url": "https://dsport.bg/vratar-obavi-razdalata-sas-saprugata-si-chasove-sled-geroiski-mach-v-shampionska-liga~242269.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2187938480.og.jpg"
-    },
-    {
-      "title": "Въоръжени обраха вратаря на Виляреал 15 Окт | 12:35",
-      "url": "https://dsport.bg/vaorazeni-obraha-vratara-na-vilareal~242268.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299553680.og.jpg"
     }
   ]
 }
