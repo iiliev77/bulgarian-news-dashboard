@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-15T14:30:39.016200+00:00",
+  "updated": "2026-10-15T15:05:20.882674+00:00",
   "articles": [
+    {
+      "title": "192 катастрофи във Врачанско през 2025 г., 12 души са загинали",
+      "url": "https://dariknews.bg/regioni/vraca/192-katastrofi-vyv-vrachansko-prez-2025-g.-12-dushi-sa-zaginali-2469236",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/44213/44213344/991-ratio-katastrofa-katastrofirali-koli.jpg"
+    },
+    {
+      "title": "Премахнаха над 150 опасни дървета: Подготвят парк-музей „Врана“ да отвори през пролетта",
+      "url": "https://dariknews.bg/regioni/sofiia/premahnaha-nad-150-opasni-dyrveta-podgotviat-park-muzej-vrana-da-otvori-prez-proletta-2469235",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396438/991-ratio-park-muzej-vrana.jpg"
+    },
+    {
+      "title": "България изпрати на ЕК проекта на бюджетен план за 2027 г.",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-izprati-na-ek-proekta-na-biudzheten-plan-za-2027-g-2469234",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51299/51299979/991-ratio-evro.jpg"
+    },
     {
       "title": "Първи професионални стъпки, нови умения и реален опит: 55 млади таланти завършиха стажа си във Vivacom",
       "url": "https://dariknews.bg/novini/liubopitno/pyrvi-profesionalni-stypki-novi-umeniia-i-realen-opit-55-mladi-talanti-zavyrshiha-stazha-si-vyv-vivacom-2469230",
@@ -121,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51338/51338662/991-ratio-plamen-abrovski.jpg"
     },
     {
-      "title": "Повече пари за родителите: Вдигат помощите при раждане на дете и майчинството за втората година",
-      "url": "https://dariknews.bg/novini/bylgariia/poveche-pari-za-roditelite-vdigat-pomoshtite-pri-razhdane-na-dete-i-majchinstvoto-za-vtorata-godina-2469210",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Обраха дома на Антони, докато Бетис играеше срещу Порто 15 Окт | 17:57",
+      "url": "https://dsport.bg/obraha-doma-na-antoni-dokato-betis-igraeshe-srestu-porto~242297.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2259412201~1.og.jpg"
     },
     {
-      "title": "Мицкоски: Рано или късно Ива Михайлова и баща й ще отговарят, България не разбира щетата",
-      "url": "https://dariknews.bg/novini/sviat/mickoski-rano-ili-kysno-iva-mihajlova-i-bashta-j-shte-otgovariat-bylgariia-ne-razbira-shtetata-2469207",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036497/991-ratio-mickoski.jpg"
+      "title": "Александър Гицов се сбогува с турския си клуб 15 Окт | 17:52",
+      "url": "https://dsport.bg/aleksandar-gicov-se-sboguva-s-turskia-si-klub~242296.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/848787261_18465430957186827_5553662181956497026_n.og.jpg"
     },
     {
-      "title": "Митничари откриха над 11 000 дрехи и обувки с лога на известни марки в камион, влизащ у нас от Гърция",
-      "url": "https://dariknews.bg/novini/bylgariia/mitnichari-otkriha-nad-11-000-drehi-i-obuvki-s-loga-na-izvestni-marki-v-kamion-vlizasht-u-nas-ot-gyrciia-2469206",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396341/991-ratio-tekstilni-izdeliia-i-sportni-obuvki-sys-znaci-na-tyrgovski-marki.jpg"
+      "title": "Бербатов пред L’Équipe: Хари Кейн е най-добрият в света, напомня ми за мен 15 Окт | 17:40",
+      "url": "https://dsport.bg/berbato-harry-kane-cska-monaco-ekip~242287.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1153346603-1-2.og.jpg"
     },
     {
       "title": "Феноменът Локомотив Пловдив: Как се гради европейски отбор от нулата само за 365 дни! 15 Окт | 17:27",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1027891-1.og.jpg"
-    },
-    {
-      "title": "Без какво не тръгва Светльо Вуцов? (ВИДЕО) 15 Окт | 16:07",
-      "url": "https://dsport.bg/bez-kakvo-ne-tragva-svetlo-vucov-video~242288.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1029768~1.og.jpg"
-    },
-    {
-      "title": "Нападател на Локомотив София отпътува към родината си 15 Окт | 15:59",
-      "url": "https://dsport.bg/napadatel-na-lokomotiv-sofia-otpatuva-kam-rodinata-si~242286.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/849042393_2139151150046958_8835554862612866384_n.og.jpg"
-    },
-    {
-      "title": "Стефано Сенси преди Монако: Не ме е страх, във футбола невинаги по-силният на хартия печели 15 Окт | 15:55",
-      "url": "https://dsport.bg/stefano-sensi-predi-monako-ne-me-e-strah-vav-futbola-ne-vinagi-po-silniat-na-hartia-pecheli~242285.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039828.og.jpg"
     }
   ]
 }
