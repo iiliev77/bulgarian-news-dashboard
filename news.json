@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-15T07:19:47.556627+00:00",
+  "updated": "2026-10-15T07:56:41.142620+00:00",
   "articles": [
+    {
+      "title": "Здравна криза в Конго: Стачка на медиците по време на епидемията от ебола",
+      "url": "https://dariknews.bg/novini/sviat/zdravna-kriza-v-kongo-stachka-na-medicite-po-vreme-na-epidemiiata-ot-ebola-2469159",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51331/51331026/991-ratio-zdravnite-vlasti-zasilvat-operaciite-si-za-ovladiavane-na-smyrtonosnata-epidemiia.jpg"
+    },
+    {
+      "title": "Тежко е състоянието на мъжа, ударен от паднал клон в Сливен",
+      "url": "https://dariknews.bg/regioni/sliven/tezhko-e-systoianieto-na-myzha-udaren-ot-padnal-klon-v-sliven-2469157",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396009/991-ratio-sliven.jpg"
+    },
+    {
+      "title": "11 месеца затвор за мъж, влязъл с взлом в чуждо жилище в Кюстендил",
+      "url": "https://dariknews.bg/regioni/kiustendil/11-meseca-zatvor-za-myzh-vliazyl-s-vzlom-v-chuzhdo-zhilishte-v-kiustendil-2469156",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50742/50742979/991-ratio-beleznici-policiia-zatvor.jpg"
+    },
+    {
+      "title": "Кои храни помагат на имунната система през грипния сезон",
+      "url": "https://dariknews.bg/novini/liubopitno/koi-hrani-pomagat-na-imunnata-sistema-prez-gripniia-sezon-2469158",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50791/50791805/991-ratio-cherveni-chushki.jpg"
+    },
+    {
+      "title": "БАБХ затвори незаконен цех за консерви в Пловдивско",
+      "url": "https://dariknews.bg/regioni/plovdiv/babh-zatvori-nezakonen-ceh-za-konservi-v-plovdivsko-2469153",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396164/991-ratio-meso.jpg"
+    },
+    {
+      "title": "Радев: Тези атаки в Черно море са недопустими, очакваме солидарност",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-tezi-ataki-v-cherno-more-sa-nedopustimi-ochakvame-solidarnost-2469154",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51340/51340092/991-ratio-radev.jpg"
+    },
     {
       "title": "Задържаха 162 700 евро, укрити в турски камион на „Капитан Андреево“ (ВИДЕО/СНИМКИ)",
       "url": "https://dariknews.bg/regioni/haskovo/zadyrzhaha-162-700-evro-ukriti-v-turski-kamion-na-kapitan-andreevo-videosnimki-2469152",
@@ -37,18 +79,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396153/991-ratio-sladko-momche.jpg"
     },
     {
-      "title": "Съпротива при арест: 72-годишен мъж нападна полицай с дърво в старозагорско село",
-      "url": "https://dariknews.bg/regioni/stara-zagora/syprotiva-pri-arest-72-godishen-myzh-napadna-policaj-s-dyrvo-v-starozagorsko-selo-2469146",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51196/51196058/991-ratio-arest.jpg"
-    },
-    {
       "title": "Задържаха шофьор в Ботевград, дал положителна проба за метамфетамин",
       "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-shofior-v-botevgrad-dal-polozhitelna-proba-za-metamfetamin-2469147",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51320/51320966/991-ratio-shofior.jpg"
+    },
+    {
+      "title": "Съпротива при арест: 72-годишен мъж нападна полицай с дърво в старозагорско село",
+      "url": "https://dariknews.bg/regioni/stara-zagora/syprotiva-pri-arest-72-godishen-myzh-napadna-policaj-s-dyrvo-v-starozagorsko-selo-2469146",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196058/991-ratio-arest.jpg"
     },
     {
       "title": "Задържаха 29-годишен от Своге, ударил шамар на баба си",
@@ -72,8 +114,8 @@
       "image": "https://m.netinfo.bg/media/images/32802/32802394/991-ratio-medicinska-sestra.jpg"
     },
     {
-      "title": "Нова тревога в Черно море: Пожар на кораб във водите на Румъния, има съмнения за атака с дрон",
-      "url": "https://dariknews.bg/novini/sviat/nova-trevoga-v-cherno-more-pozhar-na-korab-vyv-vodite-na-rumyniia-ima-symneniia-za-ataka-s-dron-2469142",
+      "title": "Нова тревога в Черно море: Пожар на кораб край Румъния, съмнения за атака с дрон",
+      "url": "https://dariknews.bg/novini/sviat/nova-trevoga-v-cherno-more-pozhar-na-korab-kraj-rumyniia-symneniia-za-ataka-s-dron-2469142",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51396/51396145/991-ratio-pozhar-korab.jpg"
@@ -100,46 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/32651/32651897/991-ratio-istanbul-navodnenie.jpg"
     },
     {
-      "title": "Зеленски: Украйна губи партньор в лицето на САЩ, Тръмп е на страната на Русия",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-ukrajna-gubi-partnior-v-liceto-na-sasht-trymp-e-na-stranata-na-rusiia-2469138",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
+      "title": "Далас спечели гостуването си срещу Колорадо след изпълнение на дузпи 15 Окт | 10:26",
+      "url": "https://dsport.bg/dalas-specheli-gostuvaneto-si-srestu-kolorado-sled-izpalnenie-na-duzpi~242254.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300086720.og.jpg"
     },
     {
-      "title": "Мъж е с опасност за живота, намушкан от брат си след семеен скандал",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-e-s-opasnost-za-zhivota-namushkan-ot-brat-si-sled-semeen-skandal-2469137",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51040/51040754/991-ratio-nozh.jpg"
+      "title": "Георги Павлов: Този успех е огромно признание за България! 15 Окт | 10:14",
+      "url": "https://dsport.bg/georgi-pavlov-tozi-uspeh-e-ogromno-priznanie-za-balgaria~242253.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/viber_image_2026-03-27_19-08-38-578-1.og.jpg"
     },
     {
-      "title": "Правителството предлага 660 евро минимална заплата от 1 януари 2027 година",
-      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-predlaga-660-evro-minimalna-zaplata-ot-1-ianuari-2027-godina-2469136",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51292/51292986/991-ratio-evro.jpg"
+      "title": "Краят на Върджил ван Дайк? Разкъсаха капитана на Ливърпул след кошмарен мач 15 Окт | 10:06",
+      "url": "https://dsport.bg/kraat-na-vardzil-van-daik-razkasaha-kapitana-na-livarpul-sled-koshmaren-mach~242252.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299765082.og.jpg"
     },
     {
-      "title": "Румъния предлага на България общо искане до НАТО за военно командване в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/rumyniia-predlaga-na-bylgariia-obshto-iskane-do-nato-za-voenno-komandvane-v-cherno-more-2469135",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396121/991-ratio-rumyniia-i-bylgariia.jpg"
+      "title": "Съставът на Левски изглежда ясен, но Хулио си знае… 15 Окт | 09:57",
+      "url": "https://dsport.bg/sastavat-na-levski-izglezda-asen-no-hulio-si-znae~242251.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1031307-1.og.jpg"
     },
     {
-      "title": "Безразсъдно изпреварване: Верижна катастрофа застраши деца в Бистрица",
-      "url": "https://dariknews.bg/regioni/sofiia/bezrazsydno-izprevarvane-verizhna-katastrofa-zastrashi-deca-v-bistrica-2469132",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "„Майката на всички бомби“ може да бъде използвана при нови удари на САЩ срещу Иран?",
-      "url": "https://dariknews.bg/novini/sviat/majkata-na-vsichki-bombi-mozhe-da-byde-izpolzvana-pri-novi-udari-na-sasht-sreshtu-iran-2469133",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50472/50472430/991-ratio-vzriv-bomba.jpg"
+      "title": "Дейвид Култард сравни Никола Цолов с легенда на Формула 1 15 Окт | 09:50",
+      "url": "https://dsport.bg/deivid-kultard-sravni-nikola-colov-s-legenda-na-formula-1~242250.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2297213714~1.og.jpg"
     },
     {
       "title": "Династията на ПСЖ в Шампионска лига: парижани с историческа серия срещу английските грандове 15 Окт | 09:40",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/drawcup2.og.jpg"
-    },
-    {
-      "title": "Тотално фиаско за италианските отбори в Шампионска лига 15 Окт | 08:58",
-      "url": "https://dsport.bg/totalno-fiasko-za-italianskite-otbori-v-shampionska-liga~242244.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300254815.og.jpg"
-    },
-    {
-      "title": "Неудържимият Холанд подобри два рекорда на Меси в Шампионска лига 15 Окт | 08:51",
-      "url": "https://dsport.bg/neudarzimiat-holand-podobri-dva-rekorda-na-mesi-v-shampionska-liga~242242.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300228707.og.jpg"
-    },
-    {
-      "title": "Историческа вечер в Шампионска лига: падна нов голов рекорд 15 Окт | 08:40",
-      "url": "https://dsport.bg/istoricheska-vecher-v-shampionska-liga-padna-nov-golov-rekord~242241.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300234701.og.jpg"
-    },
-    {
-      "title": "Килиан Мбапе счупи рекорд на Меси в Шампионска лига 15 Окт | 08:30",
-      "url": "https://dsport.bg/kilian-mbape-schupi-rekord-na-mesi-v-shampionska-liga~242240.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300221528.og.jpg"
-    },
-    {
-      "title": "Новият треньор повежда ЦСКА в първото му предизвикателство в Лигата на конференциите 15 Окт | 08:28",
-      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/cskatheday.og.png"
     }
   ]
 }
