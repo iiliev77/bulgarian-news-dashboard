@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-15T20:08:38.150603+00:00",
+  "updated": "2026-10-15T20:36:11.222679+00:00",
   "articles": [
+    {
+      "title": "Катастрофа между автобус и влак на входа на тунела под Ламанша, има ранени",
+      "url": "https://dariknews.bg/novini/sviat/katastrofa-mezhdu-avtobus-i-vlak-na-vhoda-na-tunela-pod-lamansha-ima-raneni-2469248",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396672/991-ratio-vlak.jpg"
+    },
     {
       "title": "САЩ удължиха разрешението за операции на „Лукойл“ в България до 24 април 2027 г.",
       "url": "https://dariknews.bg/novini/sviat/sasht-udylzhiha-razreshenieto-za-operacii-na-lukojl-v-bylgariia-do-24-april-2027-g-2469247",
@@ -135,18 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Белгия съобщи за първите два смъртни случая от вируса на Западен Нил",
-      "url": "https://dariknews.bg/novini/sviat/belgiia-syobshti-za-pyrvite-dva-smyrtni-sluchaia-ot-virusa-na-zapaden-nil-2469223",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44023/44023610/991-ratio-komari.jpg"
-    },
-    {
-      "title": "На живо: Левски води срещу НЕК! Рейналдо се реваншира за пропуските, Вуцов с асистенция 15 Окт | 23:04",
+      "title": "На живо: НЕК изравни на Левски след огромна грешка на Вуцов 15 Окт | 23:22",
       "url": "https://dsport.bg/na-zivo-nek-niimegen-levski-sastavi~242237.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1040317.og.jpg"
+      "image": "https://dsport.bg/media/385/1040331.og.jpg"
+    },
+    {
+      "title": "Жордао разкри какво му е казал съдията в ситуацията за дузпа 15 Окт | 23:20",
+      "url": "https://dsport.bg/zordao-razkri-kakvo-mu-e-kazal-v-situaciata-za-duzpa~242329.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040084~1.og.jpg"
+    },
+    {
+      "title": "Майкъла: Очаквам, че все по-добре ще играе ЦСКА (ВИДЕО) 15 Окт | 23:17",
+      "url": "https://dsport.bg/maikala-ochakvam-che-vse-po-dobre-ste-igrae-cska-video~242328.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/348898253_556256643348955_1555402822311128863_n-1-1.og.jpg"
     },
     {
       "title": "Теодор Иванов: Феновете видяха, че дадохме всичко от себе си (ВИДЕО) 15 Окт | 22:46",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1038937~1.og.jpg"
-    },
-    {
-      "title": "Гиздол: Резултатът не е добър, но представянето беше страхотно 15 Окт | 21:58",
-      "url": "https://dsport.bg/gizdol-rezultatat-ne-e-dobar-no-predstavaneto-beshe-strahotno~242319.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040050~1.og.jpg"
-    },
-    {
-      "title": "Кристиян Балов дебютира в европейските турнири, но Звезда загуби в Швейцария 15 Окт | 21:55",
-      "url": "https://dsport.bg/kristian-balov-debutira-v-evropeiskite-turniri-no-zvezda-zagubi-v-shveicaria~242317.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2285275610~1.og.jpg"
     }
   ]
 }
