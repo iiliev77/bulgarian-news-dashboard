@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-15T18:08:00.841910+00:00",
+  "updated": "2026-10-15T18:42:32.415121+00:00",
   "articles": [
+    {
+      "title": "„Агресията носи уважение“: Близо 60% от българите смятат така, а 46% оправдават шамара като възпитание",
+      "url": "https://dariknews.bg/novini/bylgariia/agresiiata-nosi-uvazhenie-blizo-60-ot-bylgarite-smiatat-taka-a-46-opravdavat-shamara-kato-vyzpitanie-2469245",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Турция вкара електрически бронетранспортьор в армията: Тежи 15 тона и изминава до 650 км",
+      "url": "https://dariknews.bg/novini/sviat/turciia-vkara-elektricheski-bronetransportior-v-armiiata-tezhi-15-tona-i-izminava-do-650-km-2469244",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396502/991-ratio-pyrviiat-turski-elektricheski-bronetransportior.jpg"
+    },
     {
       "title": "След разпит: Руските разследващи освободиха главния редактор на „Новая газета“",
       "url": "https://dariknews.bg/novini/sviat/sled-razpit-ruskite-razsledvashti-osvobodiha-glavniia-redaktor-na-novaia-gazeta-2469243",
@@ -128,18 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/38022/38022237/991-ratio-koncert.jpg"
     },
     {
-      "title": "Руски дрон удари цивилен обект в Одеска област, четирима души са ранени",
-      "url": "https://dariknews.bg/novini/sviat/ruski-dron-udari-civilen-obekt-v-odeska-oblast-chetirima-dushi-sa-raneni-2469220",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51163/51163688/991-ratio-odesa.jpg"
+      "title": "Съндърланд едва обърна втородивизионен тим, друг съперник на Левски показа характер 15 Окт | 21:40",
+      "url": "https://dsport.bg/sandarland-edva-obarna-vtorodivizionen-tim-drug-sapernik-na-levski-pokaza-harakter~242314.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300379607.og.jpg"
     },
     {
-      "title": "Говори български и е работил в София: Кой е Джош Хък, който поема посолството в Атина",
-      "url": "https://dariknews.bg/novini/sviat/govori-bylgarski-i-e-rabotil-v-sofiia-koj-e-dzhosh-hyk-kojto-poema-posolstvoto-v-atina-2469219",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396380/991-ratio-amerikanskoto-posolstvo-v-atina.jpg"
+      "title": "ЦСКА даде голяма битка, класата на Монако удържа „армейците“ 15 Окт | 21:38",
+      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040222.og.jpg"
+    },
+    {
+      "title": "Милан се разправи с РБ Залцбург, младок заби хеттрик 15 Окт | 21:36",
+      "url": "https://dsport.bg/milan-se-razpravi-s-rb-zalcburg-mladok-zabi-hettrik~242312.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300371926.og.jpg"
+    },
+    {
+      "title": "Монако се възхити от хореографията на ЦСКА 15 Окт | 21:28",
+      "url": "https://dsport.bg/monako-se-vazhiti-ot-horeografiata-na-cska~242313.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040079~1.og.jpg"
+    },
+    {
+      "title": "Денчева и Глушкова продължават напред в Стара Загора 15 Окт | 21:07",
+      "url": "https://dsport.bg/dencheva-i-glushkova-prodalzavat-napred-v-stara-zagora~242311.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/15.10-3~1.og.jpg"
     },
     {
       "title": "На живо: НЕК Ниймеген - Левски (Състави) 15 Окт | 20:50",
@@ -147,13 +182,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/levskitheday.og.png"
-    },
-    {
-      "title": "На живо: Монако води на ЦСКА 15 Окт | 20:49",
-      "url": "https://dsport.bg/noviat-trenor-povezda-cska-v-parvoto-mu-predizvikatelstvo-v-ligata-na-konferenciite~242238.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040084.og.jpg"
     },
     {
       "title": "Локо Пловдив с информация за феновете си преди мача в Габрово 15 Окт | 20:46",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2293665148.og.jpg"
-    },
-    {
-      "title": "Красива сръбкиня се разкрачи – ще управлява един клуб, но ще играе за големия му съперник 15 Окт | 19:45",
-      "url": "https://dsport.bg/krasiva-srabkina-se-razkrachi-ste-upravlava-edin-klub-no-ste-igrae-za-golemia-mu-sapernik~242306.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/screenshot-2026-10-15-192506.og.png"
-    },
-    {
-      "title": "УЕФА прати наградата на Станич, Йовичевич му я връчи (ВИДЕО) 15 Окт | 19:33",
-      "url": "https://dsport.bg/uefa-prati-nagradata-na-stanich-iovichevich-mu-a-vrachi~242305.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/viber_image_2026-10-15_19-24-23-733.og.png"
-    },
-    {
-      "title": "Нов \"ковач\": рожба на Черно море подсили Янтра часове преди мача с Локо Пловдив 15 Окт | 19:19",
-      "url": "https://dsport.bg/nov-kovach-rozba-na-cherno-more-podsili-antra-chasove-predi-macha-s-loko-plovdiv~242304.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/849076741_2336757723822891_1611430022108062455_n.og.jpg"
-    },
-    {
-      "title": "Насар: Не аз съм фалирал федерацията, много грозна постъпка 15 Окт | 19:09",
-      "url": "https://dsport.bg/nasar-ne-az-sam-faliral-federaciata-mnogo-grozna-postapka~242303.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/960991-1.og.jpg"
     }
   ]
 }
