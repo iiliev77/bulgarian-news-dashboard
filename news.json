@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-15T12:02:08.253112+00:00",
+  "updated": "2026-10-15T12:38:32.402445+00:00",
   "articles": [
+    {
+      "title": "Кристиан Николов, осъден за смъртта на Милен Цветков, иска свобода предсрочно",
+      "url": "https://dariknews.bg/regioni/sofiia/kristian-nikolov-osyden-za-smyrtta-na-milen-cvetkov-iska-svoboda-predsrochno-2469213",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48555/48555345/991-ratio-kristian-nikolov.jpg"
+    },
+    {
+      "title": "Абровски настоява за по-строг контрол върху вноса на картофени семена у нас",
+      "url": "https://dariknews.bg/novini/bylgariia/abrovski-nastoiava-za-po-strog-kontrol-vyrhu-vnosa-na-kartofeni-semena-u-nas-2469212",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338662/991-ratio-plamen-abrovski.jpg"
+    },
+    {
+      "title": "Повече пари за родителите: Вдигат помощите при раждане на дете и майчинството за втората година",
+      "url": "https://dariknews.bg/novini/bylgariia/poveche-pari-za-roditelite-vdigat-pomoshtite-pri-razhdane-na-dete-i-majchinstvoto-za-vtorata-godina-2469210",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Мицкоски: Рано или късно Ива Михайлова и баща й ще отговарят, България не разбира щетата",
       "url": "https://dariknews.bg/novini/sviat/mickoski-rano-ili-kysno-iva-mihajlova-i-bashta-j-shte-otgovariat-bylgariia-ne-razbira-shtetata-2469207",
@@ -16,8 +37,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396341/991-ratio-tekstilni-izdeliia-i-sportni-obuvki-sys-znaci-na-tyrgovski-marki.jpg"
     },
     {
-      "title": "Заради атаките в Черно море: Радев и румънският президент се срещат с шефа на НАТО",
-      "url": "https://dariknews.bg/novini/bylgariia/zaradi-atakite-v-cherno-more-radev-i-rumynskiiat-prezident-se-sreshtat-s-shefa-na-nato-2469205",
+      "title": "След атаките в Черно море: Радев и Рюте обсъдиха засилване на защитата на НАТО",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-atakite-v-cherno-more-radev-i-riute-obsydiha-zasilvane-na-zashtitata-na-nato-2469205",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51384/51384995/991-ratio-nato.jpg"
@@ -121,25 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51229/51229476/991-ratio-beleznici-arest.jpg"
     },
     {
-      "title": "Принц Хари и Меган с първа съвместна публична поява във Великобритания (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/princ-hari-i-megan-s-pyrva-syvmestna-publichna-poiava-vyv-velikobritaniia-videosnimki-2469191",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396281/991-ratio-princ-hari-i-megan.jpg"
+      "title": "Феноменален терен за НЕК и Левски 15 Окт | 15:31",
+      "url": "https://dsport.bg/fenomenalen-teren-za-nek-i-levski~242284.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/viber_image_2026-10-15_15-20-27-564.og.jpg"
     },
     {
-      "title": "Лошото време спря изтеглянето на поразения от дронове кораб край Приморско",
-      "url": "https://dariknews.bg/novini/bylgariia/loshoto-vreme-spria-izteglianeto-na-porazeniia-ot-dronove-korab-kraj-primorsko-2469188",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396254/991-ratio-chelsea.jpg"
+      "title": "Валдано с унищожителна критика към Винисиус 15 Окт | 15:05",
+      "url": "https://dsport.bg/valdano-s-unistozitelna-kritika-kam-vinisius~242282.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299843935~1.og.jpg"
     },
     {
-      "title": "Папа Лъв XIV отново прекара спокойна нощ след операцията, съобщиха от Ватикана",
-      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-otnovo-prekara-spokojna-nosht-sled-operaciiata-syobshtiha-ot-vatikana-2469187",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396250/991-ratio-papa-lyv.jpg"
+      "title": "Голям удар за Интер, загуби голмайстора си за месец 15 Окт | 15:00",
+      "url": "https://dsport.bg/golam-udar-za-inter-zagubi-golmaistora-si-za-mesec~242281.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300310661.og.jpg"
+    },
+    {
+      "title": "Зверев и Давидович Фокина са първите полуфиналисти в Шанхай 15 Окт | 14:50",
+      "url": "https://dsport.bg/zverev-i-davidovich-fokina-sa-parvite-polufinalisti-v-shanhai~242280.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300325653.og.jpg"
     },
     {
       "title": "Маркус Гиздол определи групата на ЦСКА за двубоя с Монако 15 Окт | 14:38",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2284389542-1.og.jpg"
-    },
-    {
-      "title": "Златен Левски излиза срещу НЕК Ниймеген 15 Окт | 13:28",
-      "url": "https://dsport.bg/zlaten-levski-izliza-srestu-nek-niimegen~242273.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/848.og.jpg"
-    },
-    {
-      "title": "Барселона шокира с цена от 500 евро за специална фланелка за Ел Класико 15 Окт | 13:20",
-      "url": "https://dsport.bg/barselona-shokira-s-cena-ot-500-evro-za-specialna-flanelka-za-el-klasiko~242272.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/bf5eba.og.jpg"
-    },
-    {
-      "title": "Без изненади в групата на Левски за гостуването на НЕК 15 Окт | 13:09",
-      "url": "https://dsport.bg/bez-iznenadi-v-grupata-na-levski-za-gostuvaneto-na-nek~242271.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1039922.og.jpg"
-    },
-    {
-      "title": "Адвокатът на треньора на Португалия с безпрецедентна атака срещу Роналдо: Рушиш наследството си 15 Окт | 12:58",
-      "url": "https://dsport.bg/advokatat-na-trenora-na-portugalia-s-bezprecedentna-ataka-srestu-ronaldo-rushish-nasledstvoto-si~242270.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297064782-2~1.og.jpg"
     }
   ]
 }
