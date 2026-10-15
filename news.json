@@ -1,6 +1,90 @@
 {
-  "updated": "2026-10-15T06:37:32.559023+00:00",
+  "updated": "2026-10-15T07:19:47.556627+00:00",
   "articles": [
+    {
+      "title": "Задържаха 162 700 евро, укрити в турски камион на „Капитан Андреево“ (ВИДЕО/СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/haskovo/zadyrzhaha-162-700-evro-ukriti-v-turski-kamion-na-kapitan-andreevo-videosnimki-2469152",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396158/991-ratio-evro-nedeklarirani.jpg"
+    },
+    {
+      "title": "Метамфетамин и марихуана откриха у 19-годишен младеж и 12-годишно момче в Казанлъшко",
+      "url": "https://dariknews.bg/regioni/stara-zagora/metamfetamin-i-marihuana-otkriha-u-19-godishen-mladezh-i-12-godishno-momche-v-kazanlyshko-2469151",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396154/991-ratio-metaamfetamin.jpg"
+    },
+    {
+      "title": "Мъж е в болница след сбиване във Видин, задържан е 51-годишен",
+      "url": "https://dariknews.bg/regioni/vidin/myzh-e-v-bolnica-sled-sbivane-vyv-vidin-zadyrzhan-e-51-godishen-2469150",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320160/991-ratio-boj-sbivane.jpg"
+    },
+    {
+      "title": "Зеленски: Украйна подновява ударите по руските рафинерии",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-ukrajna-podnoviava-udarite-po-ruskite-rafinerii-2469148",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388042/991-ratio-volodimir-zelenski.jpg"
+    },
+    {
+      "title": "17-годишен опита да открадне пет шоколада от магазин в Казанлък",
+      "url": "https://dariknews.bg/regioni/stara-zagora/17-godishen-opita-da-otkradne-pet-shokolada-ot-magazin-v-kazanlyk-2469149",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396153/991-ratio-sladko-momche.jpg"
+    },
+    {
+      "title": "Съпротива при арест: 72-годишен мъж нападна полицай с дърво в старозагорско село",
+      "url": "https://dariknews.bg/regioni/stara-zagora/syprotiva-pri-arest-72-godishen-myzh-napadna-policaj-s-dyrvo-v-starozagorsko-selo-2469146",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51196/51196058/991-ratio-arest.jpg"
+    },
+    {
+      "title": "Задържаха шофьор в Ботевград, дал положителна проба за метамфетамин",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-shofior-v-botevgrad-dal-polozhitelna-proba-za-metamfetamin-2469147",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320966/991-ratio-shofior.jpg"
+    },
+    {
+      "title": "Задържаха 29-годишен от Своге, ударил шамар на баба си",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-29-godishen-ot-svoge-udaril-shamar-na-baba-si-2469145",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51010/51010664/991-ratio-vyzrastna-zhena.jpg"
+    },
+    {
+      "title": "Прокуратурата обвини жена за държане на наркотици за над 1,3 млн. евро",
+      "url": "https://dariknews.bg/regioni/sofiia/prokuraturata-obvini-zhena-za-dyrzhane-na-narkotici-za-nad-13-mln.-evro-2469144",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/46064/46064553/991-ratio-temida-syd.jpg"
+    },
+    {
+      "title": "Измама за над 19 000 евро: Обвиниха управител и главна сестра на болница в Благоевград",
+      "url": "https://dariknews.bg/regioni/blagoevgrad/izmama-za-nad-19-000-evro-obviniha-upravitel-i-glavna-sestra-na-bolnica-v-blagoevgrad-2469143",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32802/32802394/991-ratio-medicinska-sestra.jpg"
+    },
+    {
+      "title": "Нова тревога в Черно море: Пожар на кораб във водите на Румъния, има съмнения за атака с дрон",
+      "url": "https://dariknews.bg/novini/sviat/nova-trevoga-v-cherno-more-pozhar-na-korab-vyv-vodite-na-rumyniia-ima-symneniia-za-ataka-s-dron-2469142",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396145/991-ratio-pozhar-korab.jpg"
+    },
+    {
+      "title": "Стана ясен съставът на журито в конкурса за социално ангажиращо видео на Фондация „Лъчезар Цоцорков“",
+      "url": "https://dariknews.bg/novini/obshtestvo/stana-iasen-systavyt-na-zhurito-v-konkursa-za-socialno-angazhirashto-video-na-fondaciia-lychezar-cocorkov-2469141",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396141/991-ratio-fondaciia.jpg"
+    },
     {
       "title": "Мадуро се изправя пред съда в Ню Йорк с нови обвинения за изтезания",
       "url": "https://dariknews.bg/novini/sviat/maduro-se-izpravia-pred-syda-v-niu-iork-s-novi-obvineniia-za-iztezaniia-2469139",
@@ -16,8 +100,8 @@
       "image": "https://m.netinfo.bg/media/images/32651/32651897/991-ratio-istanbul-navodnenie.jpg"
     },
     {
-      "title": "Зеленски: Украйна губи партньор в лицето на САЩ, Тръмп застава на страната на Русия",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-ukrajna-gubi-partnior-v-liceto-na-sasht-trymp-zastava-na-stranata-na-rusiia-2469138",
+      "title": "Зеленски: Украйна губи партньор в лицето на САЩ, Тръмп е на страната на Русия",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-ukrajna-gubi-partnior-v-liceto-na-sasht-trymp-e-na-stranata-na-rusiia-2469138",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
@@ -30,8 +114,8 @@
       "image": "https://m.netinfo.bg/media/images/51040/51040754/991-ratio-nozh.jpg"
     },
     {
-      "title": "Правителството предлага 660 евро минималната заплата от 1 януари 2027 година",
-      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-predlaga-660-evro-minimalnata-zaplata-ot-1-ianuari-2027-godina-2469136",
+      "title": "Правителството предлага 660 евро минимална заплата от 1 януари 2027 година",
+      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-predlaga-660-evro-minimalna-zaplata-ot-1-ianuari-2027-godina-2469136",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51292/51292986/991-ratio-evro.jpg"
@@ -58,88 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/50472/50472430/991-ratio-vzriv-bomba.jpg"
     },
     {
-      "title": "ВСС решава кой ще е новият и.ф. главен прокурор, кандидатът е един",
-      "url": "https://dariknews.bg/novini/bylgariia/vss-reshava-koj-shte-e-noviiat-i.f.-glaven-prokuror-kandidatyt-e-edin-2469131",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51367/51367347/991-ratio-vss.jpg"
+      "title": "Династията на ПСЖ в Шампионска лига: парижани с историческа серия срещу английските грандове 15 Окт | 09:40",
+      "url": "https://dsport.bg/dinastiata-na-psz-v-shampionska-liga-parizani-s-istoricheska-seria-srestu-angliiskite-grandove~242249.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299658466.og.jpg"
     },
     {
-      "title": "Парламентът ще гласува промени в Кодекса за застраховането",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentyt-shte-glasuva-promeni-v-kodeksa-za-zastrahovaneto-2469130",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51329/51329469/991-ratio-parlament.jpg"
+      "title": "Изненадващ фаворит за нов мениджър на Манчестър Юнайтед 15 Окт | 09:33",
+      "url": "https://dsport.bg/iznenadvast-favorit-za-nov-menidzar-na-manchestar-unaited~242248.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2290597729.og.jpg"
     },
     {
-      "title": "8 американски щата съдят OpenAI, обвинявайки ChatGPT, че нанася вреди на децата",
-      "url": "https://dariknews.bg/novini/sviat/8-amerikanski-shtata-sydiat-openai-obviniavajki-chatgpt-che-nanasia-vredi-na-decata-2469129",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51373/51373839/991-ratio-chatgpt.jpg"
+      "title": "Нов нидерландски изпит за Левски 15 Окт | 09:25",
+      "url": "https://dsport.bg/nov-niderlandski-izpit-za-levski~242247.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2295209854.og.jpg"
     },
     {
-      "title": "Европейският съвет ще обсъди подкрепата за Украйна и хибридните действия на Русия",
-      "url": "https://dariknews.bg/novini/sviat/evropejskiiat-syvet-shte-obsydi-podkrepata-za-ukrajna-i-hibridnite-dejstviia-na-rusiia-2469128",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396112/991-ratio-evropejskiiat-syvet.jpg"
+      "title": "Реал Мадрид ТВ обяви война след наказанието на Винисиус 15 Окт | 09:14",
+      "url": "https://dsport.bg/real-madrid-tv-obavi-voina-sled-nakazanieto-na-vinisius~242246.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299572251-1.og.jpg"
     },
     {
-      "title": "След нов инцидент в Черно море: Румъния разследва дали дрон е причинил пожара на танкер в нейни води",
-      "url": "https://dariknews.bg/novini/sviat/sled-nov-incident-v-cherno-more-rumyniia-razsledva-dali-dron-e-prichinil-pozhara-na-tanker-v-nejni-vodi-2469127",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Какво определя дълголетието без болести? Имунната система дава отговор",
-      "url": "https://dariknews.bg/novini/liubopitno/kakvo-opredelia-dylgoletieto-bez-bolesti-imunnata-sistema-dava-otgovor-2469098",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51045/51045570/991-ratio-laboratoriia.jpg"
-    },
-    {
-      "title": "Германският канцлер Фридрих Мерц настоява за съкращаване на бъдещия бюджет на ЕС",
-      "url": "https://dariknews.bg/novini/sviat/germanskiiat-kancler-fridrih-merc-nastoiava-za-sykrashtavane-na-bydeshtiia-biudzhet-na-es-2469125",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
-    },
-    {
-      "title": "Есенни изненади в четвъртък: Слънце през деня и дъжд вечерта",
-      "url": "https://dariknews.bg/novini/bylgariia/esenni-iznenadi-v-chetvyrtyk-slynce-prez-denia-i-dyzhd-vecherta-2469122",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396083/991-ratio-vremeto-esen.jpg"
-    },
-    {
-      "title": "Въвеждат промени в движението по АМ „Струма“ в Благоевградско",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/vyvezhdat-promeni-v-dvizhenieto-po-am-struma-v-blagoevgradsko-2469113",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51278/51278380/991-ratio-struma.jpg"
-    },
-    {
-      "title": "Винаги до Тръмп, докато Мелания отсъстваше: Коя е Натали Харп (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/vinagi-do-trymp-dokato-melaniia-otsystvashe-koia-e-natali-harp-snimki-2469106",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395999/991-ratio-natali-harp.jpg"
-    },
-    {
-      "title": "Военна техника от Сухопътните войски ще премине по пътищата у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/voenna-tehnika-ot-suhopytnite-vojski-shte-premine-po-pytishtata-u-nas-2469097",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345380/991-ratio-voenna-tehnika.jpg"
-    },
-    {
-      "title": "Отбелязваме Световния ден на чистите ръце",
-      "url": "https://dariknews.bg/novini/sviat/otbeliazvame-svetovniia-den-na-chistite-ryce-2469086",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32843/32843116/991-ratio-miene-na-ryce.jpg"
+      "title": "Мечтата за купата започва: 16 отбора по пътя към финала на Купа БФС U14 15 Окт | 09:06",
+      "url": "https://dsport.bg/mechtata-za-kupata-zapochva-16-otbora-po-pata-kam-finala-na-kupa-bfs-u14~242245.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/drawcup2.og.jpg"
     },
     {
       "title": "Тотално фиаско за италианските отбори в Шампионска лига 15 Окт | 08:58",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/cskatheday.og.png"
-    },
-    {
-      "title": "Левски преследва първи точки в Лига Европа в Ниската земя 15 Окт | 08:25",
-      "url": "https://dsport.bg/levski-presledva-parvi-tochki-v-liga-evropa-v-niskata-zema~242237.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/levskitheday.og.png"
-    },
-    {
-      "title": "Винисиус наруши мълчанието: Гневен съм на себе си, но ще се върна по-силен 15 Окт | 08:13",
-      "url": "https://dsport.bg/vinisius-narushi-malchanieto-gneven-sam-na-sebe-si-no-ste-se-varna-po-silen~242234.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300202973.og.jpg"
-    },
-    {
-      "title": "Видимият гняв на Винисиус 15 Окт | 08:02",
-      "url": "https://dsport.bg/vidimiat-gnav-na-vinisius~242233.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300221756.og.jpg"
-    },
-    {
-      "title": "Грандиозен обрат за втората победа на Бетис в Шампионска лига 15 Окт | 00:10",
-      "url": "https://dsport.bg/grandiozen-obrat-za-vtorata-pobeda-na-betis-v-shampionska-liga~242232.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300233406.og.jpg"
-    },
-    {
-      "title": "Астън Вила унищожи Фенербахче (ВИДЕО) 15 Окт | 00:06",
-      "url": "https://dsport.bg/astan-vila-unistozi-fenerbahche~242231.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300232945.og.jpg"
     }
   ]
 }
