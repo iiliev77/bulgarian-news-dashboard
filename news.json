@@ -1,9 +1,30 @@
 {
-  "updated": "2026-10-16T14:04:01.585369+00:00",
+  "updated": "2026-10-16T14:35:55.180952+00:00",
   "articles": [
     {
-      "title": "Папа Лъв XIV отслужи литургия в болницата след операцията (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-otsluzhi-liturgiia-v-bolnicata-sled-operaciiata-video-2469342",
+      "title": "Ръководството на НАТФИЗ е представило план за решаване на проблемите в Академията",
+      "url": "https://dariknews.bg/novini/bylgariia/rykovodstvoto-na-natfiz-e-predstavilo-plan-za-reshavane-na-problemite-v-akademiiata-2469345",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397008/991-ratio-natfiz.jpg"
+    },
+    {
+      "title": "Делото срещу Портних: Разпитаха четирима свидетели в Софийския градски съд",
+      "url": "https://dariknews.bg/regioni/varna/deloto-sreshtu-portnih-razpitaha-chetirima-svideteli-v-sofijskiia-gradski-syd-2469344",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397006/991-ratio-portnih.jpg"
+    },
+    {
+      "title": "Четирима задържани в София при акция срещу наркотици (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/chetirima-zadyrzhani-v-sofiia-pri-akciia-sreshtu-narkotici-snimki-2469343",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397003/991-ratio-narkotici.jpg"
+    },
+    {
+      "title": "Папа Лъв XIV отслужи литургия в болницата, където се възстановява след операция (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-otsluzhi-liturgiia-v-bolnicata-kydeto-se-vyzstanoviava-sled-operaciia-video-2469342",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51103/51103204/991-ratio-papa-lyv.jpg"
@@ -121,25 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396958/991-ratio-policiia.jpg"
     },
     {
-      "title": "Здравният министър обяви кога идват първите инжекционни противогрипни ваксини",
-      "url": "https://dariknews.bg/novini/bylgariia/zdravniiat-ministyr-obiavi-koga-idvat-pyrvite-inzhekcionni-protivogripni-vaksini-2469323",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50091/50091797/991-ratio-vaksina.jpg"
-    },
-    {
-      "title": "Пенсии с фалшив стаж? Задържаха кмет в Кърджалийско за предполагаема документна измама",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/pensii-s-falshiv-stazh-zadyrzhaha-kmet-v-kyrdzhalijsko-za-predpolagaema-dokumentna-izmama-2469322",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
-    },
-    {
-      "title": "Изоставена горска площ в Балчик ще бъде превърната в екологичен парк по проект с Констанца",
-      "url": "https://dariknews.bg/regioni/dobrich/izostavena-gorska-plosht-v-balchik-shte-byde-prevyrnata-v-ekologichen-park-po-proekt-s-konstanca-2469320",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396953/991-ratio-balchik.jpg"
+      "title": "Билетите за първото гостуване на ЦСКА в Европа струват колкото тези за визита в България 16 Окт | 17:19",
+      "url": "https://dsport.bg/biletite-za-parvoto-gostuvane-na-cska-v-evropa-struvat-kolkoto-tezi-za-vizita-v-balgaria~242381.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-1~2.og.jpg"
     },
     {
       "title": "Гледайте Спортното шоу на Дарик - 16.10.2026 16 Окт | 17:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2292450775-1~1.og.jpg"
-    },
-    {
-      "title": "Голмайсторът за НЕК: Вратарят на Левски ми даде добър пас 16 Окт | 15:15",
-      "url": "https://dsport.bg/golmaistorat-za-nek-poluchih-hubav-pas~242370.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2299861674.og.jpg"
     }
   ]
 }
