@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T18:28:25.416338+00:00",
+  "updated": "2026-10-16T19:03:17.144885+00:00",
   "articles": [
+    {
+      "title": "След седмица на поста и скандал за квалификацията ѝ: Кейти Закария вече не е говорител на Белия дом",
+      "url": "https://dariknews.bg/novini/sviat/sled-sedmica-na-posta-i-skandal-za-kvalifikaciiata-kejti-zakariia-veche-ne-e-govoritel-na-beliia-dom-2469362",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397073/991-ratio-kejti-zakariia.jpg"
+    },
     {
       "title": "Брюксел пред бюджетен въпрос: Зеленски поиска 70 млрд. евро помощ, ЕС потвърждава недостига",
       "url": "https://dariknews.bg/novini/sviat/briuksel-pred-biudzheten-vypros-zelenski-poiska-70-mlrd.-evro-pomosht-es-potvyrzhdava-nedostiga-2469361",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396984/991-ratio-sofiia-parlament-narodno-sybranie-zasedanie.jpg"
     },
     {
-      "title": "Трима участници се сбогуват с “Игри на волята” тази вечер",
-      "url": "https://dariknews.bg/novini/liubopitno/trima-uchastnici-se-sboguvat-s-igri-na-voliata-tazi-vecher-2469332",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396980/991-ratio-igri-na-voliata.jpg"
+      "title": "Забравете жълтите и червените картони: в Уругвай показаха нещо ново 16 Окт | 21:47",
+      "url": "https://dsport.bg/zabravete-zaltite-i-chervenite-kartoni-v-urugvai-pokazaha-nesto-novo~242400.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2295832604.og.jpg"
+    },
+    {
+      "title": "Дуо от Спартак Плевен под въпрос за мача с Левски 16 Окт | 21:36",
+      "url": "https://dsport.bg/duo-ot-spartak-pleven-pod-vapros-za-macha-s-levski~242399.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-6~2.og.jpg"
     },
     {
       "title": "Косич: В мачовете за Купата се получават изненадващи резултати, радваме се, че минахме напред (ВИДЕО) 16 Окт | 21:23",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2299816109.og.jpg"
-    },
-    {
-      "title": "Тебас продължи атаката срещу Реал Мадрид: Искат да унищожат испанския футбол 16 Окт | 19:37",
-      "url": "https://dsport.bg/tebas-prodalzi-atakata-srestu-real-madrid-iskat-da-unistozat-ispanskia-futbol~242391.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2172798078-1-1~2.og.jpg"
-    },
-    {
-      "title": "Нефтохимик благодари на феновете си след мача с ЦСКА 1948 (ВИДЕО) 16 Окт | 19:27",
-      "url": "https://dsport.bg/neftohimik-blagodari-na-fenovete-si-sled-macha-s-cska-1948-video~242390.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-4~2.og.jpg"
     }
   ]
 }
