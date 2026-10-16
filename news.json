@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T16:35:38.441959+00:00",
+  "updated": "2026-10-16T17:06:13.692000+00:00",
   "articles": [
+    {
+      "title": "Изписват Ива Михайлова от „Пирогов” в началото на следващата седмица",
+      "url": "https://dariknews.bg/novini/bylgariia/izpisvat-iva-mihajlova-ot-pirogov-v-nachaloto-na-sledvashtata-sedmica-2469356",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397039/991-ratio-pirogov.jpg"
+    },
     {
       "title": "Папата говори с Путин от болничната стая, призова за примирие в Олешки",
       "url": "https://dariknews.bg/novini/sviat/papata-govori-s-putin-ot-bolnichnata-staia-prizova-za-primirie-v-oleshki-2469353",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51318/51318285/991-ratio-georgi-aleksandrov-vylchev.jpg"
     },
     {
-      "title": "Съдът в Кюстендил отложи делото по Европейската заповед за арест срещу Васил Михайлов",
-      "url": "https://dariknews.bg/regioni/kiustendil/sydyt-v-kiustendil-otlozhi-deloto-po-evropejskata-zapoved-za-arest-sreshtu-vasil-mihajlov-2469329",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389947/991-ratio-vasil-mihajlov-prokurorski-sin.jpg"
+      "title": "На живо: Локомотив Пловдив поведе на Янтра 16 Окт | 20:00",
+      "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/viber_image_2026-10-16_19-08-21-194.og.jpg"
+    },
+    {
+      "title": "След скандиранията за Хитлер и Аушвиц: УЕФА награди Хайдук Сплит 16 Окт | 19:44",
+      "url": "https://dsport.bg/sled-skandiraniata-za-hitler-i-aushvic-uefa-nagradi-haiduk-split~242392.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2299816109.og.jpg"
+    },
+    {
+      "title": "Тебас продължи атаката срещу Реал Мадрид: Искат да унищожат испанския футбол 16 Окт | 19:37",
+      "url": "https://dsport.bg/tebas-prodalzi-atakata-srestu-real-madrid-iskat-da-unistozat-ispanskia-futbol~242391.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2172798078-1-1~2.og.jpg"
     },
     {
       "title": "Нефтохимик благодари на феновете си след мача с ЦСКА 1948 (ВИДЕО) 16 Окт | 19:27",
@@ -147,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-4~2.og.jpg"
-    },
-    {
-      "title": "На живо: Янтра Габрово - Локомотив Пловдив 16 Окт | 19:25",
-      "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/viber_image_2026-10-16_19-08-21-194.og.jpg"
     },
     {
       "title": "Лисандро Мартинес ще бъде наличен за Дербито на розите, Карик: Той осъзна, че е допуснал грешка 16 Окт | 19:13",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-2~1.og.jpg"
-    },
-    {
-      "title": "Беретини заряза Пеги Гу заради бившата? 16 Окт | 17:42",
-      "url": "https://dsport.bg/mateo-beretini-pegi-gu-federika-leli-razdyala-sluhove~242382.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/mixcollage-16-oct-2026-05-40-pm-8659.og.jpg"
-    },
-    {
-      "title": "Билетите за първото гостуване на ЦСКА в Европа струват колкото тези за визита в България 16 Окт | 17:19",
-      "url": "https://dsport.bg/biletite-za-parvoto-gostuvane-na-cska-v-evropa-struvat-kolkoto-tezi-za-vizita-v-balgaria~242381.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-1~2.og.jpg"
     }
   ]
 }
