@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:30:35.255510+00:00",
+  "updated": "2026-10-16T19:55:36.467343+00:00",
   "articles": [
     {
       "title": "След седмица на поста и скандал за квалификацията ѝ: Кейти Закария вече не е говорител на Белия дом",
@@ -142,6 +142,13 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396984/991-ratio-sofiia-parlament-narodno-sybranie-zasedanie.jpg"
     },
     {
+      "title": "Спортист Своге победи Локо Мездра в контрола 16 Окт | 22:43",
+      "url": "https://dsport.bg/sportist-svoge-pobedi-loko-mezdra-v-kontrola~242403.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-9.og.jpg"
+    },
+    {
       "title": "Марица Пловдив започна защитата на титлата си с победа 16 Окт | 22:28",
       "url": "https://dsport.bg/marica-plovdiv-zapochna-zastitata-na-titlata-si-s-pobeda~242402.html",
       "source": "Dsport",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
-    },
-    {
-      "title": "Локомотив Пд вкара по един гол във всяко полувреме, за да отстрани Янтра от турнира за Sesame Купа на България 16 Окт | 20:50",
-      "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/lokpd.og.jpg"
     }
   ]
 }
