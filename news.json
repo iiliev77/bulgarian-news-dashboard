@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-16T12:11:28.507290+00:00",
+  "updated": "2026-10-16T12:50:50.042193+00:00",
   "articles": [
+    {
+      "title": "Удари в лицето и рамото: Ограбиха 60-годишна жена, отнеха златото и парите ѝ",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/udari-v-liceto-i-ramoto-ograbiha-60-godishna-zhena-otneha-zlatoto-i-parite--2469331",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/43704/43704813/991-ratio-grabezh.jpg"
+    },
+    {
+      "title": "Доцова в Рима: Сигурността в Черно море е критична за цяла Европа",
+      "url": "https://dariknews.bg/novini/sviat/docova-v-rima-sigurnostta-v-cherno-more-e-kritichna-za-ciala-evropa-2469330",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396976/991-ratio-mihaela-docova.jpg"
+    },
+    {
+      "title": "Вълчев гарантира: Нито едно училище в България няма да затвори врати заради липсата на средства за отопление",
+      "url": "https://dariknews.bg/novini/bylgariia/vylchev-garantira-nito-edno-uchilishte-v-bylgariia-niama-da-zatvori-vrati-zaradi-lipsata-na-sredstva-za-otoplenie-2469328",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51318/51318285/991-ratio-georgi-aleksandrov-vylchev.jpg"
+    },
+    {
+      "title": "Съдът в Кюстендил отложи делото по Европейската заповед за арест срещу Васил Михайлов",
+      "url": "https://dariknews.bg/regioni/kiustendil/sydyt-v-kiustendil-otlozhi-deloto-po-evropejskata-zapoved-za-arest-sreshtu-vasil-mihajlov-2469329",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51389/51389947/991-ratio-vasil-mihajlov-prokurorski-sin.jpg"
+    },
     {
       "title": "Бивш областен управител на Варна с обвинение за неизгоден договор за адвокатски услуги",
       "url": "https://dariknews.bg/regioni/varna/bivsh-oblasten-upravitel-na-varna-s-obvinenie-za-neizgoden-dogovor-za-advokatski-uslugi-2469327",
@@ -114,32 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/50990/50990985/991-ratio-kaia-kalas.jpg"
     },
     {
-      "title": "Два служебни автомобила на ДПС са подпалени в Търговище",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/dva-sluzhebni-avtomobila-na-dps-sa-podpaleni-v-tyrgovishte-2469310",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396916/991-ratio-pozhar-tyrgovishte.jpg"
+      "title": "На живо: Шестнайсетинафиналите за Sesame Купа на България започнаха 16 Окт | 15:47",
+      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
-      "title": "Над 75% от секциите ще бъдат с машинно гласуване, системата е готова за изборите",
-      "url": "https://dariknews.bg/novini/bylgariia/nad-75-ot-sekciite-shte-bydat-s-mashinno-glasuvane-sistemata-e-gotova-za-izborite-2469308",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
+      "title": "Тебас сравни медийната стратегия на Реал Мадрид с пропагандата на Гьобелс 16 Окт | 15:43",
+      "url": "https://dsport.bg/tebas-sravni-mediinata-strategia-na-real-madrid-s-propagandata-na-gobels~242374.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-1166061320-1-2-2-1-1-2-2-1-2~1.og.jpg"
     },
     {
-      "title": "Кои са победителите в „Хижа на годината 2026“",
-      "url": "https://dariknews.bg/novini/liubopitno/koi-sa-pobeditelite-v-hizha-na-godinata-2026-2469309",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51217/51217830/991-ratio-slynce-esen-planina.jpg"
+      "title": "Официално: MrBit е новият генерален спонсор на Вихрен Сандански 16 Окт | 15:40",
+      "url": "https://dsport.bg/oficialno-mrbit-e-noviat-generalen-sponsor-na-vihren-sandanski~242375.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/img_0197.og.jpg"
     },
     {
-      "title": "Европейският парламент ще приеме резолюция по повод ударите срещу кораби в Черно море",
-      "url": "https://dariknews.bg/novini/sviat/evropejskiiat-parlament-shte-prieme-rezoliuciia-po-povod-udarite-sreshtu-korabi-v-cherno-more-2469307",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
+      "title": "Флик не мисли за ПСЖ и Реал: Най-важното е да победим Бетис 16 Окт | 15:29",
+      "url": "https://dsport.bg/flik-ne-misli-za-psz-i-real-nai-vaznoto-e-da-pobedim-betis~242373.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2292450775-1~1.og.jpg"
+    },
+    {
+      "title": "Голмайсторът за НЕК: Вратарят на Левски ми даде добър пас 16 Окт | 15:15",
+      "url": "https://dsport.bg/golmaistorat-za-nek-poluchih-hubav-pas~242370.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2299861674.og.jpg"
     },
     {
       "title": "Белингам е пред нов договор с Реал Мадрид 16 Окт | 15:04",
@@ -163,13 +198,6 @@
       "image": "https://dsport.bg/media/385/1040100.og.jpg"
     },
     {
-      "title": "На живо: Шестнайсетинафиналите за Sesame Купа на България започнаха 16 Окт | 14:10",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
-    },
-    {
       "title": "Изненадите в Ухан продължават 16 Окт | 14:00",
       "url": "https://dsport.bg/iznenadite-v-uhan-prodalzavat~242367.html",
       "source": "Dsport",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2269957166-1.og.jpg"
-    },
-    {
-      "title": "ЦСКА съобщи подробности за билетите в Несебър 16 Окт | 13:40",
-      "url": "https://dsport.bg/cska-saobsti-podrobnosti-za-biletite-v-nesebar~242366.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/854169992_1467159111986495_1767675047584463568_n.og.jpg"
-    },
-    {
-      "title": "Хърватия погна ултрасите на Хайдук, масови арести заради нацистки скандирания 16 Окт | 13:35",
-      "url": "https://dsport.bg/harvatia-nastrahna-srestu-ultrasite-na-haiduk-darzava-zapochva-aresti~242362.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2299815959.og.jpg"
-    },
-    {
-      "title": "УЕФА с позитивни впечатления след първата инспекция за домакинството ни на Евро 2028 до 19 г. 16 Окт | 13:25",
-      "url": "https://dsport.bg/uefa-s-pozitivni-vpechatlenia-sled-parvata-inspekcia-za-domakinstvoto-ni-na-evro-2028-do-19-g~242364.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/image_1792143700_81275.og.jpeg"
-    },
-    {
-      "title": "„Сините“ от 1 до 10: Лига Европа отива на Левски 16 Окт | 13:13",
-      "url": "https://dsport.bg/sinite-ot-1-do-10-liga-evropa-otiva-na-levski~242352.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/viber_image_2026-10-16_10-52-23-542.og.jpg"
     }
   ]
 }
