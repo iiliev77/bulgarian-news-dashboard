@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-16T15:34:52.688796+00:00",
+  "updated": "2026-10-16T16:06:37.677300+00:00",
   "articles": [
     {
-      "title": "Сняг заваля на прохода Шипка",
-      "url": "https://dariknews.bg/regioni/stara-zagora/sniag-zavalia-na-prohoda-shipka-2469348",
+      "title": "Зимата напомни за себе си през октомври: Сняг на Шипка и градушка в Старосел",
+      "url": "https://dariknews.bg/regioni/stara-zagora/zimata-napomni-za-sebe-si-prez-oktomvri-sniag-na-shipka-i-gradushka-v-starosel-2469348",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51397/51397018/991-ratio-shipka-sniag.jpg"
@@ -142,6 +142,34 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396738/991-ratio-dokument.jpg"
     },
     {
+      "title": "На живо: Янтра Габрово - Локомотив Пловдив 16 Окт | 19:00",
+      "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-16t173529.013.og.png"
+    },
+    {
+      "title": "Федерацията по борба покани медиите на Общото събрание 16 Окт | 18:50",
+      "url": "https://dsport.bg/federaciata-po-borba-pokani-mediite-na-obstoto-sabranie~242388.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-3~1.og.jpg"
+    },
+    {
+      "title": "Чудесно - Левски се ядоса на хикс в Ниймеген 16 Окт | 18:46",
+      "url": "https://dsport.bg/chudesno-levski-se-adosa-na-hiks-v-niimegen~242387.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/noth.og.jpg"
+    },
+    {
+      "title": "Отхвърлиха жалбата на Реал Мадрид за Винисиус 16 Окт | 18:31",
+      "url": "https://dsport.bg/othvarliha-zalbata-na-real-madrid-za-vinisius~242386.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300221756~1.og.jpg"
+    },
+    {
       "title": "Какво спечели ЦСКА от мача с Монако? 16 Окт | 18:24",
       "url": "https://dsport.bg/kakvo-specheli-cska-ot-macha-s-monako~242385.html",
       "source": "Dsport",
@@ -154,13 +182,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-2~1.og.jpg"
-    },
-    {
-      "title": "На живо: Янтра Габрово - Локомотив Пловдив (Състави) 16 Окт | 17:47",
-      "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-16t173529.013.og.png"
     },
     {
       "title": "Беретини заряза Пеги Гу заради бившата? 16 Окт | 17:42",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
-    },
-    {
-      "title": "ЦСКА 1948 е първият осминафиналист за Sesame Купа на България 16 Окт | 16:47",
-      "url": "https://dsport.bg/cska-1948-e-parviat-osminafinalist-za-sesame-kupa-na-balgaria~242379.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/853925805_1481113601744059_288813903755015450_n.og.jpg"
-    },
-    {
-      "title": "Българската федерация по художествена гимнастика утвърди състава на националния отбор жени 16 Окт | 16:35",
-      "url": "https://dsport.bg/balgarskata-federacia-po-hudozestvena-gimnastika-utvardi-sastava-na-nacionalnia-otbor-zeni~242378.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/30.05-3-2.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид поиска оставката на Тебас заради сравнението с Гьобелс 16 Окт | 16:23",
-      "url": "https://dsport.bg/real-madrid-poiska-ostavkata-na-tebas-zaradi-sravnenieto-s-gobels~242377.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2275373986-1.og.jpg"
     }
   ]
 }
