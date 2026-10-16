@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-16T11:46:46.880313+00:00",
+  "updated": "2026-10-16T12:11:28.507290+00:00",
   "articles": [
+    {
+      "title": "Бивш областен управител на Варна с обвинение за неизгоден договор за адвокатски услуги",
+      "url": "https://dariknews.bg/regioni/varna/bivsh-oblasten-upravitel-na-varna-s-obvinenie-za-neizgoden-dogovor-za-advokatski-uslugi-2469327",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396738/991-ratio-dokument.jpg"
+    },
+    {
+      "title": "Киев монтира мобилни бетонни бомбоубежища на спирките на градския транспорт",
+      "url": "https://dariknews.bg/novini/sviat/kiev-montira-mobilni-betonni-bomboubezhishta-na-spirkite-na-gradskiia-transport-2469325",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50591/50591736/991-ratio-bomboubezhishta.jpg"
+    },
+    {
+      "title": "Специализирана полицейска акция в Разград: Иззеха фалшиви стоки и наркотици",
+      "url": "https://dariknews.bg/regioni/razgrad/specializirana-policejska-akciia-v-razgrad-izzeha-falshivi-stoki-i-narkotici-2469326",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396958/991-ratio-policiia.jpg"
+    },
     {
       "title": "Здравният министър обяви кога идват първите инжекционни противогрипни ваксини",
       "url": "https://dariknews.bg/novini/bylgariia/zdravniiat-ministyr-obiavi-koga-idvat-pyrvite-inzhekcionni-protivogripni-vaksini-2469323",
@@ -121,25 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
     },
     {
-      "title": "Колко ще струва ски сезон 2026/2027 в Банско? Вижте всички цени",
-      "url": "https://dariknews.bg/novini/liubopitno/kolko-shte-struva-ski-sezon-20262027-v-bansko-vizhte-vsichki-ceni-2469306",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51258/51258444/991-ratio-ski-deca.jpg"
+      "title": "Белингам е пред нов договор с Реал Мадрид 16 Окт | 15:04",
+      "url": "https://dsport.bg/belingam-e-pred-nov-dogovor-s-real-madrid~242372.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2294929303~1.og.jpg"
     },
     {
-      "title": "НС намали наполовина изискуемите банкови гаранции от организациите за оползотворяване на отпадъци",
-      "url": "https://dariknews.bg/novini/bylgariia/ns-namali-napolovina-iziskuemite-bankovi-garancii-ot-organizaciite-za-opolzotvoriavane-na-otpadyci-2469305",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396906/991-ratio-ns.jpg"
-    },
-    {
-      "title": "Митничари конфискуваха над 66 литра нелегални течности за е-цигари в София (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/mitnichari-konfiskuvaha-nad-66-litra-nelegalni-technosti-za-e-cigari-v-sofiia-snimki-2469304",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396900/991-ratio-elektronni-cigari.jpg"
+      "title": "Йосиф Панов – Пепелянката се изправя срещу Даулет Даукенов на SLYBET Fight Night в Плевен 16 Окт | 14:55",
+      "url": "https://dsport.bg/iosif-panov-pepelankata-se-izprava-srestu-daulet-daukenov-na-slybet-fight-night-v-pleven~242371.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/dsport-640x360~1.og.png"
     },
     {
       "title": "Къде се нареждат по посещаемост мачовете на ЦСКА и Левски в Европа? 16 Окт | 14:35",
@@ -149,7 +163,7 @@
       "image": "https://dsport.bg/media/385/1040100.og.jpg"
     },
     {
-      "title": "На живо: Същинската част на Sesame Купа на България започва в Бургас 16 Окт | 14:10",
+      "title": "На живо: Шестнайсетинафиналите за Sesame Купа на България започнаха 16 Окт | 14:10",
       "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/viber_image_2026-10-16_10-52-23-542.og.jpg"
-    },
-    {
-      "title": "Изпълнителният директор на Формула 2 очаква шампионатът да завърши в Катар и Абу Даби 16 Окт | 12:53",
-      "url": "https://dsport.bg/izpalnitelniat-direktor-na-formula-2-ochakva-shampionatat-da-zavarshi-v-katar-i-abu-dabi~242361.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2297057784.og.jpg"
-    },
-    {
-      "title": "Божинов-младши гледа ЦСКА до чалга певица 16 Окт | 12:39",
-      "url": "https://dsport.bg/bozinov-mladshi-gleda-cska-do-chalga-pevica~242359.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/fotojet-88-.og.jpg"
     }
   ]
 }
