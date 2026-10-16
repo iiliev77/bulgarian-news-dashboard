@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-16T17:32:30.571264+00:00",
+  "updated": "2026-10-16T18:00:34.510825+00:00",
   "articles": [
+    {
+      "title": "Брюксел пред бюджетен въпрос: Зеленски поиска 70 млрд. евро помощ, ЕС потвърждава недостига",
+      "url": "https://dariknews.bg/novini/sviat/briuksel-pred-biudzheten-vypros-zelenski-poiska-70-mlrd.-evro-pomosht-es-potvyrzhdava-nedostiga-2469361",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397060/991-ratio-koshta.jpg"
+    },
+    {
+      "title": "Прокуратурата започна разследване на атаката срещу кораба „Челси 3“",
+      "url": "https://dariknews.bg/regioni/pleven/prokuraturata-zapochna-razsledvane-na-atakata-sreshtu-koraba-chelsi-3-2469360",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397057/991-ratio-chelsi.jpg"
+    },
     {
       "title": "Починалият след побой в метрото е университетски преподавател",
       "url": "https://dariknews.bg/regioni/sofiia/pochinaliiat-sled-poboj-v-metroto-e-universitetski-prepodavatel-2469358",
@@ -128,25 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396980/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Удари в лицето и рамото: Ограбиха 60-годишна жена, отнеха златото и парите ѝ",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/udari-v-liceto-i-ramoto-ograbiha-60-godishna-zhena-otneha-zlatoto-i-parite--2469331",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43704/43704813/991-ratio-grabezh.jpg"
+      "title": "На живо: ЦСКА 1948 и Локомотив Пловдив си осигуриха продължаване напред за Sesame Купа на България 16 Окт | 20:52",
+      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
-      "title": "Доцова в Рима: Сигурността в Черно море е критична за цяла Европа",
-      "url": "https://dariknews.bg/novini/sviat/docova-v-rima-sigurnostta-v-cherno-more-e-kritichna-za-ciala-evropa-2469330",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396976/991-ratio-mihaela-docova.jpg"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив води на Янтра 16 Окт | 20:25",
+      "title": "Локомотив Пд вкара по един гол във всяко полувреме, за да отстрани Янтра от турнира за Sesame Купа на България 16 Окт | 20:50",
       "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/lokpd.og.jpg"
+    },
+    {
+      "title": "Ботев Пловдив пусна филм от мача в памет на Илиян (ВИДЕО) 16 Окт | 20:32",
+      "url": "https://dsport.bg/botev-plovdiv-pusna-film-ot-macha-v-pamet-na-ilian-video~242394.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1038619.og.jpg"
     },
     {
       "title": "Намери се кой да храни Пирин 16 Окт | 20:05",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/noth.og.jpg"
-    },
-    {
-      "title": "Отхвърлиха жалбата на Реал Мадрид за Винисиус 16 Окт | 18:31",
-      "url": "https://dsport.bg/othvarliha-zalbata-na-real-madrid-za-vinisius~242386.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300221756~1.og.jpg"
-    },
-    {
-      "title": "Какво спечели ЦСКА от мача с Монако? 16 Окт | 18:24",
-      "url": "https://dsport.bg/kakvo-specheli-cska-ot-macha-s-monako~242385.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/screenshot-2026-10-16-180417.og.png"
     }
   ]
 }
