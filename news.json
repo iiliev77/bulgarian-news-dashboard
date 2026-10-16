@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T17:06:13.692000+00:00",
+  "updated": "2026-10-16T17:32:30.571264+00:00",
   "articles": [
+    {
+      "title": "Починалият след побой в метрото е университетски преподавател",
+      "url": "https://dariknews.bg/regioni/sofiia/pochinaliiat-sled-poboj-v-metroto-e-universitetski-prepodavatel-2469358",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397052/991-ratio-metro-zholio-kiuri-ubit-myzh.jpg"
+    },
     {
       "title": "Изписват Ива Михайлова от „Пирогов” в началото на следващата седмица",
       "url": "https://dariknews.bg/novini/bylgariia/izpisvat-iva-mihajlova-ot-pirogov-v-nachaloto-na-sledvashtata-sedmica-2469356",
@@ -135,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396976/991-ratio-mihaela-docova.jpg"
     },
     {
-      "title": "Вълчев гарантира: Нито едно училище в България няма да затвори врати заради липсата на средства за отопление",
-      "url": "https://dariknews.bg/novini/bylgariia/vylchev-garantira-nito-edno-uchilishte-v-bylgariia-niama-da-zatvori-vrati-zaradi-lipsata-na-sredstva-za-otoplenie-2469328",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51318/51318285/991-ratio-georgi-aleksandrov-vylchev.jpg"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив поведе на Янтра 16 Окт | 20:00",
+      "title": "На живо: Локомотив Пловдив води на Янтра 16 Окт | 20:25",
       "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/viber_image_2026-10-16_19-08-21-194.og.jpg"
+      "image": "https://dsport.bg/media/386/lokpd.og.jpg"
+    },
+    {
+      "title": "Намери се кой да храни Пирин 16 Окт | 20:05",
+      "url": "https://dsport.bg/nameri-se-koi-da-hrani-pirin~242393.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-5~4.og.jpg"
     },
     {
       "title": "След скандиранията за Хитлер и Аушвиц: УЕФА награди Хайдук Сплит 16 Окт | 19:44",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/screenshot-2026-10-16-180417.og.png"
-    },
-    {
-      "title": "Започва новият сезон в женското волейболно първенство 16 Окт | 17:56",
-      "url": "https://dsport.bg/zapochva-noviat-sezon-v-zenskoto-voleibolno-parvenstvo~242384.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-2~1.og.jpg"
     }
   ]
 }
