@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T20:13:43.903398+00:00",
+  "updated": "2026-10-16T20:44:25.381193+00:00",
   "articles": [
+    {
+      "title": "Хиляди протестираха във Виена за строг Закон за климата",
+      "url": "https://dariknews.bg/novini/sviat/hiliadi-protestiraha-vyv-viena-za-strog-zakon-za-klimata-2469365",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397090/991-ratio-viena.jpg"
+    },
     {
       "title": "След седмица на поста и скандал за квалификацията ѝ: Кейти Закария вече не е говорител на Белия дом",
       "url": "https://dariknews.bg/novini/sviat/sled-sedmica-na-posta-i-skandal-za-kvalifikaciiata-kejti-zakariia-veche-ne-e-govoritel-na-beliia-dom-2469362",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396993/991-ratio-petyr-vitanov.jpg"
     },
     {
-      "title": "ДПС: Единствените „полети“, които вълнуват хората, са тези на цените на храните, услугите и горивата",
-      "url": "https://dariknews.bg/novini/bylgariia/dps-edinstvenite-poleti-koito-vylnuvat-horata-sa-tezi-na-cenite-na-hranite-uslugite-i-gorivata-2469334",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396984/991-ratio-sofiia-parlament-narodno-sybranie-zasedanie.jpg"
+      "title": "Айнтрахт пречупи Кьолн за първа победа вкъщи 16 Окт | 23:31",
+      "url": "https://dsport.bg/aintraht-prechupi-koln-za-parva-pobeda-vkasti~242405.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300553789.og.jpg"
+    },
+    {
+      "title": "Християн Петров влезе при разгром на Хееренвеен 16 Окт | 23:17",
+      "url": "https://dsport.bg/hristian-petrov-vleze-pri-razgrom-na-heerenveen~242404.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-12.og.jpg"
     },
     {
       "title": "Спортист Своге победи Локо Мездра в контрола 16 Окт | 22:43",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/emol~1.og.jpg"
-    },
-    {
-      "title": "Изключиха чешки съдия от футбола за 15 години заради подкупи 16 Окт | 21:04",
-      "url": "https://dsport.bg/izkluchiha-cheshki-sadia-ot-futbola-za-15-godini-zaradi-podkupi~242395.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2179682090.og.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА 1948 и Локомотив Пловдив си осигуриха продължаване напред за Sesame Купа на България 16 Окт | 20:52",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     }
   ]
 }
