@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-16T06:02:50.628253+00:00",
+  "updated": "2026-10-16T06:37:43.251853+00:00",
   "articles": [
+    {
+      "title": "Времето сред природата може да подобри хранителните навици",
+      "url": "https://dariknews.bg/novini/liubopitno/vremeto-sred-prirodata-mozhe-da-podobri-hranitelnite-navici-2469259",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51094/51094626/991-ratio-piknik.jpg"
+    },
+    {
+      "title": "Уловиха и преместиха и втората мечка, навлизала в района на село Гьоврен",
+      "url": "https://dariknews.bg/regioni/Smolyan/uloviha-i-premestiha-i-vtorata-mechka-navlizala-v-rajona-na-selo-giovren-2469257",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Експерти: „Майката на всички бомби“ трудно ще унищожи дълбоко скрити ядрени съоръжения",
+      "url": "https://dariknews.bg/novini/sviat/eksperti-majkata-na-vsichki-bombi-trudno-shte-unishtozhi-dylboko-skriti-iadreni-syoryzheniia-2469258",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51128/51128063/991-ratio-sasht-iran.jpg"
+    },
+    {
+      "title": "„Операции“ без скалпел срещу 3000 евро: Кой печели от надеждата на тежко болните?",
+      "url": "https://dariknews.bg/novini/bylgariia/operacii-bez-skalpel-sreshtu-3000-evro-koj-pecheli-ot-nadezhdata-na-tezhko-bolnite-2469260",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Мицкоски: България се превръща в убежище за осъдени престъпници от Северна Македония",
       "url": "https://dariknews.bg/novini/bylgariia/mickoski-bylgariia-se-prevryshta-v-ubezhishte-za-osydeni-prestypnici-ot-severna-makedoniia-2469256",
@@ -114,32 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396672/991-ratio-vlak.jpg"
     },
     {
-      "title": "САЩ удължиха разрешението за операции на „Лукойл“ в България до 24 април 2027 г.",
-      "url": "https://dariknews.bg/novini/sviat/sasht-udylzhiha-razreshenieto-za-operacii-na-lukojl-v-bylgariia-do-24-april-2027-g-2469247",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50725/50725552/991-ratio-lukojl.jpg"
-    },
-    {
-      "title": "Нова експлозия в рафинерия в Гърция, двама са ранени",
-      "url": "https://dariknews.bg/novini/sviat/nova-eksploziia-v-rafineriia-v-gyrciia-dvama-sa-raneni-2469246",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50718/50718865/991-ratio-eksploziia.jpg"
-    },
-    {
-      "title": "„Агресията носи уважение“: Близо 60% от българите смятат така, а 46% оправдават шамара като възпитание",
-      "url": "https://dariknews.bg/novini/bylgariia/agresiiata-nosi-uvazhenie-blizo-60-ot-bylgarite-smiatat-taka-a-46-opravdavat-shamara-kato-vyzpitanie-2469245",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Турция вкара електрически бронетранспортьор в армията: Тежи 15 тона и изминава до 650 км",
-      "url": "https://dariknews.bg/novini/sviat/turciia-vkara-elektricheski-bronetransportior-v-armiiata-tezhi-15-tona-i-izminava-do-650-km-2469244",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396502/991-ratio-pyrviiat-turski-elektricheski-bronetransportior.jpg"
+      "title": "Сръбски тенисист с наказание до 2050-а заради уреждане на мачове 16 Окт | 09:15",
+      "url": "https://dsport.bg/srabski-tenisist-s-nakazanie-do-2050-a-zaradi-urezdane-na-machove~242345.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-1489453730-1-1-1-1~1.og.jpg"
     },
     {
       "title": "Мишка прекъсна пресконференцията на треньора на НЕК след мача с Левски (ВИДЕО) 16 Окт | 08:54",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040361~1.og.jpg"
-    },
-    {
-      "title": "Кристиан Димитров: Целият отбор стои зад Светльо, той направи изключително силен мач (ВИДЕО) 16 Окт | 00:19",
-      "url": "https://dsport.bg/kristian-dimitrov-celiat-otbor-stoi-zad-svetlo-toi-napravi-izkluchitelno-silen-mach~242334.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040290.og.jpg"
     }
   ]
 }
