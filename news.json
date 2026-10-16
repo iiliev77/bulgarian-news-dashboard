@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-16T10:17:25.273660+00:00",
+  "updated": "2026-10-16T10:51:29.493947+00:00",
   "articles": [
+    {
+      "title": "„Минава всякакви граници“: Ерол Мюмюн с нови разкрития за сигнали за полицейско насилие в Кърджали",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/minava-vsiakakvi-granici-erol-miumiun-s-novi-razkritiia-za-signali-za-policejsko-nasilie-v-kyrdzhali-2469312",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51329/51329118/991-ratio-erol-miumiun.jpg"
+    },
+    {
+      "title": "ЕС няма възможност да замени \"Старлинк\" в кратки срокове, призна Кая Калас",
+      "url": "https://dariknews.bg/novini/sviat/es-niama-vyzmozhnost-da-zameni-starlink-v-kratki-srokove-prizna-kaia-kalas-2469311",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50990/50990985/991-ratio-kaia-kalas.jpg"
+    },
+    {
+      "title": "Два служебни автомобила на ДПС са подпалени в Търговище",
+      "url": "https://dariknews.bg/regioni/tyrgovishte/dva-sluzhebni-avtomobila-na-dps-sa-podpaleni-v-tyrgovishte-2469310",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396916/991-ratio-pozhar-tyrgovishte.jpg"
+    },
+    {
+      "title": "Над 75% от секциите ще бъдат с машинно гласуване, системата е готова за изборите",
+      "url": "https://dariknews.bg/novini/bylgariia/nad-75-ot-sekciite-shte-bydat-s-mashinno-glasuvane-sistemata-e-gotova-za-izborite-2469308",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51308/51308130/991-ratio-izbori-26.jpg"
+    },
+    {
+      "title": "Кои са победителите в „Хижа на годината 2026“",
+      "url": "https://dariknews.bg/novini/liubopitno/koi-sa-pobeditelite-v-hizha-na-godinata-2026-2469309",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51217/51217830/991-ratio-slynce-esen-planina.jpg"
+    },
     {
       "title": "Европейският парламент ще приеме резолюция по повод ударите срещу кораби в Черно море",
       "url": "https://dariknews.bg/novini/sviat/evropejskiiat-parlament-shte-prieme-rezoliuciia-po-povod-udarite-sreshtu-korabi-v-cherno-more-2469307",
@@ -107,39 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
     },
     {
-      "title": "Васил Терзиев и европейски посланици обсъдиха честването на 20 години България в ЕС",
-      "url": "https://dariknews.bg/regioni/sofiia/vasil-terziev-i-evropejski-poslanici-obsydiha-chestvaneto-na-20-godini-bylgariia-v-es-2469292",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396866/991-ratio-vasil-terziev.jpg"
+      "title": "Без конкуренция: Генералните мениджъри в НБА определиха Везенков за номер 1 16 Окт | 13:45",
+      "url": "https://dsport.bg/bez-konkurencia-generalnite-menidzari-v-nba-opredeliha-vezenkov-za-nomer-1~242365.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2269957166-1.og.jpg"
     },
     {
-      "title": "Мощен взрив: Газова бутилка избухна в къща в Русенско",
-      "url": "https://dariknews.bg/regioni/ruse/moshten-vzriv-gazova-butilka-izbuhna-v-kyshta-v-rusensko-2469291",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47473/47473352/991-ratio-gazova-butilka.jpg"
+      "title": "ЦСКА съобщи подробности за билетите в Несебър 16 Окт | 13:40",
+      "url": "https://dsport.bg/cska-saobsti-podrobnosti-za-biletite-v-nesebar~242366.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/854169992_1467159111986495_1767675047584463568_n.og.jpg"
     },
     {
-      "title": "Жестокост: Ранено куче с дървен предмет потърси убежище в чужд дом във Ветово",
-      "url": "https://dariknews.bg/regioni/ruse/zhestokost-raneno-kuche-s-dyrven-predmet-potyrsi-ubezhishte-v-chuzhd-dom-vyv-vetovo-2469290",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51369/51369265/991-ratio-kuche.jpg"
+      "title": "Хърватия погна ултрасите на Хайдук, масови арести заради нацистки скандирания 16 Окт | 13:35",
+      "url": "https://dsport.bg/harvatia-nastrahna-srestu-ultrasite-na-haiduk-darzava-zapochva-aresti~242362.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2299815959.og.jpg"
     },
     {
-      "title": "Мащабна акция в Монтанско: Разкриха 21 престъпления, иззеха оръжия и наркотици",
-      "url": "https://dariknews.bg/regioni/montana/mashtabna-akciia-v-montansko-razkriha-21-prestypleniia-izzeha-oryzhiia-i-narkotici-2469288",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Радан Кънев: Позицията на България за дългосрочния бюджет на ЕС е абсурдна, опасна и необяснима",
-      "url": "https://dariknews.bg/novini/bylgariia/radan-kynev-poziciiata-na-bylgariia-za-dylgosrochniia-biudzhet-na-es-e-absurdna-opasna-i-neobiasnima-2469287",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50923/50923450/991-ratio-radan-kynev.jpg"
+      "title": "УЕФА с позитивни впечатления след първата инспекция за домакинството ни на Евро 2028 до 19 г. 16 Окт | 13:25",
+      "url": "https://dsport.bg/uefa-s-pozitivni-vpechatlenia-sled-parvata-inspekcia-za-domakinstvoto-ni-na-evro-2028-do-19-g~242364.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/image_1792143700_81275.og.jpeg"
     },
     {
       "title": "„Сините“ от 1 до 10: Лига Европа отива на Левски 16 Окт | 13:13",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300464580.og.jpg"
-    },
-    {
-      "title": "УЕФА готви безпрецедентно наказание за Манчестър Сити 16 Окт | 11:37",
-      "url": "https://dsport.bg/manchester-siti-nakazanie-uefa-izhvurlyane-evroturniri~242356.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2298054319.og.jpg"
-    },
-    {
-      "title": "Олимпик Марсилия е изправен пред заплаха от отнемане на точки 16 Окт | 11:26",
-      "url": "https://dsport.bg/olimpik-marsilia-e-izpraven-pred-zaplaha-ot-otnemane-na-tochki~242354.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2236814436-1.og.jpg"
-    },
-    {
-      "title": "Веласкес се поклони пред привържениците на Левски (ВИДЕО) 16 Окт | 11:12",
-      "url": "https://dsport.bg/velaskes-se-pokloni-pred-privarzenicite-na-levski-video~242353.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040412.og.jpg"
-    },
-    {
-      "title": "Има сделка: Кейн подписва нов договор с Байерн Мюнхен 16 Окт | 10:47",
-      "url": "https://dsport.bg/ima-sdelka-kein-podpisva-nov-dogovor-s-baiern-munhen~242350.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2295966811~1.og.jpg"
     }
   ]
 }
