@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-16T09:18:57.978038+00:00",
+  "updated": "2026-10-16T09:52:49.695412+00:00",
   "articles": [
+    {
+      "title": "Задържаха българин за трафик на мигранти след преследване край Солун",
+      "url": "https://dariknews.bg/novini/sviat/zadyrzhaha-bylgarin-za-trafik-na-migranti-sled-presledvane-kraj-solun-2469302",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45778/45778110/991-ratio-policiia-gyrciia.jpg"
+    },
+    {
+      "title": "На прага на зимата: Над 5300 домакинства получиха дърва за огрев",
+      "url": "https://dariknews.bg/regioni/gabrovo/na-praga-na-zimata-nad-5300-domakinstva-poluchiha-dyrva-za-ogrev-2469301",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50247/50247542/991-ratio-dyrva-za-ogrev.jpg"
+    },
+    {
+      "title": "Прокуратурата иска арест за шофьорите, превозвали дрога вместо месо край Ловеч",
+      "url": "https://dariknews.bg/regioni/lovech/prokuraturata-iska-arest-za-shofiorite-prevozvali-droga-vmesto-meso-kraj-lovech-2469300",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51093/51093144/991-ratio-shofior-na-kamion.jpg"
+    },
+    {
+      "title": "„Спомени с вкус“ поднася най-апетитната страна на приятелството",
+      "url": "https://dariknews.bg/novini/liubopitno/spomeni-s-vkus-podnasia-naj-apetitnata-strana-na-priiatelstvoto-2469299",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396881/991-ratio-spomeni-s-vkus.jpg"
+    },
+    {
+      "title": "Кой поема грижите у дома? НСИ преброи работещите родители и хората, които гледат болни близки",
+      "url": "https://dariknews.bg/novini/bylgariia/koj-poema-grizhite-u-doma-nsi-prebroi-raboteshtite-roditeli-i-horata-koito-gledat-bolni-blizki-2469298",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396879/991-ratio-semejstvo-deca.jpg"
+    },
+    {
+      "title": "Ограничиха ползването на водата за пиене и готвене в село Малко село",
+      "url": "https://dariknews.bg/regioni/sliven/ogranichiha-polzvaneto-na-vodata-za-piene-i-gotvene-v-selo-malko-selo-2469296",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50937/50937236/991-ratio-zelenchuci-miene-voda.jpg"
+    },
+    {
+      "title": "Радев в Брюксел: Засилването на охраната на външните граници на ЕС е от ключово значение за сигурността",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-v-briuksel-zasilvaneto-na-ohranata-na-vynshnite-granici-na-es-e-ot-kliuchovo-znachenie-za-sigurnostta-2469297",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351091/991-ratio-rumen-radev-sreshta-nato.jpg"
+    },
     {
       "title": "Арестуваха младеж, стрелял с газов пистолет пред „Арена Шумен“",
       "url": "https://dariknews.bg/regioni/shumen/arestuvaha-mladezh-strelial-s-gazov-pistolet-pred-arena-shumen-2469293",
@@ -16,8 +65,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396867/991-ratio-sliven-arheolozi.jpg"
     },
     {
-      "title": "Манипулирани ли са студентските протести във Франция преди президентските избори",
-      "url": "https://dariknews.bg/novini/sviat/manipulirani-li-sa-studentskite-protesti-vyv-franciia-predi-prezidentskite-izbori-2469294",
+      "title": "Манипулирани ли са ученическите протести във Франция преди президентските избори (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/manipulirani-li-sa-uchenicheskite-protesti-vyv-franciia-predi-prezidentskite-izbori-video-2469294",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
@@ -93,53 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50785/50785858/991-ratio-pozhar-kola.jpg"
     },
     {
-      "title": "Брутална агресия пред училище: Пребиха ученик до загуба на съзнание в Търговище",
-      "url": "https://dariknews.bg/regioni/tyrgovishte/brutalna-agresiia-pred-uchilishte-prebiha-uchenik-do-zaguba-na-syznanie-v-tyrgovishte-2469281",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50992/50992602/991-ratio-sbivane-poboj.jpg"
+      "title": "Божинов-младши гледа ЦСКА до чалга певица 16 Окт | 12:39",
+      "url": "https://dsport.bg/bozinov-mladshi-gleda-cska-do-chalga-pevica~242359.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/fotojet-88-.og.jpg"
     },
     {
-      "title": "По следите на Интерпол: Откриха издирван автомобил в частен имот у нас",
-      "url": "https://dariknews.bg/regioni/vraca/po-sledite-na-interpol-otkriha-izdirvan-avtomobil-v-chasten-imot-u-nas-2469280",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395882/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Близо 200 кг тютюн и машина за рязане откриха в „Столипиново“",
-      "url": "https://dariknews.bg/regioni/sofiia/blizo-200-kg-tiutiun-i-mashina-za-riazane-otkriha-v-stolipinovo-2469279",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396842/991-ratio-tiutiun.jpg"
-    },
-    {
-      "title": "Засичане на пътя завърши със счупен крак: Шофьори се сбиха във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/zasichane-na-pytia-zavyrshi-sys-schupen-krak-shofiori-se-sbiha-vyv-velikotyrnovsko-2469278",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
-    },
-    {
-      "title": "Между Chanel, Gucci и 50 Best Products from Bulgaria: Юлиан Дайнов за силата на българския талант да бъде разпознаваем по света",
-      "url": "https://dariknews.bg/novini/interviu/mezhdu-chanel-gucci-i-50-best-products-from-bulgaria-iulian-dajnov-za-silata-na-bylgarskiia-talant-da-byde-razpoznavaem-po-sveta-2469277",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396840/991-ratio-iulian-dajnov.jpg"
-    },
-    {
-      "title": "ЕС няма да отмени санкциите срещу Русия, докато войната в Украйна продължава",
-      "url": "https://dariknews.bg/novini/sviat/es-niama-da-otmeni-sankciite-sreshtu-rusiia-dokato-vojnata-v-ukrajna-prodylzhava-2469276",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256699/991-ratio-es.jpg"
-    },
-    {
-      "title": "Заплашиха мъж с нож и потрошиха колата му край Стара Загора",
-      "url": "https://dariknews.bg/regioni/stara-zagora/zaplashiha-myzh-s-nozh-i-potroshiha-kolata-mu-kraj-stara-zagora-2469275",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51111/51111076/991-ratio-myzh-nozh.jpg"
+      "title": "Капитанът на Челси претърпя операция на коляното 16 Окт | 12:24",
+      "url": "https://dsport.bg/kapitanat-na-chelsi-pretarpa-operacia-na-kolanoto~242358.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2276553271~1.og.jpg"
     },
     {
       "title": "Шокиращ кандидат от Ла Лига за подписа на Санчо 16 Окт | 12:14",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/viktoria-angelova-vesela-lecheva.og.jpg"
-    },
-    {
-      "title": "След втория изпит в Нидерландия: Левски е станал по-добър! 16 Окт | 10:00",
-      "url": "https://dsport.bg/sled-vtoria-izpit-v-niderlandia-levski-e-stanal-po-dobar~242347.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040300~1.og.jpg"
-    },
-    {
-      "title": "Стоичков: Само един португалец развали уникалната вечер 16 Окт | 09:38",
-      "url": "https://dsport.bg/stoichkov-samo-edin-portugalec-razvali-unikalnata-vecher~242346.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/1040078.og.jpg"
     }
   ]
 }
