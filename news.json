@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-16T05:06:16.302048+00:00",
+  "updated": "2026-10-16T05:33:49.726338+00:00",
   "articles": [
     {
-      "title": "Акция срещу купения вот тече в столичния квартал „Христо Ботев“",
-      "url": "https://dariknews.bg/regioni/sofiia/akciia-sreshtu-kupeniia-vot-teche-v-stolichniia-kvartal-hristo-botev-2469253",
+      "title": "Руска атака остави части от Киевска област без ток",
+      "url": "https://dariknews.bg/novini/sviat/ruska-ataka-ostavi-chasti-ot-kievska-oblast-bez-tok-2469254",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396754/991-ratio-kievska-oblast.jpg"
+    },
+    {
+      "title": "Акция срещу купения вот тече в София, Бургас и Айтос",
+      "url": "https://dariknews.bg/regioni/sofiia/akciia-sreshtu-kupeniia-vot-teche-v-sofiia-burgas-i-ajtos-2469253",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -23,8 +30,8 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396739/991-ratio-sasht-strelba-uchilishte.jpg"
     },
     {
-      "title": "До кога могат да търсят дълговете на починал близък от наследниците му",
-      "url": "https://dariknews.bg/novini/bylgariia/do-koga-mogat-da-tyrsiat-dylgovete-na-pochinal-blizyk-ot-naslednicite-mu-2469250",
+      "title": "Докога могат да търсят дълговете на починал близък от наследниците му",
+      "url": "https://dariknews.bg/novini/bylgariia/dokoga-mogat-da-tyrsiat-dylgovete-na-pochinal-blizyk-ot-naslednicite-mu-2469250",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51396/51396737/991-ratio-dokument.jpg"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51392/51392327/991-ratio-karta-cherno-more.jpg"
     },
     {
-      "title": "Парламентарна комисия обсъди ключови промени в Закона за здравеопазването",
-      "url": "https://dariknews.bg/novini/bylgariia/parlamentarna-komisiia-obsydi-kliuchovi-promeni-v-zakona-za-zdraveopazvaneto-2469241",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396480/991-ratio-parlamentarnata-komisiia-po-zdraveopazvane.jpg"
+      "title": "Лисандро Мартинес се извини за критиките си към ръководството на Манчестър Юнайтед 16 Окт | 08:28",
+      "url": "https://dsport.bg/lisandro-martines-se-izvini-za-kritikite-si-kam-rakovodstvoto-na-manchestar-unaited~242343.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300306554.og.jpg"
+    },
+    {
+      "title": "Гиздол благодари на феновете на ЦСКА 16 Окт | 08:10",
+      "url": "https://dsport.bg/gizdol-blagodari-na-fenovete-na-cska~242342.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040063.og.jpg"
     },
     {
       "title": "Костадинов: Смесени чувства, много обичаме да вдигаме и сваляме футболисти (ВИДЕО) 16 Окт | 01:14",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2300393302.og.jpg"
-    },
-    {
-      "title": "Провал за два от съперниците на Левски в Европа, Ягелония обърна арменци 15 Окт | 23:59",
-      "url": "https://dsport.bg/proval-za-dva-ot-sapernicite-na-levski-v-evropa-agelonia-obarna-armenci~242332.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300399422.og.jpg"
-    },
-    {
-      "title": "Коло Муани донесе успеха на Ювентус над Селта в добавеното време 15 Окт | 23:54",
-      "url": "https://dsport.bg/kolo-muani-donese-uspeha-na-uventus-nad-selta-v-dobavenoto-vreme~242330.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300390368.og.jpg"
     }
   ]
 }
