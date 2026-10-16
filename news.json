@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-16T15:06:24.421676+00:00",
+  "updated": "2026-10-16T15:34:52.688796+00:00",
   "articles": [
+    {
+      "title": "Сняг заваля на прохода Шипка",
+      "url": "https://dariknews.bg/regioni/stara-zagora/sniag-zavalia-na-prohoda-shipka-2469348",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397018/991-ratio-shipka-sniag.jpg"
+    },
+    {
+      "title": "Близо 580 случая на морбили у нас: Децата са най-засегнати, Враца е начело",
+      "url": "https://dariknews.bg/novini/bylgariia/blizo-580-sluchaia-na-morbili-u-nas-decata-sa-naj-zasegnati-vraca-e-nachelo-2469347",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50837/50837390/991-ratio-morbili.jpg"
+    },
     {
       "title": "Ръководството на НАТФИЗ е представило план за решаване на проблемите в Академията",
       "url": "https://dariknews.bg/novini/bylgariia/rykovodstvoto-na-natfiz-e-predstavilo-plan-za-reshavane-na-problemite-v-akademiiata-2469345",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396738/991-ratio-dokument.jpg"
     },
     {
-      "title": "Киев монтира мобилни бетонни бомбоубежища на спирките на градския транспорт",
-      "url": "https://dariknews.bg/novini/sviat/kiev-montira-mobilni-betonni-bomboubezhishta-na-spirkite-na-gradskiia-transport-2469325",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50591/50591736/991-ratio-bomboubezhishta.jpg"
-    },
-    {
-      "title": "Специализирана полицейска акция в Разград: Иззеха фалшиви стоки и наркотици",
-      "url": "https://dariknews.bg/regioni/razgrad/specializirana-policejska-akciia-v-razgrad-izzeha-falshivi-stoki-i-narkotici-2469326",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396958/991-ratio-policiia.jpg"
+      "title": "Какво спечели ЦСКА от мача с Монако? 16 Окт | 18:24",
+      "url": "https://dsport.bg/kakvo-specheli-cska-ot-macha-s-monako~242385.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/screenshot-2026-10-16-180417.og.png"
     },
     {
       "title": "Започва новият сезон в женското волейболно първенство 16 Окт | 17:56",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2275373986-1.og.jpg"
-    },
-    {
-      "title": "„Червените“ от 1 до 10: ЦСКА още няма опит да лъже франсета 16 Окт | 16:15",
-      "url": "https://dsport.bg/chervenite-ot-1-do-10-cska-oste-nama-opit-da-laze-franseta~242376.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/viber_image_2026-10-16_15-36-02-655.og.jpg"
     }
   ]
 }
