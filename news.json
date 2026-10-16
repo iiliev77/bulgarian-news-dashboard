@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-16T12:50:50.042193+00:00",
+  "updated": "2026-10-16T13:26:59.944271+00:00",
   "articles": [
+    {
+      "title": "Американски сенатори искат разследване на ограниченията на Starlink в Украйна",
+      "url": "https://dariknews.bg/novini/sviat/amerikanski-senatori-iskat-razsledvane-na-ogranicheniiata-na-starlink-v-ukrajna-2469338",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396835/991-ratio-internet.jpg"
+    },
+    {
+      "title": "Катастрофа затруднява движението по пътя Варвара – Велинград",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/katastrofa-zatrudniava-dvizhenieto-po-pytia-varvara-velingrad-2469337",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396989/991-ratio-katastrofa-velingrad.jpg"
+    },
+    {
+      "title": "България участва в проект за съвместна покупка на ракети за IRIS-T",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-uchastva-v-proekt-za-syvmestna-pokupka-na-raketi-za-iris-t-2469336",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396987/991-ratio-sofiia-parlament-narodno-sybranie-zasedanie.jpg"
+    },
+    {
+      "title": "„Лично мнение, не отношение към синдикатите“: Витанов сравни Пламен Димитров с Джими Хофа",
+      "url": "https://dariknews.bg/novini/bylgariia/lichno-mnenie-ne-otnoshenie-kym-sindikatite-vitanov-sravni-plamen-dimitrov-s-dzhimi-hofa-2469335",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396993/991-ratio-petyr-vitanov.jpg"
+    },
+    {
+      "title": "ДПС: Единствените „полети“, които вълнуват хората, са тези на цените на храните, услугите и горивата",
+      "url": "https://dariknews.bg/novini/bylgariia/dps-edinstvenite-poleti-koito-vylnuvat-horata-sa-tezi-na-cenite-na-hranite-uslugite-i-gorivata-2469334",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396984/991-ratio-sofiia-parlament-narodno-sybranie-zasedanie.jpg"
+    },
+    {
+      "title": "Трима участници се сбогуват с “Игри на волята” тази вечер",
+      "url": "https://dariknews.bg/novini/liubopitno/trima-uchastnici-se-sboguvat-s-igri-na-voliata-tazi-vecher-2469332",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396980/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Удари в лицето и рамото: Ограбиха 60-годишна жена, отнеха златото и парите ѝ",
       "url": "https://dariknews.bg/regioni/veliko-tyrnovo/udari-v-liceto-i-ramoto-ograbiha-60-godishna-zhena-otneha-zlatoto-i-parite--2469331",
@@ -100,49 +142,21 @@
       "image": "https://m.netinfo.bg/media/images/51333/51333618/991-ratio-dara.jpg"
     },
     {
-      "title": "Астрономи за първи път откриха зелена звезда",
-      "url": "https://dariknews.bg/novini/liubopitno/astronomi-za-pyrvi-pyt-otkriha-zelena-zvezda-2469315",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50199/50199068/991-ratio-kosmos.jpg"
+      "title": "Реал Мадрид поиска оставката на Тебас заради сравнението с Гьобелс 16 Окт | 16:23",
+      "url": "https://dsport.bg/real-madrid-poiska-ostavkata-na-tebas-zaradi-sravnenieto-s-gobels~242377.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2275373986-1.og.jpg"
     },
     {
-      "title": "БАБХ с нови огнища на шарка по овцете и козите край София и Хасково",
-      "url": "https://dariknews.bg/regioni/sofiia/babh-s-novi-ognishta-na-sharka-po-ovcete-i-kozite-kraj-sofiia-i-haskovo-2469318",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
+      "title": "„Червените“ от 1 до 10: ЦСКА още няма опит да лъже франсета 16 Окт | 16:15",
+      "url": "https://dsport.bg/chervenite-ot-1-do-10-cska-oste-nama-opit-da-laze-franseta~242376.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/viber_image_2026-10-16_15-36-02-655.og.jpg"
     },
     {
-      "title": "Рашков за помилванията: Президентството не е болница, а президентът и вицепрезидентът не са медсестри",
-      "url": "https://dariknews.bg/novini/bylgariia/rashkov-za-pomilvaniiata-prezidentstvoto-ne-e-bolnica-a-prezidentyt-i-viceprezidentyt-ne-sa-medsestri-2469314",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50906/50906408/991-ratio-bojko-rashkov.jpg"
-    },
-    {
-      "title": "„Пътят на президента“ в „Темата на NOVA”",
-      "url": "https://dariknews.bg/novini/obshtestvo/pytiat-na-prezidenta-v-temata-na-nova-2469313",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396928/991-ratio-miia-dimitrova.jpg"
-    },
-    {
-      "title": "„Минава всякакви граници“: Ерол Мюмюн с нови разкрития за сигнали за полицейско насилие в Кърджали",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/minava-vsiakakvi-granici-erol-miumiun-s-novi-razkritiia-za-signali-za-policejsko-nasilie-v-kyrdzhali-2469312",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51329/51329118/991-ratio-erol-miumiun.jpg"
-    },
-    {
-      "title": "ЕС няма възможност да замени \"Старлинк\" в кратки срокове, призна Кая Калас",
-      "url": "https://dariknews.bg/novini/sviat/es-niama-vyzmozhnost-da-zameni-starlink-v-kratki-srokove-prizna-kaia-kalas-2469311",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50990/50990985/991-ratio-kaia-kalas.jpg"
-    },
-    {
-      "title": "На живо: Шестнайсетинафиналите за Sesame Купа на България започнаха 16 Окт | 15:47",
+      "title": "На живо: Шестнайсетинафиналите за Sesame Купа на България започнаха 16 Окт | 16:15",
       "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040100.og.jpg"
-    },
-    {
-      "title": "Изненадите в Ухан продължават 16 Окт | 14:00",
-      "url": "https://dsport.bg/iznenadite-v-uhan-prodalzavat~242367.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300484057.og.jpg"
-    },
-    {
-      "title": "Без конкуренция: Генералните мениджъри в НБА определиха Везенков за номер 1 16 Окт | 13:45",
-      "url": "https://dsport.bg/bez-konkurencia-generalnite-menidzari-v-nba-opredeliha-vezenkov-za-nomer-1~242365.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2269957166-1.og.jpg"
     }
   ]
 }
