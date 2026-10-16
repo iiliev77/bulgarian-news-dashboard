@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-16T11:15:24.550361+00:00",
+  "updated": "2026-10-16T11:46:46.880313+00:00",
   "articles": [
+    {
+      "title": "Здравният министър обяви кога идват първите инжекционни противогрипни ваксини",
+      "url": "https://dariknews.bg/novini/bylgariia/zdravniiat-ministyr-obiavi-koga-idvat-pyrvite-inzhekcionni-protivogripni-vaksini-2469323",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50091/50091797/991-ratio-vaksina.jpg"
+    },
+    {
+      "title": "Пенсии с фалшив стаж? Задържаха кмет в Кърджалийско за предполагаема документна измама",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/pensii-s-falshiv-stazh-zadyrzhaha-kmet-v-kyrdzhalijsko-za-predpolagaema-dokumentna-izmama-2469322",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351705/991-ratio-arest-policiia-myzh-zadyrzhan-myzh.jpg"
+    },
+    {
+      "title": "Изоставена горска площ в Балчик ще бъде превърната в екологичен парк по проект с Констанца",
+      "url": "https://dariknews.bg/regioni/dobrich/izostavena-gorska-plosht-v-balchik-shte-byde-prevyrnata-v-ekologichen-park-po-proekt-s-konstanca-2469320",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396953/991-ratio-balchik.jpg"
+    },
+    {
+      "title": "Тръмп отмени излъчването на екзекуция на живо",
+      "url": "https://dariknews.bg/novini/sviat/trymp-otmeni-izlychvaneto-na-ekzekuciia-na-zhivo-2469321",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351505/991-ratio-trymp.jpg"
+    },
+    {
+      "title": "ПБ предлага наполовина по-ниски гаранции за организациите по оползотворяване на отпадъци",
+      "url": "https://dariknews.bg/novini/bylgariia/pb-predlaga-napolovina-po-niski-garancii-za-organizaciite-po-opolzotvoriavane-na-otpadyci-2469319",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396933/991-ratio-pb.jpg"
+    },
     {
       "title": "Дженсън Хуанг: Изкуственият интелект ще стане неизменна част от всяка компания",
       "url": "https://dariknews.bg/novini/liubopitno/dzhensyn-huang-izkustveniiat-intelekt-shte-stane-neizmenna-chast-ot-vsiaka-kompaniia-2469317",
@@ -23,11 +58,11 @@
       "image": "https://m.netinfo.bg/media/images/50199/50199068/991-ratio-kosmos.jpg"
     },
     {
-      "title": "„Пътят на президента“ в „Темата на NOVA”",
-      "url": "https://dariknews.bg/novini/obshtestvo/pytiat-na-prezidenta-v-temata-na-nova-2469313",
+      "title": "БАБХ с нови огнища на шарка по овцете и козите край София и Хасково",
+      "url": "https://dariknews.bg/regioni/sofiia/babh-s-novi-ognishta-na-sharka-po-ovcete-i-kozite-kraj-sofiia-i-haskovo-2469318",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396928/991-ratio-miia-dimitrova.jpg"
+      "image": "https://m.netinfo.bg/media/images/51149/51149264/991-ratio-sharka.jpg"
     },
     {
       "title": "Рашков за помилванията: Президентството не е болница, а президентът и вицепрезидентът не са медсестри",
@@ -35,6 +70,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50906/50906408/991-ratio-bojko-rashkov.jpg"
+    },
+    {
+      "title": "„Пътят на президента“ в „Темата на NOVA”",
+      "url": "https://dariknews.bg/novini/obshtestvo/pytiat-na-prezidenta-v-temata-na-nova-2469313",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396928/991-ratio-miia-dimitrova.jpg"
     },
     {
       "title": "„Минава всякакви граници“: Ерол Мюмюн с нови разкрития за сигнали за полицейско насилие в Кърджали",
@@ -100,53 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396900/991-ratio-elektronni-cigari.jpg"
     },
     {
-      "title": "В ход е операция по изтегляне на кораба „Chelsea-3“",
-      "url": "https://dariknews.bg/novini/bylgariia/v-hod-e-operaciia-po-iztegliane-na-koraba-chelsea-3-2469303",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396254/991-ratio-chelsea.jpg"
-    },
-    {
-      "title": "Задържаха българин за трафик на мигранти след преследване край Солун",
-      "url": "https://dariknews.bg/novini/sviat/zadyrzhaha-bylgarin-za-trafik-na-migranti-sled-presledvane-kraj-solun-2469302",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45778/45778110/991-ratio-policiia-gyrciia.jpg"
-    },
-    {
-      "title": "На прага на зимата: Над 5300 домакинства получиха дърва за огрев",
-      "url": "https://dariknews.bg/regioni/gabrovo/na-praga-na-zimata-nad-5300-domakinstva-poluchiha-dyrva-za-ogrev-2469301",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50247/50247542/991-ratio-dyrva-za-ogrev.jpg"
-    },
-    {
-      "title": "Прокуратурата иска арест за шофьорите, превозвали дрога вместо месо край Ловеч",
-      "url": "https://dariknews.bg/regioni/lovech/prokuraturata-iska-arest-za-shofiorite-prevozvali-droga-vmesto-meso-kraj-lovech-2469300",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51093/51093144/991-ratio-shofior-na-kamion.jpg"
-    },
-    {
-      "title": "„Спомени с вкус“ поднася най-апетитната страна на приятелството",
-      "url": "https://dariknews.bg/novini/liubopitno/spomeni-s-vkus-podnasia-naj-apetitnata-strana-na-priiatelstvoto-2469299",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396881/991-ratio-spomeni-s-vkus.jpg"
-    },
-    {
-      "title": "Кой поема грижите у дома? НСИ преброи работещите родители и хората, които гледат болни близки",
-      "url": "https://dariknews.bg/novini/bylgariia/koj-poema-grizhite-u-doma-nsi-prebroi-raboteshtite-roditeli-i-horata-koito-gledat-bolni-blizki-2469298",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396879/991-ratio-semejstvo-deca.jpg"
+      "title": "Къде се нареждат по посещаемост мачовете на ЦСКА и Левски в Европа? 16 Окт | 14:35",
+      "url": "https://dsport.bg/kade-se-narezdat-po-posestaemost-machovete-na-cska-i-levski-v-evropa~242369.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1040100.og.jpg"
     },
     {
       "title": "На живо: Същинската част на Sesame Купа на България започва в Бургас 16 Окт | 14:10",
       "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/1035403~1.og.jpg"
+      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
       "title": "Изненадите в Ухан продължават 16 Окт | 14:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/fotojet-88-.og.jpg"
-    },
-    {
-      "title": "Капитанът на Челси претърпя операция на коляното 16 Окт | 12:24",
-      "url": "https://dsport.bg/kapitanat-na-chelsi-pretarpa-operacia-na-kolanoto~242358.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2276553271~1.og.jpg"
     }
   ]
 }
