@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T20:44:25.381193+00:00",
+  "updated": "2026-10-16T21:10:25.544661+00:00",
   "articles": [
+    {
+      "title": "Олимпийците Емил Будинов и Тома Никифоров бяха елиминирани от “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/olimpijcite-emil-budinov-i-toma-nikiforov-biaha-eliminirani-ot-igri-na-voliata-2469366",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397093/991-ratio-igri.jpg"
+    },
     {
       "title": "Хиляди протестираха във Виена за строг Закон за климата",
       "url": "https://dariknews.bg/novini/sviat/hiliadi-protestiraha-vyv-viena-za-strog-zakon-za-klimata-2469365",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396987/991-ratio-sofiia-parlament-narodno-sybranie-zasedanie.jpg"
     },
     {
-      "title": "„Лично мнение, не отношение към синдикатите“: Витанов сравни Пламен Димитров с Джими Хофа",
-      "url": "https://dariknews.bg/novini/bylgariia/lichno-mnenie-ne-otnoshenie-kym-sindikatite-vitanov-sravni-plamen-dimitrov-s-dzhimi-hofa-2469335",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396993/991-ratio-petyr-vitanov.jpg"
+      "title": "Пред погледа на Пеп Гуардиола: българските звезди на Олимпиакос пречупиха Барселона 17 Окт | 00:08",
+      "url": "https://dsport.bg/pred-pogleda-na-pep-guardiola-balgarskite-zvezdi-na-olimpiakos-prechupiha-barselona~242408.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300008361.og.jpg"
+    },
+    {
+      "title": "Тулуза наказа Льо Ман след почивката 16 Окт | 23:54",
+      "url": "https://dsport.bg/tuluza-nakaza-lo-man-sled-pochivkata~242407.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-13.og.jpg"
+    },
+    {
+      "title": "Голов спектакъл: Фрозиноне срази Сасуоло 16 Окт | 23:46",
+      "url": "https://dsport.bg/golov-spektakal-frozinone-srazi-sasuolo~242406.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300551919.og.jpg"
     },
     {
       "title": "Айнтрахт пречупи Кьолн за първа победа вкъщи 16 Окт | 23:31",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2295832604.og.jpg"
-    },
-    {
-      "title": "Дуо от Спартак Плевен под въпрос за мача с Левски 16 Окт | 21:36",
-      "url": "https://dsport.bg/duo-ot-spartak-pleven-pod-vapros-za-macha-s-levski~242399.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-6~2.og.jpg"
-    },
-    {
-      "title": "Косич: В мачовете за Купата се получават изненадващи резултати, радваме се, че минахме напред (ВИДЕО) 16 Окт | 21:23",
-      "url": "https://dsport.bg/kosich-v-machovete-za-kupata-se-poluchavat-iznenadvasti-rezultati-radvame-se-che-minahme-napred-video~242398.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/dushan~1.og.jpg"
-    },
-    {
-      "title": "Емануел Луканов: Отборите от А група имат друга динамика и играят в друг ритъм (ВИДЕО) 16 Окт | 21:10",
-      "url": "https://dsport.bg/emanuel-lukanov-otborite-ot-a-grupa-imat-druga-dinamika-i-igraat-v-drug-ritam-video~242396.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/emol~1.og.jpg"
     }
   ]
 }
