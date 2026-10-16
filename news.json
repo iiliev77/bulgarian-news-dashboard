@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T16:06:37.677300+00:00",
+  "updated": "2026-10-16T16:35:38.441959+00:00",
   "articles": [
+    {
+      "title": "Папата говори с Путин от болничната стая, призова за примирие в Олешки",
+      "url": "https://dariknews.bg/novini/sviat/papata-govori-s-putin-ot-bolnichnata-staia-prizova-za-primirie-v-oleshki-2469353",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397032/991-ratio-papata.jpg"
+    },
     {
       "title": "Зимата напомни за себе си през октомври: Сняг на Шипка и градушка в Старосел",
       "url": "https://dariknews.bg/regioni/stara-zagora/zimata-napomni-za-sebe-si-prez-oktomvri-sniag-na-shipka-i-gradushka-v-starosel-2469348",
@@ -135,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389947/991-ratio-vasil-mihajlov-prokurorski-sin.jpg"
     },
     {
-      "title": "Бивш областен управител на Варна с обвинение за неизгоден договор за адвокатски услуги",
-      "url": "https://dariknews.bg/regioni/varna/bivsh-oblasten-upravitel-na-varna-s-obvinenie-za-neizgoden-dogovor-za-advokatski-uslugi-2469327",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396738/991-ratio-dokument.jpg"
+      "title": "Нефтохимик благодари на феновете си след мача с ЦСКА 1948 (ВИДЕО) 16 Окт | 19:27",
+      "url": "https://dsport.bg/neftohimik-blagodari-na-fenovete-si-sled-macha-s-cska-1948-video~242390.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-4~2.og.jpg"
     },
     {
-      "title": "На живо: Янтра Габрово - Локомотив Пловдив 16 Окт | 19:00",
+      "title": "На живо: Янтра Габрово - Локомотив Пловдив 16 Окт | 19:25",
       "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-16t173529.013.og.png"
+      "image": "https://dsport.bg/media/386/viber_image_2026-10-16_19-08-21-194.og.jpg"
+    },
+    {
+      "title": "Лисандро Мартинес ще бъде наличен за Дербито на розите, Карик: Той осъзна, че е допуснал грешка 16 Окт | 19:13",
+      "url": "https://dsport.bg/lisandro-martines-ste-bade-nalichen-za-derbito-na-rozite-karik-toi-osazna-che-e-dopusnal-greshka~242389.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300038543-1-.og.jpg"
     },
     {
       "title": "Федерацията по борба покани медиите на Общото събрание 16 Окт | 18:50",
@@ -156,7 +170,7 @@
       "image": "https://dsport.bg/media/386/16.10-3~1.og.jpg"
     },
     {
-      "title": "Чудесно - Левски се ядоса на хикс в Ниймеген 16 Окт | 18:46",
+      "title": "Чудесно: Левски се ядоса на хикс в Ниймеген 16 Окт | 18:46",
       "url": "https://dsport.bg/chudesno-levski-se-adosa-na-hiks-v-niimegen~242387.html",
       "source": "Dsport",
       "section": "sport",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-1~2.og.jpg"
-    },
-    {
-      "title": "Гледайте Спортното шоу на Дарик - 16.10.2026 16 Окт | 17:00",
-      "url": "https://dsport.bg/gledaite-sportnoto-shou-na-darik-16-10-2026~242380.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/fph.og.jpg"
-    },
-    {
-      "title": "На живо: 1/16-финалите за Sesame Купа на България започнаха с разгром 16 Окт | 16:50",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     }
   ]
 }
