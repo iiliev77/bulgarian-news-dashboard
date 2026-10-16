@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-16T05:33:49.726338+00:00",
+  "updated": "2026-10-16T06:02:50.628253+00:00",
   "articles": [
+    {
+      "title": "Мицкоски: България се превръща в убежище за осъдени престъпници от Северна Македония",
+      "url": "https://dariknews.bg/novini/bylgariia/mickoski-bylgariia-se-prevryshta-v-ubezhishte-za-osydeni-prestypnici-ot-severna-makedoniia-2469256",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51036/51036497/991-ratio-mickoski.jpg"
+    },
+    {
+      "title": "Скандалът с мантинелите: Министър Шишков посочи надвишени договори и съмнителни плащания",
+      "url": "https://dariknews.bg/novini/bylgariia/skandalyt-s-mantinelite-ministyr-shishkov-posochi-nadvisheni-dogovori-i-symnitelni-plashtaniia-2469255",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Руска атака остави части от Киевска област без ток",
       "url": "https://dariknews.bg/novini/sviat/ruska-ataka-ostavi-chasti-ot-kievska-oblast-bez-tok-2469254",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396502/991-ratio-pyrviiat-turski-elektricheski-bronetransportior.jpg"
     },
     {
-      "title": "След разпит: Руските разследващи освободиха главния редактор на „Новая газета“",
-      "url": "https://dariknews.bg/novini/sviat/sled-razpit-ruskite-razsledvashti-osvobodiha-glavniia-redaktor-na-novaia-gazeta-2469243",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396481/991-ratio-novaia-gazeta.jpg"
-    },
-    {
-      "title": "Външният министър на Румъния: Русия превръща Черно море в опасна зона, убиването на моряци е престъпление",
-      "url": "https://dariknews.bg/novini/sviat/vynshniiat-ministyr-na-rumyniia-rusiia-prevryshta-cherno-more-v-opasna-zona-ubivaneto-na-moriaci-e-prestyplenie-2469242",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392327/991-ratio-karta-cherno-more.jpg"
+      "title": "Мишка прекъсна пресконференцията на треньора на НЕК след мача с Левски (ВИДЕО) 16 Окт | 08:54",
+      "url": "https://dsport.bg/mishka-prekasna-preskonferenciata-na-trenora-na-nek-sled-macha-s-levski~242344.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/screenshot-2026-10-16-084750.og.png"
     },
     {
       "title": "Лисандро Мартинес се извини за критиките си към ръководството на Манчестър Юнайтед 16 Окт | 08:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/1040290.og.jpg"
-    },
-    {
-      "title": "Нордселанд с реми в Шотландия преди мача с ЦСКА 16 Окт | 00:04",
-      "url": "https://dsport.bg/nordseland-s-remi-v-shotlandia-predi-macha-s-cska~242333.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300393302.og.jpg"
     }
   ]
 }
