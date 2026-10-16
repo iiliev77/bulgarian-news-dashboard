@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:35:55.180952+00:00",
+  "updated": "2026-10-16T15:06:24.421676+00:00",
   "articles": [
     {
       "title": "Ръководството на НАТФИЗ е представило план за решаване на проблемите в Академията",
@@ -34,7 +34,7 @@
       "url": "https://dariknews.bg/novini/bylgariia/pushachite-shte-plashtat-poveche-cigarite-poskypvat-ot-mart-2027-g-2469341",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51119/51119617/991-ratio-cigari.jpg"
+      "image": "https://m.netinfo.bg/media/images/51397/51397010/991-ratio-cigari.jpg"
     },
     {
       "title": "А1 вече приема предварителни поръчки за iPhone Duo",
@@ -142,6 +142,27 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396958/991-ratio-policiia.jpg"
     },
     {
+      "title": "Започва новият сезон в женското волейболно първенство 16 Окт | 17:56",
+      "url": "https://dsport.bg/zapochva-noviat-sezon-v-zenskoto-voleibolno-parvenstvo~242384.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/16.10-2~1.og.jpg"
+    },
+    {
+      "title": "На живо: Янтра Габрово - Локомотив Пловдив (Състави) 16 Окт | 17:47",
+      "url": "https://dsport.bg/na-zivo-antra-gabrovo-lokomotiv-plovdiv-sastavi~242383.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-16t173529.013.og.png"
+    },
+    {
+      "title": "Беретини заряза Пеги Гу заради бившата? 16 Окт | 17:42",
+      "url": "https://dsport.bg/mateo-beretini-pegi-gu-federika-leli-razdyala-sluhove~242382.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/mixcollage-16-oct-2026-05-40-pm-8659.og.jpg"
+    },
+    {
       "title": "Билетите за първото гостуване на ЦСКА в Европа струват колкото тези за визита в България 16 Окт | 17:19",
       "url": "https://dsport.bg/biletite-za-parvoto-gostuvane-na-cska-v-evropa-struvat-kolkoto-tezi-za-vizita-v-balgaria~242381.html",
       "source": "Dsport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/viber_image_2026-10-16_15-36-02-655.og.jpg"
-    },
-    {
-      "title": "Тебас сравни медийната стратегия на Реал Мадрид с пропагандата на Гьобелс 16 Окт | 15:43",
-      "url": "https://dsport.bg/tebas-sravni-mediinata-strategia-na-real-madrid-s-propagandata-na-gobels~242374.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-1166061320-1-2-2-1-1-2-2-1-2~1.og.jpg"
-    },
-    {
-      "title": "Официално: MrBit е новият генерален спонсор на Вихрен Сандански 16 Окт | 15:40",
-      "url": "https://dsport.bg/oficialno-mrbit-e-noviat-generalen-sponsor-na-vihren-sandanski~242375.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/img_0197.og.jpg"
-    },
-    {
-      "title": "Флик не мисли за ПСЖ и Реал: Най-важното е да победим Бетис 16 Окт | 15:29",
-      "url": "https://dsport.bg/flik-ne-misli-za-psz-i-real-nai-vaznoto-e-da-pobedim-betis~242373.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2292450775-1~1.og.jpg"
     }
   ]
 }
