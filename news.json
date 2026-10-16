@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-16T10:51:29.493947+00:00",
+  "updated": "2026-10-16T11:15:24.550361+00:00",
   "articles": [
+    {
+      "title": "Дженсън Хуанг: Изкуственият интелект ще стане неизменна част от всяка компания",
+      "url": "https://dariknews.bg/novini/liubopitno/dzhensyn-huang-izkustveniiat-intelekt-shte-stane-neizmenna-chast-ot-vsiaka-kompaniia-2469317",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51130/51130027/991-ratio-izkustven-intelekt.jpg"
+    },
+    {
+      "title": "DARA и „Bangaranga“ влизат в надпреварата за наградите „Грами“ 2027",
+      "url": "https://dariknews.bg/novini/bylgariia/dara-i-bangaranga-vlizat-v-nadprevarata-za-nagradite-grami-2027-2469316",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51333/51333618/991-ratio-dara.jpg"
+    },
+    {
+      "title": "Астрономи за първи път откриха зелена звезда",
+      "url": "https://dariknews.bg/novini/liubopitno/astronomi-za-pyrvi-pyt-otkriha-zelena-zvezda-2469315",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50199/50199068/991-ratio-kosmos.jpg"
+    },
+    {
+      "title": "„Пътят на президента“ в „Темата на NOVA”",
+      "url": "https://dariknews.bg/novini/obshtestvo/pytiat-na-prezidenta-v-temata-na-nova-2469313",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396928/991-ratio-miia-dimitrova.jpg"
+    },
+    {
+      "title": "Рашков за помилванията: Президентството не е болница, а президентът и вицепрезидентът не са медсестри",
+      "url": "https://dariknews.bg/novini/bylgariia/rashkov-za-pomilvaniiata-prezidentstvoto-ne-e-bolnica-a-prezidentyt-i-viceprezidentyt-ne-sa-medsestri-2469314",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50906/50906408/991-ratio-bojko-rashkov.jpg"
+    },
     {
       "title": "„Минава всякакви граници“: Ерол Мюмюн с нови разкрития за сигнали за полицейско насилие в Кърджали",
       "url": "https://dariknews.bg/regioni/kyrdzhali/minava-vsiakakvi-granici-erol-miumiun-s-novi-razkritiia-za-signali-za-policejsko-nasilie-v-kyrdzhali-2469312",
@@ -107,39 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396879/991-ratio-semejstvo-deca.jpg"
     },
     {
-      "title": "Ограничиха ползването на водата за пиене и готвене в село Малко село",
-      "url": "https://dariknews.bg/regioni/sliven/ogranichiha-polzvaneto-na-vodata-za-piene-i-gotvene-v-selo-malko-selo-2469296",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50937/50937236/991-ratio-zelenchuci-miene-voda.jpg"
+      "title": "На живо: Същинската част на Sesame Купа на България започва в Бургас 16 Окт | 14:10",
+      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/1035403~1.og.jpg"
     },
     {
-      "title": "Радев в Брюксел: Засилването на охраната на външните граници на ЕС е от ключово значение за сигурността",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-v-briuksel-zasilvaneto-na-ohranata-na-vynshnite-granici-na-es-e-ot-kliuchovo-znachenie-za-sigurnostta-2469297",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51351/51351091/991-ratio-rumen-radev-sreshta-nato.jpg"
-    },
-    {
-      "title": "Арестуваха младеж, стрелял с газов пистолет пред „Арена Шумен“",
-      "url": "https://dariknews.bg/regioni/shumen/arestuvaha-mladezh-strelial-s-gazov-pistolet-pred-arena-shumen-2469293",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51308/51308306/991-ratio-pistolet.jpg"
-    },
-    {
-      "title": "Археолози откриха надгробни могили и древни селища край Сливен",
-      "url": "https://dariknews.bg/novini/bylgariia/arheolozi-otkriha-nadgrobni-mogili-i-drevni-selishta-kraj-sliven-2469295",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396867/991-ratio-sliven-arheolozi.jpg"
-    },
-    {
-      "title": "Манипулирани ли са ученическите протести във Франция преди президентските избори (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/manipulirani-li-sa-uchenicheskite-protesti-vyv-franciia-predi-prezidentskite-izbori-video-2469294",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51390/51390313/991-ratio-franciia.jpg"
+      "title": "Изненадите в Ухан продължават 16 Окт | 14:00",
+      "url": "https://dsport.bg/iznenadite-v-uhan-prodalzavat~242367.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/gettyimages-2300484057.og.jpg"
     },
     {
       "title": "Без конкуренция: Генералните мениджъри в НБА определиха Везенков за номер 1 16 Окт | 13:45",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/gettyimages-2276553271~1.og.jpg"
-    },
-    {
-      "title": "Шокиращ кандидат от Ла Лига за подписа на Санчо 16 Окт | 12:14",
-      "url": "https://dsport.bg/shokirast-kandidat-ot-la-liga-za-podpisa-na-sancho~242357.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2267933736~1.og.jpg"
-    },
-    {
-      "title": "Резултати от NHL 16 Окт | 11:47",
-      "url": "https://dsport.bg/rezultati-ot-nhl~242355.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/gettyimages-2300464580.og.jpg"
     }
   ]
 }
