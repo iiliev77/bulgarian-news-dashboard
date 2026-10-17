@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:43:35.326736+00:00",
+  "updated": "2026-10-17T09:06:21.531159+00:00",
   "articles": [
     {
       "title": "Български банкноти и монети за първи път влизат в Музея на Банката на Индонезия",
@@ -7,6 +7,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51397/51397136/991-ratio-bylgarski-banknoti-i-moneti-veche-sa-chast-ot-kolekciiata-na.jpg"
+    },
+    {
+      "title": "Първа зимна обстановка на Петрохан: Сняг, паднали клони и ограничения за камионите",
+      "url": "https://dariknews.bg/regioni/sofiia/pyrva-zimna-obstanovka-na-petrohan-sniag-padnali-kloni-i-ogranicheniia-za-kamionite-2469376",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397129/991-ratio-sniag-petrohan.jpg"
     },
     {
       "title": "Започна Общото събрание на прокурорите за избор на членове на ВСС от професионалната квота",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51396/51396372/991-ratio-shipki.jpg"
     },
     {
-      "title": "Срещата в Брюксел завърши без ангажименти за парите за Украйна",
-      "url": "https://dariknews.bg/novini/sviat/sreshtata-v-briuksel-zavyrshi-bez-angazhimenti-za-parite-za-ukrajna-2469364",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397086/991-ratio-volodimir-zelenski.jpg"
+      "title": "На живо: Вихрен - Локомотив София 17 Окт | 12:00",
+      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-17t094047.785.og.png"
+    },
+    {
+      "title": "Моуриньо нападна Тебас, защити Винисиус и отсече: Не искам нови футболисти! 17 Окт | 11:46",
+      "url": "https://dsport.bg/mourino-napadna-tebas-zastiti-vinisius-i-otseche-ne-iskam-novi-futbolisti~242420.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2299738218.og.jpg"
     },
     {
       "title": "ЦСКА: Европа говори с уважение за непримиримия армейски дух! (ВИДЕО) 17 Окт | 11:15",
@@ -147,13 +161,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/1040627.og.jpg"
-    },
-    {
-      "title": "На живо: Вихрен - Локомотив София (Състави) 17 Окт | 10:52",
-      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-17t094047.785.og.png"
     },
     {
       "title": "Как смяна на мястото спасила живота на Мерино при атентата срещу Борусия Дортмунд 17 Окт | 10:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/1041777.og.jpg"
-    },
-    {
-      "title": "Треньорът на Спартак Плевен преди мача с Левски: Ще направим всичко възможно да направим невъзможното 17 Окт | 08:15",
-      "url": "https://dsport.bg/trenorat-na-spartak-pleven-predi-macha-s-levski-ste-napravim-vsichko-vazmozno-da-napravim-nevazmoznoto~242410.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/meta-ekranna-snimka-2026-09-22-135332.png.og.webp"
     }
   ]
 }
