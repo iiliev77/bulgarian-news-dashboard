@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T10:15:53.390789+00:00",
+  "updated": "2026-10-17T10:43:55.494628+00:00",
   "articles": [
+    {
+      "title": "Русия обяви, че е свалила през нощта над 600 украинска дрона, а Украйна - близо 300 руски",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-obiavi-che-e-svalila-prez-noshtta-nad-600-ukrainska-drona-a-ukrajna-blizo-300-ruski-2469383",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51360/51360614/991-ratio-ukrajna-ataki.jpg"
+    },
     {
       "title": "Русия с нова атака срещу товарен кораб в Черно море, транспортиращ военни доставки към Одеса",
       "url": "https://dariknews.bg/novini/sviat/rusiia-s-nova-ataka-sreshtu-tovaren-korab-v-cherno-more-transportirasht-voenni-dostavki-kym-odesa-2469384",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50831/50831008/991-ratio-plodove-i-zelenchuci.jpg"
     },
     {
-      "title": "Откриха протеин, който помага на вредните „зомби клетки“ да се укриват от имунната система",
-      "url": "https://dariknews.bg/novini/liubopitno/otkriha-protein-kojto-pomaga-na-vrednite-zombi-kletki-da-se-ukrivat-ot-imunnata-sistema-2469103",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45608/45608564/991-ratio-laborant-laboratoriia-mikroskop-koronavirus.jpg"
+      "title": "Дакота Дичева се изправи лице в лице със следваща си съперничка в октагона (ВИДЕО) 17 Окт | 13:42",
+      "url": "https://dsport.bg/dakota-dicheva-se-izpravi-lice-v-lice-sas-sledvasta-si-sapernichka-v-oktagona-video~242426.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300047324.og.jpg"
+    },
+    {
+      "title": "На живо: Локомотив София обърна Вихрен 17 Окт | 13:35",
+      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/jtt-10809.og.jpg"
+    },
+    {
+      "title": "Почина треньорът на ЦСКА 1948 Юрий Васев 17 Окт | 13:28",
+      "url": "https://dsport.bg/pochina-trenorat-na-cska-1948-urii-vasev~242425.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/887363.og.jpg"
     },
     {
       "title": "Везенков е №1 в Евролигата 17 Окт | 13:13",
@@ -147,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2216989519-2-1-1-1-2-1-1-2~1.og.jpg"
-    },
-    {
-      "title": "На живо: Локомотив София изравни в Сандански 17 Окт | 13:13",
-      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/jtt-18838.og.jpg"
     },
     {
       "title": "Приключи българското участие на сингъл на турнира W50 в Стара Загора 17 Окт | 12:51",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-667764938.og.jpg"
-    },
-    {
-      "title": "ФИФА наказа Испания, докладът на Кабаков с важна роля 17 Окт | 10:14",
-      "url": "https://dsport.bg/fifa-nakaza-ispania-dokladat-na-kabakov-s-vazna-rola~242416.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2269286437.og.jpg"
-    },
-    {
-      "title": "Тръмп може да остане единственият носител на Наградата за мир на ФИФА 17 Окт | 09:51",
-      "url": "https://dsport.bg/tramp-moze-da-ostane-edinstveniat-nositel-na-nagradata-za-mir-na-fifa~242415.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2250177046-1-.og.jpg"
     }
   ]
 }
