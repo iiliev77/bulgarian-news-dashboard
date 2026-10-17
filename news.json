@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-17T09:56:41.785736+00:00",
+  "updated": "2026-10-17T10:15:53.390789+00:00",
   "articles": [
     {
-      "title": "Разказът на военните след трагедията в Черно море: Открихме спасителни житлетки, но нямаше хора в тях (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/razkazyt-na-voennite-sled-tragediiata-v-cherno-more-otkrihme-spasitelni-zhitletki-no-niamashe-hora-v-tiah-video-2469385",
+      "title": "Русия с нова атака срещу товарен кораб в Черно море, транспортиращ военни доставки към Одеса",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-s-nova-ataka-sreshtu-tovaren-korab-v-cherno-more-transportirasht-voenni-dostavki-kym-odesa-2469384",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395348/991-ratio-tyrgovski-korab-cherno-more.jpg"
+    },
+    {
+      "title": "Разказът на спасителите в Черно море: Открихме части от спасителни жилетки, но нямаше хора в тях (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/razkazyt-na-spasitelite-v-cherno-more-otkrihme-chasti-ot-spasitelni-zhiletki-no-niamashe-hora-v-tiah-video-2469385",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -44,8 +51,8 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397129/991-ratio-sniag-petrohan.jpg"
     },
     {
-      "title": "Започна Общото събрание на прокурорите за избор на членове на ВСС от професионалната квота",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochna-obshtoto-sybranie-na-prokurorite-za-izbor-na-chlenove-na-vss-ot-profesionalnata-kvota-2469378",
+      "title": "Виктор Малинов оглави Общото събрание на прокурорите за избор на членове на ВСС",
+      "url": "https://dariknews.bg/novini/bylgariia/viktor-malinov-oglavi-obshtoto-sybranie-na-prokurorite-za-izbor-na-chlenove-na-vss-2469378",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/45608/45608564/991-ratio-laborant-laboratoriia-mikroskop-koronavirus.jpg"
     },
     {
-      "title": "Променят движението на трамваи 11 и 12 заради ремонт в София",
-      "url": "https://dariknews.bg/regioni/sofiia/promeniat-dvizhenieto-na-tramvai-11-i-12-zaradi-remont-v-sofiia-2469368",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51264/51264341/991-ratio-tramvaj.jpg"
+      "title": "Везенков е №1 в Евролигата 17 Окт | 13:13",
+      "url": "https://dsport.bg/vezenkov-e-1-v-evroligata~242424.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2216989519-2-1-1-1-2-1-1-2~1.og.jpg"
+    },
+    {
+      "title": "На живо: Локомотив София изравни в Сандански 17 Окт | 13:13",
+      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/jtt-18838.og.jpg"
     },
     {
       "title": "Приключи българското участие на сингъл на турнира W50 в Стара Загора 17 Окт | 12:51",
@@ -154,13 +168,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/751094~2.og.jpg"
-    },
-    {
-      "title": "На живо: Вихрен изненада Локомотив София 17 Окт | 12:29",
-      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/jtt-18838.og.jpg"
     },
     {
       "title": "Веласкес: Запознат съм с историята на Литекс Ловеч, първата стъпка за добро представяне утре беше вчера (ВИДЕО) 17 Окт | 12:14",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2250177046-1-.og.jpg"
-    },
-    {
-      "title": "Стачка в Барселона за Ел Класико 17 Окт | 09:36",
-      "url": "https://dsport.bg/stachka-v-barselona-za-el-klasiko~242414.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2299534782.og.jpg"
     }
   ]
 }
