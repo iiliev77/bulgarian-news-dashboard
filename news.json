@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:07:55.604577+00:00",
+  "updated": "2026-10-17T12:38:16.968947+00:00",
   "articles": [
     {
       "title": "Тревожни данни: 47% от българите с ниско образование живеят в бедност",
@@ -128,8 +128,8 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Хилари Суонк: Жените срещат негативни реакции, когато раждат по-късно",
-      "url": "https://dariknews.bg/novini/liubopitno/hilari-suonk-zhenite-sreshtat-negativni-reakcii-kogato-razhdat-po-kysno-2469346",
+      "title": "Хилари Суонк за отношението към жените, когато раждат на по-късна възраст",
+      "url": "https://dariknews.bg/novini/liubopitno/hilari-suonk-za-otnoshenieto-kym-zhenite-kogato-razhdat-na-po-kysna-vyzrast-2469346",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51397/51397009/991-ratio-hilari-suonk.jpg"
@@ -142,18 +142,25 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "На живо: Марек – Черно море 17 Окт | 15:01",
-      "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/tambove-sait-14-.og.jpg"
-    },
-    {
-      "title": "На живо: Играят се мачове в Свищов, Самоков, Горна Оряховица и Благоевград за Sesame Купа на България 17 Окт | 15:00",
+      "title": "На живо: Играят се мачове в Свищов, Самоков, Горна Оряховица и Благоевград за Sesame Купа на България 17 Окт | 15:30",
       "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
+    },
+    {
+      "title": "Дефект в сауната предизвика суматоха след мач от Бундеслигата 17 Окт | 15:09",
+      "url": "https://dsport.bg/defekt-v-saunata-predizvika-sumatoha-sled-mach-ot-bundesligata~242432.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2299990307.og.jpg"
+    },
+    {
+      "title": "На живо: Черно море поведе на Марек 17 Окт | 15:01",
+      "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/tambove-sait-14-.og.jpg"
     },
     {
       "title": "Властта на Станка Златева приключи, Тодор Ангелов е новият шеф на борбата (ВИДЕО) 17 Окт | 14:38",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/887363.og.jpg"
-    },
-    {
-      "title": "Везенков е №1 в Евролигата 17 Окт | 13:13",
-      "url": "https://dsport.bg/vezenkov-e-1-v-evroligata~242424.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2216989519-2-1-1-1-2-1-1-2~1.og.jpg"
     }
   ]
 }
