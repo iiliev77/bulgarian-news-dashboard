@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T05:04:52.326162+00:00",
+  "updated": "2026-10-17T05:29:50.063211+00:00",
   "articles": [
+    {
+      "title": "Българин начело на ООН? Николай Младенов сред спряганите имена за поста на Гутериш",
+      "url": "https://dariknews.bg/novini/sviat/bylgarin-nachelo-na-oon-nikolaj-mladenov-sred-spriaganite-imena-za-posta-na-guterish-2469370",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48047/48047191/991-ratio-nikolaj-mladenov.jpg"
+    },
     {
       "title": "Банките по света отпуснали кредити за стотици милиарди долари на компании, унищожили екосистеми",
       "url": "https://dariknews.bg/novini/sviat/bankite-po-sveta-otpusnali-krediti-za-stotici-miliardi-dolari-na-kompanii-unishtozhili-ekosistemi-2469134",
@@ -90,7 +97,7 @@
       "url": "https://dariknews.bg/regioni/burgas/uspeshna-spasitelna-operaciia-korabyt-chelsea-3-pristigna-na-pristanishteto-v-burgas-2469363",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397085/991-ratio-iztegliane-chelsi.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Олимпийците Емил Будинов и Тома Никифоров бяха елиминирани от “Игри на волята”",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397052/991-ratio-metro-zholio-kiuri-ubit-myzh.jpg"
     },
     {
-      "title": "Изписват Ива Михайлова от „Пирогов” в началото на следващата седмица",
-      "url": "https://dariknews.bg/novini/bylgariia/izpisvat-iva-mihajlova-ot-pirogov-v-nachaloto-na-sledvashtata-sedmica-2469356",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397039/991-ratio-pirogov.jpg"
+      "title": "Треньорът на Спартак Плевен преди мача с Левски: Ще направим всичко възможно да направим невъзможното 17 Окт | 08:15",
+      "url": "https://dsport.bg/trenorat-na-spartak-pleven-predi-macha-s-levski-ste-napravim-vsichko-vazmozno-da-napravim-nevazmoznoto~242410.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/meta-ekranna-snimka-2026-09-22-135332.png.og.webp"
     },
     {
       "title": "Sesame Купа на България продължава със седем съботни мача 17 Окт | 08:00",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-8~1.og.jpg"
-    },
-    {
-      "title": "Балкан разгроми Левски, Шумен се наложи над Ботев Враца 16 Окт | 22:12",
-      "url": "https://dsport.bg/balkan-razgromi-levski-shumen-se-nalozi-nad-botev-vraca~242401.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-7~1.og.jpg"
     }
   ]
 }
