@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-17T14:19:46.582503+00:00",
+  "updated": "2026-10-17T17:18:26.787587+00:00",
   "articles": [
+    {
+      "title": "Костадинов във Варна: Ако гласувате за „Възраждане”, гласувате за мир и сигурност",
+      "url": "https://dariknews.bg/novini/plateni-publikacii/kostadinov-vyv-varna-ako-glasuvate-za-vyzrazhdane-glasuvate-za-mir-i-sigurnost-2469397",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397507/991-ratio-kostadin-kostadinov.jpg"
+    },
+    {
+      "title": "Кандидатите за прокурорската квота във ВСС поставиха акцент върху независимостта и прозрачността",
+      "url": "https://dariknews.bg/novini/bylgariia/kandidatite-za-prokurorskata-kvota-vyv-vss-postaviha-akcent-vyrhu-nezavisimostta-i-prozrachnostta-2469396",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397493/991-ratio-vss-izbor.jpg"
+    },
+    {
+      "title": "Две катастрофи между кола и камион край Луковит, загина жена",
+      "url": "https://dariknews.bg/regioni/lovech/dve-katastrofi-mezhdu-kola-i-kamion-kraj-lukovit-zagina-zhena-2469395",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397452/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "„Много съжалявам за станалото“: Оставиха в ареста задържания за убийството край Харманли",
+      "url": "https://dariknews.bg/regioni/haskovo/mnogo-syzhaliavam-za-stanaloto-ostaviha-v-aresta-zadyrzhaniia-za-ubijstvoto-kraj-harmanli-2469394",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397444/991-ratio-stefan-milanov.jpg"
+    },
     {
       "title": "Символ на България с европейски амбиции: Еленският бут събра производители и ценители",
       "url": "https://dariknews.bg/novini/obshtestvo/simvol-na-bylgariia-s-evropejski-ambicii-elenskiiat-but-sybra-proizvoditeli-i-ceniteli-2469393",
@@ -114,102 +142,74 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Въвежда се временна организация на движението на граничния преход „Русе-Гюргево“",
-      "url": "https://dariknews.bg/regioni/ruse/vyvezhda-se-vremenna-organizaciia-na-dvizhenieto-na-granichniia-prehod-ruse-giurgevo-2469375",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397126/991-ratio-giurgevo.jpg"
-    },
-    {
-      "title": "„Запис в системата няма“: Шефът на „Гранична полиция“ за влизането на Ива Михайлова у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/zapis-v-sistemata-niama-shefyt-na-granichna-policiia-za-vlizaneto-na-iva-mihajlova-u-nas-2469374",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Мъж намушка с нож двама младежи в центъра на София",
-      "url": "https://dariknews.bg/regioni/sofiia/myzh-namushka-s-nozh-dvama-mladezhi-v-centyra-na-sofiia-2469373",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Сметки, отопление и непредвидени разходи: Стига ли пенсията в България?",
-      "url": "https://dariknews.bg/novini/bylgariia/smetki-otoplenie-i-nepredvideni-razhodi-stiga-li-pensiiata-v-bylgariia-2469372",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
-    },
-    {
-      "title": "Славия не се затрудни с Академик Свищов 17 Окт | 17:18",
-      "url": "https://dsport.bg/slavia-ne-se-zatrudni-s-akademik-svistov~242439.html",
+      "title": "Ахмед Хикмет след отпадането от Лудогорец: Целият отбор се стара много 17 Окт | 20:17",
+      "url": "https://dsport.bg/ahmed-hikmet-sled-otpadaneto-ot-ludogorec-celiat-otbor-se-stara-mnogo~242460.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1016021.og.jpg"
+      "image": "https://dsport.bg/media/386/1042328~1.og.jpg"
     },
     {
-      "title": "На живо: Славия, Хебър, Черно море и Дунав продължават напред, играят се продължения в Горна Оряховица 17 Окт | 17:13",
+      "title": "ПСЖ се нуждаеше от обрат срещу Страсбург 17 Окт | 20:13",
+      "url": "https://dsport.bg/psz-se-nuzdaeshe-ot-obrat-srestu-strasburg~242459.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300292152.og.jpg"
+    },
+    {
+      "title": "Йовичевич: Чочев си е Чочев - топ реализатор, ще сме готови за ЦСКА 17 Окт | 20:02",
+      "url": "https://dsport.bg/iovichevich-chochev-si-e-chochev-top-realizator-ste-sme-gotovi-za-cska~242458.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1042301~1.og.jpg"
+    },
+    {
+      "title": "Изненада в Горна Оряховица, отборите от елита доминират 17 Окт | 19:52",
       "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
-      "title": "Илиан Илиев: Имаме още много да надигаме глава, за да се върнем на нивото, на което бяхме 17 Окт | 17:12",
-      "url": "https://dsport.bg/ilian-iliev-imame-oste-mnogo-da-nadigame-glava-za-da-se-varnem-na-nivoto-na-koeto-bahme~242442.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1042171~1.og.jpg"
-    },
-    {
-      "title": "Атлетико Мадрид препарира „папагалчетата“ в края, за да продължи с победите 17 Окт | 17:06",
-      "url": "https://dsport.bg/atletiko-madrid-preparira-papagalchetata-v-kraa-za-da-prodalzi-s-pobedite~242441.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300649215.og.jpg"
-    },
-    {
-      "title": "На живо: Берое - Лудогорец (Състави) 17 Окт | 16:56",
+      "title": "Лудогорец отказа Берое за минути, разградчани вкараха от метър засада 17 Окт | 19:50",
       "url": "https://dsport.bg/na-zivo-beroe-ludogorec-sastavi~242440.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-17t165439.139.og.png"
+      "image": "https://dsport.bg/media/386/1042392.og.jpg"
     },
     {
-      "title": "Челси сложи край на успешния старт на Евертън, сериозен инцидент помрачи мача 17 Окт | 16:35",
-      "url": "https://dsport.bg/chelsi-slozi-krai-na-uspeshnia-start-na-evertan-seriozen-incident-pomrachi-macha~242437.html",
+      "title": "Виляреал не успя да пречупи Елче 17 Окт | 19:28",
+      "url": "https://dsport.bg/vilareal-ne-uspa-da-prechupi-elche~242456.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300645859.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300666475.og.jpg"
     },
     {
-      "title": "Морето заля „Бончук“ и продължава безпроблемно за Купата 17 Окт | 16:34",
-      "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
+      "title": "Рецептата за първа загуба на Брентфорд: два червени картона с добавка Ливърпул в Лондон 17 Окт | 19:10",
+      "url": "https://dsport.bg/dva-cherveni-kartona-i-livarpul-v-london-baha-nuzni-za-parvata-zaguba-na-brentford-tozi-sezon~242455.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1042173.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300663777.og.jpg"
     },
     {
-      "title": "Гриша Ганчев: Г-ца Златева може да се прибере щастлива, отърва се от милиционерите 17 Окт | 16:21",
-      "url": "https://dsport.bg/grisha-ganchev-g-ca-zlateva-moze-da-se-pribere-stastliva-otarva-se-ot-milicionerite~242438.html",
+      "title": "7/7: Манчестър Сити продължава да бие във Висшата лига 17 Окт | 19:02",
+      "url": "https://dsport.bg/manchestar-siti-prodalzava-da-gazi-vav-visshata-liga~242452.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/17.10-3~4.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300663364.og.jpg"
     },
     {
-      "title": "Везенков: Гуардиола е един от най-великите умове в спорта 17 Окт | 16:08",
-      "url": "https://dsport.bg/vezenkov-guardiola-e-edin-ot-nai-velikite-umove-v-sporta~242436.html",
+      "title": "Български национал в центъра на вниманието при зрелище в Бундеслигата 17 Окт | 18:59",
+      "url": "https://dsport.bg/balgarski-nacional-v-centara-na-vnimanieto-pri-zreliste-v-bundesligata~242454.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300008753.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300647008.og.jpg"
     },
     {
-      "title": "Ексклузивно Аматьорският национален отбор громи с 13:1, Кокала: Трябва ни победа над чехите, за да сме първи 17 Окт | 15:50",
-      "url": "https://dsport.bg/amatorskiat-nacionalen-otbor-gromi-s-13-1-kokala-trabva-ni-pobeda-nad-chehite-za-da-sme-parvi~242434.html",
+      "title": "Борусия Дортмунд зацикли, този път не вкара на опашкар 17 Окт | 18:45",
+      "url": "https://dsport.bg/borusia-dortmund-zacikli-tozi-pat-ne-vkara-na-opashkar~242453.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/31.08-7-1~1.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300654020.og.jpg"
     }
   ]
 }
