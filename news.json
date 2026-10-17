@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T13:58:59.185484+00:00",
+  "updated": "2026-10-17T14:19:46.582503+00:00",
   "articles": [
+    {
+      "title": "Символ на България с европейски амбиции: Еленският бут събра производители и ценители",
+      "url": "https://dariknews.bg/novini/obshtestvo/simvol-na-bylgariia-s-evropejski-ambicii-elenskiiat-but-sybra-proizvoditeli-i-ceniteli-2469393",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397412/991-ratio-elenski-but.jpg"
+    },
     {
       "title": "След скандали: Свалиха Станка Златева като шеф на борбата, Тодор Ангелов оглави федерацията",
       "url": "https://dariknews.bg/novini/bylgariia/sled-skandali-svaliha-stanka-zlateva-kato-shef-na-borbata-todor-angelov-oglavi-federaciiata-2469392",
@@ -135,11 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
     },
     {
-      "title": "Бате Емо от „Игри на волята“ разкри семейната трагедия, белязала живота му",
-      "url": "https://dariknews.bg/novini/liubopitno/bate-emo-ot-igri-na-voliata-razkri-semejnata-tragediia-beliazala-zhivota-mu-2469380",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Славия не се затрудни с Академик Свищов 17 Окт | 17:18",
+      "url": "https://dsport.bg/slavia-ne-se-zatrudni-s-akademik-svistov~242439.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1016021.og.jpg"
+    },
+    {
+      "title": "На живо: Славия, Хебър, Черно море и Дунав продължават напред, играят се продължения в Горна Оряховица 17 Окт | 17:13",
+      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
+    },
+    {
+      "title": "Илиан Илиев: Имаме още много да надигаме глава, за да се върнем на нивото, на което бяхме 17 Окт | 17:12",
+      "url": "https://dsport.bg/ilian-iliev-imame-oste-mnogo-da-nadigame-glava-za-da-se-varnem-na-nivoto-na-koeto-bahme~242442.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1042171~1.og.jpg"
+    },
+    {
+      "title": "Атлетико Мадрид препарира „папагалчетата“ в края, за да продължи с победите 17 Окт | 17:06",
+      "url": "https://dsport.bg/atletiko-madrid-preparira-papagalchetata-v-kraa-za-da-prodalzi-s-pobedite~242441.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300649215.og.jpg"
     },
     {
       "title": "На живо: Берое - Лудогорец (Състави) 17 Окт | 16:56",
@@ -170,13 +198,6 @@
       "image": "https://dsport.bg/media/386/17.10-3~4.og.jpg"
     },
     {
-      "title": "На живо: Играят се мачове в Свищов, Самоков, Горна Оряховица и Благоевград за Sesame Купа на България 17 Окт | 16:18",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
-    },
-    {
       "title": "Везенков: Гуардиола е един от най-великите умове в спорта 17 Окт | 16:08",
       "url": "https://dsport.bg/vezenkov-guardiola-e-edin-ot-nai-velikite-umove-v-sporta~242436.html",
       "source": "Dsport",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/31.08-7-1~1.og.jpg"
-    },
-    {
-      "title": "В Дупница ще бъде открит паметник на Стефан Чапрашиков 17 Окт | 15:40",
-      "url": "https://dsport.bg/v-dupnica-ste-bade-otkrit-pametnik-na-stefan-chaprashikov-chlen-na-mok-pocheten-predsedatel-na-bok-i-golam-sporten-mecenat~242433.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/pametnik-chaprashikov.og.jpg"
-    },
-    {
-      "title": "Дефект в сауната предизвика суматоха след мач от Бундеслигата 17 Окт | 15:09",
-      "url": "https://dsport.bg/defekt-v-saunata-predizvika-sumatoha-sled-mach-ot-bundesligata~242432.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2299990307.og.jpg"
-    },
-    {
-      "title": "Властта на Станка Златева приключи, Тодор Ангелов е новият шеф на борбата (ВИДЕО) 17 Окт | 14:38",
-      "url": "https://dsport.bg/vlastta-na-stanka-zlateva-prikluchi-todor-angelov-e-noviat-shef-na-borbata-video~242431.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/17.10-6~1.og.jpg"
     }
   ]
 }
