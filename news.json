@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T13:10:01.295343+00:00",
+  "updated": "2026-10-17T13:35:25.800337+00:00",
   "articles": [
+    {
+      "title": "Филип Атанасов-Фифо търси реванш от шампиона Алекса Ерски в новия звезден сблъсък в „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/filip-atanasov-fifo-tyrsi-revansh-ot-shampiona-aleksa-erski-v-noviia-zvezden-sblysyk-v-igri-na-voliata-2469391",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397399/991-ratio-igri.jpg"
+    },
     {
       "title": "Тревожни данни: 47% от българите с ниско образование живеят в бедност",
       "url": "https://dariknews.bg/novini/bylgariia/trevozhni-danni-47-ot-bylgarite-s-nisko-obrazovanie-zhiveiat-v-bednost-2469389",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397009/991-ratio-hilari-suonk.jpg"
     },
     {
-      "title": "Тръмп отмени нови санкции срещу Русия на фона на влошаващи се отношения с Украйна",
-      "url": "https://dariknews.bg/novini/sviat/trymp-otmeni-novi-sankcii-sreshtu-rusiia-na-fona-na-vloshavashti-se-otnosheniia-s-ukrajna-2469371",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Гриша Ганчев: Г-ца Златева може да се прибере щастлива, отърва се от милиционерите 17 Окт | 16:21",
+      "url": "https://dsport.bg/grisha-ganchev-g-ca-zlateva-moze-da-se-pribere-stastliva-otarva-se-ot-milicionerite~242438.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/17.10-3~4.og.jpg"
+    },
+    {
+      "title": "На живо: Играят се мачове в Свищов, Самоков, Горна Оряховица и Благоевград за Sesame Купа на България 17 Окт | 16:18",
+      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
       "title": "Везенков: Гуардиола е един от най-великите умове в спорта 17 Окт | 16:08",
@@ -149,11 +163,11 @@
       "image": "https://dsport.bg/media/386/gettyimages-2300008753.og.jpg"
     },
     {
-      "title": "На живо: Черно море поведе на Марек, греда за домакините 17 Окт | 16:04",
+      "title": "На живо: Черно море удвои срещу Марек 17 Окт | 16:04",
       "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/17.10-7~1.og.jpg"
+      "image": "https://dsport.bg/media/386/1042173.og.jpg"
     },
     {
       "title": "Ексклузивно Аматьорският национален отбор громи с 13:1, Кокала: Трябва ни победа над чехите, за да сме първи 17 Окт | 15:50",
@@ -161,13 +175,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/31.08-7-1~1.og.jpg"
-    },
-    {
-      "title": "На живо: Играят се мачове в Свищов, Самоков, Горна Оряховица и Благоевград за Sesame Купа на България 17 Окт | 15:49",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
       "title": "В Дупница ще бъде открит паметник на Стефан Чапрашиков 17 Окт | 15:40",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/1042100.og.jpg"
-    },
-    {
-      "title": "Любо Пенев: Хубав мач, хареса ми, Купата е най-прекият път към Европа 17 Окт | 14:15",
-      "url": "https://dsport.bg/lubo-penev-hubav-mach-haresa-mi-kupata-e-nai-prekiat-pat-kam-evropa~242428.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/17.10-5~3.og.jpg"
     }
   ]
 }
