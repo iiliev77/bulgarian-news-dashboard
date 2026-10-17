@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T06:17:29.614280+00:00",
+  "updated": "2026-10-17T06:59:12.170695+00:00",
   "articles": [
+    {
+      "title": "Сметки, отопление и непредвидени разходи: Стига ли пенсията в България?",
+      "url": "https://dariknews.bg/novini/bylgariia/smetki-otoplenie-i-nepredvideni-razhodi-stiga-li-pensiiata-v-bylgariia-2469372",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
+    },
     {
       "title": "Хилари Суонк: Жените срещат негативни реакции, когато раждат по-късно",
       "url": "https://dariknews.bg/novini/liubopitno/hilari-suonk-zhenite-sreshtat-negativni-reakcii-kogato-razhdat-po-kysno-2469346",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397090/991-ratio-viena.jpg"
     },
     {
-      "title": "След седмица на поста и скандал за квалификацията ѝ: Кейти Закария вече не е говорител на Белия дом",
-      "url": "https://dariknews.bg/novini/sviat/sled-sedmica-na-posta-i-skandal-za-kvalifikaciiata-kejti-zakariia-veche-ne-e-govoritel-na-beliia-dom-2469362",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397073/991-ratio-kejti-zakariia.jpg"
+      "title": "Тръмп може да остане единственият носител на Наградата за мир на ФИФА 17 Окт | 09:51",
+      "url": "https://dsport.bg/tramp-moze-da-ostane-edinstveniat-nositel-na-nagradata-za-mir-na-fifa~242415.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2250177046-1-.og.jpg"
+    },
+    {
+      "title": "Стачка в Барселона за Ел Класико 17 Окт | 09:36",
+      "url": "https://dsport.bg/stachka-v-barselona-za-el-klasiko~242414.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2299534782.og.jpg"
     },
     {
       "title": "Двама се завръщат за Черно море срещу Марек 17 Окт | 09:17",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-13.og.jpg"
-    },
-    {
-      "title": "Голов спектакъл: Фрозиноне срази Сасуоло 16 Окт | 23:46",
-      "url": "https://dsport.bg/golov-spektakal-frozinone-srazi-sasuolo~242406.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300551919.og.jpg"
-    },
-    {
-      "title": "Айнтрахт пречупи Кьолн за първа победа вкъщи 16 Окт | 23:31",
-      "url": "https://dsport.bg/aintraht-prechupi-koln-za-parva-pobeda-vkasti~242405.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300553789.og.jpg"
     }
   ]
 }
