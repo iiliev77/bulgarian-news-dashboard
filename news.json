@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-17T09:06:21.531159+00:00",
+  "updated": "2026-10-17T09:31:25.628792+00:00",
   "articles": [
+    {
+      "title": "ЦИК: Изтича срокът за отстраняване на грешки в избирателните списъци",
+      "url": "https://dariknews.bg/novini/bylgariia/cik-izticha-srokyt-za-otstraniavane-na-greshki-v-izbiratelnite-spisyci-2469381",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387112/991-ratio-cik-izbori.jpg"
+    },
+    {
+      "title": "София без парно и топла вода на места: Терзиев посочи кога приключват ремонтите",
+      "url": "https://dariknews.bg/regioni/sofiia/sofiia-bez-parno-i-topla-voda-na-mesta-terziev-posochi-koga-prikliuchvat-remontite-2469379",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51375/51375079/991-ratio-vasil-terziev-kmet-sofiia.jpg"
+    },
     {
       "title": "Български банкноти и монети за първи път влизат в Музея на Банката на Индонезия",
       "url": "https://dariknews.bg/novini/bylgariia/bylgarski-banknoti-i-moneti-za-pyrvi-pyt-vlizat-v-muzeia-na-bankata-na-indoneziia-2469377",
@@ -41,7 +55,7 @@
       "url": "https://dariknews.bg/regioni/sofiia/myzh-namushka-s-nozh-dvama-mladezhi-v-centyra-na-sofiia-2469373",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386765/991-ratio-ubijstvo-nozh-vilica.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Сметки, отопление и непредвидени разходи: Стига ли пенсията в България?",
@@ -49,6 +63,13 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50812/50812808/991-ratio-pensiia.jpg"
+    },
+    {
+      "title": "Бате Емо от „Игри на волята“ разкри семейната трагедия, белязала живота му",
+      "url": "https://dariknews.bg/novini/liubopitno/bate-emo-ot-igri-na-voliata-razkri-semejnata-tragediia-beliazala-zhivota-mu-2469380",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Хилари Суонк: Жените срещат негативни реакции, когато раждат по-късно",
@@ -62,7 +83,7 @@
       "url": "https://dariknews.bg/novini/sviat/trymp-otmeni-novi-sankcii-sreshtu-rusiia-na-fona-na-vloshavashti-se-otnosheniia-s-ukrajna-2469371",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396740/991-ratio-donald-trymp.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Фалшива тревога за земетресение с магнитуд 9,9 спря транспорта в Япония",
@@ -121,32 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/42122/42122240/991-ratio-lunata-zemiata-kosmos.jpg"
     },
     {
-      "title": "Локали нападат като чакали: Между 30 и 50% от децата ходят със страх на училище",
-      "url": "https://dariknews.bg/novini/bylgariia/lokali-napadat-kato-chakali-mezhdu-30-i-50-ot-decata-hodiat-sys-strah-na-uchilishte-2469359",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397055/991-ratio-telegrafno-podkastyt.jpg"
-    },
-    {
-      "title": "Защо през есента ни става тъжно, дори когато всичко е наред?",
-      "url": "https://dariknews.bg/novini/obshtestvo/zashto-prez-esenta-ni-stava-tyzhno-dori-kogato-vsichko-e-nared-2469351",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397025/991-ratio-autumn.jpg"
-    },
-    {
-      "title": "Мънички, червенички, пълни с витамини: Защо шипките са толкова полезни",
-      "url": "https://dariknews.bg/novini/liubopitno/mynichki-chervenichki-pylni-s-vitamini-zashto-shipkite-sa-tolkova-polezni-2469218",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396372/991-ratio-shipki.jpg"
-    },
-    {
-      "title": "На живо: Вихрен - Локомотив София 17 Окт | 12:00",
+      "title": "На живо: Вихрен изненада Локомотив София 17 Окт | 12:29",
       "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-17t094047.785.og.png"
+      "image": "https://dsport.bg/media/386/jtt-18838.og.jpg"
+    },
+    {
+      "title": "Веласкес: Запознат съм с историята на Литекс Ловеч, първата стъпка за добро представяне утре беше вчера (ВИДЕО) 17 Окт | 12:14",
+      "url": "https://dsport.bg/velaskes-zapoznat-sam-s-istoriata-na-liteks-lovech-parvata-stapka-za-dobro-predstavane-utre-beshe-vchera-video~242421.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1016970.og.jpg"
     },
     {
       "title": "Моуриньо нападна Тебас, защити Винисиус и отсече: Не искам нови футболисти! 17 Окт | 11:46",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2275827325.og.jpg"
-    },
-    {
-      "title": "От НЕК изненадани как Левски е разпределил билетите за домакинските сектори 17 Окт | 08:33",
-      "url": "https://dsport.bg/ot-nek-iznenadani-kak-levski-e-razpredelil-biletite-za-domakinskite-sektori~242411.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1041777.og.jpg"
     }
   ]
 }
