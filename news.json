@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T13:35:25.800337+00:00",
+  "updated": "2026-10-17T13:58:59.185484+00:00",
   "articles": [
+    {
+      "title": "След скандали: Свалиха Станка Златева като шеф на борбата, Тодор Ангелов оглави федерацията",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-skandali-svaliha-stanka-zlateva-kato-shef-na-borbata-todor-angelov-oglavi-federaciiata-2469392",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397407/991-ratio-todor-angelov.jpg"
+    },
     {
       "title": "Филип Атанасов-Фифо търси реванш от шампиона Алекса Ерски в новия звезден сблъсък в „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/filip-atanasov-fifo-tyrsi-revansh-ot-shampiona-aleksa-erski-v-noviia-zvezden-sblysyk-v-igri-na-voliata-2469391",
@@ -135,11 +142,25 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Хилари Суонк за отношението към жените, когато раждат на по-късна възраст",
-      "url": "https://dariknews.bg/novini/liubopitno/hilari-suonk-za-otnoshenieto-kym-zhenite-kogato-razhdat-na-po-kysna-vyzrast-2469346",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397009/991-ratio-hilari-suonk.jpg"
+      "title": "На живо: Берое - Лудогорец (Състави) 17 Окт | 16:56",
+      "url": "https://dsport.bg/na-zivo-beroe-ludogorec-sastavi~242440.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-17t165439.139.og.png"
+    },
+    {
+      "title": "Челси сложи край на успешния старт на Евертън, сериозен инцидент помрачи мача 17 Окт | 16:35",
+      "url": "https://dsport.bg/chelsi-slozi-krai-na-uspeshnia-start-na-evertan-seriozen-incident-pomrachi-macha~242437.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300645859.og.jpg"
+    },
+    {
+      "title": "Морето заля „Бончук“ и продължава безпроблемно за Купата 17 Окт | 16:34",
+      "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1042173.og.jpg"
     },
     {
       "title": "Гриша Ганчев: Г-ца Златева може да се прибере щастлива, отърва се от милиционерите 17 Окт | 16:21",
@@ -161,13 +182,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2300008753.og.jpg"
-    },
-    {
-      "title": "На живо: Черно море удвои срещу Марек 17 Окт | 16:04",
-      "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1042173.og.jpg"
     },
     {
       "title": "Ексклузивно Аматьорският национален отбор громи с 13:1, Кокала: Трябва ни победа над чехите, за да сме първи 17 Окт | 15:50",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/17.10-6~1.og.jpg"
-    },
-    {
-      "title": "Сподвижник на Станка Златева: Няма нужда от война, те управляват 26 години 17 Окт | 14:29",
-      "url": "https://dsport.bg/spodviznik-na-stanka-zlateva-nama-nuzda-ot-voina-te-upravlavat-26-godini-video~242430.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/660770.og.jpg"
-    },
-    {
-      "title": "Кьосев: Много неща липсват на Вихрен, за да се противопостави на отборите от елита 17 Окт | 14:24",
-      "url": "https://dsport.bg/kosev-mnogo-nesta-lipsvat-na-vihren-za-da-se-protivopostavi-na-otborite-ot-elita~242429.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1042100.og.jpg"
     }
   ]
 }
