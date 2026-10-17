@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-17T03:17:06.328778+00:00",
+  "updated": "2026-10-17T03:49:02.249771+00:00",
   "articles": [
+    {
+      "title": "Защо през есента ни става тъжно, дори когато всичко е наред?",
+      "url": "https://dariknews.bg/novini/obshtestvo/zashto-prez-esenta-ni-stava-tyzhno-dori-kogato-vsichko-e-nared-2469351",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397025/991-ratio-autumn.jpg"
+    },
+    {
+      "title": "Мънички, червенички, пълни с витамини: Защо шипките са толкова полезни",
+      "url": "https://dariknews.bg/novini/liubopitno/mynichki-chervenichki-pylni-s-vitamini-zashto-shipkite-sa-tolkova-polezni-2469218",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396372/991-ratio-shipki.jpg"
+    },
+    {
+      "title": "Срещата в Брюксел завърши без ангажименти за парите за Украйна",
+      "url": "https://dariknews.bg/novini/sviat/sreshtata-v-briuksel-zavyrshi-bez-angazhimenti-za-parite-za-ukrajna-2469364",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397086/991-ratio-volodimir-zelenski.jpg"
+    },
+    {
+      "title": "Германия разследва български дипломат и клисар за изнасилване",
+      "url": "https://dariknews.bg/novini/sviat/germaniia-razsledva-bylgarski-diplomat-i-klisar-za-iznasilvane-2469367",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397096/991-ratio-policiia-germaniia.jpg"
+    },
     {
       "title": "Очаква ни облачна събота с температури до 17 градуса",
       "url": "https://dariknews.bg/novini/bylgariia/ochakva-ni-oblachna-sybota-s-temperaturi-do-17-gradusa-2469352",
@@ -112,34 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51103/51103204/991-ratio-papa-lyv.jpg"
-    },
-    {
-      "title": "Пушачите ще плащат повече: Цигарите поскъпват от март 2027 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/pushachite-shte-plashtat-poveche-cigarite-poskypvat-ot-mart-2027-g-2469341",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397010/991-ratio-cigari.jpg"
-    },
-    {
-      "title": "А1 вече приема предварителни поръчки за iPhone Duo",
-      "url": "https://dariknews.bg/novini/tehnologii/a1-veche-priema-predvaritelni-porychki-za-iphone-duo-2469340",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396996/991-ratio-a1.jpg"
-    },
-    {
-      "title": "Катастрофа между камион и кола затвори път Е-70",
-      "url": "https://dariknews.bg/regioni/razgrad/katastrofa-mezhdu-kamion-i-kola-zatvori-pyt-e-70-2469339",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395882/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Американски сенатори искат разследване на ограниченията на Starlink в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/amerikanski-senatori-iskat-razsledvane-na-ogranicheniiata-na-starlink-v-ukrajna-2469338",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396835/991-ratio-internet.jpg"
     },
     {
       "title": "Депор и Леванте не направиха достатъчно за трите точки 17 Окт | 00:23",
