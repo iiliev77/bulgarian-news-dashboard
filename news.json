@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T11:28:24.624040+00:00",
+  "updated": "2026-10-17T11:51:39.399112+00:00",
   "articles": [
+    {
+      "title": "Зеленски: САЩ „награждават“ и „насърчават“ Путин",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-sasht-nagrazhdavat-i-nasyrchavat-putin-2469388",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
+    },
     {
       "title": "Тъжна вест за българския футбол: Почина треньорът Юрий Васев",
       "url": "https://dariknews.bg/novini/bylgariia/tyzhna-vest-za-bylgarskiia-futbol-pochina-trenioryt-iurij-vasev-2469387",
@@ -135,11 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
     },
     {
-      "title": "Българин начело на ООН? Николай Младенов сред спряганите имена за поста на Гутериш",
-      "url": "https://dariknews.bg/novini/sviat/bylgarin-nachelo-na-oon-nikolaj-mladenov-sred-spriaganite-imena-za-posta-na-guterish-2469370",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/48047/48047191/991-ratio-nikolaj-mladenov.jpg"
+      "title": "Властта на Станка Златева приключи, Тодор Ангелов е новият шеф на борбата (ВИДЕО) 17 Окт | 14:38",
+      "url": "https://dsport.bg/vlastta-na-stanka-zlateva-prikluchi-todor-angelov-e-noviat-shef-na-borbata-video~242431.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/17.10-6~1.og.jpg"
+    },
+    {
+      "title": "Сподвижник на Станка Златева: Няма нужда от война, те управляват 26 години (ВИДЕО) 17 Окт | 14:29",
+      "url": "https://dsport.bg/spodviznik-na-stanka-zlateva-nama-nuzda-ot-voina-te-upravlavat-26-godini-video~242430.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/660770.og.jpg"
     },
     {
       "title": "Кьосев: Много неща липсват на Вихрен, за да се противопостави на отборите от елита 17 Окт | 14:24",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/17.10-1~3.og.jpg"
-    },
-    {
-      "title": "„Троянски кон“ ще води събранието на борбата 17 Окт | 12:36",
-      "url": "https://dsport.bg/troanski-kon-ste-vodi-sabranieto-na-borbata~242422.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/751094~2.og.jpg"
-    },
-    {
-      "title": "Веласкес: Запознат съм с историята на Литекс Ловеч, първата стъпка за добро представяне утре беше вчера (ВИДЕО) 17 Окт | 12:14",
-      "url": "https://dsport.bg/velaskes-zapoznat-sam-s-istoriata-na-liteks-lovech-parvata-stapka-za-dobro-predstavane-utre-beshe-vchera-video~242421.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1016970.og.jpg"
     }
   ]
 }
