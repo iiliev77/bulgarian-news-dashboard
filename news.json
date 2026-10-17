@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-17T11:04:32.939544+00:00",
+  "updated": "2026-10-17T11:28:24.624040+00:00",
   "articles": [
+    {
+      "title": "Тъжна вест за българския футбол: Почина треньорът Юрий Васев",
+      "url": "https://dariknews.bg/novini/bylgariia/tyzhna-vest-za-bylgarskiia-futbol-pochina-trenioryt-iurij-vasev-2469387",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397231/991-ratio-iurij-vasev.jpg"
+    },
+    {
+      "title": "Изписват папа Лъв XIV от болницата след операцията на белия дроб",
+      "url": "https://dariknews.bg/novini/sviat/izpisvat-papa-lyv-xiv-ot-bolnicata-sled-operaciiata-na-beliia-drob-2469386",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
+    },
     {
       "title": "Русия обяви, че е свалила през нощта над 600 украинска дрона, а Украйна - близо 300 руски",
       "url": "https://dariknews.bg/novini/sviat/rusiia-obiavi-che-e-svalila-prez-noshtta-nad-600-ukrainska-drona-a-ukrajna-blizo-300-ruski-2469383",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/48047/48047191/991-ratio-nikolaj-mladenov.jpg"
     },
     {
-      "title": "Банките по света отпуснали кредити за стотици милиарди долари на компании, унищожили екосистеми",
-      "url": "https://dariknews.bg/novini/sviat/bankite-po-sveta-otpusnali-krediti-za-stotici-miliardi-dolari-na-kompanii-unishtozhili-ekosistemi-2469134",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396122/991-ratio-gori-obezlesiavane.jpg"
+      "title": "Кьосев: Много неща липсват на Вихрен, за да се противопостави на отборите от елита 17 Окт | 14:24",
+      "url": "https://dsport.bg/kosev-mnogo-nesta-lipsvat-na-vihren-za-da-se-protivopostavi-na-otborite-ot-elita~242429.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1042100.og.jpg"
     },
     {
-      "title": "Диетолози разкриват: Кои продукти свалят високото кръвно",
-      "url": "https://dariknews.bg/novini/liubopitno/dietolozi-razkrivat-koi-produkti-svaliat-visokoto-kryvno-2469289",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50831/50831008/991-ratio-plodove-i-zelenchuci.jpg"
+      "title": "Любо Пенев: Хубав мач, хареса ми, Купата е най-прекият път към Европа 17 Окт | 14:15",
+      "url": "https://dsport.bg/lubo-penev-hubav-mach-haresa-mi-kupata-e-nai-prekiat-pat-kam-evropa~242428.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/17.10-5~3.og.jpg"
     },
     {
       "title": "На живо: Марек – Черно море (Състави) 17 Окт | 13:58",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/1016970.og.jpg"
-    },
-    {
-      "title": "Моуриньо нападна Тебас, защити Винисиус и отсече: Не искам нови футболисти! 17 Окт | 11:46",
-      "url": "https://dsport.bg/mourino-napadna-tebas-zastiti-vinisius-i-otseche-ne-iskam-novi-futbolisti~242420.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2299738218.og.jpg"
-    },
-    {
-      "title": "ЦСКА: Европа говори с уважение за непримиримия армейски дух! (ВИДЕО) 17 Окт | 11:15",
-      "url": "https://dsport.bg/cska-evropa-govori-s-uvazenie-za-neprimirimia-armeiski-duh-video~242419.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1040627.og.jpg"
     }
   ]
 }
