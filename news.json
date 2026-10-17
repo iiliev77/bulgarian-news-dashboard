@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-17T08:14:17.653967+00:00",
+  "updated": "2026-10-17T08:43:35.326736+00:00",
   "articles": [
+    {
+      "title": "Български банкноти и монети за първи път влизат в Музея на Банката на Индонезия",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgarski-banknoti-i-moneti-za-pyrvi-pyt-vlizat-v-muzeia-na-bankata-na-indoneziia-2469377",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397136/991-ratio-bylgarski-banknoti-i-moneti-veche-sa-chast-ot-kolekciiata-na.jpg"
+    },
+    {
+      "title": "Започна Общото събрание на прокурорите за избор на членове на ВСС от професионалната квота",
+      "url": "https://dariknews.bg/novini/bylgariia/zapochna-obshtoto-sybranie-na-prokurorite-za-izbor-na-chlenove-na-vss-ot-profesionalnata-kvota-2469378",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397137/991-ratio-obshto-sybranie-na-prokurorite.jpg"
+    },
     {
       "title": "Въвежда се временна организация на движението на граничния преход „Русе-Гюргево“",
       "url": "https://dariknews.bg/regioni/ruse/vyvezhda-se-vremenna-organizaciia-na-dvizhenieto-na-granichniia-prehod-ruse-giurgevo-2469375",
@@ -128,18 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397086/991-ratio-volodimir-zelenski.jpg"
     },
     {
-      "title": "Германия разследва български дипломат и клисар за изнасилване",
-      "url": "https://dariknews.bg/novini/sviat/germaniia-razsledva-bylgarski-diplomat-i-klisar-za-iznasilvane-2469367",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397096/991-ratio-policiia-germaniia.jpg"
-    },
-    {
-      "title": "Октомврийски студ скова планините: Измериха минус 10 градуса на Мусала",
-      "url": "https://dariknews.bg/novini/bylgariia/oktomvrijski-stud-skova-planinite-izmeriha-minus-10-gradusa-na-musala-2469352",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "ЦСКА: Европа говори с уважение за непримиримия армейски дух! (ВИДЕО) 17 Окт | 11:15",
+      "url": "https://dsport.bg/cska-evropa-govori-s-uvazenie-za-neprimirimia-armeiski-duh-video~242419.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1040627.og.jpg"
     },
     {
       "title": "На живо: Вихрен - Локомотив София (Състави) 17 Окт | 10:52",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/meta-ekranna-snimka-2026-09-22-135332.png.og.webp"
-    },
-    {
-      "title": "Sesame Купа на България продължава със седем съботни мача 17 Окт | 08:00",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     }
   ]
 }
