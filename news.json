@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T05:29:50.063211+00:00",
+  "updated": "2026-10-17T05:55:51.967169+00:00",
   "articles": [
+    {
+      "title": "Фалшива тревога за земетресение с магнитуд 9,9 спря транспорта в Япония",
+      "url": "https://dariknews.bg/novini/sviat/falshiva-trevoga-za-zemetresenie-s-magnitud-99-spria-transporta-v-iaponiia-2469369",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
+    },
     {
       "title": "Българин начело на ООН? Николай Младенов сред спряганите имена за поста на Гутериш",
       "url": "https://dariknews.bg/novini/sviat/bylgarin-nachelo-na-oon-nikolaj-mladenov-sred-spriaganite-imena-za-posta-na-guterish-2469370",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397057/991-ratio-chelsi.jpg"
     },
     {
-      "title": "Починалият след побой в метрото е университетски преподавател",
-      "url": "https://dariknews.bg/regioni/sofiia/pochinaliiat-sled-poboj-v-metroto-e-universitetski-prepodavatel-2469358",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397052/991-ratio-metro-zholio-kiuri-ubit-myzh.jpg"
+      "title": "От НЕК изненадани как Левски е разпределил билетите за домакинските сектори 17 Окт | 08:33",
+      "url": "https://dsport.bg/ot-nek-iznenadani-kak-levski-e-razpredelil-biletite-za-domakinskite-sektori~242411.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1041777.og.jpg"
     },
     {
       "title": "Треньорът на Спартак Плевен преди мача с Левски: Ще направим всичко възможно да направим невъзможното 17 Окт | 08:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/16.10-9.og.jpg"
-    },
-    {
-      "title": "Марица Пловдив започна защитата на титлата си с победа 16 Окт | 22:28",
-      "url": "https://dsport.bg/marica-plovdiv-zapochna-zastitata-na-titlata-si-s-pobeda~242402.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-8~1.og.jpg"
     }
   ]
 }
