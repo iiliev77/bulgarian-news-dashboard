@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:43:55.494628+00:00",
+  "updated": "2026-10-17T11:04:32.939544+00:00",
   "articles": [
     {
       "title": "Русия обяви, че е свалила през нощта над 600 украинска дрона, а Украйна - близо 300 руски",
@@ -142,18 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/50831/50831008/991-ratio-plodove-i-zelenchuci.jpg"
     },
     {
+      "title": "На живо: Марек – Черно море (Състави) 17 Окт | 13:58",
+      "url": "https://dsport.bg/na-zivo-marek-cherno-more-sastavi~242427.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/tambove-sait-14-.og.jpg"
+    },
+    {
+      "title": "Гол с лакът даде тон за обрат на Локомотив София в Сандански 17 Окт | 13:52",
+      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/jtt-10809.og.jpg"
+    },
+    {
       "title": "Дакота Дичева се изправи лице в лице със следваща си съперничка в октагона (ВИДЕО) 17 Окт | 13:42",
       "url": "https://dsport.bg/dakota-dicheva-se-izpravi-lice-v-lice-sas-sledvasta-si-sapernichka-v-oktagona-video~242426.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2300047324.og.jpg"
-    },
-    {
-      "title": "На живо: Локомотив София обърна Вихрен 17 Окт | 13:35",
-      "url": "https://dsport.bg/na-zivo-vihren-lokomotiv-sofia-sastavi~242418.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/jtt-10809.og.jpg"
     },
     {
       "title": "Почина треньорът на ЦСКА 1948 Юрий Васев 17 Окт | 13:28",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/1040627.og.jpg"
-    },
-    {
-      "title": "Как смяна на мястото спасила живота на Мерино при атентата срещу Борусия Дортмунд 17 Окт | 10:37",
-      "url": "https://dsport.bg/kak-smana-na-mastoto-spasila-zivota-na-merino-pri-atentata-srestu-borusia-dortmund~242417.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-667764938.og.jpg"
     }
   ]
 }
