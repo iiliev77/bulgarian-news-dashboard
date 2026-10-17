@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-17T05:55:51.967169+00:00",
+  "updated": "2026-10-17T06:17:29.614280+00:00",
   "articles": [
+    {
+      "title": "Хилари Суонк: Жените срещат негативни реакции, когато раждат по-късно",
+      "url": "https://dariknews.bg/novini/liubopitno/hilari-suonk-zhenite-sreshtat-negativni-reakcii-kogato-razhdat-po-kysno-2469346",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397009/991-ratio-hilari-suonk.jpg"
+    },
+    {
+      "title": "Тръмп отмени нови санкции срещу Русия на фона на влошаващи се отношения с Украйна",
+      "url": "https://dariknews.bg/novini/sviat/trymp-otmeni-novi-sankcii-sreshtu-rusiia-na-fona-na-vloshavashti-se-otnosheniia-s-ukrajna-2469371",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396740/991-ratio-donald-trymp.jpg"
+    },
     {
       "title": "Фалшива тревога за земетресение с магнитуд 9,9 спря транспорта в Япония",
       "url": "https://dariknews.bg/novini/sviat/falshiva-trevoga-za-zemetresenie-s-magnitud-99-spria-transporta-v-iaponiia-2469369",
@@ -128,18 +142,18 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397073/991-ratio-kejti-zakariia.jpg"
     },
     {
-      "title": "Брюксел пред бюджетен въпрос: Зеленски поиска 70 млрд. евро помощ, ЕС потвърждава недостига",
-      "url": "https://dariknews.bg/novini/sviat/briuksel-pred-biudzheten-vypros-zelenski-poiska-70-mlrd.-evro-pomosht-es-potvyrzhdava-nedostiga-2469361",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397060/991-ratio-koshta.jpg"
+      "title": "Двама се завръщат за Черно море срещу Марек 17 Окт | 09:17",
+      "url": "https://dsport.bg/dvama-se-zavrastat-za-cherno-more-srestu-marek~242413.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1012670.og.jpg"
     },
     {
-      "title": "Прокуратурата започна разследване на атаката срещу кораба „Челси 3“",
-      "url": "https://dariknews.bg/regioni/pleven/prokuraturata-zapochna-razsledvane-na-atakata-sreshtu-koraba-chelsi-3-2469360",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397057/991-ratio-chelsi.jpg"
+      "title": "Завръщане към миналото? Купата на Италия сменя формата 17 Окт | 08:56",
+      "url": "https://dsport.bg/zavrastane-kam-minaloto-kupata-na-italia-smena-formata~242412.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2275827325.og.jpg"
     },
     {
       "title": "От НЕК изненадани как Левски е разпределил билетите за домакинските сектори 17 Окт | 08:33",
@@ -196,20 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2300553789.og.jpg"
-    },
-    {
-      "title": "Християн Петров влезе при разгром на Хееренвеен 16 Окт | 23:17",
-      "url": "https://dsport.bg/hristian-petrov-vleze-pri-razgrom-na-heerenveen~242404.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-12.og.jpg"
-    },
-    {
-      "title": "Спортист Своге победи Локо Мездра в контрола 16 Окт | 22:43",
-      "url": "https://dsport.bg/sportist-svoge-pobedi-loko-mezdra-v-kontrola~242403.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/16.10-9.og.jpg"
     }
   ]
 }
