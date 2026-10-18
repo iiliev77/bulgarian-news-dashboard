@@ -1,9 +1,30 @@
 {
-  "updated": "2026-10-18T17:05:45.129872+00:00",
+  "updated": "2026-10-18T19:23:51.401759+00:00",
   "articles": [
     {
-      "title": "България ще има спасителен кораб до края на 2029 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-shte-ima-spasitelen-korab-do-kraia-na-2029-g-2469432",
+      "title": "„Изпитваме гняв и срам от случващото се“: Макрон с обръщение към нацията",
+      "url": "https://dariknews.bg/novini/sviat/izpitvame-gniav-i-sram-ot-sluchvashtoto-se-makron-s-obryshtenie-kym-naciiata-2469438",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51282/51282805/991-ratio-emaniuel-makron.jpg"
+    },
+    {
+      "title": "Вселенският патриарх отслужи трисагий на гроба на патриарх Неофит",
+      "url": "https://dariknews.bg/novini/bylgariia/vselenskiiat-patriarh-otsluzhi-trisagij-na-groba-na-patriarh-neofit-2469436",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397936/991-ratio-vartolomej.jpg"
+    },
+    {
+      "title": "Поскъпване при повечето зеленчуци на борсите, скок при захарта и яйцата",
+      "url": "https://dariknews.bg/novini/bylgariia/poskypvane-pri-povecheto-zelenchuci-na-borsite-skok-pri-zaharta-i-iajcata-2469434",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397925/991-ratio-iajca.jpg"
+    },
+    {
+      "title": "Спрени са процедури за над 350 млн. евро в НКЖИ заради съмнения за злоупотреби",
+      "url": "https://dariknews.bg/novini/bylgariia/spreni-sa-proceduri-za-nad-350-mln.-evro-v-nkzhi-zaradi-symneniia-za-zloupotrebi-2469432",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -121,95 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397670/991-ratio-igri-na-voliata.jpg"
     },
     {
-      "title": "Акция в Благоевградско: 15 задържани, нито един за изборни нарушения",
-      "url": "https://dariknews.bg/novini/bylgariia/akciia-v-blagoevgradsko-15-zadyrzhani-nito-edin-za-izborni-narusheniia-2469415",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Отиде си писателят Любомир Котев",
-      "url": "https://dariknews.bg/novini/obshtestvo/otide-si-pisateliat-liubomir-kotev-2469414",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397672/991-ratio-pisateliat-liubomir-kotev.jpg"
-    },
-    {
-      "title": "Съмнения след звездната битка: Саботира ли Елица Фифо срещу Алекса?",
-      "url": "https://dariknews.bg/novini/liubopitno/symneniia-sled-zvezdnata-bitka-sabotira-li-elica-fifo-sreshtu-aleksa-2469413",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На живо: Всички отбори от елита, без Септември, продължават напред за Купата 18 Окт | 20:01",
-      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
+      "title": "Миньор Перник със седми пореден успех на Югозапад, почете Юрий Васев 18 Окт | 22:22",
+      "url": "https://dsport.bg/minor-pernik-sas-sedmi-poreden-uspeh-na-ugozapad-pochete-urii-vasev~242564.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
+      "image": "https://dsport.bg/media/386/1792333572725044.jpg.og.webp"
     },
     {
-      "title": "Левски се затрудни със Спартак Плевен, но продължава напред за Купата 18 Окт | 19:55",
-      "url": "https://dsport.bg/na-zivo-spartak-pleven-levski-mnogo-rotacii-v-sastava-na-velaskes~242523.html",
+      "title": "Николай Желязков: Показахме характер, дано спадовете ни бъдат по-малко през сезона 18 Окт | 22:21",
+      "url": "https://dsport.bg/nikolai-zelazkov-pokazahme-harakter-dano-spadovete-ni-badat-po-malko-prez-sezona~242568.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1042858.og.jpg"
+      "image": "https://dsport.bg/media/386/1042932.og.jpg"
     },
     {
-      "title": "Рефер направи абсурден тест след поройните дъждове в Испания (ВИДЕО) 18 Окт | 19:39",
-      "url": "https://dsport.bg/refer-napravi-absurden-test-sled-poroinite-dazdove-v-ispania-video~242549.html",
+      "title": "Перес вече има фаворит за наследник на Моуриньо в Реал Мадрид 18 Окт | 22:12",
+      "url": "https://dsport.bg/peres-veche-ima-favorit-za-naslednik-na-mourino-v-real-madrid~242567.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/screenshot_1~238.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2293552044~3.og.jpg"
     },
     {
-      "title": "Кристиян Балов титуляр при разгромна победа на Цървена звезда 18 Окт | 19:31",
-      "url": "https://dsport.bg/kristian-balov-titular-pri-razgromna-pobeda-na-carvena-zvezda~242547.html",
+      "title": "България със злато и бронз от Европейското по естетическа групова гимнастика в Самоков 18 Окт | 22:06",
+      "url": "https://dsport.bg/balgaria-sas-zlato-i-bronz-ot-evropeiskoto-po-esteticheska-grupova-gimnastika-v-samokov~242565.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/balov-1-1~1.og.png"
+      "image": "https://dsport.bg/media/386/853759434_1561633095993059_3036168485835366449_n.og.jpg"
     },
     {
-      "title": "Ботев Пловдив след загубата на Илиян Филипов: наследниците няма да финансират клуба, търсят се нови партньори 18 Окт | 19:14",
-      "url": "https://dsport.bg/botev-plovdiv-sled-zagubata-na-ilian-filipov-naslednicite-nama-da-finansirat-kluba-tarsat-se-novi-partnori~242546.html",
+      "title": "Реал Сосиедад разби Малага в голов спектакъл, Кубо блесна 18 Окт | 21:54",
+      "url": "https://dsport.bg/real-sosiedad-razbi-malaga-v-golov-spektakal-kubo-blesna~242563.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/screenshot_2-25.l-2~1.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300830136.og.jpg"
     },
     {
-      "title": "Селта пречупи Алавес след почивката и удържа победата на „Балаидос“ 18 Окт | 19:05",
-      "url": "https://dsport.bg/selta-prechupi-alaves-sled-pochivkata-i-udarza-pobedata-na-balaidos~242545.html",
+      "title": "Левски спечели волейболната Суперкупа за четвърти пореден път 18 Окт | 21:33",
+      "url": "https://dsport.bg/levski-specheli-voleibolnata-superkupa-za-chetvarti-poreden-pat~242562.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300816503.og.jpg"
+      "image": "https://dsport.bg/media/386/1042919.og.jpg"
     },
     {
-      "title": "Барселона остана без защита за мача с ПСЖ 18 Окт | 19:00",
-      "url": "https://dsport.bg/barselona-ostana-bez-zastita-za-macha-s-psz~242544.html",
+      "title": "Виктория Пилзен бе близо до голям гаф преди двубоя с Левски 18 Окт | 21:30",
+      "url": "https://dsport.bg/viktoria-pilzen-be-blizo-do-golam-gaf-predi-dvuboa-s-levski~242560.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300682207.og.jpg"
+      "image": "https://dsport.bg/media/386/screenshot-2026-10-18-212955.og.png"
     },
     {
-      "title": "Станка Златева поискала регистрация на петима борци за Световното 18 Окт | 18:52",
-      "url": "https://dsport.bg/stanka-zlateva-poiskala-registracia-na-petima-borci-za-svetovnoto~242543.html",
+      "title": "Маркус Гиздол отговори за евентуално отлагане на мача с Лудогорец (ВИДЕО) 18 Окт | 21:18",
+      "url": "https://dsport.bg/markus-gizdol-otgovori-za-eventualno-otlagane-na-macha-s-ludogorec~242561.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1041997.og.jpg"
+      "image": "https://dsport.bg/media/386/1042690.og.jpg"
     },
     {
-      "title": "Барселона гони 57-годишен рекорд, Реал Мадрид може да спре серията в Ел Класико 18 Окт | 18:43",
-      "url": "https://dsport.bg/barselona-goni-57-godishen-rekord-real-madrid-moze-da-spre-seriata-v-el-klasiko~242542.html",
+      "title": "Алекс Грозданов със силен мач при победа на Богданка 18 Окт | 21:10",
+      "url": "https://dsport.bg/aleks-grozdanov-sas-silen-mach-pri-pobeda-na-bogdanka~242548.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2276522202.og.jpg"
+      "image": "https://dsport.bg/media/386/screenshot-2026-10-18-193140.og.png"
     },
     {
-      "title": "Стабилен мач на Пламен Андреев при важна победа на Дебрецен 18 Окт | 18:39",
-      "url": "https://dsport.bg/stabilen-mach-na-plamen-andreev-pri-vazna-pobeda-na-debrecen~242541.html",
+      "title": "Уанда Нара се изгаври с Икарди: продава негова фланелка от националния отбор за 12 евро 18 Окт | 21:00",
+      "url": "https://dsport.bg/uanda-nara-se-izgavri-s-ikardi-prodava-negova-flanelka-ot-nacionalnia-otbor-za-12-evro~242559.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/18.10-10~1.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-1126624304-1~1.og.jpg"
     }
   ]
 }
