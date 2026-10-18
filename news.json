@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-18T10:08:21.431259+00:00",
+  "updated": "2026-10-18T13:58:28.755029+00:00",
   "articles": [
+    {
+      "title": "Командирът на СКСО: Работим усърдно за придобиване на модерно въоръжение и снаряжение",
+      "url": "https://dariknews.bg/novini/bylgariia/komandiryt-na-skso-rabotim-usyrdno-za-pridobivane-na-moderno-vyoryzhenie-i-snariazhenie-2469429",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397826/991-ratio-bozhidar-bojkov.jpg"
+    },
+    {
+      "title": "Семейна трагедия белязала Антония от „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/semejna-tragediia-beliazala-antoniia-ot-igri-na-voliata-2469428",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "АЕЦ „Козлодуй“ търси експерт по поддръжка на сървърна и мрежова архитектура",
+      "url": "https://dariknews.bg/regioni/vraca/aec-kozloduj-tyrsi-ekspert-po-poddryzhka-na-syrvyrna-i-mrezhova-arhitektura-2469427",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397780/991-ratio-aec-kozloduj.jpg"
+    },
+    {
+      "title": "В чест на свети Йоан Рилски: Патриарх Даниил и Вартоломей отслужиха литургия",
+      "url": "https://dariknews.bg/novini/bylgariia/v-chest-na-sveti-ioan-rilski-patriarh-daniil-i-vartolomej-otsluzhiha-liturgiia-2469426",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397768/991-ratio-tyrzhestvena-arhierejska-sveta-liturgiia-v-sofiia.jpg"
+    },
+    {
+      "title": "Софиянци обединиха усилия за по-чисти квартали и възстановяване на езерата в Южния парк (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/sofiianci-obediniha-usiliia-za-po-chisti-kvartali-i-vyzstanoviavane-na-ezerata-v-iuzhniia-park-snimki-2469425",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397757/991-ratio-pochistvane-sofiia-iuzhen-park-ezera.jpg"
+    },
+    {
+      "title": "Руски удари по Одеса: Ранено е дете, 24 000 домакинства останаха без ток",
+      "url": "https://dariknews.bg/novini/sviat/ruski-udari-po-odesa-raneno-e-dete-24-000-domakinstva-ostanaha-bez-tok-2469424",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397737/991-ratio-odesa-napadenie.jpg"
+    },
+    {
+      "title": "Литва обяви „червен код“: Хората се укриха в бомбоубежища, НАТО вдигна спешно самолети",
+      "url": "https://dariknews.bg/novini/sviat/litva-obiavi-cherven-kod-horata-se-ukriha-v-bomboubezhishta-nato-vdigna-speshno-samoleti-2469423",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397729/991-ratio-litva.jpg"
+    },
     {
       "title": "Борисов с нови критики: При Радев са царете на оправданието, все някой друг им е виновен",
       "url": "https://dariknews.bg/novini/bylgariia/borisov-s-novi-kritiki-pri-radev-sa-carete-na-opravdanieto-vse-niakoj-drug-im-e-vinoven-2469422",
@@ -9,11 +58,11 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Военният министър: Скоро ще има присъствие на авиация на НАТО в България",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-skoro-shte-ima-prisystvie-na-aviaciia-na-nato-v-bylgariia-2469421",
+      "title": "Военният министър за Черно море: Скоро ще има присъствие на авиация на НАТО в България",
+      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-ministyr-za-cherno-more-skoro-shte-ima-prisystvie-na-aviaciia-na-nato-v-bylgariia-2469421",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397711/991-ratio-nato-fly.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Зеленски определи като „погрешно“ решението на Тръмп да блокира новите санкции срещу Русия",
@@ -93,123 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/45859/45859229/991-ratio-kyshta-nedvizhimi-imoti.jpg"
     },
     {
-      "title": "Пластмаса и горещини променят пола на морските костенурки в Средиземноморието",
-      "url": "https://dariknews.bg/novini/sviat/plastmasa-i-goreshtini-promeniat-pola-na-morskite-kostenurki-v-sredizemnomorieto-2469350",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397024/991-ratio-kostenurki.jpg"
-    },
-    {
-      "title": "Издирват 11 души след преобръщане на лодка край Мексико",
-      "url": "https://dariknews.bg/novini/sviat/izdirvat-11-dushi-sled-preobryshtane-na-lodka-kraj-meksiko-2469411",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51243/51243459/991-ratio-meksiko-policiia.jpg"
-    },
-    {
-      "title": "Камион се вряза във футболно игрище в Канзас - 2 души загинаха, 11 са ранени",
-      "url": "https://dariknews.bg/novini/sviat/kamion-se-vriaza-vyv-futbolno-igrishte-v-kanzas-2-dushi-zaginaha-11-sa-raneni-2469410",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397635/991-ratio-kanzas-incident-igrishte.jpg"
-    },
-    {
-      "title": "Срещу скъпия живот: Масови протести и безредици разтърсиха редица европейски градове (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/sreshtu-skypiia-zhivot-masovi-protesti-i-bezredici-raztyrsiha-redica-evropejski-gradove-snimki-2469409",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Папата ще произнесе молитвата „Ангелус“ след изписването си от болницата",
-      "url": "https://dariknews.bg/novini/sviat/papata-shte-proiznese-molitvata-angelus-sled-izpisvaneto-si-ot-bolnicata-2469408",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397627/991-ratio-papa-lyv-xiv.jpg"
-    },
-    {
-      "title": "NYT: САЩ предлагат възобновяване на вноса на руски газ в Европа като част от мирен план за Украйна",
-      "url": "https://dariknews.bg/novini/biznes/nyt-sasht-predlagat-vyzobnoviavane-na-vnosa-na-ruski-gaz-v-evropa-kato-chast-ot-miren-plan-za-ukrajna-2469407",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49906/49906948/991-ratio-gaz-rusiia-es.jpg"
-    },
-    {
-      "title": "„МаГаТа фест“ идва в „Дружба“: Предайте старите мебели, техника и опасни отпадъци безплатно",
-      "url": "https://dariknews.bg/regioni/sofiia/magata-fest-idva-v-druzhba-predajte-starite-mebeli-tehnika-i-opasni-otpadyci-bezplatno-2469155",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396172/991-ratio-bokluci-matraci-divani.jpg"
-    },
-    {
-      "title": "На живо: Ботев Пловдив води срещу Черноморец на Лазур 18 Окт | 13:00",
-      "url": "https://dsport.bg/na-zivo-chernomorec-burgas-botev-plovdiv-sastavi~242492.html",
+      "title": "Ботев Враца се измъчи, но отстрани Фратрия за Купата 18 Окт | 16:52",
+      "url": "https://dsport.bg/botev-vraca-se-izmachi-no-otstrani-fratria-za-kupata~242524.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/botev2~1.og.jpg"
+      "image": "https://dsport.bg/media/386/screenshot_7~126.og.jpg"
     },
     {
-      "title": "ЦСКА започва защитата на Купата с пълна мощ 18 Окт | 12:54",
-      "url": "https://dsport.bg/cska-zapochva-zastitata-na-kupata-s-palna-most~242505.html",
+      "title": "На живо: Спартак Плевен - Левски, много ротации в състава на Веласкес 18 Окт | 16:52",
+      "url": "https://dsport.bg/na-zivo-spartak-pleven-levski-mnogo-rotacii-v-sastava-na-velaskes~242523.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/18.10-2~2.og.jpg"
+      "image": "https://dsport.bg/media/386/tambove-sait-2026-10-18t164751.901.og.png"
     },
     {
-      "title": "Гръцките мъки в Дортмунд продължават 18 Окт | 12:37",
-      "url": "https://dsport.bg/grackite-maki-v-dortmund-prodalzavat~242504.html",
+      "title": "На живо: ЦСКА вкара на Несебър от дузпа 18 Окт | 16:49",
+      "url": "https://dsport.bg/na-zivo-nesebar-cska-gizdol-ostava-trima-ot-titularite-s-monako-sastavi~242511.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2299483375.og.jpg"
+      "image": "https://dsport.bg/media/386/1042736.og.jpg"
     },
     {
-      "title": "Ключова среща в Барселона: какво е бъдещето на Дани Олмо на фона на интереса от Байерн Мюнхен? 18 Окт | 12:24",
-      "url": "https://dsport.bg/kluchova-sresta-v-barselona-kakvo-e-badesteto-na-dani-olmo-na-fona-na-interesa-ot-baiern-munhen~242503.html",
+      "title": "На живо: Ботев Вр води на Фратрия, Арда на Спартак Пд 18 Окт | 16:29",
+      "url": "https://dsport.bg/na-zivo-sastinskata-chast-na-sesame-kupa-na-balgaria-zapochva-v-burgas~242368.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300684997.og.jpg"
+      "image": "https://dsport.bg/media/385/tambove-sait-12-.og.jpg"
     },
     {
-      "title": "Ива Иванова спечели титлата на двойки от турнир в Стара Загора 18 Окт | 12:20",
-      "url": "https://dsport.bg/iva-ivanova-specheli-titlata-na-dvoiki-ot-turnir-v-stara-zagora~242502.html",
+      "title": "526 дни по-късно: Кулушевски се завръща за Тотнъм 18 Окт | 16:26",
+      "url": "https://dsport.bg/526-dni-po-kasno-kulushevski-se-zavrasta-za-totnam~242520.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/18.10-1~2.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2277996774.og.jpg"
     },
     {
-      "title": "Сензацията на Реал Мадрид вкарва гол на всеки 13 минути 18 Окт | 12:00",
-      "url": "https://dsport.bg/senzaciata-na-real-madrid-vkarva-gol-na-vseki-13-minuti~242501.html",
+      "title": "Моуриньо: Ако бях на мястото на Винисиус, вече нямаше да съм тук 18 Окт | 16:04",
+      "url": "https://dsport.bg/mourino-ako-bah-na-mastoto-na-vinisius-veche-namashe-da-sam-tuk~242519.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2295476122.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2292200964.og.jpg"
     },
     {
-      "title": "Новият феномен на Италия, който счупи рекорд на Дел Пиеро 18 Окт | 11:54",
-      "url": "https://dsport.bg/noviat-fenomen-na-italia-koito-schupi-rekord-na-del-piero~242500.html",
+      "title": "„Момчето ми, дай си фланелката“: бабата на Фермин трогна феновете 18 Окт | 15:40",
+      "url": "https://dsport.bg/momcheto-mi-dai-si-flanelkata-babata-na-fermin-trogna-fenovete~242518.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2299792108.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300052719.og.jpg"
     },
     {
-      "title": "Мауро Икарди се разведе и вече мисли за нова сватба 18 Окт | 11:40",
-      "url": "https://dsport.bg/mauro-ikardi-se-razvede-i-veche-misli-za-nova-svatba~242499.html",
+      "title": "Везенков и Милър-Макинтайър изведоха Олимпиакос до трета поредна победа 18 Окт | 15:26",
+      "url": "https://dsport.bg/vezenkov-i-milar-makintaiar-izvedoha-olimpiakos-do-treta-poredna-pobeda~242517.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/eaed7.og.jpg"
+      "image": "https://dsport.bg/media/386/825268121_1094640649808520_5390893075697627263_n~1.og.jfif"
     },
     {
-      "title": "Йоана Илиева спечели сребро на Световната купа в Алжир 18 Окт | 11:30",
-      "url": "https://dsport.bg/ioana-ilieva-specheli-srebro-na-svetovnata-kupa-v-alzir~242498.html",
+      "title": "Давидович Фокина спечели първата си Мастърс титла след обрат в испанския финал 18 Окт | 15:03",
+      "url": "https://dsport.bg/davidovich-fokina-specheli-parvata-si-mastars-titla-sled-obrat-v-ispanskia-final~242516.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/717348~1.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300793478.og.jpg"
     },
     {
-      "title": "Ламин Ямал с изненадващо ново хоби 18 Окт | 11:20",
-      "url": "https://dsport.bg/lamin-amal-s-iznenadvasto-novo-hobi~242497.html",
+      "title": "Лошото време обърка плановете на Барселона преди мача с ПСЖ 18 Окт | 14:47",
+      "url": "https://dsport.bg/loshoto-vreme-obarka-planovete-na-barselona-predi-macha-s-psz~242515.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/lamine1234.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300673849.og.jpg"
     }
   ]
 }
