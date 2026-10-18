@@ -1,6 +1,97 @@
 {
-  "updated": "2026-10-18T01:13:58.385493+00:00",
+  "updated": "2026-10-18T05:55:16.956510+00:00",
   "articles": [
+    {
+      "title": "Камион се вряза във футболно игрище в Канзас - 2 души загинаха, 11 са ранени",
+      "url": "https://dariknews.bg/novini/sviat/kamion-se-vriaza-vyv-futbolno-igrishte-v-kanzas-2-dushi-zaginaha-11-sa-raneni-2469410",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397635/991-ratio-kanzas-incident-igrishte.jpg"
+    },
+    {
+      "title": "Срещу скъпия живот: Масови протести и безредици разтърсиха редица европейски градове (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/sviat/sreshtu-skypiia-zhivot-masovi-protesti-i-bezredici-raztyrsiha-redica-evropejski-gradove-snimki-2469409",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397629/991-ratio-protesti-franciia.jpg"
+    },
+    {
+      "title": "Папата ще произнесе молитвата „Ангелус“ след изписването си от болницата",
+      "url": "https://dariknews.bg/novini/sviat/papata-shte-proiznese-molitvata-angelus-sled-izpisvaneto-si-ot-bolnicata-2469408",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397627/991-ratio-papa-lyv-xiv.jpg"
+    },
+    {
+      "title": "NYT: САЩ предлагат възобновяване на вноса на руски газ в Европа като част от мирен план за Украйна",
+      "url": "https://dariknews.bg/novini/biznes/nyt-sasht-predlagat-vyzobnoviavane-na-vnosa-na-ruski-gaz-v-evropa-kato-chast-ot-miren-plan-za-ukrajna-2469407",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49906/49906948/991-ratio-gaz-rusiia-es.jpg"
+    },
+    {
+      "title": "„МаГаТа фест“ идва в „Дружба“: Предайте старите мебели, техника и опасни отпадъци безплатно",
+      "url": "https://dariknews.bg/regioni/sofiia/magata-fest-idva-v-druzhba-predajte-starite-mebeli-tehnika-i-opasni-otpadyci-bezplatno-2469155",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396172/991-ratio-bokluci-matraci-divani.jpg"
+    },
+    {
+      "title": "Три световни рекорда: Пещерата Врело стана най-дълбоко проучената подводна пещера",
+      "url": "https://dariknews.bg/novini/sviat/tri-svetovni-rekorda-peshterata-vrelo-stana-naj-dylboko-prouchenata-podvodna-peshtera-2469399",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397600/991-ratio-peshterata-vrelo.jpg"
+    },
+    {
+      "title": "Защо мозъкът ни обича страшните истории",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-mozykyt-ni-obicha-strashnite-istorii-2469357",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397047/991-ratio-horror.jpg"
+    },
+    {
+      "title": "Навършват се 82 години от първия боен ден на Парашутната дружина",
+      "url": "https://dariknews.bg/novini/bylgariia/navyrshvat-se-82-godini-ot-pyrviia-boen-den-na-parashutnata-druzhina-2469390",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397351/991-ratio-den-na-voenniia-parashutist.jpg"
+    },
+    {
+      "title": "Не са за подценяване: Какво прави дюлите толкова ценни през есента",
+      "url": "https://dariknews.bg/novini/liubopitno/ne-sa-za-podceniavane-kakvo-pravi-diulite-tolkova-cenni-prez-esenta-2469232",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396402/991-ratio-diuli.jpg"
+    },
+    {
+      "title": "Домашните роботи като съквартиранти: В Германия ги кръщават, карат им се и им благодарят",
+      "url": "https://dariknews.bg/novini/sviat/domashnite-roboti-kato-sykvartiranti-v-germaniia-gi-kryshtavat-karat-im-se-i-im-blagodariat-2469404",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397616/991-ratio-domashen-robot.jpg"
+    },
+    {
+      "title": "Какво се случва с тялото ни през есента",
+      "url": "https://dariknews.bg/novini/liubopitno/kakvo-se-sluchva-s-tialoto-ni-prez-esenta-2469355",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397035/991-ratio-esenno-momiche.jpg"
+    },
+    {
+      "title": "Хакерска атака засегна ХДС, хиляди фишинг съобщения до политици",
+      "url": "https://dariknews.bg/novini/sviat/hakerska-ataka-zasegna-hds-hiliadi-fishing-syobshteniia-do-politici-2469405",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32624/32624462/991-ratio-hakeri.jpg"
+    },
+    {
+      "title": "Облачно, но без дъжд и до 18 градуса в неделя",
+      "url": "https://dariknews.bg/novini/bylgariia/oblachno-no-bez-dyzhd-i-do-18-gradusa-v-nedelia-2469403",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397613/991-ratio-esen.jpg"
+    },
     {
       "title": "Стотици хиляди на протести във Франция, прераснали в сблъсъци и погроми",
       "url": "https://dariknews.bg/novini/sviat/stotici-hiliadi-na-protesti-vyv-franciia-prerasnali-v-sblysyci-i-pogromi-2469402",
@@ -51,95 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397452/991-ratio-linejka.jpg"
     },
     {
-      "title": "„Много съжалявам за станалото“: Оставиха в ареста задържания за убийството край Харманли",
-      "url": "https://dariknews.bg/regioni/haskovo/mnogo-syzhaliavam-za-stanaloto-ostaviha-v-aresta-zadyrzhaniia-za-ubijstvoto-kraj-harmanli-2469394",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397444/991-ratio-stefan-milanov.jpg"
+      "title": "Аржентинска актриса обяви края на връзката си с пилот от Формула 1 18 Окт | 08:40",
+      "url": "https://dsport.bg/arzentinska-aktrisa-obavi-kraa-na-vrazkata-si-s-pilot-ot-formula-1~242480.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/d7c0f.og.jpg"
     },
     {
-      "title": "Символ на България с европейски амбиции: Еленският бут събра производители и ценители",
-      "url": "https://dariknews.bg/novini/obshtestvo/simvol-na-bylgariia-s-evropejski-ambicii-elenskiiat-but-sybra-proizvoditeli-i-ceniteli-2469393",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397412/991-ratio-elenski-but.jpg"
+      "title": "Машина за голове: Холанд вече има повече голове, отколкото мачове за Сити 18 Окт | 08:30",
+      "url": "https://dsport.bg/mashina-za-golove-holand-veche-ima-poveche-golove-otkolkoto-machove-za-siti~242479.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300663360.og.jpg"
     },
     {
-      "title": "След скандали: Свалиха Станка Златева като шеф на борбата, Тодор Ангелов оглави федерацията",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-skandali-svaliha-stanka-zlateva-kato-shef-na-borbata-todor-angelov-oglavi-federaciiata-2469392",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397407/991-ratio-todor-angelov.jpg"
+      "title": "Емилиано Мартинес претърпя операция, ще бъде извън игра месец и половина 18 Окт | 08:19",
+      "url": "https://dsport.bg/emiliano-martines-pretarpa-operacia-ste-bade-izvan-igra-mesec-i-polovina~242478.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/emi_martinez26_1.og.jpg"
     },
     {
-      "title": "Филип Атанасов-Фифо търси реванш от шампиона Алекса Ерски в новия звезден сблъсък в „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/filip-atanasov-fifo-tyrsi-revansh-ot-shampiona-aleksa-erski-v-noviia-zvezden-sblysyk-v-igri-na-voliata-2469391",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397399/991-ratio-igri.jpg"
+      "title": "Меси не спира - два гола за 4 минути при нова победа на Интер Маями (ВИДЕО) 18 Окт | 08:10",
+      "url": "https://dsport.bg/mesi-ne-spira-dva-gola-za-4-minuti-pri-nova-pobeda-na-inter-maami-video~242477.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300729930.og.jpg"
     },
     {
-      "title": "Тревожни данни: 47% от българите с ниско образование живеят в бедност",
-      "url": "https://dariknews.bg/novini/bylgariia/trevozhni-danni-47-ot-bylgarite-s-nisko-obrazovanie-zhiveiat-v-bednost-2469389",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50712/50712297/991-ratio-zaplati-bednost.jpg"
-    },
-    {
-      "title": "Зеленски: САЩ „награждават“ и „насърчават“ Путин",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-sasht-nagrazhdavat-i-nasyrchavat-putin-2469388",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
-    },
-    {
-      "title": "Тъжна вест за българския футбол: Почина треньорът Юрий Васев",
-      "url": "https://dariknews.bg/novini/bylgariia/tyzhna-vest-za-bylgarskiia-futbol-pochina-trenioryt-iurij-vasev-2469387",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397231/991-ratio-iurij-vasev.jpg"
-    },
-    {
-      "title": "Изписват папа Лъв XIV от болницата след операцията на белия дроб",
-      "url": "https://dariknews.bg/novini/sviat/izpisvat-papa-lyv-xiv-ot-bolnicata-sled-operaciiata-na-beliia-drob-2469386",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
-    },
-    {
-      "title": "Русия обяви, че е свалила през нощта над 600 украинска дрона, а Украйна - близо 300 руски",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-obiavi-che-e-svalila-prez-noshtta-nad-600-ukrainska-drona-a-ukrajna-blizo-300-ruski-2469383",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51360/51360614/991-ratio-ukrajna-ataki.jpg"
-    },
-    {
-      "title": "Русия с нова атака срещу товарен кораб в Черно море, транспортиращ военни доставки към Одеса",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-s-nova-ataka-sreshtu-tovaren-korab-v-cherno-more-transportirasht-voenni-dostavki-kym-odesa-2469384",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395348/991-ratio-tyrgovski-korab-cherno-more.jpg"
-    },
-    {
-      "title": "Разказът на спасителите в Черно море: Открихме части от спасителни жилетки, но нямаше хора в тях (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/razkazyt-na-spasitelite-v-cherno-more-otkrihme-chasti-ot-spasitelni-zhiletki-no-niamashe-hora-v-tiah-video-2469385",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Турски медии: България търси подкрепа от НАТО",
-      "url": "https://dariknews.bg/novini/bylgariia/turski-medii-bylgariia-tyrsi-podkrepa-ot-nato-2469382",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51396/51396145/991-ratio-pozhar-korab.jpg"
-    },
-    {
-      "title": "ЦИК: Изтича срокът за отстраняване на грешки в избирателните списъци",
-      "url": "https://dariknews.bg/novini/bylgariia/cik-izticha-srokyt-za-otstraniavane-na-greshki-v-izbiratelnite-spisyci-2469381",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51387/51387112/991-ratio-cik-izbori.jpg"
+      "title": "Гол-шедьовър, фамозна задна ножица, достойна за Пушкаш (ВИДЕО) 18 Окт | 08:02",
+      "url": "https://dsport.bg/gol-shedovar-famozna-zadna-nozica-dostoina-za-pushkash-video~242476.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/loolgoal.og.jpg"
     },
     {
       "title": "Валенсия и Атлетик Билбао не намериха път към гола 17 Окт | 23:59",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2300067425.og.jpg"
-    },
-    {
-      "title": "От 0:2 до 3:2 - Нефтохимик обърна и изхвърли ЦСКА за Суперкупата 17 Окт | 22:24",
-      "url": "https://dsport.bg/ot-0-2-do-3-2-neftohimik-obarna-cska-za-superkupata~242470.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1042578.og.jpg"
-    },
-    {
-      "title": "Алонсо с информация за състоянието на Мартинес 17 Окт | 21:56",
-      "url": "https://dsport.bg/alonso-s-informacia-za-sastoanieto-na-martines~242469.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300642560~1.og.jpg"
-    },
-    {
-      "title": "Астън Вила изкова труден успех над Нюкасъл 17 Окт | 21:37",
-      "url": "https://dsport.bg/astan-vila-izkova-truden-vtori-uspeh-vav-visshata-liga~242466.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300675368.og.jpg"
-    },
-    {
-      "title": "Бетис се опълчи на Барселона, но каталунците продължиха победната си серия 17 Окт | 21:35",
-      "url": "https://dsport.bg/betis-se-opalchi-na-barselona-no-kataluncite-prodalziha-pobednata-si-seria~242468.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300672514.og.jpg"
-    },
-    {
-      "title": "Отличен 6: Байерн Мюнхен размаза РБ Лайпциг 17 Окт | 21:24",
-      "url": "https://dsport.bg/otlichen-6-baiern-munhen-razmaza-rb-laipcig~242467.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300682302.og.jpg"
     }
   ]
 }
