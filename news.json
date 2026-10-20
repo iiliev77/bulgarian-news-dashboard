@@ -1,12 +1,40 @@
 {
-  "updated": "2026-10-20T16:57:28.420624+00:00",
+  "updated": "2026-10-20T20:17:21.586164+00:00",
   "articles": [
+    {
+      "title": "Протестиращи се залепиха с лепило за пътя в различни части на Германия",
+      "url": "https://dariknews.bg/novini/sviat/protestirashti-se-zalepiha-s-lepilo-za-pytia-v-razlichni-chasti-na-germaniia-2469685",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51178/51178318/991-ratio-rajnmetal.jpg"
+    },
+    {
+      "title": "Зеленски: Украйна има ясна визия за това как да се постигне мир във войната с Русия",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-ukrajna-ima-iasna-viziia-za-tova-kak-da-se-postigne-mir-vyv-vojnata-s-rusiia-2469684",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355044/991-ratio-zelenski.jpg"
+    },
+    {
+      "title": "Нигерия регистрира първи случай на ебола",
+      "url": "https://dariknews.bg/novini/sviat/nigeriia-registrira-pyrvi-sluchaj-na-ebola-2469683",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51349/51349317/991-ratio-ebola.jpg"
+    },
+    {
+      "title": "Премиерът: Ще обърнем възможно най-много внимание, за да имат лекарите адекватни и съвременни условия на труд",
+      "url": "https://dariknews.bg/novini/bylgariia/premieryt-shte-obyrnem-vyzmozhno-naj-mnogo-vnimanie-za-da-imat-lekarite-adekvatni-i-syvremenni-usloviia-na-trud-2469682",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51398/51398753/991-ratio-radev.jpg"
+    },
     {
       "title": "„Не ви ли е неудобно“: Млади лекари и медицински специалисти протестират пред здравното министерство",
       "url": "https://dariknews.bg/novini/bylgariia/ne-vi-li-e-neudobno-mladi-lekari-i-medicinski-specialisti-protestirat-pred-zdravnoto-ministerstvo-2469681",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "Протест в София срещу президента Йотова и премиера Радев (СНИМКИ)",
@@ -114,102 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/50914/50914941/991-ratio-uchilishten-stol.jpg"
     },
     {
-      "title": "Акция на ГДБОП: Полицаи проникнаха през балкон и прозорци в счетоводна къща в Бургас (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/akciia-na-gdbop-policai-proniknaha-prez-balkon-i-prozorci-v-schetovodna-kyshta-v-burgas-snimki-2469659",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Над 100 дрона в Черно море през тази година, ВМС са унищожили 35 опасни находки (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/varna/nad-100-drona-v-cherno-more-prez-tazi-godina-vms-sa-unishtozhili-35-opasni-nahodki-snimki-2469657",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51398/51398642/991-ratio-korab-varna-korabi-posreshtane.jpg"
-    },
-    {
-      "title": "Спират приема на кучета в приюта в Горни Богров, доброволците няма да могат да посещават животните",
-      "url": "https://dariknews.bg/regioni/sofiia/spirat-priema-na-kucheta-v-priiuta-v-gorni-bogrov-dobrovolcite-niama-da-mogat-da-poseshtavat-zhivotnite-2469656",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/43319/43319624/991-ratio-priiut.jpg"
-    },
-    {
-      "title": "Стоянов за откритите останки в Черно море: Нека да оставим разследващите органи да си свършат работата",
-      "url": "https://dariknews.bg/novini/bylgariia/stoianov-za-otkritite-ostanki-v-cherno-more-neka-da-ostavim-razsledvashtite-organi-da-si-svyrshat-rabotata-2469654",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Турция има нов национален селекционер 20 Окт | 19:52",
-      "url": "https://dsport.bg/turcia-ima-nov-nacionalen-selekcioner~242716.html",
+      "title": "Тежки наказания за Хасан и Зико след мача Египет - Аржентина 20 Окт | 23:13",
+      "url": "https://dsport.bg/tezki-nakazania-za-hasan-i-ziko-sled-macha-egipet-arzentina~242735.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2253295620.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2285093311~1.og.jpg"
     },
     {
-      "title": "На живо: Сабах - Борусия Дортмунд 20 Окт | 19:52",
-      "url": "https://dsport.bg/na-zivo-sabah-borusia-dortmund-sastavi~242710.html",
+      "title": "На живо: Ливърпул изравни на Виляреал 20 Окт | 23:09",
+      "url": "https://dsport.bg/na-zivo-livarpul-vilareal-barkola-virc-i-isak-na-peikata-sastavi~242723.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/finali-ekt-31-.og.png"
+      "image": "https://dsport.bg/media/386/gettyimages-2301184920.og.jpg"
     },
     {
-      "title": "Фабрегас иска нов европейски подвиг от Комо срещу Манчестър Юнайтед 20 Окт | 19:39",
-      "url": "https://dsport.bg/fabregas-iska-nov-evropeiski-podvig-ot-komo-srestu-manchestar-unaited~242713.html",
+      "title": "На живо: ПСЖ води на Барселона, Дембеле и Олмо се контузиха 20 Окт | 23:08",
+      "url": "https://dsport.bg/na-zivo-psz-barselona-sblasak-v-tezka-kategoria-sastavi~242724.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300315833.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2301191487.og.jpg"
     },
     {
-      "title": "Напрежение във Франция преди Шампионска лига: Галатасарай поиска гаранции за сигурността от УЕФА 20 Окт | 19:29",
-      "url": "https://dsport.bg/naprezenie-vav-francia-predi-shampionska-liga-galatasarai-poiska-garancii-za-sigurnostta-ot-uefa~242715.html",
+      "title": "На живо: Атлетико изравни на Щутгарт 20 Окт | 23:02",
+      "url": "https://dsport.bg/na-zivo-stutgart-atletiko-madrid-sastavi~242722.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/neozaglaven-dizain-2026-10-20t192823.452.og.png"
+      "image": "https://dsport.bg/media/386/gettyimages-2301186292.og.jpg"
     },
     {
-      "title": "Спокойният град, който три години по-късно приема и ЦСКА след Лудогорец (ВИДЕО) 20 Окт | 19:22",
-      "url": "https://dsport.bg/spokoiniat-grad-koito-tri-godini-po-kasno-priema-i-cska-sled-ludogorec-video~242712.html",
+      "title": "Майкъл Карик потвърди пет липси за Манчестър Юнайтед 20 Окт | 22:54",
+      "url": "https://dsport.bg/maykal-karik-potvardi-pet-lipsi-manchestar-yunayted-komo~242720.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/517094.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2300859249.og.jpg"
     },
     {
-      "title": "Швьонтек сложи край на сезона си 20 Окт | 18:58",
-      "url": "https://dsport.bg/shvontek-slozi-krai-na-sezona-si~242714.html",
+      "title": "БК Локомотив Пловдив с драматична загуба във ФИБА Къп 20 Окт | 22:50",
+      "url": "https://dsport.bg/bk-lokomotiv-plovdiv-s-dramatichna-zaguba-vav-fiba-kap~242733.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2291187972~1.og.jpg"
+      "image": "https://dsport.bg/media/386/832898643_1627909758968701_3745472592721545481_n~1.og.jfif"
     },
     {
-      "title": "Министър Керязов обсъди възможностите за сътрудничество с представители на Република Казахстан 20 Окт | 18:40",
-      "url": "https://dsport.bg/ministar-kerazov-obsadi-vazmoznostite-za-satrudnichestvo-s-predstaviteli-na-republika-kazahstan~242711.html",
+      "title": "Звезда в снукъра обмисля оттегляне от спорта 20 Окт | 22:37",
+      "url": "https://dsport.bg/zvezda-v-snukara-obmisla-otteglane-ot-sporta~242730.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1792508215722280.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2274212421.og.jpg"
     },
     {
-      "title": "Ексклузивно Датски журналист с предупреждение към ЦСКА преди мача с Нордселанд 20 Окт | 18:26",
-      "url": "https://dsport.bg/datski-zurnalist-s-preduprezdenie-kam-cska-predi-macha-s-nordseland~242709.html",
+      "title": "България завърши на второ място в групата си за Купата на регионите на УЕФА 20 Окт | 22:20",
+      "url": "https://dsport.bg/balgaria-zavarshi-na-vtoro-masto-v-grupata-si-za-kupata-na-regionite-na-uefa~242731.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1012952-1~1.og.jpg"
+      "image": "https://dsport.bg/media/386/image_1792512982_63895-1-.og.jpeg"
     },
     {
-      "title": "Киву защити Интер преди Шахтьор: За нас победата е задължение, за другите – не 20 Окт | 18:20",
-      "url": "https://dsport.bg/kivu-zastiti-inter-predi-shahtor-za-nas-pobedata-e-zadalzenie-za-drugite-ne~242707.html",
+      "title": "ЦСКА привлече египтянина Дейо 20 Окт | 22:12",
+      "url": "https://dsport.bg/cska-privleche-egiptanina-deio~242732.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2271110410-1.og.jpg"
+      "image": "https://dsport.bg/media/386/858546575_4567277646884812_2963914824312590184_n.og.jpg"
     },
     {
-      "title": "Виктория Пилзен реши вратарски казус преди мача с Левски 20 Окт | 18:05",
-      "url": "https://dsport.bg/viktoria-pilzen-reshi-vratarski-kazus-predi-macha-s-levski~242708.html",
+      "title": "Славия Прага възкръсна в Истанбул срещу Фенербахче 20 Окт | 21:48",
+      "url": "https://dsport.bg/fenerbahche-povede-barzo-na-slavia-praga-i-posle-se-poti-seriozno~242729.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2268290627.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2301175829.og.jpg"
     }
   ]
 }
