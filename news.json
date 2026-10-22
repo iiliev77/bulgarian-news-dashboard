@@ -1,6 +1,132 @@
 {
-  "updated": "2026-10-22T01:48:27.720336+00:00",
+  "updated": "2026-10-22T06:38:56.390578+00:00",
   "articles": [
+    {
+      "title": "CNN: Където Тръмп вижда сделка, Путин вижда победа за Русия",
+      "url": "https://dariknews.bg/novini/sviat/cnn-kydeto-trymp-vizhda-sdelka-putin-vizhda-pobeda-za-rusiia-2469833",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51143/51143514/991-ratio-trymp-i-putin.jpg"
+    },
+    {
+      "title": "Дръзка кражба на близо 10 000 евро от медицински център в Стара Загора",
+      "url": "https://dariknews.bg/regioni/stara-zagora/dryzka-krazhba-na-blizo-10-000-evro-ot-medicinski-centyr-v-stara-zagora-2469834",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51147/51147120/991-ratio-bolnica.jpg"
+    },
+    {
+      "title": "Мъж почина след злополука в завод в Димитровград",
+      "url": "https://dariknews.bg/regioni/haskovo/myzh-pochina-sled-zlopoluka-v-zavod-v-dimitrovgrad-2469831",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50893/50893958/991-ratio-linejka.jpg"
+    },
+    {
+      "title": "Откриха как кафето пази мозъчните клетки",
+      "url": "https://dariknews.bg/novini/liubopitno/otkriha-kak-kafeto-pazi-mozychnite-kletki-2469830",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51230/51230083/991-ratio-tursko-kafe.jpg"
+    },
+    {
+      "title": "Защо плащаме толкова за храна? Шеф на голяма верига обясни как се формират цените",
+      "url": "https://dariknews.bg/novini/bylgariia/zashto-plashtame-tolkova-za-hrana-shef-na-goliama-veriga-obiasni-kak-se-formirat-cenite-2469832",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Служители на АПИ излизат на протест заради информация за мащабни съкращения и промени",
+      "url": "https://dariknews.bg/novini/bylgariia/sluzhiteli-na-api-izlizat-na-protest-zaradi-informaciia-za-mashtabni-sykrashteniia-i-promeni-2469829",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Отиде си легендата на кънтри музиката Джон Андерсън",
+      "url": "https://dariknews.bg/novini/sviat/otide-si-legendata-na-kyntri-muzikata-dzhon-andersyn-2469826",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399607/991-ratio-dzhon-andersyn.jpg"
+    },
+    {
+      "title": "Епидемичен взрив от стомашно-чревни проблеми заради мръсна вода в Южна Африка",
+      "url": "https://dariknews.bg/novini/sviat/epidemichen-vzriv-ot-stomashno-chrevni-problemi-zaradi-mrysna-voda-v-iuzhna-afrika-2469824",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399600/991-ratio-iuzhna-afrika.jpg"
+    },
+    {
+      "title": "Арести, разпити и напрежение: разследването около кметовете на Сунгурларе и Белица продължава",
+      "url": "https://dariknews.bg/novini/bylgariia/aresti-razpiti-i-naprezhenie-razsledvaneto-okolo-kmetovete-na-sungurlare-i-belica-prodylzhava-2469823",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "ЦИК ще покаже как се гласува с машина на метростанция НДК в София",
+      "url": "https://dariknews.bg/novini/bylgariia/cik-shte-pokazhe-kak-se-glasuva-s-mashina-na-metrostanciia-ndk-v-sofiia-2469822",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399598/991-ratio-cik-mashini.jpg"
+    },
+    {
+      "title": "Москва отблъсна масирана атака с над 600 дрона",
+      "url": "https://dariknews.bg/novini/sviat/moskva-otblysna-masirana-ataka-s-nad-600-drona-2469821",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399597/991-ratio-moskva.jpg"
+    },
+    {
+      "title": "Ще излезе ли предсрочно на свобода Кристиан Николов, осъден за смъртта на Милен Цветков?",
+      "url": "https://dariknews.bg/novini/bylgariia/shte-izleze-li-predsrochno-na-svoboda-kristian-nikolov-osyden-za-smyrtta-na-milen-cvetkov-2469820",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Най-малко трима души загинаха след проливни дъждове в Южна Франция",
+      "url": "https://dariknews.bg/novini/sviat/naj-malko-trima-dushi-zaginaha-sled-prolivni-dyzhdove-v-iuzhna-franciia-2469819",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399592/991-ratio-prolivni-dyzhdove-v-iuzhna-franciia.jpg"
+    },
+    {
+      "title": "„Не те ли е срам да се пишеш българин“: делото за побоя над Християн Пендиков отново в съда в Охрид",
+      "url": "https://dariknews.bg/novini/bylgariia/ne-te-li-e-sram-da-se-pishesh-bylgarin-deloto-za-poboia-nad-hristiian-pendikov-otnovo-v-syda-v-ohrid-2469818",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50482/50482044/991-ratio-hristiian-pendikov.jpg"
+    },
+    {
+      "title": "Атака срещу международното летище „Крал Фахд“ в Саудитска Арабия, има загинал и ранени",
+      "url": "https://dariknews.bg/novini/sviat/ataka-sreshtu-mezhdunarodnoto-letishte-kral-fahd-v-sauditska-arabiia-ima-zaginal-i-raneni-2469817",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399585/991-ratio-sauditska-arabiia.jpg"
+    },
+    {
+      "title": "Във Франция учредиха литературна награда за книги, написани с AI",
+      "url": "https://dariknews.bg/novini/sviat/vyv-franciia-uchrediha-literaturna-nagrada-za-knigi-napisani-s-ai-2469810",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399416/991-ratio-knigi-napisani-s-izkustven-intelekt.jpg"
+    },
+    {
+      "title": "Финансов анализатор: Личната инфлация е много по-висока от официалната статистика (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/finansov-analizator-lichnata-inflaciia-e-mnogo-po-visoka-ot-oficialnata-statistika-video-2469811",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Жълт код за интензивни валежи и гръмотевични бури в 8 области в четвъртък (КАРТА)",
+      "url": "https://dariknews.bg/novini/bylgariia/zhylt-kod-za-intenzivni-valezhi-i-grymotevichni-buri-v-8-oblasti-v-chetvyrtyk-karta-2469766",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
     {
       "title": "Може ли да загубим правото си на глас, ако не гласуваме?",
       "url": "https://dariknews.bg/novini/bylgariia/mozhe-li-da-zagubim-pravoto-si-na-glas-ako-ne-glasuvame-2469797",
@@ -16,130 +142,60 @@
       "image": "https://m.netinfo.bg/media/images/51399/51399444/991-ratio-izdigasht-se-dim-sled-vzriv-v-iranskata-stolica-teheran.jpg"
     },
     {
-      "title": "Кличко: Киев е атакуван с балистични ракети",
-      "url": "https://dariknews.bg/novini/sviat/klichko-kiev-e-atakuvan-s-balistichni-raketi-2469815",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399433/991-ratio-kiev.jpg"
+      "title": "Компани: Може би справедлив резултат, макар да имахме повече възможности 22 Окт | 09:07",
+      "url": "https://dsport.bg/kompani-moze-bi-spravedliv-rezultat-makar-da-imahme-poveche-vazmoznosti~242838.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301362736.og.jpg"
     },
     {
-      "title": "Капитанът на Канарите Йордан ще се бори за мястото си в „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/kapitanyt-na-kanarite-iordan-shte-se-bori-za-miastoto-si-v-igri-na-voliata-2469814",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399428/991-ratio-igri-na-voliata.jpg"
+      "title": "Артета: Контузията на Сака не изглежда добре 22 Окт | 09:00",
+      "url": "https://dsport.bg/arteta-kontuziata-na-saka-ne-izglezda-dobre~242837.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301364265.og.jpg"
     },
     {
-      "title": "Взривно устройство избухна пред жилищна сграда в Атина, има ранени",
-      "url": "https://dariknews.bg/novini/sviat/vzrivno-ustrojstvo-izbuhna-pred-zhilishtna-sgrada-v-atina-ima-raneni-2469813",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51115/51115178/991-ratio-granata-vzriv.jpg"
+      "title": "Отава Сенатърс с разгромна победа в НХЛ 22 Окт | 08:50",
+      "url": "https://dsport.bg/otava-senatars-s-razgromna-pobeda-v-nhl~242835.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301406851.og.jpg"
     },
     {
-      "title": "Най-големият френски профсъюз свика обща стачка на 5 ноември",
-      "url": "https://dariknews.bg/novini/sviat/naj-golemiiat-frenski-profsyiuz-svika-obshta-stachka-na-5-noemvri-2469812",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399424/991-ratio-franciia.jpg"
+      "title": "Винисиус неузнаваем: oсвирквания на „Бернабеу“, нула дрибъла и тъга в очите на звездата 22 Окт | 08:40",
+      "url": "https://dsport.bg/vinisius-neuznavaem-osvirkvania-na-bernabeu-nula-dribala-i-taga-v-ochite-na-zvezdata~242834.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301368468.og.jpg"
     },
     {
-      "title": "Германската армия повиши нивото на риска от руски саботаж",
-      "url": "https://dariknews.bg/novini/sviat/germanskata-armiia-povishi-nivoto-na-riska-ot-ruski-sabotazh-2469809",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50888/50888078/991-ratio-germaniia-voenni.jpg"
+      "title": "Forbes: Кристиано Роналдо е недостижим на върха, Лионел Меси е далеч назад в класацията на най-богатите 22 Окт | 08:30",
+      "url": "https://dsport.bg/forbes-kristiano-ronaldo-e-nedostizim-na-varha-lionel-mesi-e-dalech-nazad-v-klasaciata-na-nai-bogatite~242833.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/fstar12.og.png"
     },
     {
-      "title": "Радев: Вратите на България са широко отворени за германския бизнес",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-vratite-na-bylgariia-sa-shiroko-otvoreni-za-germanskiia-biznes-2469807",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399362/991-ratio-ministyr-predsedateliat-rumen-radev-na-sreshtata-si-s-delegaciia-na.jpg"
+      "title": "Карагър не се съмнява: Да, Ламин загуби от ПСЖ, но в момента е най-добрият в света 22 Окт | 08:20",
+      "url": "https://dsport.bg/karagar-ne-se-samnava-da-lamin-zagubi-ot-psz-no-v-momenta-e-nai-dobriat-v-sveta~242832.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301180381.og.jpg"
     },
     {
-      "title": "Унищожиха невзривен боеприпас, открит край варненския квартал „Аспарухово“",
-      "url": "https://dariknews.bg/regioni/varna/unishtozhiha-nevzriven-boepripas-otkrit-kraj-varnenskiia-kvartal-asparuhovo-2469806",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399353/991-ratio-boepripas.jpg"
+      "title": "Манчестър Сити пред принудителна продажба? Регулатор заплаши собствениците от ОАЕ с „абсолютна власт“ 22 Окт | 08:11",
+      "url": "https://dsport.bg/manchestar-siti-pred-prinuditelna-prodazba-regulator-zaplashi-sobstvenicite-ot-oae-s-absolutna-vlast~242830.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/cftra~1.og.jpg"
     },
     {
-      "title": "Разбиха група, откраднала 25 км медни кабели в Гърция, има арестувани българи",
-      "url": "https://dariknews.bg/novini/sviat/razbiha-grupa-otkradnala-25-km-medni-kabeli-v-gyrciia-ima-arestuvani-bylgari-2469804",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399258/991-ratio-meden-kabel.jpg"
-    },
-    {
-      "title": "България и Турция засилват инициативите за гарантиране на свободното корабоплаване в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-i-turciia-zasilvat-iniciativite-za-garantirane-na-svobodnoto-koraboplavane-v-cherno-more-2469803",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392511/991-ratio-korabi-cherno-more.jpg"
-    },
-    {
-      "title": "Взеха обтривки от пробойните на „Челси 3“, назначиха експертиза, разпитани са и оцелелите",
-      "url": "https://dariknews.bg/novini/bylgariia/vzeha-obtrivki-ot-probojnite-na-chelsi-3-naznachiha-ekspertiza-razpitani-sa-i-ocelelite-2469802",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Румен Радев поздрави новия премиер на Румъния и го покани в България",
-      "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-pozdravi-noviia-premier-na-rumyniia-i-go-pokani-v-bylgariia-2469801",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51398/51398963/991-ratio-rumen-radev.jpg"
-    },
-    {
-      "title": "С камбанен звън посрещнаха патриарх Даниил в Иверския манастир",
-      "url": "https://dariknews.bg/novini/sviat/s-kambanen-zvyn-posreshtnaha-patriarh-daniil-v-iverskiia-manastir-2469800",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399232/991-ratio-bylgarskiiat-patriarh-daniil-poseti-iverskiia-manastir-na-aton-i-se.jpg"
-    },
-    {
-      "title": "Пътен инцидент ограничи временно движението по пътя Симитли – Разлог",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/pyten-incident-ogranichi-vremenno-dvizhenieto-po-pytia-simitli-razlog-2469799",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50090/50090283/991-ratio-triygylnik-katastrofa.jpg"
-    },
-    {
-      "title": "Започна мащабна модернизация на уличното осветление в Бистрица, Лозен и Панчарево",
-      "url": "https://dariknews.bg/regioni/sofiia/zapochna-mashtabna-modernizaciia-na-ulichnoto-osvetlenie-v-bistrica-lozen-i-pancharevo-2469798",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51219/51219467/991-ratio-park-zaimov-osvetlenie.jpg"
-    },
-    {
-      "title": "Американски военен самолет кацна в Бургас",
-      "url": "https://dariknews.bg/regioni/burgas/amerikanski-voenen-samolet-kacna-v-burgas-2469796",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399207/991-ratio-boeing-c-17a.jpg"
-    },
-    {
-      "title": "Проверяват местен лидер с влияние върху изборния процес при акция в Русенско",
-      "url": "https://dariknews.bg/regioni/ruse/proveriavat-mesten-lider-s-vliianie-vyrhu-izborniia-proces-pri-akciia-v-rusensko-2469795",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51330/51330079/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Президентството: Няма укриване на информация по случая с „петричкия Ескобар“",
-      "url": "https://dariknews.bg/novini/bylgariia/prezidentstvoto-niama-ukrivane-na-informaciia-po-sluchaia-s-petrichkiia-eskobar-2469794",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51253/51253304/991-ratio-prezidentstvoto.jpg"
-    },
-    {
-      "title": "Проф. Валя Василева започва втори мандат като директор на ИФРГ",
-      "url": "https://dariknews.bg/novini/bylgariia/prof.-valia-vasileva-zapochva-vtori-mandat-kato-direktor-na-ifrg-2469793",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399198/991-ratio-valia-vasileva.jpg"
+      "title": "Кристиано Роналдо с подкрепа за Кварацхелия: Най-доброто за теб тепърва предстои! 22 Окт | 08:02",
+      "url": "https://dsport.bg/kristiano-ronaldo-s-podkrepa-za-kvarachelia-nai-dobroto-za-teb-teparva-predstoi~242829.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-491521620-1~1.og.jpg"
     },
     {
       "title": "ПСЖ чупи рекорди: историческа серия без загуба в Шампионска лига за Луис Енрике 22 Окт | 00:24",
@@ -154,62 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2301372171.og.jpg"
-    },
-    {
-      "title": "Астън Вила без грешка в Шампионска лига 22 Окт | 00:01",
-      "url": "https://dsport.bg/astan-vila-bez-greshka-v-shampionska-liga~242827.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301367640.og.jpg"
-    },
-    {
-      "title": "Бетис продължава с перфектното си представяне в Шампионска лига (ВИДЕО) 21 Окт | 23:58",
-      "url": "https://dsport.bg/betis-prodalzava-s-perfektnoto-si-predstavane-v-shampionska-liga~242825.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301366760.og.jpg"
-    },
-    {
-      "title": "Реал Мадрид вкара 4 за трета поредна победа в Шампионска лига и дори не се изпоти преди Ел Класико 21 Окт | 23:54",
-      "url": "https://dsport.bg/na-zivo-real-madrid-rb-laicpig-sastavi~242811.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301366321.og.jpg"
-    },
-    {
-      "title": "Четири гола и зрелище: Байерн и Арсенал не се победиха (ВИДЕО) 21 Окт | 23:51",
-      "url": "https://dsport.bg/na-zivo-baiern-munhen-arsenal-sastavi~242810.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301356142.og.jpg"
-    },
-    {
-      "title": "НФЛ под обсада: засилват сигурността за историческия мач в Париж на фона на безредици и критики 21 Окт | 23:36",
-      "url": "https://dsport.bg/nfl-pod-obsada-zasilvat-sigurnostta-za-istoricheskia-mach-v-pariz-na-fona-na-bezredici-i-kritiki~242824.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300206310.og.jpg"
-    },
-    {
-      "title": "Севиля заплаши Ла Лига със съд след скандала с Реал Мадрид 21 Окт | 23:28",
-      "url": "https://dsport.bg/sevila-zaplashi-la-liga-sas-sad-sled-skandala-s-real-madrid~242823.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300854064~1.og.jpg"
-    },
-    {
-      "title": "Премиум Леванте сложи край на 8-годишното чакане с гръмка победа над Атлетик Билбао 21 Окт | 23:25",
-      "url": "https://dsport.bg/levante-slozi-krai-na-8-godishnoto-chakane-s-gramka-pobeda-nad-atletik-bilbao~242822.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301366082.og.jpg"
-    },
-    {
-      "title": "Невиждани кадри разкриват: имало ли е нарушение на Конате преди гола на Мбапе? 21 Окт | 23:17",
-      "url": "https://dsport.bg/nevizdani-kadri-razkrivat-imalo-li-e-narushenie-na-konate-predi-gola-na-mbape~242821.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/6ad7.og.jpeg"
     }
   ]
 }
