@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-22T17:21:58.044756+00:00",
+  "updated": "2026-10-22T20:37:44.094225+00:00",
   "articles": [
+    {
+      "title": "Кметовете на Сунгурларе и Белица остават в ареста",
+      "url": "https://dariknews.bg/regioni/burgas/kmetovete-na-sungurlare-i-belica-ostavat-v-aresta-2469917",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400232/991-ratio-a.jpg"
+    },
+    {
+      "title": "ВМА: Пострадалата при инцидента с НСО е освободена за домашно лечение",
+      "url": "https://dariknews.bg/regioni/sofiia/vma-postradalata-pri-incidenta-s-nso-e-osvobodena-za-domashno-lechenie-2469915",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50626/50626970/991-ratio-vma-sgrada.jpg"
+    },
+    {
+      "title": "Доцова съжалява за инцидента с Колтуклиева: Това е абсолютно недопустимо",
+      "url": "https://dariknews.bg/novini/bylgariia/docova-syzhaliava-za-incidenta-s-koltuklieva-tova-e-absoliutno-nedopustimo-2469914",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51313/51313592/991-ratio-mihaela-docova.jpg"
+    },
+    {
+      "title": "Йотова осъди действията на служител на НСО срещу Култуклиева и поиска спешен доклад",
+      "url": "https://dariknews.bg/novini/bylgariia/iotova-osydi-dejstviiata-na-sluzhitel-na-nso-sreshtu-kultuklieva-i-poiska-speshen-doklad-2469913",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
+    },
+    {
+      "title": "НСО проверява служителите си заради инцидента с журналистка, уведомена е Военната прокуратура",
+      "url": "https://dariknews.bg/novini/bylgariia/nso-proveriava-sluzhitelite-si-zaradi-incidenta-s-zhurnalistka-uvedomena-e-voennata-prokuratura-2469912",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35345/35345621/991-ratio-zhurnalist.jpg"
+    },
+    {
+      "title": "Служител на НСО блъсна журналистката Соня Колтуклиева, опозицията иска извинения и оставка (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/sluzhitel-na-nso-blysna-zhurnalistkata-sonia-koltuklieva-opoziciiata-iska-izvineniia-i-ostavka-video-2469911",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/35340/35340353/991-ratio-nso-ohrana.jpg"
+    },
+    {
+      "title": "Тръмп ще дава показания по делото за клевета срещу BBC",
+      "url": "https://dariknews.bg/novini/sviat/trymp-shte-dava-pokazaniia-po-deloto-za-kleveta-sreshtu-bbc-2469910",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51332/51332967/991-ratio-bbc.jpg"
+    },
     {
       "title": "Радев обсъди с Google проекти в дигиталната инфраструктура на България",
       "url": "https://dariknews.bg/novini/bylgariia/radev-obsydi-s-google-proekti-v-digitalnata-infrastruktura-na-bylgariia-2469909",
@@ -93,123 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51399/51399900/991-ratio-rumen-radev.jpg"
     },
     {
-      "title": "Започна възстановяването на Езерата на Южния парк в София",
-      "url": "https://dariknews.bg/regioni/sofiia/zapochna-vyzstanoviavaneto-na-ezerata-na-iuzhniia-park-v-sofiia-2469896",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399898/991-ratio-ezero-iuzhen-park-sofiia.jpg"
-    },
-    {
-      "title": "Минималната заплата за 2027 г. и промени в данъците влизат за обсъждане в Тристранния съвет",
-      "url": "https://dariknews.bg/novini/bylgariia/minimalnata-zaplata-za-2027-g.-i-promeni-v-danycite-vlizat-za-obsyzhdane-v-tristranniia-syvet-2469895",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50484/50484635/991-ratio-ministerski-syvet-sgrada.jpg"
-    },
-    {
-      "title": "Протест пред Съдебната палата в Бургас в подкрепа на задържания кмет Димитър Гавазов (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/protest-pred-sydebnata-palata-v-burgas-v-podkrepa-na-zadyrzhaniia-kmet-dimityr-gavazov-snimki-2469893",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Учени и преподаватели са против да има един учебник по история, по БЕЛ и по география",
-      "url": "https://dariknews.bg/novini/bylgariia/ucheni-i-prepodavateli-sa-protiv-da-ima-edin-uchebnik-po-istoriia-po-bel-i-po-geografiia-2469889",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399882/991-ratio-universitetski-prepodavateli.jpg"
-    },
-    {
-      "title": "Оставиха в ареста 64-годишен мъж за блудство с дете в Лом",
-      "url": "https://dariknews.bg/regioni/montana/ostaviha-v-aresta-64-godishen-myzh-za-bludstvo-s-dete-v-lom-2469888",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51005/51005358/991-ratio-dete-nasilie.jpg"
-    },
-    {
-      "title": "NOVA представя първата вертикална драма в България",
-      "url": "https://dariknews.bg/novini/liubopitno/nova-predstavia-pyrvata-vertikalna-drama-v-bylgariia-2469887",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399881/991-ratio-da-obiknesh-nepoznat.jpg"
-    },
-    {
-      "title": "15 години затвор за мъж, убил баща си с особена жестокост",
-      "url": "https://dariknews.bg/regioni/shumen/15-godini-zatvor-za-myzh-ubil-bashta-si-s-osobena-zhestokost-2469886",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
-    },
-    {
-      "title": "На живо: ЦСКА поведе на Нордселанд, гол на Годой 22 Окт | 20:14",
-      "url": "https://dsport.bg/cska-presledva-parvi-tochki-v-ligata-na-konferenciite~242843.html",
+      "title": "На живо: Левски бързо си върна аванса в Пилзен, Бурас се върна 22 Окт | 23:30",
+      "url": "https://dsport.bg/na-zivo-viktoria-pilzen-levski-sastavi~242839.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/1044077.og.jpg"
+      "image": "https://dsport.bg/media/386/1044336.og.jpg"
     },
     {
-      "title": "Президентът на опонент на ЦСКА изгоря заради залози 22 Окт | 20:12",
-      "url": "https://dsport.bg/prezidentat-na-oponent-na-cska-izgora-zaradi-zalozi~242900.html",
+      "title": "Нови развития в скандала в гръцкия баскетбол 22 Окт | 23:28",
+      "url": "https://dsport.bg/novi-razvitia-v-skandala-v-grackia-basketbol~242916.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2288512621.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-1439112149-1-1-1-2~3.og.jpg"
     },
     {
-      "title": "УЕФА удари съперник на ЦСКА - Трабзонспор без фенове в София 22 Окт | 19:48",
-      "url": "https://dsport.bg/uefa-udari-sapernik-na-cska-trabzonspor-bez-fenove-v-sofia~242899.html",
+      "title": "Валентин Илиев: Мисля, че днес бяхме отборът, който заслужаваше да победи (ВИДЕО) 22 Окт | 23:07",
+      "url": "https://dsport.bg/valentin-iliev-misla-che-dnes-bahme-otborat-koito-zasluzavashe-da-pobedi-video~242915.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2290605073.og.jpg"
+      "image": "https://dsport.bg/media/386/1043904.og.jpg"
     },
     {
-      "title": "Марко подкрепи Цолов за място във Формула 1 22 Окт | 19:38",
-      "url": "https://dsport.bg/marko-podkrepi-colov-za-masto-vav-formula-1~242898.html",
+      "title": "Емоциите в ефира на Дарик радио в мача на ЦСКА с Нордселанд (АУДИО) 22 Окт | 23:06",
+      "url": "https://dsport.bg/emociite-v-efira-na-darik-radio-v-macha-na-cska-s-nordseland~242913.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2297010633~1.og.jpg"
+      "image": "https://dsport.bg/media/386/1044077~1.og.jpg"
     },
     {
-      "title": "Панатинайкос респектира ЦСКА с погром срещу бит от Левски 22 Окт | 19:25",
-      "url": "https://dsport.bg/panatinaikos-respektira-cska-s-pogrom-srestu-bit-ot-levski~242897.html",
+      "title": "БУТОНКИТЕ: Точка-символ за дързък ЦСКА (ВИДЕО) 22 Окт | 22:54",
+      "url": "https://dsport.bg/butonkite-tochka-simvol-za-darzak-cska-video~242914.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/football-full-time_-kairat-1-5-panathinaikos.og.png"
+      "image": "https://dsport.bg/media/386/2026-10-22-butonki_thumb.og.jpg"
     },
     {
-      "title": "Бербатов след Комо - Манчестър Юнайтед: Приличаше на сблъсък между мъже и деца (ВИДЕО) 22 Окт | 19:04",
-      "url": "https://dsport.bg/berbatov-sled-komo-manchestar-unaited-prilichashe-na-sblasak-mezdu-maze-i-deca-video~242887.html",
+      "title": "Бивш футболен съдия от Перник е служителят на НСО, блъснал Соня Колтуклиева? 22 Окт | 22:46",
+      "url": "https://dsport.bg/bivsh-futbolen-sadia-ot-pernik-e-sluzitelat-na-nso-blasnal-sona-koltuklieva~242912.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-1935532864-1-~4.og.jpg"
+      "image": "https://dsport.bg/media/386/nso.og.jpg"
     },
     {
-      "title": "Ужас на футболна тренировка в Испания: член на треньорски щаб получи сърдечен арест 22 Окт | 18:54",
-      "url": "https://dsport.bg/uzas-na-futbolna-trenirovka-v-ispania-chlen-na-trenorski-stab-poluchi-sardechen-arest~242895.html",
+      "title": "Бельо не бе достатъчен на Динамо Загреб, завършил наравно с Левски с паметен успех на „Максимир“ 22 Окт | 22:29",
+      "url": "https://dsport.bg/belo-ne-be-dostatachen-na-dinamo-zagreb-zavarshil-naravno-s-levski-s-pameten-uspeh-na-maksimir~242911.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2298406936.og.jpg"
+      "image": "https://dsport.bg/media/386/screenshot-2026-10-22-223518.og.png"
     },
     {
-      "title": "Меси си спомни за златните години в Барселона и разкри най-важния съвет от баща си 22 Окт | 18:41",
-      "url": "https://dsport.bg/mesi-si-spomni-za-zlatnite-godini-v-barselona-i-razkri-nai-vaznia-savet-ot-basta-si~242894.html",
+      "title": "Треньорът на Нордселанд: ЦСКА изглеждаше като много опитен отбор 22 Окт | 22:10",
+      "url": "https://dsport.bg/trenorat-na-nordseland-cska-izglezdashe-kato-mnogo-opiten-otbor~242909.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301464305~1.og.jpg"
+      "image": "https://dsport.bg/media/386/1044095~1.og.jpg"
     },
     {
-      "title": "Тиери Анри посочи как Фабрегас превърна Комо в сензация 22 Окт | 18:22",
-      "url": "https://dsport.bg/tieri-anri-posochi-kak-fabregas-prevarna-komo-v-senzacia~242892.html",
+      "title": "Петко Панайотов: Има горчилка, че не успяхме да вземем три точки 22 Окт | 22:06",
+      "url": "https://dsport.bg/petko-panaiotov-ima-gorchilka-che-ne-uspahme-da-vzemem-tri-tochki~242910.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-1427327145-3-1-1.og.jpg"
+      "image": "https://dsport.bg/media/386/1044203~1.og.jpg"
     },
     {
-      "title": "Наскоро уволненият Ел Маестро бързо се впуска в ново назначение 22 Окт | 18:10",
-      "url": "https://dsport.bg/naskoro-uvolneniat-el-maestro-barzo-se-vpuska-v-novo-naznachenie~242891.html",
+      "title": "Гиздол: Свикнали са да играят на този терен, няма логика да се дадат четири жълти картона (ВИДЕО) 22 Окт | 21:56",
+      "url": "https://dsport.bg/gizdol-sviknali-sa-da-igraat-na-tozi-teren-nama-logika-da-se-dadat-chetiri-zalti-kartona~242908.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/581075~1.og.jpg"
+      "image": "https://dsport.bg/media/386/1043940~1.og.jpg"
     }
   ]
 }
