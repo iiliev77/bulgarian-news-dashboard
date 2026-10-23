@@ -1,145 +1,180 @@
 {
-  "updated": "2026-10-23T01:52:38.704037+00:00",
+  "updated": "2026-10-23T06:36:28.946034+00:00",
   "articles": [
     {
-      "title": "Кметовете на Сунгурларе и Белица остават в ареста",
-      "url": "https://dariknews.bg/regioni/burgas/kmetovete-na-sungurlare-i-belica-ostavat-v-aresta-2469917",
+      "title": "Русия удари товарен кораб и пристанища в Одеска област",
+      "url": "https://dariknews.bg/novini/sviat/rusiia-udari-tovaren-korab-i-pristanishta-v-odeska-oblast-2469932",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400232/991-ratio-a.jpg"
+      "image": "https://m.netinfo.bg/media/images/50566/50566126/991-ratio-odesa-korab.jpg"
     },
     {
-      "title": "ВМА: Пострадалата при инцидента с НСО е освободена за домашно лечение",
-      "url": "https://dariknews.bg/regioni/sofiia/vma-postradalata-pri-incidenta-s-nso-e-osvobodena-za-domashno-lechenie-2469915",
+      "title": "Мъж е в тежко състояние след падане от влак на жп гарата в Чирпан",
+      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-e-v-tezhko-systoianie-sled-padane-ot-vlak-na-zhp-garata-v-chirpan-2469931",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50626/50626970/991-ratio-vma-sgrada.jpg"
+      "image": "https://m.netinfo.bg/media/images/50847/50847112/991-ratio-vagoni-vlak.jpg"
     },
     {
-      "title": "Доцова съжалява за инцидента с Колтуклиева: Това е абсолютно недопустимо",
-      "url": "https://dariknews.bg/novini/bylgariia/docova-syzhaliava-za-incidenta-s-koltuklieva-tova-e-absoliutno-nedopustimo-2469914",
+      "title": "ГЕРБ събира подписи за оставката на Михаела Доцова и за извънредно заседание на НС",
+      "url": "https://dariknews.bg/novini/bylgariia/gerb-sybira-podpisi-za-ostavkata-na-mihaela-docova-i-za-izvynredno-zasedanie-na-ns-2469929",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51313/51313592/991-ratio-mihaela-docova.jpg"
+      "image": "https://m.netinfo.bg/media/images/51325/51325284/991-ratio-mihaela-docova.jpg"
     },
     {
-      "title": "Йотова осъди действията на служител на НСО срещу Култуклиева и поиска спешен доклад",
-      "url": "https://dariknews.bg/novini/bylgariia/iotova-osydi-dejstviiata-na-sluzhitel-na-nso-sreshtu-kultuklieva-i-poiska-speshen-doklad-2469913",
+      "title": "Германци пребиха мъж в Слънчев бряг",
+      "url": "https://dariknews.bg/regioni/burgas/germanci-prebiha-myzh-v-slynchev-briag-2469930",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51361/51361380/991-ratio-iliiana-iotova.jpg"
+      "image": "https://m.netinfo.bg/media/images/48104/48104792/991-ratio-policejska-lampa.jpg"
     },
     {
-      "title": "НСО проверява служителите си заради инцидента с журналистка, уведомена е Военната прокуратура",
-      "url": "https://dariknews.bg/novini/bylgariia/nso-proveriava-sluzhitelite-si-zaradi-incidenta-s-zhurnalistka-uvedomena-e-voennata-prokuratura-2469912",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35345/35345621/991-ratio-zhurnalist.jpg"
-    },
-    {
-      "title": "Служител на НСО блъсна журналистката Соня Колтуклиева, опозицията иска извинения и оставка (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/sluzhitel-na-nso-blysna-zhurnalistkata-sonia-koltuklieva-opoziciiata-iska-izvineniia-i-ostavka-video-2469911",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35340/35340353/991-ratio-nso-ohrana.jpg"
-    },
-    {
-      "title": "Тръмп ще дава показания по делото за клевета срещу BBC",
-      "url": "https://dariknews.bg/novini/sviat/trymp-shte-dava-pokazaniia-po-deloto-za-kleveta-sreshtu-bbc-2469910",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51332/51332967/991-ratio-bbc.jpg"
-    },
-    {
-      "title": "Радев обсъди с Google проекти в дигиталната инфраструктура на България",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-obsydi-s-google-proekti-v-digitalnata-infrastruktura-na-bylgariia-2469909",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399968/991-ratio-radev.jpg"
-    },
-    {
-      "title": "Земетресение с магнитуд 7 разтърси Тибет",
-      "url": "https://dariknews.bg/novini/sviat/zemetresenie-s-magnitud-7-raztyrsi-tibet-2469908",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51120/51120330/991-ratio-zemetresenie.jpg"
-    },
-    {
-      "title": "Заради законови нарушения: Областният управител на Смолян върна решения на Общинския съвет в Доспат",
-      "url": "https://dariknews.bg/regioni/Smolyan/zaradi-zakonovi-narusheniia-oblastniiat-upravitel-na-smolian-vyrna-resheniia-na-obshtinskiia-syvet-v-dospat-2469907",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50232/50232731/991-ratio-dokument.jpg"
-    },
-    {
-      "title": "Украйна нареди евакуация на деца и семейства от Краматорск и Славянск",
-      "url": "https://dariknews.bg/novini/sviat/ukrajna-naredi-evakuaciia-na-deca-i-semejstva-ot-kramatorsk-i-slaviansk-2469906",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51183/51183398/991-ratio-vojna-rusiia-ukrajna.jpg"
-    },
-    {
-      "title": "Близо 7 години затвор за турчин за опит за контрабанда на над 655 кг марихуана (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/haskovo/blizo-7-godini-zatvor-za-turchin-za-opit-za-kontrabanda-na-nad-655-kg-marihuana-snimki-2469905",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399928/991-ratio-osyden-marihuana.jpg"
-    },
-    {
-      "title": "Премиерът: „Сглобката“ е жива и пречи на борбата с олигархията",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-sglobkata-e-zhiva-i-prechi-na-borbata-s-oligarhiiata-2469904",
+      "title": "„Тренд“: Декларираната избирателна активност за президентските избори остава 47%",
+      "url": "https://dariknews.bg/novini/bylgariia/trend-deklariranata-izbiratelna-aktivnost-za-prezidentskite-izbori-ostava-47-2469927",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Мъж загина при катастрофа край Павликени",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/myzh-zagina-pri-katastrofa-kraj-pavlikeni-2469903",
+      "title": "Тайфунът „Чампи“ заплашва Тайван с проливни дъждове и свлачища (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/sviat/tajfunyt-champi-zaplashva-tajvan-s-prolivni-dyzhdove-i-svlachishta-video-2469928",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036836/991-ratio-linejka.jpg"
+      "image": "https://m.netinfo.bg/media/images/50869/50869262/991-ratio-tajfun.jpg"
     },
     {
-      "title": "Варненският административен съд образува дело по жалба на собственик на сграда в „Баба Алино“",
-      "url": "https://dariknews.bg/regioni/varna/varnenskiiat-administrativen-syd-obrazuva-delo-po-zhalba-na-sobstvenik-na-sgrada-v-baba-alino-2469902",
+      "title": "Румен Радев с остро обръщение до Европарламента заради резолюцията за Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-s-ostro-obryshtenie-do-evroparlamenta-zaradi-rezoliuciiata-za-cherno-more-2469926",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51331/51331569/991-ratio-kompleks-baba-alino.jpg"
+      "image": "https://m.netinfo.bg/media/images/51398/51398963/991-ratio-rumen-radev.jpg"
     },
     {
-      "title": "Тежка катастрофа с две жертви на главния път Варна-Дуранкулак",
-      "url": "https://dariknews.bg/regioni/dobrich/tezhka-katastrofa-s-dve-zhertvi-naglavniia-pyt-varna-durankulak-2469901",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
-    },
-    {
-      "title": "Втори задържан в Полша за убийството на руски художник и критик на Путин",
-      "url": "https://dariknews.bg/novini/sviat/vtori-zadyrzhan-v-polsha-za-ubijstvoto-na-ruski-hudozhnik-i-kritik-na-putin-2469900",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399914/991-ratio-robert-kuzovkov.jpg"
-    },
-    {
-      "title": "Прокуратурата ще протестира предсрочното освобождаване на осъдения за смъртта на Милен Цветков",
-      "url": "https://dariknews.bg/regioni/sofiia/prokuraturata-shte-protestira-predsrochnoto-osvobozhdavane-na-osydeniia-za-smyrtta-na-milen-cvetkov-2469899",
+      "title": "Хамалски услуги или рекет? Десетки сигнали за сметки за хиляди евро (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/hamalski-uslugi-ili-reket-desetki-signali-za-smetki-za-hiliadi-evro-video-2469925",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Ерол Мюмюн: Днес сме свидетели на поредната полицейска репресия срещу кмет на ДПС",
-      "url": "https://dariknews.bg/regioni/kyrdzhali/erol-miumiun-dnes-sme-svideteli-na-porednata-policejska-represiia-sreshtu-kmet-na-dps-2469898",
+      "title": "Вълна от реакции след случая със Соня Колтуклиева, политици искат оставки",
+      "url": "https://dariknews.bg/novini/bylgariia/vylna-ot-reakcii-sled-sluchaia-sys-sonia-koltuklieva-politici-iskat-ostavki-2469924",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399910/991-ratio-kyrdzhali-dps.jpg"
+      "image": "https://m.netinfo.bg/media/images/51400/51400265/991-ratio-sonia.jpg"
     },
     {
-      "title": "Радев: България ще привлича стратегически инвестиции от САЩ във високите технологии",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-bylgariia-shte-privlicha-strategicheski-investicii-ot-sasht-vyv-visokite-tehnologii-2469897",
+      "title": "Официално откриват ГКПП Рудозем-Ксанти със среща на високо ниво",
+      "url": "https://dariknews.bg/novini/bylgariia/oficialno-otkrivat-gkpp-rudozem-ksanti-sys-sreshta-na-visoko-nivo-2469923",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399900/991-ratio-rumen-radev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51253/51253445/991-ratio-ksanti.jpg"
+    },
+    {
+      "title": "Шест месеца власт: Магдалена Лазарова оглавява прокуратурата",
+      "url": "https://dariknews.bg/novini/bylgariia/shest-meseca-vlast-magdalena-lazarova-oglaviava-prokuraturata-2469922",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51396/51396214/991-ratio-magdalena-lazarova.jpg"
+    },
+    {
+      "title": "Кой има имен ден на 23 октомври",
+      "url": "https://dariknews.bg/novini/liubopitno/koj-ima-imen-den-na-23-oktomvri-2434630",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51002/51002461/991-ratio-imen-den.jpg"
+    },
+    {
+      "title": "Зеленски предупреди Тръмп да не прави допълнителни отстъпки към Русия",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-predupredi-trymp-da-ne-pravi-dopylnitelni-otstypki-kym-rusiia-2469921",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51338/51338255/991-ratio-prezidentyt-na-ukrajna-volodimir-zelenski-razgovaria-s-prezidenta-na-sasht.jpg"
+    },
+    {
+      "title": "Жителите на село Негован остават без вода",
+      "url": "https://dariknews.bg/novini/bylgariia/zhitelite-na-selo-negovan-ostavat-bez-voda-2469920",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51212/51212737/991-ratio-voda-cheshma-mivka.jpg"
+    },
+    {
+      "title": "Гардът от НСО, блъснал Колтуклиева, бе изведен с белезници от Военно-окръжната прокуратура (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/gardyt-ot-nso-blysnal-koltuklieva-be-izveden-s-beleznici-ot-voenno-okryzhnata-prokuratura-snimki-2469919",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400250/991-ratio-nso.jpg"
+    },
+    {
+      "title": "Соня Колтуклиева: Задържаха служителя на НСО, който ме бутна, той го направи със засилване",
+      "url": "https://dariknews.bg/novini/bylgariia/sonia-koltuklieva-zadyrzhaha-sluzhitelia-na-nso-kojto-me-butna-toj-go-napravi-sys-zasilvane-2469918",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Изследване разкри: Възрастните са по-креативни от децата, но им липсва увереност",
+      "url": "https://dariknews.bg/novini/liubopitno/izsledvane-razkri-vyzrastnite-sa-po-kreativni-ot-decata-no-im-lipsva-uverenost-2469890",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50132/50132391/991-ratio-zhena-laptop-ofis.jpg"
+    },
+    {
+      "title": "Големите на Тери Пратчет, или когато глината започне да мечтае за свобода",
+      "url": "https://dariknews.bg/novini/liubopitno/golemite-na-teri-pratchet-ili-kogato-glinata-zapochne-da-mechtae-za-svoboda-2469883",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400264/991-ratio-teri-pratchet.jpg"
+    },
+    {
+      "title": "НОИ: Фаталните трудови злополуки намаляват, но дните в болнични растат",
+      "url": "https://dariknews.bg/novini/bylgariia/noi-fatalnite-trudovi-zlopoluki-namaliavat-no-dnite-v-bolnichni-rastat-2469855",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399698/991-ratio-stroezh.jpg"
+    },
+    {
+      "title": "Министър Стоянов и адмирал Ефтимов наблюдават учение на НАТО на летище Чешнегирово",
+      "url": "https://dariknews.bg/novini/bylgariia/ministyr-stoianov-i-admiral-eftimov-nabliudavat-uchenie-na-nato-na-letishte-cheshnegirovo-2469865",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51373/51373705/991-ratio-dimityr-stoianov.jpg"
+    },
+    {
+      "title": "Мощна подкрепа от Азия за Инфантино 23 Окт | 09:26",
+      "url": "https://dsport.bg/azia-podkrepa-infantino~242934.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2293665156~1.og.jpg"
+    },
+    {
+      "title": "Филаделфия направи грандиозен обрат, Леброн с рязък отговор към Тръмп 23 Окт | 08:59",
+      "url": "https://dsport.bg/filadelfia-s-grandiozen-obrat-oklahoma-udari-denvar~242933.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301561040.og.jpg"
+    },
+    {
+      "title": "SUPERESTRELLA 23 Окт | 08:38",
+      "url": "https://dsport.bg/superestrella~242932.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1044381.og.jpg"
+    },
+    {
+      "title": "От билетите до женския отбор: как Ратклиф продължи управленската криза в Манчестър Юнайтед 23 Окт | 08:26",
+      "url": "https://dsport.bg/ot-biletite-do-zenskia-otbor-ratklif-prodalzi-upravlenskata-kriza-v-manchestar-unaited~242931.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2295052373.og.jpg"
+    },
+    {
+      "title": "Партизан удари Цървена звезда в драматично дерби 23 Окт | 08:09",
+      "url": "https://dsport.bg/partizan-udari-carvena-zvezda-v-dramatichno-derbi~242930.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300971575.og.jpg"
     },
     {
       "title": "Противниците на ЦСКА с поражения в Лигата на конференциите 23 Окт | 00:58",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/1044372.og.jpg"
-    },
-    {
-      "title": "Евертон Бала: Тази победа беше отборна 23 Окт | 00:14",
-      "url": "https://dsport.bg/everton-bala-tazi-pobeda-beshe-otborna~242924.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1044340~1.og.jpg"
-    },
-    {
-      "title": "Кристиан Димитров: Чувствахме се като у дома (ВИДЕО) 23 Окт | 00:10",
-      "url": "https://dsport.bg/kristian-dimitrov-chuvstvahme-se-kato-u-doma~242923.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1044352.og.jpg"
-    },
-    {
-      "title": "Шефът на бразилците! Коментарът на Дарик за победата на Левски в Пилзен (АУДИО) 23 Окт | 00:05",
-      "url": "https://dsport.bg/shefat-na-brazilcite-komentarat-na-darik-za-pobedata-na-levski-v-pilzen-audio~242921.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1044342~1.og.jpg"
-    },
-    {
-      "title": "От Левски: За тези вечери живеем! 23 Окт | 00:03",
-      "url": "https://dsport.bg/ot-levski-za-tezi-vecheri-ziveem~242920.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1044316~1.og.jpg"
-    },
-    {
-      "title": "ЦСКА благодари за подкрепата 22 Окт | 23:58",
-      "url": "https://dsport.bg/cska-blagodari-za-podkrepata~242919.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1043938~2.og.jpg"
     }
   ]
 }
