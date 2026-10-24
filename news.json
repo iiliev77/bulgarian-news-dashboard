@@ -1,6 +1,111 @@
 {
-  "updated": "2026-10-24T01:32:08.462711+00:00",
+  "updated": "2026-10-24T06:22:23.928182+00:00",
   "articles": [
+    {
+      "title": "Защо Тома Никифоров от „Игри на волята“ не се състезава за България? Олимпиецът разкрива подробности",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-toma-nikiforov-ot-igri-na-voliata-ne-se-systezava-za-bylgariia-olimpiecyt-razkriva-podrobnosti-2470022",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Петрова ще посрещне във Варна френския министър за Европа и външните работи Жан-Ноел Баро",
+      "url": "https://dariknews.bg/regioni/varna/petrova-shte-posreshtne-vyv-varna-frenskiia-ministyr-za-evropa-i-vynshnite-raboti-zhan-noel-baro-2470021",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387109/991-ratio-velislava-petrova.jpg"
+    },
+    {
+      "title": "Затрупана преди 2000 г.: Древна къща в Помпей получава нов живот чрез реставрация за 1,4 млн. евро",
+      "url": "https://dariknews.bg/novini/sviat/zatrupana-predi-2000-g.-drevna-kyshta-v-pompej-poluchava-nov-zhivot-chrez-restavraciia-za-14-mln.-evro-2469828",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399614/991-ratio-pompej-kyshta.jpg"
+    },
+    {
+      "title": "За здрав черен дроб избягвайте ето тези храни",
+      "url": "https://dariknews.bg/novini/liubopitno/za-zdrav-cheren-drob-izbiagvajte-eto-tezi-hrani-2469672",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49087/49087040/991-ratio-zakuska.jpg"
+    },
+    {
+      "title": "Руският вицепремиер: Три танкера, превозващи руски дизел, плават към Северна Америка",
+      "url": "https://dariknews.bg/novini/sviat/ruskiiat-vicepremier-tri-tankera-prevozvashti-ruski-dizel-plavat-kym-severna-amerika-2470020",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400429/991-ratio-ruski-dizel.jpg"
+    },
+    {
+      "title": "Спим с час повече: Връщаме стрелките назад",
+      "url": "https://dariknews.bg/novini/liubopitno/spim-s-chas-poveche-vryshtame-strelkite-nazad-2467262",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387734/991-ratio-chasovnik-zimno-chasovo-vreme.jpg"
+    },
+    {
+      "title": "Ефектът „бъчва“, или как батерията на телефона ви губи капацитет",
+      "url": "https://dariknews.bg/novini/sviat/efektyt-bychva-ili-kak-bateriiata-na-telefona-vi-gubi-kapacitet-2469690",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51398/51398833/991-ratio-kola.jpg"
+    },
+    {
+      "title": "Котидж сиренето - вкусният съюзник на балансираното хранене",
+      "url": "https://dariknews.bg/novini/liubopitno/kotidzh-sireneto-vkusniiat-syiuznik-na-balansiranoto-hranene-2469576",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50928/50928022/991-ratio-kotidzh-sirene.jpg"
+    },
+    {
+      "title": "Колко струва спокойствието? Малките удоволствия, които не изискват много пари",
+      "url": "https://dariknews.bg/novini/liubopitno/kolko-struva-spokojstvieto-malkite-udovolstviia-koito-ne-iziskvat-mnogo-pari-2469990",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51191/51191624/991-ratio-esen.jpg"
+    },
+    {
+      "title": "Печени или варени: Защо кестените са добър избор през есента",
+      "url": "https://dariknews.bg/novini/liubopitno/pecheni-ili-vareni-zashto-kestenite-sa-dobyr-izbor-prez-esenta-2469805",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50617/50617686/991-ratio-pecheni-kesteni.jpg"
+    },
+    {
+      "title": "Д-р Юлиян Караджов: 95% от дрогата в Пловдив е фентанил (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/d-r-iuliian-karadzhov-95-ot-drogata-v-plovdiv-e-fentanil-video-2470012",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400616/991-ratio-iuliian-karadzhov.jpg"
+    },
+    {
+      "title": "Ройтерс: България се превръща в „Батерията на Балканите“",
+      "url": "https://dariknews.bg/novini/bylgariia/rojters-bylgariia-se-prevryshta-v-bateriiata-na-balkanite-2470017",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45966/45966145/991-ratio-slynchevi-paneli.jpg"
+    },
+    {
+      "title": "10 красиви места в България за еднодневна разходка (СНИМКИ)",
+      "url": "https://dariknews.bg/novini/bylgariia/10-krasivi-mesta-v-bylgariia-za-ednodnevna-razhodka-snimki-2469979",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388958/991-ratio-peshtera-uhlovica-rodopite.jpg"
+    },
+    {
+      "title": "Температурите тръгват нагоре: До 22 градуса в събота",
+      "url": "https://dariknews.bg/novini/bylgariia/temperaturite-trygvat-nagore-do-22-gradusa-v-sybota-2469999",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39966/39966204/991-ratio-slynce-esen-dyrvo.jpg"
+    },
+    {
+      "title": "Ден за размисъл в България",
+      "url": "https://dariknews.bg/novini/bylgariia/den-za-razmisyl-v-bylgariia-2469978",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/42785/42785200/991-ratio-hora-tylpa-prebroiavane.jpg"
+    },
     {
       "title": "Мелания Тръмп е договорила прекратяване на огъня между Русия и Украйна в град Олешки",
       "url": "https://dariknews.bg/novini/sviat/melaniia-trymp-e-dogovorila-prekratiavane-na-ogynia-mezhdu-rusiia-i-ukrajna-v-grad-oleshki-2470018",
@@ -37,109 +142,67 @@
       "image": "https://m.netinfo.bg/media/images/51400/51400622/991-ratio-ast-ot-rimskata-krepost-sostra.jpg"
     },
     {
-      "title": "Треньорът на „Байерн Мюнхен“ колабира по време на тренировка",
-      "url": "https://dariknews.bg/novini/sviat/trenioryt-na-bajern-miunhen-kolabira-po-vreme-na-trenirovka-2470011",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Любовната история продължава да дава плодове 24 Окт | 09:08",
+      "url": "https://dsport.bg/lubovnata-istoria-prodalzava-da-dava-plodove~243004.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2251782318~1.og.jpg"
     },
     {
-      "title": "САЩ обявиха хелия за критично важен",
-      "url": "https://dariknews.bg/novini/sviat/sasht-obiaviha-heliia-za-kritichno-vazhen-2470010",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400612/991-ratio-helij.jpg"
+      "title": "Невероятната серия на Дезире Дуе 24 Окт | 08:58",
+      "url": "https://dsport.bg/neveroatnata-seria-na-dezire-due~243003.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300292215.og.jpg"
     },
     {
-      "title": "Серия от земетресения разтърсиха остров Сицилия",
-      "url": "https://dariknews.bg/novini/sviat/seriia-ot-zemetreseniia-raztyrsiha-ostrov-siciliia-2470009",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50131/50131846/991-ratio-kataniia-italiia.jpg"
+      "title": "Жокерът на Моуриньо за Ел Класико 24 Окт | 08:51",
+      "url": "https://dsport.bg/zokerat-na-mourino-za-el-klasiko~243002.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2293555319~1.og.jpg"
     },
     {
-      "title": "Главният икономист на КНСБ Любослав Костов напуска синдиката",
-      "url": "https://dariknews.bg/novini/bylgariia/glavniiat-ikonomist-na-knsb-liuboslav-kostov-napuska-sindikata-2470008",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400530/991-ratio-liuboslav-kostov.jpg"
+      "title": "Кошмар за Бруно Фернандеш - обраха имението му, докато играе 24 Окт | 08:45",
+      "url": "https://dsport.bg/koshmar-za-bruno-fernandesh-obraha-imenieto-mu-dokato-igrae~243001.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301489307.og.jpg"
     },
     {
-      "title": "Кога служителите на НСО имат право да използват физическа сила",
-      "url": "https://dariknews.bg/novini/bylgariia/koga-sluzhitelite-na-nso-imat-pravo-da-izpolzvat-fizicheska-sila-2470007",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Кризата с младата звезда на Байерн Мюнхен 24 Окт | 08:37",
+      "url": "https://dsport.bg/krizata-s-mladata-zvezda-na-baiern-munhen~243000.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2300717077.og.jpg"
     },
     {
-      "title": "Радев пред зърнопроизводителите: България прави всичко възможно да повиши сигурността в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-pred-zyrnoproizvoditelite-bylgariia-pravi-vsichko-vyzmozhno-da-povishi-sigurnostta-v-cherno-more-2470006",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400513/991-ratio-rumen-radev-s-zyrnoproizvoditeli.jpg"
+      "title": "Жест на шампион: Кристиано Роналдо отказа наградата за Играч на мача, за да я даде на свой съотборник 24 Окт | 08:27",
+      "url": "https://dsport.bg/zest-na-shampion-kristiano-ronaldo-otkaza-nagradata-za-igrach-na-macha-za-da-a-dade-na-svoi-saotbornik~242999.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2299370844.og.jpg"
     },
     {
-      "title": "Депутат от „Прогресивна България” публикува ново видео от инцидента със Соня Колтуклиева",
-      "url": "https://dariknews.bg/novini/bylgariia/deputat-ot-progresivna-bylgariia-publikuva-novo-video-ot-incidenta-sys-sonia-koltuklieva-2470004",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400500/991-ratio-incident-sys-sonia-koltuklieva.jpg"
+      "title": "Манчестър Юнайтед в бездната: защо „Олд Трафорд“ се превърна в гробище за треньори? 24 Окт | 08:18",
+      "url": "https://dsport.bg/manchestar-unaited-v-bezdnata-zasto-old-traford-se-prevarna-v-grobiste-za-trenori~242998.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301448808.og.jpg"
     },
     {
-      "title": "Освободиха от ареста служителя на НСО от инцидента с Колтуклиева",
-      "url": "https://dariknews.bg/novini/bylgariia/osvobodiha-ot-aresta-sluzhitelia-na-nso-ot-incidenta-s-koltuklieva-2470003",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400253/991-ratio-nso.jpg"
+      "title": "Юрген Клоп преди Ел Класико: Преди мразех Реал Мадрид заради Пепе, сега съм за по-добрия 24 Окт | 08:10",
+      "url": "https://dsport.bg/urgen-klop-predi-el-klasiko-predi-mrazeh-real-madrid-zaradi-pepe-sega-sam-za-po-dobria~242997.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-628063472.og.jpg"
     },
     {
-      "title": "Откриха 24 дрона за над 188 000 евро в български микробус в Румъния",
-      "url": "https://dariknews.bg/novini/sviat/otkriha-24-drona-za-nad-188-000-evro-v-bylgarski-mikrobus-v-rumyniia-2470002",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50996/50996179/991-ratio-dronove.jpg"
-    },
-    {
-      "title": "„Булгаргаз“ поиска спешна среща с Терзиев заради задълженията на „Топлофикация София“",
-      "url": "https://dariknews.bg/regioni/sofiia/bulgargaz-poiska-speshna-sreshta-s-terziev-zaradi-zadylzheniiata-na-toplofikaciia-sofiia-2470001",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34745/34745251/991-ratio-toplofikaciia-sofiia.jpg"
-    },
-    {
-      "title": "Откриха дрон край сливнишкото село Бърложница",
-      "url": "https://dariknews.bg/regioni/sofiia/otkriha-dron-kraj-slivnishkoto-selo-byrlozhnica-2470000",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
-    },
-    {
-      "title": "Част от столичен квартал ще остане без топла вода",
-      "url": "https://dariknews.bg/regioni/sofiia/chast-ot-stolichen-kvartal-shte-ostane-bez-topla-voda-2469998",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157497/991-ratio-voda-kuche-topla-voda.jpg"
-    },
-    {
-      "title": "Русия и Украйна си размениха по 270 души военнопленници",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-i-ukrajna-si-razmeniha-po-270-dushi-voennoplennici-2469997",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400478/991-ratio-razmiana-na-voennoplennici.jpg"
-    },
-    {
-      "title": "„Изборът на България: Седмият президент“ – ексклузивно по NOVA на 25 октомври",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/izboryt-na-bylgariia-sedmiiat-prezident-ekskluzivno-po-nova-na-25-oktomvri-2469996",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400475/991-ratio-i.jpg"
-    },
-    {
-      "title": "Зрелищна катастрофа в София: Кола се качи върху мантинелата между две трамвайни спирки (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/sofiia/zrelishtna-katastrofa-v-sofiia-kola-se-kachi-vyrhu-mantinelata-mezhdu-dve-tramvajni-spirki-snimkivideo-2469994",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400469/991-ratio-katastrofa-sofiia.jpg"
+      "title": "Лионел Меси удостоен с огромно отличие 24 Окт | 08:01",
+      "url": "https://dsport.bg/lionel-mesi-udostoen-s-ogromno-otlichie~242996.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301661282.og.jpg"
     },
     {
       "title": "Шарл Льоклер над всички и във втората тренировка 24 Окт | 01:07",
@@ -147,69 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/gettyimages-2301684763.og.jpg"
-    },
-    {
-      "title": "Бивш съдия от Евролигата остава в ареста 24 Окт | 00:50",
-      "url": "https://dsport.bg/bivshiat-sadia-ot-evroligata-ostava-v-aresta~242994.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/983258-2.og.jpg"
-    },
-    {
-      "title": "Хамилтън готов да удължи кариерата си, за да се състезава в Афика 24 Окт | 00:26",
-      "url": "https://dsport.bg/hamiltan-gotov-da-udalzi-karierata-si-za-da-se-sastezava-v-afika~242987.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301522346.og.jpg"
-    },
-    {
-      "title": "Нотингам Форест изпусна Ипсуич 24 Окт | 00:13",
-      "url": "https://dsport.bg/notingam-forest-izpusna-ipsuich~242993.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301683457.og.jpg"
-    },
-    {
-      "title": "Малага остава без успех в Ла Лига 24 Окт | 00:01",
-      "url": "https://dsport.bg/malaga-ostava-bez-uspeh-v-la-liga~242992.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301674719.og.jpg"
-    },
-    {
-      "title": "Вратар се превърна от антигерой в герой за Ница 23 Окт | 23:52",
-      "url": "https://dsport.bg/vratar-se-prevarna-ot-antigeroi-v-geroi-za-nica~242990.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/screenshot-2026-10-23-235157.og.png"
-    },
-    {
-      "title": "Торино набира скорост в Серия А 23 Окт | 23:50",
-      "url": "https://dsport.bg/torino-nabira-skorost-v-seria-a~242991.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301171691.og.jpg"
-    },
-    {
-      "title": "Гладбах най-накрая спечели първи точки за сезона 23 Окт | 23:31",
-      "url": "https://dsport.bg/gladbah-nai-nakraa-specheli-parvi-tochki-za-sezon~242989.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301673704.og.jpg"
-    },
-    {
-      "title": "Везенков и Олимпиакос допуснаха обрат от Фенербахче в Атина 23 Окт | 23:22",
-      "url": "https://dsport.bg/vezenkov-i-olimpiakos-dopusnaha-obrat-ot-fenerbahche-v-atina~242988.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2269957212-1-2-1-1.og.jpg"
-    },
-    {
-      "title": "Алонсо се надява на бързо завръщане на Мартинес 23 Окт | 23:00",
-      "url": "https://dsport.bg/alonso-se-nadava-na-barzo-zavrastane-na-martines~242986.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2300642560~2.og.jpg"
     }
   ]
 }
