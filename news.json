@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-24T17:34:45.409133+00:00",
+  "updated": "2026-10-24T19:43:55.972575+00:00",
   "articles": [
+    {
+      "title": "Ваня и Светлин са първите полуфиналисти в звездната надпревара на „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/vania-i-svetlin-sa-pyrvite-polufinalisti-v-zvezdnata-nadprevara-na-igri-na-voliata-2470047",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51401/51401059/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Приключи гласуването за членове на ВСС от квотата на прокурорите",
+      "url": "https://dariknews.bg/novini/bylgariia/prikliuchi-glasuvaneto-za-chlenove-na-vss-ot-kvotata-na-prokurorite-2470046",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51320/51320852/991-ratio-vss.jpg"
+    },
+    {
+      "title": "Започна гласуването зад граница за президентските избори",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/zapochna-glasuvaneto-zad-granica-za-prezidentskite-izbori-2470045",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400458/991-ratio-izbori-glasuvane-izbirateli.jpg"
+    },
+    {
+      "title": "Украински дронове атакуваха промишлена зона и склад в руския град Омск",
+      "url": "https://dariknews.bg/novini/sviat/ukrainski-dronove-atakuvaha-promishlena-zona-i-sklad-v-ruskiia-grad-omsk-2470044",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51321/51321795/991-ratio-ukrajna.jpg"
+    },
+    {
+      "title": "Жордан Бардела бе преизбран за председател на „Национален сбор“",
+      "url": "https://dariknews.bg/novini/sviat/zhordan-bardela-be-preizbran-za-predsedatel-na-nacionalen-sbor-2470043",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51401/51401041/991-ratio-zhordan-bardela.jpg"
+    },
+    {
+      "title": "Шестима загинаха при тежък сблъсък между влак и микробус в Русия",
+      "url": "https://dariknews.bg/novini/sviat/shestima-zaginaha-pri-tezhyk-sblysyk-mezhdu-vlak-i-mikrobus-v-rusiia-2470041",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50710/50710392/991-ratio-mashinisti-vlak-germaniia-relsi.jpg"
+    },
     {
       "title": "Хиляди протестираха в Мадрид в защита на държавните пенсии",
       "url": "https://dariknews.bg/novini/sviat/hiliadi-protestiraha-v-madrid-v-zashtita-na-dyrzhavnite-pensii-2470040",
@@ -100,60 +142,60 @@
       "image": "https://m.netinfo.bg/media/images/51400/51400703/991-ratio-slavi-binev.jpg"
     },
     {
-      "title": "Слави Бинев е застрелян в София, има задържани: МВР предполага финансов спор и спонтанно убийство (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/slavi-binev-e-zastrelian-v-sofiia-ima-zadyrzhani-mvr-predpolaga-finansov-spor-i-spontanno-ubijstvo-snimkivideo-2470026",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Вълна от мемета в социалните мрежи: Вицепрезидентът на САЩ и ураган в Тихия океан носят едно и също име",
-      "url": "https://dariknews.bg/novini/sviat/vylna-ot-memeta-v-socialnite-mrezhi-viceprezidentyt-na-sasht-i-uragan-v-tihiia-okean-nosiat-edno-i-syshto-ime-2470025",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50864/50864575/991-ratio-donald-trymp-dzhej-di-vans.jpg"
-    },
-    {
-      "title": "Лоши условия на гара „София-север“: НКЖИ уверява, че взема мерки",
-      "url": "https://dariknews.bg/novini/bylgariia/loshi-usloviia-na-gara-sofiia-sever-nkzhi-uveriava-che-vzema-merki-2470023",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Защо Тома Никифоров от „Игри на волята“ не се състезава за България? Олимпиецът разкрива подробности",
-      "url": "https://dariknews.bg/novini/liubopitno/zashto-toma-nikiforov-ot-igri-na-voliata-ne-se-systezava-za-bylgariia-olimpiecyt-razkriva-podrobnosti-2470022",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Министър Петрова: Черноморски хъб за сигурност ще бъде обособен във Варна и Констанца",
-      "url": "https://dariknews.bg/regioni/varna/ministyr-petrova-chernomorski-hyb-za-sigurnost-shte-byde-obosoben-vyv-varna-i-konstanca-2470021",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Затрупана преди 2000 г.: Древна къща в Помпей получава нов живот чрез реставрация за 1,4 млн. евро",
-      "url": "https://dariknews.bg/novini/sviat/zatrupana-predi-2000-g.-drevna-kyshta-v-pompej-poluchava-nov-zhivot-chrez-restavraciia-za-14-mln.-evro-2469828",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51399/51399614/991-ratio-pompej-kyshta.jpg"
-    },
-    {
-      "title": "На живо: Рома изравни на Наполи след два гола пасив 24 Окт | 20:34",
-      "url": "https://dsport.bg/na-zivo-napoli-roma-sastavi~243052.html",
+      "title": "Черно море надигра ЦСКА, Шумен стори същото с Левски 24 Окт | 22:38",
+      "url": "https://dsport.bg/cherno-more-nadigra-cska-shumen-stori-sastoto-s-levski~243069.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301791027.og.jpg"
+      "image": "https://dsport.bg/media/386/860310252_1762386001484958_3609160107267883744_n.og.jpg"
     },
     {
-      "title": "На живо: Челси - Тотнъм 24 Окт | 20:32",
+      "title": "Превързаният Стоян Кубатов ще се бори за бронз 24 Окт | 22:18",
+      "url": "https://dsport.bg/prevarzaniat-stoan-kubatov-ste-se-bori-za-bronz~243068.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/1045246.og.jpg"
+    },
+    {
+      "title": "Нова суха мрежа за Пламен Андреев, Дебрецен катери класирането 24 Окт | 21:54",
+      "url": "https://dsport.bg/nova-suha-mreza-za-plamen-andreev-debrecen-kateri-klasiraneto~243067.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/20260726_dvsc-puskas_di_0122-1024x683-2.og.jpg"
+    },
+    {
+      "title": "Хамилтън изпревари Верстапен в последната тренировка в Остин 24 Окт | 21:49",
+      "url": "https://dsport.bg/hamiltan-izprevari-verstapen-v-poslednata-trenirovka-v-ostin~243066.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301804987.og.jpg"
+    },
+    {
+      "title": "Драма до последно: Виляреал обърна Валенсия с гол в 95-ата минута 24 Окт | 21:40",
+      "url": "https://dsport.bg/drama-do-posledno-vilareal-obarna-valensia-s-gol-v-95-ata-minuta~243065.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301809127.og.jpg"
+    },
+    {
+      "title": "Тотнъм срази Челси на „Стамфорд Бридж“ за втори пореден успех 24 Окт | 21:25",
       "url": "https://dsport.bg/na-zivo-chelsi-totnam-sastavi~243055.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301794347.og.jpg"
+      "image": "https://dsport.bg/media/386/gettyimages-2301805483.og.jpg"
+    },
+    {
+      "title": "Страхотен гол на Байер донесе късна радост на Борусия Дортмунд 24 Окт | 21:23",
+      "url": "https://dsport.bg/strahoten-gol-na-baier-donese-radost-na-borusia-dortmund~243064.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301805776.og.jpg"
+    },
+    {
+      "title": "Спиращо дъха Дерби дел Соле! Рома отказа да загуби от Наполи с непреклонна воля 24 Окт | 20:56",
+      "url": "https://dsport.bg/na-zivo-napoli-roma-sastavi~243052.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/386/gettyimages-2301792391.og.jpg"
     },
     {
       "title": "Артета бесен на жълтия си картон срещу Евертън: Ще сложа сензори край тъчлинията 24 Окт | 20:19",
@@ -168,48 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/386/fotosportmedia_282101-2048x1366-1-1.og.webp"
-    },
-    {
-      "title": "Мечтата на „червена“ България е факт – ЦСКА се завръща на „Армията“ 24 Окт | 19:49",
-      "url": "https://dsport.bg/mechtata-na-chervena-balgaria-e-fakt-cska-se-zavrasta-na-armiata~243061.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/screenshot-1377-.og.png"
-    },
-    {
-      "title": "Таекуондо федерацията се сбогува със Слави Бинев 24 Окт | 19:37",
-      "url": "https://dsport.bg/taekuondo-federaciata-se-sboguva-sas-slavi-binev~243060.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/857156701_1463825735856059_2017446389263326461_n-1-.og.jpg"
-    },
-    {
-      "title": "Кадри показват как задържаните за убийството на Слави Бинев влизат в дома му (ВИДЕО) 24 Окт | 19:18",
-      "url": "https://dsport.bg/kadri-pokazvat-kak-zadarzanite-za-ubiistvoto-na-slavi-binev-vlizat-v-doma-mu-video~243059.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/898453.og.jpg"
-    },
-    {
-      "title": "Арсенал изравни Манчестър Сити, защитници зарадваха „топчиите“ под лондонския дъжд 24 Окт | 18:53",
-      "url": "https://dsport.bg/arsenal-izravni-manchestar-siti-topchiite-prechupiha-evertan-pod-londonskia-dazd~243058.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/gettyimages-2301781159.og.jpg"
-    },
-    {
-      "title": "Любо Пенев: Трябва да бъдем по-ефективни пред противниковата врата (ВИДЕО) 24 Окт | 18:46",
-      "url": "https://dsport.bg/lubo-penev-trabva-da-badem-po-efektivni-pred-protivnikovata-vrata-video~243057.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/jtt-36258~1.og.jpg"
-    },
-    {
-      "title": "Тодор Симов: Проблемът е ниският ръст на футболистите, мач на борба и битка (ВИДЕО) 24 Окт | 18:32",
-      "url": "https://dsport.bg/todor-simov-problemat-e-niskiat-rast-na-futbolistite-mach-na-borba-i-bitka~243056.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/386/1028208.og.jpg"
     }
   ]
 }
