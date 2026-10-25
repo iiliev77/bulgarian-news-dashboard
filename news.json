@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T21:48:36.285285+00:00",
+  "updated": "2026-10-25T23:36:41.894973+00:00",
   "articles": [
     {
       "title": "Извънредно Йотова срещу Гюров на балотаж: Голямата битка за президентството предстои",
@@ -7,6 +7,27 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51401/51401774/991-ratio-iotova-giurov.jpg"
+    },
+    {
+      "title": "Иван Христанов: Политическата класа получи огромен шамар",
+      "url": "https://dariknews.bg/novini/bylgariia/ivan-hristanov-politicheskata-klasa-poluchi-ogromen-shamar-2470144",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51275/51275371/991-ratio-ivan-hristanov.jpg"
+    },
+    {
+      "title": "При 56% обработени протоколи на изборите в Сърбия студентите печелят абсолютно мнозинство в парламента",
+      "url": "https://dariknews.bg/novini/sviat/pri-56-obraboteni-protokoli-na-izborite-v-syrbiia-studentite-pecheliat-absoliutno-mnozinstvo-v-parlamenta-2470145",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51161/51161274/991-ratio-syrbiia.jpg"
+    },
+    {
+      "title": "Асен Василев: Изборът на президент не трябва да бъде продукт на партийни договорки",
+      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-izboryt-na-prezident-ne-triabva-da-byde-produkt-na-partijni-dogovorki-2470143",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Първи официални резултати от ЦИК за президентските избори",
@@ -121,39 +142,39 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Петър Витанов: Ниската избирателна активност трябва да ни е обеца на ухото",
-      "url": "https://dariknews.bg/novini/bylgariia/petyr-vitanov-niskata-izbiratelna-aktivnost-triabva-da-ni-e-obeca-na-uhoto-2470127",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Ханзи Флик призна какво е липсвало на Барселона срещу Реал Мадрид и поиска промяна 26 Окт | 00:47",
+      "url": "https://dsport.bg/hanzi-flik-prizna-kakvo-e-lipsvalo-na-barselona-srestu-real-madrid-i-poiska-promana~243150.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301983272.og.jpg"
     },
     {
-      "title": "Почина бившият треньор на вратарите в националния отбор Дарко Божович",
-      "url": "https://dariknews.bg/novini/bylgariia/pochina-bivshiiat-trenior-na-vratarite-v-nacionalniia-otbor-darko-bozhovich-2470126",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51000/51000742/991-ratio-svesht.jpg"
+      "title": "Винисиус не игра в Ел Класико, но реакцията му след победата на Реал привлече вниманието 26 Окт | 00:39",
+      "url": "https://dsport.bg/vinisius-ne-igra-v-el-klasiko-no-reakciata-mu-sled-pobedata-na-real-privleche-vnimanieto~243149.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2300214760~1.og.jpg"
     },
     {
-      "title": "Мощни бури връхлетяха Северна Европа, стотици хиляди останаха без ток",
-      "url": "https://dariknews.bg/novini/bylgariia/moshtni-buri-vryhletiaha-severna-evropa-stotici-hiliadi-ostanaha-bez-tok-2470125",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51137/51137969/991-ratio-mylniia-buria.jpg"
+      "title": "Мбапе достигна 100 гола за Реал Мадрид с победния си удар срещу Барселона в Ел Класико 26 Окт | 00:25",
+      "url": "https://dsport.bg/mbape-dostigna-100-gola-za-real-madrid-s-pobednia-si-udar-srestu-barselona-v-el-klasiko~243148.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301986255.og.jpg"
     },
     {
-      "title": "На живо: Eл Класико върви към реми 25 Окт | 23:46",
+      "title": "Мбапе попари Барселона с два гола и сложи край на перфектната им серия в Ел Класико и Ла Лига 25 Окт | 23:46",
       "url": "https://dsport.bg/na-zivo-barselona-real-madrid-sastavite~243138.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2301982717.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2301985314.og.jpg"
     },
     {
       "title": "Антонели триумфира в САЩ! Малко разделя Кими от титлата 25 Окт | 23:42",
-      "url": "https://dsport.bg/оormula-1-antoneli-vodi-verstapen-lekler-bitka~243147.html",
+      "url": "https://dsport.bg/formula-1-antoneli-vodi-verstapen-lekler-bitka~243147.html",
       "source": "Dsport",
       "section": "sport",
-      "image": ""
+      "image": "https://dsport.bg/media/387/gettyimages-2301973462.og.jpg"
     },
     {
       "title": "Милан ликува в Удине, остава в подножието на върха 25 Окт | 23:35",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/gettyimages-2292496238.og.jpg"
-    },
-    {
-      "title": "Три гола за 27 минути и куп пропуски при успех на Реал Сосиедад 25 Окт | 21:22",
-      "url": "https://dsport.bg/tri-gola-za-27-minuti-i-kup-propuski-pri-uspeh-na-real-sosiedad~243141.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2301967239.og.jpg"
-    },
-    {
-      "title": "Роден в България, израснал във Франция: Христо Попов написа история и ще бъде №1 в света 25 Окт | 21:16",
-      "url": "https://dsport.bg/oden-v-balgaria-izrasnal-vav-francia-hristo-popov-napisa-istoria-i-ste-bade-1-v-sveta~243140.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2086402292.og.jpg"
-    },
-    {
-      "title": "Ювентус си припомни какво е победа в Серия А 25 Окт | 21:02",
-      "url": "https://dsport.bg/uventus-si-pripomni-kakvo-e-pobeda-v-seria-a~243139.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2301958376.og.jpg"
     }
   ]
 }
