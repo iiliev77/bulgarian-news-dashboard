@@ -1,26 +1,89 @@
 {
-  "updated": "2026-10-25T19:14:16.113022+00:00",
+  "updated": "2026-10-25T21:48:36.285285+00:00",
   "articles": [
     {
       "title": "Извънредно Йотова срещу Гюров на балотаж: Голямата битка за президентството предстои",
-      "url": "https://dariknews.bg/novini/bylgariia/exit-poll-iotova-i-giurov-otivat-na-balotazh-pri-katastrofalno-niska-izbiratelna-aktivnost-2470114",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrvi-rezultati-ot-cik-za-prezidentskite-izbori-2470142",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51401/51401774/991-ratio-iotova-giurov.jpg"
+    },
+    {
+      "title": "Първи официални резултати от ЦИК за президентските избори",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrvi-oficialni-rezultati-ot-cik-za-prezidentskite-izbori-2470142",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51401/51401774/991-ratio-iotova-giurov.jpg"
+    },
+    {
+      "title": "Зеленски потвърди: Среща с Русия, с посредничеството на САЩ, ще се състои през ноември",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-potvyrdi-sreshta-s-rusiia-s-posrednichestvoto-na-sasht-shte-se-systoi-prez-noemvri-2470141",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355044/991-ratio-zelenski.jpg"
+    },
+    {
+      "title": "Първи думи след вота: Йотова изрази тревога за ниската активност, Вълчев предизвика Кандев на дебат",
+      "url": "https://dariknews.bg/novini/bylgariia/pyrvi-dumi-sled-vota-iotova-izrazi-trevoga-za-niskata-aktivnost-vylchev-predizvika-kandev-na-debat-2470140",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "След масовите протести: Вучич призна загубата си на предсрочните парламентарни избори",
+      "url": "https://dariknews.bg/novini/sviat/sled-masovite-protesti-vuchich-prizna-zagubata-si-na-predsrochnite-parlamentarni-izbori-2470139",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51388/51388338/991-ratio-aleksandyr-vuchich.jpg"
+    },
+    {
+      "title": "ДБ: На тези избори демократите на България бяха силно подценени",
+      "url": "https://dariknews.bg/novini/bylgariia/db-na-tezi-izbori-demokratite-na-bylgariia-biaha-silno-podceneni-2470138",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Костадинов: Считаме изборния резултат за закономерен на фона на ниската избирателна активност",
-      "url": "https://dariknews.bg/novini/bylgariia/kostadinov-schitame-izborniia-rezultat-za-zakonomeren-na-fona-na-niskata-izbiratelna-aktivnost-2470133",
+      "title": "Гюров предложи на Йотова дебат: Изборите няма да бъдат решени в партийните централи",
+      "url": "https://dariknews.bg/novini/bylgariia/giurov-predlozhi-na-iotova-debat-izborite-niama-da-bydat-resheni-v-partijnite-centrali-2470137",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51398/51398028/991-ratio-kostadin-kostadinov.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Радостин Василев с категорична позиция за балотажа: Гласувайте по съвест, но не за Йотова",
+      "url": "https://dariknews.bg/novini/bylgariia/radostin-vasilev-s-kategorichna-poziciia-za-balotazha-glasuvajte-po-syvest-no-ne-za-iotova-2470136",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Мечка се появи край Симеоновския лифт на Витоша, ПСС с предупреждение към хората",
+      "url": "https://dariknews.bg/novini/bylgariia/mechka-se-poiavi-kraj-simeonovskiia-lift-na-vitosha-pss-s-preduprezhdenie-kym-horata-2470135",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51293/51293800/991-ratio-mechka.jpg"
+    },
+    {
+      "title": "Хусите атакуваха летището в Рияд и саудитски военни бази",
+      "url": "https://dariknews.bg/novini/sviat/husite-atakuvaha-letishteto-v-riiad-i-sauditski-voenni-bazi-2470134",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50685/50685374/991-ratio-husi.jpg"
+    },
+    {
+      "title": "Костадинов: Резултатът ни е четири пъти по-висок от предишните президентски избори",
+      "url": "https://dariknews.bg/novini/bylgariia/kostadinov-rezultatyt-ni-e-chetiri-pyti-po-visok-ot-predishnite-prezidentski-izbori-2470133",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
       "title": "След думите на Радев за възможни нови убийства: Демерджиев заяви, че не знае какво е имал предвид",
       "url": "https://dariknews.bg/novini/bylgariia/sled-dumite-na-radev-za-vyzmozhni-novi-ubijstva-demerdzhiev-zaiavi-che-ne-znae-kakvo-e-imal-predvid-2470131",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51384/51384068/991-ratio-demerdzhiev-radev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Щабът на Йотова-Вълчев: Битката за връщане на държавата предстои",
@@ -34,25 +97,25 @@
       "url": "https://dariknews.bg/novini/prezidentski-izbori/naj-mnogo-signali-za-narusheniia-na-izborite-ima-v-severozapada-i-oblast-burgas-2470129",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51401/51401391/991-ratio-glasuvane-izbori-prezident-2026.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Демерджиев: Не наблюдавахме сериозни опити за купуване на гласове и манипулиране на вота",
       "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-ne-nabliudavahme-seriozni-opiti-za-kupuvane-na-glasove-i-manipulirane-na-vota-2470128",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379569/991-ratio-ivan-demerdzhiev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Изборният ден приключи",
-      "url": "https://dariknews.bg/novini/bylgariia/izborniiat-den-prikliuchi-2470132",
+      "title": "Изборният ден приключи спокойно в цялата страна",
+      "url": "https://dariknews.bg/novini/bylgariia/izborniiat-den-prikliuchi-spokojno-v-cialata-strana-2470132",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51401/51401171/991-ratio-izbori-bylgariia.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Паралелно преброяване: Йотова и Гюров отиват на балотаж при катастрофално ниска избирателна активност",
-      "url": "https://dariknews.bg/novini/bylgariia/paralelno-prebroiavane-iotova-i-giurov-otivat-na-balotazh-pri-katastrofalno-niska-izbiratelna-aktivnost-2470114",
+      "title": "100% паралелно преброяване: Йотова и Гюров отиват на балотаж при катастрофално ниска избирателна активност",
+      "url": "https://dariknews.bg/novini/bylgariia/100-paralelno-prebroiavane-iotova-i-giurov-otivat-na-balotazh-pri-katastrofalno-niska-izbiratelna-aktivnost-2470114",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
@@ -79,67 +142,67 @@
       "image": "https://m.netinfo.bg/media/images/51137/51137969/991-ratio-mylniia-buria.jpg"
     },
     {
-      "title": "Русия е нанесла удари по товарни кораби в Черно море",
-      "url": "https://dariknews.bg/novini/sviat/rusiia-e-nanesla-udari-po-tovarni-korabi-v-cherno-more-2470123",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51401/51401572/991-ratio-cherno-more-tovaren-korab.jpg"
+      "title": "На живо: Eл Класико върви към реми 25 Окт | 23:46",
+      "url": "https://dsport.bg/na-zivo-barselona-real-madrid-sastavite~243138.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301982717.og.jpg"
     },
     {
-      "title": "Плевнелиев: Вместо сблъсък на идеи видяхме сблъсък на компромати",
-      "url": "https://dariknews.bg/novini/bylgariia/plevneliev-vmesto-sblysyk-na-idei-vidiahme-sblysyk-na-kompromati-2470124",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Антонели триумфира в САЩ! Малко разделя Кими от титлата 25 Окт | 23:42",
+      "url": "https://dsport.bg/оormula-1-antoneli-vodi-verstapen-lekler-bitka~243147.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": ""
     },
     {
-      "title": "60,8% избирателна активност в Сърбия към 17:00 ч. на изборите за нов парламент",
-      "url": "https://dariknews.bg/novini/sviat/608-izbiratelna-aktivnost-v-syrbiia-kym-1700-ch.-na-izborite-za-nov-parlament-2470121",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Милан ликува в Удине, остава в подножието на върха 25 Окт | 23:35",
+      "url": "https://dsport.bg/milan-likuva-v-udine-ostava-v-podnozieto-na-varha~243146.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301976414.og.jpg"
     },
     {
-      "title": "Георги Първанов: Големият проблем на президентските избори е тежкият компроматен сблъсък",
-      "url": "https://dariknews.bg/novini/bylgariia/georgi-pyrvanov-golemiiat-problem-na-prezidentskite-izbori-e-tezhkiiat-kompromaten-sblysyk-2470120",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "22 точки от 24 възможни и празни трибуни: Гатузо прави нещо невиждано в историята на Лацио 25 Окт | 23:03",
+      "url": "https://dsport.bg/22-tochki-ot-24-vazmozni-i-prazni-tribuni-gatuzo-pravi-nesto-nevizdano-v-istoriata-na-lacio~243145.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2013090376-1-1.og.jpg"
     },
     {
-      "title": "Путин: Протестите в страните в Европа се дължат на собствените им грешки",
-      "url": "https://dariknews.bg/novini/sviat/putin-protestite-v-stranite-v-evropa-se-dylzhat-na-sobstvenite-im-greshki-2470118",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
+      "title": "Скандал в Германия: играч на Аугсбург стана жертва на расизъм, клубът с остра реакция 25 Окт | 22:49",
+      "url": "https://dsport.bg/skandal-v-germania-igrach-na-augsburg-stana-zertva-na-rasizam-klubat-s-ostra-reakcia~243144.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301768416.og.jpg"
     },
     {
-      "title": "Почина Александър Джеров – един от създателите на българската Конституция",
-      "url": "https://dariknews.bg/novini/bylgariia/pochina-aleksandyr-dzherov-edin-ot-syzdatelite-na-bylgarskata-konstituciia-2470119",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51401/51401557/991-ratio-aleksandyr-dzherov.jpg"
+      "title": "Крадци ошушкаха звезда на Наполи след дерби мача с Рома 25 Окт | 22:14",
+      "url": "https://dsport.bg/kradci-oshushkaha-zvezda-na-napoli-po-vreme-na-derbi-macha-s-roma~243143.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2277984045.og.jpg"
     },
     {
-      "title": "Председател на секция в Истанбул се оттегли, защото не владее български език",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/predsedatel-na-sekciia-v-istanbul-se-ottegli-zashtoto-ne-vladee-bylgarski-ezik-2470117",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51401/51401083/991-ratio-biuletini-izbori.jpg"
+      "title": "Пробив за Русия в световния спорт: Москва получи домакинство на световно първенство през 2030 година 25 Окт | 21:39",
+      "url": "https://dsport.bg/probiv-za-rusia-v-svetovnia-sport-moskva-poluchi-domakinstvo-na-svetovno-parvenstvo-prez-2030-godina~243142.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2292496238.og.jpg"
     },
     {
-      "title": "26 октомври ще е неучебен, но присъствен ден в училищата",
-      "url": "https://dariknews.bg/novini/bylgariia/26-oktomvri-shte-e-neucheben-no-prisystven-den-v-uchilishtata-2470116",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50932/50932218/991-ratio-uchenici-uchilishte.jpg"
+      "title": "Три гола за 27 минути и куп пропуски при успех на Реал Сосиедад 25 Окт | 21:22",
+      "url": "https://dsport.bg/tri-gola-za-27-minuti-i-kup-propuski-pri-uspeh-na-real-sosiedad~243141.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301967239.og.jpg"
     },
     {
-      "title": "Катастрофа с бус и кола край Мездра",
-      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-s-bus-i-kola-kraj-mezdra-2470115",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51389/51389754/991-ratio-katastrofa-patrulka-stara-zagora.jpg"
+      "title": "Роден в България, израснал във Франция: Христо Попов написа история и ще бъде №1 в света 25 Окт | 21:16",
+      "url": "https://dsport.bg/oden-v-balgaria-izrasnal-vav-francia-hristo-popov-napisa-istoria-i-ste-bade-1-v-sveta~243140.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2086402292.og.jpg"
     },
     {
       "title": "Ювентус си припомни какво е победа в Серия А 25 Окт | 21:02",
@@ -147,69 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/gettyimages-2301958376.og.jpg"
-    },
-    {
-      "title": "На живо: Барселона - Реал Мадрид (Съставите) 25 Окт | 20:47",
-      "url": "https://dsport.bg/na-zivo-barselona-real-madrid-sastavite~243138.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/finali-ekt~14.og.png"
-    },
-    {
-      "title": "Байерн Мюнхен потрепери малко за победа срещу Фрайбург (ВИДЕО) 25 Окт | 20:25",
-      "url": "https://dsport.bg/baiern-munhen-potreperi-v-kraa-za-pobeda-srestu-fraiburg~243135.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2301951682.og.jpg"
-    },
-    {
-      "title": "Илия Груев остана резерва при нулево равенство на Лийдс срещу последния във Висшата лига (ВИДЕО) 25 Окт | 20:23",
-      "url": "https://dsport.bg/ilia-gruev-ostana-rezerva-pri-nulevo-ravenstvo-na-liids-srestu-poslednia-vav-visshata-liga~243137.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2301954811.og.jpg"
-    },
-    {
-      "title": "Седем гола и невероятен финал във Франция: Марсилия трепери след 4:0, Рен се завърна с победа 25 Окт | 20:16",
-      "url": "https://dsport.bg/sedem-gola-i-neveroaten-final-vav-francia-marsilia-treperi-sled-4-0-ren-se-zavarna-s-pobeda~243136.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot_3~190.og.jpg"
-    },
-    {
-      "title": "Гьозтепе на Мъри Стоилов се засили в Турция, измирци с трета поредна победа 25 Окт | 19:56",
-      "url": "https://dsport.bg/goztepe-na-mari-stoilov-se-zasili-v-turcia-izmirci-s-treta-poredena-pobeda~243134.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2173259074-1-2-2-1-2-1~1.og.jpg"
-    },
-    {
-      "title": "Яник Синер с нова изгора? 25 Окт | 19:44",
-      "url": "https://dsport.bg/anik-siner-s-nova-izgora~243133.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/fotojet-93-.og.jpg"
-    },
-    {
-      "title": "Карик обиколи „Олд Трафорд“ след унизителната загуба, но отрече, че се сбогува с феновете 25 Окт | 19:27",
-      "url": "https://dsport.bg/karik-obikoli-old-traford-sled-unizitelnata-zaguba-no-otreche-che-se-sboguva-s-fenovete~243132.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2301939745.og.jpg"
-    },
-    {
-      "title": "В Сърбия гласуват масово и играят футбол, Цървена звезда победи в изборния ден 25 Окт | 19:06",
-      "url": "https://dsport.bg/v-sarbia-glasuvat-masovo-i-igraat-futbol-carvena-zvezda-pobedi-v-izbornia-den~243131.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot_1~240.og.jpg"
-    },
-    {
-      "title": "Триумф: Алекс Грозданов и Богданка взеха Суперкупата на Полша 25 Окт | 19:03",
-      "url": "https://dsport.bg/triumf-aleks-grozdanov-i-bogdanka-vzeha-superkupata-na-polsha~243129.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/hvrixwvxkaalkla.og.jpg"
     }
   ]
 }
