@@ -1,9 +1,44 @@
 {
-  "updated": "2026-10-28T19:41:21.205109+00:00",
+  "updated": "2026-10-28T23:33:17.398006+00:00",
   "articles": [
     {
-      "title": "Близо 20 контейнера от ударения от дронове кораб плават в морето",
-      "url": "https://dariknews.bg/regioni/varna/blizo-20-kontejnera-ot-udareniia-ot-dronove-korab-plavat-v-moreto-2470485",
+      "title": "Инцидент с ученически автобус в Плевен завърши с музикален поздрав (ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/pleven/incident-s-uchenicheski-avtobus-v-pleven-zavyrshi-s-muzikalen-pozdrav-video-2470491",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403547/991-ratio-pozharna.jpg"
+    },
+    {
+      "title": "Неочаквани предателства разтърсиха Канарите в „Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/neochakvani-predatelstva-raztyrsiha-kanarite-v-igri-na-voliata-2470490",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403545/991-ratio-uragani.jpg"
+    },
+    {
+      "title": "МВнР: Предстои блокада на „Капитан Андреево“ и „Лесово“ на границата с Турция",
+      "url": "https://dariknews.bg/novini/bylgariia/mvnr-predstoi-blokada-na-kapitan-andreevo-i-lesovo-na-granicata-s-turciia-2470489",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403543/991-ratio-tirove.jpg"
+    },
+    {
+      "title": "„Да, България\" ще обжалва решението на ЦИК, че Радев не е нарушил изборните правила",
+      "url": "https://dariknews.bg/novini/bylgariia/da-bylgariia-shte-obzhalva-reshenieto-na-cik-che-radev-ne-e-narushil-izbornite-pravila-2470488",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403541/991-ratio-da-bylgariia.jpg"
+    },
+    {
+      "title": "ЦИК след разпален дебат и оспорван вот: Няма нарушение в изказването на Радев",
+      "url": "https://dariknews.bg/novini/bylgariia/cik-sled-razpalen-debat-i-osporvan-vot-niama-narushenie-v-izkazvaneto-na-radev-2470486",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "20 контейнера от ударения кораб остават в морето, спасените моряци пристигнаха във Варна",
+      "url": "https://dariknews.bg/regioni/varna/20-kontejnera-ot-udareniia-korab-ostavat-v-moreto-spasenite-moriaci-pristignaha-vyv-varna-2470485",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51403/51403519/991-ratio-kontraadmiral-kiril-mihajlov.jpg"
@@ -107,109 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51123/51123975/991-ratio-mvnr.jpg"
     },
     {
-      "title": "Кметът на каварненското село Българево: Три гърмежа се чуха край нос Калиакра, хората са притеснени",
-      "url": "https://dariknews.bg/regioni/dobrich/kmetyt-na-kavarnenskoto-selo-bylgarevo-tri-gyrmezha-se-chuha-kraj-nos-kaliakra-horata-sa-pritesneni-2470467",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Специализирана операция срещу купуването на гласове във Врачанско",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/specializirana-operaciia-sreshtu-kupuvaneto-na-glasove-vyv-vrachansko-2470465",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50612/50612870/991-ratio-mvr-kat-policiia.jpg"
-    },
-    {
-      "title": "Разбиха нелегална фабрика за цигари в Словения с българска следа (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/razbiha-nelegalna-fabrika-za-cigari-v-sloveniia-s-bylgarska-sleda-video-2470464",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50371/50371985/991-ratio-sloveniia-policiia.jpg"
-    },
-    {
-      "title": "Разбиха престъпна група за трафик на мигранти през България (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/razbiha-prestypna-grupa-za-trafik-na-migranti-prez-bylgariia-snimki-2470463",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403400/991-ratio-grupa-migranti.jpg"
-    },
-    {
-      "title": "България се присъединява към международна инициатива за противовъздушна отбрана",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-se-prisyediniava-kym-mezhdunarodna-iniciativa-za-protivovyzdushna-otbrana-2470460",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403397/991-ratio-ministerski-syvet.jpg"
-    },
-    {
-      "title": "Два автогола и два незачетени гола помогнаха на Интер да си тръгне с победа от моста на въздишките 28 Окт | 21:32",
-      "url": "https://dsport.bg/dva-avtogola-i-dva-nezacheteni-gola-pomognaha-na-inter-da-si-tragne-s-pobeda-ot-mosta-na-vazdishkite~243370.html",
+      "title": "Без големи сблъсъци на 1/4-финалите за Карабао Къп 29 Окт | 00:51",
+      "url": "https://dsport.bg/bez-golemi-sblasaci-na-1-4-finalite-za-karabao-kap~243387.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302419295.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302445194.og.jpg"
     },
     {
-      "title": "Белгийски хеттрик потопи Милан, Болоня превзе „Сан Сиро“ след два обрата и шестголов спектакъл 28 Окт | 21:23",
-      "url": "https://dsport.bg/belgiiski-hettrik-potopi-milan-bolona-prevze-san-siro-sled-dva-obrata-i-shestgolov-spektakal~243369.html",
+      "title": "Станка Златева: От този момент нататък нямам желание да работя за българската борба 29 Окт | 00:41",
+      "url": "https://dsport.bg/stanka-zlateva-ot-tozi-moment-natatak-namam-zelanie-da-rabota-za-balgarskata-borba~243386.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302409855.og.jpg"
+      "image": "https://dsport.bg/media/387/741975-1-2-1-1.og.jpg"
     },
     {
-      "title": "Нов резил за Шалке: втородивизионен тим изхвърли „кралскосините“ от Купата на Германия 28 Окт | 21:08",
-      "url": "https://dsport.bg/nov-rezil-za-shalke-vtorodivizionen-tim-izhvarli-kralskosinite-ot-kupata-na-germania~243368.html",
+      "title": "Кошмар за Унай Емери и Астън Вила за Карабао Къп 29 Окт | 00:24",
+      "url": "https://dsport.bg/koshmar-za-unai-emeri-i-astan-vila-za-karabao-kap~243385.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302419446.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302437451.og.jpg"
     },
     {
-      "title": "На живо: Ливърпул – Челси (Състави) 28 Окт | 21:01",
+      "title": "Ливърпул взе скалпа на Челси по пътя към 1/4-финалите за Карабао Къп 29 Окт | 00:13",
       "url": "https://dsport.bg/na-zivo-livarpul-chelsi-sastavi~243367.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/theyday123.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2302443773.og.jpg"
     },
     {
-      "title": "Дирк Каут застана временно начело на Фенербахче 28 Окт | 20:51",
-      "url": "https://dsport.bg/dirk-kaut-zastana-vremenno-nachelo-na-fenerbahche~243366.html",
+      "title": "Ученикът надви учителя: Де Роси остави Спалети и Ювентус на 11 точки от върха 28 Окт | 23:54",
+      "url": "https://dsport.bg/uchenikat-nadvi-uchitela-de-rosi-ostavi-spaleti-i-uventus-na-11-tochki-ot-varha~243383.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-1243087880~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2301924604.og.jpg"
     },
     {
-      "title": "Нови разкрития за Компани: извадил е рамо и е получил гърчове след колапса 28 Окт | 20:34",
-      "url": "https://dsport.bg/novi-razkritia-za-kompani-izvadil-e-ramo-i-e-poluchil-garchove-sled-kolapsa~243365.html",
+      "title": "Байерн поздрави Кейн за „Златната топка“ с шест гола за Купата 28 Окт | 23:49",
+      "url": "https://dsport.bg/baiern-pozdravi-kein-za-zlatnata-topka-s-shest-gola-za-kupata~243381.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2290672447.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302428431.og.jpg"
     },
     {
-      "title": "Иван Турицов е на финал за Купата на Грузия, бивш нападател на ЦСКА блесна 28 Окт | 20:27",
-      "url": "https://dsport.bg/ivan-turicov-e-na-final-za-kupata-na-gruzia-bivsh-napadatel-na-cska-blesna~243363.html",
+      "title": "Валентин Антов с първи минути в Серия А, но Наполи разгроми Монца 28 Окт | 23:48",
+      "url": "https://dsport.bg/valentin-antov-s-parvi-minuti-v-seria-a-no-napoli-razgromi-monca~243382.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/dinamo-batumi-full-time-celebration.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2302435445.og.jpg"
     },
     {
-      "title": "Новак Джокович се нуждаеше от три сета, за да започне с победа в Базел 28 Окт | 20:24",
-      "url": "https://dsport.bg/novak-dzokovich-se-nuzdaeshe-ot-tri-seta-za-da-zapochne-s-pobeda-v-bazel~243364.html",
+      "title": "Манчестър Сити оцеля и пребори Брайтън с дузпи 28 Окт | 23:36",
+      "url": "https://dsport.bg/manchestar-siti-ocela-i-prebori-braitan-s-duzpi~243380.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2298254161~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302428829.og.jpg"
     },
     {
-      "title": "Ламин Ямал с мощно послание след Златната топка: Моето време ще дойде 28 Окт | 20:12",
-      "url": "https://dsport.bg/lamin-amal-s-mostno-poslanie-sled-zlatnata-topka-moeto-vreme-ste-doide~243362.html",
+      "title": "Апоел Тел Авив вкара 118 точки в коша на Анадолу Ефес в Ботевград 28 Окт | 23:05",
+      "url": "https://dsport.bg/apoel-tel-aviv-vkara-118-tochki-v-kosha-na-anadolu-efes-v-botevgrad~243379.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2295575982-1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2256748556-1-1~1.og.jpg"
     },
     {
-      "title": "Роналдо победи Меси за най-великата „Златна топка“ 28 Окт | 20:10",
-      "url": "https://dsport.bg/ronaldo-pobedi-mesi-za-nai-velikata-zlatna-topka~243361.html",
+      "title": "България U15 загуби от Уелс на Световното, среща Кения в Баку 28 Окт | 23:05",
+      "url": "https://dsport.bg/balgaria-u15-zagubi-ot-uels-na-svetovnoto-sresta-kenia-v-baku~243378.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-83986162.og.jpg"
+      "image": "https://dsport.bg/media/387/image_1793209486_92702.og.jpeg"
     }
   ]
 }
