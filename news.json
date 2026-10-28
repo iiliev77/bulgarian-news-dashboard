@@ -1,145 +1,173 @@
 {
-  "updated": "2026-10-28T01:49:01.652292+00:00",
+  "updated": "2026-10-28T07:31:53.396341+00:00",
   "articles": [
     {
-      "title": "Първи резултати от изборите в Израел: Опозицията води, но няма мнозинство",
-      "url": "https://dariknews.bg/novini/sviat/pyrvi-rezultati-ot-izborite-v-izrael-opoziciiata-vodi-no-niama-mnozinstvo-2470368",
+      "title": "Стоянов преди срещата за Черноморския регион: България ще предложи засилване на координацията",
+      "url": "https://dariknews.bg/novini/bylgariia/stoianov-predi-sreshtata-za-chernomorskiia-region-bylgariia-shte-predlozhi-zasilvane-na-koordinaciiata-2470392",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51357/51357378/991-ratio-dimityr-stoianov.jpg"
+    },
+    {
+      "title": "Вучич: Новото правителство, което ще бъде сформирано от Студентската листа, ще бъде антисръбско",
+      "url": "https://dariknews.bg/novini/sviat/vuchich-novoto-pravitelstvo-koeto-shte-byde-sformirano-ot-studentskata-lista-shte-byde-antisrybsko-2470391",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50610/50610926/991-ratio-aleksandyr-vuchich.jpg"
+    },
+    {
+      "title": "Прокуратурата предаде на съд двама дилъри на фентанил и метамфетамин",
+      "url": "https://dariknews.bg/regioni/sofiia/prokuraturata-predade-na-syd-dvama-dilyri-na-fentanil-i-metamfetamin-2470390",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51138/51138045/991-ratio-fentanil.jpg"
+    },
+    {
+      "title": "Помагат ли наистина добавките с витамин B12 за здравето на сърцето",
+      "url": "https://dariknews.bg/novini/liubopitno/pomagat-li-naistina-dobavkite-s-vitamin-b12-za-zdraveto-na-syrceto-2470388",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/39310/39310634/991-ratio-b12.jpg"
+    },
+    {
+      "title": "Корабът „Хорив“ навлезе в българската икономическа зона в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/korabyt-horiv-navleze-v-bylgarskata-ikonomicheska-zona-v-cherno-more-2470389",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395348/991-ratio-tyrgovski-korab-cherno-more.jpg"
+    },
+    {
+      "title": "Разкриха незаконно сечище във Видинско, има задържани (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/vidin/razkriha-nezakonno-sechishte-vyv-vidinsko-ima-zadyrzhani-snimki-2470387",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403219/991-ratio-nezakonno-sechishte-vidinsko.jpg"
+    },
+    {
+      "title": "Внучката на Томас Маркъл проговори след обвиненията срещу него: „Нещо не беше наред“",
+      "url": "https://dariknews.bg/novini/sviat/vnuchkata-na-tomas-markyl-progovori-sled-obvineniiata-sreshtu-nego-neshto-ne-beshe-nared-2470386",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45618/45618726/991-ratio-razsledvane-lupa-dokumenti.jpg"
+    },
+    {
+      "title": "Флавио Болсонаро напусна Бразилия на фона на съдебно разследване",
+      "url": "https://dariknews.bg/novini/sviat/flavio-bolsonaro-napusna-braziliia-na-fona-na-sydebno-razsledvane-2470385",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51094/51094275/991-ratio-bolsonaro.jpg"
+    },
+    {
+      "title": "„Това дело беше второто убийство на Милен Цветков”: Болката на близките 6 години след трагедията",
+      "url": "https://dariknews.bg/novini/bylgariia/tova-delo-beshe-vtoroto-ubijstvo-na-milen-cvetkov-bolkata-na-blizkite-6-godini-sled-tragediiata-2470384",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Танцьорката Жани Горанова беше елиминирана от „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/tanciorkata-zhani-goranova-beshe-eliminirana-ot-igri-na-voliata-2470365",
+      "title": "НАТО и Франция засилват морското наблюдение край бреговете на Румъния",
+      "url": "https://dariknews.bg/novini/sviat/nato-i-franciia-zasilvat-morskoto-nabliudenie-kraj-bregovete-na-rumyniia-2470383",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403065/991-ratio-igri-na-voliata.jpg"
+      "image": "https://m.netinfo.bg/media/images/51174/51174912/991-ratio-nato.jpg"
     },
     {
-      "title": "Обвиниха данъчни инспектори за подкупи и нарушения при проверки в дискотека „Пулс“",
-      "url": "https://dariknews.bg/novini/sviat/obviniha-danychni-inspektori-za-podkupi-i-narusheniia-pri-proverki-v-diskoteka-puls-2470364",
+      "title": "Доклад за състоянието на безопасността по пътищата ще обсъди Министерският съвет",
+      "url": "https://dariknews.bg/novini/bylgariia/doklad-za-systoianieto-na-bezopasnostta-po-pytishtata-shte-obsydi-ministerskiiat-syvet-2470382",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51058/51058279/991-ratio-opozharenata-diskoteka-v-kochani.jpg"
+      "image": "https://m.netinfo.bg/media/images/50484/50484635/991-ratio-ministerski-syvet-sgrada.jpg"
     },
     {
-      "title": "Дъщерята на Слави Бинев: Той беше боец, но този път дори не получи възможност да се бори",
-      "url": "https://dariknews.bg/novini/obshtestvo/dyshteriata-na-slavi-binev-toj-beshe-boec-no-tozi-pyt-dori-ne-poluchi-vyzmozhnost-da-se-bori-2470363",
+      "title": "Задържаха трима души за подготовка на масова стрелба в гимназия в Атланта",
+      "url": "https://dariknews.bg/novini/sviat/zadyrzhaha-trima-dushi-za-podgotovka-na-masova-strelba-v-gimnaziia-v-atlanta-2470380",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400698/991-ratio-slavi-binev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51403/51403210/991-ratio-policiia-sasht.jpg"
     },
     {
-      "title": "Съдът остави в ареста 20-годишния шофьор след катастрофата с четири жертви край Плевен",
-      "url": "https://dariknews.bg/regioni/pleven/sydyt-ostavi-v-aresta-20-godishniia-shofior-sled-katastrofata-s-chetiri-zhertvi-kraj-pleven-2470362",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51126/51126323/991-ratio-syd-chuk.jpg"
-    },
-    {
-      "title": "Мелания Тръмп: Обхватът на примирието между Украйна и Русия се разширява",
-      "url": "https://dariknews.bg/novini/sviat/melaniia-trymp-obhvatyt-na-primirieto-mezhdu-ukrajna-i-rusiia-se-razshiriava-2470361",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51302/51302161/991-ratio-melaniia.jpg"
-    },
-    {
-      "title": "Протест срещу предсрочното освобождаване на Кристиан Николов, осъден за смъртта на Милен Цветков",
-      "url": "https://dariknews.bg/novini/obshtestvo/protest-sreshtu-predsrochnoto-osvobozhdavane-na-kristian-nikolov-osyden-za-smyrtta-na-milen-cvetkov-2470360",
+      "title": "Психично болна жена буйства и напада хора във Варна (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/psihichno-bolna-zhena-bujstva-i-napada-hora-vyv-varna-video-2470381",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Горящ автомобил затруднява движението по АМ „Струма“",
-      "url": "https://dariknews.bg/novini/bylgariia/goriasht-avtomobil-zatrudniava-dvizhenieto-po-am-struma-2470359",
+      "title": "Украинската армия си върна територии след контраофанзива в Харковска област",
+      "url": "https://dariknews.bg/novini/sviat/ukrainskata-armiia-si-vyrna-teritorii-sled-kontraofanziva-v-harkovska-oblast-2470379",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/44079/44079342/991-ratio-goriashta-kola.jpg"
+      "image": "https://m.netinfo.bg/media/images/51392/51392548/991-ratio-volodimir-zelenski.jpg"
     },
     {
-      "title": "Родителите на починалото в „Пирогов“ момче: Чакахме два часа пред кабинета",
-      "url": "https://dariknews.bg/regioni/sofiia/roditelite-na-pochinaloto-v-pirogov-momche-chakahme-dva-chasa-pred-kabineta-2470358",
+      "title": "Терористична атака край израелското посолство в Белград, ранен е полицай",
+      "url": "https://dariknews.bg/novini/sviat/teroristichna-ataka-kraj-izraelskoto-posolstvo-v-belgrad-ranen-e-policaj-2470377",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403199/991-ratio-izraelskoto-posolstvo-v-belgrad.jpg"
+    },
+    {
+      "title": "Тръмп загатна за скорошна среща между Путин и Зеленски",
+      "url": "https://dariknews.bg/novini/sviat/trymp-zagatna-za-skoroshna-sreshta-mezhdu-putin-i-zelenski-2470376",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403200/991-ratio-donald-trymp.jpg"
+    },
+    {
+      "title": "Тежка катастрофа на пътя Русе – София: Автобус с пътници и два камиона се запалиха, двама души загинаха (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/tezhka-katastrofa-na-pytia-ruse-sofiia-avtobus-s-pytnici-i-dva-kamiona-se-zapaliha-dvama-dushi-zaginaha-video-2470378",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Почина жената, транспортирана с въздушна линейка след катастрофа във Великотърновско",
-      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/pochina-zhenata-transportirana-s-vyzdushna-linejka-sled-katastrofa-vyv-velikotyrnovsko-2470357",
+      "title": "КЕВР обсъжда предложението на „Булгаргаз“ за 34% скок на природния газ през ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/kevr-obsyzhda-predlozhenieto-na-bulgargaz-za-34-skok-na-prirodniia-gaz-prez-noemvri-2470374",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393634/991-ratio-medicinski-helikopter.jpg"
+      "image": "https://m.netinfo.bg/media/images/49923/49923385/991-ratio-stanislav-todorov-kevr.jpg"
     },
     {
-      "title": "Преобърнатият кораб „Хорив“ се очаква да навлезе в българска зона",
-      "url": "https://dariknews.bg/novini/bylgariia/preobyrnatiiat-korab-horiv-se-ochakva-da-navleze-v-bylgarska-zona-2470356",
+      "title": "Патова ситуация в Израел, след като никоя партия не си осигури мнозинство на изборите",
+      "url": "https://dariknews.bg/novini/sviat/patova-situaciia-v-izrael-sled-kato-nikoia-partiia-ne-si-osiguri-mnozinstvo-na-izborite-2470373",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39599/39599789/991-ratio-taktichesko-uchenie-cherno-more.jpg"
+      "image": "https://m.netinfo.bg/media/images/51403/51403196/991-ratio-izbori-izrael.jpg"
     },
     {
-      "title": "Почина актрисата Сюзън Сейнт Джеймс",
-      "url": "https://dariknews.bg/novini/sviat/pochina-aktrisata-siuzyn-sejnt-dzhejms-2470355",
+      "title": "След поражението в Бразилия: Флавио Болсонаро вече е в САЩ",
+      "url": "https://dariknews.bg/novini/sviat/sled-porazhenieto-v-braziliia-flavio-bolsonaro-veche-e-v-sasht-2470375",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51402/51402764/991-ratio-siuzyn-sejnt-dzhejms.jpg"
+      "image": "https://m.netinfo.bg/media/images/51403/51403198/640-420-flavio-bolsonaro.jpg"
     },
     {
-      "title": "19-годишен мъж преби жена си в центъра на София, оказа съпротива на полицаите (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/19-godishen-myzh-prebi-zhena-si-v-centyra-na-sofiia-okaza-syprotiva-na-policaite-snimki-2470354",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51402/51402752/991-ratio-boj-sofiia.jpg"
+      "title": "Бивш треньор на Лудогорец опция за младежите на Швеция 28 Окт | 09:24",
+      "url": "https://dsport.bg/bivsh-trenor-na-ludogorec-poema-mladezite-na-shvecia~243316.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/904295.og.jpg"
     },
     {
-      "title": "Заради лоша хигиена: БАБХ затвори кухня майка на търговска верига у нас",
-      "url": "https://dariknews.bg/novini/bylgariia/zaradi-losha-higiena-babh-zatvori-kuhnia-majka-na-tyrgovska-veriga-u-nas-2470352",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Английски национал стана жертва на дързък обир 28 Окт | 08:54",
+      "url": "https://dsport.bg/angliiski-nacional-stana-zertva-na-darzak-obir~243315.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2299679963.og.jpg"
     },
     {
-      "title": "Сливен и Ямбол начело по плодовитост в Европа",
-      "url": "https://dariknews.bg/novini/bylgariia/sliven-i-iambol-nachelo-po-plodovitost-v-evropa-2470353",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34747/34747600/991-ratio-hora-ulica-tylpa.jpg"
+      "title": "Артета побесня след изгонването на младок 28 Окт | 08:35",
+      "url": "https://dsport.bg/mikel-arteta-arsenal-max-dowman~243314.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302290718.og.jpg"
     },
     {
-      "title": "Земята се разлюля край Благоевград: Регистрираха слабо земетресение (КАРТА)",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/zemiata-se-razliulia-kraj-blagoevgrad-registriraha-slabo-zemetresenie-karta-2470351",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
-    },
-    {
-      "title": "Мощният циклон „Арнаб“ връхлита Индия: Евакуират стотици хиляди души",
-      "url": "https://dariknews.bg/novini/sviat/moshtniiat-ciklon-arnab-vryhlita-indiia-evakuirat-stotici-hiliadi-dushi-2470348",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/37231/37231745/991-ratio-ciklon.jpg"
-    },
-    {
-      "title": "Премиерът Радев посочи грешка ли е било съобщението на МС в подкрепа на Йотова (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-radev-posochi-greshka-li-e-bilo-syobshtenieto-na-ms-v-podkrepa-na-iotova-video-2470349",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Турция се стреми към добив от 1 млн. барела петрол и газ дневно",
-      "url": "https://dariknews.bg/novini/sviat/turciia-se-stremi-kym-dobiv-ot-1-mln.-barela-petrol-i-gaz-dnevno-2470345",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50546/50546698/991-ratio-chiren-gaz.jpg"
-    },
-    {
-      "title": "Депутатите се събират извънредно в сряда",
-      "url": "https://dariknews.bg/novini/bylgariia/deputatite-se-sybirat-izvynredno-v-sriada-2470347",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51309/51309721/991-ratio-parlament-narodno-sybranie.jpg"
+      "title": "50/50: Цолов или Лоусън ще кара за Рейсинг Булс догодина? 28 Окт | 08:12",
+      "url": "https://dsport.bg/nikola-colov-red-bull-racing-bulls-liam-lawson-2027~243313.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2294671501.og.jpg"
     },
     {
       "title": "Григор Димитров се бори, но загуби във Виена от 6-ия в света 28 Окт | 00:49",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/gettyimages-2302288836.og.jpg"
-    },
-    {
-      "title": "Елверсберг на Лукас Петков аут от Купата на Германия 27 Окт | 23:41",
-      "url": "https://dsport.bg/elversberg-na-lukas-petkov-aut-ot-kupata-na-germania~243304.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302276486.og.jpg"
-    },
-    {
-      "title": "Рома претърпя сътресение с Каляри, но измъкна победата с два късни гола 27 Окт | 23:38",
-      "url": "https://dsport.bg/roma-pretarpa-satresenie-s-kalari-no-izmakna-pobedata-s-dva-kasni-gola~243305.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302278108.og.jpg"
-    },
-    {
-      "title": "Българин с добър мач под рамката на Сампдория, но генуезците отново загубиха 27 Окт | 23:17",
-      "url": "https://dsport.bg/balgarin-s-dobar-mach-pod-ramkata-na-sampdoria-no-genuezcite-otnovo-zagubiha~243303.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/fotosportmedia_282101-2048x1366-1-1~1.og.webp"
-    },
-    {
-      "title": "Абу Даби приема Финалната четворка в Евролигата през 2027-а и 2029-а 27 Окт | 23:07",
-      "url": "https://dsport.bg/abu-dabi-priema-finalnata-chetvorka-v-evroligata-prez-2027-a-i-2029-a~243302.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2154509031-2~1.og.jpg"
     }
   ]
 }
