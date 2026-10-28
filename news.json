@@ -1,6 +1,76 @@
 {
-  "updated": "2026-10-28T14:23:41.408293+00:00",
+  "updated": "2026-10-28T19:41:21.205109+00:00",
   "articles": [
+    {
+      "title": "Близо 20 контейнера от ударения от дронове кораб плават в морето",
+      "url": "https://dariknews.bg/regioni/varna/blizo-20-kontejnera-ot-udareniia-ot-dronove-korab-plavat-v-moreto-2470485",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403519/991-ratio-kontraadmiral-kiril-mihajlov.jpg"
+    },
+    {
+      "title": "Историческо: Никола Цолов ще участва в официална тренировка от Формула 1",
+      "url": "https://dariknews.bg/novini/sviat/istorichesko-nikola-colov-shte-uchastva-v-oficialna-trenirovka-ot-formula-1-2470484",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387812/991-ratio-nikola-colov.jpg"
+    },
+    {
+      "title": "Изграждат градина „Яна Язова“ в квартал „Витоша – ВЕЦ Симеоново“ (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/izgrazhdat-gradina-iana-iazova-v-kvartal-vitosha-vec-simeonovo-snimki-2470483",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403468/991-ratio-detska-gradina.jpg"
+    },
+    {
+      "title": "Областният управител на Варна: Няма информация корабът CONTSHIP JET да е потънал",
+      "url": "https://dariknews.bg/novini/bylgariia/oblastniiat-upravitel-na-varna-niama-informaciia-korabyt-contship-jet-da-e-potynal-2470480",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403484/991-ratio-mario-smyrkov.jpg"
+    },
+    {
+      "title": "Шефът на затвора в София обжалва предсрочното освобождаване на Кристиан Николов",
+      "url": "https://dariknews.bg/regioni/sofiia/shefyt-na-zatvora-v-sofiia-obzhalva-predsrochnoto-osvobozhdavane-na-kristian-nikolov-2470479",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399707/991-ratio-kristian-nikolov-milen-cvetkov.jpg"
+    },
+    {
+      "title": "Няма данни за пострадали българи при влаковата катастрофа в Испания",
+      "url": "https://dariknews.bg/novini/sviat/niama-danni-za-postradali-bylgari-pri-vlakovata-katastrofa-v-ispaniia-2470478",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403478/991-ratio-vlakova-katastrofa-ispaniia.jpg"
+    },
+    {
+      "title": "АПИ ще дава ежеседмична информация за ремонта на тунел „Топли дол“ на АМ „Хемус“",
+      "url": "https://dariknews.bg/novini/api-shte-dava-ezhesedmichna-informaciia-za-remonta-na-tunel-topli-dol-na-am-hemus-2470477",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50672/50672573/991-ratio-tunel-topli-dol.jpg"
+    },
+    {
+      "title": "Николай Денков: Защо войната се приближава до българската граница",
+      "url": "https://dariknews.bg/novini/bylgariia/nikolaj-denkov-zashto-vojnata-se-priblizhava-do-bylgarskata-granica-2470476",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51368/51368054/991-ratio-nikolaj-denkov-miroslav-ivanova.jpg"
+    },
+    {
+      "title": "„Все едно съобщи програмата за НГ на военния канал“: Опозицията гневна след атаките в Черно море",
+      "url": "https://dariknews.bg/novini/bylgariia/vse-edno-syobshti-programata-za-ng-na-voenniia-kanal-opoziciiata-gnevna-sled-atakite-v-cherno-more-2470475",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403428/991-ratio-tribunka.jpg"
+    },
+    {
+      "title": "МС: Недостойно е лидери, носещи отговорност за тежкото състояние на финансите, да манипулират обществото",
+      "url": "https://dariknews.bg/novini/bylgariia/ms-nedostojno-e-lideri-noseshti-otgovornost-za-tezhkoto-systoianie-na-finansite-da-manipulirat-obshtestvoto-2470474",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51223/51223051/991-ratio-ministerski-syvet.jpg"
+    },
     {
       "title": "Част от квартал в София ще остане без топла вода",
       "url": "https://dariknews.bg/regioni/sofiia/chast-ot-kvartal-v-sofiia-shte-ostane-bez-topla-voda-2470472",
@@ -23,11 +93,11 @@
       "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
     },
     {
-      "title": "Тежка катастрофа с ТИР в Димитровградско, има загинал (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/haskovo/tezhka-katastrofa-s-tir-v-dimitrovgradsko-ima-zaginal-video-2470469",
+      "title": "Тежка катастрофа с ТИР в Димитровградско, има загинал (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/regioni/haskovo/tezhka-katastrofa-s-tir-v-dimitrovgradsko-ima-zaginal-snimkivideo-2470469",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50763/50763593/991-ratio-katastrofa-linejka-policiia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51403/51403456/991-ratio-gorski-izvor-katastrofa.jpg"
     },
     {
       "title": "МВнР: Изразяваме искрено съчувствие към семействата на жертвите след катастрофата в Испания",
@@ -72,144 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51403/51403397/991-ratio-ministerski-syvet.jpg"
     },
     {
-      "title": "Митничари задържаха над 6000 парфюма на известни марки край Скомля",
-      "url": "https://dariknews.bg/novini/mitnichari-zadyrzhaha-nad-6000-parfiuma-na-izvestni-marki-kraj-skomlia-2470461",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403398/991-ratio-mitnici-stoki.jpg"
-    },
-    {
-      "title": "Опит за преврат и напрегната битка за неприкосновеност в новия епизод на „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/opit-za-prevrat-i-napregnata-bitka-za-neprikosnovenost-v-noviia-epizod-na-igri-na-voliata-2470459",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403381/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "БАБХ затвори търговски обект в Пазарджик заради лоша хигиена",
-      "url": "https://dariknews.bg/novini/babh-zatvori-tyrgovski-obekt-v-pazardzhik-zaradi-losha-higiena-2470458",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39782/39782186/991-ratio-agenciia-po-hranite.jpg"
-    },
-    {
-      "title": "След атаката с дронове срещу контейнеровоз: има ли опасност за крайморските ни населени места",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-atakata-s-dronove-sreshtu-kontejnerovoz-ima-li-opasnost-za-krajmorskite-ni-naseleni-mesta-2470456",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50548/50548700/991-ratio-nos-kaliakra.jpg"
-    },
-    {
-      "title": "ЕК: Европейското законодателство не позволява възобновяване на руските горива",
-      "url": "https://dariknews.bg/novini/sviat/ek-evropejskoto-zakonodatelstvo-ne-pozvoliava-vyzobnoviavane-na-ruskite-goriva-2470455",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51122/51122223/991-ratio-ek.jpg"
-    },
-    {
-      "title": "ЕС предлага пълна подкрепа на Испания след тежката влакова катастрофа",
-      "url": "https://dariknews.bg/novini/sviat/es-predlaga-pylna-podkrepa-na-ispaniia-sled-tezhkata-vlakova-katastrofa-2470453",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50962/50962148/991-ratio-es.jpg"
-    },
-    {
-      "title": "Два тира се удариха челно на пътя София - Варна край Голец, движението е затруднено",
-      "url": "https://dariknews.bg/regioni/lovech/dva-tira-se-udariha-chelno-na-pytia-sofiia-varna-kraj-golec-dvizhenieto-e-zatrudneno-2470457",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51342/51342997/991-ratio-katastrofa-tir.jpg"
-    },
-    {
-      "title": "Костадинов показа видео от атаката край Шабла и поиска пълен неутралитет на България",
-      "url": "https://dariknews.bg/novini/bylgariia/kostadinov-pokaza-video-ot-atakata-kraj-shabla-i-poiska-pylen-neutralitet-na-bylgariia-2470454",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403360/991-ratio-udar-s-dron-video-shabla.jpg"
-    },
-    {
-      "title": "Малко мече се разходи по улица в Благоевград (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/blagoevgrad/malko-meche-se-razhodi-po-ulica-v-blagoevgrad-video-2470452",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35290/35290812/991-ratio-meche-mechka.jpg"
-    },
-    {
-      "title": "Тревожен доклад на властта за пътищата: Има напредък, но рисковете остават",
-      "url": "https://dariknews.bg/novini/bylgariia/trevozhen-doklad-na-vlastta-za-pytishtata-ima-napredyk-no-riskovete-ostavat-2470451",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51386/51386363/991-ratio-tezhka-katastrofa-s-tri-zhertvi-na-pytia-kazanlyk-stara-zagora.jpg"
-    },
-    {
-      "title": "Левски обяви назначението на директор по приходите 28 Окт | 16:03",
-      "url": "https://dsport.bg/levski-obavi-naznachenieto-na-direktor-po-prihodite~243341.html",
+      "title": "Два автогола и два незачетени гола помогнаха на Интер да си тръгне с победа от моста на въздишките 28 Окт | 21:32",
+      "url": "https://dsport.bg/dva-avtogola-i-dva-nezacheteni-gola-pomognaha-na-inter-da-si-tragne-s-pobeda-ot-mosta-na-vazdishkite~243370.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/nhnvf.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302419295.og.jpg"
     },
     {
-      "title": "Арсенал ще обжалва червения картон на Макс Дауман 28 Окт | 15:57",
-      "url": "https://dsport.bg/arsenal-ste-obzalva-chervenia-karton-na-maks-dauman~243340.html",
+      "title": "Белгийски хеттрик потопи Милан, Болоня превзе „Сан Сиро“ след два обрата и шестголов спектакъл 28 Окт | 21:23",
+      "url": "https://dsport.bg/belgiiski-hettrik-potopi-milan-bolona-prevze-san-siro-sled-dva-obrata-i-shestgolov-spektakal~243369.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302369549.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302409855.og.jpg"
     },
     {
-      "title": "Betwild: Една Гега, два Ролекса и хиляди причини да се чувстваш като цар 28 Окт | 15:42",
-      "url": "https://dsport.bg/betwild-edna-gega-dva-roleksa-i-hiladi-prichini-da-se-chuvstvash-kato-car~243339.html",
+      "title": "Нов резил за Шалке: втородивизионен тим изхвърли „кралскосините“ от Купата на Германия 28 Окт | 21:08",
+      "url": "https://dsport.bg/nov-rezil-za-shalke-vtorodivizionen-tim-izhvarli-kralskosinite-ot-kupata-na-germania~243368.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/betwild_gclass_1200x750.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2302419446.og.jpg"
     },
     {
-      "title": "Биляна Дудова ще се бори за бронзов медал на Световното 28 Окт | 15:40",
-      "url": "https://dsport.bg/bilana-dudova-ste-se-bori-za-bronzov-medal-na-svetovnoto~243338.html",
+      "title": "На живо: Ливърпул – Челси (Състави) 28 Окт | 21:01",
+      "url": "https://dsport.bg/na-zivo-livarpul-chelsi-sastavi~243367.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/652303~1.og.jpg"
+      "image": "https://dsport.bg/media/387/theyday123.og.png"
     },
     {
-      "title": "България U15 отстъпи на Еквадор след дузпи, продължава срещу Уелс 28 Окт | 15:33",
-      "url": "https://dsport.bg/balgaria-u15-otstapi-na-ekvador-sled-duzpi-prodalzava-srestu-uels~243337.html",
+      "title": "Дирк Каут застана временно начело на Фенербахче 28 Окт | 20:51",
+      "url": "https://dsport.bg/dirk-kaut-zastana-vremenno-nachelo-na-fenerbahche~243366.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/image_1793188188_59745.og.jpeg"
+      "image": "https://dsport.bg/media/387/gettyimages-1243087880~1.og.jpg"
     },
     {
-      "title": "Италиански журналист обясни вота си за „Златната топка“: Не исках Мбапе никога да не я спечели 28 Окт | 15:20",
-      "url": "https://dsport.bg/italianski-zurnalist-obasni-vota-si-za-zlatnata-topka-ne-iskah-mbape-nikoga-da-ne-a-specheli~243336.html",
+      "title": "Нови разкрития за Компани: извадил е рамо и е получил гърчове след колапса 28 Окт | 20:34",
+      "url": "https://dsport.bg/novi-razkritia-za-kompani-izvadil-e-ramo-i-e-poluchil-garchove-sled-kolapsa~243365.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-847964492.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2290672447.og.jpg"
     },
     {
-      "title": "Любовна драма в италианския тенис: Беретини и Музети в конфликт заради жена? 28 Окт | 15:04",
-      "url": "https://dsport.bg/lubovna-drama-v-italianskia-tenis-beretini-prespal-sas-saprugata-na-muzeti~243334.html",
+      "title": "Иван Турицов е на финал за Купата на Грузия, бивш нападател на ЦСКА блесна 28 Окт | 20:27",
+      "url": "https://dsport.bg/ivan-turicov-e-na-final-za-kupata-na-gruzia-bivsh-napadatel-na-cska-blesna~243363.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/fotojet-94-.og.jpg"
+      "image": "https://dsport.bg/media/387/dinamo-batumi-full-time-celebration.og.png"
     },
     {
-      "title": "Всички притежатели на фен карти на ЦСКА вече могат да купуват билети за „Армията“ 28 Окт | 14:59",
-      "url": "https://dsport.bg/vsichki-pritezateli-na-fen-karti-na-cska-veche-mogat-da-kupuvat-bileti-za-armiata~243335.html",
+      "title": "Новак Джокович се нуждаеше от три сета, за да започне с победа в Базел 28 Окт | 20:24",
+      "url": "https://dsport.bg/novak-dzokovich-se-nuzdaeshe-ot-tri-seta-za-da-zapochne-s-pobeda-v-bazel~243364.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot-2026-10-28-145917.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2298254161~1.og.jpg"
     },
     {
-      "title": "Китай отхвърли обясненията на Реал Мадрид за думите на Мбапе 28 Окт | 14:27",
-      "url": "https://dsport.bg/kitai-othvarli-obasneniata-na-real-madrid-za-dumite-na-mbape~243333.html",
+      "title": "Ламин Ямал с мощно послание след Златната топка: Моето време ще дойде 28 Окт | 20:12",
+      "url": "https://dsport.bg/lamin-amal-s-mostno-poslanie-sled-zlatnata-topka-moeto-vreme-ste-doide~243362.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2296303035~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2295575982-1.og.jpg"
     },
     {
-      "title": "Отложиха 24 мача за Купата на краля заради трагичния инцидент с влак в Толедо 28 Окт | 14:03",
-      "url": "https://dsport.bg/otloziha-24-macha-za-kupata-na-krala-zaradi-tragichnia-incident-s-vlak-v-toledo~243332.html",
+      "title": "Роналдо победи Меси за най-великата „Златна топка“ 28 Окт | 20:10",
+      "url": "https://dsport.bg/ronaldo-pobedi-mesi-za-nai-velikata-zlatna-topka~243361.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2136354662-1-.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-83986162.og.jpg"
     }
   ]
 }
