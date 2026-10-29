@@ -1,12 +1,96 @@
 {
-  "updated": "2026-10-29T15:48:44.880469+00:00",
+  "updated": "2026-10-29T20:40:50.858390+00:00",
   "articles": [
     {
-      "title": "Радев: В социалните мрежи ще чуете, че дронът е поне на 5 държави, но това са несериозни неща",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-v-socialnite-mrezhi-shte-chuete-che-dronyt-e-pone-na-5-dyrzhavi-no-tova-sa-neseriozni-neshta-2470591",
+      "title": "Защо не бе спасен контейнеровозът с 421 контейнера на борда? Ивайло Мирчев с 5 въпроса към управляващите",
+      "url": "https://dariknews.bg/novini/bylgariia/zashto-ne-be-spasen-kontejnerovozyt-s-421-kontejnera-na-borda-ivajlo-mirchev-s-5-vyprosa-kym-upravliavashtite-2470604",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51393/51393892/991-ratio-rumen-radev.jpg"
+      "image": "https://m.netinfo.bg/media/images/51254/51254158/991-ratio-ivajlo-mirchev.jpg"
+    },
+    {
+      "title": "Почина звездата от „Стар Трек“ Патрик Стюарт",
+      "url": "https://dariknews.bg/novini/sviat/pochina-zvezdata-ot-star-trek-patrik-stiuart-2470603",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404014/991-ratio-patrik-stiuart.jpg"
+    },
+    {
+      "title": "Гърция с остра реакция след атаката с морски дрон край България: Виновните трябва да понесат отговорност",
+      "url": "https://dariknews.bg/novini/sviat/gyrciia-s-ostra-reakciia-sled-atakata-s-morski-dron-kraj-bylgariia-vinovnite-triabva-da-ponesat-otgovornost-2470602",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51108/51108991/991-ratio-bylgariia-gyrciia.jpg"
+    },
+    {
+      "title": "Акция срещу изборните нарушения в Габровско доведе до разкриването на наркопрестъпления",
+      "url": "https://dariknews.bg/regioni/gabrovo/akciia-sreshtu-izbornite-narusheniia-v-gabrovsko-dovede-do-razkrivaneto-na-narkoprestypleniia-2470601",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Съдът пусна под „домашен арест“ кметовете на Сунгурларе и Белица",
+      "url": "https://dariknews.bg/novini/bylgariia/sydyt-pusna-pod-domashen-arest-kmetovete-na-sungurlare-i-belica-2470600",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403994/991-ratio-radoslav-revanski.jpg"
+    },
+    {
+      "title": "Путин: Русия е готова за евентуална война с Европа, но не желае такъв конфликт",
+      "url": "https://dariknews.bg/novini/sviat/putin-rusiia-e-gotova-za-eventualna-vojna-s-evropa-no-ne-zhelae-takyv-konflikt-2470599",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
+    },
+    {
+      "title": "Остри нападки, войната в Украйна и атаките в Черно море: Големият дебат Йотова – Гюров (НА ЖИВО)",
+      "url": "https://dariknews.bg/novini/bylgariia/ostri-napadki-vojnata-v-ukrajna-i-atakite-v-cherno-more-golemiiat-debat-iotova-giurov-na-zhivo-2470583",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403995/991-ratio-giurov-iotova.jpg"
+    },
+    {
+      "title": "Радев обсъди с еврокомисар Пьотър Серафин бюджета на България за 2027 г.",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-obsydi-s-evrokomisar-piotyr-serafin-biudzheta-na-bylgariia-za-2027-g-2470598",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403989/640-420-radev.jpg"
+    },
+    {
+      "title": "Хеликоптер на мисията на ЕС в Босна се разби в североизточната част на страната",
+      "url": "https://dariknews.bg/novini/sviat/helikopter-na-misiiata-na-es-v-bosna-se-razbi-v-severoiztochnata-chast-na-stranata-2470597",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51374/51374658/991-ratio-voenen-helikopter.jpg"
+    },
+    {
+      "title": "Бюджет 2027: Финансовото министерство с информация за оценката на ЕК",
+      "url": "https://dariknews.bg/novini/bylgariia/biudzhet-2027-finansovoto-ministerstvo-s-informaciia-za-ocenkata-na-ek-2470596",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51343/51343626/991-ratio-biudzhet.jpg"
+    },
+    {
+      "title": "„Това момче ми уби детето“: Окръжният съд в Бургас пусна Никола Бургазлиев под домашен арест",
+      "url": "https://dariknews.bg/regioni/burgas/tova-momche-mi-ubi-deteto-okryzhniiat-syd-v-burgas-pusna-nikola-burgazliev-pod-domashen-arest-2470595",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403870/991-ratio-nikola-burgazliev-zasedanie-atv-slynchev-briag.jpg"
+    },
+    {
+      "title": "Катастрофа с пострадал блокира главния път София – Варна край Лясковец",
+      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-s-postradal-blokira-glavniia-pyt-sofiia-varna-kraj-liaskovec-2470589",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403968/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Радев за атаките в Черно море: Вече сме стигнали върха на това, което можем да направим",
+      "url": "https://dariknews.bg/novini/bylgariia/radev-za-atakite-v-cherno-more-veche-sme-stignali-vyrha-na-tova-koeto-mozhem-da-napravim-2470591",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "„Свобода на колела“ по следите на най-добре запазения скелет на пещерна мечка",
@@ -58,158 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51036/51036836/991-ratio-linejka.jpg"
     },
     {
-      "title": "Община Варна е издала 28 констативни акта за строителството в „Баба Алино“, всички са обжалвани в съда",
-      "url": "https://dariknews.bg/regioni/varna/obshtina-varna-e-izdala-28-konstativni-akta-za-stroitelstvoto-v-baba-alino-vsichki-sa-obzhalvani-v-syda-2470581",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Роден едва 750 грама в петия месец: Невероятната история на малкия Антонио от Бургас",
-      "url": "https://dariknews.bg/regioni/burgas/roden-edva-750-grama-v-petiia-mesec-neveroiatnata-istoriia-na-malkiia-antonio-ot-burgas-2470579",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403908/991-ratio-bebe-antonio.jpg"
-    },
-    {
-      "title": "Въвеждат разширяване на „синята зона“ в Ямбол и нови правила за тротинетките",
-      "url": "https://dariknews.bg/regioni/yambol/vyvezhdat-razshiriavane-na-siniata-zona-v-iambol-i-novi-pravila-za-trotinetkite-2470578",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51045/51045911/991-ratio-shofior-s-telefon.jpg"
-    },
-    {
-      "title": "КНСБ иска поне 10% ръст на заплатите в публичния сектор заради инфлацията",
-      "url": "https://dariknews.bg/novini/bylgariia/knsb-iska-pone-10-ryst-na-zaplatite-v-publichniia-sektor-zaradi-inflaciiata-2470577",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50484/50484729/991-ratio-zaplata-rabota.jpg"
-    },
-    {
-      "title": "Аудиозаписи разкриват възможни грешки преди тежката железопътна катастрофа в Испания",
-      "url": "https://dariknews.bg/novini/sviat/audiozapisi-razkrivat-vyzmozhni-greshki-predi-tezhkata-zhelezopytna-katastrofa-v-ispaniia-2470575",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403569/991-ratio-ispaniia-vlakova-katastrofa.jpg"
-    },
-    {
-      "title": "Полицията в Ямбол издирва 15-годишно момче (СНИМКА)",
-      "url": "https://dariknews.bg/regioni/yambol/policiiata-v-iambol-izdirva-15-godishno-momche-snimka-2470576",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50974/50974214/991-ratio-incident-policiia.jpg"
-    },
-    {
-      "title": "Европейската комисия призова държавите от ЕС да използват още над 21 млрд. евро за отбрана",
-      "url": "https://dariknews.bg/novini/sviat/evropejskata-komisiia-prizova-dyrzhavite-ot-es-da-izpolzvat-oshte-nad-21-mlrd.-evro-za-otbrana-2470573",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51122/51122223/991-ratio-ek.jpg"
-    },
-    {
-      "title": "Експерти очакват нови атаки в Черно море: България да укрепи отбраната си и да заеме ясна позиция",
-      "url": "https://dariknews.bg/novini/bylgariia/eksperti-ochakvat-novi-ataki-v-cherno-more-bylgariia-da-ukrepi-otbranata-si-i-da-zaeme-iasna-poziciia-2470572",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Районното управление в Белоградчик е с нов началник (СНИМКА)",
-      "url": "https://dariknews.bg/regioni/vidin/rajonnoto-upravlenie-v-belogradchik-e-s-nov-nachalnik-snimka-2470574",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395882/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "ДБ иска оставки в ЦИК, инициативният комитет на Гюров и Кандев обжалва решението пред ВАС",
-      "url": "https://dariknews.bg/novini/bylgariia/db-iska-ostavki-v-cik-iniciativniiat-komitet-na-giurov-i-kandev-obzhalva-reshenieto-pred-vas-2470569",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403427/991-ratio-da-bylgariia.jpg"
-    },
-    {
-      "title": "„Действайте, после ще ви бъде платено“: Нови данни по случая с Колтуклиева и мярка „подписка“ за служителя на НСО",
-      "url": "https://dariknews.bg/novini/bylgariia/dejstvajte-posle-shte-vi-byde-plateno-novi-danni-po-sluchaia-s-koltuklieva-i-miarka-podpiska-za-sluzhitelia-na-nso-2470570",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51400/51400420/991-ratio-sonia-koltuklieva.jpg"
-    },
-    {
-      "title": "Фаталната катастрофа в Слънчев бряг: Провежда се заседание по делото срещу Никола Бургазлиев (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/burgas/fatalnata-katastrofa-v-slynchev-briag-provezhda-se-zasedanie-po-deloto-sreshtu-nikola-burgazliev-snimki-2470571",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Реал Мадрид взе важно решение - ясен е първият трансфер за лято 2027 29 Окт | 17:42",
-      "url": "https://dsport.bg/real-madrid-vze-vazno-reshenie-asen-e-parviat-transfer-za-lato-2027~243428.html",
+      "title": "Феновете на Славия изкупиха билетите за гостуването на „Армията“, ще бъдат пуснати още 29 Окт | 22:23",
+      "url": "https://dsport.bg/fenovete-na-slavia-izkupiha-biletite-za-gostuvaneto-na-armiata-ste-badat-pusnati-oste~243450.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302288667.og.jpg"
+      "image": "https://dsport.bg/media/387/armiata-3-1.og.jpg"
     },
     {
-      "title": "Примирие на „Олд Трафорд“: Карик връща Бруно като титуляр и капитан 29 Окт | 17:24",
-      "url": "https://dsport.bg/primirie-na-old-traford-karik-vrasta-bruno-kato-titular-i-kapitan~243427.html",
+      "title": "Кристиано Роналдо избухна! 67-и хеттрик и 15 гола до голямата цел 29 Окт | 22:04",
+      "url": "https://dsport.bg/kristiano-ronaldo-izbuhna-67-i-hettrik-i-15-gola-do-golamata-cel~243448.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2264221840.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302051883.og.jpg"
     },
     {
-      "title": "Дудова попълни колекцията си - взе бронз на Световното в Астана 29 Окт | 17:09",
-      "url": "https://dsport.bg/dudova-popalni-kolekciata-si-vze-bronz-na-svetovnoto-v-astana~243426.html",
+      "title": "Зверев и Медведев са 1/4-финалисти във Виена 29 Окт | 21:51",
+      "url": "https://dsport.bg/zverev-i-medvedev-sa-1-4-finalisti-vav-viena~243447.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1047968.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2295114555~1.og.jpg"
     },
     {
-      "title": "Спортното шоу на Дарик - 29.10.2026 г. 29 Окт | 17:00",
-      "url": "https://dsport.bg/sportnoto-shou-na-darik-29-10-2026-g~243425.html",
+      "title": "Фрозиноне продължава да лети в Серия А 29 Окт | 21:40",
+      "url": "https://dsport.bg/frozinone-prodalzava-da-leti-v-seria-a~243446.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/viber_image_2026-10-29_17-01-54-804.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2302573247.og.jpg"
     },
     {
-      "title": "Реал Мадрид се сети за Кристиано Роналдо 29 Окт | 16:51",
-      "url": "https://dsport.bg/real-madrid-se-seti-za-kristiano-ronaldo~243424.html",
+      "title": "Червеният картон на Дауман не бе отменен 29 Окт | 21:24",
+      "url": "https://dsport.bg/cherveniat-karton-na-dauman-ne-be-otmenen~243445.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-888849030.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302369547.og.jpg"
     },
     {
-      "title": "Скандалът с Мбапе може да струва стотици милиони на Ла Лига, а загубите за французина също се трупат 29 Окт | 16:50",
-      "url": "https://dsport.bg/skandalat-s-mbape-moze-da-struva-stotici-milioni-na-la-liga-a-zagubite-za-francuzina-sasto-se-trupat~243423.html",
+      "title": "Интер и Милан представиха проекта за новия „Сан Сиро“ на фона на протести и организационни проблеми 29 Окт | 21:09",
+      "url": "https://dsport.bg/inter-i-milan-predstaviha-proekta-za-novia-san-siro-na-fona-na-protesti-i-organizacionni-problemi~243438.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2290716586-1~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2265452264~1.og.jpg"
     },
     {
-      "title": "Елизара Янева отпадна на четвъртфиналите на двойки в Курмайо 29 Окт | 16:28",
-      "url": "https://dsport.bg/elizara-aneva-otpadna-na-chetvartfinalite-na-dvoiki-v-kurmaio~243422.html",
+      "title": "Гари Невил към семейство Глейзър: Достатъчно, продайте Манчестър Юнайтед 29 Окт | 20:53",
+      "url": "https://dsport.bg/gari-nevil-kam-semeistvo-gleizar-dostatachno-prodaite-manchestar-unaited~243436.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/elizara_qneva_-4~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-1474307801~1.og.jpg"
     },
     {
-      "title": "Ритник по съдията, псувни и замахвания с юмруци: БФС потвърди шестмесечно наказание 29 Окт | 16:14",
-      "url": "https://dsport.bg/ritnik-po-sadiata-psuvni-i-zamahvania-s-umruci-bfs-potvardi-shestmesechno-nakazanie~243421.html",
+      "title": "Джейк Пол се завръща на ринга 29 Окт | 20:39",
+      "url": "https://dsport.bg/dzeik-pol-se-zavrasta-na-ringa~243444.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/img_20241030_091842.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2252799938~1.og.jpg"
     },
     {
-      "title": "Кристиано Роналдо благодари за най-великата „Златна топка“: Футболът принадлежи на феновете 29 Окт | 15:58",
-      "url": "https://dsport.bg/kristiano-ronaldo-blagodari-za-nai-velikata-zlatna-topka-futbolat-prinadlezi-na-fenovete~243420.html",
+      "title": "Ники Кънчев разведе феновете на ЦСКА из „Българска армия“ (ВИДЕО) 29 Окт | 20:25",
+      "url": "https://dsport.bg/niki-kanchev-razvede-fenovete-iz-balgarska-armia-video~243443.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2276580511-1-1.og.jpg"
+      "image": "https://dsport.bg/media/387/screenshot-2026-10-29-201748.og.png"
     },
     {
-      "title": "Бурас може да е титуляр в Русе, Веласкес разкри състоянието на Митков, Търдин и Кирилов (ВИДЕО) 29 Окт | 15:39",
-      "url": "https://dsport.bg/buras-moze-da-e-titular-v-ruse-velaskes-razkri-sastoanieto-na-mitkov-tardin-i-kirilov-video~243419.html",
+      "title": "Бивш футболист на ЦСКА се присъедини към щаба на Владимир Манчев 29 Окт | 20:09",
+      "url": "https://dsport.bg/bivsh-futbolist-na-cska-se-prisaedini-kam-staba-na-vladimir-manchev~243442.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1047726.og.jpg"
+      "image": "https://dsport.bg/media/387/screenshot-2026-10-29-200810.og.png"
     }
   ]
 }
