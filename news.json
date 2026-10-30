@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-30T18:12:54.082153+00:00",
+  "updated": "2026-10-30T22:19:26.820449+00:00",
   "articles": [
+    {
+      "title": "Ден за размисъл преди балотажа: В неделя избираме президент",
+      "url": "https://dariknews.bg/novini/bylgariia/den-za-razmisyl-predi-balotazha-v-nedelia-izbirame-prezident-2470187",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51401/51401883/991-ratio-pejka-hora-more.jpg"
+    },
+    {
+      "title": "Петролен танкер е бил поразен в Ормузкия проток",
+      "url": "https://dariknews.bg/novini/sviat/petrolen-tanker-e-bil-porazen-v-ormuzkiia-protok-2470720",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51306/51306311/991-ratio-ormuzki-protok.jpg"
+    },
+    {
+      "title": "Луксозен джип едва не се вряза в жилищна сграда в Несебър",
+      "url": "https://dariknews.bg/regioni/burgas/luksozen-dzhip-edva-ne-se-vriaza-v-zhilishtna-sgrada-v-nesebyr-2470719",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403968/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Франция показа кадри от атаката край Калиакра: Военен самолет помогнал за спасяването на 18 моряци",
+      "url": "https://dariknews.bg/novini/sviat/franciia-pokaza-kadri-ot-atakata-kraj-kaliakra-voenen-samolet-pomognal-za-spasiavaneto-na-18-moriaci-2470718",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404618/991-ratio-nos-kaliakra.jpg"
+    },
+    {
+      "title": "Полша дава два МиГ-29 на Украйна, България има интерес към останалите",
+      "url": "https://dariknews.bg/novini/bylgariia/polsha-dava-dva-mig-29-na-ukrajna-bylgariia-ima-interes-kym-ostanalite-2470717",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50793/50793745/991-ratio-mig-29.jpg"
+    },
+    {
+      "title": "България прие от Белгия първия от новопридобитите кораби за противоминна борба",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-prie-ot-belgiia-pyrviia-ot-novopridobitite-korabi-za-protivominna-borba-2470716",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404607/991-ratio-ministerstvo-na-otbranata.jpg"
+    },
+    {
+      "title": "Исторически момент: Никола Цолов дебютира във Формула 1",
+      "url": "https://dariknews.bg/novini/bylgariia/istoricheski-moment-nikola-colov-debiutira-vyv-formula-1-2470715",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
     {
       "title": "Шофьорът от Спешна помощ Васил Василев: Возих Васко от „Калашниците“ след ПТП-то",
       "url": "https://dariknews.bg/novini/bylgariia/shofioryt-ot-speshna-pomosht-vasil-vasilev-vozih-vasko-ot-kalashnicite-sled-ptp-to-2470714",
@@ -93,123 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51404/51404449/991-ratio-katia-ivkova.jpg"
     },
     {
-      "title": "Над 60 удара и множество прободни рани: Оставиха в ареста задържания за убийство в Русе",
-      "url": "https://dariknews.bg/novini/bylgariia/nad-60-udara-i-mnozhestvo-probodni-rani-ostaviha-v-aresta-zadyrzhaniia-za-ubijstvo-v-ruse-2470699",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51126/51126323/991-ratio-syd-chuk.jpg"
-    },
-    {
-      "title": "Прокуратурата протестира домашния арест на Никола Бургазлиев",
-      "url": "https://dariknews.bg/regioni/burgas/prokuraturata-protestira-domashniia-arest-na-nikola-burgazliev-2470700",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403869/991-ratio-nikola-burgazliev-zasedanie-atv-slynchev-briag.jpg"
-    },
-    {
-      "title": "„Няма нито миг без болка“: Криста Пайк проговори след неуспешната екзекуция",
-      "url": "https://dariknews.bg/novini/sviat/niama-nito-mig-bez-bolka-krista-pajk-progovori-sled-neuspeshnata-ekzekuciia-2470696",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51392/51392708/991-ratio-krista-pajk.jpg"
-    },
-    {
-      "title": "Мъж пострада при пожар в жилищен блок в Казанлък",
-      "url": "https://dariknews.bg/regioni/stara-zagora/myzh-postrada-pri-pozhar-v-zhilishten-blok-v-kazanlyk-2470693",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403547/991-ratio-pozharna.jpg"
-    },
-    {
-      "title": "ГДБОП задържа 19-годишен хакер: Използвал изкуствен интелект за кибератаки (ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/sofiia/gdbop-zadyrzha-19-godishen-haker-izpolzval-izkustven-intelekt-za-kiberataki-video-2470692",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51305/51305525/991-ratio-haker.jpg"
-    },
-    {
-      "title": "След катастрофата с 69 жертви: Испанският транспортен министър отказва да подаде оставка",
-      "url": "https://dariknews.bg/novini/sviat/sled-katastrofata-s-69-zhertvi-ispanskiiat-transporten-ministyr-otkazva-da-podade-ostavka-2470691",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403568/991-ratio-ispaniia-vlakova-katastrofa.jpg"
-    },
-    {
-      "title": "Никола Цолов преди дебюта си във Формула 1: Вълнувам се, че ще направя следващата стъпка",
-      "url": "https://dariknews.bg/novini/bylgariia/nikola-colov-predi-debiuta-si-vyv-formula-1-vylnuvam-se-che-shte-napravia-sledvashtata-stypka-2470690",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "На живо: Ботев Пловдив води уверено на Локомотив София 30 Окт | 20:03",
-      "url": "https://dsport.bg/na-zivo-ogaga-zapochva-za-loko-sofia-ukaki-titular-za-botev-plovdiv-sastavi~243533.html",
+      "title": "„Папагалчетата“ откриха процеп в „жълтата подводница“ и я потопиха в нейното пристанище 31 Окт | 00:02",
+      "url": "https://dsport.bg/papagalchetata-otkriha-procep-v-zaltata-podvodnica-i-a-potopiha-v-neinoto-pristaniste~243555.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1048453.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302749881.og.jpg"
     },
     {
-      "title": "Турът на Левски минава през Русе 30 Окт | 19:59",
-      "url": "https://dsport.bg/turat-na-levski-minava-prez-ruse~243540.html",
+      "title": "Българските звезди на Олимпиакос се разправиха с Олимпия Милано 30 Окт | 23:50",
+      "url": "https://dsport.bg/balgarskite-zvezdi-na-olimpiakos-se-razpraviha-s-olimpia-milano~243554.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot-1404-.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2302238071.og.jpg"
     },
     {
-      "title": "От видинско село поканиха ЦСКА на приятелски мач 30 Окт | 19:48",
-      "url": "https://dsport.bg/ot-vidinsko-selo-pokaniha-cska-na-priatelski-mach~243539.html",
+      "title": "Трета поредна победа за Марица Пловдив, Славия надви Драгоман 30 Окт | 23:41",
+      "url": "https://dsport.bg/treta-poredna-pobeda-za-marica-plovdiv-slavia-nadvi-dragoman~243553.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/30.10-2~2.og.jpg"
+      "image": "https://dsport.bg/media/387/30.10-8~1.og.jpg"
     },
     {
-      "title": "В навечерието на големия ден: „Българска армия“ очаква ЦСКА 30 Окт | 19:32",
-      "url": "https://dsport.bg/v-navecherieto-na-golemia-den-balgarska-armia-ochakva-cska~243537.html",
+      "title": "Лукас Петков и Елверсберг постигнаха най-голямата си победа в Бундеслигата 30 Окт | 23:26",
+      "url": "https://dsport.bg/lukas-petkov-i-elversberg-postignaha-nai-golamata-si-pobeda-v-bundesligata~243552.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot-1403-.og.png"
+      "image": "https://dsport.bg/media/387/gettyimages-2302217970.og.jpg"
     },
     {
-      "title": "ЦСКА с последна тренировка преди големия мач 30 Окт | 19:29",
-      "url": "https://dsport.bg/cska-s-posledna-trenirovka-predi-golemia-mach~243538.html",
+      "title": "Гришо ще си връща на парагваец на старта в Париж 30 Окт | 23:07",
+      "url": "https://dsport.bg/grisho-ste-si-vrasta-na-paragvaec-na-starta-v-pariz~243551.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/30.10-1~3.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2243678434-2-1-1-1-1~1.og.jpg"
     },
     {
-      "title": "Васил Петров: Срам ме е да си тръгваме с такъв резултат, няма как да не критикувам футболистите 30 Окт | 19:13",
-      "url": "https://dsport.bg/vasil-petrov-sram-me-e-da-si-tragvame-s-takav-rezultat-nama-kak-da-ne-kritikuvam-futbolistite~243536.html",
+      "title": "SESAME става генерален партньор на Висшата лига по волейбол 30 Окт | 22:54",
+      "url": "https://dsport.bg/sesame-stava-generalen-partnor-na-visshata-liga-po-voleibol~243550.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1048406~1.og.jpg"
+      "image": "https://dsport.bg/media/387/30.10-7~2.og.jpg"
     },
     {
-      "title": "Огнян Младенов: Показваме характер и имаме добра психика 30 Окт | 19:11",
-      "url": "https://dsport.bg/ognan-mladenov-pokazvame-harakter-i-imame-dobra-psihika~243535.html",
+      "title": "Шефът на Рейсинг Булс похвали Никола Цолов след дебюта му във Формула 1 30 Окт | 22:31",
+      "url": "https://dsport.bg/shefat-na-reising-buls-pohvali-nikola-colov-sled-debuta-mu-vav-formula-1~243549.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1044455-1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302730859.og.jpg"
     },
     {
-      "title": "ЦСКА 1948 разнищи Спартак Варна в бистришката мъгла 30 Окт | 18:59",
-      "url": "https://dsport.bg/na-zivo-cska-1948-spartak-varna-sastavi~243515.html",
+      "title": "Тежки загуби за баскетболните ЦСКА и Левски 30 Окт | 22:11",
+      "url": "https://dsport.bg/tezki-zagubi-za-basketbolnite-cska-i-levski~243548.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1048414.og.jpg"
+      "image": "https://dsport.bg/media/387/30.10-6~1.og.jpg"
     },
     {
-      "title": "Дебютът на Никола Цолов във Формула 1 започна със забравен пропуск (ВИДЕО) 30 Окт | 18:45",
-      "url": "https://dsport.bg/debutat-na-nikola-colov-vav-formula-1-zapochna-sas-zabraven-propusk-video~243534.html",
+      "title": "ПСЖ се откъсна на върха във Франция с разгром 30 Окт | 21:51",
+      "url": "https://dsport.bg/psz-se-otkasna-na-varha-vav-francia-s-razgrom~243547.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302712079.og.jpg"
+      "image": "https://dsport.bg/media/387/psg.og.jpg"
     },
     {
-      "title": "Гаф в ефир разкри новата любов на Дел Потро 30 Окт | 18:12",
-      "url": "https://dsport.bg/gaf-v-efir-razkri-novata-lubov-na-del-potro~243526.html",
+      "title": "Генчев недоволства от съдиите: Счупиха носа на Дани Наумов, работата им е да пазят футболистите 30 Окт | 21:41",
+      "url": "https://dsport.bg/genchev-nedovolstva-ot-sadiite-schupiha-nosa-na-dani-naumov-rabotata-im-e-da-pazat-futbolistite~243546.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2187276600.og.jpg"
+      "image": "https://dsport.bg/media/387/1048465.og.jpg"
     }
   ]
 }
