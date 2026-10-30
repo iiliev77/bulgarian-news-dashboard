@@ -1,6 +1,90 @@
 {
-  "updated": "2026-10-30T00:22:15.645753+00:00",
+  "updated": "2026-10-30T06:03:24.777405+00:00",
   "articles": [
+    {
+      "title": "Окончателно: Лагерът на Нетаняху печели изборите, но без мнозинство",
+      "url": "https://dariknews.bg/novini/sviat/okonchatelno-lageryt-na-netaniahu-pecheli-izborite-no-bez-mnozinstvo-2470612",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51303/51303054/991-ratio-netaniahu.jpg"
+    },
+    {
+      "title": "Разминираха района около Олешки, жителите вече ще могат да напуснат града",
+      "url": "https://dariknews.bg/novini/sviat/razminiraha-rajona-okolo-oleshki-zhitelite-veche-shte-mogat-da-napusnat-grada-2470611",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404033/991-ratio-oleshki.jpg"
+    },
+    {
+      "title": "Имен ден празнуват хора с рядко срещани имена",
+      "url": "https://dariknews.bg/novini/obshtestvo/imen-den-praznuvat-hora-s-riadko-sreshtani-imena-2470610",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50807/50807592/991-ratio-kryst-cyrkva-religiia.jpg"
+    },
+    {
+      "title": "Тръмп заменя митингите с виртуални срещи в подкрепа на републиканците в над 20 щата",
+      "url": "https://dariknews.bg/novini/sviat/trymp-zamenia-mitingite-s-virtualni-sreshti-v-podkrepa-na-republikancite-v-nad-20-shtata-2470609",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403200/991-ratio-donald-trymp.jpg"
+    },
+    {
+      "title": "Циклонът „Арнаб“ в Индия: Бреговата охрана евакуира жители с хеликоптери",
+      "url": "https://dariknews.bg/novini/sviat/ciklonyt-arnab-v-indiia-bregovata-ohrana-evakuira-zhiteli-s-helikopteri-2470608",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404025/991-ratio-navodneniia-indiia.jpg"
+    },
+    {
+      "title": "Унищожена ли е ядрената програма на Иран? Ключови въпроси остават без отговор",
+      "url": "https://dariknews.bg/novini/sviat/unishtozhena-li-e-iadrenata-programa-na-iran-kliuchovi-vyprosi-ostavat-bez-otgovor-2470415",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51295/51295986/991-ratio-sasht-iran.jpg"
+    },
+    {
+      "title": "Защо е най-добре да пием кафе преди обяд",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-e-naj-dobre-da-piem-kafe-predi-obiad-2470562",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50823/50823658/991-ratio-kafe-mashina.jpg"
+    },
+    {
+      "title": "Нови открития разкриват мащаба и вековната история на римските терми в Рациария",
+      "url": "https://dariknews.bg/novini/liubopitno/novi-otkritiia-razkrivat-mashtaba-i-vekovnata-istoriia-na-rimskite-termi-v-raciariia-2470592",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403962/991-ratio-raciariia.jpg"
+    },
+    {
+      "title": "Втората пенсия с нови правила от 2027 г.: Какво трябва да направим до 30 ноември",
+      "url": "https://dariknews.bg/novini/obshtestvo/vtorata-pensiia-s-novi-pravila-ot-2027-g.-kakvo-triabva-da-napravim-do-30-noemvri-2470588",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351654/991-ratio-zhena-vyzrastna-zhena-kompiutyr-pensii-pensiia.jpg"
+    },
+    {
+      "title": "След предсрочното оттегляне на Кристин Лагард: Как се избира президентът на ЕЦБ?",
+      "url": "https://dariknews.bg/novini/sviat/sled-predsrochnoto-ottegliane-na-kristin-lagard-kak-se-izbira-prezidentyt-na-ecb-2470606",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51232/51232707/991-ratio-ecb.jpg"
+    },
+    {
+      "title": "Облачно време и валежи от дъжд в предпоследния ден на октомври",
+      "url": "https://dariknews.bg/novini/bylgariia/oblachno-vreme-i-valezhi-ot-dyzhd-v-predposledniia-den-na-oktomvri-2470593",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403967/991-ratio-esen.jpg"
+    },
+    {
+      "title": "Временни ограничения за камионите по АМ „Хемус“ заради ремонта на тунел „Топли дол“",
+      "url": "https://dariknews.bg/regioni/sofiia/vremenni-ogranicheniia-za-kamionite-po-am-hemus-zaradi-remonta-na-tunel-topli-dol-2470559",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403821/991-ratio-topli-dol.jpg"
+    },
     {
       "title": "Асен Василев: В неделя ще избираме между лъжата и истината",
       "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-v-nedelia-shte-izbirame-mezhdu-lyzhata-i-istinata-2470607",
@@ -56,90 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
-    },
-    {
-      "title": "Остри нападки, взаимни обвинения и лични въпроси: Големият дебат Йотова – Гюров",
-      "url": "https://dariknews.bg/novini/bylgariia/ostri-napadki-vzaimni-obvineniia-i-lichni-vyprosi-golemiiat-debat-iotova-giurov-2470583",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Радев обсъди с еврокомисар Пьотър Серафин бюджета на България за 2027 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-obsydi-s-evrokomisar-piotyr-serafin-biudzheta-na-bylgariia-za-2027-g-2470598",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403989/640-420-radev.jpg"
-    },
-    {
-      "title": "Хеликоптер на мисията на ЕС в Босна се разби в североизточната част на страната",
-      "url": "https://dariknews.bg/novini/sviat/helikopter-na-misiiata-na-es-v-bosna-se-razbi-v-severoiztochnata-chast-na-stranata-2470597",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51374/51374658/991-ratio-voenen-helikopter.jpg"
-    },
-    {
-      "title": "Бюджет 2027: Финансовото министерство с информация за оценката на ЕК",
-      "url": "https://dariknews.bg/novini/bylgariia/biudzhet-2027-finansovoto-ministerstvo-s-informaciia-za-ocenkata-na-ek-2470596",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51343/51343626/991-ratio-biudzhet.jpg"
-    },
-    {
-      "title": "„Това момче ми уби детето“: Окръжният съд в Бургас пусна Никола Бургазлиев под домашен арест",
-      "url": "https://dariknews.bg/regioni/burgas/tova-momche-mi-ubi-deteto-okryzhniiat-syd-v-burgas-pusna-nikola-burgazliev-pod-domashen-arest-2470595",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403870/991-ratio-nikola-burgazliev-zasedanie-atv-slynchev-briag.jpg"
-    },
-    {
-      "title": "Катастрофа с пострадал блокира главния път София – Варна край Лясковец",
-      "url": "https://dariknews.bg/novini/bylgariia/katastrofa-s-postradal-blokira-glavniia-pyt-sofiia-varna-kraj-liaskovec-2470589",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403968/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Радев за атаките в Черно море: Вече сме стигнали върха на това, което можем да направим",
-      "url": "https://dariknews.bg/novini/bylgariia/radev-za-atakite-v-cherno-more-veche-sme-stignali-vyrha-na-tova-koeto-mozhem-da-napravim-2470591",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "„Свобода на колела“ по следите на най-добре запазения скелет на пещерна мечка",
-      "url": "https://dariknews.bg/novini/liubopitno/svoboda-na-kolela-po-sledite-na-naj-dobre-zapazeniia-skelet-na-peshterna-mechka-2470590",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403954/991-ratio-svoboda.jpg"
-    },
-    {
-      "title": "Как да изберем ловни обувки според терена и начина на лов?",
-      "url": "https://dariknews.bg/novini/plateni-publikacii/kak-da-izberem-lovni-obuvki-spored-terena-i-nachina-na-lov-2470560",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403823/991-ratio-istock.jpg"
-    },
-    {
-      "title": "Отиде си актрисата Елке Зомер, звезда от „Розовата пантера“",
-      "url": "https://dariknews.bg/novini/sviat/otide-si-aktrisata-elke-zomer-zvezda-ot-rozovata-pantera-2470587",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403937/991-ratio-elke-zomer.jpg"
-    },
-    {
-      "title": "Интерактивна карта на АПИ ще показва в реално време пътната обстановка",
-      "url": "https://dariknews.bg/novini/bylgariia/interaktivna-karta-na-api-shte-pokazva-v-realno-vreme-pytnata-obstanovka-2470586",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403938/991-ratio-api-karta.jpg"
-    },
-    {
-      "title": "Вучич: В Сърбия се провежда терор от страна на победителите на изборите",
-      "url": "https://dariknews.bg/novini/sviat/vuchich-v-syrbiia-se-provezhda-teror-ot-strana-na-pobeditelite-na-izborite-2470585",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50987/50987818/991-ratio-vuchich.jpg"
     },
     {
       "title": "Барселона вкара 8 в Шампионската лига 30 Окт | 00:14",
