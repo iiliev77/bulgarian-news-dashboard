@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-29T20:40:50.858390+00:00",
+  "updated": "2026-10-30T00:22:15.645753+00:00",
   "articles": [
+    {
+      "title": "Асен Василев: В неделя ще избираме между лъжата и истината",
+      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-v-nedelia-shte-izbirame-mezhdu-lyzhata-i-istinata-2470607",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51361/51361386/991-ratio-asen-vasilev.jpg"
+    },
+    {
+      "title": "Заговор и изненадващ стратегически ход изпратиха Александра на елиминации в “Игри на волята”",
+      "url": "https://dariknews.bg/novini/liubopitno/zagovor-i-iznenadvasht-strategicheski-hod-izpratiha-aleksandra-na-eliminacii-v-igri-na-voliata-2470605",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404019/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Защо не бе спасен контейнеровозът с 421 контейнера на борда? Ивайло Мирчев с 5 въпроса към управляващите",
       "url": "https://dariknews.bg/novini/bylgariia/zashto-ne-be-spasen-kontejnerovozyt-s-421-kontejnera-na-borda-ivajlo-mirchev-s-5-vyprosa-kym-upravliavashtite-2470604",
@@ -44,11 +58,11 @@
       "image": "https://m.netinfo.bg/media/images/51319/51319489/991-ratio-vladimir-putin.jpg"
     },
     {
-      "title": "Остри нападки, войната в Украйна и атаките в Черно море: Големият дебат Йотова – Гюров (НА ЖИВО)",
-      "url": "https://dariknews.bg/novini/bylgariia/ostri-napadki-vojnata-v-ukrajna-i-atakite-v-cherno-more-golemiiat-debat-iotova-giurov-na-zhivo-2470583",
+      "title": "Остри нападки, взаимни обвинения и лични въпроси: Големият дебат Йотова – Гюров",
+      "url": "https://dariknews.bg/novini/bylgariia/ostri-napadki-vzaimni-obvineniia-i-lichni-vyprosi-golemiiat-debat-iotova-giurov-2470583",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403995/991-ratio-giurov-iotova.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Радев обсъди с еврокомисар Пьотър Серафин бюджета на България за 2027 г.",
@@ -128,18 +142,67 @@
       "image": "https://m.netinfo.bg/media/images/50987/50987818/991-ratio-vuchich.jpg"
     },
     {
-      "title": "Трагедия в Кападокия: Двама души загинаха при срутване на скали",
-      "url": "https://dariknews.bg/novini/sviat/tragediia-v-kapadokiia-dvama-dushi-zaginaha-pri-srutvane-na-skali-2470584",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403934/991-ratio-kapadokiia.jpg"
+      "title": "Барселона вкара 8 в Шампионската лига 30 Окт | 00:14",
+      "url": "https://dsport.bg/barselona-vkara-8-v-shampionskata-liga~243458.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2298571120.og.jpg"
     },
     {
-      "title": "Протест в Мездра с искане за справедливо наказание на младия шофьор, убил двама тийнейджъри на пътя",
-      "url": "https://dariknews.bg/regioni/vraca/protest-v-mezdra-s-iskane-za-spravedlivo-nakazanie-na-mladiia-shofior-ubil-dvama-tijnejdzhyri-na-pytia-2470582",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51036/51036836/991-ratio-linejka.jpg"
+      "title": "Севиля и Атлетик Билбао без проблеми за Купата на краля 30 Окт | 00:08",
+      "url": "https://dsport.bg/sevila-i-atletik-bilbao-bez-problemi-za-kupata-na-krala~243457.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302135394.og.jpg"
+    },
+    {
+      "title": "Фиорентина отново не успя да победи 29 Окт | 23:58",
+      "url": "https://dsport.bg/fiorentina-otnovo-ne-uspa-da-pobedi~243456.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302072284.og.jpg"
+    },
+    {
+      "title": "Реал Мадрид взе дербито с Фенербахче 29 Окт | 23:50",
+      "url": "https://dsport.bg/real-madrid-vze-derbito-s-fenerbahche~243455.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/screenshot-2026-10-29-235030.og.png"
+    },
+    {
+      "title": "Евертън си осигури 1/4-финал в Карабао Къп 29 Окт | 23:45",
+      "url": "https://dsport.bg/evertan-si-osiguri-1-4-final-v-karabao-kap~243454.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302586007.og.jpg"
+    },
+    {
+      "title": "Мартинес може да се завърне в игра по-рано от очакваното 29 Окт | 23:32",
+      "url": "https://dsport.bg/martines-moze-da-se-zavarne-v-igra-po-rano-ot-ochakvanoto~243453.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2300642560-1.og.jpg"
+    },
+    {
+      "title": "Джокович отпадна от турнира в Базел, шансовете за Торино намаляха 29 Окт | 23:13",
+      "url": "https://dsport.bg/dzokovich-otpadna-ot-turnira-v-bazel-shansovete-za-torino-namalaha~243452.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2298253547~1.og.jpg"
+    },
+    {
+      "title": "Апоел на Краев взе дербито на Тел Авив и стигна до първи трофей от 15 години 29 Окт | 22:55",
+      "url": "https://dsport.bg/apoel-na-kraev-vze-derbito-na-tel-aviv-i-stigna-do-parvi-trofei-ot-15-godini~243451.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/screenshot-2026-10-29-225607.og.png"
+    },
+    {
+      "title": "С много мъки: Хетафе продължава напред за Купата на краля 29 Окт | 22:41",
+      "url": "https://dsport.bg/s-mnogo-maki-hetafe-prodalzava-napred-za-kupata-na-krala~243449.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2301500902.og.jpg"
     },
     {
       "title": "Феновете на Славия изкупиха билетите за гостуването на „Армията“, ще бъдат пуснати още 29 Окт | 22:23",
@@ -147,69 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/armiata-3-1.og.jpg"
-    },
-    {
-      "title": "Кристиано Роналдо избухна! 67-и хеттрик и 15 гола до голямата цел 29 Окт | 22:04",
-      "url": "https://dsport.bg/kristiano-ronaldo-izbuhna-67-i-hettrik-i-15-gola-do-golamata-cel~243448.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302051883.og.jpg"
-    },
-    {
-      "title": "Зверев и Медведев са 1/4-финалисти във Виена 29 Окт | 21:51",
-      "url": "https://dsport.bg/zverev-i-medvedev-sa-1-4-finalisti-vav-viena~243447.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2295114555~1.og.jpg"
-    },
-    {
-      "title": "Фрозиноне продължава да лети в Серия А 29 Окт | 21:40",
-      "url": "https://dsport.bg/frozinone-prodalzava-da-leti-v-seria-a~243446.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302573247.og.jpg"
-    },
-    {
-      "title": "Червеният картон на Дауман не бе отменен 29 Окт | 21:24",
-      "url": "https://dsport.bg/cherveniat-karton-na-dauman-ne-be-otmenen~243445.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302369547.og.jpg"
-    },
-    {
-      "title": "Интер и Милан представиха проекта за новия „Сан Сиро“ на фона на протести и организационни проблеми 29 Окт | 21:09",
-      "url": "https://dsport.bg/inter-i-milan-predstaviha-proekta-za-novia-san-siro-na-fona-na-protesti-i-organizacionni-problemi~243438.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2265452264~1.og.jpg"
-    },
-    {
-      "title": "Гари Невил към семейство Глейзър: Достатъчно, продайте Манчестър Юнайтед 29 Окт | 20:53",
-      "url": "https://dsport.bg/gari-nevil-kam-semeistvo-gleizar-dostatachno-prodaite-manchestar-unaited~243436.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-1474307801~1.og.jpg"
-    },
-    {
-      "title": "Джейк Пол се завръща на ринга 29 Окт | 20:39",
-      "url": "https://dsport.bg/dzeik-pol-se-zavrasta-na-ringa~243444.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2252799938~1.og.jpg"
-    },
-    {
-      "title": "Ники Кънчев разведе феновете на ЦСКА из „Българска армия“ (ВИДЕО) 29 Окт | 20:25",
-      "url": "https://dsport.bg/niki-kanchev-razvede-fenovete-iz-balgarska-armia-video~243443.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot-2026-10-29-201748.og.png"
-    },
-    {
-      "title": "Бивш футболист на ЦСКА се присъедини към щаба на Владимир Манчев 29 Окт | 20:09",
-      "url": "https://dsport.bg/bivsh-futbolist-na-cska-se-prisaedini-kam-staba-na-vladimir-manchev~243442.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot-2026-10-29-200810.og.png"
     }
   ]
 }
