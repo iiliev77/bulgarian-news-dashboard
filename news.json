@@ -1,16 +1,86 @@
 {
-  "updated": "2026-10-31T13:47:33.598376+00:00",
+  "updated": "2026-10-31T17:57:57.244061+00:00",
   "articles": [
     {
-      "title": "Мистериозното изчезване на българка в Кипър – има заподозрян и тревожни следи",
-      "url": "https://dariknews.bg/novini/bylgariia/misterioznoto-izchezvane-na-bylgarka-v-kipyr-ima-zapodozrian-i-trevozhni-sledi-2470737",
+      "title": "На косъм от трагедия и тежък сблъсък с тир – шофьор спаси автобус, пълен с пътници (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/na-kosym-ot-tragediia-i-tezhyk-sblysyk-s-tir-shofior-spasi-avtobus-pylen-s-pytnici-video-2470747",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405239/991-ratio-avtobus-sofiia-vidin.jpg"
+    },
+    {
+      "title": "Опасност от кървав атентат в Москва – САЩ подали сигнал до руските служби",
+      "url": "https://dariknews.bg/novini/sviat/opasnost-ot-kyrvav-atentat-v-moskva-sasht-podali-signal-do-ruskite-sluzhbi-2470745",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51061/51061190/991-ratio-rusiia-sasht.jpg"
+    },
+    {
+      "title": "След атаките с дронове и потъналите кораби в Черно море – България въвежда извънредни изисквания за корабоплаването",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-atakite-s-dronove-i-potynalite-korabi-v-cherno-more-bylgariia-vyvezhda-izvynredni-iziskvaniia-za-koraboplavaneto-2470746",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51397/51397120/991-ratio-motorniiat-korab-chelsea-3-beshe-posreshtnat-ot-ministyra-na-transporta.jpg"
+    },
+    {
+      "title": "„Тревога: скъп живот“ – Франция отново е на улицата",
+      "url": "https://dariknews.bg/novini/sviat/trevoga-skyp-zhivot-franciia-otnovo-e-na-ulicata-2470744",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405065/991-ratio-protesti-franciia.jpg"
+    },
+    {
+      "title": "Двама мъже пострадаха при нападения във Ветово и Русе, единият е с опасност за живота",
+      "url": "https://dariknews.bg/novini/bylgariia/dvama-myzhe-postradaha-pri-napadeniia-vyv-vetovo-i-ruse-ediniiat-e-s-opasnost-za-zhivota-2470743",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51264/51264097/991-ratio-iumruk-myzh-poboj.jpg"
+    },
+    {
+      "title": "Украйна нанесе удар по фабрика, произвеждаща ракетно гориво в Ростовска област",
+      "url": "https://dariknews.bg/novini/sviat/ukrajna-nanese-udar-po-fabrika-proizvezhdashta-raketno-gorivo-v-rostovska-oblast-2470742",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404910/991-ratio-promishlena-zona-rusiia.jpg"
+    },
+    {
+      "title": "Спецоперация в Старозагорско - 13 задържани, 7 души са обявени за общодържавно издирване",
+      "url": "https://dariknews.bg/novini/bylgariia/specoperaciia-v-starozagorsko-13-zadyrzhani-7-dushi-sa-obiaveni-za-obshtodyrzhavno-izdirvane-2470741",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404907/991-ratio-stara-zagora-policiia.jpg"
+    },
+    {
+      "title": "Турски тир се удари в мантинелата на магистрала „Хемус“, движението е затруднено",
+      "url": "https://dariknews.bg/novini/bylgariia/turski-tir-se-udari-v-mantinelata-na-magistrala-hemus-dvizhenieto-e-zatrudneno-2470740",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404905/991-ratio-magistrala-hemus.jpg"
+    },
+    {
+      "title": "„Не сме в клетки, но сме в капани“ – служители на Зоологическа градина в София излязоха на протест",
+      "url": "https://dariknews.bg/novini/bylgariia/ne-sme-v-kletki-no-sme-v-kapani-sluzhiteli-na-zoologicheska-gradina-v-sofiia-izliazoha-na-protest-2470739",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51404/51404899/991-ratio-protest-stolichen-zoopark.jpg"
+    },
+    {
+      "title": "Машините за гласуване няма да пристигнат навреме в Тенерифе, Монреал и Атланта",
+      "url": "https://dariknews.bg/novini/bylgariia/mashinite-za-glasuvane-niama-da-pristignat-navreme-v-tenerife-monreal-i-atlanta-2470738",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50212/50212380/991-ratio-cik-mashini-glasuvane-izbori.jpg"
+    },
+    {
+      "title": "Тревожни следи и мистериозно изчезване на българка в Кипър",
+      "url": "https://dariknews.bg/novini/bylgariia/trevozhni-sledi-i-misteriozno-izchezvane-na-bylgarka-v-kipyr-2470737",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/50419/50419554/991-ratio-kipyr.jpg"
     },
     {
-      "title": "Американски Boeing P-8A Poseidon извърши мисия за наблюдение над българската икономическа зона в Черно море",
-      "url": "https://dariknews.bg/novini/bylgariia/amerikanski-boeing-p-8a-poseidon-izvyrshi-misiia-za-nabliudenie-nad-bylgarskata-ikonomicheska-zona-v-cherno-more-2470736",
+      "title": "Американски Boeing P-8A Poseidon извърши мисия за наблюдение над български води",
+      "url": "https://dariknews.bg/novini/bylgariia/amerikanski-boeing-p-8a-poseidon-izvyrshi-misiia-za-nabliudenie-nad-bylgarski-vodi-2470736",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51404/51404879/991-ratio-boeing-p-8a-poseidon.jpg"
@@ -72,144 +142,74 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "СДВР с поредица от акции срещу наркотиците: Задържани са няколко мъже",
-      "url": "https://dariknews.bg/novini/bylgariia/sdvr-s-poredica-ot-akcii-sreshtu-narkoticite-zadyrzhani-sa-niakolko-myzhe-2470726",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/46042/46042947/991-ratio-beleznici-arest-aresti.jpg"
-    },
-    {
-      "title": "БАБХ спря дейността на два търговски обекта, четири топли витрини и кухня-майка",
-      "url": "https://dariknews.bg/novini/bylgariia/babh-spria-dejnostta-na-dva-tyrgovski-obekta-chetiri-topli-vitrini-i-kuhnia-majka-2470725",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Губим китоподобни видове в Черно заради военните действия, замърсяването и приловът",
-      "url": "https://dariknews.bg/novini/bylgariia/gubim-kitopodobni-vidove-v-cherno-zaradi-voennite-dejstviia-zamyrsiavaneto-i-prilovyt-2470523",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403665/991-ratio-delfini.jpg"
-    },
-    {
-      "title": "Красимир отстрани Александра от Войната на племената на „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/krasimir-otstrani-aleksandra-ot-vojnata-na-plemenata-na-igri-na-voliata-2470724",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51404/51404662/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Постоянното носене на слушалки може да засили усещането за самота",
-      "url": "https://dariknews.bg/novini/liubopitno/postoiannoto-nosene-na-slushalki-mozhe-da-zasili-useshtaneto-za-samota-2470616",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/36225/36225389/991-ratio-muzika-slushalki-tyzhno-momiche.jpg"
-    },
-    {
-      "title": "Мъгла, дъжд и камион без светлини: Как се стигна до катастрофата с пострадали български туристи в Турция",
-      "url": "https://dariknews.bg/novini/sviat/mygla-dyzhd-i-kamion-bez-svetlini-kak-se-stigna-do-katastrofata-s-postradali-bylgarski-turisti-v-turciia-2470723",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Бизнесът с дълголетието - новият хит на Турция",
-      "url": "https://dariknews.bg/novini/sviat/biznesyt-s-dylgoletieto-noviiat-hit-na-turciia-2470287",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50597/50597841/991-ratio-krasiva-zhena.jpg"
-    },
-    {
-      "title": "10 храни, богати на протеин, които помагат за поддържането на добра форма",
-      "url": "https://dariknews.bg/novini/liubopitno/10-hrani-bogati-na-protein-koito-pomagat-za-poddyrzhaneto-na-dobra-forma-2470234",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51302/51302579/991-ratio-iajca-velikden.jpg"
-    },
-    {
-      "title": "Ройтерс: Тръмп планира да депортира някои имигранти обратно в Афганистан",
-      "url": "https://dariknews.bg/novini/sviat/rojters-trymp-planira-da-deportira-niakoi-imigranti-obratno-v-afganistan-2470722",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50981/50981923/991-ratio-imigranti.jpg"
-    },
-    {
-      "title": "Хрупкаво, свежо и подходящо за безброй рецепти: Зелето е истинска витаминозна бомба",
-      "url": "https://dariknews.bg/novini/liubopitno/hrupkavo-svezho-i-podhodiashto-za-bezbroj-recepti-zeleto-e-istinska-vitaminozna-bomba-2470272",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/49808/49808374/991-ratio-zele.jpg"
-    },
-    {
-      "title": "На живо: Челси поведе срещу Манчестър Юнайтед 31 Окт | 15:45",
-      "url": "https://dsport.bg/na-zivo-chelsi-i-manchestar-unaited-ste-se-lekuvat-v-derbito-sastavi~243596.html",
+      "title": "На живо: ЦСКА натиска Славия, „Армията“ ехти с 18 хиляди 31 Окт | 19:53",
+      "url": "https://dsport.bg/na-zivo-cska-slavia-v-parvia-mach-na-armiata-sastavi~243619.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302835389.og.jpg"
+      "image": "https://dsport.bg/media/387/1049204.og.jpg"
     },
     {
-      "title": "На живо: Лудогорец удвои на Локо Пловдив, домакините с 10 души 31 Окт | 15:44",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-ludogorec-sastavi~243589.html",
+      "title": "БУТОНКИТЕ: Пълна подкрепа за Левски сега! 31 Окт | 19:42",
+      "url": "https://dsport.bg/butonkite-palna-podkrepa-za-levski-sega~243629.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1048764.og.jpg"
+      "image": "https://dsport.bg/media/387/2026-10-31-butonki_thumb_tometo.og.jpg"
     },
     {
-      "title": "Барчовски: Наш дълг е да оставим нещо след себе си за следващите поколения 31 Окт | 15:36",
-      "url": "https://dsport.bg/barchovski-nash-dalg-e-da-ostavim-nesto-sled-sebe-si-za-sledvastite-pokolenia~243608.html",
+      "title": "На живо: Байерн Мюнхен - Борусия Дортмунд, греда на Олисе 31 Окт | 19:32",
+      "url": "https://dsport.bg/na-zivo-11-te-na-baiern-munhen-i-borusia-dortmund-za-der-klasiker~243622.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/819193~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302869205.og.jpg"
     },
     {
-      "title": "Юлиан Нагелсман пред сензационно завръщане 31 Окт | 15:31",
-      "url": "https://dsport.bg/ulian-nagelsman-pred-senzacionno-zavrastane~243607.html",
+      "title": "Чиликов: Хосе е с 4 прободни рани, съдиите се държат сякаш имат по 1000 мача в Шампионска лига (ВИДЕО) 31 Окт | 19:27",
+      "url": "https://dsport.bg/chilikov-hose-e-s-4-probodni-rani-sadiite-se-darzat-sakash-imat-po-1000-macha-v-shampionska-liga-video~243628.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2282567420-1.og.jpg"
+      "image": "https://dsport.bg/media/387/1048960~1.og.jpg"
     },
     {
-      "title": "ЦСКА пусна фен артикули, посветени на „Армията“ 31 Окт | 15:23",
-      "url": "https://dsport.bg/cska-pusna-fen-artikuli-posveteni-na-armiata~243606.html",
+      "title": "Костадинов скочи на съдийството: Когато грешките зачестяват в една посока, няма да показваме толеранс (ВИДЕО) 31 Окт | 19:05",
+      "url": "https://dsport.bg/kostadinov-skochi-na-sadiistvoto-kogato-greshkite-zachestavat-v-edna-posoka-nama-da-pokazvame-tolerans-video~243627.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/screenshot-2026-10-31-152419.og.png"
+      "image": "https://dsport.bg/media/387/1048771.og.jpg"
     },
     {
-      "title": "На живо: Дунав - Левски, Вуцов отново на пеейката, Бурас започва (Състави) 31 Окт | 15:18",
-      "url": "https://dsport.bg/na-zivo-dunav-levski-sastavi~243604.html",
+      "title": "ЦСКА откри „Българска армия“ с бляскава церемония и най-великите фигури (ВИДЕО) 31 Окт | 18:59",
+      "url": "https://dsport.bg/na-zivo-cska-otkriva-stadion-balgarska-armia~243615.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/tambove-sait-19-.og.jpg"
+      "image": "https://dsport.bg/media/387/1049112.og.jpg"
     },
     {
-      "title": "Куп отбори по петите на перла от Челси 31 Окт | 15:06",
-      "url": "https://dsport.bg/kup-otbori-po-petite-na-perla-ot-chelsi~243605.html",
+      "title": "Брайтън нанесе втора поредна загуба на Манчестър Сити във Висшата лига 31 Окт | 18:54",
+      "url": "https://dsport.bg/braitan-nanese-vtora-poredna-zaguba-na-manchestar-siti-vav-visshata-liga~243625.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302830536.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302864215.og.jpg"
     },
     {
-      "title": "Преговорите между ПСЖ и Хакими за нов договор са в застой 31 Окт | 14:42",
-      "url": "https://dsport.bg/pregovorite-mezdu-psz-i-hakimi-za-nov-dogovor-sa-v-zastoi~243603.html",
+      "title": "Веласкес: Много съм доволен, трудно е на такъв терен 31 Окт | 18:51",
+      "url": "https://dsport.bg/velaskes-mnogo-sam-dovolen-trudno-e-na-takav-teren~243626.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2258760449~2.og.jpg"
+      "image": "https://dsport.bg/media/387/1049041~1.og.jpg"
     },
     {
-      "title": "Наумов е със счупен нос, слага маска 31 Окт | 14:42",
-      "url": "https://dsport.bg/naumov-e-sas-schupen-nos-slaga-maska~243602.html",
+      "title": "Голов екшън в Бундеслигата: Щутгарт подчини Леверкузен в трилър с 6 гола, Фрайбург с късен обрат, РБ Лайпциг превзе Гелзенкирхен 31 Окт | 18:43",
+      "url": "https://dsport.bg/golov-ekshan-v-bundesligata-stutgart-podchini-leverkuzen-v-trilar-s-6-gola-fraiburg-s-kasen-obrat-rb-laipcig-prevze-gelzenkirhen~243624.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/868398-1~1.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302857921.og.jpg"
     },
     {
-      "title": "Експерт на Sky Sports отправи предупреждение относно бъдещето на Лоусън във Формула 1 31 Окт | 14:38",
-      "url": "https://dsport.bg/ekspert-na-sky-sports-otpravi-preduprezdenie-otnosno-badesteto-na-lousan-vav-formula-1~243601.html",
+      "title": "Героят за Левски: Все още не съм на 100 процента, но ще работя, за да се върна на това ниво 31 Окт | 18:40",
+      "url": "https://dsport.bg/geroat-za-levski-vse-oste-ne-sam-na-100-procenta-no-ste-rabota-za-da-se-varna-na-tova-nivo~243623.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302765330.og.jpg"
+      "image": "https://dsport.bg/media/387/1049114.og.jpg"
     }
   ]
 }
