@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-31T21:00:48.210887+00:00",
+  "updated": "2026-10-31T23:59:26.129502+00:00",
   "articles": [
+    {
+      "title": "Кандидатите за членове на ВСС от съдийската квота представиха мотивите и концепциите си",
+      "url": "https://dariknews.bg/novini/bylgariia/kandidatite-za-chlenove-na-vss-ot-sydijskata-kvota-predstaviha-motivite-i-koncepciite-si-2470756",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+    },
     {
       "title": "Тежка катастрофа край Костинброд - кола се вряза под ремаркето на тир",
       "url": "https://dariknews.bg/novini/bylgariia/tezhka-katastrofa-kraj-kostinbrod-kola-se-vriaza-pod-remarketo-na-tir-2470754",
@@ -135,18 +142,39 @@
       "image": "https://m.netinfo.bg/media/images/50490/50490286/991-ratio-relsi-vlak.jpg"
     },
     {
-      "title": "Пригответе чадърите в изборния ден: Жълт код за интензивни валежи в половин България (КАРТА)",
-      "url": "https://dariknews.bg/novini/bylgariia/prigotvete-chadyrite-v-izborniia-den-zhylt-kod-za-intenzivni-valezhi-v-polovin-bylgariia-karta-2470733",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50729/50729494/991-ratio-chadyr.jpg"
+      "title": "Хамилтън стартира пръв в Мексико, Ръсел спря Ферари от първа редица 01 Ное | 00:20",
+      "url": "https://dsport.bg/hamiltan-startira-prav-v-meksiko-rasel-spra-ferari-ot-parva-redica~243649.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302898241.og.jpg"
     },
     {
-      "title": "На живо: Милан отново поведе с два гола на Интер 31 Окт | 22:55",
+      "title": "Алавес отнесе яда на Барселона 31 Окт | 23:58",
+      "url": "https://dsport.bg/alaves-otnese-ada-na-barselona~243647.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302900310.og.jpg"
+    },
+    {
+      "title": "Вратарски гаф спря Астън Вила срещу Фулъм 31 Окт | 23:57",
+      "url": "https://dsport.bg/vratarski-gaf-spra-astan-vila-srestu-fulam~243648.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302898355.og.jpg"
+    },
+    {
+      "title": "Милан отново триумфира в Дерби Дела Мадонина 31 Окт | 23:43",
       "url": "https://dsport.bg/na-zivo-milan-inter-sastavi~243634.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/gettyimages-2302891067.og.jpg"
+    },
+    {
+      "title": "Първа суха мрежа за Кръстев при победа на Сампдория 31 Окт | 23:14",
+      "url": "https://dsport.bg/parva-suha-mreza-za-krastev-pri-pobeda-na-sampdoria~243646.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2302398636.og.jpg"
     },
     {
       "title": "Мишо Александров: Последно си легнах преди 5 дни, никога не съм се отдалечавал от „Армията“ (ВИДЕО) 31 Окт | 22:54",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/1049200~1.og.jpg"
-    },
-    {
-      "title": "Александър Тунчев: Нещо невероятно са направили от ЦСКА (ВИДЕО) 31 Окт | 21:50",
-      "url": "https://dsport.bg/aleksandar-tunchev-nesto-neveroatno-sa-napravili-ot-cska-video~243640.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/979663-2.og.jpg"
-    },
-    {
-      "title": "Лапоухов: Да се спаси дузпа е най-хубавото чувство за вратарите 31 Окт | 21:44",
-      "url": "https://dsport.bg/lapouhov-da-se-spasi-duzpa-e-nai-hubavoto-chuvstvo-za-vratarite~243638.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/1049384~1.og.jpg"
-    },
-    {
-      "title": "Стойчо Младенов за предстоящото дерби с Левски: Ние по традиция си ги побеждаваме, имат комплекси от нас (ВИДЕО) 31 Окт | 21:40",
-      "url": "https://dsport.bg/stoicho-mladenov-za-predstoastoto-derbi-s-levski-nie-po-tradicia-si-gi-pobezdavame-imat-kompleksi-ot-nas-video~243637.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/1049104~1.og.jpg"
-    },
-    {
-      "title": "Дортмунд не се предаде срещу Байерн, паритет в Бундеслигата и след Дер Класикер 31 Окт | 21:29",
-      "url": "https://dsport.bg/dortmund-ne-se-predade-srestu-baiern-paritet-v-bundesligata-i-sled-der-klasiker~243622.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302869864.og.jpg"
     }
   ]
 }
