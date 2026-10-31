@@ -1,9 +1,44 @@
 {
-  "updated": "2026-10-31T17:57:57.244061+00:00",
+  "updated": "2026-10-31T21:00:48.210887+00:00",
   "articles": [
     {
-      "title": "На косъм от трагедия и тежък сблъсък с тир – шофьор спаси автобус, пълен с пътници (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/na-kosym-ot-tragediia-i-tezhyk-sblysyk-s-tir-shofior-spasi-avtobus-pylen-s-pytnici-video-2470747",
+      "title": "Тежка катастрофа край Костинброд - кола се вряза под ремаркето на тир",
+      "url": "https://dariknews.bg/novini/bylgariia/tezhka-katastrofa-kraj-kostinbrod-kola-se-vriaza-pod-remarketo-na-tir-2470754",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405332/991-ratio-katastrofa-bul-evropa.jpg"
+    },
+    {
+      "title": "Въздушна тревога в пет окръга на Румъния заради дронове – вдигнаха изтребители F-16",
+      "url": "https://dariknews.bg/novini/sviat/vyzdushna-trevoga-v-pet-okryga-na-rumyniia-zaradi-dronove-vdignaha-iztrebiteli-f-16-2470753",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51071/51071195/991-ratio-f-16-block-70.jpg"
+    },
+    {
+      "title": "Мартин и Николета продължиха победния си ход в звездната надпревара на „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/martin-i-nikoleta-prodylzhiha-pobedniia-si-hod-v-zvezdnata-nadprevara-na-igri-na-voliata-2470752",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405326/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Гласуването в чужбина на втори тур започна, първи ще дадат вота си българите в Окланд",
+      "url": "https://dariknews.bg/novini/bylgariia/glasuvaneto-v-chuzhbina-na-vtori-tur-zapochna-pyrvi-shte-dadat-vota-si-bylgarite-v-okland-2470751",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51400/51400458/991-ratio-izbori-glasuvane-izbirateli.jpg"
+    },
+    {
+      "title": "САЩ търсят ограничено примирие в Черно море заради доставките на зърно и енергия",
+      "url": "https://dariknews.bg/novini/sviat/sasht-tyrsiat-ogranicheno-primirie-v-cherno-more-zaradi-dostavkite-na-zyrno-i-energiia-2470750",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51286/51286297/991-ratio-cherno-more.jpg"
+    },
+    {
+      "title": "На косъм от трагедия и сблъсък с тир – шофьор спаси автобус, пълен с пътници (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/na-kosym-ot-tragediia-i-sblysyk-s-tir-shofior-spasi-avtobus-pylen-s-pytnici-video-2470747",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51405/51405239/991-ratio-avtobus-sofiia-vidin.jpg"
@@ -23,8 +58,8 @@
       "image": "https://m.netinfo.bg/media/images/51397/51397120/991-ratio-motorniiat-korab-chelsea-3-beshe-posreshtnat-ot-ministyra-na-transporta.jpg"
     },
     {
-      "title": "„Тревога: скъп живот“ – Франция отново е на улицата",
-      "url": "https://dariknews.bg/novini/sviat/trevoga-skyp-zhivot-franciia-otnovo-e-na-ulicata-2470744",
+      "title": "„Тревога: скъп живот“ – сблъсъци по време на нови мащабни протести във Франция",
+      "url": "https://dariknews.bg/novini/sviat/trevoga-skyp-zhivot-sblysyci-po-vreme-na-novi-mashtabni-protesti-vyv-franciia-2470744",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51405/51405065/991-ratio-protesti-franciia.jpg"
@@ -51,8 +86,8 @@
       "image": "https://m.netinfo.bg/media/images/51404/51404907/991-ratio-stara-zagora-policiia.jpg"
     },
     {
-      "title": "Турски тир се удари в мантинелата на магистрала „Хемус“, движението е затруднено",
-      "url": "https://dariknews.bg/novini/bylgariia/turski-tir-se-udari-v-mantinelata-na-magistrala-hemus-dvizhenieto-e-zatrudneno-2470740",
+      "title": "Турски тир се удари в мантинелата на магистрала „Хемус“",
+      "url": "https://dariknews.bg/novini/bylgariia/turski-tir-se-udari-v-mantinelata-na-magistrala-hemus-2470740",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51404/51404905/991-ratio-magistrala-hemus.jpg"
@@ -107,109 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/50729/50729494/991-ratio-chadyr.jpg"
     },
     {
-      "title": "Такси излетя от мост и се обърна по таван в София, кадрите взривиха социалните мрежи",
-      "url": "https://dariknews.bg/novini/bylgariia/taksi-izletia-ot-most-i-se-obyrna-po-tavan-v-sofiia-kadrite-vzriviha-socialnite-mrezhi-2470731",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51266/51266939/991-ratio-taksi.jpg"
-    },
-    {
-      "title": "Важно предупреждение от МВнР към българите в Австрия и Испания",
-      "url": "https://dariknews.bg/novini/bylgariia/vazhno-preduprezhdenie-ot-mvnr-kym-bylgarite-v-avstriia-i-ispaniia-2470730",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51057/51057148/991-ratio-mvnr.jpg"
-    },
-    {
-      "title": "Започна изборът на нови членове на ВСС от професионалната квота на съдиите",
-      "url": "https://dariknews.bg/novini/bylgariia/zapochna-izboryt-na-novi-chlenove-na-vss-ot-profesionalnata-kvota-na-sydiite-2470729",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51367/51367347/991-ratio-vss.jpg"
-    },
-    {
-      "title": "Извънредни мерки за сигурност: Франция се готви за нови масови протести, очакват до 450 000 души",
-      "url": "https://dariknews.bg/novini/sviat/izvynredni-merki-za-sigurnost-franciia-se-gotvi-za-novi-masovi-protesti-ochakvat-do-450-000-dushi-2470728",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Последно сбогом със Слави Бинев (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/posledno-sbogom-sys-slavi-binev-snimki-2470727",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "На живо: ЦСКА натиска Славия, „Армията“ ехти с 18 хиляди 31 Окт | 19:53",
-      "url": "https://dsport.bg/na-zivo-cska-slavia-v-parvia-mach-na-armiata-sastavi~243619.html",
+      "title": "На живо: Милан отново поведе с два гола на Интер 31 Окт | 22:55",
+      "url": "https://dsport.bg/na-zivo-milan-inter-sastavi~243634.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1049204.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302891067.og.jpg"
     },
     {
-      "title": "БУТОНКИТЕ: Пълна подкрепа за Левски сега! 31 Окт | 19:42",
-      "url": "https://dsport.bg/butonkite-palna-podkrepa-za-levski-sega~243629.html",
+      "title": "Мишо Александров: Последно си легнах преди 5 дни, никога не съм се отдалечавал от „Армията“ (ВИДЕО) 31 Окт | 22:54",
+      "url": "https://dsport.bg/misho-aleksandrov-posledno-si-legnah-predi-5-dni-nikoga-ne-sam-se-otdalechaval-ot-armiata-video~243645.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/2026-10-31-butonki_thumb_tometo.og.jpg"
+      "image": "https://dsport.bg/media/387/1046041~1.og.jpg"
     },
     {
-      "title": "На живо: Байерн Мюнхен - Борусия Дортмунд, греда на Олисе 31 Окт | 19:32",
-      "url": "https://dsport.bg/na-zivo-11-te-na-baiern-munhen-i-borusia-dortmund-za-der-klasiker~243622.html",
+      "title": "Вальо Илиев за Цварц, Перейра и дали ЦСКА ще отлага мач (ВИДЕО) 31 Окт | 22:51",
+      "url": "https://dsport.bg/valo-iliev-za-cvarc-pereira-i-dali-cska-ste-otlaga-mach-video~243644.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302869205.og.jpg"
+      "image": "https://dsport.bg/media/387/1049194.og.jpg"
     },
     {
-      "title": "Чиликов: Хосе е с 4 прободни рани, съдиите се държат сякаш имат по 1000 мача в Шампионска лига (ВИДЕО) 31 Окт | 19:27",
-      "url": "https://dsport.bg/chilikov-hose-e-s-4-probodni-rani-sadiite-se-darzat-sakash-imat-po-1000-macha-v-shampionska-liga-video~243628.html",
+      "title": "БУТОНКИТЕ: ЦСКА не би, но “Армията” запали червените сърца 31 Окт | 22:17",
+      "url": "https://dsport.bg/butonkite-cska-ne-bi-no-armiata-zapali-chervenite-sarca~243643.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1048960~1.og.jpg"
+      "image": "https://dsport.bg/media/387/2026-10-31-butonki_thumb_niki.og.jpg"
     },
     {
-      "title": "Костадинов скочи на съдийството: Когато грешките зачестяват в една посока, няма да показваме толеранс (ВИДЕО) 31 Окт | 19:05",
-      "url": "https://dsport.bg/kostadinov-skochi-na-sadiistvoto-kogato-greshkite-zachestavat-v-edna-posoka-nama-da-pokazvame-tolerans-video~243627.html",
+      "title": "Достанич доволен след 0:0 на новата „Армия“, Юли Петков - разочарован, че Славия не развали празника (ВИДЕО) 31 Окт | 21:55",
+      "url": "https://dsport.bg/dostanich-dovolen-sled-0-0-na-novata-armia-uli-petkov-razocharovan-che-slavia-ne-razvali-praznika-video~243642.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1048771.og.jpg"
+      "image": "https://dsport.bg/media/387/1049435.og.jpg"
     },
     {
-      "title": "ЦСКА откри „Българска армия“ с бляскава церемония и най-великите фигури (ВИДЕО) 31 Окт | 18:59",
-      "url": "https://dsport.bg/na-zivo-cska-otkriva-stadion-balgarska-armia~243615.html",
+      "title": "Гиздол: Топката не искаше да влезе, знаем как да поправим нещата (ВИДЕО) 31 Окт | 21:52",
+      "url": "https://dsport.bg/gizdol-topkata-ne-iskashe-da-vleze-znaem-kak-da-popravim-nestata~243641.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1049112.og.jpg"
+      "image": "https://dsport.bg/media/387/1049200~1.og.jpg"
     },
     {
-      "title": "Брайтън нанесе втора поредна загуба на Манчестър Сити във Висшата лига 31 Окт | 18:54",
-      "url": "https://dsport.bg/braitan-nanese-vtora-poredna-zaguba-na-manchestar-siti-vav-visshata-liga~243625.html",
+      "title": "Александър Тунчев: Нещо невероятно са направили от ЦСКА (ВИДЕО) 31 Окт | 21:50",
+      "url": "https://dsport.bg/aleksandar-tunchev-nesto-neveroatno-sa-napravili-ot-cska-video~243640.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302864215.og.jpg"
+      "image": "https://dsport.bg/media/387/979663-2.og.jpg"
     },
     {
-      "title": "Веласкес: Много съм доволен, трудно е на такъв терен 31 Окт | 18:51",
-      "url": "https://dsport.bg/velaskes-mnogo-sam-dovolen-trudno-e-na-takav-teren~243626.html",
+      "title": "Лапоухов: Да се спаси дузпа е най-хубавото чувство за вратарите 31 Окт | 21:44",
+      "url": "https://dsport.bg/lapouhov-da-se-spasi-duzpa-e-nai-hubavoto-chuvstvo-za-vratarite~243638.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1049041~1.og.jpg"
+      "image": "https://dsport.bg/media/387/1049384~1.og.jpg"
     },
     {
-      "title": "Голов екшън в Бундеслигата: Щутгарт подчини Леверкузен в трилър с 6 гола, Фрайбург с късен обрат, РБ Лайпциг превзе Гелзенкирхен 31 Окт | 18:43",
-      "url": "https://dsport.bg/golov-ekshan-v-bundesligata-stutgart-podchini-leverkuzen-v-trilar-s-6-gola-fraiburg-s-kasen-obrat-rb-laipcig-prevze-gelzenkirhen~243624.html",
+      "title": "Стойчо Младенов за предстоящото дерби с Левски: Ние по традиция си ги побеждаваме, имат комплекси от нас (ВИДЕО) 31 Окт | 21:40",
+      "url": "https://dsport.bg/stoicho-mladenov-za-predstoastoto-derbi-s-levski-nie-po-tradicia-si-gi-pobezdavame-imat-kompleksi-ot-nas-video~243637.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302857921.og.jpg"
+      "image": "https://dsport.bg/media/387/1049104~1.og.jpg"
     },
     {
-      "title": "Героят за Левски: Все още не съм на 100 процента, но ще работя, за да се върна на това ниво 31 Окт | 18:40",
-      "url": "https://dsport.bg/geroat-za-levski-vse-oste-ne-sam-na-100-procenta-no-ste-rabota-za-da-se-varna-na-tova-nivo~243623.html",
+      "title": "Дортмунд не се предаде срещу Байерн, паритет в Бундеслигата и след Дер Класикер 31 Окт | 21:29",
+      "url": "https://dsport.bg/dortmund-ne-se-predade-srestu-baiern-paritet-v-bundesligata-i-sled-der-klasiker~243622.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/1049114.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302869864.og.jpg"
     }
   ]
 }
