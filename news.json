@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T00:44:20.983222+00:00",
+  "updated": "2026-11-02T06:53:25.310508+00:00",
   "articles": [
     {
       "title": "Извънредно България избра първата си жена президент за пълен мандат!",
@@ -9,11 +9,123 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Приключи гласуването в Европа на втория тур на президентските избори",
-      "url": "https://dariknews.bg/novini/prezidentski-izbori/prikliuchi-glasuvaneto-v-evropa-na-vtoriia-tur-na-prezidentskite-izbori-2470838",
+      "title": "Гюров печели 23-и и 24-и МИР в София, Йотова – 25-и",
+      "url": "https://dariknews.bg/regioni/sofiia/giurov-pecheli-23-i-i-24-i-mir-v-sofiia-iotova-25-i-2470845",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51405/51405384/991-ratio-izbori.jpg"
+      "image": "https://m.netinfo.bg/media/images/51405/51405388/991-ratio-izbori.jpg"
+    },
+    {
+      "title": "От САЩ до Русия: Световните медии коментират победата на Илияна Йотова",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/ot-sasht-do-rusiia-svetovnite-medii-komentirat-pobedata-na-iliiana-iotova-2470844",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Фон дер Лайен поздрави Йотова: Очаквам с нетърпение да продължим съвместната си работа",
+      "url": "https://dariknews.bg/novini/sviat/fon-der-lajen-pozdravi-iotova-ochakvam-s-netyrpenie-da-prodylzhim-syvmestnata-si-rabota-2470841",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51290/51290048/991-ratio-fon-der-lajen.jpg"
+    },
+    {
+      "title": "Започва изслушването на кандидатите за членове на ВСС от квотата на парламента",
+      "url": "https://dariknews.bg/novini/bylgariia/zapochva-izslushvaneto-na-kandidatite-za-chlenove-na-vss-ot-kvotata-na-parlamenta-2470843",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51367/51367347/991-ratio-vss.jpg"
+    },
+    {
+      "title": "Приложението, предупреждаващо украинците за въздушни атаки, е било хакнато",
+      "url": "https://dariknews.bg/novini/sviat/prilozhenieto-preduprezhdavashto-ukraincite-za-vyzdushni-ataki-e-bilo-haknato-2470842",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405752/991-ratio-vyzdushna-ataka-preduprezhdenie.jpg"
+    },
+    {
+      "title": "Частен самолет се разби край оживен път във Флорида, всички девет души на борда загинаха",
+      "url": "https://dariknews.bg/novini/sviat/chasten-samolet-se-razbi-kraj-ozhiven-pyt-vyv-florida-vsichki-devet-dushi-na-borda-zaginaha-2470840",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405750/991-ratio-samolet-florida.jpg"
+    },
+    {
+      "title": "Орлин Павлов – чаровният артист, който превръща всяка роля в незабравимо преживяване",
+      "url": "https://dariknews.bg/novini/liubopitno/orlin-pavlov-charovniiat-artist-kojto-prevryshta-vsiaka-rolia-v-nezabravimo-prezhiviavane-2469983",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Сочни, ароматни и много вкусни: Топ ползи за здравето от малините",
+      "url": "https://dariknews.bg/novini/liubopitno/sochni-aromatni-i-mnogo-vkusni-top-polzi-za-zdraveto-ot-malinite-2470268",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/41012/41012031/991-ratio-malini.jpg"
+    },
+    {
+      "title": "Кога да сложим киселото зеле, за да стане готово за Коледа",
+      "url": "https://dariknews.bg/novini/liubopitno/koga-da-slozhim-kiseloto-zele-za-da-stane-gotovo-za-koleda-2363881",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50629/50629907/991-ratio-kiselo-zele.jpg"
+    },
+    {
+      "title": "ЦИК при обработени 99.95% протоколи: Йотова увеличава преднината си пред Гюров",
+      "url": "https://dariknews.bg/novini/bylgariia/cikpri-obraboteni-99.95-protokoli-iotova-uvelichava-predninata-si-pred-giurov-2470839",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51401/51401767/991-ratio-iliiana-iotova.jpg"
+    },
+    {
+      "title": "ЕС въвежда допълнителна такса за евтините пратки от Тему и Шейн, очаква милиарди приходи",
+      "url": "https://dariknews.bg/novini/liubopitno/es-vyvezhda-dopylnitelna-taksa-za-evtinite-pratki-ot-temu-i-shejn-ochakva-miliardi-prihodi-2470805",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51208/51208130/991-ratio-shejn-temu-ali-ekspres.jpg"
+    },
+    {
+      "title": "Променят движението по два пътя край Петрич заради смяна на камери",
+      "url": "https://dariknews.bg/regioni/burgas/promeniat-dvizhenieto-po-dva-pytia-kraj-petrich-zaradi-smiana-na-kameri-2470697",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51374/51374543/991-ratio-kameri.jpg"
+    },
+    {
+      "title": "Личен състав и военна техника ще преминават по пътищата у нас до 14 ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/lichen-systav-i-voenna-tehnika-shte-preminavat-po-pytishtata-u-nas-do-14-noemvri-2470632",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/49584/49584242/991-ratio-voenna-tehnika.jpg"
+    },
+    {
+      "title": "Популярна хранителна добавка може да предпази мозъка от увреждане",
+      "url": "https://dariknews.bg/novini/liubopitno/populiarna-hranitelna-dobavka-mozhe-da-predpazi-mozyka-ot-uvrezhdane-2470806",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/41002/41002762/991-ratio-kontraceptiv-zhena-hapche.jpg"
+    },
+    {
+      "title": "Оранжев код за обилни валежи в 7 области на Източна България",
+      "url": "https://dariknews.bg/novini/bylgariia/oranzhev-kod-za-obilni-valezhi-v-7-oblasti-na-iztochna-bylgariia-2470791",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405506/991-ratio-esen-dyzhd.jpg"
+    },
+    {
+      "title": "Кой празнува имен ден на 2 ноември?",
+      "url": "https://dariknews.bg/novini/liubopitno/koj-praznuva-imen-den-na-2-noemvri-2470808",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51002/51002461/991-ratio-imen-den.jpg"
+    },
+    {
+      "title": "Българите в чужбина гласуваха в 60 държави, вотът зад граница приключи",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/bylgarite-v-chuzhbina-glasuvaha-v-60-dyrzhavi-votyt-zad-granica-prikliuchi-2470838",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Битката за „Дондуков“ 2: ЦИК с първи официални резултати за балотажа",
@@ -30,116 +142,25 @@
       "image": "https://m.netinfo.bg/media/images/51405/51405705/991-ratio-giurov.jpg"
     },
     {
-      "title": "Военна тревога в Латвия заради неизвестен обект край границата",
-      "url": "https://dariknews.bg/novini/sviat/voenna-trevoga-v-latviia-zaradi-neizvesten-obekt-kraj-granicata-2470835",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50996/50996179/991-ratio-dronove.jpg"
+      "title": "Макун: Отборите в долната част на класирането имат допълнителни стимули да ни отнемат точки 02 Ное | 08:48",
+      "url": "https://dsport.bg/makun-otborite-v-dolnata-chast-na-klasiraneto-imat-dopalnitelni-stimuli-da-ni-otnemat-tochki~243718.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/1050477.og.jpg"
     },
     {
-      "title": "Илияна Йотова с първи думи: Господин Радев, без Вас нямаше да се справя (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/iliiana-iotova-s-pyrvi-dumi-gospodin-radev-bez-vas-niamashe-da-se-spravia-video-2470834",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Новобранец изравни постижение на легенди в НБА, Дончич наниза 45 точки (ВИДЕО) 02 Ное | 08:31",
+      "url": "https://dsport.bg/novobranec-izravni-postizenie-na-legendi-v-nba-donchich-naniza-45-tochki-video~243717.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2303061353.og.jpg"
     },
     {
-      "title": "Георги Господинов с остър коментар за балотажа: Скоро децата ще питат къде бяхте на 1 ноември 2026",
-      "url": "https://dariknews.bg/novini/bylgariia/georgi-gospodinov-s-ostyr-komentar-za-balotazha-skoro-decata-shte-pitat-kyde-biahte-na-1-noemvri-2026-2470833",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51405/51405682/991-ratio-georgi-gospodinov.jpg"
-    },
-    {
-      "title": "Румен Радев: Илияна Йотова ще бъде достоен президент на България",
-      "url": "https://dariknews.bg/novini/bylgariia/rumen-radev-iliiana-iotova-shte-byde-dostoen-prezident-na-bylgariia-2470832",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Късметлия от Добрич спечели джакпот от близо 5,9 млн. евро от тотото",
-      "url": "https://dariknews.bg/regioni/dobrich/kysmetliia-ot-dobrich-specheli-dzhakpot-ot-blizo-59-mln.-evro-ot-tototo-2470831",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51299/51299979/991-ratio-evro.jpg"
-    },
-    {
-      "title": "Вторият тур на президентските избори приключи",
-      "url": "https://dariknews.bg/novini/bylgariia/vtoriiat-tur-na-prezidentskite-izbori-prikliuchi-2470830",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51405/51405388/991-ratio-izbori.jpg"
-    },
-    {
-      "title": "Костадинов: Избирателите на „Възраждане“ определиха крайния резултат от изборите",
-      "url": "https://dariknews.bg/novini/bylgariia/kostadinov-izbiratelite-na-vyzrazhdane-opredeliha-krajniia-rezultat-ot-izborite-2470829",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51362/51362258/991-ratio-kostadin-kostadinov.jpg"
-    },
-    {
-      "title": "Кой е Кирил Вълчев (БИОГРАФИЯ)",
-      "url": "https://dariknews.bg/novini/bylgariia/koj-e-kiril-vylchev-biografiia-2465529",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Куриоз на балотажа: Избиратели си записвали на дланта за кого да гласуват",
-      "url": "https://dariknews.bg/novini/bylgariia/kurioz-na-balotazha-izbirateli-si-zapisvali-na-dlanta-za-kogo-da-glasuvat-2470828",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51379/51379567/991-ratio-ivan-demerdzhiev.jpg"
-    },
-    {
-      "title": "Първата жена на „Дондуков“ 2: Коя е Илияна Йотова",
-      "url": "https://dariknews.bg/novini/bylgariia/pyrvata-zhena-na-dondukov-2-koia-e-iliiana-iotova-1622305",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51255/51255512/991-ratio-iliiana-iotova.jpg"
-    },
-    {
-      "title": "Асен Василев: Не очаквам обрат в резултата от балотажа",
-      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-ne-ochakvam-obrat-v-rezultata-ot-balotazha-2470827",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51371/51371153/991-ratio-asen-vasilev.jpg"
-    },
-    {
-      "title": "100% паралелно преброяване: Йотова печели балотажа – България избра първата си жена президент с пълен мандат",
-      "url": "https://dariknews.bg/novini/bylgariia/100-paralelno-prebroiavane-iotova-pecheli-balotazha-bylgariia-izbra-pyrvata-si-zhena-prezident-s-pylen-mandat-2470822",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Такси блъсна възрастен мъж в Разград",
-      "url": "https://dariknews.bg/regioni/razgrad/taksi-blysna-vyzrasten-myzh-v-razgrad-2470826",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51397/51397452/991-ratio-linejka.jpg"
-    },
-    {
-      "title": "Пендачанска: Резултатът може да се обърне, очакваме силна подкрепа за Гюров от чужбина",
-      "url": "https://dariknews.bg/novini/bylgariia/pendachanska-rezultatyt-mozhe-da-se-obyrne-ochakvame-silna-podkrepa-za-giurov-ot-chuzhbina-2470825",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51380/51380639/991-ratio-aleksandrina-pendachanska.jpg"
-    },
-    {
-      "title": "„Прогресивна България“ с първи коментар след exit poll резултатите",
-      "url": "https://dariknews.bg/novini/bylgariia/progresivna-bylgariia-s-pyrvi-komentar-sled-exit-poll-rezultatite-2470824",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Ел Ниньо ще влияе върху климата до края на 2027 година",
-      "url": "https://dariknews.bg/novini/sviat/el-ninio-shte-vliiae-vyrhu-klimata-do-kraia-na-2027-godina-2470823",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34197/34197530/991-ratio-el-ninio.jpg"
+      "title": "Меси дирижира обрат на Интер Маями (ВИДЕО) 02 Ное | 08:15",
+      "url": "https://dsport.bg/mesi-dirizira-obrat-na-inter-maami-video~243716.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2303055362.og.jpg"
     },
     {
       "title": "Антонели е световен шампион във Формула 1, Верстапен грабна победата в Мексико 02 Ное | 00:25",
@@ -189,27 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/gettyimages-2273477852~2.og.jpg"
-    },
-    {
-      "title": "Везенков блести при нов разгром на Олимпиакос 01 Ное | 23:11",
-      "url": "https://dsport.bg/vezenkov-blesti-pri-nov-razgrom-na-olimpiakos~243709.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2269957212-1-2-1-1~1.og.jpg"
-    },
-    {
-      "title": "Скандал в Англия: използваха снимка на починало дете, за да обидят фенове, майка му отправи силно послание 01 Ное | 23:09",
-      "url": "https://dsport.bg/skandal-v-anglia-izpolzvaha-snimka-na-pochinalo-dete-za-da-obidat-fenove-maika-mu-otpravi-silno-poslanie~243708.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-1429446566.og.jpg"
-    },
-    {
-      "title": "Два блокбъстъра за Купата на Германия, Байерн мина между капките 01 Ное | 22:50",
-      "url": "https://dsport.bg/dva-blokbastara-za-kupata-na-germania-baiern-mina-mezdu-kapkite~243707.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2302269192.og.jpg"
     }
   ]
 }
