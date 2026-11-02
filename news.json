@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:12:36.872303+00:00",
+  "updated": "2026-11-02T00:44:20.983222+00:00",
   "articles": [
     {
       "title": "Извънредно България избра първата си жена президент за пълен мандат!",
@@ -7,6 +7,20 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Приключи гласуването в Европа на втория тур на президентските избори",
+      "url": "https://dariknews.bg/novini/prezidentski-izbori/prikliuchi-glasuvaneto-v-evropa-na-vtoriia-tur-na-prezidentskite-izbori-2470838",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405384/991-ratio-izbori.jpg"
+    },
+    {
+      "title": "Битката за „Дондуков“ 2: ЦИК с първи официални резултати за балотажа",
+      "url": "https://dariknews.bg/novini/bylgariia/bitkata-za-dondukov-2-cik-s-pyrvi-oficialni-rezultati-za-balotazha-2470837",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51405/51405709/991-ratio-jotova-giurov.jpg"
     },
     {
       "title": "Гюров: Приемаме резултатите, колкото и изненадващи да са те - най-доброто предстои",
@@ -128,25 +142,67 @@
       "image": "https://m.netinfo.bg/media/images/34197/34197530/991-ratio-el-ninio.jpg"
     },
     {
-      "title": "Зад кулисите на „Дондуков“ 2: Правилата зад официалните церемонии в Президентството",
-      "url": "https://dariknews.bg/novini/bylgariia/zad-kulisite-na-dondukov-2-pravilata-zad-oficialnite-ceremonii-v-prezidentstvoto-2470821",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Антонели е световен шампион във Формула 1, Верстапен грабна победата в Мексико 02 Ное | 00:25",
+      "url": "https://dsport.bg/antoneli-e-svetoven-shampion-vav-formula-1-verstapen-grabna-pobedata-v-meksiko~243715.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2303036642.og.jpg"
     },
     {
-      "title": "Папа Лъв XIV вижда шанс за мир между Русия и Украйна след шестдневното примирие",
-      "url": "https://dariknews.bg/novini/sviat/papa-lyv-xiv-vizhda-shans-za-mir-mezhdu-rusiia-i-ukrajna-sled-shestdnevnoto-primirie-2470820",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51328/51328727/991-ratio-papa-lyv-chetirinadeseti.jpg"
+      "title": "Формула 1 има нов шампион! Кими Антонели зарадва Италия и пренаписа историята 02 Ное | 00:24",
+      "url": "https://dsport.bg/formula-1-ima-nov-shampion-kimi-antoneli-zaradva-italia-i-prenapisa-istoriata~243714.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/antonelli-s-cinematic-victory-montage.og.png"
     },
     {
-      "title": "На живо: Малко положения и без голове на Ювентус и Наполи 01 Ное | 23:01",
+      "title": "Братята Уилямс поведоха Атлетик към победа в баското дерби с Реал Сосиедад 01 Ное | 23:59",
+      "url": "https://dsport.bg/bratata-uilams-povedoha-atletik-kam-pobeda-v-baskoto-derbi-s-real-sosiedad~243713.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2303033008.og.jpg"
+    },
+    {
+      "title": "Ренесансът на Марсилия сложи край на добрата серия на Тулуза 01 Ное | 23:46",
+      "url": "https://dsport.bg/renesansat-na-marsilia-slozi-krai-na-dobrata-seria-na-tuluza~243712.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/01.08-9.og.jpg"
+    },
+    {
+      "title": "Спалети надхитри Алегри, Ювентус повали Наполи с два фамозни гола 01 Ное | 23:32",
       "url": "https://dsport.bg/na-zivo-uventus-napoli-sastavite~243699.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2303024121.og.jpg"
+      "image": "https://dsport.bg/media/387/gettyimages-2302589631.og.jpg"
+    },
+    {
+      "title": "Шут на Чуамени уцели малък фен, Мбапе се пошегува с него след мача на Реал Мадрид (ВИДЕО) 01 Ное | 23:29",
+      "url": "https://dsport.bg/shut-na-chuameni-uceli-malak-fen-mbape-se-posheguva-s-nego-sled-macha-na-real-madrid~243711.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2303002564.og.jpg"
+    },
+    {
+      "title": "Росен Божинов не успя да помогне на Пиза да избегне загуба 01 Ное | 23:26",
+      "url": "https://dsport.bg/rosen-bozinov-ne-uspa-da-pomogne-na-piza-da-izbegne-zaguba~243710.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2273477852~2.og.jpg"
+    },
+    {
+      "title": "Везенков блести при нов разгром на Олимпиакос 01 Ное | 23:11",
+      "url": "https://dsport.bg/vezenkov-blesti-pri-nov-razgrom-na-olimpiakos~243709.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-2269957212-1-2-1-1~1.og.jpg"
+    },
+    {
+      "title": "Скандал в Англия: използваха снимка на починало дете, за да обидят фенове, майка му отправи силно послание 01 Ное | 23:09",
+      "url": "https://dsport.bg/skandal-v-anglia-izpolzvaha-snimka-na-pochinalo-dete-za-da-obidat-fenove-maika-mu-otpravi-silno-poslanie~243708.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/387/gettyimages-1429446566.og.jpg"
     },
     {
       "title": "Два блокбъстъра за Купата на Германия, Байерн мина между капките 01 Ное | 22:50",
@@ -154,62 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/387/gettyimages-2302269192.og.jpg"
-    },
-    {
-      "title": "След смъртта на Слави Бинев: Фарзад Золхадри се разделя с българското таекуондо 01 Ное | 22:46",
-      "url": "https://dsport.bg/sled-smartta-na-slavi-binev-farzad-zolhardi-se-razdela-s-balgarskoto-taekuondo~243706.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/592600.og.jpg"
-    },
-    {
-      "title": "Изгониха двама от Ривър на „Ла Бомбонера“ – Бока отново спечели Суперкласико 01 Ное | 22:35",
-      "url": "https://dsport.bg/izgoniha-dvama-ot-rivar-na-la-bombonera-boka-otnovo-specheli-superklasiko~243705.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2303022562.og.jpg"
-    },
-    {
-      "title": "Пламен Андреев с нов силен мач, Дебрецен продължава изкачването 01 Ное | 22:17",
-      "url": "https://dsport.bg/plamen-andreev-s-nov-silen-mach-debrecen-prodalzava-izkachvaneto~243704.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/01.08-7~1.og.jpg"
-    },
-    {
-      "title": "Ивайло Иванов триумфина на турнир в Абу Даби 01 Ное | 21:57",
-      "url": "https://dsport.bg/ivailo-ivanov-triumfina-na-turnir-v-abu-dabi~243703.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/01.08-6~1.og.jpg"
-    },
-    {
-      "title": "Братя Николов поведоха Лубе към трета поредна победа в Италия 01 Ное | 21:51",
-      "url": "https://dsport.bg/brata-nikolov-povedoha-lube-kam-treta-poredna-pobeda-v-italia~243702.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-1482670658-1-1~1.og.jpg"
-    },
-    {
-      "title": "ПАО загря подобаващо за ЦСКА: би АЕК с Мартин Георгиев и остава пръв в Гърция 01 Ное | 21:30",
-      "url": "https://dsport.bg/pao-zagra-podobavasto-za-cska-bi-aek-s-martin-georgiev-i-ostava-prav-v-garcia~243701.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/01.08-5~2.og.jpg"
-    },
-    {
-      "title": "Завърнал се след контузия герой измъкна Валенсия при новия треньор 01 Ное | 21:26",
-      "url": "https://dsport.bg/zavarnal-se-sled-kontuzia-geroi-izmakna-valensia-pri-novia-trenor~243700.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2303017820.og.jpg"
-    },
-    {
-      "title": "Айнтрахт Франкфурт взе 3 точки за 7 места напред 01 Ное | 20:59",
-      "url": "https://dsport.bg/aintraht-frankfurt-vze-3-tochki-za-7-mesta-napred~243698.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/387/gettyimages-2303010680.og.jpg"
     }
   ]
 }
