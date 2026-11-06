@@ -1,145 +1,180 @@
 {
-  "updated": "2026-11-06T00:33:25.607724+00:00",
+  "updated": "2026-11-06T07:18:32.243792+00:00",
   "articles": [
     {
-      "title": "Нови протести срещу скъпия живот във Франция, стигна се до сблъсъци (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/sviat/novi-protesti-sreshtu-skypiia-zhivot-vyv-franciia-stigna-se-do-sblysyci-snimki-2471294",
+      "title": "България се сбогува с Вежди Рашидов: Емоционални послания и минута мълчание в парламента",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgariia-se-sboguva-s-vezhdi-rashidov-emocionalni-poslaniia-i-minuta-mylchanie-v-parlamenta-2471311",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408365/991-ratio-franciia.jpg"
+      "image": "https://m.netinfo.bg/media/images/51408/51408571/991-ratio-vezhdi-rashidov.jpg"
     },
     {
-      "title": "Канарите се спасиха от номинации след блестящо представяне в „Игри на волята“ (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/liubopitno/kanarite-se-spasiha-ot-nominacii-sled-blestiashto-predstaviane-v-igri-na-voliata-snimki-2471292",
+      "title": "Минута мълчание: Депутатите сведоха глави в памет на Рашидов",
+      "url": "https://dariknews.bg/novini/bylgariia/minuta-mylchanie-deputatite-svedoha-glavi-v-pamet-na-rashidov-2471310",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408337/991-ratio-igri-na-voliata.jpg"
+      "image": "https://m.netinfo.bg/media/images/51408/51408579/991-ratio-narodno-sybranie-minuta-mylchanie.jpg"
     },
     {
-      "title": "Полската централна банка вече разполага със 700 тона злато",
-      "url": "https://dariknews.bg/novini/sviat/polskata-centralna-banka-veche-razpolaga-sys-700-tona-zlato-2471290",
+      "title": "„Ще ми липсваш, приятелю!“: Бойко Борисов с емоционално сбогуване с Вежди Рашидов",
+      "url": "https://dariknews.bg/novini/bylgariia/shte-mi-lipsvash-priiateliu-bojko-borisov-s-emocionalno-sboguvane-s-vezhdi-rashidov-2471309",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408308/991-ratio-zlato.jpg"
+      "image": "https://m.netinfo.bg/media/images/51408/51408578/991-ratio-bojko-borisov-i-vezhdi-rashidov.jpg"
     },
     {
-      "title": "Ловчанският митрополит Гавриил е приет по спешност в болница",
-      "url": "https://dariknews.bg/regioni/lovech/lovchanskiiat-mitropolit-gavriil-e-priet-po-speshnost-v-bolnica-2471288",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408295/991-ratio-mitropolit-gavriil.jpg"
-    },
-    {
-      "title": "Правната комисия единодушно подкрепи кандидатите за членове на ВСС от квотата на парламента",
-      "url": "https://dariknews.bg/novini/bylgariia/pravnata-komisiia-edinodushno-podkrepi-kandidatite-za-chlenove-na-vss-ot-kvotata-na-parlamenta-2471287",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408232/991-ratio-parlamentarnata-komisiia-po-pravni-vyprosi.jpg"
-    },
-    {
-      "title": "Зеленски поиска международна помощ за възстановяването на украинската енергийна инфраструктура",
-      "url": "https://dariknews.bg/novini/sviat/zelenski-poiska-mezhdunarodna-pomosht-za-vyzstanoviavaneto-na-ukrainskata-energijna-infrastruktura-2471286",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51405/51405497/991-ratio-volodimir-zelenski.jpg"
-    },
-    {
-      "title": "Мелания Тръмп призова за трайно примирие в Украйна",
-      "url": "https://dariknews.bg/novini/sviat/melaniia-trymp-prizova-za-trajno-primirie-v-ukrajna-2471285",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408221/991-ratio-melaniia-trymp.jpg"
-    },
-    {
-      "title": "„Небето ви ще стане червено“: Имейлът с бомбена заплаха до летище София бил подписан от „Бойците на мъжката държава“",
-      "url": "https://dariknews.bg/novini/bylgariia/nebeto-vi-shte-stane-cherveno-imejlyt-s-bombena-zaplaha-do-letishte-sofiia-bil-podpisan-ot-bojcite-na-myzhkata-dyrzhava-2471284",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51211/51211405/991-ratio-velizar-mitov-i-hristo-muskov.jpg"
-    },
-    {
-      "title": "Запис от разговора с пилотите на аварийно кацналия в Пловдив самолет: Ще ви прехване военен изтребител",
-      "url": "https://dariknews.bg/novini/bylgariia/zapis-ot-razgovora-s-pilotite-na-avarijno-kacnaliia-v-plovdiv-samolet-shte-vi-prehvane-voenen-iztrebitel-2471283",
+      "title": "Изнудване и побои в Бургаско: Задържаха 24-годишен мъж, принуждавал хора да теглят кредити за него",
+      "url": "https://dariknews.bg/regioni/burgas/iznudvane-i-poboi-v-burgasko-zadyrzhaha-24-godishen-myzh-prinuzhdaval-hora-da-tegliat-krediti-za-nego-2471308",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Бомбени заплахи разтърсиха небето над Европа: Десетки самолети бяха отклонени и проверени",
-      "url": "https://dariknews.bg/novini/bylgariia/bombeni-zaplahi-raztyrsiha-nebeto-nad-evropa-desetki-samoleti-biaha-otkloneni-i-provereni-2471282",
+      "title": "Почина Вежди Рашидов",
+      "url": "https://dariknews.bg/novini/bylgariia/pochina-vezhdi-rashidov-2471307",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51105/51105645/991-ratio-samolet-burgas-turisti.jpg"
+      "image": "https://m.netinfo.bg/media/images/51408/51408573/991-ratio-vezhdi-rashidov.jpg"
     },
     {
-      "title": "Заради отклонения в качеството на водата: Удължават частичното бедствено положение в Козлодуй",
-      "url": "https://dariknews.bg/novini/bylgariia/zaradi-otkloneniia-v-kachestvoto-na-vodata-udylzhavat-chastichnoto-bedstveno-polozhenie-v-kozloduj-2471281",
+      "title": "Кофа, канче и бързовар вместо топла вода: Младите хора в „Студентски град“ посрещат зимата на студено",
+      "url": "https://dariknews.bg/novini/bylgariia/kofa-kanche-i-byrzovar-vmesto-topla-voda-mladite-hora-v-studentski-grad-posreshtat-zimata-na-studeno-2471306",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51278/51278141/991-ratio-voda-cheshma.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Евтим Милошев: Служителите на министерството, които работят почтено, ще имат място в институцията",
-      "url": "https://dariknews.bg/novini/bylgariia/evtim-miloshev-sluzhitelite-na-ministerstvoto-koito-rabotiat-pochteno-shte-imat-miasto-v-instituciiata-2471280",
+      "title": "Дупки капани дебнат в русенско село, хората настояват за спешен ремонт на пътя",
+      "url": "https://dariknews.bg/novini/bylgariia/dupki-kapani-debnat-v-rusensko-selo-horata-nastoiavat-za-speshen-remont-na-pytia-2471304",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50895/50895624/991-ratio-evtim-miloshev.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Руски съд осъди задочно на 4 години затвор дъщерята на убития опозиционер Борис Немцов",
-      "url": "https://dariknews.bg/novini/sviat/ruski-syd-osydi-zadochno-na-4-godini-zatvor-dyshteriata-na-ubitiia-opozicioner-boris-nemcov-2471279",
+      "title": "Геомагнитната активност се повишава в края на седмицата",
+      "url": "https://dariknews.bg/novini/bylgariia/geomagnitnata-aktivnost-se-povishava-v-kraia-na-sedmicata-2471302",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32655/32655229/991-ratio-boris-nemcov.jpg"
+      "image": "https://m.netinfo.bg/media/images/50483/50483152/991-ratio-magnitna-buria.jpg"
     },
     {
-      "title": "ГДБОП има нов директор",
-      "url": "https://dariknews.bg/novini/bylgariia/gdbop-ima-nov-direktor-2471278",
+      "title": "Никога повече няма да видим снимки на Михаел Шумахер? Близък приятел с тежко признание",
+      "url": "https://dariknews.bg/novini/sviat/nikoga-poveche-niama-da-vidim-snimki-na-mihael-shumaher-blizyk-priiatel-s-tezhko-priznanie-2471303",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408212/991-ratio-darin-kostov.jpg"
+      "image": "https://m.netinfo.bg/media/images/43139/43139010/991-ratio-mihael-shumaher.jpg"
     },
     {
-      "title": "Предлагат специалните рецепти за лекарства с наркотични вещества да станат електронни",
-      "url": "https://dariknews.bg/novini/bylgariia/predlagat-specialnite-recepti-za-lekarstva-s-narkotichni-veshtestva-da-stanat-elektronni-2471277",
+      "title": "Кой празнува имен ден на 6 ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/koj-praznuva-imen-den-na-6-noemvri-2435990",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50717/50717684/991-ratio-lekarstva.jpg"
+      "image": "https://m.netinfo.bg/media/images/51002/51002461/991-ratio-imen-den.jpg"
     },
     {
-      "title": "СОС отказа София да домакинства на международни състезания от календара на World Skate",
-      "url": "https://dariknews.bg/regioni/sofiia/sos-otkaza-sofiia-da-domakinstva-na-mezhdunarodni-systezaniia-ot-kalendara-na-world-skate-2471276",
+      "title": "Посвети живота си на вярата, днес лекарите се борят за неговия: Митрополит Гавриил е в критично състояние",
+      "url": "https://dariknews.bg/novini/bylgariia/posveti-zhivota-si-na-viarata-dnes-lekarite-se-boriat-za-negoviia-mitropolit-gavriil-e-v-kritichno-systoianie-2471301",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45563/45563222/991-ratio-skejtpark-skejtbord.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "В Разград се въвежда нова възможност за плащане в синя зона чрез QR код",
-      "url": "https://dariknews.bg/regioni/razgrad/v-razgrad-se-vyvezhda-nova-vyzmozhnost-za-plashtane-v-sinia-zona-chrez-qr-kod-2471275",
+      "title": "Ребека Гринспан увеличи преднината си за генерален секретар на ООН",
+      "url": "https://dariknews.bg/novini/sviat/rebeka-grinspan-uvelichi-predninata-si-za-generalen-sekretar-na-oon-2471300",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408207/991-ratio-sinia-zona.jpg"
+      "image": "https://m.netinfo.bg/media/images/51228/51228629/991-ratio-rebeka-grinspan.jpg"
     },
     {
-      "title": "„Скандално и непростимо е да представим бюджета прозрачно“: Пеканов отговори на критиките за УНСС",
-      "url": "https://dariknews.bg/novini/bylgariia/skandalno-i-neprostimo-e-da-predstavim-biudzheta-prozrachno-pekanov-otgovori-na-kritikite-za-unss-2471274",
+      "title": "За първи път: Правителството представя Бюджет 2027 в УНСС",
+      "url": "https://dariknews.bg/novini/bylgariia/za-pyrvi-pyt-pravitelstvoto-predstavia-biudzhet-2027-v-unss-2471299",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50320/50320825/991-ratio-atanas-pekanov.jpg"
+      "image": "https://m.netinfo.bg/media/images/51402/51402067/991-ratio-2027-biudzhet.jpg"
     },
     {
-      "title": "ЕК с критики към бюджетния план на България за 2027 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/ek-s-kritiki-kym-biudzhetniia-plan-na-bylgariia-za-2027-g-2471273",
+      "title": "12 малки стъпки с голяма полза за планетата",
+      "url": "https://dariknews.bg/novini/bylgariia/12-malki-stypki-s-goliama-polza-za-planetata-2471289",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35292/35292196/991-ratio-bylgariia-es.jpg"
+      "image": "https://m.netinfo.bg/media/images/51408/51408302/991-ratio-zhena-kiler.jpg"
     },
     {
-      "title": "Потрошиха бус на фенове на ЦСКА в Атина преди мача с Панатинайкос",
-      "url": "https://dariknews.bg/novini/bylgariia/potroshiha-bus-na-fenove-na-cska-v-atina-predi-macha-s-panatinajkos-2471270",
+      "title": "След среща с пратеник на Путин: Тръмп заговори за „голямо споразумение“, което може да промени бъдещето на Европа",
+      "url": "https://dariknews.bg/novini/sviat/sled-sreshta-s-pratenik-na-putin-trymp-zagovori-za-goliamo-sporazumenie-koeto-mozhe-da-promeni-bydeshteto-na-evropa-2471298",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408174/991-ratio-potroshiha-bus-na-fenove-na-cska-v-atina-predi-macha.jpg"
+      "image": "https://m.netinfo.bg/media/images/51385/51385971/991-ratio-donald-trymp.jpg"
+    },
+    {
+      "title": "Блиц контрол: Премиерът и вицепремиерите отговарят на въпроси на депутатите",
+      "url": "https://dariknews.bg/novini/bylgariia/blic-kontrol-premieryt-i-vicepremierite-otgovariat-na-vyprosi-na-deputatite-2471297",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Започва изплащането на пенсиите",
+      "url": "https://dariknews.bg/novini/bylgariia/zapochva-izplashtaneto-na-pensiite-2471296",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51351/51351654/991-ratio-zhena-vyzrastna-zhena-kompiutyr-pensii-pensiia.jpg"
+    },
+    {
+      "title": "Защо еволюцията не е заличила оплешивяването",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-evoliuciiata-ne-e-zalichila-opleshiviavaneto-2471230",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/40968/40968921/991-ratio-pleshiv-myzh.jpg"
+    },
+    {
+      "title": "НАТО създава обща платформа за по-бърза покупка на системи срещу дронове",
+      "url": "https://dariknews.bg/novini/sviat/nato-syzdava-obshta-platforma-za-po-byrza-pokupka-na-sistemi-sreshtu-dronove-2471295",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51384/51384995/991-ratio-nato.jpg"
+    },
+    {
+      "title": "Законът за българския език: Какво всъщност предвижда?",
+      "url": "https://dariknews.bg/novini/bylgariia/zakonyt-za-bylgarskiia-ezik-kakvo-vsyshtnost-predvizhda-2471253",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408122/991-ratio-kirilica-bukvi.jpg"
+    },
+    {
+      "title": "Футболист на Нюкасъл предизвика мащабна полицейска акция 06 Ное | 08:46",
+      "url": "https://dsport.bg/futbolist-na-nukasal-predizvika-mastabna-policeiska-akcia~244063.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303162359.og.jpg"
+    },
+    {
+      "title": "„Червените“ от 1 до 10: ЦСКА се изгуби в полето с детелини в Атина 06 Ное | 08:35",
+      "url": "https://dsport.bg/chervenite-ot-1-do-10-cska-se-izgubi-v-poleto-s-detelini-v-atina~244062.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/viber_image_2026-11-06_08-17-03-127.og.jpg"
+    },
+    {
+      "title": "Скандал в Португалия: Кристиано Роналдо отказа прощален мач 06 Ное | 08:16",
+      "url": "https://dsport.bg/skandal-v-portugalia-kristiano-ronaldo-otkaza-prostalen-mach~244061.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2284926679-1~1.og.jpg"
+    },
+    {
+      "title": "Всички скандали на Кристиано Роналдо в националния отбор на Португалия 06 Ное | 08:00",
+      "url": "https://dsport.bg/vsichki-skandali-na-kristiano-ronaldo-v-nacionalnia-otbor-na-portugalia~244060.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-1231972898.og.jpg"
+    },
+    {
+      "title": "ЦСКА се прибра от Атина 06 Ное | 05:10",
+      "url": "https://dsport.bg/cska-se-pribra-ot-atina~244059.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/46d14a95-52cc-414d-944c-8192be424a97.og.jpg"
     },
     {
       "title": "Вальо Илиев за Панатинайкос, чуждестранните съдии и идващото дерби с Левски 06 Ное | 01:10",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/388/screenshot-2026-11-06-002534.og.png"
-    },
-    {
-      "title": "Диниш Алмейда: Мачът беше това, което очаквахме 06 Ное | 00:21",
-      "url": "https://dsport.bg/dinish-almeida-machat-beshe-tova-koeto-ochakvahme~244053.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1052928~1.og.jpg"
-    },
-    {
-      "title": "Гиздол: Просто много добър опонент, същото е като срещу Монако (ВИДЕО) 06 Ное | 00:17",
-      "url": "https://dsport.bg/gizdol-prosto-mnogo-dobar-oponent-sastoto-e-kato-srestu-monako~244054.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1052865~1.og.jpg"
-    },
-    {
-      "title": "Треньорът на Панатинайкос: ЦСКА е добър отбор 06 Ное | 00:12",
-      "url": "https://dsport.bg/trenorat-na-panatinaikos-cska-e-dobar-otbor~244052.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1052857~1.og.jpg"
-    },
-    {
-      "title": "Теодор Иванов: Допуснахме много грешки, излизаме за победа с Левски 06 Ное | 00:00",
-      "url": "https://dsport.bg/teodor-ivanov-dopusnahme-mnogo-greshki-izlizame-za-pobeda-s-levski~244050.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1052836.og.jpg"
-    },
-    {
-      "title": "Ювентус направи живота си труден, но записа трета победа в Лига Европа 05 Ное | 23:59",
-      "url": "https://dsport.bg/uventus-napravi-zivota-si-truden-no-zapisa-treta-pobeda-v-liga-evropa~244047.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2303712213.og.jpg"
     }
   ]
 }
