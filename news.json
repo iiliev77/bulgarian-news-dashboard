@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T20:51:34.510078+00:00",
+  "updated": "2026-11-07T00:26:16.812374+00:00",
   "articles": [
+    {
+      "title": "Папата заяви, че се възстановява добре след операцията и че е гласувал на междинните избори в САЩ",
+      "url": "https://dariknews.bg/novini/sviat/papata-zaiavi-che-se-vyzstanoviava-dobre-sled-operaciiata-i-che-e-glasuval-na-mezhdinnite-izbori-v-sasht-2471410",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Йоанна надви Констанинели в „Игри на волята“",
       "url": "https://dariknews.bg/novini/liubopitno/ioanna-nadvi-konstanineli-v-igri-na-voliata-2471408",
@@ -135,11 +142,60 @@
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Тест за сетивата в „Спомени с вкус”",
-      "url": "https://dariknews.bg/novini/liubopitno/test-za-setivata-v-spomeni-s-vkus-2471385",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408804/991-ratio-k.jpg"
+      "title": "Алкарас спаси два мачбола и елиминира Фриц в трилър 07 Ное | 00:15",
+      "url": "https://dsport.bg/alkaras-spasi-dva-machbola-i-eliminira-fric-v-trilar~244136.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303885654.og.jpg"
+    },
+    {
+      "title": "Нули в Андалусия между Севиля и Алавес 07 Ное | 00:07",
+      "url": "https://dsport.bg/nuli-v-andalusia-mezdu-sevila-i-alaves~244135.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303881389.og.jpg"
+    },
+    {
+      "title": "Евертън обърна Ковънтри и остави Ливърпул зад гърба си 06 Ное | 23:55",
+      "url": "https://dsport.bg/evertan-doblizi-chetvorkata-sled-obrat-nad-kovantri~244134.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303883275.og.jpg"
+    },
+    {
+      "title": "Тулуза изкова труден успех срещу Страсбург 06 Ное | 23:50",
+      "url": "https://dsport.bg/uluza-pobedi-strasburg-rezultat-golove-var~244133.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/hweqciebsaapi82.og.png"
+    },
+    {
+      "title": "Венеция пречупи Удинезе и го закотви на дъното 06 Ное | 23:38",
+      "url": "https://dsport.bg/venecia-prechupi-udineze-i-go-zakotvi-na-danoto~244132.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303881289.og.jpg"
+    },
+    {
+      "title": "Силен мач за Везенков, Цървена звезда удари Олимпиакос 06 Ное | 23:35",
+      "url": "https://dsport.bg/silen-mach-za-vezenkov-carvena-zvezda-udari-olimpiakos~244131.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303373144.og.jpg"
+    },
+    {
+      "title": "Хамбургер усложни още положението на Борусия Мьонхенгладбах 06 Ное | 23:23",
+      "url": "https://dsport.bg/hamburger-uslozni-oste-polozenieto-na-borusia-monhengladbah~244130.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303879086.og.jpg"
+    },
+    {
+      "title": "Новият национал Панков със силен мач за АЕК Ларнака 06 Ное | 23:11",
+      "url": "https://dsport.bg/noviat-nacional-pankov-sas-silen-mach-za-aek-larnaka~244129.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2285044117~1.og.jpg"
     },
     {
       "title": "Новият шампион Антонели най-бърз във втората тренировка в Сао Пауло 06 Ное | 22:45",
@@ -154,62 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/388/malka-statii~1.og.jpg"
-    },
-    {
-      "title": "Симеон Петров записа мач №100 в елита на България 06 Ное | 22:05",
-      "url": "https://dsport.bg/simeon-petrov-zapisa-mach-100-v-elita-na-balgaria~244126.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1010338.og.jpg"
-    },
-    {
-      "title": "Монтана разгроми Септември при дамите 06 Ное | 21:48",
-      "url": "https://dsport.bg/montana-razgromi-septemvri-pri-damite~244125.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/06.11-5~2.og.jpg"
-    },
-    {
-      "title": "Генчев: Най-много ме е яд за изравнителния гол 06 Ное | 21:30",
-      "url": "https://dsport.bg/genchev-nai-mnogo-me-e-ad-za-izravnitelnia-gol~244124.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1054283.og.jpg"
-    },
-    {
-      "title": "Чиликов: Не ни признаха чист гол, съдиите си признаха, но кел файда 06 Ное | 21:26",
-      "url": "https://dsport.bg/chilikov-ne-ni-priznaha-chist-gol-sadiite-si-priznaha-no-kel-faida~244123.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1054292.og.jpg"
-    },
-    {
-      "title": "Симона Иванова остана седма на финала в плуването на 200 метра свободен стил 06 Ное | 21:15",
-      "url": "https://dsport.bg/simona-ivanova-ostana-sedma-na-finala-v-pluvaneto-na-200-metra-svoboden-stil~244122.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/06.11-4~2.og.jpg"
-    },
-    {
-      "title": "Ботев Пловдив съжали горчиво за пропуските си срещу Дунав 06 Ное | 21:09",
-      "url": "https://dsport.bg/na-zivo-botev-plovdiv-dunav-ruse-sastavi~244111.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/890940557_1616586707176655_890400695811440992_n.og.jpg"
-    },
-    {
-      "title": "Зидан с изненада, дебютант от Париж ФК във Франция 06 Ное | 20:57",
-      "url": "https://dsport.bg/zidan-s-iznenada-debutant-v-atakata-na-francia~244120.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2297740597~1.og.jpg"
-    },
-    {
-      "title": "Помощник на Компани: Той е на прав път към пълно възстановяване 06 Ное | 20:49",
-      "url": "https://dsport.bg/pomostnik-na-kompani-toi-e-na-prav-pat-kam-palno-vazstanovavane~244121.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2303172500.og.jpg"
     }
   ]
 }
