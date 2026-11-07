@@ -1,6 +1,97 @@
 {
-  "updated": "2026-11-07T00:26:16.812374+00:00",
+  "updated": "2026-11-07T06:20:05.756328+00:00",
   "articles": [
+    {
+      "title": "СЗО: Всеки четвърти подрастващ в света няма нито един ден с движение",
+      "url": "https://dariknews.bg/novini/sviat/szo-vseki-chetvyrti-podrastvasht-v-sveta-niama-nito-edin-den-s-dvizhenie-2471160",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51407/51407549/991-ratio-sport-deca.jpg"
+    },
+    {
+      "title": "Защо не трябва да слагате яйца на вратата на хладилника?",
+      "url": "https://dariknews.bg/novini/liubopitno/zashto-ne-triabva-da-slagate-iajca-na-vratata-na-hladilnika-2471084",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51264/51264508/991-ratio-iajca.jpg"
+    },
+    {
+      "title": "Над 2200 съдии избират шестима нови членове на Висшия съдебен съвет",
+      "url": "https://dariknews.bg/novini/bylgariia/nad-2200-sydii-izbirat-shestima-novi-chlenove-na-visshiia-sydeben-syvet-2471413",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408986/991-ratio-vss.jpg"
+    },
+    {
+      "title": "Украйна атакува петролна рафинерия и военни заводи в Русия, избухнаха пожари",
+      "url": "https://dariknews.bg/novini/sviat/ukrajna-atakuva-petrolna-rafineriia-i-voenni-zavodi-v-rusiia-izbuhnaha-pozhari-2471412",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408984/991-ratio-pozhar.jpg"
+    },
+    {
+      "title": "Ще има допълнителен градски транспорт за Задушница на 7 ноември",
+      "url": "https://dariknews.bg/regioni/sofiia/shte-ima-dopylnitelen-gradski-transport-za-zadushnica-na-7-noemvri-2471115",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51407/51407225/991-ratio-stolichnata-obshtina-osiguriava-dopylnitelen-gradski-transport-za-zadushnica-na-7.jpg"
+    },
+    {
+      "title": "САЩ нанесоха нови удари по Иран: Цел са били системи за ПВО в Ормузкия проток",
+      "url": "https://dariknews.bg/novini/sviat/sasht-nanesoha-novi-udari-po-iran-cel-sa-bili-sistemi-za-pvo-v-ormuzkiia-protok-2471411",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408983/991-ratio-iranski-ostrov-keshm.jpg"
+    },
+    {
+      "title": "Канела: какво наистина прави за здравето и кога е по-добре да не прекаляваме",
+      "url": "https://dariknews.bg/novini/liubopitno/kanela-kakvo-naistina-pravi-za-zdraveto-i-koga-e-po-dobre-da-ne-prekaliavame-2471394",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48385/48385460/991-ratio-kanela.jpg"
+    },
+    {
+      "title": "Не са просто украса в салатата: Как чери доматите се грижат за здравето ни",
+      "url": "https://dariknews.bg/novini/liubopitno/ne-sa-prosto-ukrasa-v-salatata-kak-cheri-domatite-se-grizhat-za-zdraveto-ni-2471238",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/47891/47891256/991-ratio-cheri-domati.jpg"
+    },
+    {
+      "title": "ЕС преговаря с шест балкански държави за роуминг без допълнителни такси",
+      "url": "https://dariknews.bg/novini/sviat/es-pregovaria-s-shest-balkanski-dyrzhavi-za-rouming-bez-dopylnitelni-taksi-2471405",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51253/51253375/991-ratio-telefon-myzh-obazhdane.jpg"
+    },
+    {
+      "title": "Архангелова задушница е: Какво повеляват традициите и народните поверия",
+      "url": "https://dariknews.bg/novini/obshtestvo/arhangelova-zadushnica-e-kakvo-poveliavat-tradiciite-i-narodnite-poveriia-2470924",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408981/991-ratio-sveshti.jpg"
+    },
+    {
+      "title": "Пастор, причинил смъртта на 190 деца, получи 200 години затвор",
+      "url": "https://dariknews.bg/novini/sviat/pastor-prichinil-smyrtta-na-190-deca-poluchi-200-godini-zatvor-2471400",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51121/51121658/991-ratio-zatvor.jpg"
+    },
+    {
+      "title": "Слънцето се усмихва през уикенда",
+      "url": "https://dariknews.bg/novini/bylgariia/slynceto-se-usmihva-prez-uikenda-2471409",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391281/991-ratio-esen.jpg"
+    },
+    {
+      "title": "Разчисти дома си и предай безплатно: „МаГаТа фест“ идва в район „Студентски“",
+      "url": "https://dariknews.bg/regioni/sofiia/razchisti-doma-si-i-predaj-bezplatno-magata-fest-idva-v-rajon-studentski-2470271",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51402/51402368/991-ratio-bokluci.jpg"
+    },
     {
       "title": "Папата заяви, че се възстановява добре след операцията и че е гласувал на междинните избори в САЩ",
       "url": "https://dariknews.bg/novini/sviat/papata-zaiavi-che-se-vyzstanoviava-dobre-sled-operaciiata-i-che-e-glasuval-na-mezhdinnite-izbori-v-sasht-2471410",
@@ -51,95 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/51219/51219364/991-ratio-dokumenti-podpis.jpg"
     },
     {
-      "title": "Отоплението и топлата вода в общежитията в „Студентски град“ са възстановени",
-      "url": "https://dariknews.bg/regioni/sofiia/otoplenieto-i-toplata-voda-v-obshtezhitiiata-v-studentski-grad-sa-vyzstanoveni-2471401",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51157/51157498/991-ratio-voda-kuche-topla-voda.jpg"
-    },
-    {
-      "title": "Арестуваха бащата на Меган Маркъл за притежание на материали със сексуално насилие над деца",
-      "url": "https://dariknews.bg/novini/sviat/arestuvaha-bashtata-na-megan-markyl-za-pritezhanie-na-materiali-sys-seksualno-nasilie-nad-deca-2471399",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47317/47317376/991-ratio-megan-markyl.jpg"
-    },
-    {
-      "title": "Франция ще поеме защитата на хъб на НАТО в Полша",
-      "url": "https://dariknews.bg/novini/sviat/franciia-shte-poeme-zashtitata-na-hyb-na-nato-v-polsha-2471398",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51174/51174912/991-ratio-nato.jpg"
-    },
-    {
-      "title": "Реформа в туризма: Още 10 млн. евро за реклама и нови авиолинии",
-      "url": "https://dariknews.bg/novini/bylgariia/reforma-v-turizma-oshte-10-mln.-evro-za-reklama-i-novi-aviolinii-2471397",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32133/32133006/991-ratio-koprivshtica.jpg"
-    },
-    {
-      "title": "Финансовото министерство публикува законопроекта за държавния бюджет за 2027 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/finansovoto-ministerstvo-publikuva-zakonoproekta-za-dyrzhavniia-biudzhet-za-2027-g-2471395",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51343/51343626/991-ratio-biudzhet.jpg"
-    },
-    {
-      "title": "Иран съобщи, че е свалил американски дрон над остров Кешм",
-      "url": "https://dariknews.bg/novini/sviat/iran-syobshti-che-e-svalil-amerikanski-dron-nad-ostrov-keshm-2471393",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408826/991-ratio-keshm.jpg"
-    },
-    {
-      "title": "Отново активираха екипажи на МиГ-29 заради бомбените заплахи срещу полети до София",
-      "url": "https://dariknews.bg/novini/bylgariia/otnovo-aktiviraha-ekipazhi-na-mig-29-zaradi-bombenite-zaplahi-sreshtu-poleti-do-sofiia-2471392",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51367/51367234/991-ratio-mig-29.jpg"
-    },
-    {
-      "title": "Ж.п. компания „нае“ две кози да разчистят тревата от празен парцел край гара в Токио (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/zh.p.-kompaniia-nae-dve-kozi-da-razchistiat-trevata-ot-prazen-parcel-kraj-gara-v-tokio-video-2471391",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/35017/35017666/991-ratio-koza-kozi.jpg"
-    },
-    {
-      "title": "И медиите под прицел: Британската телевизия Sky получи сигнал за бомба",
-      "url": "https://dariknews.bg/novini/sviat/i-mediite-pod-pricel-britanskata-televiziia-sky-poluchi-signal-za-bomba-2471390",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408819/991-ratio-s.jpg"
-    },
-    {
-      "title": "Лекарствата по НЗОК ще се изписват за 30 дни при остри и за 100 дни при хронични болести",
-      "url": "https://dariknews.bg/novini/bylgariia/lekarstvata-po-nzok-shte-se-izpisvat-za-30-dni-pri-ostri-i-za-100-dni-pri-hronichni-bolesti-2471389",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51083/51083658/991-ratio-lekarstva.jpg"
-    },
-    {
-      "title": "Експлозия край танкер в Ормузкия проток, екипажът е в безопасност",
-      "url": "https://dariknews.bg/novini/sviat/eksploziia-kraj-tanker-v-ormuzkiia-protok-ekipazhyt-e-v-bezopasnost-2471388",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51306/51306329/991-ratio-tovaren-korab-plava-v-persijskiia-zaliv-kym-ormuzkiia-protok-vyv.jpg"
-    },
-    {
-      "title": "Обвиняемият за жестокото убийство в Сливен остава в ареста",
-      "url": "https://dariknews.bg/novini/bylgariia/obviniaemiiat-za-zhestokoto-ubijstvo-v-sliven-ostava-v-aresta-2471387",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51408/51408813/991-ratio-sliven-arest-ubijstvo.jpg"
-    },
-    {
-      "title": "Жители на Гурково отново на протест след акцията със задържани (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/zhiteli-na-gurkovo-otnovo-na-protest-sled-akciiata-sys-zadyrzhani-snimkivideo-2471386",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+      "title": "Лука Дончич избухна с 53 точки за Лейкърс, Бостън разгроми Шарлът (ВИДЕО) 07 Ное | 08:15",
+      "url": "https://dsport.bg/luka-donchich-izbuhna-s-53-tochki-za-leikars-bostan-razgromi-sharlat-video~244137.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2303918196.og.jpg"
     },
     {
       "title": "Алкарас спаси два мачбола и елиминира Фриц в трилър 07 Ное | 00:15",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/388/gettyimages-2303875573.og.jpg"
-    },
-    {
-      "title": "ЦСКА пусна гейм на Металург, но спечели 06 Ное | 22:18",
-      "url": "https://dsport.bg/cska-pusna-geim-na-metalurg-no-specheli~244127.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/malka-statii~1.og.jpg"
     }
   ]
 }
