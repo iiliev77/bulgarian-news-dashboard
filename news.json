@@ -1,9 +1,86 @@
 {
-  "updated": "2026-11-08T13:55:01.189811+00:00",
+  "updated": "2026-11-08T18:35:44.208367+00:00",
   "articles": [
     {
-      "title": "Турски министър: България и Турция ще строят нов граничен пункт за камиони",
-      "url": "https://dariknews.bg/novini/bylgariia/turski-ministyr-bylgariia-i-turciia-shte-stroiat-nov-granichen-punkt-za-kamioni-2471469",
+      "title": "850 грама лукс: Бял трюфел беше продаден за 100 000 евро на търг в Италия",
+      "url": "https://dariknews.bg/novini/liubopitno/850-grama-luks-bial-triufel-beshe-prodaden-za-100-000-evro-na-tyrg-v-italiia-2471481",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/40983/40983604/991-ratio-bial-triufel.jpg"
+    },
+    {
+      "title": "Гюров за Бюджет 2027: Данъците ги плащаме днес, дълговете са за утре, реформите ги няма",
+      "url": "https://dariknews.bg/novini/bylgariia/giurov-za-biudzhet-2027-danycite-gi-plashtame-dnes-dylgovete-sa-za-utre-reformite-gi-niama-2471480",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51273/51273479/991-ratio-andrej-giurov.jpg"
+    },
+    {
+      "title": "Свлачище край строителен обект в Смолян отнесе част от улица",
+      "url": "https://dariknews.bg/regioni/Smolyan/svlachishte-kraj-stroitelen-obekt-v-smolian-otnese-chast-ot-ulica-2471479",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409923/991-ratio-svlachishte-kraj-stroitelen-obekt-v-smolian-otnese-chast-ot-ulica.jpg"
+    },
+    {
+      "title": "След стрелбата в Краков: Радев изрази съпричастност към полския народ",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-strelbata-v-krakov-radev-izrazi-syprichastnost-kym-polskiia-narod-2471478",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408674/991-ratio-rumen-radev.jpg"
+    },
+    {
+      "title": "Тежка влакова катастрофа в Египет: 7 души загинаха, а 112 са ранени",
+      "url": "https://dariknews.bg/novini/sviat/tezhka-vlakova-katastrofa-v-egipet-7-dushi-zaginaha-a-112-sa-raneni-2471477",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409805/991-ratio-vlakova-katastrofa-v-egipet.jpg"
+    },
+    {
+      "title": "Фатален удар в мантинела и дървета на пътя между Самоков и Боровец, загина жена",
+      "url": "https://dariknews.bg/regioni/sofiia/fatalen-udar-v-mantinela-i-dyrveta-na-pytia-mezhdu-samokov-i-borovec-zagina-zhena-2471476",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Демерджиев: Ще направим всичко възможно за по-високи заплати в МВР от следващия бюджет",
+      "url": "https://dariknews.bg/novini/bylgariia/demerdzhiev-shte-napravim-vsichko-vyzmozhno-za-po-visoki-zaplati-v-mvr-ot-sledvashtiia-biudzhet-2471475",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Мълнии и проливни дъждове взеха четири жертви в Иран",
+      "url": "https://dariknews.bg/novini/sviat/mylnii-i-prolivni-dyzhdove-vzeha-chetiri-zhertvi-v-iran-2471474",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51204/51204825/991-ratio-navodnenie.jpg"
+    },
+    {
+      "title": "Румъния обяви въздушна тревога, вдигна изтребители и хеликоптери",
+      "url": "https://dariknews.bg/novini/sviat/rumyniia-obiavi-vyzdushna-trevoga-vdigna-iztrebiteli-i-helikopteri-2471473",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51264/51264937/991-ratio-iztrebiteli-f16.jpg"
+    },
+    {
+      "title": "От мечта до символ на Враца: Туристическият дом „Хижата“ стана на 100 години (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/vraca/ot-mechta-do-simvol-na-vraca-turisticheskiiat-dom-hizhata-stana-na-100-godini-snimki-2471471",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409702/991-ratio-turisticheskiiat-dom-hizhata.jpg"
+    },
+    {
+      "title": "След пет години ремонт: Театър „София“ отново отваря врати – ето как изглежда сега (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/sled-pet-godini-remont-teatyr-sofiia-otnovo-otvaria-vrati-eto-kak-izglezhda-sega-snimki-2471470",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409692/991-ratio-teatyr-sofiia.jpg"
+    },
+    {
+      "title": "Турски министър: До година България и Турция ще имат нов ГКПП за камиони",
+      "url": "https://dariknews.bg/novini/bylgariia/turski-ministyr-do-godina-bylgariia-i-turciia-shte-imat-nov-gkpp-za-kamioni-2471469",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51409/51409591/991-ratio-tirove-kamioni.jpg"
@@ -13,7 +90,7 @@
       "url": "https://dariknews.bg/regioni/ruse/verizhna-katastrofa-zatvori-dvizhenieto-po-pytia-ruse-varna-2471468",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
+      "image": "https://m.netinfo.bg/media/images/50090/50090283/991-ratio-triygylnik-katastrofa.jpg"
     },
     {
       "title": "Камион с прасета се преобърна и запали на Прохода на Републиката",
@@ -65,151 +142,74 @@
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Почетоха паметта на загиналите български воини в Северна Македония и Румъния",
-      "url": "https://dariknews.bg/novini/bylgariia/pochetoha-pametta-na-zaginalite-bylgarski-voini-v-severna-makedoniia-i-rumyniia-2471458",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409508/991-ratio-voenni.jpg"
-    },
-    {
-      "title": "Разследващ полицай от СДВР е обвинен за подкуп от 500 евро",
-      "url": "https://dariknews.bg/regioni/sofiia/razsledvasht-policaj-ot-sdvr-e-obvinen-za-podkup-ot-500-evro-2471457",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51257/51257998/991-ratio-500-evro.jpg"
-    },
-    {
-      "title": "Енчо Керязов: От детето, мечтало да бъде летящ човек, до министър, искащ да спаси спорта",
-      "url": "https://dariknews.bg/novini/bylgariia/encho-keriazov-ot-deteto-mechtalo-da-byde-letiasht-chovek-do-ministyr-iskasht-da-spasi-sporta-2471424",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Българка за стрелбата в Краков: Нападателят стреляше и докато шофираше към замъка „Вавел“",
-      "url": "https://dariknews.bg/novini/bylgariia/bylgarka-za-strelbata-v-krakov-napadateliat-streliashe-i-dokato-shofirashe-kym-zamyka-vavel-2471456",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Алекса ли е мъжът до Сапунджиева? Тя проговори за любовния си живот",
-      "url": "https://dariknews.bg/novini/liubopitno/aleksa-li-e-myzhyt-do-sapundzhieva-tia-progovori-za-liubovniia-si-zhivot-2471455",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Борисов: Полицията трябва да е силна, професионална и независима от политически натиск",
-      "url": "https://dariknews.bg/novini/bylgariia/borisov-policiiata-triabva-da-e-silna-profesionalna-i-nezavisima-ot-politicheski-natisk-2471454",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409440/991-ratio-bojko-borisov.jpg"
-    },
-    {
-      "title": "„Да си полицай е отговорност и риск“: Шефът на ОДМВР – Сливен поздрави колегите си за празника",
-      "url": "https://dariknews.bg/regioni/sliven/da-si-policaj-e-otgovornost-i-risk-shefyt-na-odmvr-sliven-pozdravi-kolegite-si-za-praznika-2471453",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409425/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "След неуспешен първи тур съдиите гласуват повторно за членове на ВСС",
-      "url": "https://dariknews.bg/novini/bylgariia/sled-neuspeshen-pyrvi-tur-sydiite-glasuvat-povtorno-za-chlenove-na-vss-2471452",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409422/991-ratio-glasuvane-vss.jpg"
-    },
-    {
-      "title": "Пеевски подкрепи исканията на синдикатите в МВР за увеличение на заплатите",
-      "url": "https://dariknews.bg/novini/bylgariia/peevski-podkrepi-iskaniiata-na-sindikatite-v-mvr-za-uvelichenie-na-zaplatite-2471451",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409421/991-ratio-delian-peevski.jpg"
-    },
-    {
-      "title": "Как да забавим биологичното стареене според ново научно изследване",
-      "url": "https://dariknews.bg/novini/liubopitno/kak-da-zabavim-biologichnoto-stareene-spored-novo-nauchno-izsledvane-2471141",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34039/34039548/991-ratio-stareene.jpg"
-    },
-    {
-      "title": "WWF: Над 6,5 тона есетри са незаконно уловени за 10 години в България, Румъния и Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/wwf-nad-65-tona-esetri-sa-nezakonno-uloveni-za-10-godini-v-bylgariia-rumyniia-i-ukrajna-2470871",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51407/51407550/991-ratio-esetra.jpg"
-    },
-    {
-      "title": "На живо: Левски - ЦСКА, изборът на Веласкес и Гиздол (Състави) 08 Ное | 15:47",
-      "url": "https://dsport.bg/bitkata-za-parvoto-masto-levski-srestu-cska~244219.html",
+      "title": "Манчестър Юнайтед възкръсна от 0:2 и 2:4 в осемголова лудост срещу Астън Вила 08 Ное | 20:33",
+      "url": "https://dsport.bg/manchestar-unaited-vazkrasna-ot-0-2-i-2-4-v-osemgolova-ludost-srestu-astan-vila~244302.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/theday~3.og.png"
+      "image": "https://dsport.bg/media/388/gettyimages-2304157380.og.jpg"
     },
     {
-      "title": "Легендата Ернан Креспо ще става баща на 51 години 08 Ное | 15:39",
-      "url": "https://dsport.bg/legendata-ernan-krespo-ste-stava-basta-na-51-godini~244264.html",
+      "title": "БУТОНКИТЕ: Катастрофален Левски! 08 Ное | 20:31",
+      "url": "https://dsport.bg/butonkite-katastrofalen-levski~244301.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/screenshot-1427-.og.png"
+      "image": "https://dsport.bg/media/388/2026-11-08-butonki_thumb_tometo.og.jpg"
     },
     {
-      "title": "Спартак Варна обърна Арда от 0:2 в дебюта на Дани Моралес 08 Ное | 15:30",
-      "url": "https://dsport.bg/na-zivo-spartak-varna-arda-sastavi~244247.html",
+      "title": "Питас: ЦСКА има само една цел - титлата (ВИДЕО) 08 Ное | 20:18",
+      "url": "https://dsport.bg/pitas-cska-ima-samo-edna-cel-titlata-video~244299.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/1055002.og.jpg"
+      "image": "https://dsport.bg/media/388/1055209.og.jpg"
     },
     {
-      "title": "Победната серия на Лацио се спря в пламенния Неапол, „орлите“ на Гатузо остават начело 08 Ное | 15:28",
-      "url": "https://dsport.bg/napoli-ocela-pod-vihrushkata-na-lacio-i-spra-ustrema-na-orlite~244266.html",
+      "title": "Жордао: Не очаквах 3:0, но заслужен резултат (ВИДЕО) 08 Ное | 20:01",
+      "url": "https://dsport.bg/zordao-ne-ochakvah-3-0-no-zasluzen-rezultat-video~244298.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2304101833.og.jpg"
+      "image": "https://dsport.bg/media/388/1055237~1.og.jpg"
     },
     {
-      "title": "Дербито НА ЖИВО: Левски срещу ЦСКА с dsport и Дарик! 08 Ное | 15:15",
-      "url": "https://dsport.bg/derbito-na-zivo-levski-srestu-cska-s-dsport-i-darik~244265.html",
+      "title": "Анхело Мартино: Дербито не можеш да го сравниш с останалите мачове (ВИДЕО) 08 Ное | 19:59",
+      "url": "https://dsport.bg/anhelo-martino-derbito-ne-mozesh-da-go-sravnish-s-ostanalite-machove-video~244297.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/levski-srestu-cska_-derbi-pod-svetlinite.og.png"
+      "image": "https://dsport.bg/media/388/1055178~1.og.jpg"
     },
     {
-      "title": "Египет уволни селекционера с двете жени 08 Ное | 15:03",
-      "url": "https://dsport.bg/egipet-uvolni-selekcionera-s-dvete-zeni~244263.html",
+      "title": "Веласкес се извини: Не заслужавахме такъв резултат и да загубим мача 08 Ное | 19:59",
+      "url": "https://dsport.bg/velaskes-se-izvini-ne-zasluzavahme-takav-rezultat-i-da-zagubim-macha~244291.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2285093246.og.jpg"
+      "image": "https://dsport.bg/media/388/1055216~1.og.jpg"
     },
     {
-      "title": "Глазнер: Всеки отбор в света би имал сериозни проблеми срещу нас 08 Ное | 14:45",
-      "url": "https://dsport.bg/glazner-vseki-otbor-v-sveta-bi-imal-seriozni-problemi-srestu-nas~244262.html",
+      "title": "БУТОНКИТЕ: Равнис! Мирно! Козирувайте пред ЦСКА! (ВИДЕО) 08 Ное | 19:53",
+      "url": "https://dsport.bg/butonkite-ravnis-mirno-koziruvaite-pred-cska-video~244294.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2304010358.og.jpg"
+      "image": "https://dsport.bg/media/388/2026-11-08-butonki_thumb-niki.og.jpg"
     },
     {
-      "title": "Лудогорец с двама български и четирима африкански национали 08 Ное | 14:35",
-      "url": "https://dsport.bg/ludogorec-s-dvama-balgarski-i-chetirima-afrikanski-nacionali~244260.html",
+      "title": "Кристиан Димитров: Искам да се извиня на феновете 08 Ное | 19:51",
+      "url": "https://dsport.bg/kristian-dimitrov-iskam-da-se-izvina-na-fenovete~244295.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/897750119_2149847889252284_7828084707874175567_n.og.jpg"
+      "image": "https://dsport.bg/media/388/1055169~1.og.jpg"
     },
     {
-      "title": "Ули Хьонес за Мусиала: Не знаем дали някога ще бъде същият 08 Ное | 14:31",
-      "url": "https://dsport.bg/uli-hones-za-musiala-ne-znaem-dali-nakoga-ste-bade-sastiat~244261.html",
+      "title": "Андрей Йорданов: 100% дузпа, Кристиан Димитров щеше да скъса тениската на Годой (ВИДЕО) 08 Ное | 19:50",
+      "url": "https://dsport.bg/andrei-iordanov-100-duzpa-kristian-dimitrov-steshe-da-skasa-teniskata-na-godoi-video~244296.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2295229825.og.jpg"
+      "image": "https://dsport.bg/media/388/1055477.og.jpg"
     },
     {
-      "title": "Синът на Рууни върви по стъпките на баща си с диета отпреди 20 години 08 Ное | 14:15",
-      "url": "https://dsport.bg/sinat-na-ruuni-kopira-dietata-na-basta-si-otpredi-20-godini~244259.html",
+      "title": "Костадинов: Не искам да се оправдавам, извинявам се от името на целия отбор (ВИДЕО) 08 Ное | 19:40",
+      "url": "https://dsport.bg/kostadinov-ne-iskam-da-se-opravdavam-izvinavam-se-ot-imeto-na-celia-otbor-video~244293.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2303322271-1-.og.jpg"
+      "image": "https://dsport.bg/media/388/1055573.og.jpg"
     }
   ]
 }
