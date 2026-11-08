@@ -1,6 +1,118 @@
 {
-  "updated": "2026-11-08T00:54:51.534354+00:00",
+  "updated": "2026-11-08T06:49:37.339544+00:00",
   "articles": [
+    {
+      "title": "След неуспешен първи тур съдиите гласуват повторно за членове на ВСС",
+      "url": "https://dariknews.bg/novini/bylgariia/sled-neuspeshen-pyrvi-tur-sydiite-glasuvat-povtorno-za-chlenove-na-vss-2471452",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409422/991-ratio-glasuvane-vss.jpg"
+    },
+    {
+      "title": "Пеевски подкрепи исканията на синдикатите в МВР за увеличение на заплатите",
+      "url": "https://dariknews.bg/novini/bylgariia/peevski-podkrepi-iskaniiata-na-sindikatite-v-mvr-za-uvelichenie-na-zaplatite-2471451",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409421/991-ratio-delian-peevski.jpg"
+    },
+    {
+      "title": "Как да забавим биологичното стареене според ново научно изследване",
+      "url": "https://dariknews.bg/novini/liubopitno/kak-da-zabavim-biologichnoto-stareene-spored-novo-nauchno-izsledvane-2471141",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/34039/34039548/991-ratio-stareene.jpg"
+    },
+    {
+      "title": "WWF: Над 6,5 тона есетри са незаконно уловени за 10 години в България, Румъния и Украйна",
+      "url": "https://dariknews.bg/novini/bylgariia/wwf-nad-65-tona-esetri-sa-nezakonno-uloveni-za-10-godini-v-bylgariia-rumyniia-i-ukrajna-2470871",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51407/51407550/991-ratio-esetra.jpg"
+    },
+    {
+      "title": "Интензивен трафик за камиони на „Капитан Андреево“, два ферибота по Дунав са спрени",
+      "url": "https://dariknews.bg/regioni/haskovo/intenziven-trafik-za-kamioni-na-kapitan-andreevo-dva-feribota-po-dunav-sa-spreni-2471450",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51254/51254728/991-ratio-kapitan-andreevo.jpg"
+    },
+    {
+      "title": "Бебе алпака на име Бамби се роди в зоокът край язовир Кърджали (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/kyrdzhali/bebe-alpaka-na-ime-bambi-se-rodi-v-zookyt-kraj-iazovir-kyrdzhali-snimki-2471449",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409415/991-ratio-alpaka-kyrdzhali.jpg"
+    },
+    {
+      "title": "Скок в цените на плодовете и зеленчуците на едро в началото на ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/skok-v-cenite-na-plodovete-i-zelenchucite-na-edro-v-nachaloto-na-noemvri-2471448",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409408/991-ratio-plodove-zelenchuci.jpg"
+    },
+    {
+      "title": "Мъглива сутрин и слънчев следобед в неделя",
+      "url": "https://dariknews.bg/novini/bylgariia/mygliva-sutrin-i-slynchev-sledobed-v-nedelia-2471447",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51409/51409407/991-ratio-esen-slynce.jpg"
+    },
+    {
+      "title": "Чаша вода преди кафето: Защо жените трябва да пият повече вода през зимата",
+      "url": "https://dariknews.bg/novini/liubopitno/chasha-voda-predi-kafeto-zashto-zhenite-triabva-da-piiat-poveche-voda-prez-zimata-2471396",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51238/51238737/991-ratio-voda-piene-na-voda.jpg"
+    },
+    {
+      "title": "Неустоим вкус и ценни вещества: Топ ползи за здравето от ананаса",
+      "url": "https://dariknews.bg/novini/liubopitno/neustoim-vkus-i-cenni-veshtestva-top-polzi-za-zdraveto-ot-ananasa-2471242",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48408/48408859/991-ratio-ananas.jpg"
+    },
+    {
+      "title": "Австрийската полиция ще използва и дронове като част от мерките за сигурност на коледните базари",
+      "url": "https://dariknews.bg/novini/sviat/avstrijskata-policiia-shte-izpolzva-i-dronove-kato-chast-ot-merkite-za-sigurnost-na-kolednite-bazari-2471442",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50975/50975576/991-ratio-koleden-bazar-viena-avstriia.jpg"
+    },
+    {
+      "title": "Българската полиция отбелязва своя професионален празник",
+      "url": "https://dariknews.bg/novini/bylgariia/bylgarskata-policiia-otbeliazva-svoia-profesionalen-praznik-2471433",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50276/50276069/991-ratio-minuta-mylchanie-burgas-policai.jpg"
+    },
+    {
+      "title": "Архангеловден е – тържествуват доброто, светлината и справедливостта (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/obshtestvo/arhangelovden-e-tyrzhestvuvat-dobroto-svetlinata-i-spravedlivostta-video-2399902",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "От обикновен страх до фобия: Кога тревогата започва да управлява живота ни?",
+      "url": "https://dariknews.bg/novini/bylgariia/ot-obiknoven-strah-do-fobiia-koga-trevogata-zapochva-da-upravliava-zhivota-ni-2471431",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/48258/48258091/991-ratio-strah-film-na-uzhasite.jpg"
+    },
+    {
+      "title": "Вкусът на неделята: Българските семейни традиции, които бавно изчезват",
+      "url": "https://dariknews.bg/novini/bylgariia/vkusyt-na-nedeliata-bylgarskite-semejni-tradicii-koito-bavno-izchezvat-2471305",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51355/51355226/991-ratio-semejstvo.jpg"
+    },
+    {
+      "title": "„Може би трябваше да е в мола“: Депутат от „Прогресивна България“ защити представянето на Бюджет 2027",
+      "url": "https://dariknews.bg/novini/bylgariia/mozhe-bi-triabvashe-da-e-v-mola-deputat-ot-progresivna-bylgariia-zashtiti-predstavianeto-na-biudzhet-2027-2471441",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "От октагона до Белия дом: Тръмп предложи ключов пост на шефа на UFC",
       "url": "https://dariknews.bg/novini/sviat/ot-oktagona-do-beliia-dom-trymp-predlozhi-kliuchov-post-na-shefa-na-ufc-2471446",
@@ -30,116 +142,32 @@
       "image": "https://m.netinfo.bg/media/images/51409/51409374/991-ratio-krakov-strelba.jpg"
     },
     {
-      "title": "Трагедия в плевенското село Гривица: 18-годишен шофьор прегази и уби 4-годишно дете",
-      "url": "https://dariknews.bg/novini/bylgariia/tragediia-v-plevenskoto-selo-grivica-18-godishen-shofior-pregazi-i-ubi-4-godishno-dete-2471439",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51395/51395607/991-ratio-policiia.jpg"
+      "title": "Водачката в световната ранглиста се отказа от участие на Финалите на WТА 08 Ное | 08:27",
+      "url": "https://dsport.bg/vodachkata-v-svetovnata-ranglista-se-otkaza-ot-uchastie-na-finalite-na-wta~244218.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2258578016~1.og.jpg"
     },
     {
-      "title": "„Да, България“: Писмото на финансовия министър до ЕК за втория пенсионен стълб има две версии",
-      "url": "https://dariknews.bg/novini/bylgariia/da-bylgariia-pismoto-na-finansoviia-ministyr-do-ek-za-vtoriia-pensionen-stylb-ima-dve-versii-2471438",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409352/991-ratio-da-bylgariia.jpg"
+      "title": "Робер Пирес стана баща за четвърти път на 53-годишна възраст 08 Ное | 08:16",
+      "url": "https://dsport.bg/rober-pires-stana-basta-za-chetvarti-pat-na-53-godishna-vazrast~244217.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/robert-pires-instagram-3.og.jpg"
     },
     {
-      "title": "Неочакван подарък от морето: Десетки чували с червен пипер на плажа в Синеморец (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/neochakvan-podaryk-ot-moreto-desetki-chuvali-s-cherven-piper-na-plazha-v-sinemorec-video-2471437",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409290/991-ratio-chuvali-sinemorec.jpg"
+      "title": "Новият живот на Мохамед Салах в Трабзонспор: между манията по него, шаха и айряна 08 Ное | 08:08",
+      "url": "https://dsport.bg/noviat-zivot-na-mohamed-salah-v-trabzonspor-mezdu-maniata-po-nego-shaha-i-airana~244216.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/gettyimages-2301012149.og.jpg"
     },
     {
-      "title": "Почина отличеният с „Оскар“ режисьор Себастиан Лелио",
-      "url": "https://dariknews.bg/novini/sviat/pochina-otlicheniiat-s-oskar-rezhisior-sebastian-lelio-2471436",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409277/991-ratio-sebastian-lelio.jpg"
-    },
-    {
-      "title": "Кървава атака в сърцето на Краков: Безразборна стрелба с жертви и ранени (СНИМКИ/ВИДЕО)",
-      "url": "https://dariknews.bg/novini/sviat/kyrvava-ataka-v-syrceto-na-krakov-bezrazborna-strelba-s-zhertvi-i-raneni-snimkivideo-2471435",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "„Небостъргач върху основи на едноетажна къща“: Асен Василев направи анализ на Бюджет 2027",
-      "url": "https://dariknews.bg/novini/bylgariia/nebostyrgach-vyrhu-osnovi-na-ednoetazhna-kyshta-asen-vasilev-napravi-analiz-na-biudzhet-2027-2471434",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409240/991-ratio-asen-vasilev.jpg"
-    },
-    {
-      "title": "49 млн. евро за AI фабрика: България залага на изкуствения интелект в бюджета за 2027 г.",
-      "url": "https://dariknews.bg/novini/bylgariia/49-mln.-evro-za-ai-fabrika-bylgariia-zalaga-na-izkustveniia-intelekt-v-biudzheta-za-2027-g-2471430",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51001/51001177/991-ratio-izkustven-intelekt.jpg"
-    },
-    {
-      "title": "Кристалина Георгиева: Централните банки ще трябва да вземат предвид евентуално забавяне на растежа, задвижван от AI",
-      "url": "https://dariknews.bg/novini/biznes/kristalina-georgieva-centralnite-banki-shte-triabva-da-vzemat-predvid-eventualno-zabaviane-na-rastezha-zadvizhvan-ot-ai-2471432",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50085/50085225/991-ratio-kristalina-georgieva.jpg"
-    },
-    {
-      "title": "Скандал и напрежение за писмото до ЕК: Гълъб Донев с позиция за втория пенсионен стълб",
-      "url": "https://dariknews.bg/novini/bylgariia/skandal-i-naprezhenie-za-pismoto-do-ek-gylyb-donev-s-poziciia-za-vtoriia-pensionen-stylb-2471429",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409158/991-ratio-gylyb-donev-bozhidar-bozhanov.jpg"
-    },
-    {
-      "title": "Разбиха банкомат в центъра на Пловдив",
-      "url": "https://dariknews.bg/regioni/plovdiv/razbiha-bankomat-v-centyra-na-plovdiv-2471428",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51403/51403968/991-ratio-policiia.jpg"
-    },
-    {
-      "title": "Авария оставя нови части от София без парно и топла вода",
-      "url": "https://dariknews.bg/regioni/sofiia/avariia-ostavia-novi-chasti-ot-sofiia-bez-parno-i-topla-voda-2471427",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51016/51016318/991-ratio-ryce-parno-stud.jpg"
-    },
-    {
-      "title": "Европейският лидер в детската онкология „Принцеса Максима“ обединява усилия с болници у нас",
-      "url": "https://dariknews.bg/regioni/plovdiv/evropejskiiat-lider-v-detskata-onkologiia-princesa-maksima-obediniava-usiliia-s-bolnici-u-nas-2471426",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409134/991-ratio-kralica-maksima.jpg"
-    },
-    {
-      "title": "Откриха човешки останки на кораба, ударен от дрон край Румъния и ремонтиран във Варна",
-      "url": "https://dariknews.bg/novini/bylgariia/otkriha-choveshki-ostanki-na-koraba-udaren-ot-dron-kraj-rumyniia-i-remontiran-vyv-varna-2471425",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409132/991-ratio-korab-granichna-policiia.jpg"
-    },
-    {
-      "title": "Вицепремиерът Иво Христов: Българският език заслужава законова защита",
-      "url": "https://dariknews.bg/novini/bylgariia/vicepremieryt-ivo-hristov-bylgarskiiat-ezik-zasluzhava-zakonova-zashtita-2471423",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409113/991-ratio-ivo-hristov.jpg"
-    },
-    {
-      "title": "И братът на Меган Маркъл попадна в разследване за сексуално насилие над деца",
-      "url": "https://dariknews.bg/novini/sviat/i-bratyt-na-megan-markyl-popadna-v-razsledvane-za-seksualno-nasilie-nad-deca-2471422",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409099/991-ratio-megan-markyl-arest-bashta.jpg"
-    },
-    {
-      "title": "България отдаде почит пред паметта на загиналите си военнослужещи",
-      "url": "https://dariknews.bg/regioni/sofiia/bylgariia-otdade-pochit-pred-pametta-na-zaginalite-si-voennosluzheshti-2471421",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51409/51409097/991-ratio-zadushnica.jpg"
+      "title": "Ботев Пловдив отбеляза 40 дни от кончината на Илиян Филипов 08 Ное | 08:05",
+      "url": "https://dsport.bg/botev-plovdiv-otbelaza-40-dni-ot-konchinata-na-ilian-filipov~244215.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/388/filipov4.og.jpg"
     },
     {
       "title": "Реал Мадрид превзе „Местая“ с три гола, Валенсия завърши с човек по-малко 07 Ное | 23:57",
@@ -182,34 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/388/1054854.og.jpg"
-    },
-    {
-      "title": "Тежък инцидент с 47-годишен фен в Германия, има новини за състоянието му 07 Ное | 22:33",
-      "url": "https://dsport.bg/tezak-incident-s-47-godishen-fen-v-germania-ima-novini-za-sastoanieto-mu~244208.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2301363485.og.jpg"
-    },
-    {
-      "title": "Ландо Норис тръгва пръв след уникална квалификация на „Интерлагос“ 07 Ное | 22:28",
-      "url": "https://dsport.bg/lando-noris-tragva-prav-sled-unikalna-kvalifikacia-na-interlagos~244205.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/gettyimages-2304017377.og.jpg"
-    },
-    {
-      "title": "Николай Желязков: Можем да победим Младост Загреб, ще направим всичко възможно (ВИДЕО) 07 Ное | 22:08",
-      "url": "https://dsport.bg/nikolai-zelazkov-mozem-da-pobedim-mladost-zagreb-ste-napravim-vsichko-vazmozno~244207.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/1054776.og.jpg"
-    },
-    {
-      "title": "Голмайсторът на Лига 1 наказа бившия си отбор и доближи Париж ФК до ПСЖ 07 Ное | 21:59",
-      "url": "https://dsport.bg/golmaistorat-na-liga-1-nakaza-bivshia-si-otbor-i-doblizi-pariz-fk-do-psz~244206.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/388/screenshot_3~38.og.png"
     }
   ]
 }
