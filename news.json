@@ -1,6 +1,41 @@
 {
-  "updated": "2026-11-11T23:25:44.197725+00:00",
+  "updated": "2026-11-12T03:58:32.963255+00:00",
   "articles": [
+    {
+      "title": "Евростат: България е трета в ЕС по дял на хората, които не могат да покрият неочаквани разходи",
+      "url": "https://dariknews.bg/novini/bylgariia/evrostat-bylgariia-e-treta-v-es-po-dial-na-horata-koito-ne-mogat-da-pokriiat-neochakvani-razhodi-2471747",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50712/50712297/991-ratio-zaplati-bednost.jpg"
+    },
+    {
+      "title": "Мечки край градовете: какво да правим, за да ги държим далеч, и как да реагираме при среща",
+      "url": "https://dariknews.bg/novini/bylgariia/mechki-kraj-gradovete-kakvo-da-pravim-za-da-gi-dyrzhim-dalech-i-kak-da-reagirame-pri-sreshta-2471779",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51411/51411182/991-ratio-mechka.jpg"
+    },
+    {
+      "title": "Ограничават движението по АМ „Тракия“ край Пазарджик заради ремонт",
+      "url": "https://dariknews.bg/regioni/Pazardzhik/ogranichavat-dvizhenieto-po-am-trakiia-kraj-pazardzhik-zaradi-remont-2471772",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51316/51316954/991-ratio-remont-ulica.jpg"
+    },
+    {
+      "title": "Ето кой има имен ден на 12 октомври",
+      "url": "https://dariknews.bg/novini/obshtestvo/eto-koj-ima-imen-den-na-12-oktomvri-2433584",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51131/51131759/991-ratio-dete-cyrkva.jpg"
+    },
+    {
+      "title": "„Като по поръчка“: Градусите скачат до 24° в работните дни, студен фронт нахлува за уикенда",
+      "url": "https://dariknews.bg/novini/bylgariia/kato-po-porychka-gradusite-skachat-do-24-v-rabotnite-dni-studen-front-nahluva-za-uikenda-2471765",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
+    },
     {
       "title": "Мелони след сигналите за бомби в хиляди училища: Няма реална опасност",
       "url": "https://dariknews.bg/novini/sviat/meloni-sled-signalite-za-bombi-v-hiliadi-uchilishta-niama-realna-opasnost-2471801",
@@ -105,41 +140,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51117/51117843/991-ratio-uchilishte-izpit-deca-uchenici.jpg"
-    },
-    {
-      "title": "Правителството отмени визите за косовски дипломати и техните семейства",
-      "url": "https://dariknews.bg/novini/bylgariia/pravitelstvoto-otmeni-vizite-za-kosovski-diplomati-i-tehnite-semejstva-2471789",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50652/50652822/991-ratio-ms-ministerskiia-syvet.jpg"
-    },
-    {
-      "title": "Кабинетът отпусна над 51 000 евро за лечение и отдих на ветерани и военноинвалиди",
-      "url": "https://dariknews.bg/novini/bylgariia/kabinetyt-otpusna-nad-51-000-evro-za-lechenie-i-otdih-na-veterani-i-voennoinvalidi-2471784",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50903/50903472/991-ratio-bylgarski-voenen-kontingent.jpg"
-    },
-    {
-      "title": "Нова агенция ще обедини контрола върху горите и рибарството",
-      "url": "https://dariknews.bg/novini/bylgariia/nova-agenciia-shte-obedini-kontrola-vyrhu-gorite-i-ribarstvoto-2471785",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50834/50834862/991-ratio-ribar.jpg"
-    },
-    {
-      "title": "Променят правилата за ограничаване на полетите за нуждите на Българската армия",
-      "url": "https://dariknews.bg/novini/bylgariia/promeniat-pravilata-za-ogranichavane-na-poletite-za-nuzhdite-na-bylgarskata-armiia-2471783",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50564/50564243/991-ratio-voenen-samolet.jpg"
-    },
-    {
-      "title": "Кабинетът отпуска 51,6 млн. евро за справяне с последиците от бедствия",
-      "url": "https://dariknews.bg/novini/bylgariia/kabinetyt-otpuska-516-mln.-evro-za-spraviane-s-posledicite-ot-bedstviia-2471781",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51342/51342926/991-ratio-navodnenie-lom.jpg"
     },
     {
       "title": "Таня Гатева: Стартът е мечтан, резултатът е красноречив, търсим победата във всеки мач 11 Ное | 23:51",
