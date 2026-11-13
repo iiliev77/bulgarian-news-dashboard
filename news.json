@@ -1,145 +1,180 @@
 {
-  "updated": "2026-11-13T00:54:33.426438+00:00",
+  "updated": "2026-11-13T07:28:03.203658+00:00",
   "articles": [
     {
-      "title": "Оправдаха Лютви Местан и осъдиха условно втория обвиняем по делото за катастрофата, при която загина бебе",
-      "url": "https://dariknews.bg/novini/bylgariia/opravdaha-liutvi-mestan-i-osydiha-uslovno-vtoriia-obviniaem-po-deloto-za-katastrofata-pri-koiato-zagina-bebe-2471913",
+      "title": "Борисов: Това правителство може да изнерви всеки, замислям се дали не искат да ни върнат във времето на „Кореком“",
+      "url": "https://dariknews.bg/novini/bylgariia/borisov-tova-pravitelstvo-mozhe-da-iznervi-vseki-zamisliam-se-dali-ne-iskat-da-ni-vyrnat-vyv-vremeto-na-korekom-2471927",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32239/32239078/991-ratio-liutvi-mestan-dost.jpg"
+      "image": "https://m.netinfo.bg/media/images/51409/51409440/991-ratio-bojko-borisov.jpg"
     },
     {
-      "title": "Проблеми с Outlook и Microsoft Teams: Компанията съобщи за срив",
-      "url": "https://dariknews.bg/novini/sviat/problemi-s-outlook-i-microsoft-teams-kompaniiata-syobshti-za-sriv-2471912",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45820/45820167/991-ratio-majkrosoft-microsoft.jpg"
-    },
-    {
-      "title": "Иван и Марио размениха местата си в „Игри на волята“",
-      "url": "https://dariknews.bg/novini/liubopitno/ivan-i-mario-razmeniha-mestata-si-v-igri-na-voliata-2471911",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51411/51411954/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Метро, детски градини и нови пътни проекти: Терзиев отчете три години управление",
-      "url": "https://dariknews.bg/regioni/sofiia/metro-detski-gradini-i-novi-pytni-proekti-terziev-otchete-tri-godini-upravlenie-2471910",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51411/51411931/991-ratio-terziev.jpg"
-    },
-    {
-      "title": "Разследващите търсят свидетели на трагедията на АМ „Тракия“ чрез записите от тол камерите",
-      "url": "https://dariknews.bg/novini/bylgariia/razsledvashtite-tyrsiat-svideteli-na-tragediiata-na-am-trakiia-chrez-zapisite-ot-tol-kamerite-2471909",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "„Случайност, безотговорност или саботаж?“: 600 000 литра вода изтекоха в канализацията на басейн „Диана“",
-      "url": "https://dariknews.bg/novini/bylgariia/sluchajnost-bezotgovornost-ili-sabotazh-600-000-litra-voda-iztekoha-v-kanalizaciiata-na-basejn-diana-2471907",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/34658/34658511/991-ratio-pluven-basejn.jpg"
-    },
-    {
-      "title": "„Кауфланд България“ с предупреждение, управляващите отговориха остро",
-      "url": "https://dariknews.bg/novini/bylgariia/kaufland-bylgariia-s-preduprezhdenie-upravliavashtite-otgovoriha-ostro-2471906",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Въздушни линейки транспортираха две пострадали деца до болница в Пловдив",
-      "url": "https://dariknews.bg/novini/bylgariia/vyzdushni-linejki-transportiraha-dve-postradali-deca-do-bolnica-v-plovdiv-2471904",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51060/51060972/991-ratio-vyzdushna-linejka.jpg"
-    },
-    {
-      "title": "ВКС се обяви срещу законодателните мерки в държавния бюджет, засягащи съдебната власт",
-      "url": "https://dariknews.bg/novini/bylgariia/vks-se-obiavi-sreshtu-zakonodatelnite-merki-v-dyrzhavniia-biudzhet-zasiagashti-sydebnata-vlast-2471903",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51222/51222714/991-ratio-vks.jpg"
-    },
-    {
-      "title": "Мащабна полицейска акция във Вашингтон след стрелба с петима ранени",
-      "url": "https://dariknews.bg/novini/sviat/mashtabna-policejska-akciia-vyv-vashington-sled-strelba-s-petima-raneni-2471902",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51185/51185033/991-ratio-policiia-sasht.jpg"
-    },
-    {
-      "title": "Внимание, шофьори: Зоните за платено паркиране в Ловеч продължават да са в сила",
-      "url": "https://dariknews.bg/regioni/lovech/vnimanie-shofiori-zonite-za-plateno-parkirane-v-lovech-prodylzhavat-da-sa-v-sila-2471900",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51410/51410591/991-ratio-plateno-parkirane-v-lovech.jpg"
-    },
-    {
-      "title": "Криско за промените в Закона за личната помощ: Да се замислим какво означава да си майка на дете с тежко увреждане",
-      "url": "https://dariknews.bg/novini/bylgariia/krisko-za-promenite-v-zakona-za-lichnata-pomosht-da-se-zamislim-kakvo-oznachava-da-si-majka-na-dete-s-tezhko-uvrezhdane-2471899",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/47021/47021384/991-ratio-krisko.jpg"
-    },
-    {
-      "title": "БАБХ иззе мед, сирене, масло и овча лой при проверки на три гранични пункта",
-      "url": "https://dariknews.bg/novini/bylgariia/babh-izze-med-sirene-maslo-i-ovcha-loj-pri-proverki-na-tri-granichni-punkta-2471898",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51411/51411759/991-ratio-med.jpg"
-    },
-    {
-      "title": "Путин с ново предложение към САЩ за Украйна: Иска хуманитарна мисия в Донбас",
-      "url": "https://dariknews.bg/novini/sviat/putin-s-novo-predlozhenie-kym-sasht-za-ukrajna-iska-humanitarna-misiia-v-donbas-2471897",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51411/51411757/991-ratio-ruskiiat-prezident-vladimir-putin-posreshta-specialnite-pratenici-na-sasht-dzhared.jpg"
-    },
-    {
-      "title": "Ни напред, ни назад: Румънски ТИР се заклещи в Казанлък и помля покрив на сграда (СНИМКА/ВИДЕО)",
-      "url": "https://dariknews.bg/regioni/stara-zagora/ni-napred-ni-nazad-rumynski-tir-se-zakleshti-v-kazanlyk-i-pomlia-pokriv-na-sgrada-snimkavideo-2471896",
+      "title": "Зрелищна спецакция „Червен пипер“: С лодка и понтони разчистиха плажовете край Синеморец (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/burgas/zrelishtna-specakciia-cherven-piper-s-lodka-i-pontoni-razchistiha-plazhovete-kraj-sinemorec-snimki-2471928",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/dariknews/images/loader.png"
     },
     {
-      "title": "Възобновява се издаването на паспорти с 10-годишна валидност",
-      "url": "https://dariknews.bg/novini/bylgariia/vyzobnoviava-se-izdavaneto-na-pasporti-s-10-godishna-validnost-2471894",
+      "title": "Европа прие общи принципи за сигурността, България е единствената от ЕС извън документа?",
+      "url": "https://dariknews.bg/novini/sviat/evropa-prie-obshti-principi-za-sigurnostta-bylgariia-e-edinstvenata-ot-es-izvyn-dokumenta-2471926",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51197/51197697/991-ratio-bg-pasport.jpg"
+      "image": "https://m.netinfo.bg/media/images/51412/51412105/991-ratio-liderite-na-stranite-ot-evropejskata-politicheska-obshtnost-po-vreme-na.jpg"
     },
     {
-      "title": "Любовен скандал с китайска шпионка разтърси Nvidia: Дженсън Хуанг подаде оставка",
-      "url": "https://dariknews.bg/novini/sviat/liuboven-skandal-s-kitajska-shpionka-raztyrsi-nvidia-dzhensyn-huang-podade-ostavka-2471895",
+      "title": "78 сигнала на 112 за трагедията на АМ „Тракия“: Първият е подаден секунди след катастрофата",
+      "url": "https://dariknews.bg/novini/bylgariia/78-signala-na-112-za-tragediiata-na-am-trakiia-pyrviiat-e-podaden-sekundi-sled-katastrofata-2471925",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51410/51410261/991-ratio-jensen-huang.jpg"
+      "image": "https://m.netinfo.bg/media/images/51411/51411468/991-ratio-spasitelite-v-tragediiata-na-trakiia.jpg"
     },
     {
-      "title": "Бедственото положение в Козлодуй продължава: Държавният резерв изпраща 864 000 литра питейна вода",
-      "url": "https://dariknews.bg/regioni/vraca/bedstvenoto-polozhenie-v-kozloduj-prodylzhava-dyrzhavniiat-rezerv-izprashta-864-000-litra-pitejna-voda-2471893",
+      "title": "Силният вятър нанесе щети в София: 120 сигнала за паднали дървета и проблеми с транспорта (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/sofiia/silniiat-viatyr-nanese-shteti-v-sofiia-120-signala-za-padnali-dyrveta-i-problemi-s-transporta-snimki-2471924",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51165/51165926/991-ratio-voda.jpg"
+      "image": "https://m.netinfo.bg/media/images/51412/51412102/991-ratio-dyrvo-e-padnalo-vyrhu-kola-v-sofiia-zaradi-silniia-viatyr.jpg"
     },
     {
-      "title": "В изключително лошо хигиенно състояние: Затвориха нелегален цех за млечни продукти в Лесичово",
-      "url": "https://dariknews.bg/regioni/Pazardzhik/v-izkliuchitelno-losho-higienno-systoianie-zatvoriha-nelegalen-ceh-za-mlechni-produkti-v-lesichovo-2471891",
+      "title": "Земетресение събуди жителите на остров Крит",
+      "url": "https://dariknews.bg/novini/sviat/zemetresenie-sybudi-zhitelite-na-ostrov-krit-2471923",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51411/51411745/991-ratio-babh-ustanovi-nezakonna-mandra-v-selo-lesichovo.jpg"
+      "image": "https://m.netinfo.bg/media/images/50980/50980778/991-ratio-zemetresenie.jpg"
     },
     {
-      "title": "Обявиха цялостен пакет от мерки в размер на 2 млрд. евро в подкрепа на българските домакинства",
-      "url": "https://dariknews.bg/novini/bylgariia/obiaviha-cialosten-paket-ot-merki-v-razmer-na-2-mlrd.-evro-v-podkrepa-na-bylgarskite-domakinstva-2471890",
+      "title": "Франция си спомня за кървавата нощ в Париж: 11 години от атентатите, отнели 132 живота",
+      "url": "https://dariknews.bg/novini/sviat/franciia-si-spomnia-za-kyrvavata-nosht-v-parizh-11-godini-ot-atentatite-otneli-132-zhivota-2471922",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51412/51412091/991-ratio-parizh.jpg"
+    },
+    {
+      "title": "„Невидимите в съдебната система“ излизат на протест срещу проектобюджета",
+      "url": "https://dariknews.bg/novini/bylgariia/nevidimite-v-sydebnata-sistema-izlizat-na-protest-sreshtu-proektobiudzheta-2471921",
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Microsoft не успява да възстанови напълно услугите си след мащабния срив",
+      "url": "https://dariknews.bg/novini/sviat/microsoft-ne-uspiava-da-vyzstanovi-napylno-uslugite-si-sled-mashtabniia-sriv-2471920",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51412/51412088/991-ratio-majkrosoft.jpg"
+    },
+    {
+      "title": "Ремонти променят движението по АМ „Тракия“ в посока София до 17 ноември",
+      "url": "https://dariknews.bg/novini/bylgariia/remonti-promeniat-dvizhenieto-po-am-trakiia-v-posoka-sofiia-do-17-noemvri-2471919",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51412/51412081/991-ratio-trakiia-remont.jpg"
+    },
+    {
+      "title": "Парламентарен контрол: Четирима министри ще отговарят на депутатски въпроси",
+      "url": "https://dariknews.bg/novini/bylgariia/parlamentaren-kontrol-chetirima-ministri-shte-otgovariat-na-deputatski-vyprosi-2471918",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51387/51387325/991-ratio-parlament.jpg"
+    },
+    {
+      "title": "Тръмп: Искам да приключа с въпроса за Куба, преди да си тръгна",
+      "url": "https://dariknews.bg/novini/sviat/trymp-iskam-da-prikliucha-s-vyprosa-za-kuba-predi-da-si-trygna-2471917",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51412/51412079/991-ratio-donald-trymp.jpg"
+    },
+    {
+      "title": "Днес ли свършва светът? Предрекли апокалипсиса преди 66 години",
+      "url": "https://dariknews.bg/novini/sviat/dnes-li-svyrshva-svetyt-predrekli-apokalipsisa-predi-66-godini-2471916",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/34697/34697283/991-ratio-apokalipsis.jpg"
+    },
+    {
+      "title": "Зеленски след среща с пратениците на САЩ: Европа ще участва в следващия кръг от преговорите за край на войната",
+      "url": "https://dariknews.bg/novini/sviat/zelenski-sled-sreshta-s-pratenicite-na-sasht-evropa-shte-uchastva-v-sledvashtiia-kryg-ot-pregovorite-za-kraj-na-vojnata-2471915",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51412/51412073/991-ratio-sreshta-zelenski-uitkof-i-kyshnyr.jpg"
+    },
+    {
+      "title": "Нападателят, прострелял петима души в центъра на Вашингтон, е мъртъв",
+      "url": "https://dariknews.bg/novini/sviat/napadateliat-prostrelial-petima-dushi-v-centyra-na-vashington-e-myrtyv-2471914",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51412/51412070/991-ratio-strelba-vashington.jpg"
+    },
+    {
+      "title": "Какво се случва, когато попаднете в средата на верижна катастрофа: Има ли изход?",
+      "url": "https://dariknews.bg/novini/bylgariia/kakvo-se-sluchva-kogato-popadnete-v-sredata-na-verizhna-katastrofa-ima-li-izhod-2471908",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51410/51410694/991-ratio-karastrofata-na-trakiia.jpg"
+    },
+    {
+      "title": "Злокобните събития в петък 13-и през годините",
+      "url": "https://dariknews.bg/novini/liubopitno/zlokobnite-sybitiia-v-petyk-13-i-prez-godinite-2248209",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Лош ден ли е петък 13-и - за страха, митовете и суеверията",
+      "url": "https://dariknews.bg/novini/bylgariia/losh-den-li-e-petyk-13-i-za-straha-mitovete-i-sueveriiata-2394352",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50916/50916752/991-ratio-petyk-13ti.jpg"
+    },
+    {
+      "title": "Петък 13-и носи изненадващо време: Червен, оранжев и жълт код за силен вятър и температури до 25° (КАРТА)",
+      "url": "https://dariknews.bg/novini/bylgariia/petyk-13-i-nosi-iznenadvashto-vreme-cherven-oranzhev-i-zhylt-kod-za-silen-viatyr-i-temperaturi-do-25-karta-2471905",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51199/51199796/991-ratio-slynce-esen.jpg"
+    },
+    {
+      "title": "Хонорарите на популярни турски изпълнители за новогодишната нощ достигнаха 25 милиона лири",
+      "url": "https://dariknews.bg/novini/sviat/honorarite-na-populiarni-turski-izpylniteli-za-novogodishnata-nosht-dostignaha-25-miliona-liri-2471848",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51171/51171796/991-ratio-koncert.jpg"
+    },
+    {
+      "title": "Детройт с драматичен успех над Вашингтон, Филаделфия спечели без Леброн 13 Ное | 09:23",
+      "url": "https://dsport.bg/detroit-s-dramatichen-uspeh-nad-vashington-filadelfia-specheli-bez-lebron~244613.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2304870094.og.jpg"
+    },
+    {
+      "title": "Бившата отново захапа защитник на Ювентус за изневярата 13 Ное | 09:12",
+      "url": "https://dsport.bg/bivshata-otnovo-zahapa-zastitnik-na-uventus-za-iznevarata~244612.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/screenshot-1454-~1.og.png"
+    },
+    {
+      "title": "Клоп се зарече за спорната радост на Нмеча 13 Ное | 08:51",
+      "url": "https://dsport.bg/klop-se-zareche-za-spornata-radost-na-nmecha~244611.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2304806249.og.jpg"
+    },
+    {
+      "title": "България отваря втората есенна страница от Лига на нациите 13 Ное | 08:36",
+      "url": "https://dsport.bg/balgaria-otvara-vtorata-esenna-stranica-ot-liga-na-naciite~244610.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/finali-ekt-14-.og.jpg"
+    },
+    {
+      "title": "ФИФА загуби ключово дело срещу УЕФА в Ню Йорк 13 Ное | 08:11",
+      "url": "https://dsport.bg/fifa-zagubi-delo~244609.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2293650791.og.jpg"
     },
     {
       "title": "Бетис оцеля в спиращ дъха трилър за Купата срещу аматьори 13 Ное | 00:04",
@@ -175,41 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/389/gettyimages-2304294094.og.jpg"
-    },
-    {
-      "title": "Олимпиакос отбеляза по специален начин рекорда на Везенков 12 Ное | 22:54",
-      "url": "https://dsport.bg/olimpiakos-otbelaza-po-specialen-nachin-rekorda-na-vezenkov~244603.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2304291367.og.jpg"
-    },
-    {
-      "title": "Историческо: Саша Везенков е новият топреализатор на Олимпиакос в Евролигата, задмина Спанулис! 12 Ное | 22:40",
-      "url": "https://dsport.bg/istorichesko-sasha-vezenkov-e-noviat-toprealizator-na-olimpiakos-v-evroligata-zadmina-spanulis~244602.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2304292688.og.jpg"
-    },
-    {
-      "title": "Хари Кейн с нов рекорд 12 Ное | 22:24",
-      "url": "https://dsport.bg/hari-kein-s-nov-rekord~244601.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2304815251.og.jpg"
-    },
-    {
-      "title": "Виктор Гьокереш с грандиозна покупка, придоби луксозен апартамент в Стокхолм за над 6 млн. евро 12 Ное | 22:14",
-      "url": "https://dsport.bg/viktor-gokeresh-s-grandiozna-pokupka-pridobi-luksozen-apartament-v-stokholm-za-nad-6-mln-evro~244600.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2244461749~1.og.jpg"
-    },
-    {
-      "title": "Почетино пристига на „Олд Трафорд“ броени дни преди голямото дерби с Ливърпул 12 Ное | 22:05",
-      "url": "https://dsport.bg/pochetino-pristiga-na-old-traford-broeni-dni-predi-golamoto-derbi-s-livarpul~244599.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2171737735-2.og.jpg"
     }
   ]
 }
