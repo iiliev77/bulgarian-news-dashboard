@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-13T21:35:37.374472+00:00",
+  "updated": "2026-11-14T01:42:40.325939+00:00",
   "articles": [
+    {
+      "title": "Забраниха всички полети в САЩ поради „извънредни обстоятелства“",
+      "url": "https://dariknews.bg/novini/sviat/zabraniha-vsichki-poleti-v-sasht-poradi-izvynredni-obstoiatelstva-2472016",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51104/51104595/991-ratio-samolet.jpg"
+    },
     {
       "title": "Ето кои държави ще представляват Европа в преговорите за Украйна",
       "url": "https://dariknews.bg/novini/sviat/eto-koi-dyrzhavi-shte-predstavliavat-evropa-v-pregovorite-za-ukrajna-2472015",
@@ -135,81 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51389/51389620/991-ratio-emil-eftimov.jpg"
     },
     {
-      "title": "Бурен вятър нанесе щети в Бургас: Дървета и стълбове паднаха, пострадаха автомобили",
-      "url": "https://dariknews.bg/regioni/burgas/buren-viatyr-nanese-shteti-v-burgas-dyrveta-i-stylbove-padnaha-postradaha-avtomobili-2471990",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51412/51412346/991-ratio-burgas-viatyr.jpg"
+      "title": "Петър Величков: Ето това ни обеща за след 3 години Гонзото, Стоичков по-далеч от българския футбол 14 Ное | 00:53",
+      "url": "https://dsport.bg/petar-velichkov-eto-tova-ni-obesta-za-sled-3-godini-gonzoto-stoichkov-po-dalech-ot-balgarskia-futbol~244677.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/1057681~1.og.jpg"
     },
     {
-      "title": "На живо: Какво се случва в Пловдив... Невиждан резил за България! 13 Ное | 23:27",
+      "title": "Русев болезнено откровен: Толкова си можем, няма какво да се оправдаваме 14 Ное | 00:33",
+      "url": "https://dsport.bg/rusev-bolezneno-otkroven-tolkova-si-mozem-nama-kakvo-da-se-opravdavame~244676.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/1057677~1.og.jpg"
+    },
+    {
+      "title": "Синът на Гудьонсен, който заби хеттрик на България: Искам да продължа наследството на семейството си 14 Ное | 00:24",
+      "url": "https://dsport.bg/sinat-na-gudonsen-koito-zabi-hettrik-na-balgaria-iskam-da-prodalza-nasledstvoto-na-semeistvoto-si~244675.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/1057678~1.og.jpg"
+    },
+    {
+      "title": "Дебютант в националния отбор: Има такива неща във футбола 14 Ное | 00:23",
+      "url": "https://dsport.bg/debutant-v-nacionalnia-otbor-ima-takiva-nesta-vav-futbola~244674.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/1057617.og.jpg"
+    },
+    {
+      "title": "Илия Груев: Превъзхождаха ни във всичко, хубавото е, че играем пак след 2 дни 14 Ное | 00:18",
+      "url": "https://dsport.bg/ilia-gruev-prevazhozdaha-ni-vav-vsichko-hubavoto-e-che-igraem-pak-sled-2-dni~244673.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/1057694~1.og.jpg"
+    },
+    {
+      "title": "Селта не остави шансове на Саламанка и продължава напред за Купата на Краля 14 Ное | 00:15",
+      "url": "https://dsport.bg/selta-ne-ostavi-shansove-na-salamanka-i-prodalzava-napred-za-kupata-na-krala~244672.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/hxcw0g_wuaayrtn.og.jpg"
+    },
+    {
+      "title": "Рибарски: Необяснимо, трябва да се направи дългосрочен план (ВИДЕО) 14 Ное | 00:08",
+      "url": "https://dsport.bg/ribarski-neobasnimo-trabva-da-se-napravi-dalgosrochen-plan~244671.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/1057664~1.og.jpg"
+    },
+    {
+      "title": "Германия взе своето от изнервените сърби в Белград 13 Ное | 23:57",
+      "url": "https://dsport.bg/germania-vze-svoeto-ot-iznervenite-sarbi-v-belgrad~244670.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2304475023.og.jpg"
+    },
+    {
+      "title": "Макгин донесе победата на Шотландия срещу Северна Македония 13 Ное | 23:55",
+      "url": "https://dsport.bg/makgin-donese-pobedata-na-shotlandia-srestu-severna-makedonia~244669.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2305008612.og.jpg"
+    },
+    {
+      "title": "-5°C на „Колежа“: Ледена епоха за българския футбол! Добре че закриват Лигата на Dжуджетата… 13 Ное | 23:40",
       "url": "https://dsport.bg/na-zivo-balgaria-islandia-sastavi~244610.html",
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/389/1057699.og.jpg"
-    },
-    {
-      "title": "ЦСКА потъна в Дунав след драма в Русе 13 Ное | 22:52",
-      "url": "https://dsport.bg/cska-potana-v-dunav-sled-drama-v-ruse~244667.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/13.11-4~1.og.jpg"
-    },
-    {
-      "title": "Красавица от Босна дебютира в Световната купа по ски 13 Ное | 22:36",
-      "url": "https://dsport.bg/krasavica-ot-bosna-debutira-v-svetovnata-kupa-po-ski~244666.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/screenshot-2026-11-13-223725.og.png"
-    },
-    {
-      "title": "България с трима боксьори в Топ 10 на света 13 Ное | 22:08",
-      "url": "https://dsport.bg/balgaria-s-trima-boksori-v-top-10-na-sveta~244665.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/55551830594_9e67042cb2_o.og.jpeg"
-    },
-    {
-      "title": "Дея Спорт с трета поредна победа, остави Славия капо 13 Ное | 21:53",
-      "url": "https://dsport.bg/dea-sport-s-treta-poredna-pobeda-ostavi-slavia-kapo~244664.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/1054865.og.jpg"
-    },
-    {
-      "title": "Кошмар за капитан от Ла Лига: маскирани обраха дома му, докато се прибирал с децата си 13 Ное | 21:37",
-      "url": "https://dsport.bg/koshmar-za-kapitan-ot-la-liga-maskirani-obraha-doma-mu-dokato-se-pribiral-s-decata-si~244662.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2300787136.og.jpg"
-    },
-    {
-      "title": "Молдова пак победи Казахстан и се намеси в битката за промоция в Лига B 13 Ное | 21:21",
-      "url": "https://dsport.bg/moldova-pak-pobedi-kazahstan-i-se-namesi-v-bitkata-za-promocia-v-liga-b~244661.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2184438656.og.jpg"
-    },
-    {
-      "title": "Дортмунд се вслуша във феновете – няма да удължи партньорство с оръжейна компания 13 Ное | 21:08",
-      "url": "https://dsport.bg/dortmund-se-vslusha-vav-fenovete-nama-da-udalzi-partnorstvo-s-orazeina-kompania~244660.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2185896029.og.jpg"
-    },
-    {
-      "title": "Ясно е кога Манчестър Сити ще научи съдбата си 13 Ное | 20:55",
-      "url": "https://dsport.bg/asno-e-koga-manchestar-siti-ste-nauchi-sadbata-si~244659.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2300714761.og.jpg"
-    },
-    {
-      "title": "Марица громи пред погледа на Стоичков, ЦСКА загря за мача с шампионките с победа 13 Ное | 20:40",
-      "url": "https://dsport.bg/marica-gromi-pred-pogleda-na-stoichkov-cska-zagra-za-macha-s-shampionkite-s-pobeda~244658.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/13.11-3.og.jpg"
     }
   ]
 }
