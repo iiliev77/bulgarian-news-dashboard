@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-15T16:51:08.604143+00:00",
+  "updated": "2026-11-15T21:22:49.213279+00:00",
   "articles": [
+    {
+      "title": "„Царевец“ грейна в лилаво по повод Световния ден на недоносените деца",
+      "url": "https://dariknews.bg/regioni/veliko-tyrnovo/carevec-grejna-v-lilavo-po-povod-svetovniia-den-na-nedonosenite-deca-2472079",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51413/51413170/991-ratio-carevec.jpg"
+    },
+    {
+      "title": "Взрив на газова бутилка на коледен базар в Белгия, има пострадали",
+      "url": "https://dariknews.bg/novini/sviat/vzriv-na-gazova-butilka-na-koleden-bazar-v-belgiia-ima-postradali-2472075",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50995/50995521/991-ratio-policiia-koleden-bazar.jpg"
+    },
+    {
+      "title": "Хутите обявиха, че са атакували с ракети и дронове ключови обекти в Рияд",
+      "url": "https://dariknews.bg/novini/sviat/hutite-obiaviha-che-sa-atakuvali-s-raketi-i-dronove-kliuchovi-obekti-v-riiad-2472074",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50703/50703914/991-ratio-jemen-huti.jpg"
+    },
+    {
+      "title": "Президентът Йотова се срещна с жители на Камбоджа, получили висшето си образование у нас",
+      "url": "https://dariknews.bg/novini/sviat/prezidentyt-iotova-se-sreshtna-s-zhiteli-na-kambodzha-poluchili-vissheto-si-obrazovanie-u-nas-2472073",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51413/51413146/991-ratio-jotova.jpg"
+    },
+    {
+      "title": "Баба Неделя от Търговище навърши 106 години, пет поколения се събраха на празника",
+      "url": "https://dariknews.bg/novini/liubopitno/baba-nedelia-ot-tyrgovishte-navyrshi-106-godini-pet-pokoleniia-se-sybraha-na-praznika-2472072",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51413/51413145/991-ratio-tyrgovishte.jpg"
+    },
+    {
+      "title": "Заради жилищната криза в Испания: Нови протести след сблъсъци и арести",
+      "url": "https://dariknews.bg/novini/sviat/zaradi-zhilishtnata-kriza-v-ispaniia-novi-protesti-sled-sblysyci-i-aresti-2472071",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51413/51413140/991-ratio-barselona.jpg"
+    },
+    {
+      "title": "Бащата на загиналата Сияна създава политическа партия, която ще носи името на дъщеря му",
+      "url": "https://dariknews.bg/novini/bylgariia/bashtata-na-zaginalata-siiana-syzdava-politicheska-partiia-koiato-shte-nosi-imeto-na-dyshteria-mu-2472070",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
     {
       "title": "Кола се преобърна по таван на метри от пешеходна пътека в София (СНИМКА)",
       "url": "https://dariknews.bg/regioni/sofiia/kola-se-preobyrna-po-tavan-na-metri-ot-peshehodna-pyteka-v-sofiia-snimka-2472069",
@@ -20,7 +69,7 @@
       "url": "https://dariknews.bg/novini/sviat/tri-koraba-sa-udareni-ot-dronove-v-cherno-more-kraj-rumynskiia-kanal-sulina-2472067",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51286/51286297/991-ratio-cherno-more.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Д-р Пекин с анализ на близнаците и Пепи от „Игри на волята“",
@@ -28,13 +77,6 @@
       "source": "DarikNews",
       "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Министерският съвет се събира на заседание в понеделник заради бюджета",
-      "url": "https://dariknews.bg/novini/bylgariia/ministerskiiat-syvet-se-sybira-na-zasedanie-v-ponedelnik-zaradi-biudzheta-2472065",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51242/51242904/991-ratio-ministerski-syvet.jpg"
     },
     {
       "title": "ДАНС отговори на обвиненията за натиск върху Ива Михайлова",
@@ -100,116 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51345/51345599/991-ratio-katastrofa.jpg"
     },
     {
-      "title": "Емануела пред Мон Дьо: Изневерите, болезнените раздели и скандалите зад сцената",
-      "url": "https://dariknews.bg/novini/liubopitno/emanuela-pred-mon-dio-izneverite-boleznenite-razdeli-i-skandalite-zad-scenata-2471979",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "100 или 50 км/ч в гъста мъгла: Експеримент показва колко важна е скоростта",
-      "url": "https://dariknews.bg/novini/bylgariia/100-ili-50-kmch-v-gysta-mygla-eksperiment-pokazva-kolko-vazhna-e-skorostta-2472054",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Енергийният министър: „Топлофикация София“ има само пет аварийни екипа за цяла София",
-      "url": "https://dariknews.bg/novini/bylgariia/energijniiat-ministyr-toplofikaciia-sofiia-ima-samo-pet-avarijni-ekipa-za-ciala-sofiia-2472053",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51318/51318058/991-ratio-iva-petrova.jpg"
-    },
-    {
-      "title": "Омбудсманите на Украйна и Русия обсъдиха схемата на мащабна размяна на военнопленници",
-      "url": "https://dariknews.bg/novini/sviat/ombudsmanite-na-ukrajna-i-rusiia-obsydiha-shemata-na-mashtabna-razmiana-na-voennoplennici-2472052",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50449/50449663/991-ratio-rusiia-ukrajna-voennoplennici.jpg"
-    },
-    {
-      "title": "Знакови сгради в страната ще бъдат осветени в лилаво по повод Световния ден на недоносените деца",
-      "url": "https://dariknews.bg/novini/bylgariia/znakovi-sgradi-v-stranata-shte-bydat-osveteni-v-lilavo-po-povod-svetovniia-den-na-nedonosenite-deca-2472051",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51382/51382932/991-ratio-bebe.jpg"
-    },
-    {
-      "title": "Как кафето преобразява чревната микрофлора?",
-      "url": "https://dariknews.bg/novini/liubopitno/kak-kafeto-preobraziava-chrevnata-mikroflora-2471998",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51256/51256565/991-ratio-kafe.jpg"
-    },
-    {
-      "title": "На живо с картина: Равена срещу Форли, 4068 дни по-късно Роналдиньо играе официален мач (ВИДЕО) 15 Ное | 18:48",
-      "url": "https://dsport.bg/denat-doide-ronaldino-se-zavrasta-na-terena-sled-4068-dni-v-tarsene-na-gol-300~244753.html",
+      "title": "Канада отказа да пусне руснаците в страната за Световното по хокей на лед за младежи 15 Ное | 23:11",
+      "url": "https://dsport.bg/kanada-otkaza-da-pusne-rusnacite-v-stranata-za-svetovnoto-po-hokei-na-led-za-mladezi~244816.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2305236862.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2302631318.og.jpg"
     },
     {
-      "title": "Гол на Питас не спаси Кипър от разгром срещу Черна гора 15 Ное | 18:35",
-      "url": "https://dsport.bg/gol-na-pitas-ne-spasi-kipar-ot-razgrom-srestu-cherna-gora~244795.html",
+      "title": "Челси не се е отказал от защитник на Барселона 15 Ное | 22:52",
+      "url": "https://dsport.bg/chelsi-ne-se-e-otkazal-ot-zastitnik-na-barselona~244813.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2240950827-1.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2260936025~1.og.jpg"
     },
     {
-      "title": "Тебас отвърна на Реал Мадрид с дълъг списък от обвинения и скандални цитати 15 Ное | 18:24",
-      "url": "https://dsport.bg/tebas-otvarna-na-real-madrid-s-dalag-spisak-ot-obvinenia-i-skandalni-citati~244794.html",
+      "title": "Лубе Чивитанова с братя Николови допусна драматичен обрат във финала за Суперкупата на Италия 15 Ное | 22:37",
+      "url": "https://dsport.bg/lube-chivitanova-s-brata-nikolovi-dopusna-dramatichen-obrat-vav-finala-za-superkupata-na-italia~244814.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2242522476.og.jpg"
+      "image": "https://dsport.bg/media/389/screenshot-2026-09-29-185808~1.og.png"
     },
     {
-      "title": "Рибарски: Последните години са доста тежки, не е само в тези квалификации (ВИДЕО) 15 Ное | 17:58",
-      "url": "https://dsport.bg/ribarski-poslednite-godini-sa-dosta-tezki-ne-e-samo-v-tezi-kvalifikacii-video~244793.html",
+      "title": "Мандорлини: Равена се адаптира към Роналдиньо, готови сме да го посрещнем отново 15 Ное | 22:25",
+      "url": "https://dsport.bg/mandorlini-ravena-se-adaptira-kam-ronaldino-gotovi-sme-da-go-posrestnem-otnovo~244815.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1058416.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2305243740~1.og.jpg"
     },
     {
-      "title": "Стефан Велков: Всички знаем, че се провалихме с гръм и трясък (ВИДЕО) 15 Ное | 17:50",
-      "url": "https://dsport.bg/stefan-velkov-vsichki-znaem-che-se-provalihme-s-gram-i-trasak-video~244792.html",
+      "title": "Шави потвърди, че Френки де Йонг няма да играе срещу Германия 15 Ное | 22:10",
+      "url": "https://dsport.bg/shavi-potvardi-che-frenki-de-iong-nama-da-igrae-srestu-germania~244812.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1058410.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2296958908~1.og.jpg"
     },
     {
-      "title": "Вихрен нанесе първа домакинска загуба на Берое 15 Ное | 17:26",
-      "url": "https://dsport.bg/vihren-nanese-parva-domakinska-zaguba-na-beroe~244791.html",
+      "title": "Юрген Клоп: Изпадане от Лига А не влиза в плановете ми 15 Ное | 21:52",
+      "url": "https://dsport.bg/urgen-klop-izpadane-ot-liga-a-ne-vliza-v-planovete-mi~244811.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1058281.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2298355328~1.og.jpg"
     },
     {
-      "title": "Зверев тръгна с победа в Торино 15 Ное | 17:18",
-      "url": "https://dsport.bg/zverev-tragna-s-pobeda-v-torino~244790.html",
+      "title": "Малена Замфирова: Все още не се чувствам достатъчно сигурна върху борда и карам само ски 15 Ное | 21:38",
+      "url": "https://dsport.bg/malena-zamfirova-veche-trenira-na-snag-vse-oste-ne-se-chuvstvam-dostatachno-sigurna-varhu-borda-i-karam-samo-ski~244810.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2305229190.og.jpg"
+      "image": "https://dsport.bg/media/389/761637-2-1.og.jpg"
     },
     {
-      "title": "Алберт Попов след първия старт за сезона: Смятам, че предстоят много хубави неща занапред 15 Ное | 16:55",
-      "url": "https://dsport.bg/albert-popov-sled-parvia-start-za-sezona-smatam-che-predstoat-mnogo-hubavi-nesta-zanapred~244789.html",
+      "title": "Албания би Беларус на Лапоухов и Ебонг, Сан Марино вкара два на Финландия, но допусна разгром 15 Ное | 21:23",
+      "url": "https://dsport.bg/albania-bi-belaris-na-lapouhov-i-ebong-san-marino-vkara-dva-na-finlandia-no-dopusna-razgrom~244809.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/718876-1.og.jpg"
+      "image": "https://dsport.bg/media/389/gw9lumdwoaaayxp-1~1.og.jpg"
     },
     {
-      "title": "Фратрия спечели драматичен мач с Несебър 15 Ное | 16:36",
-      "url": "https://dsport.bg/fratria-specheli-dramatichen-mach-s-nesebar~244788.html",
+      "title": "Спартак Варна призова феновете си на шествие преди дербито с Черно море 15 Ное | 21:10",
+      "url": "https://dsport.bg/spartak-varna-prizova-fenovete-si-na-shestvie-predi-derbito-s-cherno-more~244808.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/screenshot-2026-11-15-163706.og.png"
+      "image": "https://dsport.bg/media/389/931171~2.og.jpg"
     },
     {
-      "title": "Селекционерът на Естония очаква реакция от България: Понякога е по-лесно да се играе след труден резултат 15 Ное | 16:12",
-      "url": "https://dsport.bg/selekcionerat-na-estonia-ochakva-reakcia-ot-balgaria-ponakoga-e-po-lesno-da-se-igrae-sled-truden-rezultat~244787.html",
+      "title": "Играчите на Тенерифе посветиха успеха си срещу Сеута на Хесус Де Мигел 15 Ное | 20:54",
+      "url": "https://dsport.bg/igrachite-na-tenerife-posvetiha-uspeha-si-srestu-seuta-na-hesus-de-migel~244807.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1033884~2.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2305222924.og.jpg"
     }
   ]
 }
