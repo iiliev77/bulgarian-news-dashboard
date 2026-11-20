@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-19T21:47:50.277679+00:00",
+  "updated": "2026-11-20T02:39:59.803595+00:00",
   "articles": [
+    {
+      "title": "Обрат на Ураганите изпрати Йоанна на елиминации в „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/obrat-na-uraganite-izprati-ioanna-na-eliminacii-v-igri-na-voliata-2472534",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51415/51415444/991-ratio-igri-na-voliata.jpg"
+    },
     {
       "title": "Руски удари повредиха посолствата на Нидерландия и Австрия в Киев",
       "url": "https://dariknews.bg/novini/sviat/ruski-udari-povrediha-posolstvata-na-niderlandiia-i-avstriia-v-kiev-2472532",
@@ -135,11 +142,11 @@
       "image": "https://m.netinfo.bg/media/images/50736/50736447/991-ratio-lekar-bolnica.jpg"
     },
     {
-      "title": "Принц Хари заяви, че е готов да се върне в британските въоръжени сили и да се бие срещу Русия",
-      "url": "https://dariknews.bg/novini/sviat/princ-hari-zaiavi-che-e-gotov-da-se-vyrne-v-britanskite-vyoryzheni-sili-i-da-se-bie-sreshtu-rusiia-2472507",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51014/51014899/991-ratio-princ-hari.jpg"
+      "title": "Гидженов с първи наряд като главен съдия в Катар 19 Ное | 23:55",
+      "url": "https://dsport.bg/gidzenov-s-parvi-narad-kato-glaven-sadia-v-katar~245111.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/533191-1-1-2-1-1-1-1.og.jpg"
     },
     {
       "title": "Елизара Янева се класира убедително за четвъртфиналите в Словакия 19 Ное | 23:37",
@@ -203,13 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/389/gettyimages-2301175741.og.jpg"
-    },
-    {
-      "title": "Неймар псува противникови фенове: Ще изпаднете, идиоти такива 19 Ное | 21:20",
-      "url": "https://dsport.bg/neimar-psuva-protivnikovi-fenove-ste-izpadnete-idioti-takiva~245101.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2301401219~1.og.jpg"
     }
   ]
 }
