@@ -1,6 +1,118 @@
 {
-  "updated": "2026-11-21T00:17:00.190926+00:00",
+  "updated": "2026-11-21T07:18:55.748559+00:00",
   "articles": [
+    {
+      "title": "Следователите избират член на ВСС измежду двама кандидати",
+      "url": "https://dariknews.bg/novini/bylgariia/sledovatelite-izbirat-chlen-na-vss-izmezhdu-dvama-kandidati-2472634",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51408/51408986/991-ratio-vss.jpg"
+    },
+    {
+      "title": "Руска ракетна атака срещу Кривой Рог уби дете и млада жена, 42 души са ранени",
+      "url": "https://dariknews.bg/novini/sviat/ruska-raketna-ataka-sreshtu-krivoj-rog-ubi-dete-i-mlada-zhena-42-dushi-sa-raneni-2472633",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50997/50997976/991-ratio-ukrajna.jpg"
+    },
+    {
+      "title": "Земетресение с магнитуд 6,8 разлюля Перу, трусът изкара хората по улиците на Лима",
+      "url": "https://dariknews.bg/novini/sviat/zemetresenie-s-magnitud-68-razliulia-peru-trusyt-izkara-horata-po-ulicite-na-lima-2472632",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50980/50980763/991-ratio-zemetresenie.jpg"
+    },
+    {
+      "title": "Замръзнал във времето: Продават на търг джобния часовник на жертва от „Титаник“",
+      "url": "https://dariknews.bg/novini/sviat/zamryznal-vyv-vremeto-prodavat-na-tyrg-dzhobniia-chasovnik-na-zhertva-ot-titanik-2472519",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51415/51415264/991-ratio-titanik.jpg"
+    },
+    {
+      "title": "След кома и изгнание Андрей Звягинцев се завръща в киното с филма „Минотавър“",
+      "url": "https://dariknews.bg/novini/liubopitno/sled-koma-i-izgnanie-andrej-zviagincev-se-zavryshta-v-kinoto-s-filma-minotavyr-2472522",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51415/51415282/991-ratio-andrej-zviagincev.jpg"
+    },
+    {
+      "title": "Над час неуспешни опити и мъчителна агония при екзекуцията на осъден на смърт мъж в Тексас",
+      "url": "https://dariknews.bg/novini/sviat/nad-chas-neuspeshni-opiti-i-mychitelna-agoniia-pri-ekzekuciiata-na-osyden-na-smyrt-myzh-v-teksas-2472631",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51121/51121385/991-ratio-staia-na-uzhasite.jpg"
+    },
+    {
+      "title": "Променят движението на трамваите в София заради ремонт",
+      "url": "https://dariknews.bg/novini/bylgariia/promeniat-dvizhenieto-na-tramvaite-v-sofiia-zaradi-remont-2472630",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51415/51415903/991-ratio-tramvaj-sofiia.jpg"
+    },
+    {
+      "title": "Провокация, предупреждение или случайност: Европа търси отговори, след като руски ракети паднаха при военни учения в Полша",
+      "url": "https://dariknews.bg/novini/sviat/provokaciia-preduprezhdenie-ili-sluchajnost-evropa-tyrsi-otgovori-sled-kato-ruski-raketi-padnaha-pri-voenni-ucheniia-v-polsha-2472629",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51415/51415892/991-ratio-voenni-v-polsha.jpg"
+    },
+    {
+      "title": "Безплатно обучение по безопасно шофиране организират в Русе",
+      "url": "https://dariknews.bg/regioni/ruse/bezplatno-obuchenie-po-bezopasno-shofirane-organizirat-v-ruse-2472229",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50974/50974668/991-ratio-kola-shofior-shofirane-avtomobil.jpg"
+    },
+    {
+      "title": "Двойка обикаля света и отсяда в луксозни вили безплатно: Как го прави",
+      "url": "https://dariknews.bg/novini/liubopitno/dvojka-obikalia-sveta-i-otsiada-v-luksozni-vili-bezplatno-kak-go-pravi-2472611",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51415/51415788/991-ratio-dvojka-basejn.jpg"
+    },
+    {
+      "title": "Сладки, сочни и с неустоим аромат: Ето защо мандарините са толкова полезни за здравето",
+      "url": "https://dariknews.bg/novini/liubopitno/sladki-sochni-i-s-neustoim-aromat-eto-zashto-mandarinite-sa-tolkova-polezni-za-zdraveto-2472200",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/45598/45598124/991-ratio-mandarina-mandarini.jpg"
+    },
+    {
+      "title": "Парите за втората пенсия: Те са неприкосновени, гарантирани и могат само да нарастват",
+      "url": "https://dariknews.bg/novini/bylgariia/parite-za-vtorata-pensiia-te-sa-neprikosnoveni-garantirani-i-mogat-samo-da-narastvat-2472603",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50419/50419517/991-ratio-pensii-pensioneri.jpg"
+    },
+    {
+      "title": "Вълк се разходи из Никити и нападна котка в двор",
+      "url": "https://dariknews.bg/novini/sviat/vylk-se-razhodi-iz-nikiti-i-napadna-kotka-v-dvor-2472604",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51296/51296465/991-ratio-vylk.jpg"
+    },
+    {
+      "title": "Слънчева и топла ноемврийска събота, но с дъжд в планините",
+      "url": "https://dariknews.bg/novini/bylgariia/slyncheva-i-topla-noemvrijska-sybota-no-s-dyzhd-v-planinite-2472627",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391281/991-ratio-esen.jpg"
+    },
+    {
+      "title": "Недостигът на финансиране принуждава ООН да съкрати хранителната помощ през 2027 г.",
+      "url": "https://dariknews.bg/novini/sviat/nedostigyt-na-finansirane-prinuzhdava-oon-da-sykrati-hranitelnata-pomosht-prez-2027-g-2472602",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51399/51399600/991-ratio-iuzhna-afrika.jpg"
+    },
+    {
+      "title": "21 ноември – Денят на християнското семейство",
+      "url": "https://dariknews.bg/novini/obshtestvo/21-noemvri-deniat-na-hristiianskoto-semejstvo-2366987",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50657/50657684/991-ratio-semejstvo.jpg"
+    },
     {
       "title": "Бившият бразилски президент Жаир Болсонаро е в болница",
       "url": "https://dariknews.bg/novini/sviat/bivshiiat-brazilski-prezident-zhair-bolsonaro-e-v-bolnica-2472628",
@@ -30,116 +142,46 @@
       "image": "https://m.netinfo.bg/media/images/51394/51394073/991-ratio-vladimir-putin-i-donald-trymp.jpg"
     },
     {
-      "title": "София с номинация в Best Christmas Markets in Europe 2026, Терзиев призова за подкрепа (СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/sofiia-s-nominaciia-v-best-christmas-markets-in-europe-2026-terziev-prizova-za-podkrepa-snimki-2472622",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415867/991-ratio-sofia-christmas-fest.jpg"
+      "title": "Канадската суперзвезда на Оклахома избухна с 40 точки за феноменален обрат на Тъндър (ВИДЕО) 21 Ное | 08:59",
+      "url": "https://dsport.bg/kanadskata-superzvezda-na-oklahoma-izbuhna-s-40-tochki-za-fenomenalen-obrat-na-tandar-video~245190.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2305560992.og.jpg"
     },
     {
-      "title": "Дания експулсира руски дипломат след разкрития за заговор за убийство на рапър",
-      "url": "https://dariknews.bg/novini/sviat/daniia-ekspulsira-ruski-diplomat-sled-razkritiia-za-zagovor-za-ubijstvo-na-rapyr-2472621",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51122/51122773/991-ratio-daniia.jpg"
+      "title": "Митичен Хардън: Избухна с 51 точки, счупи рекорд на Коби Брайънт и поведе Кавалиърс към победа (ВИДЕО) 21 Ное | 08:51",
+      "url": "https://dsport.bg/mitichen-hardan-izbuhna-s-51-tochki-schupi-rekord-na-kobi-braiant-i-povede-kavaliars-kam-pobeda-video~245189.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2306138327.og.jpg"
     },
     {
-      "title": "„Действа се на принципа на глутницата”: Защо деца извършват престъпления (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/obshtestvo/dejstva-se-na-principa-na-glutnicata-zashto-deca-izvyrshvat-prestypleniia-video-2472620",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Христо Стоичков и Александър Везенков: паметна среща на титани след Олимпиакос - Реал Мадрид (ВИДЕО) 21 Ное | 08:41",
+      "url": "https://dsport.bg/hristo-stoichkov-i-aleksandar-vezenkov-pametna-sresta-na-titani-sled-olimpiakos-real-madrid-video~245188.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2305526318.og.jpg"
     },
     {
-      "title": "Биткойнът падна под 60 000 долара за първи път от юли",
-      "url": "https://dariknews.bg/novini/sviat/bitkojnyt-padna-pod-60-000-dolara-za-pyrvi-pyt-ot-iuli-2472619",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/45869/45869447/991-ratio-bitkojn-dolari.jpg"
+      "title": "Бивш турски национал заплашвал жена си с пистолет, тя го съди за насилие 21 Ное | 08:31",
+      "url": "https://dsport.bg/bivsh-turski-nacional-zaplashval-zena-si-s-pistolet-ta-go-sadi-za-nasilie~245187.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-592637052.og.jpg"
     },
     {
-      "title": "Във Франция арестуваха мъж, заподозрян за убийството на жена, открита в куфар в Гърция",
-      "url": "https://dariknews.bg/novini/sviat/vyv-franciia-arestuvaha-myzh-zapodozrian-za-ubijstvoto-na-zhena-otkrita-v-kufar-v-gyrciia-2472618",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51232/51232528/991-ratio-arest.jpg"
+      "title": "Драма в Лас Вегас: Антонели е най-бърз, но Верстапен грабна полпозишъна след пълен крах за Ферари 21 Ное | 08:20",
+      "url": "https://dsport.bg/drama-v-las-vegas-antoneli-e-nai-barz-no-verstapen-grabna-polpozishana-sled-palen-krah-za-ferari~245186.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2306148214.og.jpg"
     },
     {
-      "title": "Правителството на Великобритания отхвърли призивите за забрана на рекламите на хазартни игри",
-      "url": "https://dariknews.bg/novini/sviat/pravitelstvoto-na-velikobritaniia-othvyrli-prizivite-za-zabrana-na-reklamite-na-hazartni-igri-2472617",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/smileys/lightbulb.png"
-    },
-    {
-      "title": "Шефът на синдиката СФСМВР Илия Кузманов: Полицаите излизат на протест (ВИДЕО)",
-      "url": "https://dariknews.bg/novini/bylgariia/shefyt-na-sindikata-sfsmvr-iliia-kuzmanov-policaite-izlizat-na-protest-video-2472616",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415850/991-ratio-telegrafno-podkastyt.jpg"
-    },
-    {
-      "title": "GTA 6 чупи всички рекорди: Играта е струвала 1 млрд. долара",
-      "url": "https://dariknews.bg/novini/sviat/gta-6-chupi-vsichki-rekordi-igrata-e-struvala-1-mlrd.-dolara-2472615",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415842/991-ratio-gta.jpg"
-    },
-    {
-      "title": "Столичани на протест заради липсата на парно и топла вода (ВИДЕО/СНИМКИ)",
-      "url": "https://dariknews.bg/regioni/sofiia/stolichani-na-protest-zaradi-lipsata-na-parno-i-topla-voda-videosnimki-2472614",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
-    },
-    {
-      "title": "Уютно пътешествие в света на домашната кухня със „Спомени с вкус“",
-      "url": "https://dariknews.bg/novini/liubopitno/uiutno-pyteshestvie-v-sveta-na-domashnata-kuhnia-sys-spomeni-s-vkus-2472613",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415829/991-ratio-spomen-s-vkus.jpg"
-    },
-    {
-      "title": "Народното събрание светна в синьо за Световния ден на детето (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/narodnoto-sybranie-svetna-v-sinio-za-svetovniia-den-na-deteto-snimki-2472612",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415802/991-ratio-ns-v-sinio.jpg"
-    },
-    {
-      "title": "Кола блъсна майка с количка на пешеходна пътека в Разград",
-      "url": "https://dariknews.bg/regioni/razgrad/kola-blysna-majka-s-kolichka-na-peshehodna-pyteka-v-razgrad-2472610",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51141/51141273/991-ratio-majka-s-kolichka.jpg"
-    },
-    {
-      "title": "Столична община спечели и на втора инстанция делото за терена на автокъща „Капитолия“",
-      "url": "https://dariknews.bg/regioni/sofiia/stolichna-obshtina-specheli-i-na-vtora-instanciia-deloto-za-terena-na-avtokyshta-kapitoliia-2472609",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415796/991-ratio-kapitoliia.jpg"
-    },
-    {
-      "title": "Кънтри звездата Ела Лангли пренаписа историята с 6 награди CMA",
-      "url": "https://dariknews.bg/novini/liubopitno/kyntri-zvezdata-ela-langli-prenapisa-istoriiata-s-6-nagradi-cma-2472608",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415792/991-ratio-ela-langli.jpg"
-    },
-    {
-      "title": "Повече свободно време, по-малко гонене на висока заплата: приоритетите на работещите се променят",
-      "url": "https://dariknews.bg/novini/liubopitno/poveche-svobodno-vreme-po-malko-gonene-na-visoka-zaplata-prioritetite-na-raboteshtite-se-promeniat-2472607",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415790/991-ratio-rabota-ofis.jpg"
-    },
-    {
-      "title": "Задържаха четирима във Видин за фалшиви документи при регистрация на автомобили",
-      "url": "https://dariknews.bg/regioni/vidin/zadyrzhaha-chetirima-vyv-vidin-za-falshivi-dokumenti-pri-registraciia-na-avtomobili-2472606",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51415/51415784/991-ratio-vidin.jpg"
+      "title": "Кошмар за Байерн: Хари Кейн аут от голяма част от сезона заради тежка контузия в глезена 21 Ное | 08:05",
+      "url": "https://dsport.bg/koshmar-za-baiern-hari-kein-aut-ot-golama-chast-ot-sezona-zaradi-tezka-kontuzia-v-glezena~245185.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2306124973.og.jpg"
     },
     {
       "title": "Еспаньол удари Атлетик Билбао насред „Сан Мамес“ 20 Ное | 23:53",
@@ -168,48 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/389/gettyimages-2306102508.og.jpg"
-    },
-    {
-      "title": "Везенков и Милър-Макинтайър нокаутираха Реал Мадрид за радост на Стоичков 20 Ное | 23:11",
-      "url": "https://dsport.bg/vezenkov-i-milar-makintaiar-nokautiraha-real-madrid-za-radost-na-stoichkov~245180.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2305531811.og.jpg"
-    },
-    {
-      "title": "Тройка в последната секунда донесе първа победа на Ямбол 20 Ное | 23:08",
-      "url": "https://dsport.bg/troika-v-poslednata-sekunda-donese-parva-pobeda-na-ambol~245179.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/914661630_1703232914651063_3714718166917073928_n.og.jfif"
-    },
-    {
-      "title": "Ван Дайк заговори за сбогуване с Ливърпул: Беше невероятно пътешествие - почти 10 години 20 Ное | 22:50",
-      "url": "https://dsport.bg/van-daik-zagovori-za-sboguvane-s-livarpul-beshe-neveroatno-pateshestvie-pochti-10-godini~245178.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2304111740.og.jpg"
-    },
-    {
-      "title": "Овоно се появи за първи път след трагедията, за да почете Хесус де Мигел 20 Ное | 22:33",
-      "url": "https://dsport.bg/ovono-se-poavi-za-parvi-pat-sled-tragediata-za-da-pochete-hesus-de-migel~245177.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2265075514.og.jpg"
-    },
-    {
-      "title": "Барселона не се отказва от Бастони въпреки цената от 70 милиона евро 20 Ное | 22:15",
-      "url": "https://dsport.bg/barselona-ne-se-otkazva-ot-bastoni-vapreki-cenata-ot-70-miliona-evro~245176.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2256284830-2~1.og.jpg"
-    },
-    {
-      "title": "Конте: Челси не искаше Тери, затова съпругата ми му приготви паста 20 Ное | 22:00",
-      "url": "https://dsport.bg/konte-chelsi-ne-iskashe-teri-zatova-saprugata-mi-mu-prigotvi-pasta~245174.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2251280371~2.og.jpg"
     }
   ]
 }
