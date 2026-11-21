@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-21T15:26:42.140382+00:00",
+  "updated": "2026-11-21T20:58:15.971639+00:00",
   "articles": [
+    {
+      "title": "Хиляди излязоха на протест в Лисабон заради поскъпването на живота",
+      "url": "https://dariknews.bg/novini/sviat/hiliadi-izliazoha-na-protest-v-lisabon-zaradi-poskypvaneto-na-zhivota-2472674",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51416/51416553/991-ratio-protesti-v-lisabon-sreshtu-cenata-na-zhilishtata.jpg"
+    },
+    {
+      "title": "Мартин и Николета са първите звездни шампиони на „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/martin-i-nikoleta-sa-pyrvite-zvezdni-shampioni-na-igri-na-voliata-2472673",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51416/51416533/991-ratio-f.jpg"
+    },
+    {
+      "title": "Избирателната комисия отчита резултатите от вота за член на ВСС от следователите",
+      "url": "https://dariknews.bg/novini/bylgariia/izbiratelnata-komisiia-otchita-rezultatite-ot-vota-za-chlen-na-vss-ot-sledovatelite-2472670",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+    },
+    {
+      "title": "Акция на ГДБОП: Задържаха шефа на автоекспертите Станимир Карапетков",
+      "url": "https://dariknews.bg/novini/bylgariia/akciia-na-gdbop-zadyrzhaha-shefa-na-avtoekspertite-stanimir-karapetkov-2472668",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51271/51271620/991-ratio-stanimir-karapetkov.jpg"
+    },
+    {
+      "title": "„Европа харчи твърде много пари за войната в Украйна“: Зеленски разкри какво е казал Тръмп",
+      "url": "https://dariknews.bg/novini/sviat/evropa-harchi-tvyrde-mnogo-pari-za-vojnata-v-ukrajna-zelenski-razkri-kakvo-e-kazal-trymp-2472667",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51164/51164538/991-ratio-zelenski-trymp.jpg"
+    },
+    {
+      "title": "„Изключителен случай“: Оставиха в ареста тримата тийнейджъри, обвинени в блудство в София",
+      "url": "https://dariknews.bg/regioni/sofiia/izkliuchitelen-sluchaj-ostaviha-v-aresta-trimata-tijnejdzhyri-obvineni-v-bludstvo-v-sofiia-2472666",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Неизвестните истории на една червена барета за подземния свят (ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/neizvestnite-istorii-na-edna-chervena-bareta-za-podzemniia-sviat-video-2472665",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Теменужка Петкова: Бюджетът на правителството е щедрост на кредит",
+      "url": "https://dariknews.bg/novini/bylgariia/temenuzhka-petkova-biudzhetyt-na-pravitelstvoto-e-shtedrost-na-kredit-2472664",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51123/51123003/991-ratio-temenuzhka-petkova.jpg"
+    },
+    {
+      "title": "Финландия информира НАТО за удар с дрон по руски кораб във Финския залив",
+      "url": "https://dariknews.bg/novini/sviat/finlandiia-informira-nato-za-udar-s-dron-po-ruski-korab-vyv-finskiia-zaliv-2472663",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51416/51416298/991-ratio-petrolen-tanker-blizo-do-bregovete-na-sankt-peterburg-vyv-finskiia.jpg"
+    },
+    {
+      "title": "Откриха мъртъв бившия шеф на италианската полиция Джани Де Дженаро",
+      "url": "https://dariknews.bg/novini/sviat/otkriha-myrtyv-bivshiia-shef-na-italianskata-policiia-dzhani-de-dzhenaro-2472662",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50544/50544559/991-ratio-italiia-policiia.jpg"
+    },
+    {
+      "title": "Полицаите излизат на шествие в София за чест и достойнство",
+      "url": "https://dariknews.bg/novini/bylgariia/policaite-izlizat-na-shestvie-v-sofiia-za-chest-i-dostojnstvo-2472661",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50974/50974084/991-ratio-policaj-policiia.jpg"
+    },
+    {
+      "title": "Внимание на пътя: Идва рязко застудяване и опасност от заледявания от понеделник",
+      "url": "https://dariknews.bg/novini/bylgariia/vnimanie-na-pytia-idva-riazko-zastudiavane-i-opasnost-ot-zalediavaniia-ot-ponedelnik-2472659",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/32753/32753674/991-ratio-zimni-gumi.jpg"
+    },
     {
       "title": "Почина Паоло Булгари: Отиде си легендата на италианската бижутерия с български корени",
       "url": "https://dariknews.bg/novini/sviat/pochina-paolo-bulgari-otide-si-legendata-na-italianskata-bizhuteriia-s-bylgarski-koreni-2472657",
@@ -55,161 +139,77 @@
       "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-shofiorite-v-sofiia-zatvariat-uchastyk-ot-okolovrystnoto-ot-22-noemvri-2472648",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51416/51416101/991-ratio-okolovrystno-sofiia-remont.jpg"
-    },
-    {
-      "title": "Премиерът Радев и няколко министри на официална визита в Саудитска Арабия",
-      "url": "https://dariknews.bg/novini/bylgariia/premieryt-radev-i-niakolko-ministri-na-oficialna-vizita-v-sauditska-arabiia-2472646",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51412/51412174/991-ratio-rumen-radev.jpg"
-    },
-    {
-      "title": "Големите победители в звездния турнир на „Игри на волята“ стават ясни тази вечер",
-      "url": "https://dariknews.bg/novini/liubopitno/golemite-pobediteli-v-zvezdniia-turnir-na-igri-na-voliata-stavat-iasni-tazi-vecher-2472645",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51416/51416059/991-ratio-igri-na-voliata.jpg"
-    },
-    {
-      "title": "Случаят с тримата непълнолетни, обвинени в блудство с момиче: Трудно ще бъдат заличени всички видеа с насилието",
-      "url": "https://dariknews.bg/novini/bylgariia/sluchaiat-s-trimata-nepylnoletni-obvineni-v-bludstvo-s-momiche-trudno-shte-bydat-zalicheni-vsichki-videa-s-nasilieto-2472644",
-      "source": "DarikNews",
-      "section": "news",
       "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
-      "title": "Разбиха схема с фалшиви обяви за коли, задържани са двама мъже",
-      "url": "https://dariknews.bg/novini/bylgariia/razbiha-shema-s-falshivi-obiavi-za-koli-zadyrzhani-sa-dvama-myzhe-2472643",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51258/51258260/991-ratio-novi-avtomobili-novi-koli.jpg"
-    },
-    {
-      "title": "Взрив на яхта под български флаг, закотвена на Халкидики",
-      "url": "https://dariknews.bg/novini/sviat/vzriv-na-iahta-pod-bylgarski-flag-zakotvena-na-halkidiki-2472647",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51115/51115178/991-ratio-granata-vzriv.jpg"
-    },
-    {
-      "title": "Автомобил се блъсна в линейка и гараж в Мездра, загина 77-годишен мъж",
-      "url": "https://dariknews.bg/novini/bylgariia/avtomobil-se-blysna-v-linejka-i-garazh-v-mezdra-zagina-77-godishen-myzh-2472642",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51345/51345690/991-ratio-kola-linejka.jpg"
-    },
-    {
-      "title": "Кола се заби в стълб в Добрич: Двама мъже са ранени, единият е с опасност за живота (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/kola-se-zabi-v-stylb-v-dobrich-dvama-myzhe-sa-raneni-ediniiat-e-s-opasnost-za-zhivota-snimki-2472641",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51416/51416017/991-ratio-katastrofa-v-dobrich.jpg"
-    },
-    {
-      "title": "Тръмп заплаши с огромни данъци компаниите, които строят центрове за данни извън САЩ",
-      "url": "https://dariknews.bg/novini/biznes/trymp-zaplashi-s-ogromni-danyci-kompaniite-koito-stroiat-centrove-za-danni-izvyn-sasht-2472640",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51412/51412079/991-ratio-donald-trymp.jpg"
-    },
-    {
-      "title": "Шофиране в Гърция: Солена глоба дебне при неправилно каране в лявата лента",
-      "url": "https://dariknews.bg/novini/sviat/shofirane-v-gyrciia-solena-globa-debne-pri-nepravilno-karane-v-liavata-lenta-2472638",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51416/51416043/991-ratio-driving-on-highway.jpg"
-    },
-    {
-      "title": "„Нищо няма да бъде направено в ущърб на майките и личните асистенти“: Социалният министър обеща да не се отнемат права",
-      "url": "https://dariknews.bg/novini/bylgariia/nishto-niama-da-byde-napraveno-v-ushtyrb-na-majkite-i-lichnite-asistenti-socialniiat-ministyr-obeshta-da-ne-se-otnemat-prava-2472637",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Бившият бразилски президент Жаир Болсонаро е приет в болница",
-      "url": "https://dariknews.bg/novini/sviat/bivshiiat-brazilski-prezident-zhair-bolsonaro-e-priet-v-bolnica-2472636",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51178/51178254/991-ratio-bivshiiat-prezident-na-braziliia-zhair-bolsonaro.jpg"
-    },
-    {
-      "title": "Имате въпроси за пенсията и осигуровките? НОИ отваря врати за граждани",
-      "url": "https://dariknews.bg/novini/bylgariia/imate-vyprosi-za-pensiiata-i-osigurovkite-noi-otvaria-vrati-za-grazhdani-2472639",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51335/51335494/991-ratio-noi.jpg"
-    },
-    {
-      "title": "На живо: Спартак Варна - Черно море 21 Ное | 17:15",
-      "url": "https://dsport.bg/na-zivo-sastavite-za-derbito-na-varna~245236.html",
+      "title": "Карлос Насар изравни световния си рекорд в Германия 21 Ное | 22:49",
+      "url": "https://dsport.bg/karlos-nasar-izravni-svetovnia-si-rekord-v-germania~245278.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/tambove-sait-2026-11-21t155545.104.og.png"
+      "image": "https://dsport.bg/media/389/1058270-1-.og.jpg"
     },
     {
-      "title": "Алавес прекъсна негативната си серия в Ла Лига 21 Ное | 17:10",
-      "url": "https://dsport.bg/alaves-prekasna-negativnata-si-seria-v-la-liga~245243.html",
+      "title": "Африканският футбол отчете голяма печалба и подкрепи Инфантино 21 Ное | 22:37",
+      "url": "https://dsport.bg/afrikanskiat-futbol-otchete-golama-pechalba-i-podkrepi-infantino~245277.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2306198134.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2255043966.og.jpg"
     },
     {
-      "title": "Петков: Не успяхме да преодолеем прибраната защита на Арда 21 Ное | 16:59",
-      "url": "https://dsport.bg/petkov-ne-uspahme-da-preodoleem-pribranata-zastita-na-arda~245242.html",
+      "title": "Нефтохимик продължава без грешка 21 Ное | 22:19",
+      "url": "https://dsport.bg/neftohimik-prodalzava-bez-greshka~245276.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1060776.og.jpg"
+      "image": "https://dsport.bg/media/389/21.11-4~1.og.jpg"
     },
     {
-      "title": "Вихрен разби Пирин и се изкачи на върха във Втора лига 21 Ное | 16:50",
-      "url": "https://dsport.bg/vihren-razbi-pirin-i-se-izkachi-na-varha-vav-vtora-liga~245240.html",
+      "title": "Тонислав Йорданов и Амос Юга не успяха да зарадват Атила срещу Уйпещ 21 Ное | 22:05",
+      "url": "https://dsport.bg/tonislav-iordanov-i-amos-uga-ne-uspaha-da-zaradvat-atila-srestu-uipest~245275.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/meta-1-1.og.jpg"
+      "image": "https://dsport.bg/media/389/21.11-3~2.og.jpg"
     },
     {
-      "title": "Тунчев: Имаме си нашите проблеми, знаем къде са 21 Ное | 16:48",
-      "url": "https://dsport.bg/tunchev-imame-si-nashite-problemi-znaem-kade-sa~245241.html",
+      "title": "Левски продължава с победите в мъжкия волейболен шампионат 21 Ное | 21:44",
+      "url": "https://dsport.bg/levski-prodalzava-s-pobedite-v-mazkia-voleibolen-shampionat~245273.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1060777~1.og.jpg"
+      "image": "https://dsport.bg/media/389/4-656.og.jpg"
     },
     {
-      "title": "Изненада: Левски се раздели със защитник 21 Ное | 16:35",
-      "url": "https://dsport.bg/iznenada-levski-se-razdeli-sas-zastitnik~245239.html",
+      "title": "Севиля се бори докрай и не се даде на Бетис в Ел Гран Дерби 21 Ное | 21:34",
+      "url": "https://dsport.bg/sevila-se-bori-dokrai-i-ne-se-dade-na-betis-v-el-gran-derbi~245274.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/866684~1.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2306243377.og.jpg"
     },
     {
-      "title": "Славия счупи шаблона от равенства, Арда не издържа с 10 човека 21 Ное | 16:35",
-      "url": "https://dsport.bg/na-zivo-slavia-arda-sastavi~245220.html",
+      "title": "Арсенал стъпи накриво на „Сейнт Джеймсис Парк“ 21 Ное | 21:28",
+      "url": "https://dsport.bg/arsenal-stapki-nakrivo-na-seint-dzeimsis-park~245271.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/1060783.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2306240078.og.jpg"
     },
     {
-      "title": "Манчестър Сити отново не спечели, но поне спря серията от загуби 21 Ное | 16:22",
-      "url": "https://dsport.bg/manchestar-siti-otnovo-ne-specheli-no-pone-spra-seriata-ot-zagubi~245238.html",
+      "title": "Шалке спря серията на Щутгарт и вдиша въздух 21 Ное | 21:22",
+      "url": "https://dsport.bg/shalke-spra-seriata-na-stutgart-i-vdisha-vazduh~245272.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2306199080.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2306240152.og.jpg"
     },
     {
-      "title": "Първа победа в Световната купа за Лара Колтури 21 Ное | 16:14",
-      "url": "https://dsport.bg/parva-pobeda-v-svetovnata-kupa-za-lara-kolturi~245237.html",
+      "title": "Самоков ще приеме Европейското за девойки през 2027 г. 21 Ное | 21:07",
+      "url": "https://dsport.bg/samokov-ste-prieme-evropeiskoto-za-devoiki-prez-2027-g~245270.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2304728708.og.jpg"
+      "image": "https://dsport.bg/media/389/21.11-2~3.og.jpg"
     },
     {
-      "title": "Здравко Димитров с асистенция, но отборът на Петев допусна обрат 21 Ное | 15:54",
-      "url": "https://dsport.bg/zdravko-dimitrov-s-asistencia-no-otborat-na-petev-dopusna-obrat~245235.html",
+      "title": "Fifpro критикува Байерн Мюнхен за коментарите срещу Мусиала 21 Ное | 21:00",
+      "url": "https://dsport.bg/fifpro-kritikuva-baiern-munhen-za-komentarite-srestu-musiala~245269.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/389/847999046_2938773563151778_4856435295646429885_n~2.og.jpg"
+      "image": "https://dsport.bg/media/389/gettyimages-2306157151.og.jpg"
     }
   ]
 }
