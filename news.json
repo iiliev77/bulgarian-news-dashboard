@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-21T20:58:15.971639+00:00",
+  "updated": "2026-11-22T00:58:43.569974+00:00",
   "articles": [
+    {
+      "title": "Летище Брюксел отменя по-голямата част от полетите си заради стачка",
+      "url": "https://dariknews.bg/novini/sviat/letishte-briuksel-otmenia-po-goliamata-chast-ot-poletite-si-zaradi-stachka-2472675",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50930/50930721/991-ratio-briuksel-letishte.jpg"
+    },
     {
       "title": "Хиляди излязоха на протест в Лисабон заради поскъпването на живота",
       "url": "https://dariknews.bg/novini/sviat/hiliadi-izliazoha-na-protest-v-lisabon-zaradi-poskypvaneto-na-zhivota-2472674",
@@ -16,11 +23,11 @@
       "image": "https://m.netinfo.bg/media/images/51416/51416533/991-ratio-f.jpg"
     },
     {
-      "title": "Избирателната комисия отчита резултатите от вота за член на ВСС от следователите",
-      "url": "https://dariknews.bg/novini/bylgariia/izbiratelnata-komisiia-otchita-rezultatite-ot-vota-za-chlen-na-vss-ot-sledovatelite-2472670",
+      "title": "Петко Петков е избран за член на Висшия съдебен съвет от квотата на следователите",
+      "url": "https://dariknews.bg/novini/bylgariia/petko-petkov-e-izbran-za-chlen-na-visshiia-sydeben-syvet-ot-kvotata-na-sledovatelite-2472670",
       "source": "DarikNews",
       "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51272/51272629/991-ratio-vss-vissh-sydeben-syvet.jpg"
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
     },
     {
       "title": "Акция на ГДБОП: Задържаха шефа на автоекспертите Станимир Карапетков",
@@ -135,11 +142,46 @@
       "image": "https://m.netinfo.bg/media/images/51273/51273573/991-ratio-gdbop.jpg"
     },
     {
-      "title": "Важно за шофьорите в София: Затварят участък от Околовръстното от 22 ноември",
-      "url": "https://dariknews.bg/novini/bylgariia/vazhno-za-shofiorite-v-sofiia-zatvariat-uchastyk-ot-okolovrystnoto-ot-22-noemvri-2472648",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+      "title": "Мбапе изпусна дузпа, но Реал Мадрид се залепи за Барса след обрат, благодарение на обичаен герой 22 Ное | 00:02",
+      "url": "https://dsport.bg/mbape-izpusna-duzpa-no-real-madrid-se-zalepi-za-barsa-sled-obrat-blagodarenie-na-obichaen-geroi~245284.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2306262589.og.jpg"
+    },
+    {
+      "title": "Лион взе дербито с Лил и го отдалечи от върха 21 Ное | 23:47",
+      "url": "https://dsport.bg/lion-vze-derbito-s-lil-i-go-otdalechi-ot-varha~245283.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/21.11-6~1.og.jpg"
+    },
+    {
+      "title": "Любимецът на Неапол върна усмивките на „Диего Армандо Марадона“ 21 Ное | 23:38",
+      "url": "https://dsport.bg/lubimecat-na-neapol-varna-usmivkite-na-diego-armando-maradona~245282.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2306258439.og.jpg"
+    },
+    {
+      "title": "Зверев се справи с Медведев и си уреди финал на финалите с Алкарас 21 Ное | 23:27",
+      "url": "https://dsport.bg/zverev-se-spravi-s-medvedev-i-si-uredi-final-na-finalite-s-alkaras~245281.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/gettyimages-2306257036.og.jpg"
+    },
+    {
+      "title": "Рилецо победи драматично Берое при жените 21 Ное | 23:15",
+      "url": "https://dsport.bg/rileco-pobedi-dramatichno-beroe-pri-zenite~245280.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/21.11-5~1.og.jpg"
+    },
+    {
+      "title": "Левски на Левскарите зададе няколко въпроса на Наско Сираков 21 Ное | 23:00",
+      "url": "https://dsport.bg/levski-na-levskarite-zadade-nakolko-vaprosa-na-nasko-sirakov~245279.html",
+      "source": "Dsport",
+      "section": "sport",
+      "image": "https://dsport.bg/media/389/077920260914165907~1.og.jpg"
     },
     {
       "title": "Карлос Насар изравни световния си рекорд в Германия 21 Ное | 22:49",
@@ -168,48 +210,6 @@
       "source": "Dsport",
       "section": "sport",
       "image": "https://dsport.bg/media/389/21.11-3~2.og.jpg"
-    },
-    {
-      "title": "Левски продължава с победите в мъжкия волейболен шампионат 21 Ное | 21:44",
-      "url": "https://dsport.bg/levski-prodalzava-s-pobedite-v-mazkia-voleibolen-shampionat~245273.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/4-656.og.jpg"
-    },
-    {
-      "title": "Севиля се бори докрай и не се даде на Бетис в Ел Гран Дерби 21 Ное | 21:34",
-      "url": "https://dsport.bg/sevila-se-bori-dokrai-i-ne-se-dade-na-betis-v-el-gran-derbi~245274.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2306243377.og.jpg"
-    },
-    {
-      "title": "Арсенал стъпи накриво на „Сейнт Джеймсис Парк“ 21 Ное | 21:28",
-      "url": "https://dsport.bg/arsenal-stapki-nakrivo-na-seint-dzeimsis-park~245271.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2306240078.og.jpg"
-    },
-    {
-      "title": "Шалке спря серията на Щутгарт и вдиша въздух 21 Ное | 21:22",
-      "url": "https://dsport.bg/shalke-spra-seriata-na-stutgart-i-vdisha-vazduh~245272.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2306240152.og.jpg"
-    },
-    {
-      "title": "Самоков ще приеме Европейското за девойки през 2027 г. 21 Ное | 21:07",
-      "url": "https://dsport.bg/samokov-ste-prieme-evropeiskoto-za-devoiki-prez-2027-g~245270.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/21.11-2~3.og.jpg"
-    },
-    {
-      "title": "Fifpro критикува Байерн Мюнхен за коментарите срещу Мусиала 21 Ное | 21:00",
-      "url": "https://dsport.bg/fifpro-kritikuva-baiern-munhen-za-komentarite-srestu-musiala~245269.html",
-      "source": "Dsport",
-      "section": "sport",
-      "image": "https://dsport.bg/media/389/gettyimages-2306157151.og.jpg"
     }
   ]
 }
