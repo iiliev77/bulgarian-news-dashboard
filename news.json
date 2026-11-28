@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-27T20:09:12.310419+00:00",
+  "updated": "2026-11-28T02:39:11.257705+00:00",
   "articles": [
+    {
+      "title": "Сняг, дъжд и силен вятър в събота: Най-високата степен на опасност е обявена в шест области (КАРТА)",
+      "url": "https://dariknews.bg/novini/bylgariia/sniag-dyzhd-i-silen-viatyr-v-sybota-naj-visokata-stepen-na-opasnost-e-obiavena-v-shest-oblasti-karta-2473191",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/dariknews/images/loader.png"
+    },
+    {
+      "title": "Съветник на върховния лидер на Иран: Техеран няма да отвори Ормузкия проток",
+      "url": "https://dariknews.bg/novini/sviat/syvetnik-na-vyrhovniia-lider-na-iran-teheran-niama-da-otvori-ormuzkiia-protok-2473264",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51365/51365113/991-ratio-ormuzki-protok-korabi.jpg"
+    },
+    {
+      "title": "Брокерът Стиван Добрев отпадна от „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/brokeryt-stivan-dobrev-otpadna-ot-igri-na-voliata-2473266",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51420/51420248/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Снайперистите Борислав Чаргарски и Валентин Митков: Спираш да дишаш, когато стреляш",
+      "url": "https://dariknews.bg/novini/bylgariia/snajperistite-borislav-chargarski-i-valentin-mitkov-spirash-da-dishash-kogato-streliash-2473265",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51420/51420118/991-ratio-a.jpg"
+    },
+    {
+      "title": "Задържаха сина на мъжа, открит мъртъв на бул. „Шипченски проход“",
+      "url": "https://dariknews.bg/regioni/sofiia/zadyrzhaha-sina-na-myzha-otkrit-myrtyv-na-bul.-shipchenski-prohod-2473263",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51395/51395882/991-ratio-policiia.jpg"
+    },
+    {
+      "title": "Община Приморско спира осветлението по крайбрежната алея",
+      "url": "https://dariknews.bg/regioni/burgas/obshtina-primorsko-spira-osvetlenieto-po-krajbrezhnata-aleia-2473262",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50744/50744753/991-ratio-severno-more.jpg"
+    },
     {
       "title": "Тежка катастрофа затруднява движението през Прохода на Републиката: Двама са в болница",
       "url": "https://dariknews.bg/regioni/stara-zagora/tezhka-katastrofa-zatrudniava-dvizhenieto-prez-prohoda-na-republikata-dvama-sa-v-bolnica-2473258",
@@ -100,116 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51293/51293656/991-ratio-nasilie-mladezhi.jpg"
     },
     {
-      "title": "Спортните федерации бият тревога: Промените в Закона за хазарта застрашават клубове и детски школи",
-      "url": "https://dariknews.bg/novini/obshtestvo/sportnite-federacii-biiat-trevoga-promenite-v-zakona-za-hazarta-zastrashavat-klubove-i-detski-shkoli-2473244",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "„Омразата няма място на стадионите“: Френската посланичка у нас осъди остро насилието срещу феновете на „Левски“",
-      "url": "https://dariknews.bg/novini/bylgariia/omrazata-niama-miasto-na-stadionite-frenskata-poslanichka-u-nas-osydi-ostro-nasilieto-sreshtu-fenovete-na-levski-2473243",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Йотова: ЕС трябва да участва активно в преговорите за мир в Украйна",
-      "url": "https://dariknews.bg/novini/bylgariia/iotova-es-triabva-da-uchastva-aktivno-v-pregovorite-za-mir-v-ukrajna-2473242",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51417/51417802/991-ratio-iliiana-iotova.jpg"
-    },
-    {
-      "title": "Столична община даде старт на проект за 282 млн. евро за градски транспорт и инфраструктура",
-      "url": "https://dariknews.bg/regioni/sofiia/stolichna-obshtina-dade-start-na-proekt-za-282-mln.-evro-za-gradski-transport-i-infrastruktura-2473241",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51420/51420072/991-ratio-vasil-teraziev.jpg"
-    },
-    {
-      "title": "Кметовете на Габрово и Казанлък настояват за среща с държавата за тунела под Шипка",
-      "url": "https://dariknews.bg/regioni/gabrovo/kmetovete-na-gabrovo-i-kazanlyk-nastoiavat-za-sreshta-s-dyrzhavata-za-tunela-pod-shipka-2473240",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50108/50108318/991-ratio-shipka-tunel.jpg"
-    },
-    {
-      "title": "Верижна катастрофа с 37 автомобила в Швейцария, 10 души са ранени",
-      "url": "https://dariknews.bg/novini/sviat/verizhna-katastrofa-s-37-avtomobila-v-shvejcariia-10-dushi-sa-raneni-2473239",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51090/51090654/991-ratio-verizhna-katastrofa.jpg"
-    },
-    {
-      "title": "Бивш френски национал с тежка присъда за Марсилия: Срамно е, дано ги накажат доживот! 27 Ное | 21:59",
-      "url": "https://dsport.bg/bivsh-frenski-nacional-s-tezka-prisada-za-marsilia-sramno-e-dano-gi-nakazat-dozivot~245797.html",
+      "title": "Брест с удар по парижкия монопол на върха в Лига 1 28 Ное | 00:32",
+      "url": "https://dsport.bg/brest-s-udar-po-parizkia-monopol-na-varha-v-liga-1~245807.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/neozaglaven-dizain-2026-11-27t220111.010.og.png"
+      "image": "https://dsport.bg/media/390/27.11-11.og.jpg"
     },
     {
-      "title": "Ексклузивно Мощна реакция от Левски: „сините“ поискаха служебна загуба за Марсилия и изхвърляне от Европа! 27 Ное | 21:12",
-      "url": "https://dsport.bg/mostna-reakcia-ot-levski-sinite-poiskaha-sluzebna-zaguba-za-marsilia-i-izhvarlane-ot-evropa~245796.html",
+      "title": "Сантандер остави Леванте до опасната зона и влезе в Топ 6 28 Ное | 00:15",
+      "url": "https://dsport.bg/santander-ostavi-levante-do-opasnata-zona-i-vleze-v-top-6~245806.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1062908~1.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307174851.og.jpg"
     },
     {
-      "title": "Лора Христова остана на косъм от Топ 30, женският сезон в биатлона започна с шведска победа 27 Ное | 21:07",
-      "url": "https://dsport.bg/lora-hristova-ostana-na-kosam-ot-top-30-zenskiat-sezon-v-biatlona-zapochna-s-shvedska-pobeda~245795.html",
+      "title": "Челси се изгуби в Шеруудската гора, Нотингам взе нов голям скалп 28 Ное | 00:02",
+      "url": "https://dsport.bg/chelsi-se-izgubi-v-sheruudskata-gora-notingam-vze-nov-golam-skalp~245805.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/gettyimages-2307152145.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307170060.og.jpg"
     },
     {
-      "title": "Треньорът на Локо София: Славия имаше късмет, ако бяхме вкарали, щяхме да спечелим 27 Ное | 20:49",
-      "url": "https://dsport.bg/trenorat-na-loko-sofia-slavia-imashe-kasmet-ako-bahme-vkarali-stahme-da-spechelim~245794.html",
+      "title": "Венеция продължава мисия оцеляване, спъна Болоня в мисия Европа 27 Ное | 23:48",
+      "url": "https://dsport.bg/venecia-prodalzava-misia-ocelavane-spana-bolona-v-misia-evropa~245804.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064232~1.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307172452.og.jpg"
     },
     {
-      "title": "Достанич: Много труден мач, Локомотив София не е за последно място 27 Ное | 20:40",
-      "url": "https://dsport.bg/dostanich-mnogo-truden-mach-lokomotiv-sofia-ne-e-za-posledno-masto~245793.html",
+      "title": "„Жребчетата“ изпуснаха питомното в Бремен, Вердер спаси крепостта си с късен щурм 27 Ное | 23:41",
+      "url": "https://dsport.bg/zrebchetata-izpusnaha-pitomnoto-v-bremen-verder-spasi-krepostta-si-s-kasen-sturm~245803.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064227~1.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307171891.og.jpg"
     },
     {
-      "title": "Фенове на Левски протестират пред френското посолство след погрома в Марсилия (ВИДЕО+СНИМКИ) 27 Ное | 20:31",
-      "url": "https://dsport.bg/fenove-na-levski-protestirat-pred-frenskoto-posolstvo-sled-pogroma-v-marsilia~245792.html",
+      "title": "Победната серия на Краев и Апоел приключи в Петах Тиква 27 Ное | 23:18",
+      "url": "https://dsport.bg/pobednata-seria-na-kraev-i-apoel-prikluchi-v-petah-tikva~245802.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064297.og.jpg"
+      "image": "https://dsport.bg/media/390/27.11-9~1.og.jpg"
     },
     {
-      "title": "Левски се извини на феновете, пуска жалба след побоищата в Марсилия 27 Ное | 20:27",
-      "url": "https://dsport.bg/levski-se-izvini-na-fenovete-puska-zalba-sled-poboistata-v-marsilia~245791.html",
+      "title": "Иван Панков с цял мач при поредна победа на АЕК Ларнака 27 Ное | 23:03",
+      "url": "https://dsport.bg/ivan-pankov-s-cal-mach-pri-poredna-pobeda-na-aek-larnaka~245801.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/27.11-6~3.og.jpg"
+      "image": "https://dsport.bg/media/390/27.11-7~2.og.jpg"
     },
     {
-      "title": "Славия „блесна“ с нули и в „Надежда“, Локо София този път не падна 27 Ное | 20:23",
-      "url": "https://dsport.bg/na-zivo-11-te-na-lokomotiv-sofia-i-slavia-za-malkoto-stolichno-derbi~245774.html",
+      "title": "Елизара Янева е на полуфинал в Търнава 27 Ное | 22:50",
+      "url": "https://dsport.bg/elizara-aneva-e-na-polufinal-v-tarnava~245800.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064223.og.jpg"
+      "image": "https://dsport.bg/media/390/20.11-3-2~1.og.jpg"
     },
     {
-      "title": "Сектор Б: Понякога най-тежките последствия не идват от липсата на възможности, а от отказа да видиш очевидното 27 Ное | 20:06",
-      "url": "https://dsport.bg/sektor-b-ponakoga-nai-tezkite-posledstvia-ne-idvat-ot-lipsata-na-vazmoznosti-a-ot-otkaza-da-vidish-ochevidnoto~245790.html",
+      "title": "Антонели бе най-бърз през първия ден в Катар 27 Ное | 22:35",
+      "url": "https://dsport.bg/antoneli-be-nai-barz-prez-parvia-den-v-katar~245799.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1063010-1.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307153053.og.jpg"
     },
     {
-      "title": "Френската футболна федерация се изказа за инцидента на „Велодром“ 27 Ное | 20:01",
-      "url": "https://dsport.bg/frenskata-futbolna-federacia-se-izkaza-za-incidenta-na-velodrom~245789.html",
+      "title": "Зографски премина квалификациите на любима своя шанца 27 Ное | 22:20",
+      "url": "https://dsport.bg/zografski-premina-kvalifikaciite-na-lubima-svoa-shanca~245798.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/27.11-5~3.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2254783301-1~1.og.jpg"
     }
   ]
 }
