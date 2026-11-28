@@ -1,9 +1,107 @@
 {
-  "updated": "2026-11-28T10:52:23.783356+00:00",
+  "updated": "2026-11-28T18:32:52.455065+00:00",
   "articles": [
     {
-      "title": "Рила побеля: Снежна покривка покри Белмекен (СНИМКИ)",
-      "url": "https://dariknews.bg/novini/bylgariia/rila-pobelia-snezhna-pokrivka-pokri-belmeken-snimki-2473276",
+      "title": "Снегът скова части от България: Десетки населени места без ток и блокирани пътища",
+      "url": "https://dariknews.bg/regioni/vraca/snegyt-skova-chasti-ot-bylgariia-desetki-naseleni-mesta-bez-tok-i-blokirani-pytishta-2473297",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51193/51193277/991-ratio-oblast-smolian-sniag.jpg"
+    },
+    {
+      "title": "Заради снега: Столична община спира автобуси №61 и 66 до Витоша, а 63 ще е със скъсен маршрут",
+      "url": "https://dariknews.bg/regioni/sofiia/zaradi-snega-stolichna-obshtina-spira-avtobusi-61-i-66-do-vitosha-a-63-shte-e-sys-skysen-marshrut-2473296",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51247/51247145/991-ratio-vitosha.jpg"
+    },
+    {
+      "title": "Обилен сняг в София: 92 машини чистят ключовите булеварди",
+      "url": "https://dariknews.bg/regioni/sofiia/obilen-sniag-v-sofiia-92-mashini-chistiat-kliuchovite-bulevardi-2473295",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50970/50970801/991-ratio-sniag-snegorin.jpg"
+    },
+    {
+      "title": "Пет села в Габровско са без ток, идват нови 30 см сняг и студ до -14°C",
+      "url": "https://dariknews.bg/regioni/gabrovo/pet-sela-v-gabrovsko-sa-bez-tok-idvat-novi-30-sm-sniag-i-stud-do-14c-2473293",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51152/51152687/991-ratio-el-tablo-tok.jpg"
+    },
+    {
+      "title": "Обвиниха 21-годишен мъж за убийството на баща му в София",
+      "url": "https://dariknews.bg/regioni/sofiia/obviniha-21-godishen-myzh-za-ubijstvoto-na-bashta-mu-v-sofiia-2473292",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51126/51126323/991-ratio-syd-chuk.jpg"
+    },
+    {
+      "title": "Катя Ивкова: Чакаме информация от Франция за ранените българи",
+      "url": "https://dariknews.bg/novini/bylgariia/katia-ivkova-chakame-informaciia-ot-franciia-za-ranenite-bylgari-2473288",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51391/51391751/991-ratio-katia-ivkova.jpg"
+    },
+    {
+      "title": "Асен Василев: Заложеният бюджет е катастрофа за страната и води до обедняване",
+      "url": "https://dariknews.bg/novini/bylgariia/asen-vasilev-zalozheniiat-biudzhet-e-katastrofa-za-stranata-i-vodi-do-obedniavane-2473284",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51371/51371153/991-ratio-asen-vasilev.jpg"
+    },
+    {
+      "title": "Честит първи сняг! Части от България побеляха (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/chestit-pyrvi-sniag-chasti-ot-bylgariia-pobeliaha-snimkivideo-2473283",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51269/51269817/991-ratio-sniag.jpg"
+    },
+    {
+      "title": "Активираха BG-ALERT в Царево заради очакваното влошаване на времето",
+      "url": "https://dariknews.bg/regioni/burgas/aktiviraha-bg-alert-v-carevo-zaradi-ochakvanoto-vloshavane-na-vremeto-2473282",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
+    },
+    {
+      "title": "Пускат движението в двете тръби на тунел „Топли дол“ на АМ „Хемус“",
+      "url": "https://dariknews.bg/regioni/sofiia/puskat-dvizhenieto-v-dvete-trybi-na-tunel-topli-dol-na-am-hemus-2473281",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51403/51403820/991-ratio-topli-dol.jpg"
+    },
+    {
+      "title": "Земеделците в Генерал Тошево блокираха изхода към Добрич в знак на протест",
+      "url": "https://dariknews.bg/novini/bylgariia/zemedelcite-v-general-toshevo-blokiraha-izhoda-kym-dobrich-v-znak-na-protest-2473280",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51420/51420487/991-ratio-zemedelski-proizvoditeli-ot-general-toshevo-protestirat-s-tezhka-tehnika-sreshtu.jpg"
+    },
+    {
+      "title": "Взрив край училище в Източен Афганистан, има загинали и ранени",
+      "url": "https://dariknews.bg/novini/sviat/vzriv-kraj-uchilishte-v-iztochen-afganistan-ima-zaginali-i-raneni-2473279",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/50472/50472430/991-ratio-vzriv-bomba.jpg"
+    },
+    {
+      "title": "Зрелищна битка между Виктория и Красимир определя осмия финалист в „Игри на волята“",
+      "url": "https://dariknews.bg/novini/liubopitno/zrelishtna-bitka-mezhdu-viktoriia-i-krasimir-opredelia-osmiia-finalist-v-igri-na-voliata-2473278",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51420/51420440/991-ratio-igri-na-voliata.jpg"
+    },
+    {
+      "title": "Задействаха BG-Alert заради катастрофа на пътя Русе - Разград, шофьор и дете са в болница (СНИМКИ)",
+      "url": "https://dariknews.bg/regioni/razgrad/zadejstvaha-bg-alert-zaradi-katastrofa-na-pytia-ruse-razgrad-shofior-i-dete-sa-v-bolnica-snimki-2473277",
+      "source": "DarikNews",
+      "section": "news",
+      "image": "https://m.netinfo.bg/media/images/51420/51420330/991-ratio-katastrofa.jpg"
+    },
+    {
+      "title": "Рила побеля: Белмекен се превърна в зимна приказка (СНИМКИ/ВИДЕО)",
+      "url": "https://dariknews.bg/novini/bylgariia/rila-pobelia-belmeken-se-prevyrna-v-zimna-prikazka-snimkivideo-2473276",
       "source": "DarikNews",
       "section": "news",
       "image": "https://m.netinfo.bg/media/images/51420/51420315/991-ratio-belmeken.jpg"
@@ -44,172 +142,74 @@
       "image": "https://m.netinfo.bg/media/images/51247/51247230/991-ratio-turciia-buria.jpg"
     },
     {
-      "title": "Военният „Спартан“ е в готовност да прибере пострадалите фенове на „Левски“ от Марсилия",
-      "url": "https://dariknews.bg/novini/bylgariia/voenniiat-spartan-e-v-gotovnost-da-pribere-postradalite-fenove-na-levski-ot-marsiliia-2473270",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://a.abv.bg/www/delivery/lg.php?bannerid=179289&campaignid=5578&zoneid=63"
-    },
-    {
-      "title": "Куриозен случай в Индия: Как магаре получи сертификат за медицинска сестра",
-      "url": "https://dariknews.bg/novini/liubopitno/kuriozen-sluchaj-v-indiia-kak-magare-poluchi-sertifikat-za-medicinska-sestra-2473269",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/39107/39107779/991-ratio-magare.jpg"
-    },
-    {
-      "title": "Нова атомна подводница влиза в руския флот, Путин обеща още пет до 2030 г.",
-      "url": "https://dariknews.bg/novini/sviat/nova-atomna-podvodnica-vliza-v-ruskiia-flot-putin-obeshta-oshte-pet-do-2030-g-2473268",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51420/51420279/991-ratio-putin.jpg"
-    },
-    {
-      "title": "Мъжете и жените под лупа: Кой се справя по-добре с няколко задачи едновременно",
-      "url": "https://dariknews.bg/novini/liubopitno/myzhete-i-zhenite-pod-lupa-koj-se-spravia-po-dobre-s-niakolko-zadachi-ednovremenno-2473159",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50096/50096707/991-ratio-myzhe-zheni.jpg"
-    },
-    {
-      "title": "Българите купуват предимно бензинови коли, докато Европа преминава на хибриди",
-      "url": "https://dariknews.bg/novini/biznes/bylgarite-kupuvat-predimno-benzinovi-koli-dokato-evropa-preminava-na-hibridi-2472832",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51417/51417644/991-ratio-avtomobili.jpg"
-    },
-    {
-      "title": "За здрави кости, силни мускули и остър ум: Топ ползи за здравето от яйцата",
-      "url": "https://dariknews.bg/novini/liubopitno/za-zdravi-kosti-silni-muskuli-i-ostyr-um-top-polzi-za-zdraveto-ot-iajcata-2472822",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51302/51302579/991-ratio-iajca-velikden.jpg"
-    },
-    {
-      "title": "Раждавица – сгушено по поречието на Струма село, съхранило духа на българския бит",
-      "url": "https://dariknews.bg/regioni/kiustendil/razhdavica-sgusheno-po-porechieto-na-struma-selo-syhranilo-duha-na-bylgarskiia-bit-2473227",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51420/51420033/991-ratio-razhdavica.jpg"
-    },
-    {
-      "title": "Готов ли е автомобилът за зимата? Какво да проверим преди първия сняг",
-      "url": "https://dariknews.bg/novini/bylgariia/gotov-li-e-avtomobilyt-za-zimata-kakvo-da-proverim-predi-pyrviia-sniag-2473215",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51419/51419981/991-ratio-kola-zima-zimni-usloviia.jpg"
-    },
-    {
-      "title": "Черимоята - екзотичният плод, който събира вкуса на няколко плода в едно",
-      "url": "https://dariknews.bg/novini/liubopitno/cherimoiata-ekzotichniiat-plod-kojto-sybira-vkusa-na-niakolko-ploda-v-edno-2473180",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51419/51419809/991-ratio-cherimoiata.jpg"
-    },
-    {
-      "title": "Умните очила на „Мета“ под лупа: Държави ограничават използването им",
-      "url": "https://dariknews.bg/novini/liubopitno/umnite-ochila-na-meta-pod-lupa-dyrzhavi-ogranichavat-izpolzvaneto-im-2473121",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/32730/32730760/991-ratio-ochila.jpg"
-    },
-    {
-      "title": "Турски град създава гастрономически център, който ще съхранява над 270 традиционни ястия",
-      "url": "https://dariknews.bg/novini/sviat/turski-grad-syzdava-gastronomicheski-centyr-kojto-shte-syhraniava-nad-270-tradicionni-iastiia-2472825",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51417/51417614/991-ratio-turska-hrana.jpg"
-    },
-    {
-      "title": "СЗО предупреждава за нов риск от морбили заради ниска ваксинация",
-      "url": "https://dariknews.bg/novini/sviat/szo-preduprezhdava-za-nov-risk-ot-morbili-zaradi-niska-vaksinaciia-2473260",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50837/50837390/991-ratio-morbili.jpg"
-    },
-    {
-      "title": "Отровни морски змии излизат на брега на плажовете в Южна Калифорния",
-      "url": "https://dariknews.bg/novini/sviat/otrovni-morski-zmii-izlizat-na-brega-na-plazhovete-v-iuzhna-kaliforniia-2473212",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/50791/50791770/991-ratio-zmiia.jpg"
-    },
-    {
-      "title": "Алис Вайдел: Мирът е невъзможен без териториални отстъпки от страна на Украйна",
-      "url": "https://dariknews.bg/novini/sviat/alis-vajdel-miryt-e-nevyzmozhen-bez-teritorialni-otstypki-ot-strana-na-ukrajna-2473261",
-      "source": "DarikNews",
-      "section": "news",
-      "image": "https://m.netinfo.bg/media/images/51153/51153635/991-ratio-rusiia-ukrajna-vojna.jpg"
-    },
-    {
-      "title": "На живо: Локомотив Пловдив – Спартак Варна 28 Ное | 12:50",
-      "url": "https://dsport.bg/na-zivo-lokomotiv-plovdiv-spartak-varna-sastavi~245832.html",
+      "title": "Разкритие: нашумял покрай боя срещу фенове на Левски се оказа близък до Марсилия (ВИДЕО) 28 Ное | 20:18",
+      "url": "https://dsport.bg/razkritie-nashumal-pokrai-boa-srestu-fenove-na-levski-se-okaza-blizak-do-marsilia-video~245884.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/mmamat.og.png"
+      "image": "https://dsport.bg/media/390/1064208.og.jpg"
     },
     {
-      "title": "Веласкес: Искам да изпратя силна прегръдка към цялото левскарско семейство! Мачът трябваше да бъде спрян (ВИДЕО) 28 Ное | 12:37",
-      "url": "https://dsport.bg/velaskes-iskam-da-izprata-silna-pregradka-kam-caloto-levskarsko-semeistvo-machat-trabvashe-da-bade-spran-video~245836.html",
+      "title": "Илиан Илиев: Хленченето на Балтанов не влиза в играта (ВИДЕО) 28 Ное | 19:57",
+      "url": "https://dsport.bg/ilian-iliev-hlencheneto-na-baltanov-ne-vliza-v-igrata-video~245883.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1015259~2.og.jpg"
+      "image": "https://dsport.bg/media/390/1064769~1.og.jpg"
     },
     {
-      "title": "Основен играч на Левски виси за дербито с Лудогорец 28 Ное | 12:29",
-      "url": "https://dsport.bg/osnoven-igrach-na-levski-visi-za-derbito-s-ludogorec~245835.html",
+      "title": "Военен самолет „Спартан“ излетя от летище „Васил Левски“ с екип от лекар и медицинска сестра 28 Ное | 19:46",
+      "url": "https://dsport.bg/voenen-samolet-spartan-izleta-ot-letiste-vasil-levski-s-ekip-ot-lekar-i-medicinska-sestra~245881.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1005801-1~1.og.jpg"
+      "image": "https://dsport.bg/media/390/6b0b06524c864_28_11_s.og.jpg"
     },
     {
-      "title": "Нико Пас постави ясни условия на Реал Мадрид за завръщането си, Манчестър Юнайтед дебне от засада 28 Ное | 12:17",
-      "url": "https://dsport.bg/niko-pas-postavi-asni-uslovia-na-real-madrid-za-zavrastaneto-si-manchestar-unaited-debne-ot-zasada~245834.html",
+      "title": "Балтанов: Пародия на футбол, какво да показваме на тая нива... 28 Ное | 19:43",
+      "url": "https://dsport.bg/baltanov-parodia-na-futbol-kakvo-da-pokazvame-na-taa-niva~245882.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/gettyimages-2294672278~1.og.jpg"
+      "image": "https://dsport.bg/media/390/926185-1~1.og.jpg"
     },
     {
-      "title": "Бруно Фернандеш с нов договор в Манчестър Юнайтед, но бъдещето му остава несигурно 28 Ное | 12:06",
-      "url": "https://dsport.bg/bruno-fernandesh-s-nov-dogovor-v-manchestar-unaited-no-badesteto-mu-ostava-nesigurno~245833.html",
+      "title": "Кал, вятър, дъжд и сняг на нивата „Тича“: Черно море разби Ботев Пловдив 28 Ное | 19:35",
+      "url": "https://dsport.bg/na-zivo-cherno-more-botev-plovdiv-sastavi~245862.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/gettyimages-2276693722-1~1.og.jpg"
+      "image": "https://dsport.bg/media/390/1064776.og.jpg"
     },
     {
-      "title": "Защитник на Черно море влиза в клуб „300“ на българския футбол 28 Ное | 11:58",
-      "url": "https://dsport.bg/zastitnik-na-cherno-more-vliza-v-klub-300-na-balgarskia-futbol~245831.html",
+      "title": "Атлетик Билбао оцеля в 7-голово зрелище срещу закъсалия Малага 28 Ное | 19:13",
+      "url": "https://dsport.bg/atletik-bilbao-ocela-v-7-golovo-zreliste-srestu-zakasalia-malaga~245880.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1042163~1.og.jpg"
+      "image": "https://dsport.bg/media/390/athletic-bilbao-s-laliga-final-score.og.png"
     },
     {
-      "title": "БФС е готов да окаже пълно съдействие и помощ на всички пострадали на “Стад Велодром” и техните близки 28 Ное | 11:50",
-      "url": "https://dsport.bg/bfs-e-gotov-da-okaze-palno-sadeistvie-i-pomost-na-vsichki-postradali-na-stad-velodrom-i-tehnite-blizki~245830.html",
+      "title": "Никола Цолов с ценни точки в спринта на „Лусаил“ 28 Ное | 19:05",
+      "url": "https://dsport.bg/ochakvaite-na-zivo-nikola-colov-tarsi-dobar-rezultat-v-sprinta-v-katar~245866.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064219~1.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307134566.og.jpg"
     },
     {
-      "title": "Фенове на Левски се прибраха в България след инцидентите в Марсилия 28 Ное | 11:47",
-      "url": "https://dsport.bg/fenove-na-levski-se-pribraha-v-balgaria-sled-incidentite-v-marsilia~245829.html",
+      "title": "Огромен резил за Почетино на „Олд Трафорд“: Брентфорд унизи Манчестър Юнайтед 28 Ное | 18:53",
+      "url": "https://dsport.bg/ogromen-rezil-za-pochetino-na-old-traford-brentford-unizi-manchestar-unaited~245879.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064175.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307258332.og.jpg"
     },
     {
-      "title": "От Франция съобщиха за двама ранени полицаи при инцидентите около Марсилия – Левски 28 Ное | 11:41",
-      "url": "https://dsport.bg/ot-francia-saobstiha-za-dvama-raneni-policai-pri-incidentite-okolo-marsilia-levski~245828.html",
+      "title": "Падерборн спря тока на Шалке, Кариус се сецна от вадене на топката от мрежата 28 Ное | 18:44",
+      "url": "https://dsport.bg/paderborn-spra-toka-na-shalke-karius-se-secna-ot-vadene-na-topkata-ot-mrezata~245878.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1064132~2.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307253828.og.jpg"
     },
     {
-      "title": "Двама фенове на Левски остават в болница в Марсилия след сблъсъците 28 Ное | 11:30",
-      "url": "https://dsport.bg/dvama-fenove-na-levski-ostavat-v-bolnica-v-marsilia-sled-sblasacite~245827.html",
+      "title": "„Козлите“ нанесоха историческа загуба на Лукас Петков и Елверсберг 28 Ное | 18:26",
+      "url": "https://dsport.bg/kozlite-nanesoha-istoricheska-zaguba-na-lukas-petkov-i-elversberg~245877.html",
       "source": "Dsport",
       "section": "sport",
-      "image": "https://dsport.bg/media/390/1062915-2.og.jpg"
+      "image": "https://dsport.bg/media/390/gettyimages-2307244501.og.jpg"
     }
   ]
 }
